@@ -1,0 +1,808 @@
+[
+ {
+  "id": "s5-025",
+  "level": 5,
+  "title": "{冷蔵庫|れいぞうこ}が{大好|だいす}きなねこ",
+  "title_en": "The Cat Who Loves the Fridge",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "わたしの{家|いえ}には、ミケという{白|しろ}いねこがいます。ミケは{冷蔵庫|れいぞうこ}が{大好|だいす}きです。{母|はは}が{冷蔵庫|れいぞうこ}を{開|あ}けると、ミケはすぐに{走|はし}って{来|き}ます。そして、{中|なか}をじっと{見|み}ます。",
+    "en": "At my house there is a white cat called Mike. Mike loves the fridge. When my mother opens the fridge, Mike comes running right away. Then she stares at the inside."
+   },
+   {
+    "jp": "ある{暑|あつ}い{夏|なつ}の{日|ひ}、{母|はは}は{冷蔵庫|れいぞうこ}をそうじしていました。{中|なか}のものを{全部|ぜんぶ}{出|だ}して、{冷蔵庫|れいぞうこ}をきれいにしました。それから、ものをまた{入|い}れて、ドアを{閉|し}めました。",
+    "en": "One hot summer day, my mother was cleaning the fridge. She took everything out and made the fridge clean. Then she put the things back in and closed the door."
+   },
+   {
+    "jp": "{十分|じゅっぷん}{後|ご}、ミケがいませんでした。わたしたちは{家|いえ}の{中|なか}をさがしました。ベッドの{下|した}にも、{庭|にわ}にも、いません。「ミケ！ミケ！」と{呼|よ}びました。すると、{台所|だいどころ}から{小|ちい}さい{声|こえ}が{聞|き}こえました。「にゃあ。」",
+    "en": "Ten minutes later, Mike was gone. We searched the house. She was not under the bed or in the garden. We called, \"Mike! Mike!\" Then a small voice came from the kitchen. \"Meow.\""
+   },
+   {
+    "jp": "{母|はは}が{冷蔵庫|れいぞうこ}を{開|あ}けました。ミケはバターのとなりにすわっていました。とても{冷|つめ}たくて、でも、うれしそうな{顔|かお}でした。",
+    "en": "My mother opened the fridge. Mike was sitting next to the butter. She was very cold, but she had a happy face."
+   },
+   {
+    "jp": "{今|いま}、わたしたちは{冷蔵庫|れいぞうこ}を{閉|し}める{前|まえ}に、いつも{中|なか}を{見|み}ます。ミケは{今|いま}も{冷蔵庫|れいぞうこ}が{大好|だいす}きです。",
+    "en": "Now we always look inside before we close the fridge. Mike still loves the fridge."
+   }
+  ],
+  "questions": [
+   {
+    "q": "ミケはどこにいましたか。",
+    "q_en": "Where was Mike?",
+    "options": [
+     "ベッドの{下|した}",
+     "{庭|にわ}",
+     "{冷蔵庫|れいぞうこ}の{中|なか}",
+     "{母|はは}の{部屋|へや}"
+    ],
+    "answer": 2,
+    "why": "Mike was sitting inside the fridge next to the butter."
+   },
+   {
+    "q": "{今|いま}、{家族|かぞく}は{何|なに}をしますか。",
+    "q_en": "What does the family do now?",
+    "options": [
+     "{閉|し}める{前|まえ}に{冷蔵庫|れいぞうこ}の{中|なか}を{見|み}ます",
+     "{冷蔵庫|れいぞうこ}を{毎日|まいにち}そうじします",
+     "バターを{買|か}いません",
+     "ミケを{庭|にわ}に{出|だ}します"
+    ],
+    "answer": 0,
+    "why": "They always check inside before closing the fridge."
+   }
+  ]
+ },
+ {
+  "id": "s5-026",
+  "level": 5,
+  "title": "なくした{傘|かさ}",
+  "title_en": "The Lost Umbrella",
+  "genre_raw": "Daily life",
+  "paragraphs": [
+   {
+    "jp": "たけしさんは{青|あお}い{傘|かさ}を{持|も}っています。{大学|だいがく}の{入学|にゅうがく}のときに、{母|はは}がくれた{傘|かさ}です。たけしさんはその{傘|かさ}がとても{好|す}きです。",
+    "en": "Takeshi has a blue umbrella. His mother gave it to him when he started university. Takeshi likes that umbrella very much."
+   },
+   {
+    "jp": "ある{雨|あめ}の{朝|あさ}、たけしさんは{電車|でんしゃ}で{大学|だいがく}へ{行|い}きました。{電車|でんしゃ}の{中|なか}で、{少|すこ}し{寝|ね}ました。{駅|えき}で{急|いそ}いで{降|お}りました。そのとき、{傘|かさ}を{電車|でんしゃ}にわすれました。",
+    "en": "One rainy morning, Takeshi went to university by train. He slept a little on the train. He got off at the station in a hurry. At that time, he left his umbrella on the train."
+   },
+   {
+    "jp": "{外|そと}は{雨|あめ}でした。たけしさんはコンビニで{新|あたら}しい{傘|かさ}を{買|か}いました。{白|しろ}くて、{安|やす}い{傘|かさ}です。でも、{青|あお}い{傘|かさ}のことを{考|かんが}えて、{少|すこ}しかなしくなりました。",
+    "en": "It was raining outside. Takeshi bought a new umbrella at a convenience store. It was a white, cheap umbrella. But he thought about the blue umbrella and felt a little sad."
+   },
+   {
+    "jp": "{夕方|ゆうがた}、たけしさんは{駅|えき}の{人|ひと}に{聞|き}きました。「{青|あお}い{傘|かさ}はありませんか。」{駅|えき}の{人|ひと}はにこにこして、{青|あお}い{傘|かさ}を{出|だ}しました。「これですか。」「はい！ありがとうございます！」",
+    "en": "In the evening, Takeshi asked a station worker, \"Is there a blue umbrella?\" The station worker smiled and brought out a blue umbrella. \"Is it this one?\" \"Yes! Thank you very much!\""
+   },
+   {
+    "jp": "たけしさんは{二本|にほん}の{傘|かさ}を{持|も}って、{家|いえ}へ{帰|かえ}りました。でも、そのとき、{雨|あめ}はもう{止|や}んでいました。",
+    "en": "Takeshi went home holding two umbrellas. But by then, the rain had already stopped."
+   }
+  ],
+  "questions": [
+   {
+    "q": "たけしさんはどこに{傘|かさ}をわすれましたか。",
+    "q_en": "Where did Takeshi leave his umbrella?",
+    "options": [
+     "コンビニ",
+     "{大学|だいがく}",
+     "{家|いえ}",
+     "{電車|でんしゃ}の{中|なか}"
+    ],
+    "answer": 3,
+    "why": "He fell asleep and left it on the train."
+   },
+   {
+    "q": "{青|あお}い{傘|かさ}はだれがくれましたか。",
+    "q_en": "Who gave him the blue umbrella?",
+    "options": [
+     "{駅|えき}の{人|ひと}",
+     "お{母|かあ}さん",
+     "{友|とも}だち",
+     "コンビニの{人|ひと}"
+    ],
+    "answer": 1,
+    "why": "His mother gave it to him when he started university."
+   },
+   {
+    "q": "{家|いえ}へ{帰|かえ}るとき、{何|なに}がおもしろかったですか。",
+    "q_en": "What was funny when he went home?",
+    "options": [
+     "{雨|あめ}が{止|や}んでいました",
+     "{傘|かさ}がこわれていました",
+     "{電車|でんしゃ}がありませんでした",
+     "{傘|かさ}が{三本|さんぼん}ありました"
+    ],
+    "answer": 0,
+    "why": "He had two umbrellas, but the rain had already stopped."
+   }
+  ]
+ },
+ {
+  "id": "s5-027",
+  "level": 5,
+  "title": "たんじょうびケーキの{大事件|だいじけん}",
+  "title_en": "The Birthday Cake Disaster",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "{今日|きょう}は{母|はは}のたんじょうびです。わたしと{弟|おとうと}は、{母|はは}にケーキを{作|つく}りました。{白|しろ}いクリームと{赤|あか}いいちごの、きれいなケーキです。",
+    "en": "Today is my mother's birthday. My little brother and I made a cake for her. It was a pretty cake with white cream and red strawberries."
+   },
+   {
+    "jp": "{夜|よる}、{母|はは}が{帰|かえ}って{来|き}ました。{弟|おとうと}は「ぼくが{持|も}って{行|い}く！」と{言|い}って、ケーキを{持|も}ちました。でも、{弟|おとうと}はねこのおもちゃを{踏|ふ}んで、{転|ころ}びました。",
+    "en": "In the evening, our mother came home. My brother said, \"I'll carry it!\" and picked up the cake. But he stepped on the cat's toy and fell over."
+   },
+   {
+    "jp": "ケーキは{床|ゆか}に{落|お}ちました。クリームは{弟|おとうと}の{顔|かお}と{頭|あたま}にもつきました。{弟|おとうと}は{泣|な}きそうな{顔|かお}をしました。わたしも{何|なに}も{言|い}えませんでした。",
+    "en": "The cake fell on the floor. Cream also got on my brother's face and head. My brother looked like he was about to cry. I couldn't say anything either."
+   },
+   {
+    "jp": "でも、{母|はは}は{大|おお}きい{声|こえ}で{笑|わら}いました。「{白|しろ}いひげのサンタさんですね！」{弟|おとうと}も{笑|わら}いました。わたしも{笑|わら}いました。",
+    "en": "But our mother laughed loudly. \"You look like Santa with a white beard!\" My brother laughed too. I laughed as well."
+   },
+   {
+    "jp": "そのあと、わたしたちはパンにのこったいちごをのせて、{三人|さんにん}で{食|た}べました。{母|はは}は「{一番|いちばん}おいしいたんじょうびです」と{言|い}いました。",
+    "en": "After that, we put the leftover strawberries on bread and ate it, the three of us. Our mother said, \"This is the most delicious birthday ever.\""
+   }
+  ],
+  "questions": [
+   {
+    "q": "どうしてケーキは{床|ゆか}に{落|お}ちましたか。",
+    "q_en": "Why did the cake fall on the floor?",
+    "options": [
+     "ねこが{食|た}べたから",
+     "{母|はは}が{落|お}としたから",
+     "{弟|おとうと}がおもちゃを{踏|ふ}んで{転|ころ}んだから",
+     "テーブルがこわれたから"
+    ],
+    "answer": 2,
+    "why": "The brother stepped on the cat's toy and fell."
+   },
+   {
+    "q": "お{母|かあ}さんはどうしましたか。",
+    "q_en": "What did the mother do?",
+    "options": [
+     "おこりました",
+     "{泣|な}きました",
+     "ケーキを{買|か}いに{行|い}きました",
+     "{大|おお}きい{声|こえ}で{笑|わら}いました"
+    ],
+    "answer": 3,
+    "why": "She laughed and said he looked like Santa."
+   }
+  ]
+ },
+ {
+  "id": "s5-028",
+  "level": 5,
+  "title": "{買|か}い{物|もの}に{行|い}く{犬|いぬ}",
+  "title_en": "The Dog Who Goes Shopping",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "おじいさんの{家|いえ}には、シロという{犬|いぬ}がいます。シロはとてもかしこい{犬|いぬ}です。{毎週|まいしゅう}{日曜日|にちようび}、シロは{一人|ひとり}でパン{屋|や}へ{行|い}きます。",
+    "en": "At Grandpa's house there is a dog called Shiro. Shiro is a very clever dog. Every Sunday, Shiro goes to the bakery by himself."
+   },
+   {
+    "jp": "シロは{口|くち}に{小|ちい}さいかばんを{持|も}って{行|い}きます。かばんの{中|なか}には、お{金|かね}と{紙|かみ}が{入|はい}っています。{紙|かみ}には「パンを{二|ふた}つください」と{書|か}いてあります。パン{屋|や}の{人|ひと}はパンをかばんに{入|い}れます。",
+    "en": "Shiro carries a small bag in his mouth. Inside the bag are money and a note. The note says, \"Two loaves of bread, please.\" The baker puts the bread in the bag."
+   },
+   {
+    "jp": "ある{日曜日|にちようび}、おじいさんは{紙|かみ}を{入|い}れるのをわすれました。かばんの{中|なか}はお{金|かね}だけです。でも、シロは{元気|げんき}に{出|で}かけました。",
+    "en": "One Sunday, Grandpa forgot to put the note in. There was only money in the bag. But Shiro set off happily anyway."
+   },
+   {
+    "jp": "{三十分|さんじゅっぷん}{後|ご}、シロが{帰|かえ}って{来|き}ました。おじいさんはかばんを{開|あ}けました。{中|なか}にはパンがありません。{大|おお}きい{肉|にく}が{入|はい}っていました！シロはパン{屋|や}のとなりの{肉屋|にくや}へ{行|い}きました。",
+    "en": "Thirty minutes later, Shiro came back. Grandpa opened the bag. There was no bread inside. There was a big piece of meat! Shiro had gone to the butcher next to the bakery."
+   },
+   {
+    "jp": "おじいさんは{笑|わら}って{言|い}いました。「シロ、それはきみの{晩|ばん}ごはんですね。」シロはしっぽを{振|ふ}りました。",
+    "en": "Grandpa laughed and said, \"Shiro, that's your dinner, isn't it?\" Shiro wagged his tail."
+   }
+  ],
+  "questions": [
+   {
+    "q": "いつもシロは{何|なに}を{買|か}いますか。",
+    "q_en": "What does Shiro usually buy?",
+    "options": [
+     "パン",
+     "{肉|にく}",
+     "{魚|さかな}",
+     "{牛乳|ぎゅうにゅう}"
+    ],
+    "answer": 0,
+    "why": "Every Sunday he buys two loaves of bread at the bakery."
+   },
+   {
+    "q": "その{日曜日|にちようび}、おじいさんは{何|なに}をわすれましたか。",
+    "q_en": "What did Grandpa forget that Sunday?",
+    "options": [
+     "お{金|かね}",
+     "かばん",
+     "シロのごはん",
+     "{紙|かみ}"
+    ],
+    "answer": 3,
+    "why": "He forgot to put the note in the bag."
+   },
+   {
+    "q": "シロはどこへ{行|い}きましたか。",
+    "q_en": "Where did Shiro go?",
+    "options": [
+     "パン{屋|や}",
+     "{肉屋|にくや}",
+     "{公園|こうえん}",
+     "{駅|えき}"
+    ],
+    "answer": 1,
+    "why": "Without the note, he went to the butcher and came back with meat."
+   }
+  ]
+ },
+ {
+  "id": "s5-029",
+  "level": 5,
+  "title": "コーヒーを{作|つく}るロボット",
+  "title_en": "The Coffee-Making Robot",
+  "genre_raw": "Sci-fi",
+  "paragraphs": [
+   {
+    "jp": "{父|ちち}は{新|あたら}しいロボットを{買|か}いました。{名前|なまえ}はロボくんです。ロボくんはコーヒーを{作|つく}るのがとても{上手|じょうず}です。{父|ちち}は{毎朝|まいあさ}、ロボくんのコーヒーを{飲|の}みます。",
+    "en": "My father bought a new robot. Its name is Robo-kun. Robo-kun is very good at making coffee. Every morning, my father drinks Robo-kun's coffee."
+   },
+   {
+    "jp": "でも、ロボくんはコーヒーを{作|つく}るのが{好|す}きすぎました。{朝|あさ}も、{昼|ひる}も、{夜|よる}も、コーヒーを{作|つく}ります。テーブルの{上|うえ}には、いつもコーヒーがたくさんあります。ある{日|ひ}は{二十杯|にじゅっぱい}もありました。",
+    "en": "But Robo-kun liked making coffee too much. It made coffee in the morning, at noon, and at night. There was always lots of coffee on the table. One day there were as many as twenty cups."
+   },
+   {
+    "jp": "{父|ちち}はコーヒーをたくさん{飲|の}みました。その{夜|よる}、{父|ちち}は{全然|ぜんぜん}{寝|ね}られませんでした。",
+    "en": "My father drank a lot of coffee. That night, he couldn't sleep at all."
+   },
+   {
+    "jp": "{次|つぎ}の{朝|あさ}、{父|ちち}は{言|い}いました。「ロボくん、コーヒーはもういいです。」ロボくんは「わかりました」と{言|い}いました。",
+    "en": "The next morning, my father said, \"Robo-kun, no more coffee.\" Robo-kun said, \"Understood.\""
+   },
+   {
+    "jp": "{昼|ひる}に{台所|だいどころ}へ{行|い}くと、テーブルの{上|うえ}に{二十杯|にじゅっぱい}のお{茶|ちゃ}がありました。ロボくんはうれしそうに{言|い}いました。「お{茶|ちゃ}をどうぞ！」",
+    "en": "When we went to the kitchen at noon, there were twenty cups of tea on the table. Robo-kun said happily, \"Please have some tea!\""
+   }
+  ],
+  "questions": [
+   {
+    "q": "ロボくんの{問題|もんだい}は{何|なん}ですか。",
+    "q_en": "What is Robo-kun's problem?",
+    "options": [
+     "コーヒーがおいしくないです",
+     "コーヒーを{作|つく}りすぎます",
+     "{朝|あさ}しか{動|うご}きません",
+     "お{茶|ちゃ}が{作|つく}れません"
+    ],
+    "answer": 1,
+    "why": "It made coffee morning, noon and night, sometimes twenty cups."
+   },
+   {
+    "q": "{父|ちち}が「もういいです」と{言|い}ったあと、ロボくんは{何|なに}をしましたか。",
+    "q_en": "What did Robo-kun do after Father said \"no more\"?",
+    "options": [
+     "{何|なに}も{作|つく}りませんでした",
+     "コーヒーを{一杯|いっぱい}だけ{作|つく}りました",
+     "{寝|ね}ました",
+     "お{茶|ちゃ}をたくさん{作|つく}りました"
+    ],
+    "answer": 3,
+    "why": "It stopped making coffee but made twenty cups of tea instead."
+   }
+  ]
+ },
+ {
+  "id": "s5-030",
+  "level": 5,
+  "title": "{雨|あめ}の{日|ひ}のピクニック",
+  "title_en": "A Rainy-Day Picnic",
+  "genre_raw": "Slice of life",
+  "paragraphs": [
+   {
+    "jp": "{日曜日|にちようび}に、{家族|かぞく}で{公園|こうえん}へピクニックに{行|い}きます。わたしは{一週間|いっしゅうかん}{前|まえ}から、とても{楽|たの}しみでした。{母|はは}はサンドイッチを{作|つく}りました。",
+    "en": "On Sunday, my family is going on a picnic in the park. I had been looking forward to it for a week. My mother made sandwiches."
+   },
+   {
+    "jp": "でも、{日曜日|にちようび}の{朝|あさ}、{外|そと}は{雨|あめ}でした。{強|つよ}い{雨|あめ}です。わたしは{窓|まど}の{外|そと}を{見|み}て、かなしくなりました。「ピクニック、{行|い}けないね……」",
+    "en": "But on Sunday morning, it was raining outside. It was heavy rain. I looked out the window and felt sad. \"We can't go on the picnic...\""
+   },
+   {
+    "jp": "すると、{母|はは}が{言|い}いました。「{大丈夫|だいじょうぶ}。ここでピクニックをしましょう。」{父|ちち}は{居間|いま}の{床|ゆか}に{大|おお}きいシートを{広|ひろ}げました。{弟|おとうと}は{紙|かみ}に{大|おお}きい{太陽|たいよう}をかいて、{壁|かべ}に{貼|は}りました。",
+    "en": "Then my mother said, \"It's fine. Let's have the picnic here.\" My father spread a big sheet on the living room floor. My little brother drew a big sun on paper and stuck it on the wall."
+   },
+   {
+    "jp": "わたしたちはシートの{上|うえ}でサンドイッチを{食|た}べて、ジュースを{飲|の}みました。ゲームもしました。とても{楽|たの}しかったです。",
+    "en": "We ate sandwiches and drank juice on the sheet. We also played games. It was a lot of fun."
+   },
+   {
+    "jp": "{午後|ごご}、{雨|あめ}が{止|や}みました。{窓|まど}の{外|そと}に、きれいなにじが{見|み}えました。{弟|おとうと}は「ぼくの{太陽|たいよう}のおかげだよ」と{言|い}いました。",
+    "en": "In the afternoon, the rain stopped. We could see a beautiful rainbow outside the window. My brother said, \"That's thanks to my sun.\""
+   }
+  ],
+  "questions": [
+   {
+    "q": "{家族|かぞく}はどこでピクニックをしましたか。",
+    "q_en": "Where did the family have the picnic?",
+    "options": [
+     "{家|いえ}の{居間|いま}",
+     "{公園|こうえん}",
+     "{学校|がっこう}",
+     "{車|くるま}の{中|なか}"
+    ],
+    "answer": 0,
+    "why": "It rained, so they had the picnic on the living room floor."
+   },
+   {
+    "q": "{弟|おとうと}は{何|なに}をかきましたか。",
+    "q_en": "What did the little brother draw?",
+    "options": [
+     "にじ",
+     "{雨|あめ}",
+     "{太陽|たいよう}",
+     "サンドイッチ"
+    ],
+    "answer": 2,
+    "why": "He drew a big sun and put it on the wall."
+   }
+  ]
+ },
+ {
+  "id": "s5-031",
+  "level": 5,
+  "title": "まちがえた{電車|でんしゃ}",
+  "title_en": "The Wrong Train",
+  "genre_raw": "Travel",
+  "paragraphs": [
+   {
+    "jp": "{土曜日|どようび}、けんたさんは{友|とも}だちのゆみさんに{会|あ}いに{行|い}きました。{二人|ふたり}は{町|まち}の{駅|えき}で{十一時|じゅういちじ}に{会|あ}います。けんたさんは{急|いそ}いで{電車|でんしゃ}に{乗|の}りました。",
+    "en": "On Saturday, Kenta went to meet his friend Yumi. The two were meeting at the station in town at eleven. Kenta hurried and got on a train."
+   },
+   {
+    "jp": "{電車|でんしゃ}の{中|なか}は{静|しず}かで、{暖|あたた}かかったです。けんたさんはすぐに{寝|ね}てしまいました。{起|お}きたとき、{窓|まど}の{外|そと}に{青|あお}い{海|うみ}が{見|み}えました。「えっ？ここはどこ？」",
+    "en": "It was quiet and warm inside the train. Kenta soon fell asleep. When he woke up, he could see the blue sea outside the window. \"What? Where am I?\""
+   },
+   {
+    "jp": "けんたさんはちがう{電車|でんしゃ}に{乗|の}っていました。もう{十二時|じゅうにじ}です。けんたさんはゆみさんに{電話|でんわ}をしました。「ごめんなさい。{今|いま}、{海|うみ}の{近|ちか}くの{駅|えき}にいます。」",
+    "en": "Kenta had been on a different train. It was already twelve o'clock. Kenta called Yumi. \"I'm sorry. I'm at a station near the sea now.\""
+   },
+   {
+    "jp": "ゆみさんは{笑|わら}って{言|い}いました。「{海|うみ}？いいですね。わたしもそこへ{行|い}きます。」{一時間|いちじかん}{後|ご}、ゆみさんが{来|き}ました。{二人|ふたり}は{海|うみ}を{見|み}ながら、おいしい{魚|さかな}を{食|た}べました。",
+    "en": "Yumi laughed and said, \"The sea? That sounds nice. I'll come there too.\" An hour later, Yumi arrived. The two of them ate delicious fish while looking at the sea."
+   },
+   {
+    "jp": "{帰|かえ}りの{電車|でんしゃ}で、ゆみさんは{言|い}いました。「{来月|らいげつ}も、また{電車|でんしゃ}をまちがえてくださいね。」",
+    "en": "On the train home, Yumi said, \"Please take the wrong train again next month, okay?\""
+   }
+  ],
+  "questions": [
+   {
+    "q": "どうしてけんたさんはちがう{駅|えき}へ{行|い}きましたか。",
+    "q_en": "Why did Kenta go to a different station?",
+    "options": [
+     "ゆみさんが{海|うみ}へ{行|い}きたかったから",
+     "ちがう{電車|でんしゃ}に{乗|の}って、{寝|ね}てしまったから",
+     "{駅|えき}が{閉|し}まっていたから",
+     "{魚|さかな}が{食|た}べたかったから"
+    ],
+    "answer": 1,
+    "why": "He got on the wrong train and fell asleep."
+   },
+   {
+    "q": "ゆみさんは{電話|でんわ}のあと、どうしましたか。",
+    "q_en": "What did Yumi do after the call?",
+    "options": [
+     "おこって{家|いえ}に{帰|かえ}りました",
+     "{町|まち}の{駅|えき}で{待|ま}ちました",
+     "けんたさんに{来|き}てもらいました",
+     "{海|うみ}の{近|ちか}くの{駅|えき}へ{行|い}きました"
+    ],
+    "answer": 3,
+    "why": "She laughed and went to the station by the sea."
+   }
+  ]
+ },
+ {
+  "id": "s5-032",
+  "level": 5,
+  "title": "{静|しず}かな{図書館|としょかん}とうるさい{電話|でんわ}",
+  "title_en": "The Quiet Library and the Loud Phone",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "{図書館|としょかん}はとても{静|しず}かです。{学生|がくせい}は{本|ほん}を{読|よ}んだり、{勉強|べんきょう}したりしています。{入口|いりぐち}には「{電話|でんわ}は{使|つか}わないでください」と{書|か}いてあります。",
+    "en": "The library is very quiet. Students are reading books and studying. At the entrance, a sign says, \"Please do not use phones.\""
+   },
+   {
+    "jp": "そのとき、{大|おお}きい{音|おと}が{聞|き}こえました。「にゃにゃにゃ！にゃんにゃん！」ねこの{歌|うた}です。だれかの{電話|でんわ}が{鳴|な}っています。",
+    "en": "Just then, a loud sound was heard. \"Nya-nya-nya! Nyan-nyan!\" It was a cat song. Someone's phone was ringing."
+   },
+   {
+    "jp": "みんなは{窓|まど}の{近|ちか}くにいる{男|おとこ}の{人|ひと}を{見|み}ました。{男|おとこ}の{人|ひと}はかばんの{中|なか}を{見|み}ました。でも、{首|くび}を{振|ふ}りました。「わたしのじゃありません。」",
+    "en": "Everyone looked at the man near the window. The man looked in his bag. But he shook his head. \"It's not mine.\""
+   },
+   {
+    "jp": "{歌|うた}はまだ{聞|き}こえます。みんなは{周|まわ}りを{見|み}ました。すると、{図書館|としょかん}の{人|ひと}がカウンターの{下|した}から{電話|でんわ}を{出|だ}しました。{顔|かお}が{真|ま}っ{赤|か}でした。",
+    "en": "The song could still be heard. Everyone looked around. Then the librarian took a phone out from under the counter. Her face was bright red."
+   },
+   {
+    "jp": "「すみません……わたしの{電話|でんわ}でした。」{図書館|としょかん}の{人|ひと}は{小|ちい}さい{声|こえ}で{言|い}いました。みんなは{声|こえ}を{出|だ}さないで、{笑|わら}いました。",
+    "en": "\"I'm sorry... it was my phone,\" the librarian said in a small voice. Everyone laughed without making a sound."
+   }
+  ],
+  "questions": [
+   {
+    "q": "だれの{電話|でんわ}が{鳴|な}りましたか。",
+    "q_en": "Whose phone rang?",
+    "options": [
+     "{図書館|としょかん}の{人|ひと}",
+     "{窓|まど}の{近|ちか}くの{男|おとこ}の{人|ひと}",
+     "{学生|がくせい}",
+     "わかりません"
+    ],
+    "answer": 0,
+    "why": "The librarian took the phone out from under the counter."
+   },
+   {
+    "q": "{電話|でんわ}はどんな{音|おと}でしたか。",
+    "q_en": "What sound did the phone make?",
+    "options": [
+     "{犬|いぬ}の{声|こえ}",
+     "ねこの{歌|うた}",
+     "{静|しず}かな{音楽|おんがく}",
+     "{電車|でんしゃ}の{音|おと}"
+    ],
+    "answer": 1,
+    "why": "It played a loud cat song."
+   }
+  ]
+ },
+ {
+  "id": "s5-033",
+  "level": 5,
+  "title": "おばあちゃんの{初|はじ}めてのスマホ",
+  "title_en": "Grandma's First Smartphone",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "わたしのおばあちゃんは{七十五歳|ななじゅうごさい}です。{先月|せんげつ}、{初|はじ}めてスマホを{買|か}いました。でも、{使|つか}い{方|かた}がわかりません。わたしは{毎週|まいしゅう}、おばあちゃんの{家|いえ}へ{行|い}って、{教|おし}えました。",
+    "en": "My grandma is seventy-five. Last month, she bought a smartphone for the first time. But she didn't know how to use it. Every week, I went to her house and taught her."
+   },
+   {
+    "jp": "{最初|さいしょ}は{写真|しゃしん}の{撮|と}り{方|かた}を{教|おし}えました。おばあちゃんはとても{喜|よろこ}びました。その{夜|よる}、わたしのスマホに{写真|しゃしん}が{五十枚|ごじゅうまい}{来|き}ました。{全部|ぜんぶ}、おばあちゃんのねこの{写真|しゃしん}でした。",
+    "en": "First, I taught her how to take photos. Grandma was very happy. That night, fifty photos arrived on my phone. They were all photos of Grandma's cat."
+   },
+   {
+    "jp": "{次|つぎ}の{週|しゅう}は、メッセージの{送|おく}り{方|かた}を{教|おし}えました。{次|つぎ}の{日|ひ}の{朝|あさ}{六時|ろくじ}、メッセージが{来|き}ました。「おはよう！{今日|きょう}はいい{天気|てんき}ですよ！」{七時|しちじ}にも、{八時|はちじ}にも、{来|き}ました。",
+    "en": "The next week, I taught her how to send messages. At six the next morning, a message came. \"Good morning! It's nice weather today!\" More came at seven and at eight."
+   },
+   {
+    "jp": "{今|いま}、おばあちゃんはわたしよりたくさんメッセージを{送|おく}ります。{友|とも}だちとビデオで{話|はな}すこともできます。",
+    "en": "Now Grandma sends more messages than I do. She can even video chat with her friends."
+   },
+   {
+    "jp": "{昨日|きのう}、おばあちゃんからメッセージが{来|き}ました。「{勉強|べんきょう}は{終|お}わりましたか。スマホばかり{見|み}ないでくださいね。」",
+    "en": "Yesterday, a message came from Grandma. \"Have you finished studying? Don't look at your phone all the time, okay?\""
+   }
+  ],
+  "questions": [
+   {
+    "q": "おばあちゃんは{最初|さいしょ}に{何|なに}を{送|おく}りましたか。",
+    "q_en": "What did Grandma send first?",
+    "options": [
+     "{天気|てんき}のメッセージ",
+     "ビデオ",
+     "ねこの{写真|しゃしん}",
+     "{友|とも}だちの{写真|しゃしん}"
+    ],
+    "answer": 2,
+    "why": "She sent fifty photos of her cat."
+   },
+   {
+    "q": "{昨日|きのう}のメッセージは、どうしておもしろいですか。",
+    "q_en": "Why is yesterday's message funny?",
+    "options": [
+     "おばあちゃんもスマホをたくさん{使|つか}っているから",
+     "おばあちゃんは{勉強|べんきょう}が{好|す}きだから",
+     "メッセージが{朝|あさ}{六時|ろくじ}に{来|き}たから",
+     "おばあちゃんはスマホが{嫌|きら}いだから"
+    ],
+    "answer": 0,
+    "why": "Grandma now uses her phone a lot but tells her grandchild not to."
+   }
+  ]
+ },
+ {
+  "id": "s5-034",
+  "level": 5,
+  "title": "{夏|なつ}の{海|うみ}",
+  "title_en": "A Summer Day at the Sea",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "{八月|はちがつ}のとても{暑|あつ}い{日|ひ}に、{家族|かぞく}で{海|うみ}へ{行|い}きました。{空|そら}も{海|うみ}も{青|あお}くて、きれいでした。わたしと{妹|いもうと}はすぐに{海|うみ}で{泳|およ}ぎました。",
+    "en": "On a very hot day in August, my family went to the sea. The sky and the sea were blue and beautiful. My little sister and I went swimming in the sea right away."
+   },
+   {
+    "jp": "{父|ちち}は{泳|およ}ぎませんでした。「お{父|とう}さんは{疲|つか}れました」と{言|い}って、すなの{上|うえ}に{寝|ね}ました。{妹|いもうと}は「お{父|とう}さんをすなに{入|い}れよう！」と{言|い}いました。",
+    "en": "My father didn't swim. He said, \"Dad is tired,\" and lay down on the sand. My sister said, \"Let's bury Dad in the sand!\""
+   },
+   {
+    "jp": "わたしたちは{父|ちち}の{体|からだ}にすなをたくさんかけました。{父|ちち}の{顔|かお}だけが{出|で}ていました。{父|ちち}は{気持|きも}ちがよくて、そのまま{寝|ね}てしまいました。",
+    "en": "We piled lots of sand on our father's body. Only his face was showing. It felt nice, so he fell asleep just like that."
+   },
+   {
+    "jp": "{二時間|にじかん}{後|ご}、{父|ちち}は{起|お}きました。{父|ちち}の{顔|かお}は{真|ま}っ{赤|か}でした。でも、{体|からだ}は{白|しろ}いままでした。",
+    "en": "Two hours later, our father woke up. His face was bright red. But his body was still white."
+   },
+   {
+    "jp": "{家|いえ}に{帰|かえ}って、{母|はは}は{父|ちち}を{見|み}て{笑|わら}いました。「トマトみたいですね。」{父|ちち}は「{来年|らいねん}はぼうしを{持|も}って{行|い}きます」と{言|い}いました。",
+    "en": "When we got home, my mother looked at my father and laughed. \"You look like a tomato.\" My father said, \"Next year I'll take a hat.\""
+   }
+  ],
+  "questions": [
+   {
+    "q": "{父|ちち}は{海|うみ}で{何|なに}をしましたか。",
+    "q_en": "What did Father do at the sea?",
+    "options": [
+     "たくさん{泳|およ}ぎました",
+     "すなの{中|なか}で{寝|ね}ました",
+     "{魚|さかな}を{釣|つ}りました",
+     "ぼうしを{買|か}いました"
+    ],
+    "answer": 1,
+    "why": "The children buried him in sand and he fell asleep."
+   },
+   {
+    "q": "どうして{父|ちち}の{顔|かお}だけ{赤|あか}くなりましたか。",
+    "q_en": "Why did only Father's face turn red?",
+    "options": [
+     "{泳|およ}いだから",
+     "トマトを{食|た}べたから",
+     "おこったから",
+     "{体|からだ}はすなの{中|なか}だったから"
+    ],
+    "answer": 3,
+    "why": "His body was under the sand, so only his face got sunburned."
+   }
+  ]
+ },
+ {
+  "id": "s5-035",
+  "level": 5,
+  "title": "{雪|ゆき}だるま",
+  "title_en": "The Snowman",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "{朝|あさ}{起|お}きると、{外|そと}は{真|ま}っ{白|しろ}でした。{雪|ゆき}がたくさん{降|ふ}りました。わたしと{兄|あに}は{家|いえ}の{前|まえ}で、{大|おお}きい{雪|ゆき}だるまを{作|つく}りました。",
+    "en": "When I woke up in the morning, everything outside was white. A lot of snow had fallen. My older brother and I built a big snowman in front of the house."
+   },
+   {
+    "jp": "{雪|ゆき}だるまの{目|め}は{黒|くろ}い{石|いし}です。{鼻|はな}はにんじんです。{兄|あに}は{家|いえ}から{黒|くろ}いぼうしと{赤|あか}いマフラーを{持|も}って{来|き}て、{雪|ゆき}だるまにつけました。とてもかっこよくなりました。",
+    "en": "The snowman's eyes were black stones. Its nose was a carrot. My brother brought a black hat and a red scarf from the house and put them on the snowman. It looked really cool."
+   },
+   {
+    "jp": "そのとき、{家|いえ}の{中|なか}から{父|ちち}の{声|こえ}が{聞|き}こえました。「あれ？ぼくのぼうしとマフラーはどこ？もう{会社|かいしゃ}に{行|い}く{時間|じかん}です！」",
+    "en": "Just then, we heard our father's voice from inside the house. \"Huh? Where are my hat and scarf? It's already time to go to work!\""
+   },
+   {
+    "jp": "{兄|あに}とわたしは{顔|かお}を{見|み}ました。{父|ちち}が{外|そと}に{出|で}て{来|き}て、{雪|ゆき}だるまを{見|み}ました。{父|ちち}は{少|すこ}し{黙|だま}って、それから{笑|わら}いました。",
+    "en": "My brother and I looked at each other. Our father came outside and saw the snowman. He was quiet for a moment, and then he laughed."
+   },
+   {
+    "jp": "「{今日|きょう}は{寒|さむ}いですから、{雪|ゆき}だるまさんに{貸|か}します。」{父|ちち}はそう{言|い}って、{寒|さむ}そうに{会社|かいしゃ}へ{行|い}きました。",
+    "en": "\"It's cold today, so I'll lend them to Mr. Snowman.\" Saying that, our father went to work looking cold."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{雪|ゆき}だるまのぼうしとマフラーは、だれのものでしたか。",
+    "q_en": "Whose hat and scarf did the snowman have?",
+    "options": [
+     "{兄|あに}",
+     "わたし",
+     "{母|はは}",
+     "{父|ちち}"
+    ],
+    "answer": 3,
+    "why": "The brother took Father's hat and scarf from the house."
+   },
+   {
+    "q": "{父|ちち}はどうしましたか。",
+    "q_en": "What did Father do?",
+    "options": [
+     "おこって、ぼうしを{取|と}りました",
+     "{笑|わら}って、{雪|ゆき}だるまに{貸|か}しました",
+     "{会社|かいしゃ}を{休|やす}みました",
+     "{新|あたら}しいマフラーを{買|か}いました"
+    ],
+    "answer": 1,
+    "why": "He laughed and let the snowman keep them for the day."
+   }
+  ]
+ },
+ {
+  "id": "s5-036",
+  "level": 5,
+  "title": "{新|あたら}しい{自転車|じてんしゃ}",
+  "title_en": "The New Bicycle",
+  "genre_raw": "Daily life",
+  "paragraphs": [
+   {
+    "jp": "はなちゃんは{七歳|ななさい}のたんじょうびに、{赤|あか}い{自転車|じてんしゃ}をもらいました。ぴかぴかの{新|あたら}しい{自転車|じてんしゃ}です。はなちゃんはとてもうれしかったです。",
+    "en": "On her seventh birthday, Hana got a red bicycle. It was a shiny new bicycle. Hana was very happy."
+   },
+   {
+    "jp": "でも、はなちゃんは{自転車|じてんしゃ}に{乗|の}れませんでした。{乗|の}ると、すぐに{倒|たお}れます。{足|あし}が{痛|いた}くなって、{少|すこ}し{泣|な}きました。",
+    "en": "But Hana couldn't ride a bicycle. When she got on, she fell over right away. Her legs hurt, and she cried a little."
+   },
+   {
+    "jp": "それから{毎日|まいにち}、{父|ちち}と{公園|こうえん}で{練習|れんしゅう}しました。{父|ちち}はうしろで{自転車|じてんしゃ}を{持|も}って、いっしょに{走|はし}りました。「{前|まえ}を{見|み}て！だいじょうぶ、{持|も}っているよ！」",
+    "en": "After that, she practised in the park with her father every day. Her father held the bicycle from behind and ran with her. \"Look ahead! It's okay, I'm holding on!\""
+   },
+   {
+    "jp": "{一週間|いっしゅうかん}{後|ご}、はなちゃんは{公園|こうえん}を{一周|いっしゅう}しました。「お{父|とう}さん、ちゃんと{持|も}っていてね！」と{言|い}って、うしろを{見|み}ました。",
+    "en": "A week later, Hana rode all the way around the park. \"Dad, keep holding on properly!\" she said, and looked behind her."
+   },
+   {
+    "jp": "でも、{父|ちち}はずっと{遠|とお}くで{手|て}を{振|ふ}っていました。はなちゃんはもう、{一人|ひとり}で{乗|の}れるようになっていました。",
+    "en": "But her father was far away, waving his hand. Hana could already ride by herself."
+   }
+  ],
+  "questions": [
+   {
+    "q": "はなちゃんはどこで{練習|れんしゅう}しましたか。",
+    "q_en": "Where did Hana practise?",
+    "options": [
+     "{公園|こうえん}",
+     "{学校|がっこう}",
+     "{家|いえ}の{中|なか}",
+     "{駅|えき}の{前|まえ}"
+    ],
+    "answer": 0,
+    "why": "She practised in the park with her father every day."
+   },
+   {
+    "q": "{最後|さいご}に、はなちゃんは{何|なに}がわかりましたか。",
+    "q_en": "What did Hana realise at the end?",
+    "options": [
+     "{自転車|じてんしゃ}がこわれていました",
+     "{父|ちち}も{自転車|じてんしゃ}に{乗|の}っていました",
+     "{一人|ひとり}で{乗|の}っていました",
+     "{足|あし}が{痛|いた}かったです"
+    ],
+    "answer": 2,
+    "why": "Her father had let go long ago; she was riding alone."
+   }
+  ]
+ },
+ {
+  "id": "s5-037",
+  "level": 5,
+  "title": "ねむい{先生|せんせい}",
+  "title_en": "The Sleepy Teacher",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "{山田|やまだ}{先生|せんせい}はわたしたちの{英語|えいご}の{先生|せんせい}です。やさしくて、おもしろい{先生|せんせい}です。でも、{月曜日|げつようび}の{朝|あさ}は、いつもとてもねむそうです。",
+    "en": "Mr. Yamada is our English teacher. He is a kind and funny teacher. But on Monday mornings, he always looks very sleepy."
+   },
+   {
+    "jp": "ある{月曜日|げつようび}、{先生|せんせい}は{大|おお}きいあくびをしました。すると、{前|まえ}の{学生|がくせい}もあくびをしました。それから、クラスのみんなもあくびをしました。",
+    "en": "One Monday, the teacher gave a big yawn. Then the student in front also yawned. After that, everyone in the class yawned too."
+   },
+   {
+    "jp": "{先生|せんせい}は「{今日|きょう}は{教科書|きょうかしょ}を{静|しず}かに{読|よ}んでください」と{言|い}って、いすにすわりました。みんなは{本|ほん}を{読|よ}みました。{教室|きょうしつ}はとても{静|しず}かでした。",
+    "en": "The teacher said, \"Today, please read your textbooks quietly,\" and sat down on his chair. Everyone read. The classroom was very quiet."
+   },
+   {
+    "jp": "{二十分|にじゅっぷん}{後|ご}、{小|ちい}さい{音|おと}が{聞|き}こえました。「ぐう……ぐう……」{先生|せんせい}が{寝|ね}ていました！みんなは{笑|わら}いたかったですが、{声|こえ}を{出|だ}しませんでした。",
+    "en": "Twenty minutes later, we heard a small sound. \"Zzz... zzz...\" The teacher was asleep! Everyone wanted to laugh, but nobody made a sound."
+   },
+   {
+    "jp": "チャイムが{鳴|な}って、{先生|せんせい}は{起|お}きました。「みなさん、よく{勉強|べんきょう}しましたね。」すると、クラスの{一人|ひとり}が{言|い}いました。「{先生|せんせい}も、よく{寝|ね}ましたね。」",
+    "en": "The bell rang and the teacher woke up. \"Everyone, you studied well.\" Then one student in the class said, \"You slept well too, sir.\""
+   }
+  ],
+  "questions": [
+   {
+    "q": "{先生|せんせい}があくびをしたあと、どうなりましたか。",
+    "q_en": "What happened after the teacher yawned?",
+    "options": [
+     "{先生|せんせい}はうちに{帰|かえ}りました",
+     "みんなもあくびをしました",
+     "テストが{始|はじ}まりました",
+     "みんなは{寝|ね}ました"
+    ],
+    "answer": 1,
+    "why": "The student in front yawned, and then the whole class yawned."
+   },
+   {
+    "q": "{教科書|きょうかしょ}を{読|よ}んでいるとき、{先生|せんせい}は{何|なに}をしていましたか。",
+    "q_en": "What was the teacher doing while the class read?",
+    "options": [
+     "{本|ほん}を{読|よ}んでいました",
+     "{歌|うた}を{歌|うた}っていました",
+     "{黒板|こくばん}に{書|か}いていました",
+     "{寝|ね}ていました"
+    ],
+    "answer": 3,
+    "why": "The class heard him snoring in his chair."
+   }
+  ]
+ },
+ {
+  "id": "s5-038",
+  "level": 5,
+  "title": "{自動販売機|じどうはんばいき}のびっくり",
+  "title_en": "The Vending Machine Surprise",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "{七月|しちがつ}のとても{暑|あつ}い{日|ひ}でした。ゆうたくんはサッカーの{練習|れんしゅう}のあと、のどがかわきました。{公園|こうえん}の{前|まえ}に{自動販売機|じどうはんばいき}があります。",
+    "en": "It was a very hot day in July. After soccer practice, Yuta was thirsty. There is a vending machine in front of the park."
+   },
+   {
+    "jp": "ゆうたくんはお{金|かね}を{入|い}れて、{冷|つめ}たいオレンジジュースのボタンを{押|お}しました。ガタン！でも、{出|で}て{来|き}たのは{熱|あつ}いコーンスープでした。「えっ？どうして？」",
+    "en": "Yuta put in money and pressed the button for cold orange juice. Clunk! But what came out was hot corn soup. \"What? Why?\""
+   },
+   {
+    "jp": "そのとき、{自動販売機|じどうはんばいき}から{音楽|おんがく}が{聞|き}こえました。「あたり！もう{一本|いっぽん}どうぞ！」ゆうたくんはよろこんで、もう{一度|いちど}オレンジジュースのボタンをゆっくり{押|お}しました。",
+    "en": "Just then, music came from the vending machine. \"You win! Have one more!\" Yuta was pleased, and carefully pressed the orange juice button once more."
+   },
+   {
+    "jp": "ガタン！{出|で}て{来|き}たのは、また{熱|あつ}いコーンスープでした。",
+    "en": "Clunk! What came out was hot corn soup again."
+   },
+   {
+    "jp": "ゆうたくんは{二本|にほん}のスープを{持|も}って、{笑|わら}いました。そして、{友|とも}だちに{一本|いっぽん}あげました。{二人|ふたり}は{暑|あつ}い{公園|こうえん}で、{汗|あせ}をかきながら{熱|あつ}いスープを{飲|の}みました。",
+    "en": "Yuta held the two cans of soup and laughed. Then he gave one to his friend. The two of them drank hot soup in the hot park, sweating."
+   }
+  ],
+  "questions": [
+   {
+    "q": "ゆうたくんは{何|なに}を{飲|の}みたかったですか。",
+    "q_en": "What did Yuta want to drink?",
+    "options": [
+     "{冷|つめ}たいオレンジジュース",
+     "{熱|あつ}いコーンスープ",
+     "{冷|つめ}たい{水|みず}",
+     "{熱|あつ}いお{茶|ちゃ}"
+    ],
+    "answer": 0,
+    "why": "He pressed the button for cold orange juice."
+   },
+   {
+    "q": "{二回目|にかいめ}に{何|なに}が{出|で}て{来|き}ましたか。",
+    "q_en": "What came out the second time?",
+    "options": [
+     "オレンジジュース",
+     "お{金|かね}",
+     "コーンスープ",
+     "{何|なに}も{出|で}ませんでした"
+    ],
+    "answer": 2,
+    "why": "Hot corn soup came out again."
+   },
+   {
+    "q": "ゆうたくんはスープをどうしましたか。",
+    "q_en": "What did Yuta do with the soup?",
+    "options": [
+     "{自動販売機|じどうはんばいき}に{返|かえ}しました",
+     "{家|いえ}に{持|も}って{帰|かえ}りました",
+     "{捨|す}てました",
+     "{一本|いっぽん}を{友|とも}だちにあげました"
+    ],
+    "answer": 3,
+    "why": "He gave one can to his friend and they drank it together."
+   }
+  ]
+ }
+]

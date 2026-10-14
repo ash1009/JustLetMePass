@@ -1,0 +1,494 @@
+[
+ {
+  "id": "l2-01",
+  "level": 2,
+  "title_raw": "Preparing for a Meeting",
+  "kind": "task",
+  "setup": "{会社|かいしゃ}で{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はこのあとまず{何|なに}をしなければなりませんか。",
+  "lines": [
+   {
+    "s": "F",
+    "jp": "{田中|たなか}さん、{明日|あした}の{会議|かいぎ}の{準備|じゅんび}、どうなってる？"
+   },
+   {
+    "s": "M",
+    "jp": "{資料|しりょう}はもうできているので、これから{人数分|にんずうぶん}コピーしようと{思|おも}っていました。"
+   },
+   {
+    "s": "F",
+    "jp": "あ、コピーは{明日|あした}の{朝|あさ}でいいよ。{部長|ぶちょう}が{数字|すうじ}を{少|すこ}し{直|なお}すかもしれないって。それより、{会議室|かいぎしつ}の{予約|よやく}はした？"
+   },
+   {
+    "s": "M",
+    "jp": "あ、まだです。"
+   },
+   {
+    "s": "F",
+    "jp": "{午後|ごご}は{埋|う}まりやすいから、{先|さき}にそっちをお{願|ねが}い。プロジェクターの{確認|かくにん}はそのあとでいいから。"
+   },
+   {
+    "s": "M",
+    "jp": "わかりました。すぐやります。"
+   }
+  ],
+  "question": "{男|おとこ}の{人|ひと}はこのあとまず{何|なに}をしなければなりませんか。",
+  "q_en": "What must the man do first?",
+  "options": [
+   "{資料|しりょう}をコピーする",
+   "{会議室|かいぎしつ}を{予約|よやく}する",
+   "プロジェクターを{確認|かくにん}する",
+   "{部長|ぶちょう}に{数字|すうじ}を{確認|かくにん}する"
+  ],
+  "answer": 1,
+  "en": "F: Tanaka, how are preparations for tomorrow's meeting going?\nM: The materials are ready, so I was about to make copies for everyone.\nF: Oh, you can copy them tomorrow morning. The manager said he might change some numbers. More importantly, did you book the meeting room?\nM: Oh, not yet.\nF: Afternoons fill up quickly, so please do that first. You can check the projector after that.\nM: Understood. I'll do it right away.",
+  "why": "The woman tells him to book the meeting room first."
+ },
+ {
+  "id": "l2-02",
+  "level": 2,
+  "title_raw": "Recycling Day",
+  "kind": "task",
+  "setup": "マンションの{管理人|かんりにん}と{女|おんな}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}は{古|ふる}い{雑誌|ざっし}をどうしますか。",
+  "lines": [
+   {
+    "s": "F",
+    "jp": "すみません、{古|ふる}い{雑誌|ざっし}がたくさんあるんですが、いつ{出|だ}せばいいですか。"
+   },
+   {
+    "s": "M",
+    "jp": "{紙|かみ}の{資源|しげん}ごみは{第二|だいに}と{第四|だいよん}{水曜日|すいようび}です。ひもで{縛|しば}って{出|だ}してください。"
+   },
+   {
+    "s": "F",
+    "jp": "{今週|こんしゅう}の{水曜日|すいようび}は{第三|だいさん}ですよね。{来週|らいしゅう}まで{待|ま}たないといけませんか。"
+   },
+   {
+    "s": "M",
+    "jp": "ええ。でも、{量|りょう}が{多|おお}いなら、{駅前|えきまえ}のスーパーに{回収|かいしゅう}ボックスがありますよ。そちらならいつでも{出|だ}せます。"
+   },
+   {
+    "s": "F",
+    "jp": "そうなんですか。{部屋|へや}に{置|お}いておくと{邪魔|じゃま}なので、{今日|きょう}{買|か}い{物|もの}のついでに{持|も}っていきます。"
+   }
+  ],
+  "question": "{女|おんな}の{人|ひと}は{古|ふる}い{雑誌|ざっし}をどうしますか。",
+  "q_en": "What will the woman do with the old magazines?",
+  "options": [
+   "{今週|こんしゅう}の{水曜日|すいようび}に{出|だ}す",
+   "{来週|らいしゅう}の{水曜日|すいようび}に{出|だ}す",
+   "{管理人|かんりにん}に{渡|わた}す",
+   "{今日|きょう}スーパーの{回収|かいしゅう}ボックスに{入|い}れる"
+  ],
+  "answer": 3,
+  "en": "F: Excuse me, I have a lot of old magazines. When can I put them out?\nM: Paper recycling is on the second and fourth Wednesdays. Please tie them with string.\nF: This Wednesday is the third one, right? Do I have to wait until next week?\nM: Yes. But if you have a lot, there is a collection box at the supermarket in front of the station. You can put them there any time.\nF: Really? They're in the way in my room, so I'll take them today when I go shopping.",
+  "why": "She says she will take them to the supermarket box today."
+ },
+ {
+  "id": "l2-03",
+  "level": 2,
+  "title_raw": "Signing Up for a Class",
+  "kind": "task",
+  "setup": "{市民|しみん}センターで{男|おとこ}の{人|ひと}と{受付|うけつけ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}は{何|なに}を{持|も}ってくればいいですか。",
+  "lines": [
+   {
+    "s": "M",
+    "jp": "あの、{料理|りょうり}{教室|きょうしつ}に{申|もう}し{込|こ}みたいんですが。"
+   },
+   {
+    "s": "F",
+    "jp": "はい、こちらの{用紙|ようし}にご{記入|きにゅう}ください。{材料|ざいりょう}{費|ひ}は{当日|とうじつ}お{支払|しはら}いいただきます。"
+   },
+   {
+    "s": "M",
+    "jp": "エプロンとか、{何|なに}か{持|も}っていくものはありますか。"
+   },
+   {
+    "s": "F",
+    "jp": "エプロンと{三角巾|さんかくきん}はこちらでお{貸|か}しできます。{包丁|ほうちょう}も{教室|きょうしつ}にあります。ただ、{作|つく}った{料理|りょうり}を{持|も}ち{帰|かえ}る{方|かた}が{多|おお}いので、{容器|ようき}はご{自分|じぶん}でお{持|も}ちください。"
+   },
+   {
+    "s": "M",
+    "jp": "わかりました。じゃあ、それだけ{持|も}ってきます。"
+   }
+  ],
+  "question": "{男|おとこ}の{人|ひと}は{何|なに}を{持|も}ってくればいいですか。",
+  "q_en": "What should the man bring?",
+  "options": [
+   "エプロン",
+   "{包丁|ほうちょう}",
+   "{料理|りょうり}を{入|い}れる{容器|ようき}",
+   "{申込|もうしこみ}{用紙|ようし}"
+  ],
+  "answer": 2,
+  "en": "M: Um, I'd like to sign up for the cooking class.\nF: Yes, please fill in this form. You pay for ingredients on the day.\nM: Is there anything I should bring, like an apron?\nF: We can lend you an apron and a head scarf. There are knives in the classroom too. But many people take home what they cook, so please bring your own container.\nM: I see. Then I'll just bring that.",
+  "why": "Aprons and knives are provided, but he must bring a container."
+ },
+ {
+  "id": "l2-04",
+  "level": 2,
+  "title_raw": "Why She Changed Jobs",
+  "kind": "point",
+  "setup": "{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}が{会社|かいしゃ}を{変|か}えた{一番|いちばん}の{理由|りゆう}は{何|なん}ですか。",
+  "lines": [
+   {
+    "s": "M",
+    "jp": "{山本|やまもと}さん、{転職|てんしょく}したんだって？{前|まえ}の{会社|かいしゃ}、{給料|きゅうりょう}{良|よ}かったのに。"
+   },
+   {
+    "s": "F",
+    "jp": "うん、{給料|きゅうりょう}には{不満|ふまん}はなかったんだけどね。{通勤|つうきん}も{一時間|いちじかん}ちょっとだったし。"
+   },
+   {
+    "s": "M",
+    "jp": "じゃあ、{人間|にんげん}{関係|かんけい}？"
+   },
+   {
+    "s": "F",
+    "jp": "ううん、みんないい{人|ひと}だったよ。ただ、{何年|なんねん}たっても{同|おな}じ{仕事|しごと}ばかりで、{新|あたら}しいことに{挑戦|ちょうせん}させてもらえなかったの。このままじゃ{成長|せいちょう}できないと{思|おも}って。"
+   },
+   {
+    "s": "M",
+    "jp": "なるほどね。{今|いま}の{会社|かいしゃ}はどう？"
+   },
+   {
+    "s": "F",
+    "jp": "{大変|たいへん}だけど、{毎日|まいにち}{勉強|べんきょう}になってるよ。"
+   }
+  ],
+  "question": "{女|おんな}の{人|ひと}が{会社|かいしゃ}を{変|か}えた{一番|いちばん}の{理由|りゆう}は{何|なん}ですか。",
+  "q_en": "What was the main reason the woman changed companies?",
+  "options": [
+   "{新|あたら}しい{仕事|しごと}に{挑戦|ちょうせん}できなかったから",
+   "{給料|きゅうりょう}が{安|やす}かったから",
+   "{通勤|つうきん}に{時間|じかん}がかかったから",
+   "{同僚|どうりょう}と{合|あ}わなかったから"
+  ],
+  "answer": 0,
+  "en": "M: Yamamoto, I heard you changed jobs? Your old company paid well.\nF: Yes, I wasn't unhappy with the pay. And the commute was just over an hour.\nM: So, was it the people?\nF: No, everyone was nice. But even after years I was doing the same work and wasn't allowed to try anything new. I felt I couldn't grow if I stayed.\nM: I see. How's the new company?\nF: It's tough, but I learn something every day.",
+  "why": "She left because she could not try new things and grow."
+ },
+ {
+  "id": "l2-05",
+  "level": 2,
+  "title_raw": "The Popular Bakery",
+  "kind": "point",
+  "setup": "ラジオで{店|みせ}の{主人|しゅじん}が{話|はな}しています。{主人|しゅじん}は、{店|みせ}が{人気|にんき}になった{理由|りゆう}は{何|なん}だと{言|い}っていますか。",
+  "lines": [
+   {
+    "s": "M",
+    "jp": "うちのパンは、{特別|とくべつ}な{材料|ざいりょう}を{使|つか}っているわけではありません。{値段|ねだん}も{普通|ふつう}です。{開店|かいてん}した{当初|とうしょ}は、お{客|きゃく}さんもなかなか{来|き}ませんでした。{変|か}わったのは、お{客|きゃく}さんの{声|こえ}を{聞|き}いて、{朝|あさ}6{時|じ}に{店|みせ}を{開|あ}けるようにしてからです。{近|ちか}くに{工場|こうじょう}が{多|おお}くて、{早朝|そうちょう}から{働|はたら}く{人|ひと}が{朝|あさ}ご{飯|はん}を{買|か}う{場所|ばしょ}がなかったんですね。それで{口|くち}コミで{広|ひろ}がっていきました。"
+   }
+  ],
+  "question": "{主人|しゅじん}は、{店|みせ}が{人気|にんき}になった{理由|りゆう}は{何|なん}だと{言|い}っていますか。",
+  "q_en": "What does the owner say made the shop popular?",
+  "options": [
+   "{特別|とくべつ}な{材料|ざいりょう}を{使|つか}っていること",
+   "{値段|ねだん}が{安|やす}いこと",
+   "{朝早|あさはや}くから{店|みせ}を{開|あ}けたこと",
+   "テレビで{紹介|しょうかい}されたこと"
+  ],
+  "answer": 2,
+  "en": "M: Our bread doesn't use special ingredients. The prices are ordinary too. When we first opened, customers hardly came. Things changed after we listened to customers and started opening at 6 a.m. There are many factories nearby, and people who work from early morning had nowhere to buy breakfast. So it spread by word of mouth.",
+  "why": "He says things changed when they started opening at 6 a.m."
+ },
+ {
+  "id": "l2-06",
+  "level": 2,
+  "title_raw": "Moving the Event",
+  "kind": "point",
+  "setup": "{大学|だいがく}で{男|おとこ}の{学生|がくせい}と{女|おんな}の{学生|がくせい}が{話|はな}しています。イベントの{日|ひ}が{変|か}わったのはどうしてですか。",
+  "lines": [
+   {
+    "s": "M",
+    "jp": "{留学生|りゅうがくせい}との{交流会|こうりゅうかい}、{来週|らいしゅう}の{金曜|きんよう}から{再来週|さらいしゅう}に{変|か}わったんだって？"
+   },
+   {
+    "s": "F",
+    "jp": "うん。{雨|あめ}の{予報|よほう}が{出|で}てるからって{言|い}う{人|ひと}もいるけど、{会場|かいじょう}は{室内|しつない}だから{関係|かんけい}ないの。"
+   },
+   {
+    "s": "M",
+    "jp": "じゃあ、{参加者|さんかしゃ}が{集|あつ}まらなかったとか？"
+   },
+   {
+    "s": "F",
+    "jp": "それは{大丈夫|だいじょうぶ}。{実|じつ}は、その{日|ひ}に{留学生|りゅうがくせい}の{健康|けんこう}{診断|しんだん}が{入|はい}っちゃって。{一番|いちばん}{来|き}てほしい{人|ひと}たちが{来|こ}られないんじゃ{意味|いみ}がないでしょう？"
+   }
+  ],
+  "question": "イベントの{日|ひ}が{変|か}わったのはどうしてですか。",
+  "q_en": "Why was the event date changed?",
+  "options": [
+   "{雨|あめ}が{降|ふ}りそうだから",
+   "{留学生|りゅうがくせい}に{別|べつ}の{予定|よてい}が{入|はい}ったから",
+   "{参加者|さんかしゃ}が{少|すく}なかったから",
+   "{会場|かいじょう}が{使|つか}えなくなったから"
+  ],
+  "answer": 1,
+  "en": "M: I heard the exchange party with international students moved from next Friday to the week after?\nF: Yes. Some say it's because rain is forecast, but the venue is indoors, so that doesn't matter.\nM: Then not enough people signed up?\nF: That's fine. Actually, the international students' health checkup got scheduled for that day. There's no point if the people we most want can't come, right?",
+  "why": "The international students have a health checkup that day."
+ },
+ {
+  "id": "l2-07",
+  "level": 2,
+  "title_raw": "Talk on Sleep",
+  "kind": "summary",
+  "setup": "テレビで{医者|いしゃ}が{話|はな}しています。",
+  "lines": [
+   {
+    "s": "M",
+    "jp": "{睡眠|すいみん}というと、{何時間|なんじかん}{寝|ね}たかを{気|き}にする{方|かた}が{多|おお}いようです。もちろん{時間|じかん}も{大切|たいせつ}ですが、それと{同|おな}じくらい{重要|じゅうよう}なのが{寝|ね}る{時刻|じこく}と{起|お}きる{時刻|じこく}を{一定|いってい}にすることです。{平日|へいじつ}は{早起|はやお}きして、{週末|しゅうまつ}は{昼|ひる}まで{寝|ね}る。こうした{生活|せいかつ}を{続|つづ}けると、{体|からだ}のリズムが{乱|みだ}れ、{合計|ごうけい}の{睡眠|すいみん}{時間|じかん}が{足|た}りていても{疲|つか}れが{取|と}れにくくなります。{休|やす}みの{日|ひ}も、いつもと{同|おな}じ{時間|じかん}に{起|お}きることをお{勧|すす}めします。"
+   }
+  ],
+  "question": "{医者|いしゃ}が{言|い}いたいことは{何|なん}ですか。",
+  "q_en": "What does the doctor want to say?",
+  "options": [
+   "{毎日|まいにち}{同|おな}じ{時間|じかん}に{寝|ね}て{起|お}きることが{大切|たいせつ}だ",
+   "できるだけ{長|なが}く{寝|ね}たほうがいい",
+   "{週末|しゅうまつ}にたくさん{寝|ね}て{疲|つか}れを{取|と}るべきだ",
+   "{昼寝|ひるね}をすると{体|からだ}のリズムが{乱|みだ}れる"
+  ],
+  "answer": 0,
+  "en": "M: When it comes to sleep, many people seem to worry about how many hours they slept. Of course the length matters, but just as important is keeping your bedtime and waking time the same. If you get up early on weekdays and sleep until noon on weekends, your body rhythm is disturbed, and it becomes hard to recover from tiredness even if your total sleep is enough. I recommend waking at your usual time even on days off.",
+  "why": "The doctor stresses keeping the same sleep and wake times every day."
+ },
+ {
+  "id": "l2-08",
+  "level": 2,
+  "title_raw": "Company Lecture on Email",
+  "kind": "summary",
+  "setup": "{会社|かいしゃ}の{研修|けんしゅう}で{講師|こうし}が{話|はな}しています。",
+  "lines": [
+   {
+    "s": "F",
+    "jp": "ビジネスメールで{大切|たいせつ}なのは、{丁寧|ていねい}な{言葉|ことば}{遣|づか}いだと{思|おも}われがちです。もちろんそれも{必要|ひつよう}ですが、{受|う}け{取|と}る{側|がわ}は{毎日|まいにち}{何十通|なんじゅっつう}ものメールを{読|よ}んでいます。{長|なが}い{挨拶|あいさつ}の{後|あと}にやっと{用件|ようけん}が{出|で}てくるようでは、{読|よ}む{人|ひと}の{時間|じかん}を{奪|うば}うことになります。{件名|けんめい}を{見|み}ただけで{内容|ないよう}がわかり、{最初|さいしょ}の{数行|すうぎょう}で{何|なに}をしてほしいのかが{伝|つた}わる。そういうメールを{心|こころ}がけてください。"
+   }
+  ],
+  "question": "{講師|こうし}が{一番|いちばん}{言|い}いたいことは{何|なん}ですか。",
+  "q_en": "What does the lecturer most want to say?",
+  "options": [
+   "メールでは{丁寧|ていねい}な{挨拶|あいさつ}が{一番|いちばん}{大切|たいせつ}だ",
+   "メールは{一日|いちにち}に{何通|なんつう}も{送|おく}らないほうがいい",
+   "{件名|けんめい}は{短|みじか}くしないほうがいい",
+   "{用件|ようけん}がすぐにわかるメールを{書|か}くべきだ"
+  ],
+  "answer": 3,
+  "en": "F: People tend to think polite language is what matters in business email. Of course that is necessary too, but the recipient reads dozens of emails every day. If the main point only appears after a long greeting, you take up the reader's time. Aim for emails where the subject line alone shows the content, and the first few lines make clear what you want the reader to do.",
+  "why": "She says emails should make the main point clear right away."
+ },
+ {
+  "id": "l2-09",
+  "level": 2,
+  "title_raw": "Response: Lending a Hand",
+  "kind": "response",
+  "setup": "{文|ぶん}を{聞|き}いて、{一番|いちばん}いい{返事|へんじ}を{選|えら}んでください。",
+  "lines": [
+   {
+    "s": "M",
+    "jp": "その{荷物|にもつ}、{重|おも}そうだね。{半分|はんぶん}{持|も}とうか。"
+   }
+  ],
+  "question": "{一番|いちばん}いい{返事|へんじ}はどれですか。",
+  "q_en": "Which is the best reply?",
+  "options": [
+   "うん、{重|おも}そうだね。",
+   "{本当|ほんとう}？{助|たす}かる。じゃあ、これお{願|ねが}い。",
+   "{半分|はんぶん}だけ{持|も}ってくれてありがとう。"
+  ],
+  "answer": 1,
+  "en": "M: That bag looks heavy. Shall I carry half?",
+  "why": "He offers to help, so thanking him and handing it over fits."
+ },
+ {
+  "id": "l2-10",
+  "level": 2,
+  "title_raw": "Response: Report Deadline",
+  "kind": "response",
+  "setup": "{文|ぶん}を{聞|き}いて、{一番|いちばん}いい{返事|へんじ}を{選|えら}んでください。",
+  "lines": [
+   {
+    "s": "F",
+    "jp": "{課長|かちょう}、{報告書|ほうこくしょ}の{締|し}め{切|き}りなんですが、{金曜日|きんようび}まで{待|ま}っていただけないでしょうか。"
+   }
+  ],
+  "question": "{一番|いちばん}いい{返事|へんじ}はどれですか。",
+  "q_en": "Which is the best reply?",
+  "options": [
+   "うん、{待|ま}ってもらえてよかったね。",
+   "{金曜日|きんようび}までに{出|だ}してくれてありがとう。",
+   "うーん、{木曜|もくよう}の{朝|あさ}までには{何|なん}とかならないかな。"
+  ],
+  "answer": 2,
+  "en": "F: Manager, about the report deadline, could you possibly wait until Friday?",
+  "why": "The manager responds to the request by negotiating a date."
+ },
+ {
+  "id": "l2-11",
+  "level": 2,
+  "title_raw": "Response: Surprising News",
+  "kind": "response",
+  "setup": "{文|ぶん}を{聞|き}いて、{一番|いちばん}いい{返事|へんじ}を{選|えら}んでください。",
+  "lines": [
+   {
+    "s": "M",
+    "jp": "{鈴木|すずき}さんが{会社|かいしゃ}を{辞|や}めるなんて、{思|おも}ってもみなかったよ。"
+   }
+  ],
+  "question": "{一番|いちばん}いい{返事|へんじ}はどれですか。",
+  "q_en": "Which is the best reply?",
+  "options": [
+   "{私|わたし}も。{全然|ぜんぜん}そんな{様子|ようす}なかったよね。",
+   "うん、{辞|や}めるとは{思|おも}わなかったから、{辞|や}めないよ。",
+   "{思|おも}ってみたらどう？"
+  ],
+  "answer": 0,
+  "en": "M: I never imagined Suzuki would quit the company.",
+  "why": "He is surprised, so agreeing that there were no signs fits."
+ },
+ {
+  "id": "l2-12",
+  "level": 2,
+  "title_raw": "Response: Staying Late",
+  "kind": "response",
+  "setup": "{文|ぶん}を{聞|き}いて、{一番|いちばん}いい{返事|へんじ}を{選|えら}んでください。",
+  "lines": [
+   {
+    "s": "F",
+    "jp": "まだ{仕事|しごと}{残|のこ}ってるの？あんまり{無理|むり}しないでね。"
+   }
+  ],
+  "question": "{一番|いちばん}いい{返事|へんじ}はどれですか。",
+  "q_en": "Which is the best reply?",
+  "options": [
+   "うん、{無理|むり}してもらってありがとう。",
+   "ありがとう。これだけ{終|お}わったら{帰|かえ}るよ。",
+   "{残|のこ}っていないなら{帰|かえ}ろうか。"
+  ],
+  "answer": 1,
+  "en": "F: You still have work left? Don't push yourself too hard.",
+  "why": "She shows concern, so thanking her and saying you will leave soon fits."
+ },
+ {
+  "id": "l2-13",
+  "level": 2,
+  "title_raw": "Choosing a Gift",
+  "kind": "integrated",
+  "setup": "{母親|ははおや}と{息子|むすこ}が{話|はな}しています。",
+  "lines": [
+   {
+    "s": "F",
+    "jp": "おばあちゃんの{誕生日|たんじょうび}プレゼント、どうしようか。{候補|こうほ}は{花|はな}、{温泉|おんせん}{旅行|りょこう}、マッサージチェア、それから{写真|しゃしん}{立|た}てね。"
+   },
+   {
+    "s": "M",
+    "jp": "{温泉|おんせん}はいいけど、{最近|さいきん}{足|あし}が{悪|わる}いから、{遠出|とおで}はきついんじゃないかな。"
+   },
+   {
+    "s": "F",
+    "jp": "じゃあ、マッサージチェアは？{肩|かた}がこるっていつも{言|い}ってるし。"
+   },
+   {
+    "s": "M",
+    "jp": "でも、おばあちゃんの{部屋|へや}、{狭|せま}いよ。{置|お}く{場所|ばしょ}がないと{思|おも}う。"
+   },
+   {
+    "s": "F",
+    "jp": "{花|はな}は{毎年|まいとし}あげてるしねえ。"
+   },
+   {
+    "s": "M",
+    "jp": "じゃあ、みんなで{撮|と}った{写真|しゃしん}を{入|い}れて{渡|わた}そうよ。きっと{喜|よろこ}ぶよ。"
+   },
+   {
+    "s": "F",
+    "jp": "そうね。{今年|ことし}はそれにしましょう。"
+   }
+  ],
+  "question": "{家族|かぞく}は{何|なに}をプレゼントすることにしましたか。",
+  "q_en": "What did the family decide to give?",
+  "options": [
+   "{花|はな}",
+   "{温泉|おんせん}{旅行|りょこう}",
+   "マッサージチェア",
+   "{写真|しゃしん}{立|た}て"
+  ],
+  "answer": 3,
+  "en": "F (mother): What shall we do for Grandma's birthday present? The options are flowers, a hot spring trip, a massage chair, or a photo frame.\nM (son): A hot spring is nice, but her legs have been bad lately, so a long trip might be hard.\nF: Then what about the massage chair? She always says her shoulders are stiff.\nM: But Grandma's room is small. I don't think there's space for it.\nF: And we give flowers every year.\nM: Then let's put a photo of all of us in a frame and give it to her. She'll love it.\nF: Yes. Let's do that this year.",
+  "why": "They chose the photo frame with a family picture."
+ },
+ {
+  "id": "l2-14",
+  "level": 2,
+  "title_raw": "Choosing a Course",
+  "kind": "integrated",
+  "setup": "{語学|ごがく}{学校|がっこう}の{人|ひと}が{講座|こうざ}の{説明|せつめい}をしています。それを{聞|き}いて、{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。",
+  "lines": [
+   {
+    "s": "N",
+    "jp": "{当校|とうこう}には{四|よっ}つのコースがあります。Aコースは{平日|へいじつ}の{夜|よる}、{会話|かいわ}{中心|ちゅうしん}です。Bコースは{土曜|どよう}の{午前|ごぜん}、{文法|ぶんぽう}をしっかり{学|まな}びます。Cコースはオンラインで、{時間|じかん}を{自由|じゆう}に{選|えら}べます。Dコースは{試験|しけん}{対策|たいさく}で、{平日|へいじつ}の{昼|ひる}に{行|おこな}います。"
+   },
+   {
+    "s": "M",
+    "jp": "{僕|ぼく}は{仕事|しごと}で{話|はな}す{機会|きかい}が{増|ふ}えたから、{会話|かいわ}を{練習|れんしゅう}したいな。{仕事|しごと}は{六時|ろくじ}に{終|お}わるし。"
+   },
+   {
+    "s": "F",
+    "jp": "{私|わたし}は{来年|らいねん}{試験|しけん}を{受|う}けたいんだけど、{昼間|ひるま}は{働|はたら}いてるから……。{家|いえ}で{好|す}きな{時間|じかん}にできるのがいいかな。"
+   },
+   {
+    "s": "M",
+    "jp": "じゃあ、{僕|ぼく}はあれにするよ。"
+   }
+  ],
+  "question": "{女|おんな}の{人|ひと}はどのコースを{選|えら}ぶと{考|かんが}えられますか。",
+  "q_en": "Which course is the woman likely to choose?",
+  "options": [
+   "Aコース",
+   "Bコース",
+   "Cコース",
+   "Dコース"
+  ],
+  "answer": 2,
+  "en": "N: Our school has four courses. Course A is weekday evenings, focused on conversation. Course B is Saturday mornings, studying grammar thoroughly. Course C is online, and you can choose your time freely. Course D is exam preparation, held on weekday afternoons.\nM: I have more chances to speak at work, so I want to practice conversation. My work finishes at six.\nF: I want to take the exam next year, but I work during the day... Something I can do at home at any time would be good.\nM: Then I'll go with that one.",
+  "why": "She works days and wants to study at home at any time, so Course C fits."
+ },
+ {
+  "id": "l2-15",
+  "level": 2,
+  "title_raw": "Office Layout Change",
+  "kind": "integrated",
+  "setup": "{会社|かいしゃ}で{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。",
+  "lines": [
+   {
+    "s": "M",
+    "jp": "{来月|らいげつ}からフリーアドレスにするって{話|はなし}、どう{思|おも}う？{席|せき}が{決|き}まってないってやつ。"
+   },
+   {
+    "s": "F",
+    "jp": "いろんな{部署|ぶしょ}の{人|ひと}と{話|はな}せるのはいいと{思|おも}う。{机|つくえ}の{上|うえ}も{片付|かたづ}くし。ただ、{毎朝|まいあさ}{荷物|にもつ}を{運|はこ}ぶのは{面倒|めんどう}ね。"
+   },
+   {
+    "s": "M",
+    "jp": "{僕|ぼく}はちょっと{反対|はんたい}なんだ。{電話|でんわ}が{多|おお}い{仕事|しごと}だから、{周|まわ}りに{迷惑|めいわく}をかけそうで。"
+   },
+   {
+    "s": "F",
+    "jp": "じゃあ、{電話|でんわ}{用|よう}の{個室|こしつ}を{作|つく}ってもらえるよう、{提案|ていあん}してみたら？"
+   },
+   {
+    "s": "M",
+    "jp": "それなら{何|なん}とかなるかもしれないね。"
+   }
+  ],
+  "question": "{女|おんな}の{人|ひと}は{何|なに}を{提案|ていあん}しましたか。",
+  "q_en": "What did the woman suggest?",
+  "options": [
+   "{電話|でんわ}{用|よう}の{部屋|へや}を{作|つく}ってもらうこと",
+   "フリーアドレスをやめること",
+   "{荷物|にもつ}を{会社|かいしゃ}に{置|お}かないこと",
+   "{机|つくえ}を{大|おお}きくすること"
+  ],
+  "answer": 0,
+  "en": "M: What do you think about switching to free address from next month? Where seats aren't assigned.\nF: I think it's good to be able to talk with people from various departments. Desks get tidier too. But carrying my things every morning is a hassle.\nM: I'm a bit against it. My job involves a lot of phone calls, so I'm worried I'll bother people around me.\nF: Then why not suggest they make private rooms for phone calls?\nM: Then it might work out.",
+  "why": "She suggests asking for private rooms for phone calls."
+ }
+]

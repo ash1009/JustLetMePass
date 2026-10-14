@@ -1,0 +1,698 @@
+[
+ {
+  "id": "s5-051",
+  "level": 5,
+  "title": "ラーメン{屋|や}の{大|おお}きいボタン",
+  "title_en": "The Big Button at the Ramen Shop",
+  "genre_raw": "Food",
+  "paragraphs": [
+   {
+    "jp": "トムは{日本|にほん}に{来|き}て{一週間|いっしゅうかん}です。{今日|きょう}は{初|はじ}めて{一人|ひとり}でラーメン{屋|や}に{行|い}きました。{店|みせ}の{入|い}り{口|ぐち}に{大|おお}きい{機械|きかい}があります。ここで{食券|しょっけん}を{買|か}います。",
+    "en": "Tom has been in Japan for one week. Today he went to a ramen shop alone for the first time. There is a big machine at the shop entrance. You buy a meal ticket here."
+   },
+   {
+    "jp": "ボタンがたくさんありますが、トムは{漢字|かんじ}がよくわかりません。{一番|いちばん}{大|おお}きくて{赤|あか}いボタンを{押|お}しました。「これはきっと{人気|にんき}のラーメンです。」と{思|おも}いました。",
+    "en": "There were lots of buttons, but Tom couldn't read the kanji well. He pressed the biggest red button. \"This must be the popular ramen,\" he thought."
+   },
+   {
+    "jp": "{十分|じゅっぷん}{後|ご}、{店|みせ}の{人|ひと}がとても{大|おお}きいどんぶりを{持|も}って{来|き}ました。ラーメンが{山|やま}のようです。{店|みせ}の{人|ひと}は「{二十分|にじゅっぷん}で{全部|ぜんぶ}{食|た}べたら、お{金|かね}はいりません。」と{言|い}って、{時計|とけい}を{見|み}ました。",
+    "en": "Ten minutes later, the shop worker brought a very big bowl. The ramen looked like a mountain. The worker said, \"If you eat it all in twenty minutes, you don't have to pay,\" and looked at the clock."
+   },
+   {
+    "jp": "トムはびっくりしましたが、{食|た}べはじめました。ほかのお{客|きゃく}さんも「がんばって！」と{言|い}いました。{十九分|じゅうきゅうふん}{後|ご}、どんぶりは{空|から}になりました。みんなが{手|て}をたたきました。",
+    "en": "Tom was surprised, but he started eating. The other customers also said, \"You can do it!\" Nineteen minutes later, the bowl was empty. Everyone clapped."
+   },
+   {
+    "jp": "ラーメンはただでした。でも、その{日|ひ}の{夜|よる}、トムは{何|なに}も{食|た}べませんでした。",
+    "en": "The ramen was free. But that night, Tom didn't eat anything."
+   }
+  ],
+  "questions": [
+   {
+    "q": "トムはどうして{赤|あか}いボタンを{押|お}しましたか。",
+    "q_en": "Why did Tom press the red button?",
+    "options": [
+     "{店|みせ}の{人|ひと}が{言|い}ったから",
+     "{漢字|かんじ}がよくわからなかったから",
+     "{友|とも}だちが{好|す}きだったから",
+     "{一番|いちばん}{安|やす}かったから"
+    ],
+    "answer": 1,
+    "why": "He couldn't read the kanji, so he chose the biggest red button."
+   },
+   {
+    "q": "トムはラーメンのお{金|かね}をいくら{払|はら}いましたか。",
+    "q_en": "How much did Tom pay for the ramen?",
+    "options": [
+     "1000{円|えん}",
+     "{半分|はんぶん}",
+     "2000{円|えん}",
+     "{払|はら}いませんでした"
+    ],
+    "answer": 3,
+    "why": "He finished it in nineteen minutes, so it was free."
+   }
+  ]
+ },
+ {
+  "id": "s5-052",
+  "level": 5,
+  "title": "{頭|あたま}が{痛|いた}いです",
+  "title_en": "My Head Hurts",
+  "genre_raw": "Daily life",
+  "paragraphs": [
+   {
+    "jp": "マリアは{三日|みっか}{前|まえ}から{頭|あたま}が{痛|いた}いです。{目|め}も{少|すこ}し{痛|いた}いです。{今日|きょう}、{会社|かいしゃ}を{休|やす}んで、{病院|びょういん}へ{行|い}きました。",
+    "en": "Maria has had a headache for three days. Her eyes hurt a little too. Today she took the day off work and went to the hospital."
+   },
+   {
+    "jp": "{医者|いしゃ}は「よく{寝|ね}ていますか。」と{聞|き}きました。「はい、{毎晩|まいばん}{七時間|しちじかん}{寝|ね}ています。」「{何|なに}か{新|あたら}しいことをしましたか。」マリアは{少|すこ}し{考|かんが}えました。「{三日|みっか}{前|まえ}に、{新|あたら}しいめがねをかけはじめました。」",
+    "en": "The doctor asked, \"Are you sleeping well?\" \"Yes, I sleep seven hours every night.\" \"Did you start anything new?\" Maria thought for a moment. \"Three days ago, I started wearing new glasses.\""
+   },
+   {
+    "jp": "{医者|いしゃ}はそのめがねをかけてみました。「わあ、これはとても{強|つよ}いめがねですね。」マリアはめがねをよく{見|み}ました。{黒|くろ}くて、{大|おお}きいめがねです。マリアのめがねは{赤|あか}くて、{小|ちい}さいです。",
+    "en": "The doctor tried the glasses on. \"Wow, these are very strong glasses.\" Maria looked at the glasses carefully. They were big and black. Maria's glasses are small and red."
+   },
+   {
+    "jp": "「あっ！これは{父|ちち}のめがねです！」{三日|みっか}{前|まえ}、テーブルの{上|うえ}に{同|おな}じケースが{二|ふた}つありました。マリアはまちがえて、{父|ちち}のケースを{持|も}って{来|き}ました。",
+    "en": "\"Oh! These are my father's glasses!\" Three days ago, there were two identical cases on the table. Maria took her father's case by mistake."
+   },
+   {
+    "jp": "その{夜|よる}、{父|ちち}に{電話|でんわ}しました。{父|ちち}は「{三日|みっか}、{新聞|しんぶん}が{読|よ}めなかったよ。」と{笑|わら}いました。",
+    "en": "That night she phoned her father. He laughed and said, \"I couldn't read the newspaper for three days.\""
+   }
+  ],
+  "questions": [
+   {
+    "q": "マリアはどうして{頭|あたま}が{痛|いた}かったですか。",
+    "q_en": "Why did Maria have a headache?",
+    "options": [
+     "{寝|ね}なかったから",
+     "{父|ちち}のめがねをかけていたから",
+     "{会社|かいしゃ}の{仕事|しごと}が{多|おお}かったから",
+     "{風邪|かぜ}をひいたから"
+    ],
+    "answer": 1,
+    "why": "She had been wearing her father's strong glasses by mistake."
+   },
+   {
+    "q": "マリアのめがねはどんなめがねですか。",
+    "q_en": "What are Maria's glasses like?",
+    "options": [
+     "{黒|くろ}くて{大|おお}きい",
+     "{白|しろ}くて{小|ちい}さい",
+     "{赤|あか}くて{小|ちい}さい",
+     "{赤|あか}くて{大|おお}きい"
+    ],
+    "answer": 2,
+    "why": "The story says Maria's glasses are small and red."
+   },
+   {
+    "q": "{父|ちち}は{三日|みっか}{何|なに}ができませんでしたか。",
+    "q_en": "What couldn't her father do for three days?",
+    "options": [
+     "{新聞|しんぶん}を{読|よ}むこと",
+     "{寝|ね}ること",
+     "{電話|でんわ}すること",
+     "{会社|かいしゃ}へ{行|い}くこと"
+    ],
+    "answer": 0,
+    "why": "Without his own glasses, he couldn't read the newspaper."
+   }
+  ]
+ },
+ {
+  "id": "s5-053",
+  "level": 5,
+  "title": "{子|こ}どものきっぷ",
+  "title_en": "The Child's Ticket",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "{日曜日|にちようび}、ケンは{電車|でんしゃ}で{海|うみ}へ{行|い}きます。{駅|えき}の{券売機|けんばいき}の{前|まえ}で、{上|うえ}の{地図|ちず}を{見|み}ました。{海|うみ}の{駅|えき}まで420{円|えん}です。ケンはお{金|かね}を{入|い}れて、ボタンを{押|お}しました。",
+    "en": "On Sunday, Ken is going to the sea by train. In front of the ticket machine at the station, he looked at the map above it. It is 420 yen to the station by the sea. Ken put in his money and pressed a button."
+   },
+   {
+    "jp": "きっぷとおつりが{出|で}てきました。おつりが{多|おお}いです。「あれ？{安|やす}いですね。ラッキー！」ケンはうれしくなって、{改札|かいさつ}へ{行|い}きました。",
+    "en": "The ticket and the change came out. There was a lot of change. \"Huh? That was cheap. Lucky!\" Ken was happy and went to the ticket gate."
+   },
+   {
+    "jp": "きっぷを{入|い}れると、ピンポーンと{大|おお}きい{音|おと}がしました。{駅員|えきいん}さんが{来|き}て、きっぷを{見|み}ました。それから、ケンを{見|み}ました。ケンは{背|せ}が180センチあります。",
+    "en": "When he put the ticket in, there was a loud \"ding-dong\" sound. A station worker came and looked at the ticket. Then he looked at Ken. Ken is 180 centimeters tall."
+   },
+   {
+    "jp": "{駅員|えきいん}さんは{笑|わら}って、「お{客|きゃく}さん、{大|おお}きい{子|こ}どもですね。」と{言|い}いました。ケンが{押|お}したボタンは「こども」のボタンでした。ケンの{顔|かお}は{赤|あか}くなりました。",
+    "en": "The station worker smiled and said, \"Sir, you're a big child, aren't you?\" The button Ken pressed was the \"child\" button. Ken's face turned red."
+   },
+   {
+    "jp": "ケンはもう{一度|いちど}、{大人|おとな}のきっぷを{買|か}いました。{電車|でんしゃ}の{中|なか}で、ケンはずっと{窓|まど}の{外|そと}を{見|み}ていました。",
+    "en": "Ken bought an adult ticket again. On the train, Ken kept looking out the window the whole time."
+   }
+  ],
+  "questions": [
+   {
+    "q": "どうしておつりが{多|おお}かったですか。",
+    "q_en": "Why was there a lot of change?",
+    "options": [
+     "{日曜日|にちようび}は{安|やす}いから",
+     "{子|こ}どものきっぷを{買|か}ったから",
+     "{機械|きかい}がこわれていたから",
+     "{駅員|えきいん}さんがくれたから"
+    ],
+    "answer": 1,
+    "why": "He pressed the child button, so the ticket was cheaper."
+   },
+   {
+    "q": "{駅員|えきいん}さんはどうして{笑|わら}いましたか。",
+    "q_en": "Why did the station worker smile?",
+    "options": [
+     "ケンが{大|おお}きいのに{子|こ}どものきっぷだったから",
+     "ケンが{海|うみ}へ{行|い}くから",
+     "ケンがきっぷをなくしたから",
+     "ケンが{日本語|にほんご}を{話|はな}したから"
+    ],
+    "answer": 0,
+    "why": "Ken is 180 cm tall but had a child's ticket."
+   }
+  ]
+ },
+ {
+  "id": "s5-054",
+  "level": 5,
+  "title": "{重|おも}い{箱|はこ}",
+  "title_en": "The Heavy Box",
+  "genre_raw": "Daily life",
+  "paragraphs": [
+   {
+    "jp": "アナの{弟|おとうと}は{来週|らいしゅう}、{十歳|じゅっさい}になります。アナは{日本|にほん}のおかしをたくさん{買|か}って、{箱|はこ}に{入|い}れました。チョコレート、せんべい、ガム。それから{手紙|てがみ}も{入|い}れました。",
+    "en": "Ana's little brother turns ten next week. Ana bought lots of Japanese snacks and put them in a box. Chocolate, rice crackers, gum. She also put in a letter."
+   },
+   {
+    "jp": "{郵便局|ゆうびんきょく}で、{局員|きょくいん}さんが{箱|はこ}を{量|はか}りました。「5キロです。7200{円|えん}です。」アナはびっくりしました。「えっ、5キロ？おかしは{軽|かる}いですよ。」",
+    "en": "At the post office, the clerk weighed the box. \"It's five kilos. That's 7,200 yen.\" Ana was surprised. \"What, five kilos? Snacks are light!\""
+   },
+   {
+    "jp": "{局員|きょくいん}さんは「{中|なか}を{見|み}ますか。」と{聞|き}きました。アナは{箱|はこ}を{開|あ}けました。おかしの{下|した}に、{大|おお}きくて{厚|あつ}い{本|ほん}がありました。アナの{日本語|にほんご}の{辞書|じしょ}です！",
+    "en": "The clerk asked, \"Do you want to look inside?\" Ana opened the box. Under the snacks was a big, thick book. It was Ana's Japanese dictionary!"
+   },
+   {
+    "jp": "「この{辞書|じしょ}、{一週間|いっしゅうかん}さがしていました！」アナは{笑|わら}いました。{局員|きょくいん}さんも{笑|わら}いました。{辞書|じしょ}を{出|だ}すと、{箱|はこ}は2キロになりました。",
+    "en": "\"I've been looking for this dictionary for a week!\" Ana laughed. The clerk laughed too. When she took out the dictionary, the box was two kilos."
+   },
+   {
+    "jp": "{二週間|にしゅうかん}{後|ご}、{弟|おとうと}から{手紙|てがみ}が{来|き}ました。「おかし、ありがとう！おいしかった！つぎは{本|ほん}もください。」",
+    "en": "Two weeks later, a letter came from her brother. \"Thanks for the snacks! They were delicious! Next time, please send a book too.\""
+   }
+  ],
+  "questions": [
+   {
+    "q": "{箱|はこ}はどうして{重|おも}かったですか。",
+    "q_en": "Why was the box heavy?",
+    "options": [
+     "チョコレートが{多|おお}かったから",
+     "{手紙|てがみ}が{長|なが}かったから",
+     "{辞書|じしょ}が{入|はい}っていたから",
+     "{箱|はこ}が{大|おお}きかったから"
+    ],
+    "answer": 2,
+    "why": "Ana's thick dictionary was under the snacks."
+   },
+   {
+    "q": "{辞書|じしょ}を{出|だ}したあと、{箱|はこ}は{何|なん}キロでしたか。",
+    "q_en": "How many kilos was the box after she took out the dictionary?",
+    "options": [
+     "5キロ",
+     "3キロ",
+     "7キロ",
+     "2キロ"
+    ],
+    "answer": 3,
+    "why": "Without the dictionary, the box weighed two kilos."
+   }
+  ]
+ },
+ {
+  "id": "s5-055",
+  "level": 5,
+  "title": "この{写真|しゃしん}のようにしてください",
+  "title_en": "Make It Like This Photo, Please",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "リサは{髪|かみ}が{長|なが}いです。{夏|なつ}は{暑|あつ}いので、{短|みじか}くしたいです。{土曜日|どようび}の{朝|あさ}、{駅|えき}の{近|ちか}くの{美容院|びよういん}へ{行|い}きました。",
+    "en": "Lisa has long hair. Summer is hot, so she wants to make it short. On Saturday morning, she went to a hair salon near the station."
+   },
+   {
+    "jp": "{美容師|びようし}さんは「どんな{髪|かみ}にしますか。」と{聞|き}きました。リサは{日本語|にほんご}でうまく{言|い}えません。それで、スマホを{出|だ}して、「この{写真|しゃしん}のようにしてください。」と{言|い}いました。",
+    "en": "The hairdresser asked, \"What kind of hairstyle would you like?\" Lisa can't explain well in Japanese. So she took out her phone and said, \"Please make it like this photo.\""
+   },
+   {
+    "jp": "{美容師|びようし}さんは{写真|しゃしん}を{見|み}て、{少|すこ}し{困|こま}った{顔|かお}をしました。「ええと…{本当|ほんとう}にこれですか。」リサも{写真|しゃしん}を{見|み}ました。それは、リサの{犬|いぬ}のポチの{写真|しゃしん}でした！",
+    "en": "The hairdresser looked at the photo and looked a little troubled. \"Um... are you sure it's this one?\" Lisa looked at the photo too. It was a photo of Lisa's dog, Pochi!"
+   },
+   {
+    "jp": "{二人|ふたり}は{大|おお}きい{声|こえ}で{笑|わら}いました。リサはすぐに{正|ただ}しい{写真|しゃしん}を{見|み}せました。{一時間|いちじかん}{後|ご}、リサの{髪|かみ}はとても{短|みじか}くて、かわいくなりました。",
+    "en": "The two of them laughed loudly. Lisa quickly showed the right photo. An hour later, Lisa's hair was very short and cute."
+   },
+   {
+    "jp": "{次|つぎ}の{日|ひ}、ポチも{髪|かみ}を{切|き}りに{行|い}きました。{今|いま}、リサとポチは{同|おな}じような{髪|かみ}です。",
+    "en": "The next day, Pochi went for a haircut too. Now Lisa and Pochi have almost the same hairstyle."
+   }
+  ],
+  "questions": [
+   {
+    "q": "リサはどうしてスマホの{写真|しゃしん}を{見|み}せましたか。",
+    "q_en": "Why did Lisa show a photo on her phone?",
+    "options": [
+     "{日本語|にほんご}でうまく{言|い}えなかったから",
+     "{犬|いぬ}の{髪|かみ}を{切|き}りたかったから",
+     "{美容師|びようし}さんが{友|とも}だちだったから",
+     "{写真|しゃしん}を{売|う}りたかったから"
+    ],
+    "answer": 0,
+    "why": "She couldn't explain the hairstyle well in Japanese."
+   },
+   {
+    "q": "{美容師|びようし}さんはどうして{困|こま}りましたか。",
+    "q_en": "Why was the hairdresser troubled?",
+    "options": [
+     "{時間|じかん}がなかったから",
+     "リサの{髪|かみ}が{短|みじか}かったから",
+     "{写真|しゃしん}が{犬|いぬ}だったから",
+     "スマホがこわれていたから"
+    ],
+    "answer": 2,
+    "why": "The first photo was of Lisa's dog, not a hairstyle."
+   }
+  ]
+ },
+ {
+  "id": "s5-056",
+  "level": 5,
+  "title": "{夜|よる}のスーパー",
+  "title_en": "The Supermarket at Night",
+  "genre_raw": "Slice of life",
+  "paragraphs": [
+   {
+    "jp": "ユウタは{大学生|だいがくせい}です。お{金|かね}があまりありません。{毎晩|まいばん}{九時|くじ}{半|はん}に、{近|ちか}くのスーパーへ{行|い}きます。{店|みせ}が{閉|し}まる{前|まえ}に、お{弁当|べんとう}が{半分|はんぶん}の{値段|ねだん}になるからです。",
+    "en": "Yuta is a university student. He doesn't have much money. Every night at 9:30 he goes to a nearby supermarket, because the boxed lunches become half price before the store closes."
+   },
+   {
+    "jp": "その{日|ひ}、お{弁当|べんとう}は{一|ひと}つだけありました。{店|みせ}の{人|ひと}が「{半額|はんがく}」のシールをはりました。ユウタが{手|て}を{出|だ}すと、となりのおばあさんも{手|て}を{出|だ}しました。",
+    "en": "That day, there was only one boxed lunch left. A store worker put on a \"half price\" sticker. When Yuta reached out his hand, the old woman next to him reached out too."
+   },
+   {
+    "jp": "ユウタは{少|すこ}し{考|かんが}えて、「どうぞ。」と{言|い}いました。おばあさんは「ありがとう。やさしいですね。」と{言|い}って、お{弁当|べんとう}を{持|も}って{行|い}きました。その{夜|よる}、ユウタはパンを{一|ひと}つ{食|た}べました。",
+    "en": "Yuta thought for a moment and said, \"Go ahead.\" The old woman said, \"Thank you. You're kind,\" and took the lunch. That night, Yuta ate one piece of bread."
+   },
+   {
+    "jp": "{次|つぎ}の{日|ひ}の{夕方|ゆうがた}、アパートのドアをだれかがたたきました。ドアを{開|あ}けると、あのおばあさんがいました！「わたしは{一階|いっかい}の{大家|おおや}です。きのうはありがとう。」",
+    "en": "The next evening, someone knocked on the door of his apartment. When he opened the door, there was that old woman! \"I'm the landlady on the first floor. Thank you for yesterday.\""
+   },
+   {
+    "jp": "おばあさんは{大|おお}きいなべを{持|も}っていました。{中|なか}は{温|あたた}かいカレーでした。{今|いま}、ユウタは{毎週|まいしゅう}{金曜日|きんようび}に{一階|いっかい}で{晩|ばん}ごはんを{食|た}べています。",
+    "en": "She was holding a big pot. Inside was warm curry. Now Yuta eats dinner on the first floor every Friday."
+   }
+  ],
+  "questions": [
+   {
+    "q": "ユウタはどうして{九時|くじ}{半|はん}にスーパーへ{行|い}きますか。",
+    "q_en": "Why does Yuta go to the supermarket at 9:30?",
+    "options": [
+     "{店|みせ}がすいているから",
+     "お{弁当|べんとう}が{安|やす}くなるから",
+     "そこで{働|はたら}いているから",
+     "おばあさんに{会|あ}いたいから"
+    ],
+    "answer": 1,
+    "why": "The boxed lunches become half price before closing."
+   },
+   {
+    "q": "おばあさんはだれでしたか。",
+    "q_en": "Who was the old woman?",
+    "options": [
+     "スーパーの{店|みせ}の{人|ひと}",
+     "ユウタのおばあさん",
+     "{大学|だいがく}の{先生|せんせい}",
+     "アパートの{大家|おおや}さん"
+    ],
+    "answer": 3,
+    "why": "She said she was the landlady living on the first floor."
+   },
+   {
+    "q": "その{夜|よる}、ユウタは{何|なに}を{食|た}べましたか。",
+    "q_en": "What did Yuta eat that night?",
+    "options": [
+     "カレー",
+     "お{弁当|べんとう}",
+     "パン",
+     "{何|なに}も{食|た}べませんでした"
+    ],
+    "answer": 2,
+    "why": "He gave away the lunch and ate one piece of bread."
+   }
+  ]
+ },
+ {
+  "id": "s5-057",
+  "level": 5,
+  "title": "{道|みち}を{教|おし}えてください",
+  "title_en": "Please Tell Me the Way",
+  "genre_raw": "Travel",
+  "paragraphs": [
+   {
+    "jp": "サムは{京都|きょうと}を{旅行|りょこう}しています。{有名|ゆうめい}なお{寺|てら}を{見|み}たあと、{駅|えき}へ{帰|かえ}りたかったです。でも、{道|みち}がわかりません。スマホの{電池|でんち}もありません。",
+    "en": "Sam is traveling in Kyoto. After seeing a famous temple, he wanted to go back to the station. But he didn't know the way. His phone battery was dead too."
+   },
+   {
+    "jp": "サムは{帽子|ぼうし}のおじさんに{聞|き}きました。「すみません、{駅|えき}はどこですか。」おじさんは「ああ、{駅|えき}ですね。いっしょに{行|い}きましょう。」と{言|い}って、{歩|ある}きはじめました。サムはとてもうれしかったです。",
+    "en": "Sam asked a man in a hat. \"Excuse me, where is the station?\" The man said, \"Ah, the station. Let's go together,\" and started walking. Sam was very happy."
+   },
+   {
+    "jp": "{二人|ふたり}は{右|みぎ}へ{行|い}って、{左|ひだり}へ{行|い}って、また{右|みぎ}へ{行|い}きました。{二十分|にじゅっぷん}{歩|ある}きました。そして、{目|め}の{前|まえ}に…さっきのお{寺|てら}がありました。",
+    "en": "The two went right, then left, then right again. They walked for twenty minutes. And in front of them was... the same temple from before."
+   },
+   {
+    "jp": "おじさんは{帽子|ぼうし}をとって、「すみません。わたしも{旅行|りょこう}で{来|き}ました。」と{言|い}いました。{二人|ふたり}は{顔|かお}を{見|み}て、{笑|わら}いました。",
+    "en": "The man took off his hat and said, \"Sorry. I'm a tourist here too.\" The two looked at each other and laughed."
+   },
+   {
+    "jp": "そこへ、{小|ちい}さい{女|おんな}の{子|こ}が{来|き}ました。「{駅|えき}？こっちだよ。」{女|おんな}の{子|こ}について{行|い}くと、{五分|ごふん}で{駅|えき}に{着|つ}きました。",
+    "en": "Just then, a little girl came along. \"The station? It's this way.\" They followed the girl and reached the station in five minutes."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{二十分|にじゅっぷん}{歩|ある}いたあと、{二人|ふたり}はどこにいましたか。",
+    "q_en": "Where were the two after walking for twenty minutes?",
+    "options": [
+     "{駅|えき}の{前|まえ}",
+     "おじさんの{家|いえ}",
+     "さっきのお{寺|てら}の{前|まえ}",
+     "お{店|みせ}の{中|なか}"
+    ],
+    "answer": 2,
+    "why": "They came back to the same temple."
+   },
+   {
+    "q": "だれが{駅|えき}への{道|みち}を{知|し}っていましたか。",
+    "q_en": "Who knew the way to the station?",
+    "options": [
+     "サム",
+     "{帽子|ぼうし}のおじさん",
+     "お{寺|てら}の{人|ひと}",
+     "{小|ちい}さい{女|おんな}の{子|こ}"
+    ],
+    "answer": 3,
+    "why": "The little girl led them to the station in five minutes."
+   }
+  ]
+ },
+ {
+  "id": "s5-058",
+  "level": 5,
+  "title": "ホテルのまちがい",
+  "title_en": "A Mistake at the Hotel",
+  "genre_raw": "Travel",
+  "paragraphs": [
+   {
+    "jp": "エマは{夜|よる}{八時|はちじ}にホテルに{着|つ}きました。とてもつかれていました。フロントで「エマ・ブラウンです。{今日|きょう}から{二泊|にはく}です。」と{言|い}いました。",
+    "en": "Emma arrived at the hotel at eight in the evening. She was very tired. At the front desk she said, \"I'm Emma Brown. I'm staying two nights starting today.\""
+   },
+   {
+    "jp": "ホテルの{人|ひと}はパソコンを{見|み}て、{困|こま}った{顔|かお}をしました。「すみません。ブラウンさまのよやくは{来月|らいげつ}の{今日|きょう}です。」エマはびっくりしました。{月|つき}をまちがえたのです。",
+    "en": "The hotel worker looked at the computer and looked troubled. \"I'm sorry. Ms. Brown, your reservation is for this day next month.\" Emma was shocked. She had chosen the wrong month."
+   },
+   {
+    "jp": "「{今日|きょう}、{部屋|へや}はありますか。」「{少|すこ}し{待|ま}ってください。」ホテルの{人|ひと}は{電話|でんわ}をかけました。エマは{心配|しんぱい}で、{外|そと}の{雨|あめ}を{見|み}ていました。",
+    "en": "\"Do you have a room for tonight?\" \"Please wait a moment.\" The hotel worker made a phone call. Emma was worried and watched the rain outside."
+   },
+   {
+    "jp": "{五分|ごふん}{後|ご}、ホテルの{人|ひと}は{笑顔|えがお}で{言|い}いました。「{一番|いちばん}{上|うえ}の{部屋|へや}が{一|ひと}つだけあります。{同|おな}じ{値段|ねだん}でいいですよ。」",
+    "en": "Five minutes later, the hotel worker smiled and said, \"There is just one room left, on the top floor. You can have it for the same price.\""
+   },
+   {
+    "jp": "{部屋|へや}はとても{広|ひろ}くて、{大|おお}きい{窓|まど}がありました。{次|つぎ}の{朝|あさ}、{雨|あめ}はやんで、{窓|まど}から{富士山|ふじさん}が{見|み}えました。エマは「まちがえて、よかった。」と{思|おも}いました。",
+    "en": "The room was very spacious and had a big window. The next morning, the rain had stopped, and she could see Mt. Fuji from the window. Emma thought, \"I'm glad I made a mistake.\""
+   }
+  ],
+  "questions": [
+   {
+    "q": "エマは{何|なに}をまちがえましたか。",
+    "q_en": "What did Emma get wrong?",
+    "options": [
+     "ホテルの{名前|なまえ}",
+     "よやくの{月|つき}",
+     "{自分|じぶん}の{名前|なまえ}",
+     "{着|つ}く{時間|じかん}"
+    ],
+    "answer": 1,
+    "why": "Her reservation was for the same day next month."
+   },
+   {
+    "q": "エマの{部屋|へや}はどうでしたか。",
+    "q_en": "What was Emma's room like?",
+    "options": [
+     "{広|ひろ}くて、{富士山|ふじさん}が{見|み}えた",
+     "{狭|せま}くて、{窓|まど}がなかった",
+     "{高|たか}くて、{払|はら}えなかった",
+     "{部屋|へや}はなかった"
+    ],
+    "answer": 0,
+    "why": "It was a big top-floor room with a view of Mt. Fuji, at the same price."
+   }
+  ]
+ },
+ {
+  "id": "s5-059",
+  "level": 5,
+  "title": "100{円|えん}ショップの{計算|けいさん}",
+  "title_en": "Math at the 100-Yen Shop",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "ジョンは{新|あたら}しいアパートに{引|ひ}っ{越|こ}しました。{部屋|へや}には{何|なに}もありません。さいふには1000{円|えん}だけあります。それで、{駅|えき}の{前|まえ}の100{円|えん}ショップへ{行|い}きました。",
+    "en": "John moved into a new apartment. There is nothing in his room. He has only 1,000 yen in his wallet. So he went to the 100-yen shop in front of the station."
+   },
+   {
+    "jp": "{店|みせ}の{中|なか}は{広|ひろ}くて、いろいろなものがあります。コップ、おはし、お{皿|さら}、タオル、ハンガー、それから{電卓|でんたく}。「100{円|えん}が{十|とお}で1000{円|えん}。ちょうどいい！」ジョンは{十|とお}のものをかごに{入|い}れました。",
+    "en": "The shop is big and has all kinds of things. Cups, chopsticks, plates, towels, hangers, and a calculator. \"Ten things at 100 yen each is 1,000 yen. Perfect!\" John put ten items in his basket."
+   },
+   {
+    "jp": "レジの{人|ひと}は「1100{円|えん}です。」と{言|い}いました。「えっ、1000{円|えん}じゃありませんか。」「{税金|ぜいきん}がありますから。」ジョンは{税金|ぜいきん}をわすれていました。",
+    "en": "The cashier said, \"That's 1,100 yen.\" \"What? Isn't it 1,000 yen?\" \"There's tax.\" John had forgotten about tax."
+   },
+   {
+    "jp": "ジョンは{一|ひと}つ{返|かえ}さなければなりません。かごの{中|なか}を{見|み}て、{電卓|でんたく}を{出|だ}しました。「これは、いりません。」",
+    "en": "John had to put one thing back. He looked in the basket and took out the calculator. \"I don't need this.\""
+   },
+   {
+    "jp": "{店|みせ}を{出|で}て、ジョンは{少|すこ}し{考|かんが}えました。「あれ？{電卓|でんたく}があったら、{税金|ぜいきん}も{計算|けいさん}できましたね。」",
+    "en": "After leaving the shop, John thought for a moment. \"Huh? If I'd had a calculator, I could have worked out the tax too.\""
+   }
+  ],
+  "questions": [
+   {
+    "q": "どうして1100{円|えん}でしたか。",
+    "q_en": "Why was it 1,100 yen?",
+    "options": [
+     "{税金|ぜいきん}があったから",
+     "{電卓|でんたく}が{高|たか}かったから",
+     "{十一|じゅういち}のものを{買|か}ったから",
+     "かごが100{円|えん}だったから"
+    ],
+    "answer": 0,
+    "why": "Tax was added to the 1,000 yen."
+   },
+   {
+    "q": "ジョンは{何|なに}を{返|かえ}しましたか。",
+    "q_en": "What did John put back?",
+    "options": [
+     "タオル",
+     "おはし",
+     "コップ",
+     "{電卓|でんたく}"
+    ],
+    "answer": 3,
+    "why": "He took the calculator out of the basket."
+   }
+  ]
+ },
+ {
+  "id": "s5-060",
+  "level": 5,
+  "title": "はじめてのアルバイト",
+  "title_en": "My First Part-Time Job",
+  "genre_raw": "Work",
+  "paragraphs": [
+   {
+    "jp": "{今日|きょう}はミンのアルバイトの{一日目|いちにちめ}です。{仕事|しごと}は{駅|えき}の{近|ちか}くのコンビニです。{店長|てんちょう}は「お{客|きゃく}さんが{来|き}たら、{大|おお}きい{声|こえ}で『いらっしゃいませ』と{言|い}ってください。」と{言|い}いました。",
+    "en": "Today is Min's first day at her part-time job. The job is at a convenience store near the station. The manager said, \"When a customer comes in, please say 'Irasshaimase' in a loud voice.\""
+   },
+   {
+    "jp": "ミンはとてもきんちょうしていました。{家|いえ}で{何回|なんかい}も{練習|れんしゅう}しましたが、{声|こえ}が{小|ちい}さくなります。{店長|てんちょう}は「だいじょうぶ。ゆっくりでいいですよ。」と{笑|わら}いました。",
+    "en": "Min was very nervous. She had practiced many times at home, but her voice kept getting small. The manager smiled and said, \"It's OK. Take your time.\""
+   },
+   {
+    "jp": "ドアが{開|あ}きました。{最初|さいしょ}のお{客|きゃく}さんです。ミンは{顔|かお}を{上|あ}げて、びっくりしました。{日本語|にほんご}{学校|がっこう}の{山田|やまだ}{先生|せんせい}でした！",
+    "en": "The door opened. It was the first customer. Min looked up and was surprised. It was Ms. Yamada, her teacher from the Japanese language school!"
+   },
+   {
+    "jp": "ミンは{大|おお}きく{息|いき}をすって、「いらっしゃいませ！」と{言|い}いました。{店|みせ}の{中|なか}のみんなが{見|み}ました。{先生|せんせい}はおにぎりとお{茶|ちゃ}を{買|か}いました。ミンはまちがえないで、おつりをわたしました。",
+    "en": "Min took a big breath and said, \"Irasshaimase!\" Everyone in the store looked. The teacher bought a rice ball and tea. Min gave her the change without any mistakes."
+   },
+   {
+    "jp": "{先生|せんせい}は{帰|かえ}るとき、{小|ちい}さい{声|こえ}で{言|い}いました。「100{点|てん}です。でも、{明日|あした}の{宿題|しゅくだい}もわすれないでね。」",
+    "en": "As she left, the teacher said quietly, \"That's 100 points. But don't forget tomorrow's homework.\""
+   }
+  ],
+  "questions": [
+   {
+    "q": "{最初|さいしょ}のお{客|きゃく}さんはだれでしたか。",
+    "q_en": "Who was the first customer?",
+    "options": [
+     "{店長|てんちょう}",
+     "ミンの{友|とも}だち",
+     "{日本語|にほんご}{学校|がっこう}の{先生|せんせい}",
+     "ミンのお{母|かあ}さん"
+    ],
+    "answer": 2,
+    "why": "It was Ms. Yamada, Min's Japanese school teacher."
+   },
+   {
+    "q": "{先生|せんせい}は{何|なに}を{買|か}いましたか。",
+    "q_en": "What did the teacher buy?",
+    "options": [
+     "パンとコーヒー",
+     "おにぎりとお{茶|ちゃ}",
+     "お{弁当|べんとう}とジュース",
+     "{何|なに}も{買|か}いませんでした"
+    ],
+    "answer": 1,
+    "why": "She bought a rice ball and tea."
+   }
+  ]
+ },
+ {
+  "id": "s5-061",
+  "level": 5,
+  "title": "{時計|とけい}の{前|まえ}で",
+  "title_en": "In Front of the Clock",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "{金曜日|きんようび}の{夜|よる}、ハナは{友|とも}だちのアキに{電話|でんわ}をかけました。「{明日|あした}、いっしょに{映画|えいが}を{見|み}ませんか。」「いいですね！{何時|なんじ}に{会|あ}いましょうか。」「{十時|じゅうじ}に{駅|えき}の{大|おお}きい{時計|とけい}の{前|まえ}はどうですか。」「はい、わかりました。」",
+    "en": "On Friday night, Hana phoned her friend Aki. \"Do you want to see a movie together tomorrow?\" \"Sounds good! What time shall we meet?\" \"How about ten o'clock in front of the big clock at the station?\" \"OK, got it.\""
+   },
+   {
+    "jp": "{土曜日|どようび}、ハナは{九時|くじ}{五十分|ごじゅっぷん}に{時計|とけい}の{前|まえ}に{着|つ}きました。{十時|じゅうじ}になりました。アキは{来|き}ません。{十時|じゅうじ}{十分|じゅっぷん}になりました。まだ{来|き}ません。",
+    "en": "On Saturday, Hana arrived in front of the clock at 9:50. It became ten o'clock. Aki didn't come. It became 10:10. She still didn't come."
+   },
+   {
+    "jp": "ハナはアキに{電話|でんわ}しました。「アキさん、どこですか。」「{時計|とけい}の{前|まえ}にいますよ。ハナさんは？」「わたしも{時計|とけい}の{前|まえ}にいます！」「えっ、どの{時計|とけい}？」",
+    "en": "Hana called Aki. \"Aki, where are you?\" \"I'm in front of the clock. What about you, Hana?\" \"I'm in front of the clock too!\" \"What? Which clock?\""
+   },
+   {
+    "jp": "そのとき、ハナのうしろから「えっ、どの{時計|とけい}？」と{同|おな}じ{声|こえ}が{聞|き}こえました。ハナがうしろを{見|み}ると、アキがいました。{二人|ふたり}は{時計|とけい}の{前|まえ}で、せなかとせなかで{立|た}っていました。",
+    "en": "Just then, Hana heard the same voice saying \"What? Which clock?\" from right behind her. When Hana turned around, there was Aki. The two of them had been standing back to back in front of the clock."
+   },
+   {
+    "jp": "{二人|ふたり}はたくさん{笑|わら}いました。{映画|えいが}には{少|すこ}しおくれましたが、とても{楽|たの}しい{一日|いちにち}でした。",
+    "en": "The two laughed a lot. They were a little late for the movie, but it was a really fun day."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{二人|ふたり}は{何時|なんじ}に{会|あ}うやくそくでしたか。",
+    "q_en": "What time did the two promise to meet?",
+    "options": [
+     "{九時|くじ}{五十分|ごじゅっぷん}",
+     "{十時|じゅうじ}{十分|じゅっぷん}",
+     "{九時|くじ}",
+     "{十時|じゅうじ}"
+    ],
+    "answer": 3,
+    "why": "Hana suggested ten o'clock and Aki agreed."
+   },
+   {
+    "q": "アキはどこにいましたか。",
+    "q_en": "Where was Aki?",
+    "options": [
+     "ハナのすぐうしろ",
+     "{映画館|えいがかん}の{中|なか}",
+     "{家|いえ}",
+     "ちがう{駅|えき}"
+    ],
+    "answer": 0,
+    "why": "Aki was standing back to back with Hana in front of the clock."
+   }
+  ]
+ },
+ {
+  "id": "s5-062",
+  "level": 5,
+  "title": "{公園|こうえん}のカラス",
+  "title_en": "The Crow in the Park",
+  "genre_raw": "Daily life",
+  "paragraphs": [
+   {
+    "jp": "{天気|てんき}がいい{日曜日|にちようび}、わたしの{家族|かぞく}は{公園|こうえん}へ{行|い}きました。{父|ちち}は{朝|あさ}{早|はや}く{起|お}きて、サンドイッチをたくさん{作|つく}りました。{弟|おとうと}はボールを{持|も}って{来|き}ました。",
+    "en": "On a sunny Sunday, my family went to the park. Dad got up early and made lots of sandwiches. My little brother brought a ball."
+   },
+   {
+    "jp": "{大|おお}きい{木|き}の{下|した}にシートをしいて、{少|すこ}しボールで{遊|あそ}びました。そのとき、{黒|くろ}いカラスが{来|き}て、シートの{上|うえ}の{白|しろ}い{袋|ふくろ}を{持|も}って、{空|そら}へ{飛|と}んで{行|い}きました。",
+    "en": "We spread a mat under a big tree and played with the ball for a while. Just then, a black crow came, grabbed the white bag on the mat, and flew off into the sky."
+   },
+   {
+    "jp": "「ああ！わたしのサンドイッチ！」{父|ちち}はとても{悲|かな}しい{顔|かお}をしました。{弟|おとうと}は{泣|な}きそうでした。みんなおなかがすいていました。",
+    "en": "\"Oh no! My sandwiches!\" Dad looked very sad. My brother was about to cry. Everyone was hungry."
+   },
+   {
+    "jp": "でも、{母|はは}は{笑|わら}っていました。そして、{自分|じぶん}のかばんから{青|あお}い{袋|ふくろ}を{出|だ}しました。「サンドイッチはここですよ。カラスが{持|も}って{行|い}ったのは、{電車|でんしゃ}の{中|なか}で{食|た}べたおかしのごみです。」",
+    "en": "But Mom was laughing. Then she took a blue bag out of her own bag. \"The sandwiches are right here. What the crow took was the trash from the snacks we ate on the train.\""
+   },
+   {
+    "jp": "みんなで{笑|わら}って、サンドイッチを{食|た}べました。{木|き}の{上|うえ}で、カラスはごみの{袋|ふくろ}を{見|み}て、ちょっと{怒|おこ}っているようでした。",
+    "en": "We all laughed and ate the sandwiches. Up in the tree, the crow looked at the bag of trash and seemed a little angry."
+   }
+  ],
+  "questions": [
+   {
+    "q": "カラスは{何|なに}を{持|も}って{行|い}きましたか。",
+    "q_en": "What did the crow take?",
+    "options": [
+     "サンドイッチ",
+     "{弟|おとうと}のボール",
+     "ごみの{袋|ふくろ}",
+     "{母|はは}のかばん"
+    ],
+    "answer": 2,
+    "why": "The white bag only had trash from the snacks on the train."
+   },
+   {
+    "q": "サンドイッチはどこにありましたか。",
+    "q_en": "Where were the sandwiches?",
+    "options": [
+     "{母|はは}のかばんの{中|なか}",
+     "{木|き}の{上|うえ}",
+     "{家|いえ}のテーブル",
+     "{父|ちち}のポケット"
+    ],
+    "answer": 0,
+    "why": "Mom took them out of her bag in a blue bag."
+   },
+   {
+    "q": "{母|はは}はどうして{笑|わら}っていましたか。",
+    "q_en": "Why was Mom laughing?",
+    "options": [
+     "カラスが{好|す}きだから",
+     "サンドイッチがおいしくなかったから",
+     "{父|ちち}がボールで{遊|あそ}んだから",
+     "カラスはサンドイッチを{取|と}らなかったから"
+    ],
+    "answer": 3,
+    "why": "She knew the crow only took the trash, not the lunch."
+   }
+  ]
+ }
+]

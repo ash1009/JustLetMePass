@@ -1,0 +1,638 @@
+[
+ {
+  "id": "s5-001",
+  "level": 5,
+  "title": "{東京|とうきょう}に{着|つ}きました",
+  "title_en": "Arriving in Tokyo",
+  "genre_raw": "Travel",
+  "paragraphs": [
+   {
+    "jp": "ケンさんはアメリカの{学生|がくせい}です。{四月|しがつ}に{日本|にほん}へ{来|き}ました。これから{東京|とうきょう}の{学校|がっこう}で{日本語|にほんご}を{勉強|べんきょう}します。ケンさんのスーツケースはとても{大|おお}きくて、とても{重|おも}いです。",
+    "en": "Ken is a student from America. He came to Japan in April. From now on, he will study Japanese at a school in Tokyo. Ken’s suitcase is very big and very heavy."
+   },
+   {
+    "jp": "{空港|くうこう}で、ケンさんはバスに{乗|の}りました。でも、スーツケースがドアに{入|はい}りません。ケンさんは「すみません、すみません」と{何回|なんかい}も{言|い}いました。{運転手|うんてんしゅ}さんは{笑|わら}って、{一緒|いっしょ}にスーツケースを{押|お}しました。",
+    "en": "At the airport, Ken got on a bus. But his suitcase would not fit through the door. Ken said “Sorry, sorry” many times. The driver laughed and helped him push the suitcase in."
+   },
+   {
+    "jp": "バスの{中|なか}で、ケンさんは{窓|まど}から{東京|とうきょう}を{見|み}ました。{高|たか}いビルがたくさんあります。{人|ひと}もたくさんいます。{隣|となり}のおばあさんが「{東京|とうきょう}は{初|はじ}めてですか」と{聞|き}きました。「はい！{今日|きょう}から{東京|とうきょう}の{人|ひと}です！」おばあさんはにこにこ{笑|わら}いました。",
+    "en": "On the bus, Ken looked at Tokyo through the window. There were lots of tall buildings, and lots of people too. The old woman next to him asked, “Is this your first time in Tokyo?” “Yes! From today, I’m a Tokyo person!” The old woman smiled warmly."
+   },
+   {
+    "jp": "{夜|よる}、ケンさんはホテルでスーツケースを{開|あ}けました。{中|なか}に、お{母|かあ}さんの{手紙|てがみ}と{国|くに}のお{菓子|かし}がたくさんありました。{手紙|てがみ}には「{毎日|まいにち}ちゃんと{食|た}べてね」と{書|か}いてありました。ケンさんは{笑|わら}いました。「だから{重|おも}かったんですね。」",
+    "en": "That night, Ken opened his suitcase at the hotel. Inside were a letter from his mother and lots of snacks from home. The letter said, “Eat properly every day.” Ken laughed. “So that’s why it was so heavy.”"
+   }
+  ],
+  "questions": [
+   {
+    "q": "ケンさんのスーツケースはどうして{重|おも}かったですか。",
+    "q_en": "Why was Ken’s suitcase heavy?",
+    "options": [
+     "{本|ほん}がたくさんあったから",
+     "お{菓子|かし}がたくさんあったから",
+     "{服|ふく}がたくさんあったから",
+     "{運転手|うんてんしゅ}さんのかばんがあったから"
+    ],
+    "answer": 1,
+    "why": "His mother had packed lots of snacks from home."
+   },
+   {
+    "q": "バスで、おばあさんはケンさんに{何|なに}を{聞|き}きましたか。",
+    "q_en": "On the bus, what did the old woman ask Ken?",
+    "options": [
+     "{名前|なまえ}は{何|なん}ですか",
+     "どこから{来|き}ましたか",
+     "{何歳|なんさい}ですか",
+     "{東京|とうきょう}は{初|はじ}めてですか"
+    ],
+    "answer": 3,
+    "why": "She asked if it was his first time in Tokyo."
+   }
+  ]
+ },
+ {
+  "id": "s5-002",
+  "level": 5,
+  "title": "アパートのかぎ",
+  "title_en": "The Apartment Key",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "{次|つぎ}の{日|ひ}、ケンさんはアパートへ{行|い}きました。{駅|えき}から{歩|ある}いて{十分|じゅっぷん}です。{古|ふる}いですが、きれいな{白|しろ}いアパートです。ケンさんの{部屋|へや}は{二階|にかい}です。{大家|おおや}さんから、かぎをもらいました。",
+    "en": "The next day, Ken went to his apartment. It is a ten-minute walk from the station. It is an old but clean white building. Ken’s room is on the second floor. He got the key from the landlord."
+   },
+   {
+    "jp": "ケンさんは{二階|にかい}のドアにかぎを{入|い}れました。{右|みぎ}に{回|まわ}しました。{左|ひだり}にも{回|まわ}しました。でも、ドアは{開|あ}きません。「あれ？どうして？」ケンさんは{十分|じゅっぷん}ぐらいドアの{前|まえ}でがんばりました。",
+    "en": "Ken put the key into a door on the second floor. He turned it right. He turned it left too. But the door would not open. “Huh? Why not?” Ken struggled in front of the door for about ten minutes."
+   },
+   {
+    "jp": "そのとき、ドアが{中|なか}から{開|あ}きました。{小|ちい}さい{男|おとこ}の{子|こ}が{出|で}てきました。「お{兄|にい}さん、だれ？ここはぼくの{家|いえ}だよ。」ケンさんはびっくりしました。ケンさんの{部屋|へや}は、{隣|となり}でした。",
+    "en": "Just then, the door opened from the inside. A little boy came out. “Who are you, mister? This is my house.” Ken was shocked. His room was the one next door."
+   },
+   {
+    "jp": "ケンさんの{顔|かお}は{赤|あか}くなりました。「ごめんなさい！」{隣|となり}のドアは、かぎですぐ{開|あ}きました。{部屋|へや}は{小|ちい}さいですが、{窓|まど}から{桜|さくら}の{木|き}が{見|み}えます。「いい{部屋|へや}だ。」ケンさんはうれしくなりました。",
+    "en": "Ken’s face turned red. “I’m so sorry!” The door next to it opened right away with the key. The room is small, but he can see a cherry tree from the window. “What a nice room.” Ken felt happy."
+   }
+  ],
+  "questions": [
+   {
+    "q": "どうしてドアが{開|あ}きませんでしたか。",
+    "q_en": "Why didn’t the door open?",
+    "options": [
+     "かぎが{古|ふる}かったから",
+     "{大家|おおや}さんが{違|ちが}うかぎをあげたから",
+     "ケンさんの{部屋|へや}じゃなかったから",
+     "ドアが{壊|こわ}れていたから"
+    ],
+    "answer": 2,
+    "why": "Ken was trying to open the wrong door; his room was next door."
+   },
+   {
+    "q": "ケンさんの{部屋|へや}の{窓|まど}から{何|なに}が{見|み}えますか。",
+    "q_en": "What can Ken see from his room’s window?",
+    "options": [
+     "{桜|さくら}の{木|き}",
+     "{駅|えき}",
+     "{山|やま}",
+     "{海|うみ}"
+    ],
+    "answer": 0,
+    "why": "He can see a cherry tree from the window."
+   }
+  ]
+ },
+ {
+  "id": "s5-003",
+  "level": 5,
+  "title": "となりの{田中|たなか}さん",
+  "title_en": "Mrs. Tanaka Next Door",
+  "genre_raw": "Slice of life",
+  "paragraphs": [
+   {
+    "jp": "{日曜日|にちようび}、ケンさんは{隣|となり}の{人|ひと}にあいさつに{行|い}きました。{手|て}にはタオルを{持|も}っています。{日本|にほん}では、{新|あたら}しい{家|いえ}に{来|き}たとき、{隣|となり}の{人|ひと}に{小|ちい}さいプレゼントをあげます。{本|ほん}で{読|よ}みました。",
+    "en": "On Sunday, Ken went to say hello to his neighbour. He was holding a towel. In Japan, when you move into a new home, you give a small present to your neighbours. He had read it in a book."
+   },
+   {
+    "jp": "ドアを{開|あ}けたのは、{六十歳|ろくじゅっさい}ぐらいの{女|おんな}の{人|ひと}でした。「{田中|たなか}です！」{田中|たなか}さんはとても{声|こえ}が{大|おお}きいです。「あなた、{細|ほそ}いね！ちゃんと{食|た}べてる？」ケンさんはびっくりしました。",
+    "en": "The person who opened the door was a woman of about sixty. “I’m Tanaka!” Mrs. Tanaka has a very loud voice. “You’re so thin! Are you eating properly?” Ken was surprised."
+   },
+   {
+    "jp": "{田中|たなか}さんは{部屋|へや}に{入|はい}って、すぐ{出|で}てきました。{手|て}には、みかんが{十個|じゅっこ}と、おにぎりが{三|みっ}つありました。「はい、これ{食|た}べて！」ケンさんはタオルを{一|ひと}つあげて、{食|た}べ{物|もの}をたくさんもらいました。",
+    "en": "Mrs. Tanaka went inside and came right back out. In her hands were ten mandarin oranges and three rice balls. “Here, eat these!” Ken gave one towel and got lots of food."
+   },
+   {
+    "jp": "その{夜|よる}、ケンさんはおにぎりを{食|た}べました。とてもおいしかったです。{壁|かべ}の{向|む}こうから{田中|たなか}さんの{大|おお}きい{声|こえ}が{聞|き}こえました。「ケンくん、{早|はや}く{寝|ね}なさいよ！」ケンさんは{笑|わら}いました。{東京|とうきょう}に、お{母|かあ}さんがもう{一人|ひとり}できました。",
+    "en": "That night, Ken ate the rice balls. They were delicious. From the other side of the wall, he heard Mrs. Tanaka’s loud voice. “Ken, go to bed early!” Ken laughed. Now he had one more mother, here in Tokyo."
+   }
+  ],
+  "questions": [
+   {
+    "q": "ケンさんは{田中|たなか}さんに{何|なに}をあげましたか。",
+    "q_en": "What did Ken give Mrs. Tanaka?",
+    "options": [
+     "みかん",
+     "おにぎり",
+     "タオル",
+     "{本|ほん}"
+    ],
+    "answer": 2,
+    "why": "Ken brought a towel as a small hello present."
+   },
+   {
+    "q": "{田中|たなか}さんはどんな{人|ひと}ですか。",
+    "q_en": "What kind of person is Mrs. Tanaka?",
+    "options": [
+     "{静|しず}かで、こわい{人|ひと}",
+     "{声|こえ}が{大|おお}きくて、やさしい{人|ひと}",
+     "{料理|りょうり}がきらいな{人|ひと}",
+     "ケンさんの{学校|がっこう}の{先生|せんせい}"
+    ],
+    "answer": 1,
+    "why": "She is loud, but she kindly gives Ken food and cares about him."
+   }
+  ]
+ },
+ {
+  "id": "s5-004",
+  "level": 5,
+  "title": "コンビニで「はい」",
+  "title_en": "Saying “Yes” at the Konbini",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "ケンさんは{近|ちか}くのコンビニへ{行|い}きました。お{弁当|べんとう}と{牛乳|ぎゅうにゅう}を{買|か}います。{日本|にほん}のコンビニには{何|なん}でもあります。ケンさんはコンビニが{大好|だいす}きです。",
+    "en": "Ken went to the nearby convenience store. He was buying a boxed lunch and milk. Japanese convenience stores have everything. Ken loves convenience stores."
+   },
+   {
+    "jp": "レジで、{店員|てんいん}さんがいろいろ{聞|き}きました。でも、{話|はなし}がとても{速|はや}いです。ケンさんはよくわかりません。だから、{全部|ぜんぶ}「はい」と{言|い}いました。「{温|あたた}めますか。」「はい。」「{牛乳|ぎゅうにゅう}も{温|あたた}めますか。」「はい。」「おはしは？」「はい。」「スプーンは？」「はい。」「ポイントカードを{作|つく}りますか。」「はい。」",
+    "en": "At the register, the clerk asked lots of things. But she spoke very fast. Ken didn’t really understand. So he said “yes” to everything. “Shall I heat it up?” “Yes.” “Shall I heat the milk too?” “Yes.” “Chopsticks?” “Yes.” “A spoon?” “Yes.” “Would you like to make a point card?” “Yes.”"
+   },
+   {
+    "jp": "{家|いえ}に{帰|かえ}って、{袋|ふくろ}を{開|あ}けました。{温|あたた}かいお{弁当|べんとう}と、{温|あたた}かい{牛乳|ぎゅうにゅう}がありました。おはしとスプーンもありました。それから、{新|あたら}しいポイントカードもありました。",
+    "en": "He went home and opened the bag. There was a warm boxed lunch and warm milk. There were chopsticks and a spoon too. And there was also a brand-new point card."
+   },
+   {
+    "jp": "ケンさんは{温|あたた}かい{牛乳|ぎゅうにゅう}を{飲|の}みました。「うーん……。」{次|つぎ}の{日|ひ}、ケンさんは{小|ちい}さい{紙|かみ}に「いいえ」と「けっこうです」を{書|か}いて、ポケットに{入|い}れました。",
+    "en": "Ken drank the warm milk. “Hmm…” The next day, Ken wrote “no” and “no, thank you” on a small piece of paper and put it in his pocket."
+   }
+  ],
+  "questions": [
+   {
+    "q": "ケンさんはどうして{全部|ぜんぶ}「はい」と{言|い}いましたか。",
+    "q_en": "Why did Ken say “yes” to everything?",
+    "options": [
+     "{全部|ぜんぶ}ほしかったから",
+     "{店員|てんいん}さんの{話|はなし}がよくわからなかったから",
+     "{店員|てんいん}さんが{友|とも}だちだったから",
+     "{急|いそ}いでいたから"
+    ],
+    "answer": 1,
+    "why": "The clerk spoke too fast, so Ken didn’t understand."
+   },
+   {
+    "q": "{次|つぎ}の{日|ひ}、ケンさんは{何|なに}をしましたか。",
+    "q_en": "What did Ken do the next day?",
+    "options": [
+     "{冷|つめ}たい{牛乳|ぎゅうにゅう}を{買|か}いました",
+     "ポイントカードを{捨|す}てました",
+     "コンビニへ{行|い}きませんでした",
+     "{紙|かみ}に「いいえ」と{書|か}きました"
+    ],
+    "answer": 3,
+    "why": "He wrote “no” and “no, thank you” on paper to use next time."
+   }
+  ]
+ },
+ {
+  "id": "s5-005",
+  "level": 5,
+  "title": "{電車|でんしゃ}で{一周|いっしゅう}",
+  "title_en": "Once Around on the Train",
+  "genre_raw": "Travel",
+  "paragraphs": [
+   {
+    "jp": "{土曜日|どようび}、ケンさんは{初|はじ}めて{一人|ひとり}で{電車|でんしゃ}に{乗|の}りました。{新宿|しんじゅく}で{日本語|にほんご}の{本|ほん}を{買|か}いたいです。{駅|えき}には{人|ひと}がたくさんいて、とても{込|こ}んでいました。",
+    "en": "On Saturday, Ken rode the train alone for the first time. He wanted to buy a Japanese book in Shinjuku. There were lots of people at the station, and it was very crowded."
+   },
+   {
+    "jp": "ケンさんは{緑|みどり}の{電車|でんしゃ}に{乗|の}りました。{山手線|やまのてせん}です。{新宿|しんじゅく}まで{四|よっ}つです。{席|せき}に{座|すわ}りました。{電車|でんしゃ}は{暖|あたた}かくて、とても{静|しず}かです。ケンさんはすぐ{寝|ね}ました。",
+    "en": "Ken got on the green train. It was the Yamanote Line. Shinjuku was four stops away. He sat down in a seat. The train was warm and very quiet. Ken fell asleep right away."
+   },
+   {
+    "jp": "{起|お}きたとき、{窓|まど}の{外|そと}に{知|し}っている{駅|えき}が{見|み}えました。ケンさんのアパートの{駅|えき}です！{山手線|やまのてせん}は{丸|まる}い{線|せん}です。ケンさんは{一時間|いちじかん}で{東京|とうきょう}をぐるっと{一回|いっかい}{回|まわ}りました。",
+    "en": "When he woke up, he saw a station he knew outside the window. It was his own apartment’s station! The Yamanote Line goes in a circle. Ken had gone all the way around Tokyo in one hour."
+   },
+   {
+    "jp": "{隣|となり}のおじいさんが{笑|わら}いました。「わたしも{若|わか}いとき、やりましたよ。」ケンさんも{笑|わら}いました。その{後|あと}、ケンさんは{新宿|しんじゅく}で{本|ほん}を{買|か}いました。{帰|かえ}りの{電車|でんしゃ}では、ずっと{立|た}っていました。「もう{寝|ね}ません！」",
+    "en": "The old man next to him laughed. “I did that too when I was young.” Ken laughed too. After that, Ken bought his book in Shinjuku. On the train home, he stood the whole way. “I’m never falling asleep again!”"
+   }
+  ],
+  "questions": [
+   {
+    "q": "ケンさんはどうしてすぐ{新宿|しんじゅく}に{着|つ}きませんでしたか。",
+    "q_en": "Why didn’t Ken get to Shinjuku right away?",
+    "options": [
+     "{違|ちが}う{電車|でんしゃ}に{乗|の}ったから",
+     "{電車|でんしゃ}が{止|と}まったから",
+     "{電車|でんしゃ}の{中|なか}で{寝|ね}たから",
+     "{駅|えき}の{名前|なまえ}を{忘|わす}れたから"
+    ],
+    "answer": 2,
+    "why": "He fell asleep and rode past Shinjuku all the way around the line."
+   },
+   {
+    "q": "{帰|かえ}りの{電車|でんしゃ}で、ケンさんはどうしましたか。",
+    "q_en": "What did Ken do on the train home?",
+    "options": [
+     "また{寝|ね}ました",
+     "{立|た}っていました",
+     "おじいさんと{本|ほん}を{読|よ}みました",
+     "{席|せき}に{座|すわ}りました"
+    ],
+    "answer": 1,
+    "why": "He stood the whole way so he would not fall asleep."
+   }
+  ]
+ },
+ {
+  "id": "s5-006",
+  "level": 5,
+  "title": "はじめての{自己紹介|じこしょうかい}",
+  "title_en": "My First Self-Introduction",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "{月曜日|げつようび}、{日本語|にほんご}の{学校|がっこう}が{始|はじ}まりました。クラスには{学生|がくせい}が{十二人|じゅうににん}います。みんな、いろいろな{国|くに}から{来|き}ました。{先生|せんせい}は{山本|やまもと}{先生|せんせい}です。",
+    "en": "On Monday, Japanese school started. There are twelve students in the class. They all came from different countries. The teacher is Mr. Yamamoto."
+   },
+   {
+    "jp": "「では、{一人|ひとり}ずつ{自己紹介|じこしょうかい}をしてください。」ケンさんはとても{緊張|きんちょう}しました。{昨日|きのう}の{夜|よる}、{家|いえ}でたくさん{練習|れんしゅう}しました。ケンさんは{立|た}って、{大|おお}きい{声|こえ}で{言|い}いました。",
+    "en": "“Now, please introduce yourselves one by one.” Ken was very nervous. Last night, he had practised a lot at home. Ken stood up and spoke in a loud voice."
+   },
+   {
+    "jp": "「はじめまして。ケンです。アメリカから{来|き}ました。{好|す}きな{食|た}べ{物|もの}は……{田中|たなか}さんです！」クラスのみんなが{笑|わら}いました。ケンさんは「おにぎり」と{言|い}いたかったです。でも、{緊張|きんちょう}して、{隣|となり}の{人|ひと}の{名前|なまえ}を{言|い}いました。",
+    "en": "“Nice to meet you. I’m Ken. I came from America. My favourite food is… Mrs. Tanaka!” The whole class laughed. Ken had wanted to say “rice balls.” But he was nervous, and he said his neighbour’s name."
+   },
+   {
+    "jp": "{山本|やまもと}{先生|せんせい}も{笑|わら}って、「{田中|たなか}さんはおいしいですか」と{聞|き}きました。ケンさんは{赤|あか}い{顔|かお}で「{田中|たなか}さんのおにぎりがおいしいです」と{言|い}いました。{一日目|いちにちめ}から、クラスのみんながケンさんの{名前|なまえ}を{覚|おぼ}えました。",
+    "en": "Mr. Yamamoto laughed too and asked, “Is Mrs. Tanaka tasty?” With a red face, Ken said, “Mrs. Tanaka’s rice balls are tasty.” From the very first day, everyone in the class remembered Ken’s name."
+   }
+  ],
+  "questions": [
+   {
+    "q": "ケンさんは{本当|ほんとう}は{何|なん}と{言|い}いたかったですか。",
+    "q_en": "What did Ken really want to say?",
+    "options": [
+     "{田中|たなか}さん",
+     "{山本|やまもと}{先生|せんせい}",
+     "アメリカ",
+     "おにぎり"
+    ],
+    "answer": 3,
+    "why": "He wanted to say his favourite food was rice balls."
+   },
+   {
+    "q": "どうしてみんなはすぐケンさんの{名前|なまえ}を{覚|おぼ}えましたか。",
+    "q_en": "Why did everyone remember Ken’s name so quickly?",
+    "options": [
+     "ケンさんの{自己紹介|じこしょうかい}がおもしろかったから",
+     "ケンさんの{日本語|にほんご}がとても{上手|じょうず}だったから",
+     "ケンさんの{背|せ}が{一番|いちばん}{高|たか}かったから",
+     "{先生|せんせい}が{名前|なまえ}を{黒板|こくばん}に{書|か}いたから"
+    ],
+    "answer": 0,
+    "why": "His funny mistake made everyone laugh and remember him."
+   }
+  ]
+ },
+ {
+  "id": "s5-007",
+  "level": 5,
+  "title": "ユイさんとかさ",
+  "title_en": "Yui and the Umbrella",
+  "genre_raw": "Slice of life",
+  "paragraphs": [
+   {
+    "jp": "{五月|ごがつ}のある{日|ひ}、{学校|がっこう}の{帰|かえ}りに{雨|あめ}が{降|ふ}りました。ケンさんはかさを{持|も}っていました。{学校|がっこう}の{前|まえ}で、{若|わか}い{女|おんな}の{人|ひと}が{困|こま}った{顔|かお}で{空|そら}を{見|み}ていました。",
+    "en": "One day in May, it rained on the way home from school. Ken had an umbrella. In front of the school, a young woman was looking up at the sky with a troubled face."
+   },
+   {
+    "jp": "ケンさんは{少|すこ}し{考|かんが}えて、「あの、これ、どうぞ」とかさを{渡|わた}しました。「え？でも、あなたは？」「ぼくの{家|いえ}は{近|ちか}いです。{大丈夫|だいじょうぶ}です！」そして、ケンさんは{雨|あめ}の{中|なか}を{走|はし}りました。",
+    "en": "Ken thought for a moment, then handed her his umbrella. “Um, here, take this.” “Huh? But what about you?” “My home is close. I’m fine!” And Ken ran off into the rain."
+   },
+   {
+    "jp": "でも、{本当|ほんとう}は{近|ちか}くありません。{学校|がっこう}から{家|いえ}まで、{歩|ある}いて{二十分|にじゅっぷん}です。{家|いえ}に{着|つ}いたとき、ケンさんは{頭|あたま}から{足|あし}までぬれていました。{田中|たなか}さんが{見|み}て、「どうしたの！」と{大|おお}きい{声|こえ}を{出|だ}しました。",
+    "en": "But actually, it wasn’t close. It was a twenty-minute walk from school to his home. When he got home, Ken was wet from head to toe. Mrs. Tanaka saw him and shouted, “What happened to you!”"
+   },
+   {
+    "jp": "{次|つぎ}の{週|しゅう}、{学校|がっこう}の{前|まえ}にあの{女|おんな}の{人|ひと}がいました。{手|て}にケンさんのかさとクッキーを{持|も}っています。「この{前|まえ}はありがとう。わたし、ユイです。{近|ちか}くの{大学|だいがく}の{学生|がくせい}です。」{二人|ふたり}は{一緒|いっしょ}にクッキーを{食|た}べました。{東京|とうきょう}で{初|はじ}めての{友|とも}だちです。",
+    "en": "The next week, that woman was in front of the school. She was holding Ken’s umbrella and some cookies. “Thanks for the other day. I’m Yui. I’m a student at the university nearby.” The two of them ate the cookies together. She was his first friend in Tokyo."
+   }
+  ],
+  "questions": [
+   {
+    "q": "ケンさんはどうしてぬれましたか。",
+    "q_en": "Why did Ken get wet?",
+    "options": [
+     "かさを{忘|わす}れたから",
+     "かさが{壊|こわ}れたから",
+     "{女|おんな}の{人|ひと}にかさをあげたから",
+     "{田中|たなか}さんが{水|みず}をかけたから"
+    ],
+    "answer": 2,
+    "why": "He gave his umbrella to the woman and ran home in the rain."
+   },
+   {
+    "q": "ケンさんの{家|いえ}は{学校|がっこう}から{近|ちか}いですか。",
+    "q_en": "Is Ken’s home close to the school?",
+    "options": [
+     "はい、{歩|ある}いて{二分|にふん}です",
+     "いいえ、{歩|ある}いて{二十分|にじゅっぷん}です",
+     "はい、{学校|がっこう}の{隣|となり}です",
+     "いいえ、{電車|でんしゃ}で{一時間|いちじかん}です"
+    ],
+    "answer": 1,
+    "why": "The story says it is actually a twenty-minute walk."
+   },
+   {
+    "q": "ユイさんは{次|つぎ}の{週|しゅう}、{何|なに}を{持|も}ってきましたか。",
+    "q_en": "What did Yui bring the next week?",
+    "options": [
+     "{花|はな}とかさ",
+     "お{弁当|べんとう}",
+     "クッキーだけ",
+     "かさとクッキー"
+    ],
+    "answer": 3,
+    "why": "She returned Ken’s umbrella and brought cookies to say thank you."
+   }
+  ]
+ },
+ {
+  "id": "s5-008",
+  "level": 5,
+  "title": "はじめてのカレー",
+  "title_en": "My First Curry",
+  "genre_raw": "Food",
+  "paragraphs": [
+   {
+    "jp": "ケンさんは{毎日|まいにち}コンビニのお{弁当|べんとう}を{食|た}べています。ユイさんが「カレーは{簡単|かんたん}だよ。{作|つく}ってみて」と{言|い}いました。ケンさんはスーパーで{肉|にく}と{野菜|やさい}とカレーのルーを{買|か}いました。",
+    "en": "Ken eats convenience store lunches every day. Yui said, “Curry is easy. Try making some.” Ken bought meat, vegetables, and curry roux at the supermarket."
+   },
+   {
+    "jp": "{箱|はこ}に「{水|みず}は{七百|ななひゃく}ミリリットル」と{書|か}いてありました。でも、ケンさんの{家|いえ}には{計|はか}るカップがありません。「たぶん、これぐらいです。」ケンさんは{大|おお}きい{鍋|なべ}に{水|みず}をたくさん{入|い}れました。",
+    "en": "The box said, “700 millilitres of water.” But Ken had no measuring cup at home. “Probably about this much.” Ken poured lots of water into a big pot."
+   },
+   {
+    "jp": "{一時間|いちじかん}{後|ご}、カレーができました。でも、カレーはスープのようです。{肉|にく}と{野菜|やさい}が{茶色|ちゃいろ}い{水|みず}の{中|なか}で{泳|およ}いでいます。ケンさんが{困|こま}っていたとき、ドアのベルが{鳴|な}りました。ユイさんと{田中|たなか}さんです。「いいにおいがするね！」",
+    "en": "An hour later, the curry was done. But it looked like soup. The meat and vegetables were swimming in brown water. While Ken was wondering what to do, the doorbell rang. It was Yui and Mrs. Tanaka. “Something smells good!”"
+   },
+   {
+    "jp": "{三人|さんにん}は{一緒|いっしょ}に{食|た}べました。{田中|たなか}さんは「これはスープカレーね！{北海道|ほっかいどう}の{有名|ゆうめい}な{料理|りょうり}よ」と{言|い}いました。ユイさんも「おいしい！」と{言|い}いました。ケンさんは{少|すこ}し{恥|は}ずかしかったですが、とてもうれしかったです。",
+    "en": "The three of them ate together. Mrs. Tanaka said, “This is soup curry! It’s a famous dish from Hokkaido.” Yui also said, “It’s delicious!” Ken was a little embarrassed, but very happy."
+   }
+  ],
+  "questions": [
+   {
+    "q": "ケンさんのカレーはどうしてスープのようでしたか。",
+    "q_en": "Why was Ken’s curry like soup?",
+    "options": [
+     "{水|みず}がとても{多|おお}かったから",
+     "{肉|にく}を{入|い}れなかったから",
+     "{田中|たなか}さんが{水|みず}を{入|い}れたから",
+     "{鍋|なべ}が{小|ちい}さかったから"
+    ],
+    "answer": 0,
+    "why": "He had no measuring cup and put in too much water."
+   },
+   {
+    "q": "{田中|たなか}さんはケンさんのカレーを{何|なん}と{言|い}いましたか。",
+    "q_en": "What did Mrs. Tanaka call Ken’s curry?",
+    "options": [
+     "まずいカレー",
+     "スープカレー",
+     "{甘|あま}いカレー",
+     "{辛|から}いカレー"
+    ],
+    "answer": 1,
+    "why": "She kindly called it soup curry, a famous Hokkaido dish."
+   }
+  ]
+ },
+ {
+  "id": "s5-009",
+  "level": 5,
+  "title": "{床屋|とこや}で「みじかく！」",
+  "title_en": "“Short!” at the Barber",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "{六月|ろくがつ}になりました。ケンさんの{髪|かみ}は{長|なが}くなりました。それで、{近|ちか}くの{床屋|とこや}へ{行|い}きました。{店|みせ}のおじさんは{英語|えいご}が{話|はな}せません。ケンさんも{難|むずか}しい{日本語|にほんご}はわかりません。",
+    "en": "It was June. Ken’s hair had grown long. So he went to the barber nearby. The man at the shop can’t speak English. Ken doesn’t understand difficult Japanese either."
+   },
+   {
+    "jp": "おじさんが「どのぐらい{切|き}りますか」と{聞|き}きました。ケンさんは「{少|すこ}しだけ{短|みじか}く」と{言|い}いたかったです。でも、{口|くち}から{出|で}たのは「みじかく！」だけでした。おじさんは「はい！」と{元気|げんき}に{言|い}いました。",
+    "en": "The man asked, “How much shall I cut?” Ken wanted to say, “Just a little shorter.” But the only word that came out of his mouth was “Short!” The man said “Yes, sir!” cheerfully."
+   },
+   {
+    "jp": "{椅子|いす}はとても{気持|きも}ちがよかったです。ケンさんはまた{寝|ね}ました。{起|お}きたとき、{鏡|かがみ}の{中|なか}に{知|し}らない{人|ひと}がいました。{髪|かみ}がとても{短|みじか}いです。{野球|やきゅう}の{選手|せんしゅ}のようです。",
+    "en": "The chair was very comfortable. Ken fell asleep again. When he woke up, there was a stranger in the mirror. His hair was very short. He looked like a baseball player."
+   },
+   {
+    "jp": "{次|つぎ}の{日|ひ}、{学校|がっこう}で{山本|やまもと}{先生|せんせい}が「あれ？{新|あたら}しい{学生|がくせい}ですか」と{言|い}いました。クラスのみんなが{笑|わら}いました。{夕方|ゆうがた}、ユイさんは「{似合|にあ}うよ！{夏|なつ}は{涼|すず}しいね」と{言|い}いました。ケンさんは{頭|あたま}をさわって、{少|すこ}し{笑|わら}いました。",
+    "en": "The next day at school, Mr. Yamamoto said, “Huh? Are you a new student?” The whole class laughed. In the evening, Yui said, “It suits you! It’ll be cool in summer.” Ken touched his head and smiled a little."
+   }
+  ],
+  "questions": [
+   {
+    "q": "ケンさんは{本当|ほんとう}はどうしたかったですか。",
+    "q_en": "What did Ken really want?",
+    "options": [
+     "とても{短|みじか}くしたかった",
+     "{髪|かみ}の{色|いろ}を{変|か}えたかった",
+     "{髪|かみ}を{洗|あら}うだけでよかった",
+     "{少|すこ}しだけ{切|き}りたかった"
+    ],
+    "answer": 3,
+    "why": "He wanted it just a little shorter, but only said “short.”"
+   },
+   {
+    "q": "{山本|やまもと}{先生|せんせい}はどうして「{新|あたら}しい{学生|がくせい}ですか」と{言|い}いましたか。",
+    "q_en": "Why did Mr. Yamamoto ask “Are you a new student?”",
+    "options": [
+     "ケンさんが{遅|おく}れて{来|き}たから",
+     "ケンさんが{新|あたら}しい{服|ふく}を{着|き}ていたから",
+     "ケンさんの{髪|かみ}がとても{短|みじか}くなったから",
+     "ケンさんがとても{静|しず}かだったから"
+    ],
+    "answer": 2,
+    "why": "Ken’s very short hair made him look like a different person."
+   }
+  ]
+ },
+ {
+  "id": "s5-010",
+  "level": 5,
+  "title": "かぜをひきました",
+  "title_en": "Catching a Cold",
+  "genre_raw": "Daily life",
+  "paragraphs": [
+   {
+    "jp": "{梅雨|つゆ}になりました。{毎日|まいにち}{雨|あめ}です。ある{朝|あさ}、ケンさんは{頭|あたま}が{痛|いた}くて、{熱|ねつ}がありました。{三十八度|さんじゅうはちど}です。ケンさんは{学校|がっこう}を{休|やす}みました。",
+    "en": "The rainy season came. It rained every day. One morning, Ken had a headache and a fever. It was 38 degrees. Ken stayed home from school."
+   },
+   {
+    "jp": "ケンさんは{一人|ひとり}でベッドの{中|なか}にいました。{国|くに}のお{母|かあ}さんを{思|おも}い{出|だ}して、{少|すこ}しさびしくなりました。「{日本|にほん}は{遠|とお}いなあ……。」",
+    "en": "Ken lay in bed alone. He thought of his mother back home and felt a little lonely. “Japan is so far away…”"
+   },
+   {
+    "jp": "{昼|ひる}、ドアのベルが{鳴|な}りました。{田中|たなか}さんです。「{朝|あさ}からケンくんの{声|こえ}が{聞|き}こえないから、{心配|しんぱい}したよ！」{田中|たなか}さんは{温|あたた}かいおかゆを{作|つく}ってくれました。{夕方|ゆうがた}には、ユイさんがスポーツドリンクとプリンを{持|も}って{来|き}ました。",
+    "en": "At noon, the doorbell rang. It was Mrs. Tanaka. “I haven’t heard your voice since this morning, so I was worried!” She made him some warm rice porridge. In the evening, Yui came with a sports drink and pudding."
+   },
+   {
+    "jp": "{三日|みっか}{後|ご}、ケンさんは{元気|げんき}になりました。{田中|たなか}さんの{家|いえ}へ「ありがとう」を{言|い}いに{行|い}きました。でも、ドアを{開|あ}けた{田中|たなか}さんは、マスクをして、「ゴホゴホ」とせきをしていました。ケンさんは{言|い}いました。「{今度|こんど}は、ぼくがおかゆを{作|つく}ります！」",
+    "en": "Three days later, Ken was well again. He went to Mrs. Tanaka’s home to say thank you. But when Mrs. Tanaka opened the door, she was wearing a mask and coughing. Ken said, “This time, I’ll make the porridge!”"
+   }
+  ],
+  "questions": [
+   {
+    "q": "{田中|たなか}さんはどうしてケンさんの{部屋|へや}に{来|き}ましたか。",
+    "q_en": "Why did Mrs. Tanaka come to Ken’s room?",
+    "options": [
+     "おかゆを{食|た}べたかったから",
+     "ケンさんの{声|こえ}が{聞|き}こえなかったから",
+     "ユイさんに{電話|でんわ}をもらったから",
+     "{学校|がっこう}の{先生|せんせい}に{聞|き}いたから"
+    ],
+    "answer": 1,
+    "why": "She didn’t hear Ken’s voice all morning and got worried."
+   },
+   {
+    "q": "{最後|さいご}に、だれがかぜをひきましたか。",
+    "q_en": "At the end, who caught a cold?",
+    "options": [
+     "ユイさん",
+     "{山本|やまもと}{先生|せんせい}",
+     "{田中|たなか}さん",
+     "ケンさんのお{母|かあ}さん"
+    ],
+    "answer": 2,
+    "why": "Mrs. Tanaka was wearing a mask and coughing."
+   }
+  ]
+ },
+ {
+  "id": "s5-011",
+  "level": 5,
+  "title": "{夏祭|なつまつ}りの{金魚|きんぎょ}",
+  "title_en": "The Festival Goldfish",
+  "genre_raw": "Slice of life",
+  "paragraphs": [
+   {
+    "jp": "{七月|しちがつ}、{近|ちか}くの{神社|じんじゃ}で{夏祭|なつまつ}りがありました。ユイさんはきれいな{浴衣|ゆかた}を{着|き}ていました。ケンさんも{田中|たなか}さんから{浴衣|ゆかた}を{借|か}りました。でも、ケンさんは{背|せ}が{高|たか}いです。{浴衣|ゆかた}が{短|みじか}くて、{足|あし}がたくさん{見|み}えました。",
+    "en": "In July, there was a summer festival at the nearby shrine. Yui was wearing a beautiful yukata. Ken borrowed a yukata from Mrs. Tanaka too. But Ken is tall. The yukata was short, and a lot of his legs showed."
+   },
+   {
+    "jp": "{二人|ふたり}はたこ{焼|や}きとかき{氷|ごおり}を{食|た}べました。それから、{金魚|きんぎょ}すくいをしました。ケンさんは「{簡単|かんたん}です！」と{言|い}いました。でも、{紙|かみ}はすぐ{破|やぶ}れました。{一回|いっかい}、{二回|にかい}、{三回|さんかい}……。{金魚|きんぎょ}は{一匹|いっぴき}も{取|と}れません。",
+    "en": "The two of them ate takoyaki and shaved ice. Then they tried goldfish scooping. Ken said, “This is easy!” But the paper tore right away. Once, twice, three times… He couldn’t catch a single goldfish."
+   },
+   {
+    "jp": "{隣|となり}で、{五歳|ごさい}ぐらいの{女|おんな}の{子|こ}が{金魚|きんぎょ}を{五匹|ごひき}{取|と}りました。{女|おんな}の{子|こ}はケンさんを{見|み}て、{一匹|いっぴき}くれました。「お{兄|にい}さん、どうぞ。」ケンさんは{頭|あたま}を{下|さ}げました。「ありがとうございます、{先生|せんせい}！」",
+    "en": "Next to him, a girl of about five caught five goldfish. She looked at Ken and gave him one. “Here you go, mister.” Ken bowed his head. “Thank you very much, teacher!”"
+   },
+   {
+    "jp": "{夜|よる}、{空|そら}に{大|おお}きい{花火|はなび}が{上|あ}がりました。ケンさんは{金魚|きんぎょ}の{袋|ふくろ}を{持|も}って、{花火|はなび}を{見|み}ました。「{金魚|きんぎょ}の{名前|なまえ}は{何|なに}にする？」とユイさんが{聞|き}きました。ケンさんは{少|すこ}し{考|かんが}えて、「{田中|たなか}さん」と{言|い}いました。ユイさんは{大|おお}きい{声|こえ}で{笑|わら}いました。",
+    "en": "At night, big fireworks went up into the sky. Ken held the bag with the goldfish and watched the fireworks. “What will you name the goldfish?” Yui asked. Ken thought a little and said, “Mrs. Tanaka.” Yui burst out laughing."
+   }
+  ],
+  "questions": [
+   {
+    "q": "ケンさんの{浴衣|ゆかた}はどうでしたか。",
+    "q_en": "How was Ken’s yukata?",
+    "options": [
+     "{新|あたら}しくて{高|たか}かった",
+     "ユイさんの{浴衣|ゆかた}だった",
+     "ケンさんには{短|みじか}かった",
+     "とても{大|おお}きかった"
+    ],
+    "answer": 2,
+    "why": "Ken is tall, so the borrowed yukata was too short and showed his legs."
+   },
+   {
+    "q": "ケンさんはどうやって{金魚|きんぎょ}をもらいましたか。",
+    "q_en": "How did Ken get his goldfish?",
+    "options": [
+     "{自分|じぶん}で{取|と}りました",
+     "{女|おんな}の{子|こ}がくれました",
+     "ユイさんが{取|と}りました",
+     "お{店|みせ}の{人|ひと}がくれました"
+    ],
+    "answer": 1,
+    "why": "A little girl who caught five gave him one."
+   },
+   {
+    "q": "ケンさんは{金魚|きんぎょ}に{何|なん}という{名前|なまえ}をつけましたか。",
+    "q_en": "What name did Ken give the goldfish?",
+    "options": [
+     "ユイ",
+     "ケン",
+     "{先生|せんせい}",
+     "{田中|たなか}さん"
+    ],
+    "answer": 3,
+    "why": "He named it “Mrs. Tanaka,” which made Yui laugh."
+   }
+  ]
+ },
+ {
+  "id": "s5-012",
+  "level": 5,
+  "title": "{今度|こんど}はぼくが",
+  "title_en": "Now It’s My Turn",
+  "genre_raw": "Slice of life",
+  "paragraphs": [
+   {
+    "jp": "ケンさんが{東京|とうきょう}に{来|き}て、{四|よん}か{月|げつ}になりました。もう{電車|でんしゃ}もコンビニも{大丈夫|だいじょうぶ}です。ある{日|ひ}、{駅|えき}で、{大|おお}きいスーツケースを{持|も}った{女|おんな}の{人|ひと}が{地図|ちず}を{見|み}ていました。とても{困|こま}った{顔|かお}です。",
+    "en": "Four months had passed since Ken came to Tokyo. Trains and convenience stores were no problem for him now. One day at the station, a woman with a big suitcase was looking at a map. She looked very lost."
+   },
+   {
+    "jp": "「あの、どうしましたか。」ケンさんは{聞|き}きました。{女|おんな}の{人|ひと}はブラジルから{来|き}た{学生|がくせい}でした。「{新宿|しんじゅく}に{行|い}きたいです。でも、{電車|でんしゃ}がわかりません。」{日本語|にほんご}は{少|すこ}しだけです。{四|よん}か{月|げつ}{前|まえ}のケンさんと{同|おな}じです。",
+    "en": "“Um, is something wrong?” Ken asked. The woman was a student from Brazil. “I want to go to Shinjuku. But I don’t understand the trains.” She spoke only a little Japanese. Just like Ken four months ago."
+   },
+   {
+    "jp": "ケンさんは{緑|みどり}の{電車|でんしゃ}を{教|おし}えました。「{山手線|やまのてせん}です。{新宿|しんじゅく}まで{四|よっ}つです。それから、{大切|たいせつ}なことが{一|ひと}つあります。」「{何|なん}ですか。」「{電車|でんしゃ}の{中|なか}で{寝|ね}ないでください！」{女|おんな}の{人|ひと}は{不思議|ふしぎ}な{顔|かお}をしましたが、「はい」と{言|い}いました。",
+    "en": "Ken showed her the green train. “It’s the Yamanote Line. Shinjuku is four stops away. And there’s one important thing.” “What is it?” “Please don’t fall asleep on the train!” The woman looked puzzled, but said, “Okay.”"
+   },
+   {
+    "jp": "{帰|かえ}り{道|みち}、ケンさんはコンビニでおにぎりを{買|か}いました。{店員|てんいん}さんが「{温|あたた}めますか」と{聞|き}きました。ケンさんはにっこり{笑|わら}って、はっきり{言|い}いました。「いいえ、けっこうです。」{家|いえ}では、{田中|たなか}さんの{大|おお}きい{声|こえ}と、{金魚|きんぎょ}の{田中|たなか}さんが{待|ま}っていました。",
+    "en": "On the way home, Ken bought a rice ball at the convenience store. The clerk asked, “Shall I heat it up?” Ken smiled and said clearly, “No, thank you.” At home, Mrs. Tanaka’s loud voice and Mrs. Tanaka the goldfish were waiting for him."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{女|おんな}の{人|ひと}はどうして{困|こま}っていましたか。",
+    "q_en": "Why was the woman in trouble?",
+    "options": [
+     "{電車|でんしゃ}がわからなかったから",
+     "スーツケースが{壊|こわ}れたから",
+     "{財布|さいふ}がなかったから",
+     "{友|とも}だちを{待|ま}っていたから"
+    ],
+    "answer": 0,
+    "why": "She wanted to go to Shinjuku but didn’t understand the trains."
+   },
+   {
+    "q": "ケンさんは{女|おんな}の{人|ひと}に{何|なに}と{言|い}いましたか。",
+    "q_en": "What did Ken tell the woman?",
+    "options": [
+     "タクシーに{乗|の}ってください",
+     "コンビニで「はい」と{言|い}ってください",
+     "{新宿|しんじゅく}はとても{遠|とお}いです",
+     "{電車|でんしゃ}の{中|なか}で{寝|ね}ないでください"
+    ],
+    "answer": 3,
+    "why": "He remembered his own mistake and warned her not to sleep on the train."
+   }
+  ]
+ }
+]

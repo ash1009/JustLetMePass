@@ -1,0 +1,650 @@
+[
+ {
+  "id": "s4-001",
+  "level": 4,
+  "title": "カフェ・さくらの{初|はじ}めての{日|ひ}",
+  "title_en": "First Day at Café Sakura",
+  "genre_raw": "Work",
+  "paragraphs": [
+   {
+    "jp": "ミカは{京都|きょうと}の{大学|だいがく}に{通|かよ}っている{二十歳|はたち}の{学生|がくせい}です。{春|はる}から、{家|いえ}の{近|ちか}くにある{小|ちい}さなカフェで、アルバイトを{始|はじ}めることになりました。{店|みせ}の{名前|なまえ}は「カフェ・さくら」です。{古|ふる}い{木|き}のドアを{開|あ}けると、コーヒーのいいにおいがしました。",
+    "en": "Mika is a twenty-year-old student at a university in Kyoto. From spring, she was going to start a part-time job at a small café near her home. The café was called \"Café Sakura.\" When she opened the old wooden door, there was a lovely smell of coffee."
+   },
+   {
+    "jp": "{店長|てんちょう}の{小野|おの}さんは{六十歳|ろくじゅっさい}ぐらいの{男|おとこ}の{人|ひと}で、いつも{怖|こわ}そうな{顔|かお}をしています。「{遅|おそ}い。{五分|ごふん}{前|まえ}に{来|く}るのが{当|あ}たり{前|まえ}だ」と{最初|さいしょ}に{言|い}われてしまいました。ミカは「すみません」と{小|ちい}さい{声|こえ}で{言|い}いました。{本当|ほんとう}は{時間|じかん}どおりに{来|き}たのに、{怒|おこ}られて{少|すこ}し{悲|かな}しくなりました。",
+    "en": "The manager, Mr. Ono, was a man of about sixty who always looked scary. The first thing he said to her was, \"You're late. Coming five minutes early is just common sense.\" Mika said \"Sorry\" in a small voice. She had actually come right on time, but she got scolded anyway, and it made her a little sad."
+   },
+   {
+    "jp": "その{日|ひ}、ミカはたくさん{失敗|しっぱい}しました。コーヒーカップを{落|お}として{割|わ}ってしまったし、{砂糖|さとう}と{塩|しお}を{間違|まちが}えてしまいました。お{客|きゃく}さんに「このコーヒー、しょっぱいよ」と{言|い}われて、{顔|かお}が{赤|あか}くなりました。「もう{辞|や}めたほうがいいかもしれない」とミカは{思|おも}いました。",
+    "en": "That day Mika made lots of mistakes. She dropped and broke a coffee cup, and she mixed up the sugar and the salt. When a customer said, \"This coffee is salty!\", her face turned red. \"Maybe I should just quit,\" Mika thought."
+   },
+   {
+    "jp": "{仕事|しごと}が{終|お}わったとき、{小野|おの}さんが{何|なに}も{言|い}わずに{温|あたた}かいココアを{作|つく}ってくれました。「{最初|さいしょ}の{日|ひ}は、だれでも{失敗|しっぱい}する。{俺|おれ}もそうだった」。ココアはとても{甘|あま}くて、おいしかったです。ミカは「{明日|あした}もがんばります」と{言|い}って、{笑|わら}いました。",
+    "en": "When work was over, Mr. Ono made her a hot cocoa without saying a word. \"Everyone makes mistakes on their first day. I did too.\" The cocoa was very sweet and delicious. Mika smiled and said, \"I'll do my best tomorrow too.\""
+   }
+  ],
+  "questions": [
+   {
+    "q": "ミカはどうして{少|すこ}し{悲|かな}しくなりましたか。",
+    "q_en": "Why did Mika feel a little sad?",
+    "options": [
+     "{本当|ほんとう}は{遅|おく}れて{来|き}たから",
+     "{時間|じかん}どおりに{来|き}たのに{怒|おこ}られたから",
+     "{小野|おの}さんが{何|なに}も{言|い}わなかったから",
+     "カフェが{思|おも}ったより{小|ちい}さかったから"
+    ],
+    "answer": 1,
+    "why": "She arrived on time but Mr. Ono still told her she was late."
+   },
+   {
+    "q": "{仕事|しごと}のあとで、{小野|おの}さんは{何|なに}をしましたか。",
+    "q_en": "What did Mr. Ono do after work?",
+    "options": [
+     "ミカにココアを{作|つく}ってあげた",
+     "ミカに{辞|や}めてくださいと{言|い}った",
+     "{割|わ}れたカップのお{金|かね}をもらった",
+     "しょっぱいコーヒーを{飲|の}んだ"
+    ],
+    "answer": 0,
+    "why": "He quietly made her a hot cocoa and said everyone makes mistakes on the first day."
+   }
+  ]
+ },
+ {
+  "id": "s4-002",
+  "level": 4,
+  "title": "{何|なに}も{頼|たの}まない{学生|がくせい}",
+  "title_en": "The Student Who Never Orders",
+  "genre_raw": "Mystery",
+  "paragraphs": [
+   {
+    "jp": "アルバイトを{始|はじ}めて{二週間|にしゅうかん}がたちました。ミカは{少|すこ}しずつ{仕事|しごと}ができるようになりました。そのころ、ミカは{一人|ひとり}の{不思議|ふしぎ}なお{客|きゃく}さんに{気|き}がつきました。{毎日|まいにち}{午後|ごご}{三時|さんじ}に{来|く}る{男|おとこ}の{学生|がくせい}です。{窓|まど}のそばの{席|せき}に{座|すわ}って{本|ほん}を{読|よ}みますが、{何|なに}も{注文|ちゅうもん}しません。",
+    "en": "Two weeks passed since Mika started the job. Little by little, she became able to do the work. Around that time, she noticed a strange customer. It was a male student who came every day at three in the afternoon. He sat by the window and read a book, but he never ordered anything."
+   },
+   {
+    "jp": "「{小野|おの}さん、あの{人|ひと}、いつも{何|なに}も{頼|たの}まないんですよ。{言|い}ったほうがいいですか」とミカは{聞|き}きました。{小野|おの}さんは{新聞|しんぶん}を{読|よ}みながら、「ほっとけ」とだけ{答|こた}えました。ミカは{変|へん}だと{思|おも}いました。{小野|おの}さんは{厳|きび}しい{人|ひと}なのに、どうして{何|なに}も{言|い}わないのでしょうか。",
+    "en": "\"Mr. Ono, that guy never orders anything. Should I say something?\" Mika asked. Reading his newspaper, Mr. Ono only answered, \"Leave him be.\" Mika thought it was strange. Mr. Ono was such a strict person, so why didn't he say anything?"
+   },
+   {
+    "jp": "ある{日|ひ}、{学生|がくせい}が{帰|かえ}ったあとで、テーブルの{上|うえ}に{一枚|いちまい}の{紙|かみ}が{残|のこ}っていました。それはカフェ・さくらの{絵|え}でした。{木|き}のドアも、{窓|まど}の{花|はな}も、カウンターの{小野|おの}さんも、とても{上手|じょうず}に{描|か}かれていました。",
+    "en": "One day, after the student left, a single sheet of paper was left on the table. It was a drawing of Café Sakura. The wooden door, the flowers in the window, and even Mr. Ono at the counter were all drawn very skillfully."
+   },
+   {
+    "jp": "{次|つぎ}の{日|ひ}、ミカは{勇気|ゆうき}を{出|だ}して{話|はな}しかけました。{学生|がくせい}の{名前|なまえ}はケンタで、{美術|びじゅつ}の{大学|だいがく}に{通|かよ}っているそうです。「お{金|かね}がなくて、コーヒーが{買|か}えないんです。でも、この{店|みせ}の{絵|え}が{描|か}きたくて……」。{実|じつ}は、{小野|おの}さんは{前|まえ}からそれを{知|し}っていました。ケンタの{絵|え}は、{今|いま}、{店|みせ}の{壁|かべ}に{飾|かざ}られています。そして{小野|おの}さんはときどき、{何|なに}も{言|い}わずにケンタのテーブルにコーヒーを{置|お}いてあげるのです。",
+    "en": "The next day, Mika worked up her courage and spoke to him. His name was Kenta, and he went to an art university. \"I have no money, so I can't buy coffee. But I really wanted to draw this café...\" In fact, Mr. Ono had known this all along. Kenta's drawing now hangs on the café wall. And sometimes, without a word, Mr. Ono leaves a cup of coffee on Kenta's table for him."
+   }
+  ],
+  "questions": [
+   {
+    "q": "ケンタはどうして{何|なに}も{注文|ちゅうもん}しませんでしたか。",
+    "q_en": "Why didn't Kenta order anything?",
+    "options": [
+     "コーヒーが{嫌|きら}いだったから",
+     "{小野|おの}さんが{怖|こわ}かったから",
+     "お{金|かね}がなかったから",
+     "{本|ほん}を{読|よ}むのに{忙|いそが}しかったから"
+    ],
+    "answer": 2,
+    "why": "He said he had no money, so he couldn't buy coffee."
+   },
+   {
+    "q": "テーブルの{上|うえ}に{何|なに}が{残|のこ}っていましたか。",
+    "q_en": "What was left on the table?",
+    "options": [
+     "ケンタが{読|よ}んでいた{本|ほん}",
+     "{小野|おの}さんへの{手紙|てがみ}",
+     "{店|みせ}の{花|はな}",
+     "カフェ・さくらの{絵|え}"
+    ],
+    "answer": 3,
+    "why": "He left a skillful drawing of Café Sakura."
+   },
+   {
+    "q": "{小野|おの}さんについて、{正|ただ}しいのはどれですか。",
+    "q_en": "Which is true about Mr. Ono?",
+    "options": [
+     "ケンタのことを{前|まえ}から{知|し}っていた",
+     "ケンタに{店|みせ}から{出|で}てほしかった",
+     "ケンタの{絵|え}が{好|す}きじゃなかった",
+     "ケンタにお{金|かね}を{払|はら}わせた"
+    ],
+    "answer": 0,
+    "why": "The story says Mr. Ono had known about Kenta all along."
+   }
+  ]
+ },
+ {
+  "id": "s4-003",
+  "level": 4,
+  "title": "{手紙|てがみ}を{書|か}くおじいさん",
+  "title_en": "The Old Man Who Writes Letters",
+  "genre_raw": "Slice of life",
+  "paragraphs": [
+   {
+    "jp": "カフェ・さくらには、{毎週|まいしゅう}{水曜日|すいようび}の{朝|あさ}に{来|く}るおじいさんがいます。{名前|なまえ}は{田中|たなか}さんです。{田中|たなか}さんはいつも{紅茶|こうちゃ}を{一杯|いっぱい}{頼|たの}んで、{一時間|いちじかん}ぐらい{手紙|てがみ}を{書|か}きます。{今|いま}はみんなスマホでメッセージを{送|おく}るのに、{田中|たなか}さんはいつもペンと{紙|かみ}を{使|つか}っています。",
+    "en": "There is an old man who comes to Café Sakura every Wednesday morning. His name is Mr. Tanaka. He always orders one cup of tea and writes letters for about an hour. These days everyone sends messages on their phones, but Mr. Tanaka always uses a pen and paper."
+   },
+   {
+    "jp": "ある{水曜日|すいようび}、ミカは{紅茶|こうちゃ}を{運|はこ}びながら、「だれに{書|か}いているんですか」と{聞|き}いてみました。{田中|たなか}さんは{少|すこ}し{恥|は}ずかしそうに{笑|わら}いました。「{妻|つま}にですよ。{妻|つま}は{三年前|さんねんまえ}に{亡|な}くなりました。でも、{毎週|まいしゅう}{手紙|てがみ}を{書|か}くと、{妻|つま}と{話|はな}しているような{気|き}がするんです」",
+    "en": "One Wednesday, as she brought his tea, Mika asked, \"Who are you writing to?\" Mr. Tanaka smiled, looking a little shy. \"To my wife. She passed away three years ago. But when I write to her every week, it feels like I'm talking with her.\""
+   },
+   {
+    "jp": "{田中|たなか}さんの{話|はなし}によると、{田中|たなか}さんと{奥|おく}さんは{五十年前|ごじゅうねんまえ}に、このカフェで{初|はじ}めて{会|あ}ったそうです。そのころ、{店|みせ}は{小野|おの}さんのお{父|とう}さんがやっていました。「{妻|つま}はここの{窓|まど}から{見|み}える{桜|さくら}が{大好|だいす}きだったんです」",
+    "en": "According to Mr. Tanaka, he and his wife first met at this café fifty years ago. Back then, the café was run by Mr. Ono's father. \"My wife loved the cherry blossoms you can see from this window.\""
+   },
+   {
+    "jp": "その{日|ひ}の{夕方|ゆうがた}、ミカがこの{話|はなし}をすると、{小野|おの}さんは「そうか」とだけ{言|い}いました。でも{次|つぎ}の{水曜日|すいようび}、{田中|たなか}さんのテーブルには、{小|ちい}さな{桜|さくら}の{枝|えだ}が{一本|いっぽん}{飾|かざ}ってありました。{田中|たなか}さんはそれを{見|み}て、{泣|な}きそうな{顔|かお}で「ありがとう」と{言|い}いました。{小野|おの}さんは{聞|き}こえないふりをして、カップを{洗|あら}っていました。",
+    "en": "That evening, when Mika told Mr. Ono this story, he only said, \"I see.\" But the next Wednesday, a small cherry blossom branch had been placed on Mr. Tanaka's table. When he saw it, Mr. Tanaka said \"Thank you\" with a face that looked close to tears. Mr. Ono pretended not to hear and kept washing cups."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{田中|たなか}さんはだれに{手紙|てがみ}を{書|か}いていますか。",
+    "q_en": "Who is Mr. Tanaka writing letters to?",
+    "options": [
+     "{遠|とお}くに{住|す}んでいる{子|こ}ども",
+     "{亡|な}くなった{奥|おく}さん",
+     "{小野|おの}さんのお{父|とう}さん",
+     "{昔|むかし}の{友|とも}だち"
+    ],
+    "answer": 1,
+    "why": "He writes to his wife, who died three years ago."
+   },
+   {
+    "q": "{次|つぎ}の{水曜日|すいようび}、{田中|たなか}さんのテーブルに{何|なに}がありましたか。",
+    "q_en": "What was on Mr. Tanaka's table the next Wednesday?",
+    "options": [
+     "{新|あたら}しいペン",
+     "{奥|おく}さんの{写真|しゃしん}",
+     "{桜|さくら}の{枝|えだ}",
+     "{小野|おの}さんからの{手紙|てがみ}"
+    ],
+    "answer": 2,
+    "why": "Mr. Ono quietly put a cherry blossom branch there because Tanaka's wife loved the cherry blossoms."
+   }
+  ]
+ },
+ {
+  "id": "s4-004",
+  "level": 4,
+  "title": "オーストラリアから{来|き}た{二人|ふたり}",
+  "title_en": "The Couple from Australia",
+  "genre_raw": "Travel",
+  "paragraphs": [
+   {
+    "jp": "{六月|ろくがつ}のある{日|ひ}、{外国人|がいこくじん}の{夫婦|ふうふ}が{店|みせ}に{入|はい}ってきました。オーストラリアから{来|き}たトムさんとエマさんです。{二人|ふたり}は{日本語|にほんご}の{本|ほん}を{見|み}ながら、ゆっくり「すみません、おすすめは{何|なん}ですか」と{聞|き}きました。",
+    "en": "One day in June, a foreign couple came into the café. They were Tom and Emma from Australia. Looking at a Japanese phrasebook, the two slowly asked, \"Excuse me, what do you recommend?\""
+   },
+   {
+    "jp": "ミカは{英語|えいご}があまり{得意|とくい}じゃないので、とても{緊張|きんちょう}してしまいました。{何|なに}を{言|い}えばいいかわからなくて、メニューの{写真|しゃしん}を{指|ゆび}でさしたり、ジェスチャーをしたりしました。「これは{抹茶|まっちゃ}のケーキです。{甘|あま}くて、ちょっと{苦|にが}いです」。エマさんは{笑|わら}って、「{抹茶|まっちゃ}、{大好|だいす}きです！」と{言|い}いました。",
+    "en": "Mika isn't very good at English, so she got really nervous. Not knowing what to say, she pointed at photos on the menu and used gestures. \"This is matcha cake. It's sweet and a little bitter.\" Emma laughed and said, \"I love matcha!\""
+   },
+   {
+    "jp": "ところが、ミカはまた{間違|まちが}えてしまいました。{抹茶|まっちゃ}ケーキを{二|ふた}つ{持|も}っていくはずだったのに、チーズケーキを{持|も}っていってしまったのです。「あっ、すみません！」とミカが{言|い}うと、トムさんは「だいじょうぶ、これもおいしそうです」と{言|い}って、{全部|ぜんぶ}{食|た}べてくれました。{結局|けっきょく}、{小野|おの}さんが{抹茶|まっちゃ}ケーキもサービスしてあげました。",
+    "en": "But Mika made a mistake again. She was supposed to bring two matcha cakes, but she brought cheesecake instead. \"Oh, I'm so sorry!\" Mika said, but Tom replied, \"It's OK, this looks delicious too,\" and ate it all. In the end, Mr. Ono gave them the matcha cakes for free as well."
+   },
+   {
+    "jp": "{帰|かえ}る{前|まえ}に、エマさんはミカに{一枚|いちまい}のはがきをくれました。オーストラリアの{海|うみ}の{写真|しゃしん}でした。{後|うし}ろには{下手|へた}なひらがなで「ミカさん、ありがとう。また{来|き}ます」と{書|か}いてありました。ミカは、{言葉|ことば}が{上手|じょうず}じゃなくても、{気持|きも}ちは{伝|つた}わるんだと{思|おも}いました。そして、もっと{英語|えいご}を{勉強|べんきょう}しようと{決|き}めました。",
+    "en": "Before leaving, Emma gave Mika a postcard. It was a photo of the sea in Australia. On the back, in shaky hiragana, was written: \"Mika, thank you. We'll come again.\" Mika thought that even if your language isn't good, your feelings still get across. And she decided to study English harder."
+   }
+  ],
+  "questions": [
+   {
+    "q": "ミカはどうして{緊張|きんちょう}しましたか。",
+    "q_en": "Why was Mika nervous?",
+    "options": [
+     "{英語|えいご}があまり{得意|とくい}じゃないから",
+     "{抹茶|まっちゃ}ケーキがなかったから",
+     "{小野|おの}さんが{見|み}ていたから",
+     "{二人|ふたり}が{怒|おこ}っていたから"
+    ],
+    "answer": 0,
+    "why": "She isn't very good at English."
+   },
+   {
+    "q": "ミカはどんな{間違|まちが}いをしましたか。",
+    "q_en": "What mistake did Mika make?",
+    "options": [
+     "お{金|かね}を{多|おお}くもらった",
+     "{紅茶|こうちゃ}とコーヒーを{間違|まちが}えた",
+     "{違|ちが}うケーキを{持|も}っていった",
+     "はがきをなくした"
+    ],
+    "answer": 2,
+    "why": "She brought cheesecake instead of matcha cake."
+   },
+   {
+    "q": "はがきをもらって、ミカはどう{思|おも}いましたか。",
+    "q_en": "What did Mika think after getting the postcard?",
+    "options": [
+     "{日本語|にほんご}を{教|おし}えたほうがいい",
+     "{言葉|ことば}が{上手|じょうず}じゃなくても{気持|きも}ちは{伝|つた}わる",
+     "オーストラリアに{住|す}みたい",
+     "アルバイトを{辞|や}めたい"
+    ],
+    "answer": 1,
+    "why": "She realised feelings get across even without good language skills."
+   }
+  ]
+ },
+ {
+  "id": "s4-005",
+  "level": 4,
+  "title": "{卵|たまご}が{百個|ひゃっこ}！",
+  "title_en": "A Hundred Eggs!",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "{七月|しちがつ}になって、ミカは{仕事|しごと}にずいぶん{慣|な}れてきました。{小野|おの}さんに{頼|たの}まれて、{材料|ざいりょう}の{注文|ちゅうもん}もするようになりました。ある{晩|ばん}、ミカはパソコンで{卵|たまご}を{注文|ちゅうもん}しました。{十個|じゅっこ}のつもりでした。",
+    "en": "By July, Mika had gotten quite used to the work. Mr. Ono asked her to, so she started ordering the ingredients too. One evening, Mika ordered eggs on the computer. She meant to order ten."
+   },
+   {
+    "jp": "{次|つぎ}の{朝|あさ}、{店|みせ}の{前|まえ}に{大|おお}きな{箱|はこ}がいくつも{置|お}いてありました。{開|あ}けてみると、{中|なか}は{全部|ぜんぶ}{卵|たまご}でした。{数|かぞ}えたら、{百個|ひゃっこ}もありました。ゼロを{一|ひと}つ{多|おお}く{押|お}してしまったのです。ミカは{真|ま}っ{青|さお}になりました。「どうしよう……{小野|おの}さんに{怒|おこ}られる」",
+    "en": "The next morning, several big boxes had been left in front of the café. When she opened them, they were all full of eggs. She counted them: there were a hundred! She had pressed one zero too many. Mika went pale. \"What do I do... Mr. Ono is going to be furious.\""
+   },
+   {
+    "jp": "{店|みせ}に{来|き}た{小野|おの}さんは、{箱|はこ}を{見|み}て{長|なが}い{間|あいだ}{黙|だま}っていました。それから、「……プリンを{作|つく}るぞ」と{言|い}いました。その{日|ひ}、{二人|ふたり}は{一日中|いちにちじゅう}、プリンや{卵|たまご}サンドやオムライスを{作|つく}りました。{小野|おの}さんは{料理|りょうり}をしながら、{少|すこ}しだけ{楽|たの}しそうでした。",
+    "en": "When Mr. Ono arrived, he looked at the boxes and was silent for a long time. Then he said, \"...We're making pudding.\" That day, the two of them made pudding, egg sandwiches, and omelette rice all day long. While cooking, Mr. Ono looked like he was enjoying himself, just a little."
+   },
+   {
+    "jp": "「{今日|きょう}だけ、{卵|たまご}の{料理|りょうり}は{半額|はんがく}です」と{書|か}いた{紙|かみ}を{店|みせ}の{前|まえ}に{貼|は}ると、お{客|きゃく}さんがたくさん{来|き}ました。{夕方|ゆうがた}には{卵|たまご}が{全部|ぜんぶ}なくなりました。「{次|つぎ}は{気|き}をつけろよ」と{小野|おの}さんは{言|い}いましたが、その{目|め}は{笑|わら}っていました。ミカは、{失敗|しっぱい}しても、あきらめなければ{何|なん}とかなるんだと{思|おも}いました。",
+    "en": "When they put up a sign in front of the café saying \"Today only: egg dishes half price,\" lots of customers came. By evening, every egg was gone. \"Be careful next time,\" Mr. Ono said, but his eyes were smiling. Mika thought that even when you make a mistake, things work out if you don't give up."
+   }
+  ],
+  "questions": [
+   {
+    "q": "どうして{卵|たまご}が{百個|ひゃっこ}{来|き}ましたか。",
+    "q_en": "Why did a hundred eggs arrive?",
+    "options": [
+     "{小野|おの}さんが{注文|ちゅうもん}したから",
+     "{店|みせ}が{間違|まちが}えて{送|おく}ったから",
+     "お{客|きゃく}さんがプレゼントしたから",
+     "ミカがゼロを{一|ひと}つ{多|おお}く{押|お}したから"
+    ],
+    "answer": 3,
+    "why": "Mika meant to order ten but typed one zero too many."
+   },
+   {
+    "q": "{卵|たまご}はどうなりましたか。",
+    "q_en": "What happened to the eggs?",
+    "options": [
+     "{料理|りょうり}にして、{夕方|ゆうがた}までに{全部|ぜんぶ}なくなった",
+     "{店|みせ}に{返|かえ}した",
+     "ミカが{家|いえ}に{持|も}って{帰|かえ}った",
+     "{半分|はんぶん}{割|わ}れてしまった"
+    ],
+    "answer": 0,
+    "why": "They cooked egg dishes at half price and sold out by evening."
+   }
+  ]
+ },
+ {
+  "id": "s4-006",
+  "level": 4,
+  "title": "{新|あたら}しいメニュー",
+  "title_en": "The New Menu",
+  "genre_raw": "Food",
+  "paragraphs": [
+   {
+    "jp": "{夏休|なつやす}みが{終|お}わるころ、カフェ・さくらのお{客|きゃく}さんが{少|すく}なくなってきました。{駅|えき}の{前|まえ}に{大|おお}きなチェーンのカフェができたからです。ミカは「{新|あたら}しいメニューを{作|つく}ったらどうですか」と{小野|おの}さんに{言|い}ってみました。でも{小野|おの}さんは「うちはコーヒーの{店|みせ}だ。{変|へん}なものは{出|だ}さない」と{言|い}って、{聞|き}いてくれませんでした。",
+    "en": "Around the end of summer vacation, Café Sakura started getting fewer customers. A big chain café had opened in front of the station. Mika tried suggesting to Mr. Ono, \"Why don't we make a new menu item?\" But Mr. Ono said, \"We're a coffee shop. We don't serve weird stuff,\" and wouldn't listen."
+   },
+   {
+    "jp": "それでもミカはあきらめませんでした。{家|いえ}で{何度|なんど}も{練習|れんしゅう}して、ほうじ{茶|ちゃ}のラテを{作|つく}りました。{京都|きょうと}のほうじ{茶|ちゃ}に、{温|あたた}かいミルクと{少|すこ}しのはちみつを{入|い}れます。{初|はじ}めは{苦|にが}すぎたり、{甘|あま}すぎたりしましたが、{十回目|じゅっかいめ}にやっと、おいしいと{思|おも}えるものができました。",
+    "en": "Even so, Mika didn't give up. She practised many times at home and made a roasted green tea (hojicha) latte. You add warm milk and a little honey to Kyoto hojicha. At first it was too bitter or too sweet, but on the tenth try she finally made one she thought was good."
+   },
+   {
+    "jp": "{次|つぎ}の{水曜日|すいようび}、ミカは{田中|たなか}さんに{飲|の}んでもらいました。「おお、これはいい。{香|かお}りがやさしいですね」。{隣|となり}の{席|せき}のケンタも{飲|の}んで、「おいしい！メニューの{絵|え}、{僕|ぼく}が{描|か}きますよ」と{言|い}ってくれました。{二人|ふたり}が{喜|よろこ}んでいるのを{見|み}て、{小野|おの}さんはカウンターから{出|で}てきました。そして、{黙|だま}って{一口|ひとくち}{飲|の}みました。",
+    "en": "The next Wednesday, Mika had Mr. Tanaka try it. \"Oh, this is good. It has a gentle aroma.\" Kenta, at the next table, tried it too and said, \"Delicious! I'll draw the picture for the menu.\" Seeing the two of them so happy, Mr. Ono came out from behind the counter. Then, without a word, he took a sip."
+   },
+   {
+    "jp": "「……{来週|らいしゅう}から{出|だ}してみるか」。{小野|おの}さんのその{一言|ひとこと}で、ミカは{跳|と}び{上|あ}がりそうになりました。ケンタがかわいい{絵|え}を{描|か}いたメニューは、お{客|きゃく}さんにとても{人気|にんき}になりました。{一|いっ}か{月|げつ}{後|ご}には、ほうじ{茶|ちゃ}ラテは{店|みせ}で{一番|いちばん}よく{売|う}れる{飲|の}み{物|もの}になっていました。",
+    "en": "\"...Maybe we'll try serving it from next week.\" Hearing those words from Mr. Ono, Mika nearly jumped for joy. The menu with Kenta's cute drawing became very popular with customers. A month later, the hojicha latte had become the best-selling drink in the café."
+   }
+  ],
+  "questions": [
+   {
+    "q": "どうしてお{客|きゃく}さんが{少|すく}なくなりましたか。",
+    "q_en": "Why were there fewer customers?",
+    "options": [
+     "コーヒーの{値段|ねだん}が{高|たか}くなったから",
+     "{駅|えき}の{前|まえ}に{大|おお}きなカフェができたから",
+     "{夏休|なつやす}みで{店|みせ}が{休|やす}みだったから",
+     "{小野|おの}さんが{怒|おこ}りすぎたから"
+    ],
+    "answer": 1,
+    "why": "A big chain café opened in front of the station."
+   },
+   {
+    "q": "{小野|おの}さんは{最初|さいしょ}、ミカのアイデアについてどう{思|おも}いましたか。",
+    "q_en": "At first, what did Mr. Ono think of Mika's idea?",
+    "options": [
+     "すぐに{賛成|さんせい}した",
+     "ケンタに{聞|き}いてほしいと{言|い}った",
+     "{自分|じぶん}で{作|つく}りたいと{言|い}った",
+     "コーヒーの{店|みせ}だから{出|だ}さないと{言|い}った"
+    ],
+    "answer": 3,
+    "why": "He said they are a coffee shop and won't serve weird things."
+   }
+  ]
+ },
+ {
+  "id": "s4-007",
+  "level": 4,
+  "title": "{台風|たいふう}の{日|ひ}",
+  "title_en": "Typhoon Day",
+  "genre_raw": "Nature",
+  "paragraphs": [
+   {
+    "jp": "{九月|くがつ}のある{日|ひ}、{大|おお}きな{台風|たいふう}が{京都|きょうと}に{来|く}ることになりました。{朝|あさ}のニュースによると、{午後|ごご}から{雨|あめ}と{風|かぜ}が{強|つよ}くなるそうです。「{今日|きょう}は{早|はや}く{閉|し}めるぞ」と{小野|おの}さんは{言|い}いました。",
+    "en": "One day in September, a big typhoon was heading for Kyoto. According to the morning news, the rain and wind would get stronger from the afternoon. \"We're closing early today,\" said Mr. Ono."
+   },
+   {
+    "jp": "{昼|ひる}ごろ、{空|そら}が{急|きゅう}に{暗|くら}くなって、{強|つよ}い{雨|あめ}が{降|ふ}り{始|はじ}めました。{電車|でんしゃ}が{止|と}まってしまったので、{駅|えき}から{歩|ある}いてきた{人|ひと}たちが、{次々|つぎつぎ}と{店|みせ}に{入|はい}ってきました。{会社員|かいしゃいん}、{小|ちい}さい{子|こ}どもを{連|つ}れたお{母|かあ}さん、{観光客|かんこうきゃく}……。{店|みせ}はあっという{間|ま}にいっぱいになりました。",
+    "en": "Around noon, the sky suddenly went dark and heavy rain began to fall. Because the trains had stopped, people walking from the station came into the café one after another: office workers, a mother with a small child, tourists... The café was full in no time."
+   },
+   {
+    "jp": "そのとき、{突然|とつぜん}{電気|でんき}が{消|き}えてしまいました。{子|こ}どもが{泣|な}き{出|だ}しました。ミカも{怖|こわ}かったですが、「だいじょうぶですよ」と{言|い}って、ろうそくに{火|ひ}をつけました。{小野|おの}さんは{古|ふる}いガスコンロでお{湯|ゆ}を{沸|わ}かして、みんなに{温|あたた}かい{飲|の}み{物|もの}を{作|つく}りました。",
+    "en": "Just then, the power suddenly went out. The child started crying. Mika was scared too, but she said, \"It's all right,\" and lit some candles. Mr. Ono boiled water on an old gas stove and made hot drinks for everyone."
+   },
+   {
+    "jp": "ろうそくの{明|あ}かりの{中|なか}で、{知|し}らない{人|ひと}たちが{少|すこ}しずつ{話|はな}し{始|はじ}めました。{子|こ}どもはミカが{折|お}った{紙|かみ}の{鶴|つる}をもらって、やっと{笑|わら}いました。{夜|よる}、{雨|あめ}がやんで、みんなが{帰|かえ}るとき、「ここに{来|き}てよかった」と{言|い}ってくれました。{小野|おの}さんは「{今日|きょう}はお{金|かね}はいらない」と{言|い}って、{一円|いちえん}ももらいませんでした。ミカは、この{店|みせ}がもっと{好|す}きになりました。",
+    "en": "In the candlelight, the strangers slowly began to talk to each other. The child got a paper crane that Mika had folded and finally smiled. That night, when the rain stopped and everyone went home, they said, \"I'm glad I came here.\" Mr. Ono said, \"No charge today,\" and didn't take a single yen. Mika came to love the café even more."
+   }
+  ],
+  "questions": [
+   {
+    "q": "どうしてたくさんの{人|ひと}が{店|みせ}に{入|はい}ってきましたか。",
+    "q_en": "Why did lots of people come into the café?",
+    "options": [
+     "{店|みせ}が{安|やす}かったから",
+     "{電車|でんしゃ}が{止|と}まってしまったから",
+     "{電気|でんき}が{消|き}えたから",
+     "{小野|おの}さんが{呼|よ}んだから"
+    ],
+    "answer": 1,
+    "why": "The trains stopped, so people walking from the station came in."
+   },
+   {
+    "q": "{電気|でんき}が{消|き}えたとき、ミカは{何|なに}をしましたか。",
+    "q_en": "What did Mika do when the power went out?",
+    "options": [
+     "{店|みせ}を{閉|し}めた",
+     "{小野|おの}さんを{呼|よ}びに{行|い}った",
+     "ろうそくに{火|ひ}をつけた",
+     "{家|いえ}に{帰|かえ}った"
+    ],
+    "answer": 2,
+    "why": "She said it was all right and lit candles."
+   }
+  ]
+ },
+ {
+  "id": "s4-008",
+  "level": 4,
+  "title": "ひみつのレシピ",
+  "title_en": "The Secret Recipe",
+  "genre_raw": "Mystery",
+  "paragraphs": [
+   {
+    "jp": "{十月|じゅうがつ}のある{日|ひ}、ミカは{店|みせ}の{奥|おく}の{棚|たな}を{掃除|そうじ}していました。すると、{古|ふる}いノートが{一冊|いっさつ}{出|で}てきました。{表紙|ひょうし}には「さくらブレンド」と{書|か}いてあります。{開|あ}けてみると、コーヒーの{作|つく}り{方|かた}が{細|こま}かく{書|か}いてありました。",
+    "en": "One day in October, Mika was cleaning the shelves at the back of the café. An old notebook turned up. On the cover was written \"Sakura Blend.\" When she opened it, it had detailed instructions for making coffee."
+   },
+   {
+    "jp": "{小野|おの}さんにノートを{見|み}せると、{小野|おの}さんはびっくりした{顔|かお}をしました。「{親父|おやじ}のノートだ。どこにあったんだ」。{小野|おの}さんのお{父|とう}さんが{作|つく}った「さくらブレンド」は、{昔|むかし}、この{店|みせ}で{一番|いちばん}{人気|にんき}のコーヒーだったそうです。でも、{最後|さいご}のページは{水|みず}でぬれていて、{一|ひと}つだけ{読|よ}めないところがありました。「{何度|なんど}{作|つく}っても、{親父|おやじ}の{味|あじ}にならないんだ」と{小野|おの}さんは{寂|さび}しそうに{言|い}いました。",
+    "en": "When she showed it to Mr. Ono, he looked shocked. \"It's my dad's notebook. Where was it?\" The Sakura Blend that Mr. Ono's father created was apparently once the most popular coffee in the café. But the last page had gotten wet, and there was one part that couldn't be read. \"No matter how many times I make it, it never tastes like my dad's,\" Mr. Ono said sadly."
+   },
+   {
+    "jp": "{次|つぎ}の{水曜日|すいようび}、ミカは{田中|たなか}さんにこの{話|はなし}をしました。{田中|たなか}さんは{目|め}を{閉|と}じて、{昔|むかし}のことを{思|おも}い{出|だ}しました。「そういえば、{妻|つま}が{言|い}っていました。マスターは{最後|さいご}に、{何|なに}か{白|しろ}い{粉|こな}を{少|すこ}しだけ{入|い}れていたって。{砂糖|さとう}かと{思|おも}ったら、{違|ちが}ったそうです」",
+    "en": "The next Wednesday, Mika told Mr. Tanaka about it. He closed his eyes and thought back to the old days. \"Now that you mention it, my wife used to say that the owner added a little bit of some white powder at the end. She thought it was sugar, but apparently it wasn't.\""
+   },
+   {
+    "jp": "ミカははっとしました。{初|はじ}めての{日|ひ}に、{砂糖|さとう}と{塩|しお}を{間違|まちが}えたことを{思|おも}い{出|だ}したのです。「{小野|おの}さん、もしかしたら{塩|しお}かもしれません！」。{小野|おの}さんがほんの{少|すこ}しだけ{塩|しお}を{入|い}れてみると、コーヒーの{味|あじ}がまるくなりました。{小野|おの}さんは{一口|ひとくち}{飲|の}んで、{長|なが}い{間|あいだ}{何|なに}も{言|い}いませんでした。それから、{小|ちい}さな{声|こえ}で「……{親父|おやじ}の{味|あじ}だ」と{言|い}いました。",
+    "en": "Mika suddenly realised something. She remembered mixing up the sugar and salt on her first day. \"Mr. Ono, maybe it's salt!\" When Mr. Ono added just a tiny pinch of salt, the coffee's taste became smooth and round. He took a sip and said nothing for a long time. Then, in a small voice, he said, \"...That's my dad's taste.\""
+   }
+  ],
+  "questions": [
+   {
+    "q": "{小野|おの}さんはどうしてさくらブレンドを{作|つく}れませんでしたか。",
+    "q_en": "Why couldn't Mr. Ono make the Sakura Blend?",
+    "options": [
+     "ノートの{一|ひと}つのところが{読|よ}めなかったから",
+     "コーヒー{豆|まめ}が{買|か}えなかったから",
+     "ノートを{見|み}たくなかったから",
+     "{作|つく}り{方|かた}が{難|むずか}しすぎたから"
+    ],
+    "answer": 0,
+    "why": "The last page was wet and one part couldn't be read."
+   },
+   {
+    "q": "ミカはどうして「{塩|しお}かもしれない」と{思|おも}いましたか。",
+    "q_en": "Why did Mika think it might be salt?",
+    "options": [
+     "ノートに{書|か}いてあったから",
+     "{小野|おの}さんに{教|おし}えてもらったから",
+     "{初|はじ}めての{日|ひ}の{失敗|しっぱい}を{思|おも}い{出|だ}したから",
+     "{田中|たなか}さんが「{塩|しお}だ」と{言|い}ったから"
+    ],
+    "answer": 2,
+    "why": "Tanaka said it was white but not sugar, and she remembered confusing sugar and salt on day one."
+   }
+  ]
+ },
+ {
+  "id": "s4-009",
+  "level": 4,
+  "title": "{店|みせ}がなくなる？",
+  "title_en": "Is the Café Closing?",
+  "genre_raw": "Work",
+  "paragraphs": [
+   {
+    "jp": "{十一月|じゅういちがつ}のある{朝|あさ}、ミカが{店|みせ}に{来|く}ると、{小野|おの}さんがカウンターで{一通|いっつう}の{手紙|てがみ}を{読|よ}んでいました。いつもより{怖|こわ}い{顔|かお}をしています。「どうしたんですか」と{聞|き}くと、{小野|おの}さんは{黙|だま}って{手紙|てがみ}をミカに{渡|わた}しました。",
+    "en": "One morning in November, when Mika arrived at the café, Mr. Ono was reading a letter at the counter. He looked even scarier than usual. When she asked, \"What's wrong?\", he silently handed her the letter."
+   },
+   {
+    "jp": "それは、{建物|たてもの}の{持|も}ち{主|ぬし}からの{手紙|てがみ}でした。{建物|たてもの}が{古|ふる}くなったので、{来年|らいねん}の{春|はる}までに{直|なお}さなければなりません。そのお{金|かね}が{払|はら}えないなら、{建物|たてもの}は{売|う}られて、{新|あたら}しいマンションが{建|た}てられるそうです。「{修理|しゅうり}に{三百万円|さんびゃくまんえん}かかるらしい。そんなお{金|かね}はない。{年末|ねんまつ}で{店|みせ}を{閉|し}める」と{小野|おの}さんは{静|しず}かに{言|い}いました。",
+    "en": "It was a letter from the owner of the building. Because the building had gotten old, it had to be repaired by next spring. If that money couldn't be paid, the building would be sold and a new apartment block would be built. \"Apparently the repairs will cost three million yen. I don't have that kind of money. I'll close the café at the end of the year,\" Mr. Ono said quietly."
+   },
+   {
+    "jp": "ミカは{何|なに}も{言|い}えませんでした。{家|いえ}に{帰|かえ}っても、{悲|かな}しくて{眠|ねむ}れませんでした。{田中|たなか}さんの{手紙|てがみ}も、ケンタの{絵|え}も、{台風|たいふう}の{夜|よる}のことも、{全部|ぜんぶ}あの{店|みせ}の{中|なか}にあるのに。「このまま{何|なに}もしなかったら、きっと{後悔|こうかい}してしまう」とミカは{思|おも}いました。",
+    "en": "Mika couldn't say anything. Even after she went home, she was too sad to sleep. Mr. Tanaka's letters, Kenta's drawing, the night of the typhoon: all of it was inside that café. \"If I just do nothing, I'm sure I'll regret it,\" Mika thought."
+   },
+   {
+    "jp": "{次|つぎ}の{日|ひ}、ミカはケンタと{田中|たなか}さんに{相談|そうだん}しました。ケンタは「{僕|ぼく}、ポスターを{描|か}きます」と{言|い}いました。{田中|たなか}さんは「{私|わたし}は{昔|むかし}のお{客|きゃく}さんに{手紙|てがみ}を{書|か}きましょう」と{言|い}いました。ミカはインターネットで、{店|みせ}を{助|たす}けるためのお{金|かね}を{集|あつ}めることにしました。「{小野|おの}さんには、まだ{内緒|ないしょ}ですよ」と、{三人|さんにん}は{笑|わら}いました。",
+    "en": "The next day, Mika talked it over with Kenta and Mr. Tanaka. Kenta said, \"I'll draw a poster.\" Mr. Tanaka said, \"I'll write letters to the old customers.\" Mika decided to collect money online to save the café. \"Let's keep it a secret from Mr. Ono for now,\" the three of them said, laughing."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{小野|おの}さんはどうして{店|みせ}を{閉|し}めると{言|い}いましたか。",
+    "q_en": "Why did Mr. Ono say he would close the café?",
+    "options": [
+     "お{客|きゃく}さんが{来|こ}なくなったから",
+     "{病気|びょうき}になったから",
+     "{建物|たてもの}を{直|なお}すお{金|かね}がないから",
+     "マンションに{引|ひ}っ{越|こ}したいから"
+    ],
+    "answer": 2,
+    "why": "Repairs cost three million yen and he doesn't have the money."
+   },
+   {
+    "q": "ミカたちは{何|なに}をすることにしましたか。",
+    "q_en": "What did Mika and the others decide to do?",
+    "options": [
+     "{店|みせ}を{助|たす}けるためにお{金|かね}を{集|あつ}める",
+     "{新|あたら}しい{店|みせ}を{探|さが}す",
+     "{建物|たてもの}の{持|も}ち{主|ぬし}に{会|あ}いに{行|い}く",
+     "{小野|おの}さんにすぐ{話|はな}す"
+    ],
+    "answer": 0,
+    "why": "They planned a poster, letters, and an online fundraiser, keeping it secret from Mr. Ono."
+   }
+  ]
+ },
+ {
+  "id": "s4-010",
+  "level": 4,
+  "title": "みんなの{力|ちから}",
+  "title_en": "Everyone's Help",
+  "genre_raw": "Slice of life",
+  "paragraphs": [
+   {
+    "jp": "ケンタが{描|か}いたポスターには、カフェ・さくらの{絵|え}と「この{店|みせ}を{守|まも}ってください」という{言葉|ことば}が{書|か}かれていました。ミカはそのポスターの{写真|しゃしん}をインターネットに{載|の}せて、「{店|みせ}の{思|おも}い{出|で}を{書|か}いてください」とお{願|ねが}いしました。",
+    "en": "The poster Kenta drew had a picture of Café Sakura and the words \"Please help protect this café.\" Mika posted a photo of the poster online and asked people, \"Please write your memories of the café.\""
+   },
+   {
+    "jp": "{最初|さいしょ}の{一週間|いっしゅうかん}は、お{金|かね}はあまり{集|あつ}まりませんでした。でも、ある{日|ひ}、オーストラリアのエマさんからメッセージが{届|とど}きました。「{私|わたし}たちの{友|とも}だちにも{教|おし}えました！」。それから、{世界|せかい}のいろいろな{国|くに}からお{金|かね}が{送|おく}られてくるようになりました。{田中|たなか}さんの{手紙|てがみ}をもらった{昔|むかし}のお{客|きゃく}さんたちも、{店|みせ}に{来|く}るようになりました。",
+    "en": "In the first week, not much money came in. But one day, a message arrived from Emma in Australia: \"We told our friends too!\" After that, money started being sent from many different countries. The old customers who got Mr. Tanaka's letters also started coming to the café."
+   },
+   {
+    "jp": "しかし、とうとう{小野|おの}さんに{見|み}つかってしまいました。「{勝手|かって}なことをするな！」と{小野|おの}さんは{大|おお}きな{声|こえ}で{言|い}いました。ミカは{怒|おこ}られるとわかっていたのに、{涙|なみだ}が{出|で}てしまいました。「でも、みんな、この{店|みせ}が{好|す}きなんです。{私|わたし}も……」",
+    "en": "But in the end, Mr. Ono found out. \"Don't go doing things behind my back!\" he shouted. Mika had known she would be scolded, but tears came anyway. \"But everyone loves this café. Me too...\""
+   },
+   {
+    "jp": "そのとき、ドアが{開|あ}いて、{一人|ひとり}のおばあさんが{入|はい}ってきました。「{四十年前|よんじゅうねんまえ}、{毎朝|まいあさ}ここでコーヒーを{飲|の}んでいました。また{飲|の}めるなんて、うれしいわ」。おばあさんは{小野|おの}さんに{一枚|いちまい}の{古|ふる}い{写真|しゃしん}をくれました。{若|わか}いお{父|とう}さんの{隣|となり}で、{小|ちい}さい{小野|おの}さんが{笑|わら}っている{写真|しゃしん}でした。{小野|おの}さんはそれを{長|なが}い{間|あいだ}{見|み}ていました。そして「……{好|す}きにしろ」と、{後|うし}ろを{向|む}いたまま{言|い}いました。",
+    "en": "Just then, the door opened and an old woman came in. \"Forty years ago, I drank coffee here every morning. I'm so happy I can have it again.\" She gave Mr. Ono an old photo. It showed a little Mr. Ono smiling next to his young father. Mr. Ono looked at it for a long time. Then, still facing away, he said, \"...Do what you want.\""
+   }
+  ],
+  "questions": [
+   {
+    "q": "エマさんは{何|なに}をしてくれましたか。",
+    "q_en": "What did Emma do to help?",
+    "options": [
+     "ポスターを{描|か}いた",
+     "{友|とも}だちに{店|みせ}のことを{教|おし}えた",
+     "{京都|きょうと}に{戻|もど}ってきた",
+     "{小野|おの}さんに{手紙|てがみ}を{書|か}いた"
+    ],
+    "answer": 1,
+    "why": "She told her friends about the café, and money started coming from many countries."
+   },
+   {
+    "q": "{最後|さいご}に{小野|おの}さんが「{好|す}きにしろ」と{言|い}ったのは、どういう{意味|いみ}ですか。",
+    "q_en": "What did Mr. Ono mean at the end by \"Do what you want\"?",
+    "options": [
+     "もうミカに{会|あ}いたくない",
+     "{店|みせ}をすぐ{閉|し}める",
+     "ミカに{辞|や}めてほしい",
+     "ミカたちの{活動|かつどう}を{続|つづ}けてもいい"
+    ],
+    "answer": 3,
+    "why": "Moved by the old photo, he grudgingly allows them to continue."
+   }
+  ]
+ },
+ {
+  "id": "s4-011",
+  "level": 4,
+  "title": "{大|おお}みそかの{夜|よる}",
+  "title_en": "New Year's Eve",
+  "genre_raw": "Daily life",
+  "paragraphs": [
+   {
+    "jp": "{十二月|じゅうにがつ}{三十一日|さんじゅういちにち}は、カフェ・さくらの{今年|ことし}{最後|さいご}の{営業日|えいぎょうび}です。お{金|かね}を{集|あつ}めるのも、{今日|きょう}の{夜|よる}{十二時|じゅうにじ}まででした。{集|あつ}まったお{金|かね}は{二百八十万円|にひゃくはちじゅうまんえん}。あと{二十万円|にじゅうまんえん}{足|た}りません。",
+    "en": "December 31st was Café Sakura's last day of business for the year. The fundraising also ended at midnight that night. The money collected so far was 2.8 million yen. They were still 200,000 yen short."
+   },
+   {
+    "jp": "それでも、{店|みせ}は{朝|あさ}からにぎやかでした。{田中|たなか}さんも、ケンタも、{台風|たいふう}の{日|ひ}に{来|き}た{親子|おやこ}も{来|き}てくれました。{小野|おの}さんは{一日中|いちにちじゅう}、{黙|だま}ってさくらブレンドをいれ{続|つづ}けました。ミカは{何度|なんど}もスマホを{見|み}ましたが、{数字|すうじ}はあまり{変|か}わりませんでした。",
+    "en": "Even so, the café was lively from the morning. Mr. Tanaka, Kenta, and the mother and child from the typhoon day all came. All day long, Mr. Ono silently kept making Sakura Blend. Mika checked her phone again and again, but the number hardly changed."
+   },
+   {
+    "jp": "{夜|よる}{十時|じゅうじ}ごろ、{一人|ひとり}の{男|おとこ}の{人|ひと}が{店|みせ}に{入|はい}ってきました。{建物|たてもの}の{持|も}ち{主|ぬし}の{森|もり}さんでした。みんなは{急|きゅう}に{静|しず}かになりました。{森|もり}さんは{壁|かべ}に{貼|は}られたたくさんのメッセージを、{一枚|いちまい}ずつゆっくり{読|よ}みました。それから、{小野|おの}さんにこう{言|い}いました。",
+    "en": "Around ten at night, a man came into the café. It was Mr. Mori, the owner of the building. Everyone suddenly went quiet. Mr. Mori slowly read the many messages pinned on the wall, one by one. Then he said this to Mr. Ono:"
+   },
+   {
+    "jp": "「{実|じつ}は{私|わたし}も{子|こ}どものころ、{父|ちち}に{連|つ}れられて、ここでプリンを{食|た}べたことがあるんです。すっかり{忘|わす}れていました」。{森|もり}さんは{少|すこ}し{笑|わら}って、「{足|た}りない{分|ぶん}は、{私|わたし}が{出|だ}しましょう。この{店|みせ}はなくしてはいけないような{気|き}がします」と{言|い}いました。{店|みせ}の{中|なか}で{大|おお}きな{拍手|はくしゅ}が{起|お}こりました。{小野|おの}さんは{頭|あたま}を{深|ふか}く{下|さ}げて、なかなか{上|あ}げませんでした。",
+    "en": "\"Actually, when I was a child, my father brought me here and I ate pudding. I'd completely forgotten.\" Mr. Mori smiled a little and said, \"I'll pay the amount that's missing. I feel this café is something we mustn't lose.\" Loud applause broke out in the café. Mr. Ono bowed his head deeply and kept it down for a long time."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{十二月|じゅうにがつ}{三十一日|さんじゅういちにち}の{朝|あさ}、お{金|かね}はいくら{足|た}りませんでしたか。",
+    "q_en": "On the morning of December 31st, how much money were they short?",
+    "options": [
+     "{二百八十万円|にひゃくはちじゅうまんえん}",
+     "{三百万円|さんびゃくまんえん}",
+     "{二十万円|にじゅうまんえん}",
+     "{八十万円|はちじゅうまんえん}"
+    ],
+    "answer": 2,
+    "why": "They had 2.8 million of the 3 million yen, so 200,000 yen was missing."
+   },
+   {
+    "q": "{森|もり}さんはどうしてお{金|かね}を{出|だ}すことにしましたか。",
+    "q_en": "Why did Mr. Mori decide to pay?",
+    "options": [
+     "{小野|おの}さんに{頼|たの}まれたから",
+     "メッセージを{読|よ}んで、{子|こ}どものころの{思|おも}い{出|で}を{思|おも}い{出|だ}したから",
+     "マンションを{建|た}てたくなかったから",
+     "ミカの{友|とも}だちだったから"
+    ],
+    "answer": 1,
+    "why": "Reading the messages reminded him he ate pudding there as a child, and he felt the café shouldn't be lost."
+   }
+  ]
+ },
+ {
+  "id": "s4-012",
+  "level": 4,
+  "title": "{桜|さくら}の{咲|さ}くころ",
+  "title_en": "When the Cherry Blossoms Bloom",
+  "genre_raw": "Slice of life",
+  "paragraphs": [
+   {
+    "jp": "{四月|しがつ}、{工事|こうじ}が{終|お}わって、カフェ・さくらがまた{開|ひら}きました。{古|ふる}い{木|き}のドアはそのままですが、{屋根|やね}と{壁|かべ}は{新|あたら}しくなりました。{窓|まど}の{外|そと}では、{桜|さくら}がきれいに{咲|さ}いています。ミカがここで{働|はたら}き{始|はじ}めてから、ちょうど{一年|いちねん}がたちました。",
+    "en": "In April, the construction work was finished and Café Sakura opened again. The old wooden door was kept as it was, but the roof and walls were new. Outside the window, the cherry blossoms were in full bloom. It had been exactly one year since Mika started working there."
+   },
+   {
+    "jp": "{再開|さいかい}の{日|ひ}、{店|みせ}にはなつかしい{顔|かお}が{集|あつ}まりました。{田中|たなか}さんは{窓|まど}のそばで、いつものように{奥|おく}さんへの{手紙|てがみ}を{書|か}いています。ケンタは{今|いま}ではちゃんとお{金|かね}を{払|はら}って、ほうじ{茶|ちゃ}ラテを{頼|たの}むようになりました。そして、オーストラリアからトムさんとエマさんも{来|き}てくれました。エマさんの{日本語|にほんご}は、{去年|きょねん}よりずっと{上手|じょうず}になっていました。",
+    "en": "On reopening day, familiar faces gathered at the café. Mr. Tanaka sat by the window writing to his wife as usual. Kenta now properly paid and ordered a hojicha latte. And Tom and Emma came all the way from Australia. Emma's Japanese had become much better than last year."
+   },
+   {
+    "jp": "{夕方|ゆうがた}、お{客|きゃく}さんが{帰|かえ}ったあとで、{小野|おの}さんがミカを{呼|よ}びました。「これ、やる」。{渡|わた}されたのは、{新|あたら}しいエプロンでした。{胸|むね}のところに、{小|ちい}さく「ミカ」という{名前|なまえ}が{入|はい}っています。それから{小野|おの}さんは、{親父|おやじ}のノートをミカの{前|まえ}に{置|お}きました。「さくらブレンドの{作|つく}り{方|かた}、お{前|まえ}にも{教|おし}えてやる」",
+    "en": "In the evening, after the customers had left, Mr. Ono called Mika over. \"Here, this is for you.\" What he handed her was a new apron. On the chest, the name \"Mika\" was stitched in small letters. Then Mr. Ono placed his father's notebook in front of her. \"I'll teach you how to make the Sakura Blend too.\""
+   },
+   {
+    "jp": "ミカはびっくりして、{小野|おの}さんの{顔|かお}を{見|み}ました。{一年前|いちねんまえ}は{怖|こわ}いと{思|おも}っていたその{顔|かお}が、{今|いま}はとてもやさしく{見|み}えます。「{塩|しお}を{入|い}れすぎるなよ」と{小野|おの}さんが{言|い}うと、ミカは{笑|わら}って「はい、{店長|てんちょう}！」と{答|こた}えました。{窓|まど}の{外|そと}で、{桜|さくら}の{花|はな}びらが{一枚|いちまい}、{静|しず}かに{落|お}ちていきました。",
+    "en": "Mika looked at Mr. Ono's face in surprise. That face she had found so scary a year ago now looked very kind. \"Don't put in too much salt,\" Mr. Ono said, and Mika laughed and answered, \"Yes, boss!\" Outside the window, a single cherry blossom petal quietly fell."
+   }
+  ],
+  "questions": [
+   {
+    "q": "ケンタについて、{正|ただ}しいのはどれですか。",
+    "q_en": "Which is true about Kenta?",
+    "options": [
+     "{今|いま}はお{金|かね}を{払|はら}って{注文|ちゅうもん}している",
+     "もう{店|みせ}に{来|こ}なくなった",
+     "{店|みせ}で{働|はたら}き{始|はじ}めた",
+     "{今|いま}も{何|なに}も{注文|ちゅうもん}しない"
+    ],
+    "answer": 0,
+    "why": "He now properly pays and orders a hojicha latte."
+   },
+   {
+    "q": "{小野|おの}さんはミカに{何|なに}をくれましたか。",
+    "q_en": "What did Mr. Ono give Mika?",
+    "options": [
+     "{古|ふる}い{写真|しゃしん}と{手紙|てがみ}",
+     "{名前|なまえ}が{入|はい}ったエプロン",
+     "{桜|さくら}の{枝|えだ}",
+     "{新|あたら}しいノート"
+    ],
+    "answer": 1,
+    "why": "He gave her a new apron with her name on it, and offered to teach her the Sakura Blend."
+   },
+   {
+    "q": "{一年前|いちねんまえ}と{比|くら}べて、ミカは{小野|おの}さんをどう{思|おも}うようになりましたか。",
+    "q_en": "Compared with a year ago, how does Mika now see Mr. Ono?",
+    "options": [
+     "もっと{怖|こわ}い{人|ひと}",
+     "{厳|きび}しすぎる{人|ひと}",
+     "やさしい{人|ひと}",
+     "{知|し}らない{人|ひと}"
+    ],
+    "answer": 2,
+    "why": "The face she once found scary now looks very kind to her."
+   }
+  ]
+ }
+]

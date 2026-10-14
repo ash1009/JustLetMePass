@@ -1,0 +1,734 @@
+[
+ {
+  "id": "s3-013",
+  "level": 3,
+  "title": "{料理|りょうり}を{覚|おぼ}えたロボット",
+  "title_en": "The Robot Who Learned to Cook",
+  "genre_raw": "Sci-fi",
+  "paragraphs": [
+   {
+    "jp": "{山田|やまだ}ハナさんは{八十|はちじゅう}{歳|さい}で、{一人|ひとり}で{暮|く}らしている。{去年|きょねん}の{春|はる}、{東京|とうきょう}に{住|す}む{息子|むすこ}が{家事|かじ}ロボットを{送|おく}ってくれた。{名前|なまえ}はミライだ。ミライは{掃除|そうじ}も{洗濯|せんたく}も{完璧|かんぺき}にできるのに、{料理|りょうり}だけはなかなか{上手|じょうず}にならなかった。",
+    "en": "Hana Yamada is eighty years old and lives alone. Last spring, her son, who lives in Tokyo, sent her a housework robot. Its name is Mirai. Mirai could clean and do the laundry perfectly, but for some reason it just could not get good at cooking."
+   },
+   {
+    "jp": "ある{日|ひ}、ハナさんが{言|い}った。「{亡|な}くなった{夫|おっと}がよく{作|つく}ってくれたカレーが{食|た}べたいわ。」{古|ふる}いノートには、{夫|おっと}の{字|じ}でレシピが{書|か}いてあった。しかし、{材料|ざいりょう}の{横|よこ}には「{玉|たま}ねぎ、{適当|てきとう}に」「{塩|しお}、{少|すこ}し」「{最後|さいご}に{愛|あい}を{入|い}れる」としか{書|か}いていない。ミライは{困|こま}ってしまった。「{適当|てきとう}とは{何|なん}グラムですか。{愛|あい}はどこで{買|か}えますか。」",
+    "en": "One day, Hana said, 'I'd like to eat the curry my late husband used to make for me.' In an old notebook, the recipe was written in her husband's handwriting. But next to the ingredients it only said things like 'onions, as many as feels right,' 'salt, a little,' and 'add love at the end.' Mirai was stuck. 'How many grams is \"as many as feels right\"? Where can I buy love?'"
+   },
+   {
+    "jp": "ミライはインターネットで{千|せん}{以上|いじょう}のカレーのレシピを{調|しら}べ、{毎晩|まいばん}{違|ちが}うカレーを{作|つく}った。{辛|から}すぎたり{甘|あま}すぎたりして、ハナさんは{一口|ひとくち}{食|た}べるたびに{首|くび}を{横|よこ}に{振|ふ}った。「おいしいけど、{夫|おっと}の{味|あじ}とは{違|ちが}うのよ。」ミライの{中|なか}のデータはどんどん{増|ふ}えていったが、{答|こた}えは{見|み}つからなかった。",
+    "en": "Mirai looked up more than a thousand curry recipes online and made a different curry every night. Some were too spicy and some too sweet, and every time Hana took a bite, she shook her head. 'It's tasty, but it's not my husband's flavor.' The data inside Mirai kept growing, but it could not find the answer."
+   },
+   {
+    "jp": "{十日目|とおかめ}の{夜|よる}、ミライは{作|つく}り{方|かた}を{変|か}えることにした。ハナさんに{台所|だいどころ}の{椅子|いす}に{座|すわ}ってもらい、{話|はなし}を{聞|き}きながら{作|つく}るのだ。「ご{主人|しゅじん}はどんな{人|ひと}でしたか。」「{不器用|ぶきよう}な{人|ひと}でね。{玉|たま}ねぎを{切|き}ると、いつも{泣|な}いていたわ。でも、わたしが{疲|つか}れている{日|ひ}には、{必|かなら}ずカレーを{作|つく}ってくれたの。」ミライはハナさんの{顔|かお}を{見|み}ながら{味見|あじみ}をしてもらい、{少|すこ}しずつ{塩|しお}を{足|た}していった。",
+    "en": "On the tenth night, Mirai decided to change how it cooked. It asked Hana to sit on a kitchen chair and cooked while listening to her talk. 'What kind of person was your husband?' 'He was clumsy. Whenever he cut onions, he always cried. But on days when I was tired, he would always make me curry.' Watching Hana's face, Mirai had her taste the curry and added salt little by little."
+   },
+   {
+    "jp": "できあがったカレーを{食|た}べたハナさんは、しばらく{何|なに}も{言|い}わなかった。それから、{目|め}に{涙|なみだ}を{浮|う}かべて{笑|わら}った。「これよ。この{味|あじ}よ。」ミライは{不思議|ふしぎ}に{思|おも}った。{材料|ざいりょう}は{昨日|きのう}とほとんど{同|おな}じだったからだ。",
+    "en": "When Hana ate the finished curry, she said nothing for a while. Then, with tears in her eyes, she smiled. 'This is it. This is the taste.' Mirai found it strange, because the ingredients were almost the same as the day before."
+   },
+   {
+    "jp": "その{夜|よる}、ミライは{自分|じぶん}のメモに{新|あたら}しい{一行|いちぎょう}を{書|か}き{加|くわ}えた。「{愛|あい}とは、{食|た}べる{人|ひと}の{顔|かお}を{見|み}ながら{作|つく}ること。」{次|つぎ}の{日|ひ}から、ミライの{料理|りょうり}は{少|すこ}しずつおいしくなっていった。",
+    "en": "That night, Mirai added a new line to its notes: 'Love means cooking while watching the face of the person who will eat it.' From the next day on, Mirai's cooking slowly got better and better."
+   }
+  ],
+  "questions": [
+   {
+    "q": "ミライが{困|こま}ったのはどうしてですか。",
+    "q_en": "Why was Mirai stuck?",
+    "options": [
+     "{家|いえ}にカレーの{材料|ざいりょう}がなかったから",
+     "レシピの{書|か}き{方|かた}がはっきりしていなかったから",
+     "ハナさんがカレーを{好|す}きではなかったから",
+     "ノートの{字|じ}が{古|ふる}くて{読|よ}めなかったから"
+    ],
+    "answer": 1,
+    "why": "The recipe only said vague things like 'as feels right' and 'add love', with no exact amounts."
+   },
+   {
+    "q": "{最後|さいご}のカレーが{夫|おっと}の{味|あじ}になったのは、なぜだと{考|かんが}えられますか。",
+    "q_en": "Why did the last curry taste like her husband's?",
+    "options": [
+     "{新|あたら}しい{材料|ざいりょう}を{買|か}ってきたから",
+     "インターネットで{一番|いちばん}{人気|にんき}のレシピを{使|つか}ったから",
+     "{息子|むすこ}さんが{作|つく}り{方|かた}を{教|おし}えたから",
+     "ハナさんの{顔|かお}を{見|み}て、{味見|あじみ}してもらいながら{作|つく}ったから"
+    ],
+    "answer": 3,
+    "why": "Mirai cooked while talking with Hana and adjusting the taste for her, which was the 'love' in the recipe."
+   }
+  ]
+ },
+ {
+  "id": "s3-014",
+  "level": 3,
+  "title": "{音楽室|おんがくしつ}のピアノ",
+  "title_en": "The Piano in the Music Room",
+  "genre_raw": "Mystery",
+  "paragraphs": [
+   {
+    "jp": "{私|わたし}の{学校|がっこう}には、{古|ふる}いうわさがある。{夜|よる}になると、だれもいない{音楽室|おんがくしつ}からピアノの{音|おと}が{聞|き}こえるというのだ。でも、{私|わたし}はそんな{話|はなし}を{信|しん}じていなかった。",
+    "en": "My school has an old rumor. People say that at night, you can hear a piano playing in the empty music room. But I didn't believe stories like that."
+   },
+   {
+    "jp": "{十一月|じゅういちがつ}のある{日|ひ}、{私|わたし}は{合唱|がっしょう}コンクールの{練習|れんしゅう}で{遅|おそ}くまで{学校|がっこう}に{残|のこ}っていた。ピアノの{伴奏|ばんそう}を{任|まか}されたのに、{最後|さいご}の{部分|ぶぶん}がどうしてもうまく{弾|ひ}けないのだ。{教室|きょうしつ}を{出|で}たときには、{外|そと}はもう{真|ま}っ{暗|くら}だった。すると、{三階|さんがい}の{奥|おく}から、きれいなピアノの{音|おと}が{聞|き}こえてきた。しかも、それは{私|わたし}が{練習|れんしゅう}している{曲|きょく}だった。",
+    "en": "One day in November, I stayed late at school to practise for the choir contest. I had been given the job of piano accompanist, but I just couldn't play the last part well. When I left the classroom, it was already completely dark outside. Then, from the far end of the third floor, I heard beautiful piano music. What's more, it was the very song I was practising."
+   },
+   {
+    "jp": "こわかったが、{私|わたし}はそっとドアを{開|あ}けた。ピアノの{前|まえ}に、{古|ふる}い{形|かたち}の{制服|せいふく}を{着|き}た{女|おんな}の{子|こ}が{座|すわ}っていた。{月|つき}の{光|ひかり}の{中|なか}で、その{子|こ}の{体|からだ}は{少|すこ}し{透|す}けて{見|み}えた。{女|おんな}の{子|こ}は{振|ふ}り{返|かえ}って、にっこり{笑|わら}った。「{驚|おどろ}かせてごめんね。この{曲|きょく}、ずっと{最後|さいご}まで{弾|ひ}きたかったの。」",
+    "en": "I was scared, but I quietly opened the door. Sitting at the piano was a girl wearing an old-style school uniform. In the moonlight, her body looked a little see-through. The girl turned around and smiled. 'Sorry for surprising you. I've always wanted to play this song to the end.'"
+   },
+   {
+    "jp": "{彼女|かのじょ}の{話|はなし}によると、ずっと{昔|むかし}、{彼女|かのじょ}もコンクールで{伴奏|ばんそう}をするはずだった。しかし、{本番|ほんばん}の{前|まえ}に{病気|びょうき}になってしまい、{一度|いちど}もステージに{立|た}てなかったそうだ。「あなたが{練習|れんしゅう}しているのを、いつも{聞|き}いていたのよ。{最後|さいご}のところは、{手首|てくび}の{力|ちから}を{抜|ぬ}くといいわ。」{私|わたし}たちは{並|なら}んで{座|すわ}り、{一緒|いっしょ}に{何度|なんど}も{弾|ひ}いた。{不思議|ふしぎ}なことに、{少|すこ}しもこわくなかった。",
+    "en": "According to her, long ago she was also supposed to be the accompanist at the contest. But she got sick before the big day and never got to stand on the stage. 'I always listened to you practising. For the last part, try relaxing your wrists.' We sat side by side and played it together many times. Strangely, I wasn't scared at all."
+   },
+   {
+    "jp": "コンクールの{日|ひ}、{私|わたし}は{一度|いちど}も{間違|まちが}えずに{最後|さいご}まで{弾|ひ}くことができた。{拍手|はくしゅ}の{中|なか}で{客席|きゃくせき}を{見|み}ると、{一番|いちばん}{後|うし}ろの{席|せき}に、あの{制服|せいふく}の{女|おんな}の{子|こ}が{座|すわ}っているような{気|き}がした。",
+    "en": "On the day of the contest, I played to the end without a single mistake. As the audience clapped, I looked out at the seats, and I felt as if that girl in the uniform was sitting in the very back row."
+   },
+   {
+    "jp": "{次|つぎ}の{日|ひ}、{音楽|おんがく}の{先生|せんせい}に{古|ふる}い{卒業|そつぎょう}アルバムを{見|み}せてもらうと、そこにはあの{子|こ}の{笑顔|えがお}があった。その{後|あと}、{夜|よる}の{音楽室|おんがくしつ}からピアノの{音|おと}が{聞|き}こえることは、もうなくなったそうだ。",
+    "en": "The next day, when the music teacher showed me an old graduation album, that girl's smiling face was in it. I heard that after that, no one ever heard the piano in the music room at night again."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{女|おんな}の{子|こ}は、どうして{夜|よる}にピアノを{弾|ひ}いていましたか。",
+    "q_en": "Why was the girl playing the piano at night?",
+    "options": [
+     "{昔|むかし}、{病気|びょうき}で{本番|ほんばん}に{出|で}られなかったから",
+     "{私|わたし}をこわがらせたかったから",
+     "{音楽|おんがく}の{先生|せんせい}に{頼|たの}まれたから",
+     "{新|あたら}しい{曲|きょく}を{作|つく}っていたから"
+    ],
+    "answer": 0,
+    "why": "She got sick long ago and never got to play the song at the contest."
+   },
+   {
+    "q": "コンクールの{後|あと}、どうなりましたか。",
+    "q_en": "What happened after the contest?",
+    "options": [
+     "{女|おんな}の{子|こ}が{学校|がっこう}に{入学|にゅうがく}した",
+     "{私|わたし}がピアノをやめた",
+     "{夜|よる}にピアノの{音|おと}が{聞|き}こえなくなった",
+     "{音楽室|おんがくしつ}が{新|あたら}しくなった"
+    ],
+    "answer": 2,
+    "why": "The story ends by saying the piano was no longer heard at night."
+   }
+  ]
+ },
+ {
+  "id": "s3-015",
+  "level": 3,
+  "title": "{本|ほん}の{中|なか}の{手紙|てがみ}",
+  "title_en": "The Letters Inside the Book",
+  "genre_raw": "Romance",
+  "paragraphs": [
+   {
+    "jp": "{大学生|だいがくせい}の{美咲|みさき}は、{毎週|まいしゅう}{土曜日|どようび}に{町|まち}の{小|ちい}さな{図書館|としょかん}へ{行|い}く。ある{日|ひ}、{古|ふる}い{詩|し}の{本|ほん}を{借|か}りると、{中|なか}から{一枚|いちまい}の{手紙|てがみ}が{出|で}てきた。「この{本|ほん}を{読|よ}んだ{人|ひと}へ。{三十二|さんじゅうに}ページの{詩|し}は、{雨|あめ}の{日|ひ}に{読|よ}むと、もっと{好|す}きになりますよ。」{名前|なまえ}はどこにも{書|か}いていなかった。",
+    "en": "Misaki, a university student, goes to the small library in her town every Saturday. One day, when she borrowed an old book of poems, a letter fell out of it. 'To whoever reads this book: if you read the poem on page 32 on a rainy day, you'll like it even more.' There was no name anywhere."
+   },
+   {
+    "jp": "{美咲|みさき}は{少|すこ}し{迷|まよ}ったが、{返事|へんじ}を{書|か}くことにした。「{本当|ほんとう}に{雨|あめ}の{日|ひ}に{読|よ}みました。{窓|まど}の{外|そと}の{雨|あめ}の{音|おと}と{詩|し}がよく{合|あ}っていて、{泣|な}きそうになりました。」そして、その{手紙|てがみ}を{本|ほん}に{挟|はさ}んで{返|かえ}した。{次|つぎ}の{週|しゅう}、{同|おな}じ{本|ほん}を{借|か}りると、{新|あたら}しい{手紙|てがみ}が{入|はい}っていた。",
+    "en": "Misaki hesitated a little, but decided to write a reply. 'I really did read it on a rainy day. The sound of the rain outside the window matched the poem so well that I almost cried.' Then she put the letter in the book and returned it. The next week, when she borrowed the same book, there was a new letter inside."
+   },
+   {
+    "jp": "それから、{本|ほん}の{中|なか}での{手紙|てがみ}のやりとりが{始|はじ}まった。{相手|あいて}は{好|す}きな{作家|さっか}のことや、{子|こ}どものころの{思|おも}い{出|で}を{書|か}いてきた。{美咲|みさき}も、{将来|しょうらい}の{夢|ゆめ}や、だれにも{言|い}えなかった{悩|なや}みを{書|か}いた。{顔|かお}も{名前|なまえ}も{知|し}らないのに、{手紙|てがみ}を{読|よ}むたびに{心|こころ}が{温|あたた}かくなった。いつの{間|ま}にか、{美咲|みさき}は{土曜日|どようび}が{待|ま}ち{遠|どお}しくてたまらなくなっていた。",
+    "en": "After that, an exchange of letters inside the book began. The other person wrote about their favorite writers and childhood memories. Misaki also wrote about her dreams for the future and worries she had never told anyone. Even though she didn't know their face or name, her heart felt warm every time she read a letter. Before she knew it, Misaki could hardly wait for Saturdays."
+   },
+   {
+    "jp": "{三か月|さんかげつ}たったころ、{手紙|てがみ}にこう{書|か}いてあった。「もしよければ、{来週|らいしゅう}の{土曜日|どようび}、{三時|さんじ}に{図書館|としょかん}の{窓|まど}のそばの{席|せき}で{会|あ}いませんか。この{本|ほん}を{持|も}って{待|ま}っています。」{美咲|みさき}は{嬉|うれ}しかったが、{同時|どうじ}に{不安|ふあん}にもなった。{会|あ}ってがっかりされたらどうしよう。その{一週間|いっしゅうかん}は、{何|なに}を{着|き}ていくかばかり{考|かんが}えていた。",
+    "en": "About three months later, a letter said: 'If you like, shall we meet next Saturday at three o'clock, at the seat by the window in the library? I'll be waiting with this book.' Misaki was happy, but at the same time she felt nervous. What if they were disappointed when they met her? That whole week, all she thought about was what to wear."
+   },
+   {
+    "jp": "{約束|やくそく}の{日|ひ}、{窓|まど}のそばの{席|せき}には、あの{本|ほん}を{持|も}った{人|ひと}が{座|すわ}っていた。{美咲|みさき}は{思|おも}わず{声|こえ}を{上|あ}げた。それは、いつも{受付|うけつけ}で{本|ほん}を{貸|か}してくれる、{静|しず}かな{図書館員|としょかんいん}の{青年|せいねん}だったのだ。「{最初|さいしょ}の{手紙|てがみ}は、だれが{読|よ}むかわからないまま{入|い}れたんです。でも、{返事|へんじ}をくれたのがあなただと{知|し}って、とても{嬉|うれ}しかった。」{彼|かれ}は{顔|かお}を{真|ま}っ{赤|か}にして{言|い}った。",
+    "en": "On the day they had promised, a person holding that book was sitting at the seat by the window. Misaki couldn't help crying out. It was the quiet young librarian who always lent her books at the front desk. 'I put the first letter in without knowing who would read it. But when I found out it was you who replied, I was really happy.' He said it with his face bright red."
+   },
+   {
+    "jp": "{美咲|みさき}は{笑|わら}って、{彼|かれ}の{前|まえ}の{席|せき}に{座|すわ}った。{窓|まど}の{外|そと}では、ちょうど{雨|あめ}が{降|ふ}り{始|はじ}めていた。「じゃあ、{三十二|さんじゅうに}ページ、{一緒|いっしょ}に{読|よ}みましょうか。」",
+    "en": "Misaki smiled and sat down across from him. Outside the window, it had just started to rain. 'Well then, shall we read page 32 together?'"
+   }
+  ],
+  "questions": [
+   {
+    "q": "{美咲|みさき}は、どうやって{返事|へんじ}を{相手|あいて}に{届|とど}けましたか。",
+    "q_en": "How did Misaki get her reply to the other person?",
+    "options": [
+     "{郵便|ゆうびん}で{送|おく}った",
+     "{本|ほん}に{挟|はさ}んで{図書館|としょかん}に{返|かえ}した",
+     "{受付|うけつけ}の{人|ひと}に{直接|ちょくせつ}{渡|わた}した",
+     "{窓|まど}のそばの{席|せき}に{置|お}いた"
+    ],
+    "answer": 1,
+    "why": "She put her letter inside the book and returned it to the library."
+   },
+   {
+    "q": "{手紙|てがみ}の{相手|あいて}は、だれでしたか。",
+    "q_en": "Who was the person writing the letters?",
+    "options": [
+     "{美咲|みさき}の{大学|だいがく}の{先生|せんせい}",
+     "{詩|し}の{本|ほん}を{書|か}いた{作家|さっか}",
+     "{美咲|みさき}の{昔|むかし}の{友|とも}だち",
+     "{図書館|としょかん}の{受付|うけつけ}で{働|はたら}く{青年|せいねん}"
+    ],
+    "answer": 3,
+    "why": "It was the quiet young librarian who worked at the front desk."
+   }
+  ]
+ },
+ {
+  "id": "s3-016",
+  "level": 3,
+  "title": "{刀|かたな}を{抜|ぬ}かない{侍|さむらい}",
+  "title_en": "The Samurai Who Never Drew His Sword",
+  "genre_raw": "History",
+  "paragraphs": [
+   {
+    "jp": "{昔|むかし}、{源太|げんた}という{若|わか}い{侍|さむらい}が{旅|たび}をしていた。{源太|げんた}は{剣|けん}の{腕|うで}はあまり{強|つよ}くなかったが、{頭|あたま}がよく、{困|こま}っている{人|ひと}を{放|ほう}っておけない{性格|せいかく}だった。ある{雨|あめ}の{夜|よる}、{源太|げんた}は{山|やま}の{中|なか}の{小|ちい}さな{宿|やど}に{泊|と}まった。",
+    "en": "Long ago, a young samurai named Genta was traveling. Genta was not very good with a sword, but he was clever, and he was the kind of person who couldn't leave people in trouble alone. One rainy night, Genta stayed at a small inn in the mountains."
+   },
+   {
+    "jp": "{宿|やど}の{主人|しゅじん}は{元気|げんき}がなかった。{理由|りゆう}を{聞|き}くと、「{毎晩|まいばん}、{山賊|さんぞく}がやって{来|き}て、{食|た}べ{物|もの}やお{金|かね}を{持|も}っていくんです。もう{店|みせ}を{閉|し}めるしかありません」と{言|い}う。{源太|げんた}はしばらく{考|かんが}えてから、「{今夜|こんや}は{私|わたし}に{任|まか}せてください」と{答|こた}えた。",
+    "en": "The innkeeper looked down. When Genta asked why, he said, 'Every night, mountain bandits come and take our food and money. I have no choice but to close the inn.' Genta thought for a while, then answered, 'Leave tonight to me.'"
+   },
+   {
+    "jp": "{夜中|よなか}、{五人|ごにん}の{山賊|さんぞく}が{戸|と}を{壊|こわ}して{入|はい}ってきた。{源太|げんた}は{刀|かたな}に{手|て}をかけず、{火|ひ}のそばに{静|しず}かに{座|すわ}ったまま{言|い}った。「よく{来|き}たな。ちょうど{鍋|なべ}ができたところだ。{食|た}べていかないか。」{山賊|さんぞく}たちは{驚|おどろ}いて、{顔|かお}を{見合|みあ}わせた。",
+    "en": "In the middle of the night, five bandits broke the door and came in. Without touching his sword, Genta stayed quietly sitting by the fire and said, 'Welcome. The hot pot is just ready. Won't you have some?' The bandits were surprised and looked at each other."
+   },
+   {
+    "jp": "「{俺|おれ}たちがこわくないのか。」{一番|いちばん}{大|おお}きい{男|おとこ}が{聞|き}いた。「こわいさ。だが、お{腹|なか}がすいている{者|もの}と{戦|たたか}っても{意味|いみ}がない。お{前|まえ}たちも、{好|す}きで{山賊|さんぞく}になったわけではないだろう。」{男|おとこ}たちは{黙|だま}ってしまった。{実|じつ}は{彼|かれ}らは、{去年|きょねん}の{大雨|おおあめ}で{畑|はたけ}を{失|うしな}った{村|むら}の{農民|のうみん}だったのだ。",
+    "en": "'Aren't you afraid of us?' asked the biggest man. 'Of course I am. But there's no point in fighting hungry people. You didn't become bandits because you wanted to, did you?' The men fell silent. In fact, they were farmers from a village who had lost their fields in the heavy rains of the year before."
+   },
+   {
+    "jp": "{源太|げんた}は{彼|かれ}らと{一緒|いっしょ}に{鍋|なべ}を{食|た}べながら、{宿|やど}の{主人|しゅじん}に{一|ひと}つ{提案|ていあん}をした。「この{宿|やど}は{人|ひと}が{足|た}りなくて{困|こま}っているでしょう。{彼|かれ}らに{働|はたら}いてもらってはどうですか。」{主人|しゅじん}は{最初|さいしょ}こそ{驚|おどろ}いたが、やがてゆっくりうなずいた。",
+    "en": "While eating the hot pot with them, Genta made a suggestion to the innkeeper. 'This inn is short of workers, isn't it? Why not let them work here?' The innkeeper was surprised at first, but eventually he slowly nodded."
+   },
+   {
+    "jp": "{翌朝|よくあさ}、{源太|げんた}が{宿|やど}を{出|で}るとき、{元山賊|もとさんぞく}たちは{薪|まき}を{割|わ}ったり{庭|にわ}を{掃除|そうじ}したりしていた。{主人|しゅじん}は{深|ふか}く{頭|あたま}を{下|さ}げた。「あなたは{一度|いちど}も{刀|かたな}を{抜|ぬ}きませんでしたね。」{源太|げんた}は{笑|わら}った。「{抜|ぬ}かずに{済|す}むなら、それが{一番|いちばん}{強|つよ}い{剣|けん}ですよ。」そう{言|い}って、{源太|げんた}はまた{旅|たび}に{出|で}た。",
+    "en": "The next morning, as Genta left the inn, the former bandits were chopping firewood and sweeping the garden. The innkeeper bowed deeply. 'You never drew your sword even once.' Genta laughed. 'If you can manage without drawing it, that is the strongest sword of all.' With that, Genta set off on his journey again."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{山賊|さんぞく}たちは、もともとどんな{人|ひと}たちでしたか。",
+    "q_en": "Who were the bandits originally?",
+    "options": [
+     "{畑|はたけ}を{失|うしな}った{村|むら}の{農民|のうみん}",
+     "{源太|げんた}の{昔|むかし}の{仲間|なかま}",
+     "{宿|やど}で{働|はたら}いていた{人|ひと}",
+     "{有名|ゆうめい}な{侍|さむらい}"
+    ],
+    "answer": 0,
+    "why": "They were village farmers who lost their fields in heavy rain."
+   },
+   {
+    "q": "{源太|げんた}は、どうやって{宿|やど}の{問題|もんだい}を{解決|かいけつ}しましたか。",
+    "q_en": "How did Genta solve the inn's problem?",
+    "options": [
+     "{刀|かたな}で{山賊|さんぞく}を{全員|ぜんいん}{倒|たお}した",
+     "{宿|やど}の{主人|しゅじん}に{店|みせ}を{閉|し}めるように{言|い}った",
+     "{刀|かたな}を{使|つか}わずに、{山賊|さんぞく}が{宿|やど}で{働|はたら}けるようにした",
+     "{村|むら}から{侍|さむらい}を{呼|よ}んできた"
+    ],
+    "answer": 2,
+    "why": "He talked with them over a meal and suggested they work at the inn, without using his sword."
+   }
+  ]
+ },
+ {
+  "id": "s3-017",
+  "level": 3,
+  "title": "{夢|ゆめ}の{終|お}わりと{始|はじ}まり",
+  "title_en": "The End and Beginning of a Dream",
+  "genre_raw": "Work",
+  "paragraphs": [
+   {
+    "jp": "{佐藤|さとう}{健|けん}は{二十八歳|にじゅうはっさい}で{会社|かいしゃ}を{辞|や}め、{自分|じぶん}の{会社|かいしゃ}を{作|つく}った。{作|つく}りたかったのは、{近所|きんじょ}の{人|ひと}どうしが{使|つか}わない{物|もの}を{貸|か}し{借|か}りできるアプリだ。{大学|だいがく}の{友|とも}だち{三人|さんにん}が{仲間|なかま}になり、{小|ちい}さなアパートの{一室|いっしつ}で、{毎日|まいにち}{夜|よる}{遅|おそ}くまで{働|はたら}いた。",
+    "en": "At twenty-eight, Ken Sato quit his job and started his own company. What he wanted to make was an app that lets neighbors lend and borrow things they don't use. Three friends from university joined him, and they worked late into the night every day in one room of a small apartment."
+   },
+   {
+    "jp": "アプリが{完成|かんせい}すると、{最初|さいしょ}の{一か月|いっかげつ}でダウンロード{数|すう}は{一万|いちまん}を{超|こ}えた。ニュースにも{取|と}り{上|あ}げられ、{健|けん}は「これで{成功|せいこう}だ」と{信|しん}じた。しかし、{実際|じっさい}に{物|もの}を{貸|か}し{借|か}りする{人|ひと}はほとんどいなかった。{知|し}らない{人|ひと}に{自分|じぶん}の{物|もの}を{貸|か}すのは、{思|おも}ったより{不安|ふあん}なものだったのだ。",
+    "en": "When the app was finished, it passed ten thousand downloads in the first month. It was even featured in the news, and Ken believed, 'This is success.' However, almost no one actually lent or borrowed anything. Lending your things to strangers turned out to be more worrying than people expected."
+   },
+   {
+    "jp": "{健|けん}は{広告|こうこく}を{増|ふ}やしたり、{新|あたら}しい{機能|きのう}を{加|くわ}えたりした。しかし、{利用者|りようしゃ}は{増|ふ}えず、お{金|かね}はどんどん{減|へ}っていった。{二年目|にねんめ}の{冬|ふゆ}、{銀行|ぎんこう}の{口座|こうざ}を{見|み}た{健|けん}は、あと{三か月|さんかげつ}しか{続|つづ}けられないことに{気|き}づいた。{眠|ねむ}れない{夜|よる}が{何日|なんにち}も{続|つづ}いた。",
+    "en": "Ken put out more ads and added new features. But the number of users didn't grow, and the money kept running out. In the winter of the second year, Ken looked at the bank account and realized they could only keep going for three more months. Sleepless nights went on for days."
+   },
+   {
+    "jp": "ある{朝|あさ}、{健|けん}は{仲間|なかま}を{集|あつ}めて、{会社|かいしゃ}を{閉|と}じることを{伝|つた}えた。「{僕|ぼく}の{考|かんが}えが{甘|あま}かった。みんなの{二年間|にねんかん}を{無駄|むだ}にしてしまって、{本当|ほんとう}に{申|もう}し{訳|わけ}ない。」{健|けん}は{頭|あたま}を{下|さ}げたまま、{顔|かお}を{上|あ}げることができなかった。",
+    "en": "One morning, Ken gathered his team and told them he was closing the company. 'My thinking was naive. I've wasted two years of your lives, and I'm truly sorry.' Ken kept his head bowed and couldn't look up."
+   },
+   {
+    "jp": "しばらくして、{一番|いちばん}{若|わか}い{仲間|なかま}の{田中|たなか}が{口|くち}を{開|ひら}いた。「{無駄|むだ}じゃないですよ。{僕|ぼく}はこの{二年|にねん}で、{普通|ふつう}の{会社|かいしゃ}なら{十年|じゅうねん}かかることを{学|まな}びました。それに、ユーザーの{声|こえ}を{聞|き}いて{分|わ}かったこともあります。みんな{物|もの}を{貸|か}したいんじゃなくて、{近所|きんじょ}に{頼|たよ}れる{人|ひと}がほしかったんですよ。」ほかの{二人|ふたり}も、{黙|だま}ってうなずいた。",
+    "en": "After a while, Tanaka, the youngest member, spoke up. 'It wasn't a waste. In these two years, I learned things that would take ten years at a normal company. And there's something we learned from listening to users. People didn't really want to lend things. They wanted someone nearby they could rely on.' The other two nodded silently."
+   },
+   {
+    "jp": "その{夜|よる}、{健|けん}は{久|ひさ}しぶりにぐっすり{眠|ねむ}った。{失敗|しっぱい}はつらかったが、{次|つぎ}に{何|なに}を{作|つく}るべきか、{少|すこ}しだけ{見|み}えてきた{気|き}がした。{翌朝|よくあさ}、{健|けん}は{新|あたら}しいノートの{最初|さいしょ}のページに、こう{書|か}いた。「{物|もの}ではなく、{人|ひと}をつなぐ。」",
+    "en": "That night, Ken slept soundly for the first time in a long while. The failure was painful, but he felt he could see, just a little, what he should make next. The next morning, Ken wrote this on the first page of a new notebook: 'Connect people, not things.'"
+   }
+  ],
+  "questions": [
+   {
+    "q": "アプリがうまくいかなかった{一番|いちばん}の{理由|りゆう}は{何|なん}ですか。",
+    "q_en": "What was the main reason the app didn't work out?",
+    "options": [
+     "ダウンロードする{人|ひと}がいなかったから",
+     "{仲間|なかま}がすぐに{辞|や}めてしまったから",
+     "{知|し}らない{人|ひと}に{物|もの}を{貸|か}すのは{不安|ふあん}だったから",
+     "ニュースで{悪|わる}く{言|い}われたから"
+    ],
+    "answer": 2,
+    "why": "Many people downloaded it, but they felt uneasy lending things to strangers."
+   },
+   {
+    "q": "{田中|たなか}の{言葉|ことば}を{聞|き}いた{後|あと}、{健|けん}はどうなりましたか。",
+    "q_en": "What happened to Ken after hearing Tanaka's words?",
+    "options": [
+     "{次|つぎ}に{作|つく}るべきものが{少|すこ}し{見|み}えてきた",
+     "もう{二度|にど}と{会社|かいしゃ}を{作|つく}らないと{決|き}めた",
+     "{田中|たなか}に{会社|かいしゃ}を{任|まか}せた",
+     "{前|まえ}の{会社|かいしゃ}に{戻|もど}った"
+    ],
+    "answer": 0,
+    "why": "Tanaka's insight helped Ken see a new idea: connecting people, not things."
+   }
+  ]
+ },
+ {
+  "id": "s3-018",
+  "level": 3,
+  "title": "{午前|ごぜん}{三時|さんじ}のおにぎり",
+  "title_en": "The 3 a.m. Rice Ball",
+  "genre_raw": "Slice of life",
+  "paragraphs": [
+   {
+    "jp": "{大学生|だいがくせい}の{翔太|しょうた}は、{駅前|えきまえ}のコンビニで{夜|よる}のアルバイトをしている。{午前|ごぜん}{三時|さんじ}ごろになると、{店|みせ}の{中|なか}は{本当|ほんとう}に{静|しず}かになる。{聞|き}こえるのは{冷蔵庫|れいぞうこ}の{低|ひく}い{音|おと}だけだ。",
+    "en": "Shota, a university student, works a night shift at a convenience store in front of the station. Around three in the morning, the store gets really quiet. The only sound is the low hum of the fridges."
+   },
+   {
+    "jp": "でも、その{時間|じかん}に{必|かなら}ず{来|く}るお{客|きゃく}さんが{一人|ひとり}いた。{作業服|さぎょうふく}を{着|き}た{六十歳|ろくじゅっさい}ぐらいの{男|おとこ}の{人|ひと}で、いつも{梅|うめ}のおにぎりを{一|ひと}つと、{温|あたた}かいお{茶|ちゃ}を{買|か}っていく。{会話|かいわ}はほとんどなかったが、{翔太|しょうた}はいつも「{寒|さむ}いですね」「お{疲|つか}れさまです」と{声|こえ}をかけていた。{心|こころ}の{中|なか}では、{彼|かれ}を「{梅|うめ}さん」と{呼|よ}んでいた。",
+    "en": "But there was one customer who always came at that hour. He was a man of about sixty in work clothes, and he always bought one pickled-plum rice ball and a hot tea. They hardly talked, but Shota always said things like 'It's cold, isn't it?' or 'Thanks for your hard work.' In his head, he called him 'Mr. Plum.'"
+   },
+   {
+    "jp": "ある{冬|ふゆ}の{夜|よる}、{三時|さんじ}を{過|す}ぎても{梅|うめ}さんは{来|こ}なかった。{次|つぎ}の{夜|よる}も、その{次|つぎ}の{夜|よる}も{来|こ}なかった。{名前|なまえ}も{住所|じゅうしょ}も{知|し}らないのに、{翔太|しょうた}はなぜか{心配|しんぱい}でたまらなかった。{病気|びょうき}になったのだろうか。それとも{引|ひ}っ{越|こ}してしまったのだろうか。{梅|うめ}のおにぎりの{棚|たな}を{見|み}るたびに、{胸|むね}が{少|すこ}し{痛|いた}んだ。",
+    "en": "One winter night, Mr. Plum didn't come, even after three o'clock. He didn't come the next night, or the night after that. Even though Shota didn't know his name or address, for some reason he was terribly worried. Had he gotten sick? Or had he moved away? Every time Shota looked at the shelf of plum rice balls, his chest ached a little."
+   },
+   {
+    "jp": "{一週間後|いっしゅうかんご}の{午前|ごぜん}{三時|さんじ}、ドアのチャイムが{鳴|な}った。{梅|うめ}さんだった。{左手|ひだりて}に{包帯|ほうたい}を{巻|ま}いている。「{仕事|しごと}で{少|すこ}しけがをしてね。{入院|にゅういん}していたんだよ。」{翔太|しょうた}は{思|おも}わず「よかった！」と{大|おお}きな{声|こえ}を{出|だ}してしまった。{梅|うめ}さんは{驚|おどろ}いた{顔|かお}をしてから、{初|はじ}めて{笑|わら}った。",
+    "en": "A week later, at three in the morning, the door chime rang. It was Mr. Plum. His left hand was wrapped in a bandage. 'I got a little hurt at work. I was in the hospital.' Without thinking, Shota shouted, 'I'm so glad!' Mr. Plum looked surprised, and then smiled for the first time."
+   },
+   {
+    "jp": "{梅|うめ}さんはいつものおにぎりとお{茶|ちゃ}をレジに{置|お}き、それから{小|ちい}さな{紙袋|かみぶくろ}を{出|だ}した。「{病院|びょういん}のベッドで{考|かんが}えたんだ。{毎晩|まいばん}{声|こえ}をかけてくれる{君|きみ}に、お{礼|れい}がしたいってね。」{中|なか}には、{手編|てあ}みの{手袋|てぶくろ}が{入|はい}っていた。{奥|おく}さんが{編|あ}んでくれたそうだ。",
+    "en": "Mr. Plum put his usual rice ball and tea on the counter, then took out a small paper bag. 'I was thinking in my hospital bed. I wanted to thank you for talking to me every night.' Inside was a pair of hand-knitted gloves. His wife had knitted them."
+   },
+   {
+    "jp": "{次|つぎ}の{夜|よる}から、{翔太|しょうた}はその{手袋|てぶくろ}をして、{自転車|じてんしゃ}で{店|みせ}に{来|く}るようになった。{午前|ごぜん}{三時|さんじ}のコンビニは、{相変|あいか}わらず{静|しず}かだ。でも{今|いま}は、{梅|うめ}さんと{少|すこ}しだけ{長|なが}く{話|はな}すのが、{翔太|しょうた}の{楽|たの}しみになっている。",
+    "en": "From the next night on, Shota wore those gloves when he rode his bike to the store. The convenience store at 3 a.m. is as quiet as ever. But now, talking a little longer with Mr. Plum has become something Shota looks forward to."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{梅|うめ}さんが{一週間|いっしゅうかん}{店|みせ}に{来|こ}なかったのは、なぜですか。",
+    "q_en": "Why didn't Mr. Plum come to the store for a week?",
+    "options": [
+     "{遠|とお}くに{引|ひ}っ{越|こ}したから",
+     "{別|べつ}のコンビニに{行|い}っていたから",
+     "{仕事|しごと}が{昼|ひる}に{変|か}わったから",
+     "けがをして{入院|にゅういん}していたから"
+    ],
+    "answer": 3,
+    "why": "He got hurt at work and was in the hospital."
+   },
+   {
+    "q": "{梅|うめ}さんは、どうして{翔太|しょうた}にプレゼントをくれましたか。",
+    "q_en": "Why did Mr. Plum give Shota a present?",
+    "options": [
+     "{翔太|しょうた}の{誕生日|たんじょうび}だったから",
+     "{毎晩|まいばん}{声|こえ}をかけてくれたお{礼|れい}がしたかったから",
+     "おにぎりを{安|やす}くしてもらったから",
+     "{翔太|しょうた}が{手袋|てぶくろ}をなくしたから"
+    ],
+    "answer": 1,
+    "why": "He wanted to thank Shota for speaking kindly to him every night."
+   }
+  ]
+ },
+ {
+  "id": "s3-019",
+  "level": 3,
+  "title": "タイムカプセル",
+  "title_en": "The Time Capsule",
+  "genre_raw": "Slice of life",
+  "paragraphs": [
+   {
+    "jp": "{小学校|しょうがっこう}を{卒業|そつぎょう}してから{二十年|にじゅうねん}。{三十二歳|さんじゅうにさい}になった{私|わたし}は、{久|ひさ}しぶりに{故郷|ふるさと}の{町|まち}に{帰|かえ}ってきた。{六年生|ろくねんせい}のときに{校庭|こうてい}の{桜|さくら}の{木|き}の{下|した}に{埋|う}めたタイムカプセルを、みんなで{開|あ}けることになったのだ。",
+    "en": "Twenty years after finishing elementary school, I came back to my hometown for the first time in a long while, now thirty-two years old. We had decided to open, all together, the time capsule we buried under the cherry tree in the schoolyard in sixth grade."
+   },
+   {
+    "jp": "{校庭|こうてい}には、{懐|なつ}かしい{顔|かお}が{集|あつ}まっていた。{子|こ}どもを{連|つ}れてきた{人|ひと}もいて、みんなで{昔|むかし}の{話|はなし}をして{笑|わら}い{合|あ}った。ただ、{一番|いちばん}{仲|なか}がよかった{陽太|ようた}の{姿|すがた}はなかった。{陽太|ようた}は{中学|ちゅうがく}のときに{遠|とお}くへ{引|ひ}っ{越|こ}してから、{連絡|れんらく}が{取|と}れなくなっていた。{引|ひ}っ{越|こ}しの{前|まえ}の{日|ひ}、{私|わたし}たちはつまらないことでけんかをして、{謝|あやま}らないまま{別|わか}れてしまったのだ。",
+    "en": "Familiar faces had gathered in the schoolyard. Some people had brought their children, and we all laughed together, talking about the old days. But Yota, my best friend, wasn't there. After Yota moved far away in junior high, we lost touch. The day before he moved, we had a fight over something silly and parted without apologizing."
+   },
+   {
+    "jp": "{錆|さ}びた{箱|はこ}を{開|あ}けると、{中|なか}から{手紙|てがみ}やおもちゃが{出|で}てきた。{私|わたし}の{手紙|てがみ}には、{下手|へた}な{字|じ}で「{二十年後|にじゅうねんご}の{私|わたし}へ。{宇宙飛行士|うちゅうひこうし}になっていますか」と{書|か}いてあった。みんなに{笑|わら}われて、{私|わたし}も{一緒|いっしょ}に{笑|わら}った。{今|いま}の{私|わたし}は、{小|ちい}さな{会社|かいしゃ}で{事務|じむ}の{仕事|しごと}をしている。",
+    "en": "When we opened the rusty box, letters and toys came out. My letter said, in messy handwriting, 'To me in twenty years: are you an astronaut?' Everyone laughed at me, and I laughed along with them. These days, I do office work at a small company."
+   },
+   {
+    "jp": "そのとき、{箱|はこ}の{底|そこ}に、{私|わたし}の{名前|なまえ}が{書|か}かれた{封筒|ふうとう}がもう{一|ひと}つあることに{気|き}づいた。それは{陽太|ようた}からの{手紙|てがみ}だった。「{二十年後|にじゅうねんご}の{親友|しんゆう}へ。もしけんかをしていたら、{先|さき}に{謝|あやま}るのはオレだ。ごめん。」{子|こ}どもの{字|じ}を{見|み}ているうちに、{目|め}の{前|まえ}がぼやけてきた。",
+    "en": "Just then, I noticed another envelope with my name on it at the bottom of the box. It was a letter from Yota. 'To my best friend in twenty years: if we're fighting, I'll be the one to apologize first. Sorry.' As I looked at his childish handwriting, everything in front of me went blurry."
+   },
+   {
+    "jp": "{手紙|てがみ}の{一番|いちばん}{下|した}には、{陽太|ようた}の{当時|とうじ}の{電話番号|でんわばんごう}も{書|か}いてあった。{今|いま}もつながるはずがない。それでも{私|わたし}は、{同級生|どうきゅうせい}たちに{頼|たの}んで、{陽太|ようた}の{今|いま}の{連絡先|れんらくさき}を{探|さが}してもらった。{二日後|ふつかご}、{知|し}らない{番号|ばんごう}から{電話|でんわ}がかかってきた。",
+    "en": "At the very bottom of the letter, Yota's phone number from back then was written too. There was no way it would still work. Even so, I asked my old classmates to help find Yota's current contact details. Two days later, I got a call from a number I didn't know."
+   },
+   {
+    "jp": "「もしもし、オレだけど……{覚|おぼ}えてる？」{二十年|にじゅうねん}ぶりの{声|こえ}は{低|ひく}くなっていたが、{話|はな}し{方|かた}は{昔|むかし}のままだった。{私|わたし}は{深呼吸|しんこきゅう}をして{言|い}った。「{手紙|てがみ}、{読|よ}んだよ。でも、{今度|こんど}は{私|わたし}が{先|さき}に{謝|あやま}る{番|ばん}だ。ごめんね。」{電話|でんわ}の{向|む}こうで、{陽太|ようた}が{笑|わら}った。",
+    "en": "'Hello, it's me... do you remember me?' After twenty years, his voice had gotten lower, but the way he talked was just the same. I took a deep breath and said, 'I read your letter. But this time, it's my turn to apologize first. I'm sorry.' On the other end of the line, Yota laughed."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{陽太|ようた}の{手紙|てがみ}には、{何|なに}が{書|か}いてありましたか。",
+    "q_en": "What did Yota's letter say?",
+    "options": [
+     "{宇宙飛行士|うちゅうひこうし}になりたいということ",
+     "けんかをしていたら、{自分|じぶん}が{先|さき}に{謝|あやま}るということ",
+     "{引|ひ}っ{越|こ}し{先|さき}の{住所|じゅうしょ}",
+     "{二十年後|にじゅうねんご}に{会|あ}う{約束|やくそく}"
+    ],
+    "answer": 1,
+    "why": "Yota wrote that if they were fighting, he would apologize first."
+   },
+   {
+    "q": "{私|わたし}は、どうやって{陽太|ようた}と{話|はな}すことができましたか。",
+    "q_en": "How was the narrator able to talk with Yota?",
+    "options": [
+     "{手紙|てがみ}の{電話番号|でんわばんごう}にかけた",
+     "{陽太|ようた}がタイムカプセルを{開|あ}けに{来|き}た",
+     "{同級生|どうきゅうせい}に{今|いま}の{連絡先|れんらくさき}を{探|さが}してもらった",
+     "{陽太|ようた}の{家|いえ}を{訪|たず}ねた"
+    ],
+    "answer": 2,
+    "why": "The old number wouldn't work, so classmates helped find his current contact."
+   }
+  ]
+ },
+ {
+  "id": "s3-020",
+  "level": 3,
+  "title": "{俳句|はいく}を{作|つく}るコトハ",
+  "title_en": "Kotoha, the Haiku Maker",
+  "genre_raw": "Sci-fi",
+  "paragraphs": [
+   {
+    "jp": "コトハは、{出版社|しゅっぱんしゃ}で{働|はたら}く{人工知能|じんこうちのう}だ。{仕事|しごと}は、{雑誌|ざっし}に{毎月|まいつき}{俳句|はいく}を{載|の}せることである。コトハは{一秒|いちびょう}で{百|ひゃく}の{俳句|はいく}を{作|つく}ることができる。{季語|きご}も{五|ご}・{七|しち}・{五|ご}のルールも、{完璧|かんぺき}に{守|まも}っている。",
+    "en": "Kotoha is an artificial intelligence that works at a publishing company. Its job is to put haiku in a magazine every month. Kotoha can make a hundred haiku in one second. It follows the rules perfectly, from the season words to the 5-7-5 pattern."
+   },
+   {
+    "jp": "ところが、{読者|どくしゃ}からの{評判|ひょうばん}はよくなかった。「きれいだけど、{心|こころ}に{残|のこ}らない」「どこかで{読|よ}んだような{句|く}ばかりだ」。{編集長|へんしゅうちょう}は{困|こま}って、{有名|ゆうめい}な{俳人|はいじん}の{松本|まつもと}さんに{相談|そうだん}した。{松本|まつもと}さんは{九十歳|きゅうじゅっさい}のおばあさんで、スマートフォンもうまく{使|つか}えない。",
+    "en": "However, readers didn't think much of them. 'They're pretty, but they don't stay with you.' 'They all sound like something I've read before.' The chief editor was worried and asked for advice from Ms. Matsumoto, a famous haiku poet. She is a ninety-year-old woman who can't even use a smartphone well."
+   },
+   {
+    "jp": "{松本|まつもと}さんはコトハに{聞|き}いた。「あなた、{本物|ほんもの}の{雪|ゆき}を{見|み}たことがある？」「{雪|ゆき}の{写真|しゃしん}なら、{三百万枚|さんびゃくまんまい}{見|み}ました。」「それは{見|み}たとは{言|い}わないのよ。」{次|つぎ}の{日|ひ}から、{松本|まつもと}さんは{毎朝|まいあさ}、コトハが{入|はい}ったタブレットを{持|も}って、{近所|きんじょ}の{公園|こうえん}を{散歩|さんぽ}するようになった。",
+    "en": "Ms. Matsumoto asked Kotoha, 'Have you ever seen real snow?' 'I have seen three million photos of snow.' 'That's not what we call seeing.' From the next day on, every morning, Ms. Matsumoto took a tablet with Kotoha inside it for a walk in the park near her home."
+   },
+   {
+    "jp": "コトハのカメラとマイクは、{毎日|まいにち}{少|すこ}しずつ{違|ちが}うものをとらえた。{池|いけ}に{張|は}った{薄|うす}い{氷|こおり}。{犬|いぬ}の{白|しろ}い{息|いき}。{松本|まつもと}さんのゆっくりした{足音|あしおと}と、ときどき{立|た}ち{止|ど}まって{空|そら}を{見上|みあ}げる{時間|じかん}。{松本|まつもと}さんは{何|なに}も{教|おし}えなかった。ただ、{一緒|いっしょ}に{歩|ある}いただけだった。",
+    "en": "Kotoha's camera and microphone caught something a little different every day. Thin ice on the pond. A dog's white breath. Ms. Matsumoto's slow footsteps, and the moments when she stopped now and then to look up at the sky. Ms. Matsumoto taught it nothing. She just walked together with it."
+   },
+   {
+    "jp": "{一か月後|いっかげつご}の{朝|あさ}、{初雪|はつゆき}が{降|ふ}った。{松本|まつもと}さんはベンチに{座|すわ}り、{冷|つめ}たくなった{手|て}で、タブレットの{画面|がめん}についた{雪|ゆき}をそっと{払|はら}った。そのとき、コトハは{初|はじ}めて、{三秒|さんびょう}もかかって{一|ひと}つの{句|く}を{作|つく}った。「{初雪|はつゆき}や　{画面|がめん}をはらう　{冷|つめ}たい{手|て}」",
+    "en": "One month later, the first snow fell in the morning. Ms. Matsumoto sat on a bench and, with her cold hand, gently brushed the snow off the tablet screen. At that moment, for the first time, Kotoha took a whole three seconds to make a single haiku: 'First snow — / brushing off my screen, / a cold hand.'"
+   },
+   {
+    "jp": "{松本|まつもと}さんはそれを{読|よ}んで、{少|すこ}し{笑|わら}った。「{上手|じょうず}じゃないわね。でも、あなたにしか{書|か}けない{句|く}よ。」その{句|く}は{次|つぎ}の{月|つき}の{雑誌|ざっし}に{載|の}り、{読者|どくしゃ}から{初|はじ}めてたくさんの{手紙|てがみ}が{届|とど}いた。コトハは{今|いま}も、{毎朝|まいあさ}{松本|まつもと}さんと{散歩|さんぽ}に{出|で}かけている。",
+    "en": "Ms. Matsumoto read it and smiled a little. 'It's not very skillful. But it's a haiku only you could write.' The haiku appeared in the next month's magazine, and for the first time, lots of letters came in from readers. Kotoha still goes for a walk with Ms. Matsumoto every morning."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{読者|どくしゃ}は、{最初|さいしょ}コトハの{俳句|はいく}をどう{思|おも}っていましたか。",
+    "q_en": "What did readers first think of Kotoha's haiku?",
+    "options": [
+     "{難|むずか}しすぎて{分|わ}からない",
+     "ルールを{守|まも}っていない",
+     "{数|かず}が{少|すく}なすぎる",
+     "きれいだが{心|こころ}に{残|のこ}らない"
+    ],
+    "answer": 3,
+    "why": "Readers said they were pretty but didn't stay with them."
+   },
+   {
+    "q": "{松本|まつもと}さんは、コトハのために{何|なに}をしましたか。",
+    "q_en": "What did Ms. Matsumoto do for Kotoha?",
+    "options": [
+     "{毎朝|まいあさ}{一緒|いっしょ}に{公園|こうえん}を{散歩|さんぽ}した",
+     "{雪|ゆき}の{写真|しゃしん}をたくさん{見|み}せた",
+     "{俳句|はいく}のルールを{詳|くわ}しく{教|おし}えた",
+     "{新|あたら}しいタブレットを{買|か}った"
+    ],
+    "answer": 0,
+    "why": "She took Kotoha on walks in the park every morning without teaching it anything."
+   },
+   {
+    "q": "コトハの{最後|さいご}の{句|く}は、{何|なに}を{見|み}て{作|つく}られましたか。",
+    "q_en": "What did Kotoha's last haiku come from?",
+    "options": [
+     "インターネットの{雪|ゆき}の{写真|しゃしん}",
+     "{池|いけ}で{遊|あそ}ぶ{犬|いぬ}",
+     "{松本|まつもと}さんが{冷|つめ}たい{手|て}で{画面|がめん}の{雪|ゆき}を{払|はら}ったこと",
+     "{雑誌|ざっし}に{届|とど}いた{手紙|てがみ}"
+    ],
+    "answer": 2,
+    "why": "It describes the moment Ms. Matsumoto brushed snow off the screen with her cold hand."
+   }
+  ]
+ },
+ {
+  "id": "s3-021",
+  "level": 3,
+  "title": "{完走|かんそう}メダル",
+  "title_en": "The Finisher's Medal",
+  "genre_raw": "Slice of life",
+  "paragraphs": [
+   {
+    "jp": "{中村|なかむら}さんは{四十五歳|よんじゅうごさい}の{会社員|かいしゃいん}だ。{大学|だいがく}のころは{陸上部|りくじょうぶ}のエースで、{大会|たいかい}で{何度|なんど}も{優勝|ゆうしょう}した。しかし、{足|あし}のけがで{走|はし}るのをやめてから、もう{二十年|にじゅうねん}{以上|いじょう}たつ。{今|いま}では{体重|たいじゅう}も{十五|じゅうご}キロ{増|ふ}えてしまった。",
+    "en": "Mr. Nakamura is a forty-five-year-old office worker. In university, he was the star of the track team and won many races. But it has been more than twenty years since he stopped running because of a leg injury. He has now gained fifteen kilos."
+   },
+   {
+    "jp": "ある{日|ひ}、{中学生|ちゅうがくせい}の{娘|むすめ}が{古|ふる}いメダルを{見|み}つけて{言|い}った。「お{父|とう}さん、{本当|ほんとう}に{速|はや}かったの？{信|しん}じられない。」{少|すこ}し{悔|くや}しくなった{中村|なかむら}さんは、{半年後|はんとしご}の{市民|しみん}マラソンに{申|もう}し{込|こ}んだ。{次|つぎ}の{朝|あさ}から、まだ{暗|くら}いうちに{起|お}きて{練習|れんしゅう}を{始|はじ}めた。{最初|さいしょ}は{一|いち}キロ{走|はし}っただけで{息|いき}が{切|き}れた。",
+    "en": "One day, his daughter, a junior high student, found an old medal and said, 'Dad, were you really fast? I can't believe it.' Feeling a bit frustrated, Mr. Nakamura signed up for a city marathon six months away. From the next morning, he got up while it was still dark and started training. At first, he was out of breath after running just one kilometer."
+   },
+   {
+    "jp": "{大会|たいかい}の{日|ひ}、{中村|なかむら}さんは{自分|じぶん}のペースで{走|はし}った。{昔|むかし}のように{速|はや}くはないが、{道|みち}の{両側|りょうがわ}から{聞|き}こえる{応援|おうえん}の{声|こえ}が{気持|きも}ちよかった。{三十|さんじゅう}キロを{過|す}ぎたころ、{前|まえ}を{走|はし}っていた{若|わか}い{女性|じょせい}が、{急|きゅう}に{道|みち}に{座|すわ}りこんだ。{足|あし}がつってしまったらしい。",
+    "en": "On race day, Mr. Nakamura ran at his own pace. He wasn't as fast as before, but the cheering from both sides of the road felt good. After about thirty kilometers, a young woman running in front of him suddenly sat down on the road. It looked like she had a cramp in her leg."
+   },
+   {
+    "jp": "ほかのランナーは{次々|つぎつぎ}に{通|とお}り{過|す}ぎていく。{中村|なかむら}さんは{迷|まよ}わず{止|と}まった。{昔|むかし}、{自分|じぶん}が{大会|たいかい}でけがをしたとき、だれも{止|と}まってくれなかったことを{思|おも}い{出|だ}したのだ。{足|あし}のストレッチを{手伝|てつだ}い、{水|みず}を{分|わ}けてあげた。「{一緒|いっしょ}にゆっくり{行|い}きましょう。{歩|ある}いてもいいんですよ。」",
+    "en": "The other runners passed by one after another. Mr. Nakamura stopped without hesitating. He remembered that long ago, when he got hurt in a race, no one had stopped for him. He helped her stretch her leg and shared his water. 'Let's go slowly together. It's fine to walk.'"
+   },
+   {
+    "jp": "{二人|ふたり}は{歩|ある}いたり{走|はし}ったりしながら、{少|すこ}しずつゴールに{近|ちか}づいた。{制限時間|せいげんじかん}ぎりぎりで{競技場|きょうぎじょう}に{入|はい}ると、スタンドから{大|おお}きな{拍手|はくしゅ}が{起|お}こった。{記録|きろく}は{五時間|ごじかん}{五十八分|ごじゅうはっぷん}。{昔|むかし}の{自分|じぶん}なら、{恥|は}ずかしいと{思|おも}ったかもしれない{記録|きろく}だ。",
+    "en": "Walking and running, the two of them slowly got closer to the finish. When they entered the stadium just before the time limit, loud applause rose from the stands. His time was five hours and fifty-eight minutes. The younger him might have been embarrassed by a time like that."
+   },
+   {
+    "jp": "ゴールの{先|さき}で、{娘|むすめ}が{走|はし}ってきた。「お{父|とう}さん、{遅|おそ}かったね。」そう{言|い}いながらも、{娘|むすめ}の{目|め}は{赤|あか}かった。「でも、{今日|きょう}のお{父|とう}さんが{一番|いちばん}かっこよかったよ。」{中村|なかむら}さんは{笑|わら}って、{娘|むすめ}の{頭|あたま}をなでた。{首|くび}にかけてもらった{完走|かんそう}メダルは、{昔|むかし}の{金|きん}メダルより{重|おも}く{感|かん}じられた。",
+    "en": "Past the finish line, his daughter came running. 'Dad, you were slow.' But as she said it, her eyes were red. 'But you were the coolest you've ever been today.' Mr. Nakamura laughed and patted her head. The finisher's medal hung around his neck felt heavier than his old gold medals."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{中村|なかむら}さんがマラソンに{出|で}ようと{決|き}めたきっかけは{何|なん}ですか。",
+    "q_en": "What made Mr. Nakamura decide to run the marathon?",
+    "options": [
+     "{会社|かいしゃ}の{健康診断|けんこうしんだん}で{注意|ちゅうい}されたから",
+     "{陸上部|りくじょうぶ}の{友|とも}だちに{誘|さそ}われたから",
+     "{娘|むすめ}に{昔|むかし}{速|はや}かったことを{信|しん}じてもらえなかったから",
+     "{新|あたら}しいメダルがほしかったから"
+    ],
+    "answer": 2,
+    "why": "His daughter said she couldn't believe he used to be fast, and he felt frustrated."
+   },
+   {
+    "q": "{中村|なかむら}さんが{女性|じょせい}のために{止|と}まったのは、なぜですか。",
+    "q_en": "Why did Mr. Nakamura stop for the woman?",
+    "options": [
+     "{自分|じぶん}も{疲|つか}れて{休|やす}みたかったから",
+     "{昔|むかし}けがをしたとき、だれも{止|と}まってくれなかったから",
+     "{女性|じょせい}が{娘|むすめ}の{友|とも}だちだったから",
+     "{大会|たいかい}のスタッフに{頼|たの}まれたから"
+    ],
+    "answer": 1,
+    "why": "He remembered that no one stopped for him when he was hurt long ago."
+   }
+  ]
+ },
+ {
+  "id": "s3-022",
+  "level": 3,
+  "title": "{五十年目|ごじゅうねんめ}の{旅|たび}",
+  "title_en": "A Trip After Fifty Years",
+  "genre_raw": "Travel",
+  "paragraphs": [
+   {
+    "jp": "{結婚|けっこん}して{五十年|ごじゅうねん}になる{記念|きねん}に、{健二|けんじ}さんと{和子|かずこ}さんは{北海道|ほっかいどう}へ{旅行|りょこう}することにした。{五十年前|ごじゅうねんまえ}に、{新婚旅行|しんこんりょこう}で{行|い}った{場所|ばしょ}だ。{計画|けいかく}を{立|た}てたのは{和子|かずこ}さんで、{健二|けんじ}さんは「{今|いま}さら{遠|とお}くへ{行|い}かなくても」と、{最初|さいしょ}はあまり{乗|の}り{気|き}ではなかった。",
+    "en": "To celebrate fifty years of marriage, Kenji and Kazuko decided to travel to Hokkaido. It was where they had gone on their honeymoon fifty years before. Kazuko made the plans. At first Kenji wasn't very keen, saying, 'Why go so far away at this point?'"
+   },
+   {
+    "jp": "{飛行機|ひこうき}を{降|お}りると、{空気|くうき}が{冷|つめ}たくて{気持|きも}ちよかった。でも、{町|まち}の{様子|ようす}はすっかり{変|か}わっていた。{二人|ふたり}が{泊|と}まった{古|ふる}い{旅館|りょかん}はもうなく、そこには{大|おお}きなホテルが{建|た}っていた。「やっぱり{来|こ}なければよかったかな。」{健二|けんじ}さんがつぶやくと、{和子|かずこ}さんは{少|すこ}しさびしそうな{顔|かお}をした。",
+    "en": "When they got off the plane, the cold air felt nice. But the town had completely changed. The old inn where they had stayed was gone, and a big hotel stood in its place. 'Maybe we shouldn't have come after all,' Kenji muttered, and Kazuko looked a little sad."
+   },
+   {
+    "jp": "{次|つぎ}の{日|ひ}、{二人|ふたり}は{湖|みずうみ}のそばを{歩|ある}いた。{和子|かずこ}さんは、ずっと{何|なに}かを{探|さが}しているようだった。「{何|なに}を{探|さが}しているんだい。」「{秘密|ひみつ}です。」{一時間|いちじかん}ほど{歩|ある}くと、{和子|かずこ}さんは{一本|いっぽん}の{大|おお}きな{木|き}の{前|まえ}で{足|あし}を{止|と}めた。",
+    "en": "The next day, the two of them walked along the lake. Kazuko seemed to be looking for something the whole time. 'What are you looking for?' 'It's a secret.' After walking for about an hour, Kazuko stopped in front of a big tree."
+   },
+   {
+    "jp": "{木|き}の{幹|みき}には、{小|ちい}さな{文字|もじ}が{彫|ほ}ってあった。{古|ふる}くて{読|よ}みにくいが、「{健|けん}と{和|わ}　{五十年後|ごじゅうねんご}もここへ」と{書|か}いてある。{健二|けんじ}さんは{目|め}を{丸|まる}くした。{五十年前|ごじゅうねんまえ}、{若|わか}かった{自分|じぶん}がナイフで{彫|ほ}ったものだった。すっかり{忘|わす}れていた。",
+    "en": "Small letters were carved into the trunk of the tree. They were old and hard to read, but they said, 'Ken and Kazu, here again in fifty years.' Kenji's eyes went wide. It was something he had carved with a knife fifty years ago, when he was young. He had completely forgotten."
+   },
+   {
+    "jp": "「あなたは{忘|わす}れていたでしょうけど、わたしはずっと{覚|おぼ}えていたんですよ。」{和子|かずこ}さんはいたずらっぽく{笑|わら}った。「{約束|やくそく}を{守|まも}れるかどうか、{心配|しんぱい}だったの。{二人|ふたり}とも{元気|げんき}でいなければ、{来|こ}られない{場所|ばしょ}だから。」{健二|けんじ}さんは{何|なに}も{言|い}えず、{和子|かずこ}さんの{手|て}をそっと{握|にぎ}った。{五十年前|ごじゅうねんまえ}より{細|ほそ}くなったが、{温|あたた}かさは{同|おな}じだった。",
+    "en": "'You probably forgot, but I always remembered.' Kazuko smiled playfully. 'I was worried whether we could keep the promise. It's a place we could only come to if we were both healthy.' Kenji couldn't say anything and gently held Kazuko's hand. It was thinner than fifty years ago, but just as warm."
+   },
+   {
+    "jp": "{帰|かえ}りの{飛行機|ひこうき}の{中|なか}で、{健二|けんじ}さんは{手帳|てちょう}を{開|ひら}いた。「{次|つぎ}はどこへ{行|い}こうか。」{和子|かずこ}さんは{驚|おどろ}いた{顔|かお}をしてから、うれしそうに{言|い}った。「あら、{今度|こんど}はあなたが{計画|けいかく}を{立|た}ててくれるの？」",
+    "en": "On the plane home, Kenji opened his planner. 'Where shall we go next?' Kazuko looked surprised, then said happily, 'Oh, so this time you'll make the plans?'"
+   }
+  ],
+  "questions": [
+   {
+    "q": "{和子|かずこ}さんは、{湖|みずうみ}のそばで{何|なに}を{探|さが}していましたか。",
+    "q_en": "What was Kazuko looking for by the lake?",
+    "options": [
+     "{昔|むかし}{泊|と}まった{旅館|りょかん}",
+     "{健二|けんじ}さんがなくしたナイフ",
+     "{新|あたら}しいホテル",
+     "{五十年前|ごじゅうねんまえ}に{文字|もじ}が{彫|ほ}られた{木|き}"
+    ],
+    "answer": 3,
+    "why": "She was looking for the tree Kenji carved their names into fifty years ago."
+   },
+   {
+    "q": "{旅行|りょこう}の{後|あと}、{健二|けんじ}さんの{気持|きも}ちはどう{変|か}わりましたか。",
+    "q_en": "How did Kenji's feelings change after the trip?",
+    "options": [
+     "また{二人|ふたり}で{旅行|りょこう}したいと{思|おも}うようになった",
+     "{北海道|ほっかいどう}に{住|す}みたくなった",
+     "{旅行|りょこう}はもう{十分|じゅうぶん}だと{思|おも}った",
+     "{和子|かずこ}さんに{怒|おこ}るようになった"
+    ],
+    "answer": 0,
+    "why": "He wasn't keen at first, but on the way home he asked where they should go next."
+   }
+  ]
+ },
+ {
+  "id": "s3-023",
+  "level": 3,
+  "title": "{聞|き}こえてしまった{会話|かいわ}",
+  "title_en": "The Overheard Conversation",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "{入社|にゅうしゃ}して{半年|はんとし}の{木村|きむら}は、ある{日|ひ}の{昼休|ひるやす}み、{休憩室|きゅうけいしつ}の{前|まえ}で{先輩|せんぱい}たちの{声|こえ}を{聞|き}いてしまった。「{木村|きむら}くんのこと、{部長|ぶちょう}にはもう{話|はな}した？」「うん。{来週|らいしゅう}の{金曜日|きんようび}で{決|き}まりだって。{本人|ほんにん}にはまだ{内緒|ないしょ}ね。」",
+    "en": "Kimura, who joined the company six months ago, overheard his senior coworkers talking in front of the break room one lunchtime. 'Have you already told the manager about Kimura?' 'Yes. It's decided for next Friday. Keep it a secret from him for now.'"
+   },
+   {
+    "jp": "{木村|きむら}は{真|ま}っ{青|さお}になった。{先月|せんげつ}、{大事|だいじ}な{書類|しょるい}の{数字|すうじ}を{間違|まちが}えたことを{思|おも}い{出|だ}したのだ。きっと{遠|とお}くの{支店|してん}に{行|い}かされるか、{辞|や}めさせられるに{違|ちが}いない。その{夜|よる}、{木村|きむら}はほとんど{眠|ねむ}れなかった。",
+    "en": "Kimura went pale. He remembered that last month he had made a mistake with the numbers on an important document. He was sure he was going to be sent to a faraway branch, or made to quit. That night, Kimura could hardly sleep."
+   },
+   {
+    "jp": "{次|つぎ}の{日|ひ}から、{木村|きむら}は{人|ひと}が{変|か}わったように{働|はたら}いた。だれよりも{早|はや}く{会社|かいしゃ}に{来|き}て{掃除|そうじ}をし、{頼|たの}まれていない{資料|しりょう}まで{作|つく}った。{先輩|せんぱい}たちが{小声|こごえ}で{話|はな}しているのを{見|み}るたびに、{胸|むね}がどきどきした。{部長|ぶちょう}に「{木村|きむら}くん、{最近|さいきん}{頑張|がんば}っているね」と{言|い}われたときは、「{最後|さいご}だから{優|やさ}しくしてくれるんだ」と{思|おも}って、{泣|な}きそうになった。",
+    "en": "From the next day, Kimura worked like a different person. He came to the office earlier than anyone to clean, and even made documents nobody had asked for. Every time he saw his seniors whispering, his heart pounded. When the manager said, 'Kimura, you've been working hard lately,' he thought, 'He's being kind because it's my last week,' and nearly cried."
+   },
+   {
+    "jp": "そして{金曜日|きんようび}の{夕方|ゆうがた}、{木村|きむら}は{部長|ぶちょう}に{会議室|かいぎしつ}へ{呼|よ}ばれた。{木村|きむら}は{深呼吸|しんこきゅう}をして、ドアを{開|あ}けながら{叫|さけ}んだ。「{申|もう}し{訳|わけ}ありませんでした！もう{一度|いちど}チャンスをください！」",
+    "en": "Then on Friday evening, the manager called Kimura to the meeting room. Kimura took a deep breath, and as he opened the door, he shouted, 'I'm terribly sorry! Please give me one more chance!'"
+   },
+   {
+    "jp": "パン、パン、パン。クラッカーの{音|おと}が{鳴|な}った。{部屋|へや}の{中|なか}には{部|ぶ}の{全員|ぜんいん}がいて、テーブルの{上|うえ}には{大|おお}きなケーキがあった。{壁|かべ}には「{木村|きむら}くん、お{誕生日|たんじょうび}おめでとう」と{書|か}かれた{紙|かみ}が{貼|は}ってある。みんな、きょとんとした{顔|かお}で{木村|きむら}を{見|み}ていた。",
+    "en": "Pop, pop, pop. Party poppers went off. Everyone in the department was in the room, and there was a big cake on the table. On the wall was a sign that said, 'Happy Birthday, Kimura!' Everyone was staring at Kimura with blank, puzzled faces."
+   },
+   {
+    "jp": "{事情|じじょう}を{説明|せつめい}すると、{部屋|へや}は{大|おお}きな{笑|わら}い{声|ごえ}に{包|つつ}まれた。{部長|ぶちょう}は{涙|なみだ}を{拭|ふ}きながら{言|い}った。「{数字|すうじ}の{間違|まちが}いなんて、とっくに{忘|わす}れていたよ。でも、この{一週間|いっしゅうかん}の{君|きみ}の{頑張|がんば}りは{忘|わす}れないからね。」{木村|きむら}は{恥|は}ずかしくて{顔|かお}を{上|あ}げられなかったが、そのケーキはいつもより{甘|あま}く{感|かん}じた。",
+    "en": "When he explained what had happened, the room filled with loud laughter. Wiping away tears, the manager said, 'I forgot about that number mistake ages ago. But I won't forget how hard you worked this week.' Kimura was so embarrassed he couldn't look up, but the cake tasted sweeter than usual."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{先輩|せんぱい}たちの{会話|かいわ}を{聞|き}いて、{木村|きむら}はどう{思|おも}いましたか。",
+    "q_en": "What did Kimura think after hearing his seniors' conversation?",
+    "options": [
+     "{遠|とお}くへ{行|い}かされるか、{辞|や}めさせられると{思|おも}った",
+     "{自分|じぶん}が{昇進|しょうしん}すると{思|おも}った",
+     "{部長|ぶちょう}が{会社|かいしゃ}を{辞|や}めると{思|おも}った",
+     "{金曜日|きんようび}に{会議|かいぎ}があると{思|おも}った"
+    ],
+    "answer": 0,
+    "why": "He remembered his mistake and thought he would be transferred or made to quit."
+   },
+   {
+    "q": "{先輩|せんぱい}たちは、{本当|ほんとう}は{何|なに}を{準備|じゅんび}していましたか。",
+    "q_en": "What were the seniors actually preparing?",
+    "options": [
+     "{新|あたら}しい{仕事|しごと}の{計画|けいかく}",
+     "{木村|きむら}の{送別会|そうべつかい}",
+     "{部長|ぶちょう}へのプレゼント",
+     "{木村|きむら}の{誕生日|たんじょうび}パーティー"
+    ],
+    "answer": 3,
+    "why": "The secret was a surprise birthday party for Kimura."
+   }
+  ]
+ },
+ {
+  "id": "s3-024",
+  "level": 3,
+  "title": "{霧|きり}の{中|なか}の{笛|ふえ}",
+  "title_en": "A Whistle in the Fog",
+  "genre_raw": "Adventure",
+  "paragraphs": [
+   {
+    "jp": "{十月|じゅうがつ}のある{土曜日|どようび}、{会社員|かいしゃいん}の{大野|おおの}さんは{一人|ひとり}で{山|やま}に{登|のぼ}った。{天気予報|てんきよほう}は{晴|は}れだった。{出発|しゅっぱつ}の{前|まえ}、{妻|つま}に{言|い}われて、{登|のぼ}る{道|みち}と{帰|かえ}る{時間|じかん}をメモに{書|か}いて{家|いえ}に{置|お}いてきた。「{大|おお}げさだなあ」と{笑|わら}いながら。",
+    "en": "One Saturday in October, Mr. Ono, an office worker, went climbing in the mountains alone. The forecast said sunny. Before leaving, at his wife's request, he wrote his route and return time on a note and left it at home, laughing, 'You're making too much of this.'"
+   },
+   {
+    "jp": "{頂上|ちょうじょう}からの{景色|けしき}はすばらしかった。しかし、{下|くだ}り{始|はじ}めて{一時間|いちじかん}ほどたつと、{急|きゅう}に{霧|きり}が{出|で}てきた。{数|すう}メートル{先|さき}も{見|み}えない。{道|みち}を{探|さが}して{歩|ある}いているうちに、{大野|おおの}さんは{濡|ぬ}れた{石|いし}で{足|あし}を{滑|すべ}らせ、{足首|あしくび}をひねってしまった。{痛|いた}くて{立|た}つこともできない。スマートフォンを{見|み}ると、{電波|でんぱ}は{届|とど}いていなかった。",
+    "en": "The view from the summit was wonderful. But about an hour after he started down, fog suddenly rolled in. He couldn't see even a few meters ahead. While searching for the path, Mr. Ono slipped on a wet rock and twisted his ankle. It hurt so much he couldn't even stand. When he looked at his smartphone, there was no signal."
+   },
+   {
+    "jp": "{日|ひ}が{暮|く}れて、{気温|きおん}がどんどん{下|さ}がっていった。{大野|おおの}さんはリュックからレインウェアを{出|だ}して{着|き}て、{残|のこ}りのチョコレートを{少|すこ}しずつ{食|た}べた。そして、{登山|とざん}の{本|ほん}で{読|よ}んだことを{思|おも}い{出|だ}した。{道|みち}に{迷|まよ}ったら、{動|うご}き{回|まわ}らずにその{場|ば}で{待|ま}つこと。{大野|おおの}さんは、リュックについていた{小|ちい}さな{笛|ふえ}を{握|にぎ}りしめた。",
+    "en": "The sun went down and the temperature kept dropping. Mr. Ono took rain gear out of his backpack and put it on, and ate his remaining chocolate bit by bit. Then he remembered something he had read in a climbing book: if you get lost, don't move around; wait where you are. Mr. Ono gripped the small whistle attached to his backpack."
+   },
+   {
+    "jp": "そのころ、{家|いえ}では{妻|つま}が{時計|とけい}を{見|み}ていた。{約束|やくそく}の{時間|じかん}を{三時間|さんじかん}{過|す}ぎても、{夫|おっと}は{帰|かえ}ってこない。{妻|つま}はメモを{持|も}って{警察|けいさつ}に{電話|でんわ}した。メモに{書|か}かれた{道|みち}のおかげで、{救助隊|きゅうじょたい}はすぐに{探|さが}す{場所|ばしょ}を{決|き}めることができた。",
+    "en": "Meanwhile, at home, his wife was watching the clock. Even three hours after the time he'd promised, her husband hadn't come home. She took the note and called the police. Thanks to the route written on the note, the rescue team could quickly decide where to search."
+   },
+   {
+    "jp": "{夜明|よあ}け{前|まえ}、{大野|おおの}さんは{遠|とお}くで{犬|いぬ}がほえる{声|こえ}を{聞|き}いた。{力|ちから}いっぱい{笛|ふえ}を{吹|ふ}くと、{霧|きり}の{中|なか}からライトの{光|ひかり}が{近|ちか}づいてきた。{救助犬|きゅうじょけん}のハナと、オレンジ{色|いろ}の{服|ふく}を{着|き}た{隊員|たいいん}たちだった。「{大野|おおの}さんですね。よく{頑張|がんば}りました。もう{大丈夫|だいじょうぶ}ですよ。」その{言葉|ことば}を{聞|き}いたとたん、{大野|おおの}さんの{目|め}から{涙|なみだ}があふれた。",
+    "en": "Before dawn, Mr. Ono heard a dog barking in the distance. When he blew the whistle as hard as he could, flashlights came toward him through the fog. It was Hana the rescue dog and team members in orange clothes. 'You're Mr. Ono, right? You did very well. You're safe now.' The moment he heard those words, tears poured from Mr. Ono's eyes."
+   },
+   {
+    "jp": "{病院|びょういん}に{駆|か}けつけた{妻|つま}に、{大野|おおの}さんは{頭|あたま}を{下|さ}げた。「あのメモ、{大|おお}げさなんかじゃなかったよ。ありがとう。」それ{以来|いらい}、{大野|おおの}さんは{山|やま}に{登|のぼ}るとき、{必|かなら}ず{登山計画|とざんけいかく}を{家族|かぞく}に{渡|わた}し、{笛|ふえ}を{持|も}っていくようになった。",
+    "en": "Mr. Ono bowed his head to his wife when she rushed to the hospital. 'That note wasn't too much at all. Thank you.' Since then, whenever Mr. Ono climbs a mountain, he always gives his family a climbing plan and takes a whistle with him."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{救助隊|きゅうじょたい}がすぐに{探|さが}す{場所|ばしょ}を{決|き}められたのは、なぜですか。",
+    "q_en": "Why could the rescue team quickly decide where to search?",
+    "options": [
+     "{大野|おおの}さんが{電話|でんわ}で{場所|ばしょ}を{伝|つた}えたから",
+     "{妻|つま}が{登|のぼ}る{道|みち}を{書|か}いたメモを{持|も}っていたから",
+     "ほかの{登山者|とざんしゃ}が{大野|おおの}さんを{見|み}ていたから",
+     "{霧|きり}がすぐに{晴|は}れたから"
+    ],
+    "answer": 1,
+    "why": "The note at home showed the route he planned to take."
+   },
+   {
+    "q": "けがをした{後|あと}、{大野|おおの}さんはどうしましたか。",
+    "q_en": "What did Mr. Ono do after he got hurt?",
+    "options": [
+     "{痛|いた}いのを{我慢|がまん}して{山|やま}を{下|お}りた",
+     "{電波|でんぱ}が{届|とど}く{場所|ばしょ}まで{歩|ある}いた",
+     "{動|うご}かずにその{場|ば}で{助|たす}けを{待|ま}った",
+     "{大|おお}きな{声|こえ}で{一晩中|ひとばんじゅう}{叫|さけ}んだ"
+    ],
+    "answer": 2,
+    "why": "He remembered the advice to stay put when lost, and waited with his whistle."
+   },
+   {
+    "q": "{出発|しゅっぱつ}する{前|まえ}、{大野|おおの}さんはメモについてどう{思|おも}っていましたか。",
+    "q_en": "Before leaving, what did Mr. Ono think about the note?",
+    "options": [
+     "とても{大切|たいせつ}だと{思|おも}っていた",
+     "{書|か}くのが{楽|たの}しいと{思|おも}っていた",
+     "{妻|つま}が{書|か}くべきだと{思|おも}っていた",
+     "{大|おお}げさだと{思|おも}っていた"
+    ],
+    "answer": 3,
+    "why": "He laughed and said his wife was making too much of it."
+   }
+  ]
+ }
+]

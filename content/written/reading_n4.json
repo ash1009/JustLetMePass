@@ -1,0 +1,594 @@
+[
+ {
+  "id": "r4-01",
+  "level": 4,
+  "title_raw": "My cooking class",
+  "kind": "short",
+  "text": "{私|わたし}の{趣味|しゅみ}は{料理|りょうり}です。{先月|せんげつ}から、{毎週|まいしゅう}{日曜日|にちようび}に{近|ちか}くの{料理|りょうり}{教室|きょうしつ}に{通|かよ}っています。{先生|せんせい}はとても{親切|しんせつ}で、{分|わ}からないことがあると、{何度|なんど}でも{教|おし}えてくれます。\n{先週|せんしゅう}は{魚|さかな}の{料理|りょうり}を{習|なら}いました。{家|いえ}でも{作|つく}ってみましたが、{教室|きょうしつ}で{作|つく}ったときほど{上手|じょうず}にできませんでした。{来週|らいしゅう}の{土曜日|どようび}は{母|はは}の{誕生日|たんじょうび}なので、それまでにもっと{練習|れんしゅう}して、{母|はは}にその{料理|りょうり}を{作|つく}ってあげたいと{思|おも}っています。",
+  "en": "My hobby is cooking. Since last month, I have been going to a cooking class nearby every Sunday. The teacher is very kind and explains things as many times as needed when I don't understand.\nLast week we learned a fish dish. I tried making it at home too, but it didn't turn out as well as when I made it in class. Next Saturday is my mother's birthday, so I want to practice more before then and make that dish for her.",
+  "questions": [
+   {
+    "q": "この{人|ひと}は{来週|らいしゅう}の{土曜日|どようび}に{何|なに}をしたいと{思|おも}っていますか。",
+    "q_en": "What does this person want to do next Saturday?",
+    "options": [
+     "{料理|りょうり}{教室|きょうしつ}で{新|あたら}しい{料理|りょうり}を{習|なら}いたい",
+     "{母|はは}に{魚|さかな}の{料理|りょうり}を{作|つく}ってあげたい",
+     "{母|はは}といっしょに{料理|りょうり}{教室|きょうしつ}に{行|い}きたい",
+     "{先生|せんせい}に{魚|さかな}の{料理|りょうり}を{作|つく}ってもらいたい"
+    ],
+    "answer": 1,
+    "why": "It is the mother's birthday, and the writer wants to make the fish dish for her."
+   }
+  ]
+ },
+ {
+  "id": "r4-02",
+  "level": 4,
+  "title_raw": "Library notice",
+  "kind": "notice",
+  "text": "{図書館|としょかん}からのお{知|し}らせ\n{来月|らいげつ}の1{日|にち}から10{日|か}まで、{本|ほん}の{整理|せいり}のため、{図書館|としょかん}はお{休|やす}みです。この{間|あいだ}、{本|ほん}を{借|か}りることはできません。\n{借|か}りている{本|ほん}を{返|かえ}したい{人|ひと}は、{入口|いりぐち}の{前|まえ}にある{返却|へんきゃく}ポストに{入|い}れてください。ただし、CDやDVDは{壊|こわ}れやすいので、ポストに{入|い}れないで、11{日|にち}{以降|いこう}にカウンターに{持|も}ってきてください。",
+  "en": "Notice from the library\nFrom the 1st to the 10th of next month, the library will be closed to sort books. During this time, you cannot borrow books.\nIf you want to return books you have borrowed, please put them in the return box in front of the entrance. However, CDs and DVDs break easily, so do not put them in the box; please bring them to the counter on or after the 11th.",
+  "questions": [
+   {
+    "q": "{来月|らいげつ}の5{日|か}に、{借|か}りたDVDを{返|かえ}したいです。どうしますか。",
+    "q_en": "You want to return a DVD you borrowed on the 5th of next month. What should you do?",
+    "options": [
+     "11{日|にち}{以降|いこう}にカウンターに{持|も}っていく",
+     "5{日|か}にカウンターに{持|も}っていく",
+     "{入口|いりぐち}の{前|まえ}の{返却|へんきゃく}ポストに{入|い}れる",
+     "10{日|か}までに{図書館|としょかん}に{電話|でんわ}する"
+    ],
+    "answer": 0,
+    "why": "DVDs must not go in the box; bring them to the counter from the 11th."
+   }
+  ]
+ },
+ {
+  "id": "r4-03",
+  "level": 4,
+  "title_raw": "Message from a coworker",
+  "kind": "message",
+  "text": "{山田|やまだ}さん\nお{疲|つか}れさまです。{明日|あした}の{会議|かいぎ}ですが、{部長|ぶちょう}の{都合|つごう}が{悪|わる}くなったので、{午前|ごぜん}10{時|じ}から{午後|ごご}2{時|じ}に{変|か}わりました。{場所|ばしょ}は{同|おな}じ3{階|がい}の{会議室|かいぎしつ}です。\nそれから、{会議|かいぎ}で{使|つか}う{資料|しりょう}を10{部|ぶ}コピーしておいてもらえませんか。{資料|しりょう}は{私|わたし}の{机|つくえ}の{上|うえ}に{置|お}いてあります。よろしくお{願|ねが}いします。\n{鈴木|すずき}",
+  "en": "Mr./Ms. Yamada,\nThanks for your hard work. About tomorrow's meeting: the department manager can't make it, so it has changed from 10 a.m. to 2 p.m. The place is the same, the 3rd-floor meeting room.\nAlso, could you make 10 copies of the documents we will use in the meeting? The documents are on my desk. Thank you.\nSuzuki",
+  "questions": [
+   {
+    "q": "{山田|やまだ}さんは{何|なに}をしなければなりませんか。",
+    "q_en": "What does Yamada have to do?",
+    "options": [
+     "{会議室|かいぎしつ}を{予約|よやく}する",
+     "{部長|ぶちょう}に{会議|かいぎ}の{時間|じかん}を{知|し}らせる",
+     "{鈴木|すずき}さんの{机|つくえ}に{資料|しりょう}を{置|お}く",
+     "{資料|しりょう}をコピーする"
+    ],
+    "answer": 3,
+    "why": "Suzuki asks Yamada to make 10 copies of the documents."
+   }
+  ]
+ },
+ {
+  "id": "r4-04",
+  "level": 4,
+  "title_raw": "Starting a part-time job",
+  "kind": "short",
+  "text": "{先週|せんしゅう}から、{駅|えき}の{前|まえ}のパン{屋|や}でアルバイトを{始|はじ}めました。{朝|あさ}6{時|じ}から9{時|じ}まで{働|はたら}いています。{朝|あさ}{早|はや}く{起|お}きるのは{大変|たいへん}ですが、{焼|や}いたばかりのパンのにおいがして、とても{楽|たの}しいです。\n{店長|てんちょう}は「{仕事|しごと}に{慣|な}れたら、パンの{作|つく}り{方|かた}も{教|おし}えてあげるよ」と{言|い}ってくれました。{今|いま}はまだレジの{仕事|しごと}しかできませんが、{早|はや}くパンを{作|つく}れるようになりたいです。",
+  "en": "Since last week, I started a part-time job at the bakery in front of the station. I work from 6 to 9 in the morning. Getting up early is hard, but it smells of freshly baked bread and it is a lot of fun.\nThe manager told me, \"Once you get used to the work, I'll teach you how to make bread too.\" Right now I can only work the register, but I want to be able to make bread soon.",
+  "questions": [
+   {
+    "q": "この{人|ひと}は{今|いま}、どんな{仕事|しごと}をしていますか。",
+    "q_en": "What kind of work does this person do now?",
+    "options": [
+     "パンを{焼|や}く{仕事|しごと}",
+     "パンの{作|つく}り{方|かた}を{教|おし}える{仕事|しごと}",
+     "レジの{仕事|しごと}",
+     "{店|みせ}を{掃除|そうじ}する{仕事|しごと}"
+    ],
+    "answer": 2,
+    "why": "The writer says they can only work the register for now."
+   }
+  ]
+ },
+ {
+  "id": "r4-05",
+  "level": 4,
+  "title_raw": "Apartment garbage rules",
+  "kind": "notice",
+  "text": "ごみの{出|だ}し{方|かた}について\nこのアパートでは、ごみは{決|き}まった{日|ひ}の{朝|あさ}8{時|じ}までに{出|だ}してください。\n・{燃|も}えるごみ：{月曜日|げつようび}と{木曜日|もくようび}\n・ビン・{缶|かん}：{水曜日|すいようび}\n・{古|ふる}い{新聞|しんぶん}・{雑誌|ざっし}：{第|だい}2・{第|だい}4{金曜日|きんようび}\n{前|まえ}の{日|ひ}の{夜|よる}に{出|だ}すと、カラスが{来|き}て{道|みち}が{汚|きたな}くなるので、やめてください。\n{管理人|かんりにん}",
+  "en": "How to put out garbage\nIn this apartment building, please put out garbage by 8 a.m. on the set day.\n- Burnable garbage: Monday and Thursday\n- Bottles and cans: Wednesday\n- Old newspapers and magazines: 2nd and 4th Friday\nIf you put it out the night before, crows come and make the street dirty, so please don't.\nThe building manager",
+  "questions": [
+   {
+    "q": "{古|ふる}い{雑誌|ざっし}はいつ{出|だ}しますか。",
+    "q_en": "When do you put out old magazines?",
+    "options": [
+     "{毎週|まいしゅう}{水曜日|すいようび}の{朝|あさ}",
+     "{第|だい}2と{第|だい}4{金曜日|きんようび}の{朝|あさ}8{時|じ}まで",
+     "{第|だい}2と{第|だい}4{金曜日|きんようび}の{前|まえ}の{日|ひ}の{夜|よる}",
+     "{月曜日|げつようび}と{木曜日|もくようび}の{朝|あさ}"
+    ],
+    "answer": 1,
+    "why": "Magazines go out on the 2nd and 4th Friday by 8 a.m."
+   }
+  ]
+ },
+ {
+  "id": "r4-06",
+  "level": 4,
+  "title_raw": "Email to a teacher",
+  "kind": "message",
+  "text": "{田中|たなか}{先生|せんせい}\nいつもお{世話|せわ}になっております。リンです。\n{実|じつ}は、{昨日|きのう}の{夜|よる}から{熱|ねつ}があって、{今日|きょう}の{授業|じゅぎょう}を{休|やす}ませていただきたいです。{午前中|ごぜんちゅう}に{病院|びょういん}に{行|い}くつもりです。\n{今日|きょう}{出|だ}す{予定|よてい}だったレポートは、もう{書|か}き{終|お}わっているので、メールで{送|おく}ってもいいでしょうか。\nよろしくお{願|ねが}いいたします。\nリン",
+  "en": "Dear Professor Tanaka,\nThank you for always looking after me. This is Lin.\nActually, I have had a fever since last night, and I would like to be excused from today's class. I plan to go to the hospital this morning.\nThe report I was supposed to hand in today is already finished, so may I send it by email?\nThank you.\nLin",
+  "questions": [
+   {
+    "q": "リンさんは{先生|せんせい}に{何|なに}を{聞|き}いていますか。",
+    "q_en": "What is Lin asking the teacher?",
+    "options": [
+     "レポートをメールで{送|おく}ってもいいか",
+     "レポートを{出|だ}すのが{遅|おそ}くなってもいいか",
+     "どの{病院|びょういん}に{行|い}けばいいか",
+     "{明日|あした}の{授業|じゅぎょう}を{休|やす}んでもいいか"
+    ],
+    "answer": 0,
+    "why": "Lin asks if the finished report can be sent by email."
+   }
+  ]
+ },
+ {
+  "id": "r4-07",
+  "level": 4,
+  "title_raw": "Trip to Hakone",
+  "kind": "medium",
+  "text": "{先月|せんげつ}、{会社|かいしゃ}の{友達|ともだち}と{二人|ふたり}で{箱根|はこね}へ{旅行|りょこう}に{行|い}きました。{東京|とうきょう}から{電車|でんしゃ}で2{時間|じかん}ぐらいなので、{週末|しゅうまつ}の{旅行|りょこう}にちょうどいいです。\n{一日目|いちにちめ}は{朝|あさ}から{雨|あめ}が{降|ふ}っていたので、{予定|よてい}していた{山登|やまのぼ}りはやめて、{美術館|びじゅつかん}に{行|い}きました。{思|おも}っていたより{広|ひろ}くて、{三時間|さんじかん}もいました。{夜|よる}は{旅館|りょかん}で{温泉|おんせん}に{入|はい}って、おいしい{料理|りょうり}を{食|た}べました。\n{二日目|ふつかめ}はいい{天気|てんき}になりました。{船|ふね}に{乗|の}って{湖|みずうみ}から{富士山|ふじさん}を{見|み}ようと{思|おも}いましたが、{雲|くも}が{多|おお}くて、{少|すこ}ししか{見|み}えませんでした。{友達|ともだち}は{残念|ざんねん}そうでしたが、{私|わたし}は{温泉|おんせん}がとても{気|き}に{入|い}ったので、{満足|まんぞく}です。{今度|こんど}は{秋|あき}に{来|き}て、{山|やま}に{登|のぼ}りたいです。",
+  "en": "Last month, a friend from work and I went on a trip to Hakone. It is about two hours by train from Tokyo, so it is just right for a weekend trip.\nOn the first day it was raining from the morning, so we gave up the mountain hike we had planned and went to an art museum. It was bigger than we expected, and we stayed there for three hours. At night we took a hot spring bath at the Japanese inn and ate delicious food.\nOn the second day the weather became nice. We got on a boat to see Mt. Fuji from the lake, but there were many clouds and we could only see a little. My friend seemed disappointed, but I really liked the hot spring, so I am satisfied. Next time I want to come in autumn and climb the mountain.",
+  "questions": [
+   {
+    "q": "{一日目|いちにちめ}に{山|やま}に{登|のぼ}らなかったのはどうしてですか。",
+    "q_en": "Why didn't they climb the mountain on the first day?",
+    "options": [
+     "{美術館|びじゅつかん}に{行|い}きたかったから",
+     "{雲|くも}が{多|おお}かったから",
+     "{旅館|りょかん}に{早|はや}く{着|つ}きたかったから",
+     "{雨|あめ}が{降|ふ}っていたから"
+    ],
+    "answer": 3,
+    "why": "It was raining from the morning, so they gave up the hike."
+   },
+   {
+    "q": "{二日目|ふつかめ}はどうでしたか。",
+    "q_en": "How was the second day?",
+    "options": [
+     "{雨|あめ}で{船|ふね}に{乗|の}れなかった",
+     "{富士山|ふじさん}がきれいに{全部|ぜんぶ}{見|み}えた",
+     "{富士山|ふじさん}は{少|すこ}ししか{見|み}えなかった",
+     "{山|やま}に{登|のぼ}って{富士山|ふじさん}を{見|み}た"
+    ],
+    "answer": 2,
+    "why": "Because of clouds they could only see a little of Mt. Fuji."
+   },
+   {
+    "q": "この{人|ひと}は{旅行|りょこう}についてどう{思|おも}っていますか。",
+    "q_en": "How does this person feel about the trip?",
+    "options": [
+     "{富士山|ふじさん}が{見|み}えなかったので、{残念|ざんねん}だ",
+     "{温泉|おんせん}がよかったので、{満足|まんぞく}している",
+     "{美術館|びじゅつかん}が{狭|せま}くて、つまらなかった",
+     "{秋|あき}より{今|いま}のほうがいい"
+    ],
+    "answer": 1,
+    "why": "The writer liked the hot spring a lot and is satisfied."
+   }
+  ]
+ },
+ {
+  "id": "r4-08",
+  "level": 4,
+  "title_raw": "Swimming pool hours",
+  "kind": "info",
+  "text": "{市民|しみん}プールのご{案内|あんない}\n{利用|りよう}{時間|じかん}：{午前|ごぜん}9{時|じ}～{午後|ごご}8{時|じ}（{月曜日|げつようび}はお{休|やす}み）\n{料金|りょうきん}（2{時間|じかん}）：\n・{大人|おとな}　400{円|えん}\n・{中学生|ちゅうがくせい}・{高校生|こうこうせい}　200{円|えん}\n・{小学生|しょうがくせい}　100{円|えん}\n※{小学生|しょうがくせい}は{大人|おとな}といっしょに{入|はい}ってください。\n※{午後|ごご}5{時|じ}{以降|いこう}は、{大人|おとな}の{料金|りょうきん}が300{円|えん}になります。\n※{水泳|すいえい}{帽|ぼう}をかぶらないと、プールに{入|はい}れません。{帽子|ぼうし}はカウンターで{売|う}っています。",
+  "en": "City Pool Information\nHours: 9 a.m. - 8 p.m. (closed Mondays)\nFees (2 hours):\n- Adults 400 yen\n- Junior high and high school students 200 yen\n- Elementary school students 100 yen\n* Elementary school students must enter with an adult.\n* After 5 p.m., the adult fee becomes 300 yen.\n* You cannot enter the pool without a swim cap. Caps are sold at the counter.",
+  "questions": [
+   {
+    "q": "{土曜日|どようび}の{午後|ごご}6{時|じ}に、{父親|ちちおや}と{小学生|しょうがくせい}の{子|こ}ども{一人|ひとり}がプールに{行|い}きます。{二人|ふたり}でいくら{払|はら}いますか。",
+    "q_en": "On Saturday at 6 p.m., a father and one elementary school child go to the pool. How much do the two pay in total?",
+    "options": [
+     "300{円|えん}",
+     "400{円|えん}",
+     "500{円|えん}",
+     "600{円|えん}"
+    ],
+    "answer": 1,
+    "why": "After 5 p.m. the adult pays 300 yen and the child 100 yen, so 400 yen."
+   },
+   {
+    "q": "プールに{入|はい}るとき、{必|かなら}ずしなければならないことは{何|なん}ですか。",
+    "q_en": "What must you always do when entering the pool?",
+    "options": [
+     "{水泳|すいえい}{帽|ぼう}をかぶる",
+     "{大人|おとな}といっしょに{入|はい}る",
+     "カウンターで{帽子|ぼうし}を{買|か}う",
+     "2{時間|じかん}{以内|いない}に{出|で}る"
+    ],
+    "answer": 0,
+    "why": "Without a swim cap you cannot enter; buying it at the counter is only one option."
+   }
+  ]
+ },
+ {
+  "id": "r4-09",
+  "level": 4,
+  "title_raw": "Health check notice",
+  "kind": "notice",
+  "text": "{社員|しゃいん}のみなさんへ\n{今年|ことし}の{健康|けんこう}{診断|しんだん}は、11{月|がつ}12{日|にち}（{水|すい}）に{会社|かいしゃ}の5{階|かい}で{行|おこな}います。\n{前|まえ}の{日|ひ}の{夜|よる}9{時|じ}からは、{何|なに}も{食|た}べないでください。{水|みず}は{飲|の}んでもかまいません。\nこの{日|ひ}に{来|こ}られない{人|ひと}は、11{月|がつ}5{日|か}までに{総務|そうむ}{課|か}の{木村|きむら}に{連絡|れんらく}してください。{別|べつ}の{日|ひ}に{病院|びょういん}で{受|う}けることになります。",
+  "en": "To all employees\nThis year's health check will be held on November 12 (Wednesday) on the 5th floor of the company.\nFrom 9 p.m. the night before, please do not eat anything. You may drink water.\nIf you cannot come on that day, please contact Kimura in General Affairs by November 5. You will take the check at a hospital on a different day.",
+  "questions": [
+   {
+    "q": "11{月|がつ}12{日|にち}に{出張|しゅっちょう}がある{人|ひと}は、どうしなければなりませんか。",
+    "q_en": "What must a person who has a business trip on November 12 do?",
+    "options": [
+     "11{月|がつ}12{日|にち}の{朝|あさ}、{病院|びょういん}に{行|い}く",
+     "{出張|しゅっちょう}から{帰|かえ}ってから5{階|かい}に{行|い}く",
+     "11{月|がつ}11{日|にち}の{夜|よる}、{何|なに}も{食|た}べない",
+     "11{月|がつ}5{日|か}までに{木村|きむら}さんに{連絡|れんらく}する"
+    ],
+    "answer": 3,
+    "why": "People who can't come must contact Kimura by November 5."
+   }
+  ]
+ },
+ {
+  "id": "r4-10",
+  "level": 4,
+  "title_raw": "My town",
+  "kind": "short",
+  "text": "{私|わたし}が{住|す}んでいる{町|まち}は、{東京|とうきょう}から{少|すこ}し{遠|とお}いですが、{静|しず}かで{緑|みどり}が{多|おお}いです。{駅|えき}の{近|ちか}くには{大|おお}きいスーパーがないので、{買|か}い{物|もの}には{少|すこ}し{不便|ふべん}です。\nでも、{週末|しゅうまつ}になると{近|ちか}くの{農家|のうか}の{人|ひと}たちが{駅|えき}の{前|まえ}で{野菜|やさい}を{売|う}っています。{安|やす}くて{新|あたら}しいので、{私|わたし}はいつもそこで{野菜|やさい}を{買|か}います。この{町|まち}がだんだん{好|す}きになってきました。",
+  "en": "The town I live in is a little far from Tokyo, but it is quiet and green. There is no big supermarket near the station, so shopping is a little inconvenient.\nBut on weekends, local farmers sell vegetables in front of the station. They are cheap and fresh, so I always buy vegetables there. I am gradually coming to like this town.",
+  "questions": [
+   {
+    "q": "この{人|ひと}はどうして{駅|えき}の{前|まえ}で{野菜|やさい}を{買|か}いますか。",
+    "q_en": "Why does this person buy vegetables in front of the station?",
+    "options": [
+     "{駅|えき}の{近|ちか}くに{大|おお}きいスーパーがあるから",
+     "{東京|とうきょう}より{近|ちか}いから",
+     "{安|やす}くて{新|あたら}しいから",
+     "{農家|のうか}の{人|ひと}と{友達|ともだち}だから"
+    ],
+    "answer": 2,
+    "why": "The vegetables there are cheap and fresh."
+   }
+  ]
+ },
+ {
+  "id": "r4-11",
+  "level": 4,
+  "title_raw": "Shift change request",
+  "kind": "message",
+  "text": "{店長|てんちょう}へ\nアルバイトのキムです。{来週|らいしゅう}の{金曜日|きんようび}のシフトのことでお{願|ねが}いがあります。\n{大学|だいがく}の{試験|しけん}が{金曜日|きんようび}の{夕方|ゆうがた}にあることになったので、その{日|ひ}は{働|はたら}けません。{同|おな}じ{大学|だいがく}の{中村|なかむら}さんに{聞|き}いたら、{代|か}わりに{入|はい}ってもいいと{言|い}ってくれました。\nその{代|か}わり、{中村|なかむら}さんが{入|はい}る{予定|よてい}だった{日曜日|にちようび}は、{私|わたし}が{働|はたら}きます。それでよろしいでしょうか。\nキム",
+  "en": "To the manager,\nThis is Kim, the part-timer. I have a request about my shift next Friday.\nMy university exam has been set for Friday evening, so I can't work that day. I asked Nakamura from the same university, and she said she could work instead of me.\nIn exchange, I will work on Sunday, when Nakamura was going to work. Would that be all right?\nKim",
+  "questions": [
+   {
+    "q": "キムさんは{来週|らいしゅう}、いつ{働|はたら}きますか。",
+    "q_en": "When will Kim work next week?",
+    "options": [
+     "{金曜日|きんようび}の{夕方|ゆうがた}",
+     "{日曜日|にちようび}",
+     "{土曜日|どようび}",
+     "{金曜日|きんようび}と{日曜日|にちようび}"
+    ],
+    "answer": 1,
+    "why": "Kim will take Nakamura's Sunday shift instead of Friday."
+   }
+  ]
+ },
+ {
+  "id": "r4-12",
+  "level": 4,
+  "title_raw": "Smartphone and sleep",
+  "kind": "medium",
+  "text": "{最近|さいきん}、{寝|ね}る{前|まえ}にベッドの{中|なか}でスマートフォンを{見|み}る{人|ひと}が{増|ふ}えています。{私|わたし}もその{一人|ひとり}でした。{動画|どうが}を{見|み}たり、ゲームをしたりしていると、{気|き}がついたら{夜中|よなか}の2{時|じ}になっていることもよくありました。\nそのため、{朝|あさ}はなかなか{起|お}きられず、{会社|かいしゃ}でも{眠|ねむ}くて{仕事|しごと}に{集中|しゅうちゅう}できませんでした。\nそこで、{先月|せんげつ}から、スマートフォンを{寝室|しんしつ}に{持|も}って{入|はい}らないことにしました。{代|か}わりに、{寝|ね}る{前|まえ}に{本|ほん}を{読|よ}むようにしています。{最初|さいしょ}は{少|すこ}しさびしかったですが、{今|いま}は{早|はや}く{眠|ねむ}れるようになって、{朝|あさ}も{気持|きも}ちよく{起|お}きられます。",
+  "en": "Recently, more and more people look at their smartphones in bed before sleeping. I was one of them. While watching videos or playing games, I often noticed it was already 2 a.m.\nBecause of that, I had a hard time getting up in the morning, and at work I was sleepy and couldn't concentrate.\nSo since last month, I decided not to take my smartphone into the bedroom. Instead, I read a book before going to bed. At first I felt a bit lonely, but now I can fall asleep early and wake up feeling good.",
+  "questions": [
+   {
+    "q": "この{人|ひと}は{先月|せんげつ}から{何|なに}をしていますか。",
+    "q_en": "What has this person been doing since last month?",
+    "options": [
+     "スマートフォンを{寝室|しんしつ}に{持|も}って{入|はい}らない",
+     "{夜中|よなか}の2{時|じ}まで{本|ほん}を{読|よ}んでいる",
+     "ベッドの{中|なか}で{動画|どうが}を{見|み}ている",
+     "{会社|かいしゃ}で{少|すこ}し{寝|ね}ている"
+    ],
+    "answer": 0,
+    "why": "The writer decided not to take the phone into the bedroom."
+   },
+   {
+    "q": "{今|いま}、この{人|ひと}はどうなりましたか。",
+    "q_en": "How is this person now?",
+    "options": [
+     "まだ{朝|あさ}{起|お}きるのが{大変|たいへん}だ",
+     "さびしくて{眠|ねむ}れない",
+     "{会社|かいしゃ}で{眠|ねむ}くて{集中|しゅうちゅう}できない",
+     "{早|はや}く{眠|ねむ}れて、{朝|あさ}も{気持|きも}ちよく{起|お}きられる"
+    ],
+    "answer": 3,
+    "why": "Now the writer falls asleep early and wakes up feeling good."
+   }
+  ]
+ },
+ {
+  "id": "r4-13",
+  "level": 4,
+  "title_raw": "Lost umbrella",
+  "kind": "message",
+  "text": "マリアさん\n{昨日|きのう}はうちに{来|き}てくれて、ありがとう。とても{楽|たの}しかったです。\nマリアさんが{帰|かえ}ったあとで、{玄関|げんかん}に{青|あお}い{傘|かさ}があるのに{気|き}がつきました。マリアさんのですよね。\n{明日|あした}、{学校|がっこう}に{持|も}っていこうと{思|おも}いましたが、{明日|あした}は{雨|あめ}が{降|ふ}るそうなので、{困|こま}るかもしれませんね。もし{必要|ひつよう}なら、{今晩|こんばん}マリアさんの{家|いえ}まで{持|も}っていきますよ。どうしますか。\nゆき",
+  "en": "Maria,\nThank you for coming to my place yesterday. It was a lot of fun.\nAfter you went home, I noticed a blue umbrella at the entrance. It's yours, right?\nI was thinking of bringing it to school tomorrow, but I heard it will rain tomorrow, so you might have trouble. If you need it, I can bring it to your house tonight. What would you like to do?\nYuki",
+  "questions": [
+   {
+    "q": "ゆきさんはマリアさんに{何|なに}を{聞|き}いていますか。",
+    "q_en": "What is Yuki asking Maria?",
+    "options": [
+     "{明日|あした}{雨|あめ}が{降|ふ}るかどうか",
+     "{青|あお}い{傘|かさ}はだれのか",
+     "{今晩|こんばん}{傘|かさ}を{持|も}っていったほうがいいか",
+     "{明日|あした}{学校|がっこう}に{来|く}るかどうか"
+    ],
+    "answer": 2,
+    "why": "Yuki offers to bring the umbrella tonight and asks what Maria wants."
+   }
+  ]
+ },
+ {
+  "id": "r4-14",
+  "level": 4,
+  "title_raw": "Cafe opening hours change",
+  "kind": "notice",
+  "text": "カフェ・ミドリからのお{知|し}らせ\nいつもご{利用|りよう}ありがとうございます。\n12{月|がつ}1{日|にち}から、{営業|えいぎょう}{時間|じかん}が{変|か}わります。\n{平日|へいじつ}：{午前|ごぜん}7{時|じ}～{午後|ごご}9{時|じ}　→　{午前|ごぜん}8{時|じ}～{午後|ごご}8{時|じ}\n{土日|どにち}：{午前|ごぜん}9{時|じ}～{午後|ごご}6{時|じ}（{変|か}わりません）\nまた、12{月|がつ}からは、{毎週|まいしゅう}{火曜日|かようび}をお{休|やす}みにさせていただきます。ご{迷惑|めいわく}をおかけしますが、よろしくお{願|ねが}いいたします。",
+  "en": "Notice from Cafe Midori\nThank you for always visiting us.\nFrom December 1, our business hours will change.\nWeekdays: 7 a.m.-9 p.m. → 8 a.m.-8 p.m.\nWeekends: 9 a.m.-6 p.m. (no change)\nAlso, from December, we will be closed every Tuesday. We apologize for the inconvenience and thank you for your understanding.",
+  "questions": [
+   {
+    "q": "12{月|がつ}から、このカフェで{朝|あさ}ご{飯|はん}を{食|た}べたいです。{何曜日|なんようび}の{何時|なんじ}に{行|い}けますか。",
+    "q_en": "From December, you want to eat breakfast at this cafe. On which day and at what time can you go?",
+    "options": [
+     "{月曜日|げつようび}の{午前|ごぜん}7{時|じ}",
+     "{水曜日|すいようび}の{午前|ごぜん}8{時|じ}",
+     "{火曜日|かようび}の{午前|ごぜん}8{時|じ}",
+     "{日曜日|にちようび}の{午前|ごぜん}8{時|じ}"
+    ],
+    "answer": 1,
+    "why": "Weekdays open at 8 a.m. now, Tuesday is closed, and weekends open at 9."
+   }
+  ]
+ },
+ {
+  "id": "r4-15",
+  "level": 4,
+  "title_raw": "Opinion: working from home",
+  "kind": "medium",
+  "text": "{私|わたし}の{会社|かいしゃ}では、{去年|きょねん}から{週|しゅう}に2{回|かい}、{家|いえ}で{仕事|しごと}ができるようになりました。\n{家|いえ}で{働|はたら}くと、{満員|まんいん}{電車|でんしゃ}に{乗|の}らなくてもいいし、{朝|あさ}{少|すこ}し{長|なが}く{寝|ね}ることもできます。{昼|ひる}ご{飯|はん}も{自分|じぶん}で{作|つく}るので、お{金|かね}を{使|つか}わなくなりました。\nしかし、{困|こま}ることもあります。{同|おな}じチームの{人|ひと}と{会|あ}わないので、{分|わ}からないことがあってもすぐに{聞|き}けません。それに、{仕事|しごと}と{休|やす}みの{時間|じかん}が{分|わ}かれていないので、{夜|よる}{遅|おそ}くまで{仕事|しごと}をしてしまうことがあります。\n{私|わたし}は、{家|いえ}で{働|はたら}く{日|ひ}と{会社|かいしゃ}に{行|い}く{日|ひ}が{両方|りょうほう}あるのが、いちばんいいと{思|おも}います。",
+  "en": "At my company, since last year we can work from home twice a week.\nWhen I work at home, I don't have to ride packed trains, and I can sleep a little longer in the morning. I also make lunch myself, so I spend less money.\nHowever, there are problems too. Because I don't see my team members, I can't ask right away when I don't understand something. Also, since work time and rest time are not separated, I sometimes end up working until late at night.\nI think having both days at home and days at the office is best.",
+  "questions": [
+   {
+    "q": "{家|いえ}で{働|はたら}くときに{困|こま}ることは{何|なん}ですか。",
+    "q_en": "What is a problem when working from home?",
+    "options": [
+     "{分|わ}からないことをすぐに{聞|き}けない",
+     "{昼|ひる}ご{飯|はん}にお{金|かね}がかかる",
+     "{満員|まんいん}{電車|でんしゃ}に{乗|の}らなければならない",
+     "{朝|あさ}{早|はや}く{起|お}きなければならない"
+    ],
+    "answer": 0,
+    "why": "The writer can't ask teammates right away when unsure."
+   },
+   {
+    "q": "この{人|ひと}の{意見|いけん}に{合|あ}うのはどれですか。",
+    "q_en": "Which matches this person's opinion?",
+    "options": [
+     "{毎日|まいにち}{家|いえ}で{働|はたら}くのがいい",
+     "{毎日|まいにち}{会社|かいしゃ}に{行|い}くのがいい",
+     "{夜|よる}{遅|おそ}くまで{働|はたら}くのがいい",
+     "{家|いえ}で{働|はたら}く{日|ひ}も{会社|かいしゃ}に{行|い}く{日|ひ}もあるのがいい"
+    ],
+    "answer": 3,
+    "why": "The writer says having both kinds of days is best."
+   }
+  ]
+ },
+ {
+  "id": "r4-16",
+  "level": 4,
+  "title_raw": "Language exchange poster",
+  "kind": "info",
+  "text": "{日本語|にほんご}と{英語|えいご}の{交換|こうかん}{会|かい}\n{日本人|にほんじん}と{外国人|がいこくじん}がいっしょに{話|はな}して、{言葉|ことば}を{教|おし}え{合|あ}う{会|かい}です。\n{日時|にちじ}：{毎月|まいつき}{第|だい}1{土曜日|どようび}　{午後|ごご}2{時|じ}～4{時|じ}\n{場所|ばしょ}：{駅前|えきまえ}{公民館|こうみんかん}　2{階|かい}\n{参加費|さんかひ}：500{円|えん}（お{茶|ちゃ}とお{菓子|かし}があります）\n{最初|さいしょ}の1{時間|じかん}は{日本語|にほんご}で、{次|つぎ}の1{時間|じかん}は{英語|えいご}で{話|はな}します。\n{申|もう}し{込|こ}みはいりません。{直接|ちょくせつ}{来|き}てください。",
+  "en": "Japanese-English Exchange Meeting\nA meeting where Japanese people and people from other countries talk together and teach each other their languages.\nWhen: 1st Saturday of every month, 2-4 p.m.\nWhere: Ekimae Community Center, 2nd floor\nFee: 500 yen (tea and snacks provided)\nWe speak Japanese for the first hour and English for the next hour.\nNo sign-up needed. Just come.",
+  "questions": [
+   {
+    "q": "この{会|かい}に{参加|さんか}したい{人|ひと}は、どうしますか。",
+    "q_en": "What should someone who wants to join do?",
+    "options": [
+     "{前|まえ}の{日|ひ}までに{申|もう}し{込|こ}む",
+     "お{茶|ちゃ}とお{菓子|かし}を{持|も}っていく",
+     "{第|だい}1{土曜日|どようび}の{午後|ごご}2{時|じ}に{公民館|こうみんかん}に{行|い}く",
+     "{公民館|こうみんかん}に{電話|でんわ}をする"
+    ],
+    "answer": 2,
+    "why": "No sign-up is needed; just go there at the time."
+   },
+   {
+    "q": "{午後|ごご}3{時|じ}からは{何|なに}をしますか。",
+    "q_en": "What happens from 3 p.m.?",
+    "options": [
+     "{日本語|にほんご}で{話|はな}す",
+     "{英語|えいご}で{話|はな}す",
+     "お{茶|ちゃ}を{飲|の}んで{休|やす}む",
+     "{日本語|にほんご}の{試験|しけん}をする"
+    ],
+    "answer": 1,
+    "why": "The second hour, from 3 p.m., is in English."
+   }
+  ]
+ },
+ {
+  "id": "r4-17",
+  "level": 4,
+  "title_raw": "Bus schedule change",
+  "kind": "notice",
+  "text": "バスをご{利用|りよう}のみなさまへ\n{道路|どうろ}の{工事|こうじ}のため、10{月|がつ}20{日|か}から10{月|がつ}31{日|にち}まで、「{市役所|しやくしょ}{前|まえ}」のバス{停|てい}は{使|つか}えません。\nこの{間|あいだ}は、100メートル{先|さき}の「{中央|ちゅうおう}{公園|こうえん}」のバス{停|てい}をご{利用|りよう}ください。\nまた、{工事|こうじ}のため、バスが{遅|おく}れることがあります。{時間|じかん}に{余裕|よゆう}を{持|も}ってお{出|で}かけください。\nみどり{市|し}バス",
+  "en": "To all bus users\nBecause of road construction, the \"City Hall\" bus stop cannot be used from October 20 to October 31.\nDuring this time, please use the \"Central Park\" bus stop 100 meters ahead.\nAlso, buses may be late because of the construction. Please leave with plenty of time.\nMidori City Bus",
+  "questions": [
+   {
+    "q": "10{月|がつ}25{日|にち}に{市役所|しやくしょ}{前|まえ}からバスに{乗|の}りたい{人|ひと}は、どうすればいいですか。",
+    "q_en": "What should a person who wants to take the bus from City Hall on October 25 do?",
+    "options": [
+     "「{中央|ちゅうおう}{公園|こうえん}」のバス{停|てい}まで{歩|ある}く",
+     "「{市役所|しやくしょ}{前|まえ}」のバス{停|てい}で{待|ま}つ",
+     "11{月|がつ}になるまでバスに{乗|の}らない",
+     "バスの{会社|かいしゃ}に{電話|でんわ}する"
+    ],
+    "answer": 0,
+    "why": "The City Hall stop is closed, so use the Central Park stop."
+   }
+  ]
+ },
+ {
+  "id": "r4-18",
+  "level": 4,
+  "title_raw": "Gym trial membership",
+  "kind": "info",
+  "text": "スポーツクラブ「げんき」\n{今月|こんげつ}だけのキャンペーン！\n{入会|にゅうかい}{金|きん}　5,000{円|えん}→0{円|えん}\n{月|つき}{会費|かいひ}\n・{全日|ぜんじつ}{会員|かいいん}（いつでも{使|つか}えます）：8,000{円|えん}\n・{夜|よる}{会員|かいいん}（{午後|ごご}6{時|じ}から）：6,000{円|えん}\n・{週末|しゅうまつ}{会員|かいいん}（{土日|どにち}だけ）：5,000{円|えん}\n※{初|はじ}めての{方|かた}は、1{回|かい}だけ{無料|むりょう}で{体験|たいけん}できます。\n※{入会|にゅうかい}するときは、{写真|しゃしん}と{銀行|ぎんこう}のカードを{持|も}ってきてください。",
+  "en": "Sports Club \"Genki\"\nThis month only!\nJoining fee 5,000 yen → 0 yen\nMonthly fees\n- Full-time member (use anytime): 8,000 yen\n- Night member (from 6 p.m.): 6,000 yen\n- Weekend member (Sat & Sun only): 5,000 yen\n* First-time visitors can try once for free.\n* When joining, please bring a photo and your bank card.",
+  "questions": [
+   {
+    "q": "{会社員|かいしゃいん}のトムさんは、{平日|へいじつ}の{仕事|しごと}のあと、{午後|ごご}7{時|じ}ごろからと、{土曜日|どようび}の{朝|あさ}に{運動|うんどう}したいです。{今月|こんげつ}{入会|にゅうかい}すると、{毎月|まいつき}いくらかかりますか。",
+    "q_en": "Tom, an office worker, wants to exercise after work on weekdays from around 7 p.m. and on Saturday mornings. If he joins this month, how much will it cost each month?",
+    "options": [
+     "5,000{円|えん}",
+     "6,000{円|えん}",
+     "8,000{円|えん}",
+     "13,000{円|えん}"
+    ],
+    "answer": 2,
+    "why": "He needs both weekday nights and Saturday mornings, so only the full-time plan works."
+   }
+  ]
+ },
+ {
+  "id": "r4-19",
+  "level": 4,
+  "title_raw": "Learning the piano",
+  "kind": "medium",
+  "text": "{私|わたし}は{子|こ}どものころ、ピアノを{習|なら}いたいと{思|おも}っていましたが、{家|いえ}が{狭|せま}くてピアノを{置|お}くことができませんでした。\n{大人|おとな}になって、{仕事|しごと}が{忙|いそが}しくなり、ピアノのことはずっと{忘|わす}れていました。でも、{去年|きょねん}、{友達|ともだち}の{結婚式|けっこんしき}で、{新郎|しんろう}がピアノをひいているのを{見|み}て、もう{一度|いちど}やってみたくなりました。\n{今|いま}は{電子|でんし}ピアノを{買|か}って、{毎晩|まいばん}30{分|ぷん}ぐらい{練習|れんしゅう}しています。{電子|でんし}ピアノは{小|ちい}さいし、ヘッドホンを{使|つか}えば{夜|よる}でも{隣|となり}の{人|ひと}に{迷惑|めいわく}をかけません。{来年|らいねん}の{妹|いもうと}の{結婚式|けっこんしき}で、{一曲|いっきょく}ひくのが{今|いま}の{目標|もくひょう}です。",
+  "en": "As a child I wanted to learn the piano, but our home was small and we couldn't fit a piano.\nAs an adult, work got busy and I forgot about the piano for a long time. But last year, at a friend's wedding, I saw the groom playing the piano and wanted to try again.\nNow I have bought an electronic piano and practice about 30 minutes every night. An electronic piano is small, and with headphones I don't bother my neighbors even at night. My current goal is to play one song at my younger sister's wedding next year.",
+  "questions": [
+   {
+    "q": "この{人|ひと}が{子|こ}どものころピアノを{習|なら}わなかったのはどうしてですか。",
+    "q_en": "Why didn't this person learn the piano as a child?",
+    "options": [
+     "{仕事|しごと}が{忙|いそが}しかったから",
+     "ピアノが{好|す}きではなかったから",
+     "{隣|となり}の{人|ひと}に{迷惑|めいわく}だったから",
+     "{家|いえ}にピアノを{置|お}く{場所|ばしょ}がなかったから"
+    ],
+    "answer": 3,
+    "why": "The home was too small to put a piano in."
+   },
+   {
+    "q": "この{人|ひと}がもう{一度|いちど}ピアノをやりたくなったのはどうしてですか。",
+    "q_en": "Why did this person want to try the piano again?",
+    "options": [
+     "{妹|いもうと}が{結婚|けっこん}することになったから",
+     "{電子|でんし}ピアノが{安|やす}くなったから",
+     "{結婚式|けっこんしき}でピアノをひく{人|ひと}を{見|み}たから",
+     "{友達|ともだち}にピアノを{教|おし}えてもらったから"
+    ],
+    "answer": 2,
+    "why": "Seeing the groom play at a friend's wedding inspired the writer."
+   },
+   {
+    "q": "この{人|ひと}の{今|いま}の{目標|もくひょう}は{何|なん}ですか。",
+    "q_en": "What is this person's current goal?",
+    "options": [
+     "{友達|ともだち}の{結婚式|けっこんしき}でピアノをひくこと",
+     "{妹|いもうと}の{結婚式|けっこんしき}で{一曲|いっきょく}ひくこと",
+     "{大|おお}きいピアノを{買|か}うこと",
+     "{毎晩|まいばん}1{時間|じかん}{練習|れんしゅう}すること"
+    ],
+    "answer": 1,
+    "why": "The goal is to play one song at the sister's wedding next year."
+   }
+  ]
+ },
+ {
+  "id": "r4-20",
+  "level": 4,
+  "title_raw": "Doctor's advice",
+  "kind": "short",
+  "text": "{先週|せんしゅう}から{頭|あたま}が{痛|いた}かったので、{病院|びょういん}に{行|い}きました。{医者|いしゃ}は「{大|おお}きな{病気|びょうき}ではありませんが、{疲|つか}れているようですね。パソコンを{使|つか}うとき、1{時間|じかん}に1{回|かい}は{休|やす}んでください。それから、{薬|くすり}は{痛|いた}いときだけ{飲|の}んでください」と{言|い}いました。\n{仕事|しごと}が{忙|いそが}しくて、{最近|さいきん}は{一日中|いちにちじゅう}パソコンの{前|まえ}に{座|すわ}っていました。これからは{気|き}をつけようと{思|おも}います。",
+  "en": "I had a headache since last week, so I went to the hospital. The doctor said, \"It's not a serious illness, but you seem tired. When you use a computer, please take a break once an hour. And take the medicine only when it hurts.\"\nWork has been busy, and lately I was sitting in front of the computer all day. I think I'll be careful from now on.",
+  "questions": [
+   {
+    "q": "{医者|いしゃ}はこの{人|ひと}に{何|なに}と{言|い}いましたか。",
+    "q_en": "What did the doctor tell this person?",
+    "options": [
+     "1{時間|じかん}に1{回|かい}{休|やす}むこと",
+     "パソコンを{使|つか}わないこと",
+     "{毎日|まいにち}{薬|くすり}を{飲|の}むこと",
+     "{仕事|しごと}を{休|やす}むこと"
+    ],
+    "answer": 0,
+    "why": "The doctor said to take a break once an hour when using a computer."
+   }
+  ]
+ },
+ {
+  "id": "r4-21",
+  "level": 4,
+  "title_raw": "Moving notice from a friend",
+  "kind": "message",
+  "text": "みなさんへ\nお{元気|げんき}ですか。{実|じつ}は、{来月|らいげつ}の{終|お}わりに{大阪|おおさか}に{引|ひ}っ{越|こ}すことになりました。{会社|かいしゃ}で{大阪|おおさか}の{支店|してん}に{行|い}くことが{決|き}まったからです。\n{引|ひ}っ{越|こ}す{前|まえ}に、みんなで{食事|しょくじ}をしたいと{思|おも}っています。{来月|らいげつ}の15{日|にち}の{土曜日|どようび}か、22{日|にち}の{土曜日|どようび}はどうですか。{都合|つごう}のいい{日|ひ}を、{今週|こんしゅう}の{金曜日|きんようび}までに{教|おし}えてください。\nお{店|みせ}は{私|わたし}が{予約|よやく}しておきます。\nあや",
+  "en": "To everyone,\nHow are you? Actually, I'm going to move to Osaka at the end of next month. My company has decided to send me to the Osaka branch.\nBefore I move, I'd like to have a meal with everyone. How about Saturday the 15th or Saturday the 22nd of next month? Please tell me which day is good for you by this Friday.\nI'll book the restaurant.\nAya",
+  "questions": [
+   {
+    "q": "このメールを{読|よ}んだ{人|ひと}は、{何|なに}をしなければなりませんか。",
+    "q_en": "What must people who read this email do?",
+    "options": [
+     "{金曜日|きんようび}までにお{店|みせ}を{予約|よやく}する",
+     "{引|ひ}っ{越|こ}しを{手伝|てつだ}う",
+     "15{日|にち}に{大阪|おおさか}に{行|い}く",
+     "{金曜日|きんようび}までに{行|い}ける{日|ひ}を{知|し}らせる"
+    ],
+    "answer": 3,
+    "why": "Aya asks everyone to tell her a good day by Friday; she books the restaurant herself."
+   }
+  ]
+ },
+ {
+  "id": "r4-22",
+  "level": 4,
+  "title_raw": "Museum guide",
+  "kind": "info",
+  "text": "さくら{市|し}{歴史|れきし}{博物館|はくぶつかん}\n{開館|かいかん}{時間|じかん}：{午前|ごぜん}9{時|じ}30{分|ぷん}～{午後|ごご}5{時|じ}（{入館|にゅうかん}は{午後|ごご}4{時|じ}30{分|ぷん}まで）\n{休館日|きゅうかんび}：{毎週|まいしゅう}{月曜日|げつようび}（{祝日|しゅくじつ}の{場合|ばあい}は{次|つぎ}の{日|ひ}）\n{入館|にゅうかん}{料|りょう}：{大人|おとな}600{円|えん}、{学生|がくせい}300{円|えん}、{65歳|ろくじゅうごさい}{以上|いじょう}の{方|かた}は{無料|むりょう}\n・{館内|かんない}では、{写真|しゃしん}をとってもかまいませんが、フラッシュは{使|つか}わないでください。\n・{食|た}べ{物|もの}や{飲|の}み{物|もの}は1{階|かい}の{休憩室|きゅうけいしつ}でお{願|ねが}いします。",
+  "en": "Sakura City History Museum\nHours: 9:30 a.m.-5 p.m. (last entry 4:30 p.m.)\nClosed: Every Monday (if Monday is a holiday, the next day)\nAdmission: Adults 600 yen, students 300 yen, free for people 65 and over\n- You may take photos inside, but please do not use flash.\n- Please eat and drink in the rest room on the 1st floor.",
+  "questions": [
+   {
+    "q": "{月曜日|げつようび}が{祝日|しゅくじつ}のとき、{博物館|はくぶつかん}が{休|やす}みなのは{何曜日|なんようび}ですか。",
+    "q_en": "When Monday is a national holiday, which day is the museum closed?",
+    "options": [
+     "{日曜日|にちようび}",
+     "{月曜日|げつようび}",
+     "{火曜日|かようび}",
+     "{休|やす}みはない"
+    ],
+    "answer": 2,
+    "why": "If Monday is a holiday, it closes the next day, Tuesday."
+   },
+   {
+    "q": "{博物館|はくぶつかん}の{中|なか}でしてはいけないことはどれですか。",
+    "q_en": "Which is not allowed inside the museum?",
+    "options": [
+     "{写真|しゃしん}をとること",
+     "1{階|かい}で{飲|の}み{物|もの}を{飲|の}むこと",
+     "フラッシュを{使|つか}って{写真|しゃしん}をとること",
+     "{午後|ごご}4{時|じ}に{入|はい}ること"
+    ],
+    "answer": 2,
+    "why": "Photos are fine, but flash must not be used."
+   }
+  ]
+ }
+]

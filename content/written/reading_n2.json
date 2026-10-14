@@ -1,0 +1,342 @@
+[
+ {
+  "id": "r2-01",
+  "level": 2,
+  "title_raw": "Working from Home",
+  "kind": "short",
+  "text": "{在宅勤務|ざいたくきんむ}が{広|ひろ}まって{数年|すうねん}が{経|た}った。{通勤|つうきん}{時間|じかん}がなくなり、{自由|じゆう}に{使|つか}える{時間|じかん}が{増|ふ}えたと{喜|よろこ}ぶ{人|ひと}は{多|おお}い。{一方|いっぽう}で、{仕事|しごと}とプライベートの{境目|さかいめ}があいまいになり、かえって{長時間|ちょうじかん}{働|はたら}いてしまうという{声|こえ}も{聞|き}かれる。{同僚|どうりょう}と{話|はな}す{機会|きかい}が{減|へ}り、{孤独|こどく}を{感|かん}じるという{人|ひと}もいる。\n{会社|かいしゃ}に{行|い}けば{自然|しぜん}に{切|き}り{替|か}えられた{気持|きも}ちも、{家|いえ}では{意識|いしき}しなければ{切|き}り{替|か}わらない。{大切|たいせつ}なのは、{場所|ばしょ}ではなく{働|はたら}き{方|かた}を{自分|じぶん}で{管理|かんり}することだろう。{始業|しぎょう}と{終業|しゅうぎょう}の{時刻|じこく}を{決|き}め、{終|お}わったらパソコンを{閉|と}じる。そうした{小|ちい}さな{習慣|しゅうかん}こそが、{在宅勤務|ざいたくきんむ}を{長|なが}く{続|つづ}けるための{鍵|かぎ}になるのではないだろうか。",
+  "en": "Several years have passed since working from home spread. Many people are happy that commuting time has disappeared and they have more free time. On the other hand, some say the line between work and private life has become unclear, and they actually end up working long hours. Some also feel lonely because they have fewer chances to talk with coworkers.\nThe change of mood that happened naturally when you went to the office does not happen at home unless you make it happen. What matters is not the place but managing your own way of working. Decide your start and finish times, and close your computer when you are done. Perhaps it is exactly these small habits that are the key to working from home for a long time.",
+  "questions": [
+   {
+    "q": "{筆者|ひっしゃ}は{在宅勤務|ざいたくきんむ}を{続|つづ}けるために{何|なに}が{大切|たいせつ}だと{言|い}っているか。",
+    "q_en": "What does the writer say is important for continuing to work from home?",
+    "options": [
+     "{通勤|つうきん}{時間|じかん}を{有効|ゆうこう}に{使|つか}うこと",
+     "{自分|じぶん}で{働|はたら}く{時間|じかん}を{区切|くぎ}ること",
+     "{会社|かいしゃ}に{行|い}く{日|ひ}を{増|ふ}やすこと",
+     "できるだけ{長|なが}い{時間|じかん}{働|はたら}くこと"
+    ],
+    "answer": 1,
+    "why": "The writer says to set start and finish times and stop working at the end."
+   }
+  ]
+ },
+ {
+  "id": "r2-02",
+  "level": 2,
+  "title_raw": "Notice: Reducing Paper",
+  "kind": "short",
+  "text": "{社員|しゃいん}{各位|かくい}\n{来月|らいげつ}から、{会議|かいぎ}{資料|しりょう}は{原則|げんそく}として{紙|かみ}で{配布|はいふ}せず、データで{共有|きょうゆう}することになりました。{印刷|いんさつ}が{必要|ひつよう}な{場合|ばあい}は、{各自|かくじ}で{必要|ひつよう}な{分|ぶん}だけ{印刷|いんさつ}してください。ただし、{社外|しゃがい}の{方|かた}が{出席|しゅっせき}する{会議|かいぎ}については、これまでどおり{担当者|たんとうしゃ}が{人数分|にんずうぶん}を{用意|ようい}します。\nまた、カラー{印刷|いんさつ}は{費用|ひよう}がかかるため、お{客様|きゃくさま}に{提出|ていしゅつ}する{資料|しりょう}に{限|かぎ}ることとします。なお、{資料|しりょう}のデータは{共有|きょうゆう}フォルダに{保存|ほぞん}し、{会議|かいぎ}の{前日|ぜんじつ}までに{参加者|さんかしゃ}へ{連絡|れんらく}してください。{操作|そうさ}が{分|わ}からない{場合|ばあい}は、{情報|じょうほう}システム{課|か}までお{問|と}い{合|あ}わせください。ご{理解|りかい}とご{協力|きょうりょく}をお{願|ねが}いいたします。\n{総務部|そうむぶ}",
+  "en": "To all staff\nFrom next month, as a rule, meeting materials will not be handed out on paper but shared as data. If you need a printout, please print only what you need yourself. However, for meetings attended by people from outside the company, the person in charge will prepare copies for everyone as before.\nAlso, because color printing is expensive, it will be limited to materials submitted to customers. Please save the data in the shared folder and tell participants by the day before the meeting. If you do not know how to do this, please contact the IT Systems Section. Thank you for your understanding and cooperation.\nGeneral Affairs Department",
+  "questions": [
+   {
+    "q": "このお{知|し}らせからわかることは{何|なん}か。",
+    "q_en": "What can we learn from this notice?",
+    "options": [
+     "{来月|らいげつ}からすべての{会議|かいぎ}で{資料|しりょう}が{使|つか}われなくなる。",
+     "カラー{印刷|いんさつ}は{各自|かくじ}で{自由|じゆう}にしてよい。",
+     "{資料|しりょう}はすべて{総務部|そうむぶ}が{印刷|いんさつ}する。",
+     "{社外|しゃがい}の{人|ひと}が{出|で}る{会議|かいぎ}では、{担当者|たんとうしゃ}が{資料|しりょう}を{用意|ようい}する。"
+    ],
+    "answer": 3,
+    "why": "The notice says the person in charge still prepares copies when outside guests attend."
+   }
+  ]
+ },
+ {
+  "id": "r2-03",
+  "level": 2,
+  "title_raw": "Reading in the Smartphone Age",
+  "kind": "medium",
+  "text": "{電車|でんしゃ}の{中|なか}を{見渡|みわた}すと、ほとんどの{人|ひと}がスマートフォンを{見|み}ている。{本|ほん}を{読|よ}んでいる{人|ひと}は、{以前|いぜん}に{比|くら}べてずいぶん{少|すく}なくなった。{若者|わかもの}の{読書|どくしょ}{離|ばな}れが{進|すす}んでいると{言|い}われるのも、{無理|むり}はない。\nしかし、{彼|かれ}らが{文字|もじ}を{読|よ}んでいないわけではない。ニュースやSNS、ネット{上|じょう}の{小説|しょうせつ}など、むしろ{毎日|まいにち}{大量|たいりょう}の{文章|ぶんしょう}に{触|ふ}れている。{問題|もんだい}は{量|りょう}ではなく、{読|よ}み{方|かた}にあるのではないか。{短|みじか}い{文章|ぶんしょう}を{次々|つぎつぎ}に{読|よ}み{流|なが}すことに{慣|な}れると、{一|ひと}つのテーマについて{時間|じかん}をかけて{考|かんが}える{力|ちから}が{育|そだ}ちにくくなる。\n{本|ほん}を{一冊|いっさつ}{読|よ}み{通|とお}すには、{集中力|しゅうちゅうりょく}と{忍耐|にんたい}が{必要|ひつよう}だ。だからこそ、{読|よ}み{終|お}えたときには、{自分|じぶん}の{考|かんが}えが{少|すこ}し{深|ふか}まったと{感|かん}じられる。スマートフォンを{手放|てばな}す{必要|ひつよう}はないが、{一日|いちにち}のうち{少|すこ}しでも、じっくり{読|よ}む{時間|じかん}を{持|も}ちたいものだ。",
+  "en": "When you look around a train, almost everyone is looking at a smartphone. Far fewer people read books than before. It is no wonder people say young people are moving away from reading.\nHowever, it is not that they do not read words. In fact, they meet a huge amount of text every day: news, social media, online novels and so on. Perhaps the problem is not the amount but the way of reading. When you get used to skimming one short text after another, the ability to think about one topic for a long time grows more slowly.\nReading a whole book takes focus and patience. That is exactly why, when you finish, you feel your thinking has become a little deeper. There is no need to give up your smartphone, but I would like to have some time each day, even a little, to read slowly and carefully.",
+  "questions": [
+   {
+    "q": "{筆者|ひっしゃ}によると、{若者|わかもの}の{読書|どくしょ}の{問題|もんだい}は{何|なに}か。",
+    "q_en": "According to the writer, what is the problem with young people's reading?",
+    "options": [
+     "{文字|もじ}をほとんど{読|よ}まないこと",
+     "ネットの{小説|しょうせつ}しか{読|よ}まないこと",
+     "{短|みじか}い{文章|ぶんしょう}を{読|よ}み{流|なが}すことに{慣|な}れていること",
+     "{本|ほん}を{買|か}うお{金|かね}がないこと"
+    ],
+    "answer": 2,
+    "why": "The writer says the problem is the way of reading: skimming short texts."
+   },
+   {
+    "q": "{筆者|ひっしゃ}が{最|もっと}も{言|い}いたいことは{何|なに}か。",
+    "q_en": "What does the writer most want to say?",
+    "options": [
+     "スマートフォンを{使|つか}うのをやめるべきだ。",
+     "{電車|でんしゃ}の{中|なか}では{本|ほん}を{読|よ}むべきだ。",
+     "{若者|わかもの}はもっと{多|おお}くの{文章|ぶんしょう}を{読|よ}むべきだ。",
+     "{時間|じかん}をかけて{本|ほん}を{読|よ}む{習慣|しゅうかん}を{持|も}つことが{大切|たいせつ}だ。"
+    ],
+    "answer": 3,
+    "why": "The writer ends by wishing for some time each day to read slowly."
+   }
+  ]
+ },
+ {
+  "id": "r2-04",
+  "level": 2,
+  "title_raw": "Food Loss",
+  "kind": "medium",
+  "text": "まだ{食|た}べられるのに{捨|す}てられてしまう{食品|しょくひん}を「{食品|しょくひん}ロス」という。{日本|にほん}では{年間|ねんかん}に{数百万|すうひゃくまん}トンもの{食品|しょくひん}ロスが{出|で}ており、その{約|やく}{半分|はんぶん}は{家庭|かてい}から{出|で}ていると{言|い}われている。\n{家庭|かてい}での{食品|しょくひん}ロスの{主|おも}な{原因|げんいん}は、{買|か}いすぎと{作|つく}りすぎだ。{特売|とくばい}だからと{必要|ひつよう}{以上|いじょう}に{買|か}ってしまい、{使|つか}い{切|き}れずに{期限|きげん}が{切|き}れる。また、「{賞味期限|しょうみきげん}」と「{消費期限|しょうひきげん}」の{違|ちが}いを{知|し}らずに、まだ{安全|あんぜん}に{食|た}べられる{食品|しょくひん}を{捨|す}ててしまう{人|ひと}も{少|すく}なくない。{賞味期限|しょうみきげん}はおいしく{食|た}べられる{期限|きげん}であり、{過|す}ぎてもすぐに{食|た}べられなくなるわけではない。\n{買|か}い{物|もの}の{前|まえ}に{冷蔵庫|れいぞうこ}の{中|なか}を{確認|かくにん}する、{食|た}べきれる{量|りょう}だけ{作|つく}るなど、{一人一人|ひとりひとり}ができることは{多|おお}い。",
+  "en": "Food that is thrown away even though it can still be eaten is called 'food loss'. In Japan, several million tons of food loss occur each year, and about half of it is said to come from homes.\nThe main causes of food loss at home are buying too much and cooking too much. People buy more than they need because it is on sale, cannot use it all, and the date passes. Also, quite a few people do not know the difference between the 'best-before date' and the 'use-by date', and throw away food that is still safe to eat. The best-before date is the date until which food tastes good; it does not mean the food cannot be eaten right after it passes.\nThere are many things each person can do, such as checking the fridge before shopping and cooking only as much as can be eaten.",
+  "questions": [
+   {
+    "q": "{家庭|かてい}で{食品|しょくひん}ロスが{出|で}る{原因|げんいん}として、{本文|ほんぶん}に{書|か}かれていないものはどれか。",
+    "q_en": "Which is NOT written in the text as a cause of food loss at home?",
+    "options": [
+     "{必要|ひつよう}{以上|いじょう}に{買|か}ってしまうこと",
+     "{料理|りょうり}を{作|つく}りすぎること",
+     "{期限|きげん}の{意味|いみ}を{正|ただ}しく{知|し}らないこと",
+     "{冷蔵庫|れいぞうこ}が{小|ちい}さすぎること"
+    ],
+    "answer": 3,
+    "why": "The text never says that small fridges cause food loss."
+   },
+   {
+    "q": "「{賞味期限|しょうみきげん}」について{正|ただ}しいものはどれか。",
+    "q_en": "Which is correct about the 'best-before date'?",
+    "options": [
+     "おいしく{食|た}べられる{期限|きげん}のことだ。",
+     "{過|す}ぎたらすぐに{捨|す}てなければならない。",
+     "{安全|あんぜん}に{食|た}べられる{最後|さいご}の{日|ひ}のことだ。",
+     "{消費期限|しょうひきげん}と{同|おな}じ{意味|いみ}だ。"
+    ],
+    "answer": 0,
+    "why": "The text says the best-before date is the date until which food tastes good."
+   }
+  ]
+ },
+ {
+  "id": "r2-05",
+  "level": 2,
+  "title_raw": "A Small Town and Its People",
+  "kind": "long",
+  "text": "{私|わたし}が{住|す}んでいる{町|まち}は、{人口|じんこう}の{四割|よんわり}{近|ちか}くが{六十五歳|ろくじゅうごさい}{以上|いじょう}の{高齢者|こうれいしゃ}だ。{若|わか}い{人|ひと}の{多|おお}くは{進学|しんがく}や{就職|しゅうしょく}をきっかけに{都市|とし}へ{出|で}て{行|い}き、そのまま{戻|もど}ってこない。{商店街|しょうてんがい}の{店|みせ}も{次々|つぎつぎ}に{閉|し}まっている。\nこうした{状況|じょうきょう}の{中|なか}で、{数年前|すうねんまえ}から{住民|じゅうみん}たちが{始|はじ}めたのが「{見守|みまも}り{活動|かつどう}」である。{一人|ひとり}で{暮|く}らす{高齢者|こうれいしゃ}の{家|いえ}を{近所|きんじょ}の{人|ひと}が{定期的|ていきてき}に{訪|たず}ね、{困|こま}っていることがないか{声|こえ}をかける。{今|いま}では{多|おお}くの{高齢者|こうれいしゃ}が{訪問|ほうもん}を{楽|たの}しみにしているという。\nこの{活動|かつどう}で{興味深|きょうみぶか}いのは、{助|たす}けられる{側|がわ}だけでなく、{助|たす}ける{側|がわ}も{元気|げんき}になっていることだ。{退職|たいしょく}して{家|いえ}にいることが{多|おお}かった{男性|だんせい}が、{活動|かつどう}を{通|とお}して{地域|ちいき}に{知|し}り{合|あ}いが{増|ふ}え、{生|い}きがいを{感|かん}じるようになったという{話|はなし}も{聞|き}いた。\n{人口|じんこう}が{減|へ}ることは{止|と}められないかもしれない。しかし、{人|ひと}と{人|ひと}とのつながりがあれば、{町|まち}は{小|ちい}さくなっても{豊|ゆた}かでいられるのではないだろうか。",
+  "en": "In the town where I live, nearly 40 percent of the population are elderly people aged 65 or over. Many young people leave for the cities when they go to university or start work, and never come back. The shops on the shopping street are closing one after another.\nIn this situation, a few years ago residents started a 'watching-over activity'. Neighbors regularly visit the homes of elderly people who live alone and ask if they have any problems. Now many elderly people are said to look forward to the visits.\nWhat is interesting about this activity is that not only the people being helped but also the helpers have become more lively. I also heard about a man who stayed home a lot after retiring; through the activity he made more friends in the area and started to feel his life had purpose.\nWe may not be able to stop the population from falling. But if there are connections between people, perhaps a town can stay rich even as it gets smaller.",
+  "questions": [
+   {
+    "q": "この{町|まち}の{様子|ようす}について{正|ただ}しいものはどれか。",
+    "q_en": "Which is correct about this town?",
+    "options": [
+     "{若|わか}い{人|ひと}が{都市|とし}から{戻|もど}ってきている。",
+     "{人口|じんこう}が{少|すこ}しずつ{増|ふ}えている。",
+     "{高齢者|こうれいしゃ}の{割合|わりあい}が{高|たか}く、{店|みせ}が{減|へ}っている。",
+     "{商店街|しょうてんがい}がにぎやかになっている。"
+    ],
+    "answer": 2,
+    "why": "Nearly 40 percent are elderly and shops keep closing."
+   },
+   {
+    "q": "「{見守|みまも}り{活動|かつどう}」について、{筆者|ひっしゃ}が{興味深|きょうみぶか}いと{思|おも}っていることは{何|なに}か。",
+    "q_en": "What does the writer find interesting about the watching-over activity?",
+    "options": [
+     "{高齢者|こうれいしゃ}が{訪問|ほうもん}をいやがっていること",
+     "{活動|かつどう}をする{側|がわ}の{人|ひと}も{元気|げんき}になっていること",
+     "{若者|わかもの}が{多|おお}く{参加|さんか}していること",
+     "{町|まち}の{人口|じんこう}が{増|ふ}えたこと"
+    ],
+    "answer": 1,
+    "why": "The writer says the helpers also become more lively."
+   },
+   {
+    "q": "{筆者|ひっしゃ}の{考|かんが}えに{最|もっと}も{近|ちか}いものはどれか。",
+    "q_en": "Which is closest to the writer's opinion?",
+    "options": [
+     "{人|ひと}のつながりがあれば、{小|ちい}さな{町|まち}でも{豊|ゆた}かに{暮|く}らせる。",
+     "{人口|じんこう}が{減|へ}れば、{町|まち}は{必|かなら}ずさびしくなる。",
+     "{高齢者|こうれいしゃ}は{都市|とし}に{移|うつ}るべきだ。",
+     "{見守|みまも}り{活動|かつどう}は{高齢者|こうれいしゃ}には{迷惑|めいわく}だ。"
+    ],
+    "answer": 0,
+    "why": "The last paragraph says connections can keep a smaller town rich."
+   }
+  ]
+ },
+ {
+  "id": "r2-06",
+  "level": 2,
+  "title_raw": "City Library Rules",
+  "kind": "info",
+  "text": "{市立|しりつ}{図書館|としょかん}　ご{利用|りよう}のご{案内|あんない}\n・{開館|かいかん}{時間|じかん}：{平日|へいじつ}9{時|じ}～20{時|じ}、{土日|どにち}・{祝日|しゅくじつ}9{時|じ}～17{時|じ}（{毎週|まいしゅう}{月曜日|げつようび}{休館|きゅうかん}。{月曜日|げつようび}が{祝日|しゅくじつ}の{場合|ばあい}は{翌日|よくじつ}{休館|きゅうかん}）\n・{貸出|かしだし}：{本|ほん}は{一人|ひとり}10{冊|さつ}まで、{期間|きかん}は2{週間|しゅうかん}です。DVDは2{点|てん}まで、{期間|きかん}は1{週間|しゅうかん}です。\n・{延長|えんちょう}：{次|つぎ}の{予約|よやく}が{入|はい}っていなければ、1{回|かい}に{限|かぎ}り2{週間|しゅうかん}{延長|えんちょう}できます。DVDは{延長|えんちょう}できません。\n・{返却|へんきゃく}：{休館日|きゅうかんび}や{閉館後|へいかんご}は、{入口|いりぐち}{横|よこ}の{返却|へんきゃく}ポストをご{利用|りよう}ください。ただし、DVDは{破損|はそん}を{防|ふせ}ぐため、{必|かなら}ずカウンターへ{返却|へんきゃく}してください。\n・{利用|りよう}カードの{作成|さくせい}には、{住所|じゅうしょ}が{確認|かくにん}できるもの（{運転免許証|うんてんめんきょしょう}など）が{必要|ひつよう}です。",
+  "en": "City Library: Guide to Using the Library\n- Opening hours: weekdays 9:00-20:00; weekends and holidays 9:00-17:00 (closed every Monday; if Monday is a holiday, closed the next day)\n- Borrowing: up to 10 books per person for 2 weeks. Up to 2 DVDs for 1 week.\n- Extensions: if no one else has reserved it, you can extend once by 2 weeks. DVDs cannot be extended.\n- Returns: on closed days or after closing, use the return box next to the entrance. However, to prevent damage, always return DVDs at the counter.\n- To make a library card, you need something that shows your address (such as a driver's license).",
+  "questions": [
+   {
+    "q": "{月曜日|げつようび}の{夜|よる}、{借|か}りていた{本|ほん}3{冊|さつ}とDVD1{枚|まい}を{返|かえ}したい。どうすればよいか。",
+    "q_en": "On Monday night, you want to return 3 books and 1 DVD you borrowed. What should you do?",
+    "options": [
+     "{全部|ぜんぶ}{返却|へんきゃく}ポストに{入|い}れる。",
+     "{本|ほん}は{返却|へんきゃく}ポストに{入|い}れ、DVDは{後日|ごじつ}カウンターに{返|かえ}す。",
+     "{全部|ぜんぶ}{火曜日|かようび}にカウンターに{返|かえ}さなければならない。",
+     "DVDは{返却|へんきゃく}ポストに{入|い}れ、{本|ほん}は{後日|ごじつ}カウンターに{返|かえ}す。"
+    ],
+    "answer": 1,
+    "why": "Books can go in the box, but DVDs must be returned at the counter."
+   },
+   {
+    "q": "{借|か}りた{本|ほん}をもっと{長|なが}く{読|よ}みたい。{正|ただ}しいものはどれか。",
+    "q_en": "You want to keep a borrowed book longer. Which is correct?",
+    "options": [
+     "{何回|なんかい}でも{延長|えんちょう}できる。",
+     "{延長|えんちょう}はできない。",
+     "{予約|よやく}がなければ、2{週間|しゅうかん}{延長|えんちょう}できる。",
+     "{予約|よやく}があっても1{週間|しゅうかん}なら{延長|えんちょう}できる。"
+    ],
+    "answer": 2,
+    "why": "If no one has reserved it, you can extend once by 2 weeks."
+   }
+  ]
+ },
+ {
+  "id": "r2-07",
+  "level": 2,
+  "title_raw": "Part-time Job Posting",
+  "kind": "info",
+  "text": "【カフェ・スタッフ{募集|ぼしゅう}】\n{仕事|しごと}{内容|ないよう}：{接客|せっきゃく}、レジ、{簡単|かんたん}な{調理|ちょうり}\n{時給|じきゅう}：1,200{円|えん}（{土日|どにち}は1,300{円|えん}）。{研修|けんしゅう}{期間|きかん}（{最初|さいしょ}の1か{月|げつ}）は1,100{円|えん}です。\n{勤務|きんむ}{時間|じかん}：{朝|あさ}7{時|じ}～{夜|よる}10{時|じ}の{間|あいだ}で、1{日|にち}4{時間|じかん}{以上|いじょう}。{週|しゅう}2{日|か}からOK。\n{条件|じょうけん}：{高校生|こうこうせい}{不可|ふか}。{未経験|みけいけん}{歓迎|かんげい}。{土日|どにち}どちらか{働|はたら}ける{方|かた}{優先|ゆうせん}。\n{待遇|たいぐう}：{交通費|こうつうひ}{支給|しきゅう}（1{日|にち}{上限|じょうげん}800{円|えん}）、{制服|せいふく}{貸与|たいよ}、まかないあり\n{応募|おうぼ}{方法|ほうほう}：まずお{電話|でんわ}でご{連絡|れんらく}ください。{面接|めんせつ}の{日時|にちじ}をお{知|し}らせします。{面接|めんせつ}の{際|さい}は{写真|しゃしん}{付|つ}きの{履歴書|りれきしょ}をお{持|も}ちください。",
+  "en": "[Cafe Staff Wanted]\nWork: serving customers, cash register, simple cooking\nHourly pay: 1,200 yen (1,300 yen on weekends). During training (the first month) it is 1,100 yen.\nHours: between 7 a.m. and 10 p.m., at least 4 hours a day. From 2 days a week.\nConditions: no high school students. No experience needed. Priority to people who can work Saturday or Sunday.\nBenefits: travel costs paid (up to 800 yen a day), uniform provided, staff meals\nHow to apply: first call us by phone. We will tell you the date and time of the interview. Please bring a résumé with a photo to the interview.",
+  "questions": [
+   {
+    "q": "このアルバイトに{応募|おうぼ}したい{人|ひと}は、まず{何|なに}をしなければならないか。",
+    "q_en": "What must a person who wants to apply do first?",
+    "options": [
+     "{履歴書|りれきしょ}を{郵送|ゆうそう}する。",
+     "{店|みせ}に{電話|でんわ}する。",
+     "{直接|ちょくせつ}{店|みせ}に{行|い}って{面接|めんせつ}を{受|う}ける。",
+     "{写真|しゃしん}をメールで{送|おく}る。"
+    ],
+    "answer": 1,
+    "why": "The posting says to call by phone first."
+   },
+   {
+    "q": "{働|はたら}き{始|はじ}めて2{週間目|しゅうかんめ}の{土曜日|どようび}に{働|はたら}いた。{時給|じきゅう}はいくらか。",
+    "q_en": "You work on a Saturday in your second week. What is the hourly pay?",
+    "options": [
+     "1,100{円|えん}",
+     "1,200{円|えん}",
+     "1,300{円|えん}",
+     "1,400{円|えん}"
+    ],
+    "answer": 0,
+    "why": "The first month is training, so the pay is 1,100 yen."
+   }
+  ]
+ },
+ {
+  "id": "r2-08",
+  "level": 2,
+  "title_raw": "Two Views on School Uniforms",
+  "kind": "compare",
+  "text": "A\n{制服|せいふく}には{良|よ}い{点|てん}が{多|おお}い。{毎朝|まいあさ}{着|き}る{服|ふく}に{悩|なや}まなくて{済|す}むし、{家庭|かてい}の{経済|けいざい}{状況|じょうきょう}による{差|さ}も{見|み}えにくくなる。また、{同|おな}じ{服|ふく}を{着|き}ることで、{学校|がっこう}の{一員|いちいん}だという{意識|いしき}も{生|う}まれる。{確|たし}かに{値段|ねだん}は{高|たか}いが、{三年間|さんねんかん}{着|き}ることを{考|かんが}えれば、{決|けっ}して{無駄|むだ}ではない。\nB\n{制服|せいふく}は{本当|ほんとう}に{必要|ひつよう}だろうか。{一式|いっしき}{揃|そろ}えると{数万円|すうまんえん}かかり、{家計|かけい}への{負担|ふたん}は{小|ちい}さくない。また、{暑|あつ}さや{寒|さむ}さに{合|あ}わせて{服|ふく}を{選|えら}べないのも{不便|ふべん}だ。{最近|さいきん}は、{性別|せいべつ}に{関係|かんけい}なくズボンかスカートを{選|えら}べる{学校|がっこう}も{増|ふ}えている。{一律|いちりつ}に{決|き}めるのではなく、{生徒|せいと}が{選|えら}べる{仕組|しく}みにすべきだ。",
+  "en": "A\nUniforms have many good points. Students do not have to worry every morning about what to wear, and differences in families' financial situations become harder to see. Also, wearing the same clothes creates a sense of being a member of the school. It is true that they are expensive, but considering they are worn for three years, they are by no means a waste.\nB\nAre uniforms really necessary? A full set costs tens of thousands of yen, which is no small burden on a household. It is also inconvenient that you cannot choose clothes to match the heat or cold. Recently, more schools let students choose trousers or a skirt regardless of gender. Instead of deciding everything the same way for everyone, there should be a system where students can choose.",
+  "questions": [
+   {
+    "q": "AとBが{共通|きょうつう}して{述|の}べていることは{何|なに}か。",
+    "q_en": "What do A and B both mention?",
+    "options": [
+     "{制服|せいふく}は{値段|ねだん}が{高|たか}いこと",
+     "{制服|せいふく}は{暑|あつ}さに{合|あ}わないこと",
+     "{制服|せいふく}は{学校|がっこう}への{意識|いしき}を{高|たか}めること",
+     "{制服|せいふく}は{性別|せいべつ}で{分|わ}けるべきだということ"
+    ],
+    "answer": 0,
+    "why": "Both A and B say that uniforms cost a lot."
+   },
+   {
+    "q": "{制服|せいふく}について、AとBはどのような{立場|たちば}か。",
+    "q_en": "What positions do A and B take on uniforms?",
+    "options": [
+     "AもBも{制服|せいふく}に{賛成|さんせい}している。",
+     "Aは{賛成|さんせい}し、Bは{生徒|せいと}が{選|えら}べるようにすべきだと{考|かんが}えている。",
+     "Aは{反対|はんたい}し、Bは{賛成|さんせい}している。",
+     "AもBも{制服|せいふく}をなくすべきだと{考|かんが}えている。"
+    ],
+    "answer": 1,
+    "why": "A supports uniforms, and B wants students to be able to choose."
+   }
+  ]
+ },
+ {
+  "id": "r2-09",
+  "level": 2,
+  "title_raw": "Two Views on Eating Alone",
+  "kind": "compare",
+  "text": "A\n{最近|さいきん}、{一人|ひとり}で{外食|がいしょく}する{人|ひと}が{増|ふ}え、{一人用|ひとりよう}の{席|せき}を{用意|ようい}する{店|みせ}も{多|おお}くなった。{誰|だれ}にも{気|き}を{使|つか}わず、{好|す}きなものを{好|す}きなペースで{食|た}べられるのは{気楽|きらく}でいい。{一人|ひとり}の{時間|じかん}を{楽|たの}しむのは、{決|けっ}して{寂|さび}しいことではない。\nB\n{一人|ひとり}で{食事|しょくじ}をするのが{楽|らく}なのはわかる。しかし、{食事|しょくじ}は{本来|ほんらい}、{人|ひと}と{人|ひと}をつなぐ{大切|たいせつ}な{時間|じかん}でもあるはずだ。{家族|かぞく}や{友人|ゆうじん}と{同|おな}じテーブルを{囲|かこ}み、その{日|ひ}の{出来事|できごと}を{話|はな}す。そうした{時間|じかん}が{減|へ}っていることを、もっと{真剣|しんけん}に{考|かんが}えるべきではないか。",
+  "en": "A\nRecently, more people eat out alone, and more restaurants have seats for one person. It is relaxing to eat what you like at your own pace without having to worry about anyone. Enjoying time alone is by no means a lonely thing.\nB\nI understand that eating alone is easy. But meals should also originally be an important time that connects people. Sitting around the same table with family or friends and talking about what happened that day: shouldn't we think more seriously about the fact that such time is decreasing?",
+  "questions": [
+   {
+    "q": "{一人|ひとり}で{食事|しょくじ}をすることについて、AとBはどのように{述|の}べているか。",
+    "q_en": "How do A and B describe eating alone?",
+    "options": [
+     "AもBも、{寂|さび}しいことだと{述|の}べている。",
+     "AもBも、{楽|らく}な{面|めん}があると{認|みと}めている。",
+     "Aは{問題|もんだい}だと{述|の}べ、Bは{良|よ}いことだと{述|の}べている。",
+     "AもBも、{店|みせ}が{一人用|ひとりよう}の{席|せき}を{増|ふ}やすべきだと{述|の}べている。"
+    ],
+    "answer": 1,
+    "why": "A says it is relaxing and B says she understands it is easy."
+   },
+   {
+    "q": "Bの{筆者|ひっしゃ}が{最|もっと}も{言|い}いたいことは{何|なに}か。",
+    "q_en": "What does writer B most want to say?",
+    "options": [
+     "{一人用|ひとりよう}の{席|せき}をなくすべきだ。",
+     "{外食|がいしょく}をやめるべきだ。",
+     "{人|ひと}と{一緒|いっしょ}に{食事|しょくじ}をする{時間|じかん}が{減|へ}っていることを{考|かんが}えるべきだ。",
+     "{一人|ひとり}で{食|た}べるほうが{体|からだ}によい。"
+    ],
+    "answer": 2,
+    "why": "B says we should think seriously about less time eating together."
+   }
+  ]
+ },
+ {
+  "id": "r2-10",
+  "level": 2,
+  "title_raw": "The Value of Failure",
+  "kind": "long",
+  "text": "{子|こ}どものころ、{私|わたし}は{失敗|しっぱい}するのが{何|なに}より{怖|こわ}かった。テストで{悪|わる}い{点|てん}を{取|と}ること、{人前|ひとまえ}で{間違|まちが}えること、{友達|ともだち}に{笑|わら}われること。だから、できそうなことしかやらなかった。\nその{考|かんが}えが{変|か}わったのは、{社会人|しゃかいじん}になって{三年目|さんねんめ}のことだ。{初|はじ}めて{任|まか}された{企画|きかく}が、{準備|じゅんび}{不足|ぶそく}で{大失敗|だいしっぱい}に{終|お}わった。{落|お}ち{込|こ}む{私|わたし}に、{上司|じょうし}は「{失敗|しっぱい}したのは、{挑戦|ちょうせん}したからだ。{何|なに}もしなければ{失敗|しっぱい}もしない。{大事|だいじ}なのは、そこから{何|なに}を{学|まな}ぶかだ」と{言|い}った。\nその{後|ご}、{私|わたし}は{失敗|しっぱい}の{原因|げんいん}を{一|ひと}つ{一|ひと}つ{書|か}き{出|だ}し、{次|つぎ}の{企画|きかく}に{生|い}かした。{結果|けっか}、{二度目|にどめ}の{企画|きかく}は{成功|せいこう}した。{失敗|しっぱい}がなければ、この{成功|せいこう}もなかっただろう。\n{今|いま}でも{失敗|しっぱい}は{怖|こわ}い。しかし、{失敗|しっぱい}を{避|さ}けることばかり{考|かんが}えていては、{成長|せいちょう}の{機会|きかい}を{自分|じぶん}で{捨|す}ててしまうことになる。そう{気|き}づいてから、{私|わたし}は{少|すこ}しだけ{勇気|ゆうき}を{出|だ}せるようになった。",
+  "en": "As a child, I was afraid of failing more than anything. Getting bad test scores, making mistakes in front of people, being laughed at by friends. So I only did things I thought I could do.\nThat way of thinking changed in my third year as a working adult. The first project I was put in charge of ended in a big failure because of poor preparation. When I was feeling down, my boss said, 'You failed because you tried. If you do nothing, you don't fail either. What matters is what you learn from it.'\nAfter that, I wrote down the causes of the failure one by one and used them in my next project. As a result, the second project succeeded. Without the failure, this success would not have happened.\nI am still afraid of failing. But if you think only about avoiding failure, you end up throwing away chances to grow. Since I realized that, I have become able to be a little braver.",
+  "questions": [
+   {
+    "q": "{子|こ}どものころの{筆者|ひっしゃ}はどうだったか。",
+    "q_en": "What was the writer like as a child?",
+    "options": [
+     "{失敗|しっぱい}を{恐|おそ}れず、{何|なん}でも{挑戦|ちょうせん}した。",
+     "{友達|ともだち}をよく{笑|わら}っていた。",
+     "テストの{点|てん}を{気|き}にしなかった。",
+     "{失敗|しっぱい}が{怖|こわ}くて、できそうなことだけをした。"
+    ],
+    "answer": 3,
+    "why": "The writer only did things they thought they could do."
+   },
+   {
+    "q": "{上司|じょうし}の{言葉|ことば}の{意味|いみ}として{最|もっと}も{適当|てきとう}なものはどれか。",
+    "q_en": "Which best explains what the boss meant?",
+    "options": [
+     "{失敗|しっぱい}しないように、もっと{準備|じゅんび}すべきだ。",
+     "{失敗|しっぱい}は{挑戦|ちょうせん}した{証拠|しょうこ}であり、そこから{学|まな}ぶことが{大切|たいせつ}だ。",
+     "{失敗|しっぱい}したら、{次|つぎ}は{挑戦|ちょうせん}しないほうがいい。",
+     "{企画|きかく}は{上司|じょうし}に{任|まか}せるべきだ。"
+    ],
+    "answer": 1,
+    "why": "The boss said failing means you tried, and learning from it matters."
+   },
+   {
+    "q": "{筆者|ひっしゃ}が{今|いま}{考|かんが}えていることは{何|なに}か。",
+    "q_en": "What does the writer think now?",
+    "options": [
+     "{失敗|しっぱい}を{避|さ}けてばかりいると、{成長|せいちょう}の{機会|きかい}を{失|うしな}う。",
+     "もう{失敗|しっぱい}は{怖|こわ}くない。",
+     "{失敗|しっぱい}しないためには{挑戦|ちょうせん}しないことが{一番|いちばん}だ。",
+     "{成功|せいこう}するには{上司|じょうし}の{助|たす}けが{必要|ひつよう}だ。"
+    ],
+    "answer": 0,
+    "why": "The writer says avoiding failure means throwing away chances to grow."
+   }
+  ]
+ }
+]

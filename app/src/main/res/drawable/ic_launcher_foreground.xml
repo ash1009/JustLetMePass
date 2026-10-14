@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A little exam paper on its knees, begging to be passed. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- knees and shoes -->
+    <path android:fillColor="#2B2A33" android:pathData="M40,75h11a4,4 0,0 1,4 4v0a4,4 0,0 1,-4 4h-11a5,4 0,0 1,0 -8z" />
+    <path android:fillColor="#2B2A33" android:pathData="M57,75h11a5,4 0,0 1,0 8h-11a4,4 0,0 1,-4 -4v0a4,4 0,0 1,4 -4z" />
+    <!-- shadow of the paper -->
+    <path android:fillColor="#D9C3A0" android:pathData="M36,30h36a3,3 0,0 1,3 3v44a3,3 0,0 1,-3 3h-36a3,3 0,0 1,-3 -3v-44a3,3 0,0 1,3 -3z" />
+    <!-- the paper, with a folded corner -->
+    <path android:fillColor="#FFFFFF" android:strokeColor="#2B2A33" android:strokeWidth="1.6"
+        android:pathData="M35,27h30l8,8v40a2.5,2.5 0,0 1,-2.5 2.5h-35.5a2.5,2.5 0,0 1,-2.5 -2.5v-45.5a2.5,2.5 0,0 1,2.5 -2.5z" />
+    <path android:fillColor="#E9E2D6" android:strokeColor="#2B2A33" android:strokeWidth="1.6"
+        android:strokeLineJoin="round" android:pathData="M65,27v8h8z" />
+    <!-- name line and a red stamp circle -->
+    <path android:strokeColor="#C9C1B3" android:strokeWidth="1.6" android:strokeLineCap="round" android:pathData="M48,33h12" />
+    <path android:strokeColor="#D6453D" android:strokeWidth="1.6" android:fillColor="#00000000" android:pathData="M41.5,29.5a3.5,3.5 0,1 1,-0.1 0z" />
+    <!-- pleading eyebrows -->
+    <path android:strokeColor="#2B2A33" android:strokeWidth="1.6" android:strokeLineCap="round" android:pathData="M41,40.5l6,-2.5" />
+    <path android:strokeColor="#2B2A33" android:strokeWidth="1.6" android:strokeLineCap="round" android:pathData="M67,40.5l-6,-2.5" />
+    <!-- big eyes with shine -->
+    <path android:fillColor="#2B2A33" android:pathData="M45,41.5a4.8,5.4 0,1 1,-0.1 0z" />
+    <path android:fillColor="#2B2A33" android:pathData="M63,41.5a4.8,5.4 0,1 1,-0.1 0z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M43.6,43.2a1.7,1.7 0,1 1,-0.1 0z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M61.6,43.2a1.7,1.7 0,1 1,-0.1 0z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M46.6,48.2a0.9,0.9 0,1 1,-0.1 0z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M64.6,48.2a0.9,0.9 0,1 1,-0.1 0z" />
+    <!-- a tear -->
+    <path android:fillColor="#5AA7E0" android:pathData="M39.5,50c0,0 -2.3,3 -2.3,4.4a2.3,2.3 0,0 0,4.6 0c0,-1.4 -2.3,-4.4 -2.3,-4.4z" />
+    <!-- rosy cheeks -->
+    <path android:fillColor="#F6A9A0" android:pathData="M42,53.5a3,1.8 0,1 1,-0.1 0z" />
+    <path android:fillColor="#F6A9A0" android:pathData="M66,53.5a3,1.8 0,1 1,-0.1 0z" />
+    <!-- wobbly mouth -->
+    <path android:strokeColor="#2B2A33" android:strokeWidth="1.6" android:strokeLineCap="round" android:strokeLineJoin="round"
+        android:fillColor="#00000000" android:pathData="M50.5,54.5q1.75,-1.8 3.5,0q1.75,1.8 3.5,0" />
+    <!-- arms reaching in from the sides -->
+    <path android:strokeColor="#2B2A33" android:strokeWidth="1.6" android:strokeLineCap="round" android:fillColor="#00000000"
+        android:pathData="M33,58q8,1 16.5,7M75,58q-8,1 -16.5,7" />
+    <!-- hands pressed together, pleading -->
+    <path android:fillColor="#FFFFFF" android:strokeColor="#2B2A33" android:strokeWidth="1.6" android:strokeLineJoin="round"
+        android:pathData="M54,58.5c-2.5,2 -5,7 -5,10.5c0,2 1,3.5 2.5,3.5h5c1.5,0 2.5,-1.5 2.5,-3.5c0,-3.5 -2.5,-8.5 -5,-10.5z" />
+    <path android:strokeColor="#2B2A33" android:strokeWidth="1.2" android:strokeLineCap="round" android:pathData="M54,59.5v12.5" />
+    <!-- answer lines -->
+    <path android:strokeColor="#C9C1B3" android:strokeWidth="1.6" android:strokeLineCap="round" android:pathData="M40,73h7M61,73h7" />
+</vector>

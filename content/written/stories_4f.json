@@ -1,0 +1,674 @@
+[
+ {
+  "id": "s4-061",
+  "level": 4,
+  "title": "{料理人|りょうりにん}になりたいキツネ",
+  "title_en": "The Fox Who Wanted to Be a Cook",
+  "genre_raw": "Folk tale",
+  "paragraphs": [
+   {
+    "jp": "{山|やま}の{森|もり}に、コンという{若|わか}いキツネが{住|す}んでいました。コンは{子|こ}どものころから、{料理|りょうり}をするのが{大好|だいす}きでした。{夢|ゆめ}は、{森|もり}で{一番|いちばん}おいしいレストランを{開|ひら}くことです。でも、{家族|かぞく}には「キツネは{料理|りょうり}なんかしない。{狩|か}りをするものだ」と{笑|わら}われていました。",
+    "en": "In a forest on a mountain lived a young fox called Kon. Ever since he was a child, Kon had loved cooking. His dream was to open the most delicious restaurant in the forest. But his family laughed at him: 'Foxes don't cook. Foxes hunt.'"
+   },
+   {
+    "jp": "ある{日|ひ}、コンは{小|ちい}さなレストランを{開|ひら}きました。{毎朝|まいあさ}{早|はや}く{起|お}きて、きのこのスープや{木|き}の{実|み}のパンを{作|つく}りました。ところが、{一週間|いっしゅうかん}たっても、お{客|きゃく}さんは{一人|ひとり}も{来|き}ません。ウサギもニワトリも、{店|みせ}の{前|まえ}を{通|とお}るときは、{急|いそ}いで{走|はし}って{行|い}ってしまいます。「キツネの{店|みせ}に{入|はい}ったら、{食|た}べられるかもしれない」と{思|おも}っているようでした。",
+    "en": "One day, Kon opened a small restaurant. Every morning he got up early and made mushroom soup and nut bread. But even after a week, not a single customer came. The rabbits and the chickens hurried past whenever they walked by the shop. They seemed to think, 'If we go into a fox's restaurant, we might get eaten.'"
+   },
+   {
+    "jp": "コンはとても{悲|かな}しくなりました。そこで、{店|みせ}の{前|まえ}に{大|おお}きな{紙|かみ}をはりました。「メニューは{野菜|やさい}だけです。{料理人|りょうりにん}も{野菜|やさい}しか{食|た}べません」。それでも、だれも{入|はい}ってきませんでした。",
+    "en": "Kon became very sad. So he put up a big sign in front of the shop: 'Vegetables only on the menu. The cook eats only vegetables too.' Even so, nobody came in."
+   },
+   {
+    "jp": "ある{雨|あめ}の{夜|よる}、{年|とし}を{取|と}ったニワトリが{店|みせ}のドアを{開|あ}けました。「{寒|さむ}くて、もう{歩|ある}けないんだ。{何|なに}か{温|あたた}かいものを{食|た}べさせてくれないか」。コンは{急|いそ}いでかぼちゃのスープを{作|つく}って、{出|だ}してあげました。ニワトリは{一口|ひとくち}{飲|の}んで、{目|め}を{丸|まる}くしました。「こんなにおいしいスープは、{生|う}まれて{初|はじ}めてだ！」",
+    "en": "One rainy night, an old chicken opened the door of the shop. 'I'm so cold I can't walk any more. Could you give me something warm to eat?' Kon quickly made pumpkin soup and served it to him. The chicken took one sip and his eyes went wide. 'This is the most delicious soup I've had in my whole life!'"
+   },
+   {
+    "jp": "{次|つぎ}の{日|ひ}から、ニワトリは{毎日|まいにち}{店|みせ}に{来|く}るようになりました。そして、{友|とも}だちを{連|つ}れてきたり、{店|みせ}の{前|まえ}で「{安全|あんぜん}だよ」と{客|きゃく}を{呼|よ}んだりしました。{今|いま}、その{店|みせ}はいつも{満席|まんせき}です。{一番|いちばん}{人気|にんき}のメニューは「ニワトリのおすすめ{定食|ていしょく}」。もちろん、{卵|たまご}は{入|はい}っていません。",
+    "en": "From the next day, the chicken started coming to the shop every day. He brought his friends, and stood in front of the shop calling out to customers, 'It's safe!' Now the restaurant is always full. The most popular dish is 'The Chicken's Recommended Set Meal'. Of course, it has no eggs in it."
+   }
+  ],
+  "questions": [
+   {
+    "q": "どうしてお{客|きゃく}さんは{店|みせ}に{来|こ}なかったのですか。",
+    "q_en": "Why didn't customers come to the shop?",
+    "options": [
+     "{料理|りょうり}が{高|たか}かったから",
+     "キツネに{食|た}べられると{思|おも}ったから",
+     "{店|みせ}が{遠|とお}かったから",
+     "{雨|あめ}がずっと{降|ふ}っていたから"
+    ],
+    "answer": 1,
+    "why": "The animals were afraid the fox would eat them."
+   },
+   {
+    "q": "ニワトリは{次|つぎ}の{日|ひ}から{何|なに}をしましたか。",
+    "q_en": "What did the chicken do from the next day?",
+    "options": [
+     "{友|とも}だちを{連|つ}れて{店|みせ}に{来|き}た",
+     "{店|みせ}で{料理|りょうり}を{作|つく}った",
+     "{森|もり}から{引|ひ}っ{越|こ}した",
+     "{卵|たまご}をコンにあげた"
+    ],
+    "answer": 0,
+    "why": "He came every day, brought friends and told others the shop was safe."
+   }
+  ]
+ },
+ {
+  "id": "s4-062",
+  "level": 4,
+  "title": "なまけものの{雲|くも}",
+  "title_en": "The Lazy Cloud",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "{空|そら}に、モクという{小|ちい}さな{雲|くも}がいました。モクはとてもなまけものでした。ほかの{雲|くも}たちは{毎日|まいにち}{遠|とお}くまで{飛|と}んでいって、{畑|はたけ}や{山|やま}に{雨|あめ}を{降|ふ}らせます。でも、モクは{町|まち}の{上|うえ}にずっと{浮|う}かんで、{寝|ね}てばかりいました。「{雨|あめ}を{降|ふ}らせるのは{疲|つか}れるから、いやだよ」",
+    "en": "In the sky there was a small cloud called Moku. Moku was very lazy. The other clouds flew far away every day and made it rain on the fields and mountains. But Moku just floated above the town and did nothing but sleep. 'Making rain is tiring. No thanks.'"
+   },
+   {
+    "jp": "{町|まち}の{人|ひと}たちは、モクを{見上|みあ}げて{文句|もんく}を{言|い}いました。「あの{雲|くも}、{雨|あめ}も{降|ふ}らないし、{動|うご}きもしない。{洗濯物|せんたくもの}が{乾|かわ}かないじゃないか」。ほかの{雲|くも}たちも「{少|すこ}しは{働|はたら}いたらどう？」と{言|い}いましたが、モクは{聞|き}こえないふりをしました。",
+    "en": "The people of the town looked up at Moku and complained. 'That cloud doesn't rain and doesn't move either. Our laundry won't dry!' The other clouds also said, 'Why don't you work a little?' but Moku pretended not to hear."
+   },
+   {
+    "jp": "{八月|はちがつ}になって、とても{暑|あつ}い{日|ひ}が{続|つづ}きました。{暑|あつ}すぎて、{雲|くも}たちはみんな{北|きた}の{涼|すず}しい{国|くに}へ{行|い}ってしまい、{空|そら}には{雲|くも}が{一|ひと}つもなくなりました。でも、なまけもののモクだけは、{動|うご}くのが{面倒|めんどう}だったので、{町|まち}の{上|うえ}に{残|のこ}っていました。",
+    "en": "August came, and very hot days continued. It was so hot that all the clouds went off to cool countries in the north, and not a single cloud was left in the sky. Only lazy Moku stayed above the town, because moving was too much trouble."
+   },
+   {
+    "jp": "その{週末|しゅうまつ}は、{町|まち}の{夏祭|なつまつ}りでした。{太陽|たいよう}がぎらぎら{光|ひか}って、{町|まち}の{中|なか}はどこも{暑|あつ}くてたまりません。でも、モクの{下|した}だけは{大|おお}きな{影|かげ}ができていて、{少|すこ}し{涼|すず}しかったのです。{町|まち}の{人|ひと}たちは{屋台|やたい}も{太鼓|たいこ}も{全部|ぜんぶ}モクの{影|かげ}の{下|した}に{運|はこ}んで、そこでお{祭|まつ}りをしました。",
+    "en": "That weekend was the town's summer festival. The sun blazed, and everywhere in town was unbearably hot. But under Moku there was a big shadow, and it was a little cooler. The townspeople carried all the food stalls and drums into Moku's shadow and held the festival there."
+   },
+   {
+    "jp": "お{祭|まつ}りの{最後|さいご}に、{子|こ}どもたちが{空|そら}に{向|む}かって{叫|さけ}びました。「モク、ありがとう！{来年|らいねん}もそこで{寝|ね}ていてね！」。モクは{生|う}まれて{初|はじ}めてほめられて、{恥|は}ずかしくなりました。そして、ほんの{少|すこ}しだけ、{涼|すず}しい{雨|あめ}を{降|ふ}らせてあげました。",
+    "en": "At the end of the festival, the children shouted up at the sky: 'Thank you, Moku! Keep sleeping there next year too!' It was the first time in its life Moku had been praised, and it felt embarrassed. Then it let fall just a little cool rain for them."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{八月|はちがつ}に、どうしてモクだけ{町|まち}の{上|うえ}に{残|のこ}っていたのですか。",
+    "q_en": "In August, why was only Moku left above the town?",
+    "options": [
+     "{町|まち}の{人|ひと}が{好|す}きだったから",
+     "{雨|あめ}を{降|ふ}らせたかったから",
+     "{北|きた}の{国|くに}が{嫌|きら}いだったから",
+     "{動|うご}くのが{面倒|めんどう}だったから"
+    ],
+    "answer": 3,
+    "why": "Moku was lazy and didn't want to move."
+   },
+   {
+    "q": "{町|まち}の{人|ひと}たちは、どこでお{祭|まつ}りをしましたか。",
+    "q_en": "Where did the townspeople hold the festival?",
+    "options": [
+     "{北|きた}の{涼|すず}しい{国|くに}",
+     "{山|やま}の{上|うえ}",
+     "モクの{影|かげ}の{下|した}",
+     "{家|いえ}の{中|なか}"
+    ],
+    "answer": 2,
+    "why": "They moved everything into the cool shadow under Moku."
+   },
+   {
+    "q": "{最後|さいご}にモクは{何|なに}をしましたか。",
+    "q_en": "What did Moku do at the end?",
+    "options": [
+     "{少|すこ}しだけ{雨|あめ}を{降|ふ}らせた",
+     "{北|きた}へ{飛|と}んでいった",
+     "また{文句|もんく}を{言|い}われた",
+     "{大|おお}きな{雨|あめ}を{降|ふ}らせた"
+    ],
+    "answer": 0,
+    "why": "Happy to be praised, Moku made a little cool rain."
+   }
+  ]
+ },
+ {
+  "id": "s4-063",
+  "level": 4,
+  "title": "{覚|おぼ}えている{木|き}",
+  "title_en": "The Tree That Remembers",
+  "genre_raw": "Nature",
+  "paragraphs": [
+   {
+    "jp": "わたしは{小学校|しょうがっこう}の{庭|にわ}に{立|た}っています。もう{百年|ひゃくねん}{以上|いじょう}、{同|おな}じ{場所|ばしょ}から{動|うご}いたことがありません。{春|はる}にはピンクの{花|はな}を{咲|さ}かせ、{夏|なつ}には{子|こ}どもたちのために{影|かげ}を{作|つく}ります。わたしは{話|はな}すことはできませんが、ここで{遊|あそ}んだ{子|こ}どもたちのことは、{全部|ぜんぶ}{覚|おぼ}えています。",
+    "en": "I stand in the yard of an elementary school. For more than a hundred years, I have never moved from the same spot. In spring I bloom with pink flowers, and in summer I make shade for the children. I cannot speak, but I remember every child who has ever played here."
+   },
+   {
+    "jp": "{六十年|ろくじゅうねん}{前|まえ}、ハナという{女|おんな}の{子|こ}がいました。ハナは{転校生|てんこうせい}で、{友|とも}だちがいませんでした。{毎日|まいにち}{昼休|ひるやす}みになると、わたしの{下|した}に{一人|ひとり}で{座|すわ}って、{泣|な}いていました。わたしは{何|なに}もしてあげられません。だから、{風|かぜ}が{吹|ふ}いたとき、{花|はな}びらをたくさん{落|お}として、ハナの{髪|かみ}をピンクにしてあげました。ハナは{少|すこ}しだけ{笑|わら}いました。",
+    "en": "Sixty years ago there was a girl called Hana. She was a transfer student and had no friends. Every day at lunch break she sat alone under me and cried. I could do nothing for her. So when the wind blew, I dropped lots of petals and turned her hair pink. Hana smiled, just a little."
+   },
+   {
+    "jp": "{今年|ことし}の{春|はる}、{一人|ひとり}の{女|おんな}の{子|こ}がわたしの{下|した}で{泣|な}いていました。{新|あたら}しいクラスに、まだ{慣|な}れていないようです。そこへ、{白|しろ}い{髪|かみ}のおばあさんが{迎|むか}えに{来|き}ました。わたしはすぐに{分|わ}かりました。あの{笑|わら}い{方|かた}は、ハナです。",
+    "en": "This spring, a girl was crying under me. It seemed she wasn't used to her new class yet. Then a white-haired old woman came to pick her up. I knew at once. That smile belonged to Hana."
+   },
+   {
+    "jp": "「{大丈夫|だいじょうぶ}よ。おばあちゃんも{昔|むかし}、この{木|き}の{下|した}でよく{泣|な}いたの。でもね、{泣|な}いていると、この{木|き}がいつも{花|はな}びらを{落|お}としてくれたのよ。まるで、{元気|げんき}を{出|だ}しなさいと{言|い}っているみたいだった」",
+    "en": "'It's all right. Grandma often cried under this tree a long time ago too. But you know, whenever I cried, this tree always dropped its petals on me. It was just as if it were telling me to cheer up.'"
+   },
+   {
+    "jp": "ハナも、わたしのことを{覚|おぼ}えていてくれたのです。わたしはうれしくて、{枝|えだ}を{思|おも}いきり{揺|ゆ}らしました。{二人|ふたり}の{上|うえ}に、{花|はな}びらが{雪|ゆき}のように{降|ふ}りました。{女|おんな}の{子|こ}は{顔|かお}を{上|あ}げて、「ほんとだ！」と{笑|わら}いました。わたしは{言葉|ことば}を{持|も}っていません。でも、{伝|つた}えたいことは、ちゃんと{伝|つた}わるのです。",
+    "en": "Hana had remembered me too. I was so happy that I shook my branches as hard as I could. Petals fell on the two of them like snow. The girl looked up and laughed, 'It's true!' I have no words. But the things I want to say still get through."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{六十年|ろくじゅうねん}{前|まえ}、ハナはどうして{木|き}の{下|した}で{泣|な}いていましたか。",
+    "q_en": "Sixty years ago, why was Hana crying under the tree?",
+    "options": [
+     "{髪|かみ}がピンクになったから",
+     "{友|とも}だちがいなかったから",
+     "おばあさんに{怒|おこ}られたから",
+     "{花|はな}が{好|す}きではなかったから"
+    ],
+    "answer": 1,
+    "why": "She was a new transfer student with no friends."
+   },
+   {
+    "q": "{木|き}が{一番|いちばん}うれしかったのは、どんなことですか。",
+    "q_en": "What made the tree happiest?",
+    "options": [
+     "{春|はる}に{花|はな}が{咲|さ}いたこと",
+     "{子|こ}どもが{遊|あそ}びに{来|き}たこと",
+     "{風|かぜ}が{強|つよ}く{吹|ふ}いたこと",
+     "ハナも{木|き}のことを{覚|おぼ}えていたこと"
+    ],
+    "answer": 3,
+    "why": "The tree learned that Hana had remembered it all those years."
+   }
+  ]
+ },
+ {
+  "id": "s4-064",
+  "level": 4,
+  "title": "しゃべる{自動販売機|じどうはんばいき}",
+  "title_en": "The Talking Vending Machine",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "{駅|えき}の{前|まえ}に、{少|すこ}し{変|へん}な{自動販売機|じどうはんばいき}がありました。お{金|かね}を{入|い}れると、{話|はな}しかけてくるのです。{会社員|かいしゃいん}の{田中|たなか}さんが{初|はじ}めてコーヒーを{買|か}おうとしたとき、{機械|きかい}はこう{言|い}いました。「{顔|かお}が{疲|つか}れていますね。コーヒーより、{温|あたた}かいお{茶|ちゃ}のほうがいいですよ」。{田中|たなか}さんはびっくりして、{思|おも}わずお{茶|ちゃ}のボタンを{押|お}してしまいました。",
+    "en": "In front of the station there was a slightly strange vending machine. When you put money in, it talked to you. The first time office worker Mr Tanaka tried to buy a coffee, the machine said, 'You look tired. Warm tea would be better for you than coffee.' Mr Tanaka was so surprised that he pressed the tea button without thinking."
+   },
+   {
+    "jp": "それから、{田中|たなか}さんは{毎朝|まいあさ}その{自動販売機|じどうはんばいき}で{飲|の}み{物|もの}を{買|か}うようになりました。「{今日|きょう}は{雨|あめ}が{降|ふ}りそうですから、{傘|かさ}を{持|も}って{行|い}ったほうがいいですよ」「{会議|かいぎ}、うまくいくといいですね」。{機械|きかい}の{言|い}うことは{少|すこ}しうるさいけれど、いつも{優|やさ}しかったのです。{一人|ひとり}で{住|す}んでいる{田中|たなか}さんにとって、{朝|あさ}の{短|みじか}い{会話|かいわ}は{楽|たの}しみになりました。",
+    "en": "After that, Mr Tanaka started buying a drink from that machine every morning. 'It looks like rain today, so you'd better take an umbrella.' 'I hope your meeting goes well.' What the machine said was a bit nosy, but always kind. For Mr Tanaka, who lived alone, the short morning chats became something to look forward to."
+   },
+   {
+    "jp": "ところが、ある{月曜日|げつようび}の{朝|あさ}、{駅|えき}に{行|い}くと、あの{自動販売機|じどうはんばいき}がなくなっていました。{代|か}わりに、{新|あたら}しくてきれいな{機械|きかい}が{置|お}いてあります。お{金|かね}を{入|い}れても、{何|なに}も{言|い}いません。{田中|たなか}さんは{黙|だま}ってお{茶|ちゃ}を{買|か}いましたが、なんだか{寂|さび}しくて、{一日中|いちにちじゅう}{仕事|しごと}に{集中|しゅうちゅう}できませんでした。",
+    "en": "But one Monday morning, when he got to the station, the vending machine was gone. In its place stood a clean new machine. Even when he put money in, it said nothing. Mr Tanaka silently bought his tea, but he felt somehow lonely and couldn't concentrate on work all day."
+   },
+   {
+    "jp": "{一週間|いっしゅうかん}{後|ご}、{田中|たなか}さんの{会社|かいしゃ}の{休憩室|きゅうけいしつ}に、{古|ふる}い{自動販売機|じどうはんばいき}が{運|はこ}ばれてきました。{社長|しゃちょう}が{安|やす}く{買|か}ったそうです。{田中|たなか}さんがお{金|かね}を{入|い}れると、なつかしい{声|こえ}が{聞|き}こえました。「あ、{田中|たなか}さん！お{久|ひさ}しぶりです。{顔|かお}を{見|み}れば{分|わ}かりますよ。また{夜|よる}{遅|おそ}くまで{働|はたら}いていたでしょう？」",
+    "en": "A week later, an old vending machine was brought into the break room at Mr Tanaka's company. Apparently the boss had bought it cheaply. When Mr Tanaka put money in, he heard a familiar voice. 'Oh, Mr Tanaka! Long time no see. I can tell from your face. You've been working late at night again, haven't you?'"
+   },
+   {
+    "jp": "{田中|たなか}さんは{笑|わら}って、{温|あたた}かいお{茶|ちゃ}のボタンを{押|お}しました。{今|いま}では、{会社|かいしゃ}のみんながその{機械|きかい}に{相談|そうだん}をしに{来|き}ます。でも{社長|しゃちょう}だけは、{少|すこ}し{困|こま}っています。{社長|しゃちょう}がジュースを{買|か}おうとすると、{機械|きかい}がいつも「{社長|しゃちょう}、ダイエット{中|ちゅう}でしょう？」と{言|い}うからです。",
+    "en": "Mr Tanaka laughed and pressed the button for warm tea. Now everyone at the company comes to the machine for advice. Only the boss is a little troubled. Whenever he tries to buy juice, the machine always says, 'Boss, aren't you on a diet?'"
+   }
+  ],
+  "questions": [
+   {
+    "q": "{駅|えき}の{機械|きかい}が{新|あたら}しくなったとき、{田中|たなか}さんはどうなりましたか。",
+    "q_en": "When the station machine was replaced, how did Mr Tanaka feel?",
+    "options": [
+     "{寂|さび}しくて{仕事|しごと}に{集中|しゅうちゅう}できなかった",
+     "{静|しず}かになってうれしかった",
+     "{新|あたら}しい{機械|きかい}と{話|はな}した",
+     "コーヒーをたくさん{飲|の}んだ"
+    ],
+    "answer": 0,
+    "why": "He missed the talking machine and couldn't focus all day."
+   },
+   {
+    "q": "{社長|しゃちょう}はどうして{困|こま}っていますか。",
+    "q_en": "Why is the boss troubled?",
+    "options": [
+     "{機械|きかい}が{高|たか}かったから",
+     "{機械|きかい}が{何|なに}も{言|い}わないから",
+     "ジュースを{買|か}おうとすると{注意|ちゅうい}されるから",
+     "みんなが{仕事|しごと}をしないから"
+    ],
+    "answer": 2,
+    "why": "The machine reminds him about his diet whenever he tries to buy juice."
+   }
+  ]
+ },
+ {
+  "id": "s4-065",
+  "level": 4,
+  "title": "{恥|は}ずかしがりやの{幽霊|ゆうれい}",
+  "title_en": "The Shy Ghost",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "{古|ふる}い{家|いえ}に、{一人|ひとり}の{幽霊|ゆうれい}が{住|す}んでいました。{名前|なまえ}はシズカです。{幽霊|ゆうれい}の{仕事|しごと}は{人|ひと}を{怖|こわ}がらせることですが、シズカはとても{恥|は}ずかしがりやでした。{人|ひと}に{見|み}られると、{顔|かお}が{赤|あか}くなって、すぐに{押|お}し{入|い}れの{中|なか}に{隠|かく}れてしまうのです。",
+    "en": "In an old house lived a ghost. Her name was Shizuka. A ghost's job is to scare people, but Shizuka was very shy. Whenever someone saw her, her face turned red and she quickly hid in the closet."
+   },
+   {
+    "jp": "ある{日|ひ}、その{家|いえ}に{山田|やまだ}さんの{家族|かぞく}が{引|ひ}っ{越|こ}してきました。シズカは{挨拶|あいさつ}をしたかったのですが、{恥|は}ずかしくて{出|で}ていけません。そこで、みんなが{寝|ね}ている{間|あいだ}に、{何|なに}か{役|やく}に{立|た}つことをしようと{決|き}めました。{夜中|よなか}に{台所|だいどころ}をきれいに{片付|かたづ}けたり、{洗濯物|せんたくもの}をたたんだりしたのです。",
+    "en": "One day, the Yamada family moved into the house. Shizuka wanted to say hello, but she was too shy to come out. So she decided to do something useful while everyone was asleep. In the middle of the night, she tidied the kitchen and folded the laundry."
+   },
+   {
+    "jp": "{朝|あさ}になると、{山田|やまだ}さんの{家族|かぞく}は{驚|おどろ}きました。「お{皿|さら}が{全部|ぜんぶ}{洗|あら}ってある！」「シャツもきれいにたたんであるよ」。お{母|かあ}さんは{少|すこ}し{怖|こわ}がりましたが、{娘|むすめ}のミキは{目|め}を{輝|かがや}かせました。「きっと、この{家|いえ}にはやさしいだれかがいるんだよ」",
+    "en": "In the morning, the Yamadas were amazed. 'All the dishes have been washed!' 'The shirts are folded neatly too!' The mother was a little frightened, but their daughter Miki's eyes sparkled. 'There must be someone kind living in this house.'"
+   },
+   {
+    "jp": "その{夜|よる}、ミキはテーブルに{手紙|てがみ}とお{茶|ちゃ}を{置|お}いておきました。「いつもありがとう。いっしょにお{茶|ちゃ}を{飲|の}みませんか」。{次|つぎ}の{朝|あさ}、{手紙|てがみ}の{下|した}に{小|ちい}さな{字|じ}で{返事|へんじ}が{書|か}いてありました。「うれしいです。でも、{恥|は}ずかしいので、{後|うし}ろを{向|む}いていてくれますか」",
+    "en": "That night, Miki left a letter and some tea on the table. 'Thank you for everything. Would you like to have tea with me?' The next morning, a reply was written in tiny letters under hers: 'I'd love to. But I'm shy, so could you please face the other way?'"
+   },
+   {
+    "jp": "それから、{山田|やまだ}さんの{家|いえ}では、{毎晩|まいばん}{不思議|ふしぎ}なお{茶|ちゃ}の{時間|じかん}があります。ミキは{壁|かべ}のほうを{向|む}いて{座|すわ}り、{学校|がっこう}であったことを{話|はな}します。{後|うし}ろからは、ときどき{小|ちい}さな{笑|わら}い{声|ごえ}が{聞|き}こえます。ミキはまだ{一度|いちど}もシズカの{顔|かお}を{見|み}たことがありません。でも、{一番|いちばん}の{友|とも}だちだと{思|おも}っています。",
+    "en": "Since then, there has been a strange tea time at the Yamadas' house every night. Miki sits facing the wall and talks about what happened at school. Now and then, a small laugh comes from behind her. Miki has never once seen Shizuka's face. But she thinks of her as her best friend."
+   }
+  ],
+  "questions": [
+   {
+    "q": "シズカは{夜中|よなか}に{何|なに}をしましたか。",
+    "q_en": "What did Shizuka do in the middle of the night?",
+    "options": [
+     "{家族|かぞく}を{怖|こわ}がらせた",
+     "{押|お}し{入|い}れで{寝|ね}ていた",
+     "{手紙|てがみ}を{捨|す}てた",
+     "{台所|だいどころ}を{片付|かたづ}けたり{洗濯物|せんたくもの}をたたんだりした"
+    ],
+    "answer": 3,
+    "why": "Too shy to say hello, she helped with housework at night."
+   },
+   {
+    "q": "お{茶|ちゃ}の{時間|じかん}、ミキはどうしていますか。",
+    "q_en": "What does Miki do during tea time?",
+    "options": [
+     "シズカの{顔|かお}を{見|み}ている",
+     "{壁|かべ}のほうを{向|む}いて{話|はな}している",
+     "{一人|ひとり}で{寝|ね}ている",
+     "お{母|かあ}さんと{話|はな}している"
+    ],
+    "answer": 1,
+    "why": "Shizuka asked her to face away, so Miki sits facing the wall."
+   }
+  ]
+ },
+ {
+  "id": "s4-066",
+  "level": 4,
+  "title": "お{寿司屋|すしや}さんのネズミ",
+  "title_en": "The Mouse in the Sushi Shop",
+  "genre_raw": "Food",
+  "paragraphs": [
+   {
+    "jp": "{町|まち}の{小|ちい}さなお{寿司屋|すしや}さんの{天井|てんじょう}に、チュウという{子|こ}ネズミが{住|す}んでいました。チュウは{毎日|まいにち}、{天井|てんじょう}の{穴|あな}から{店|みせ}の{主人|しゅじん}の{源|げん}さんを{見|み}ていました。{源|げん}さんの{手|て}は{魔法|まほう}のようでした。ご{飯|はん}を{握|にぎ}りながら{魚|さかな}をのせて、あっという{間|ま}にきれいなお{寿司|すし}を{作|つく}るのです。",
+    "en": "In the ceiling of a small sushi shop in town lived a young mouse called Chu. Every day, Chu watched the owner, Gen, through a hole in the ceiling. Gen's hands were like magic. Shaping the rice while adding the fish, he made beautiful sushi in the blink of an eye."
+   },
+   {
+    "jp": "「ぼくもあんなお{寿司|すし}を{作|つく}ってみたい」。チュウは、{店|みせ}が{閉|し}まったあと、{床|ゆか}に{落|お}ちたご{飯|はん}{粒|つぶ}と{魚|さかな}の{小|ちい}さなかけらを{集|あつ}めて、{練習|れんしゅう}を{始|はじ}めました。{最初|さいしょ}はすぐに{崩|くず}れてしまいましたが、{毎晩|まいばん}{練習|れんしゅう}するうちに、だんだん{上手|じょうず}になりました。",
+    "en": "'I want to try making sushi like that too.' After the shop closed, Chu gathered grains of rice and tiny scraps of fish from the floor and started practising. At first his sushi fell apart right away, but as he practised every night, he slowly got better."
+   },
+   {
+    "jp": "ある{朝|あさ}、{源|げん}さんはカウンターの{上|うえ}に{不思議|ふしぎ}なものを{見|み}つけました。{米粒|こめつぶ}ぐらいの{大|おお}きさの、{小|ちい}さな{小|ちい}さなお{寿司|すし}が{十個|じゅっこ}、きれいに{並|なら}べてあったのです。「だれがこんなものを{作|つく}ったんだ？」。{弟子|でし}に{聞|き}いても、「{知|し}りません」と{言|い}います。",
+    "en": "One morning, Gen found something strange on the counter. Ten tiny, tiny pieces of sushi, each about the size of a grain of rice, had been neatly lined up. 'Who made these?' When he asked his apprentice, the apprentice said, 'I don't know.'"
+   },
+   {
+    "jp": "その{夜|よる}、{源|げん}さんは{電気|でんき}を{消|け}して、{隠|かく}れて{待|ま}っていました。すると、{天井|てんじょう}からチュウが{下|お}りてきて、{一生懸命|いっしょうけんめい}お{寿司|すし}を{握|にぎ}り{始|はじ}めました。{源|げん}さんは{怒|おこ}るつもりでした。でも、その{小|ちい}さな{手|て}の{動|うご}きを{見|み}て、{思|おも}わず{言|い}ってしまいました。「おまえ、なかなかいい{手|て}をしているな」",
+    "en": "That night, Gen turned off the lights and waited in hiding. Then Chu came down from the ceiling and began making sushi with all his might. Gen had meant to get angry. But when he saw how those tiny hands moved, he couldn't help saying, 'You've got pretty good hands, you know.'"
+   },
+   {
+    "jp": "{次|つぎ}の{日|ひ}から、チュウは{源|げん}さんの{二人目|ふたりめ}の{弟子|でし}になりました。{小|ちい}さなエプロンも{作|つく}ってもらいました。{今|いま}、この{店|みせ}には{特別|とくべつ}なメニューがあります。「チュウの{一粒|ひとつぶ}{寿司|ずし}」です。{目|め}を{近|ちか}づけないと{見|み}えないくらい{小|ちい}さいのに、{予約|よやく}は{三|さん}か{月|げつ}{先|さき}までいっぱいです。",
+    "en": "From the next day, Chu became Gen's second apprentice. Gen even made him a tiny apron. Now the shop has a special item on the menu: 'Chu's One-Grain Sushi'. It's so small you can't see it unless you bring your eyes close, yet it's fully booked three months ahead."
+   }
+  ],
+  "questions": [
+   {
+    "q": "チュウはどうやってお{寿司|すし}の{作|つく}り{方|かた}を{覚|おぼ}えましたか。",
+    "q_en": "How did Chu learn to make sushi?",
+    "options": [
+     "{源|げん}さんに{教|おし}えてもらった",
+     "{本|ほん}を{読|よ}んだ",
+     "{源|げん}さんを{見|み}て、{毎晩|まいばん}{練習|れんしゅう}した",
+     "{弟子|でし}に{習|なら}った"
+    ],
+    "answer": 2,
+    "why": "He watched Gen from the ceiling and practised every night."
+   },
+   {
+    "q": "チュウを{見|み}つけたとき、{源|げん}さんはどうしましたか。",
+    "q_en": "What did Gen do when he found Chu?",
+    "options": [
+     "{怒|おこ}らないで、チュウをほめた",
+     "チュウを{店|みせ}から{追|お}い{出|だ}した",
+     "{弟子|でし}を{呼|よ}んだ",
+     "{電気|でんき}をつけて{怒|おこ}った"
+    ],
+    "answer": 0,
+    "why": "He meant to be angry, but praised Chu's skill instead."
+   }
+  ]
+ },
+ {
+  "id": "s4-067",
+  "level": 4,
+  "title": "{反対|はんたい}に{回|まわ}る{時計|とけい}",
+  "title_en": "The Clock That Ran Backwards",
+  "genre_raw": "Mystery",
+  "paragraphs": [
+   {
+    "jp": "ユイは{日曜日|にちようび}のフリーマーケットで、{古|ふる}い{時計|とけい}を{買|か}いました。{店|みせ}のおじいさんは「この{時計|とけい}は{少|すこ}し{変|か}わっているよ。{大切|たいせつ}なときにだけ{使|つか}いなさい」と{言|い}いました。{家|いえ}に{帰|かえ}って{壁|かべ}にかけてみると、{針|はり}が{反対|はんたい}に{回|まわ}り{始|はじ}めました。「{壊|こわ}れているのかな」とユイは{思|おも}いました。",
+    "en": "Yui bought an old clock at a Sunday flea market. The old man at the stall said, 'This clock is a little unusual. Only use it when it really matters.' When she got home and hung it on the wall, the hands started turning backwards. 'Maybe it's broken,' Yui thought."
+   },
+   {
+    "jp": "{次|つぎ}の{日|ひ}、ユイは{学校|がっこう}で{親友|しんゆう}のアオイとけんかをしてしまいました。アオイが{大切|たいせつ}にしていたノートに、ユイがジュースをこぼしたのです。ユイは{謝|あやま}らないで、「そこに{置|お}いておいたアオイが{悪|わる}いんだよ」と{言|い}ってしまいました。アオイは{泣|な}きながら{帰|かえ}っていきました。",
+    "en": "The next day, Yui had a fight with her best friend Aoi at school. Yui had spilled juice on a notebook that Aoi treasured. Instead of apologising, Yui said, 'It's your fault for leaving it there.' Aoi went home in tears."
+   },
+   {
+    "jp": "その{夜|よる}、ユイはベッドの{中|なか}で{何度|なんど}も{考|かんが}えました。「どうしてあんなことを{言|い}ったんだろう。{今朝|けさ}に{戻|もど}れたらいいのに」。そう{言|い}いながら{時計|とけい}を{見|み}ると、{針|はり}がものすごい{速|はや}さで{回|まわ}り{始|はじ}めました。{部屋|へや}がぐるぐる{回|まわ}って、ユイは{目|め}を{閉|と}じました。",
+    "en": "That night, Yui thought about it again and again in bed. 'Why did I say that? I wish I could go back to this morning.' As she said this and looked at the clock, the hands began spinning incredibly fast. The room whirled around, and Yui closed her eyes."
+   },
+   {
+    "jp": "{目|め}を{開|あ}けると、{朝|あさ}の{教室|きょうしつ}にいました。{目|め}の{前|まえ}には、アオイとジュースとノートがあります。{同|おな}じ{朝|あさ}です！ユイは{今度|こんど}は{気|き}をつけて、ジュースをかばんにしまいました。それから、{勇気|ゆうき}を{出|だ}して{言|い}いました。「アオイ、いつもありがとう」。アオイは{不思議|ふしぎ}そうな{顔|かお}をしましたが、うれしそうに{笑|わら}いました。",
+    "en": "When she opened her eyes, she was in the classroom in the morning. In front of her were Aoi, the juice and the notebook. It was the same morning! This time Yui was careful and put the juice away in her bag. Then she gathered her courage and said, 'Aoi, thanks for always being there.' Aoi looked puzzled, but smiled happily."
+   },
+   {
+    "jp": "{家|いえ}に{帰|かえ}ると、{時計|とけい}は{普通|ふつう}に{回|まわ}っていました。それから{一度|いちど}も{反対|はんたい}に{回|まわ}ったことはありません。{次|つぎ}の{日曜日|にちようび}、お{礼|れい}を{言|い}おうと{思|おも}って、{同|おな}じフリーマーケットに{行|い}きましたが、あのおじいさんの{店|みせ}はありませんでした。{近|ちか}くの{人|ひと}に{聞|き}くと、「そんな{店|みせ}は、{一度|いちど}も{出|で}ていないよ」と{言|い}われました。",
+    "en": "When she got home, the clock was running normally. It has never run backwards again since. The next Sunday, she went to the same flea market to thank the old man, but his stall wasn't there. When she asked the people nearby, they told her, 'There's never been a stall like that here.'"
+   }
+  ],
+  "questions": [
+   {
+    "q": "ユイはどうして{今朝|けさ}に{戻|もど}りたかったのですか。",
+    "q_en": "Why did Yui want to go back to that morning?",
+    "options": [
+     "テストが{悪|わる}かったから",
+     "ジュースを{飲|の}みたかったから",
+     "アオイにひどいことを{言|い}ってしまったから",
+     "{時計|とけい}が{壊|こわ}れたから"
+    ],
+    "answer": 2,
+    "why": "She regretted blaming Aoi instead of apologising."
+   },
+   {
+    "q": "{次|つぎ}の{日曜日|にちようび}、{何|なに}が{分|わ}かりましたか。",
+    "q_en": "What did Yui find out the next Sunday?",
+    "options": [
+     "おじいさんの{店|みせ}は{一度|いちど}も{出|で}ていなかった",
+     "おじいさんが{時計|とけい}を{返|かえ}してほしがった",
+     "フリーマーケットがなくなった",
+     "アオイが{時計|とけい}を{買|か}った"
+    ],
+    "answer": 0,
+    "why": "People said the old man's stall had never been there."
+   }
+  ]
+ },
+ {
+  "id": "s4-068",
+  "level": 4,
+  "title": "{湖|みずうみ}に{落|お}ちた{星|ほし}",
+  "title_en": "The Star That Fell into the Lake",
+  "genre_raw": "Folk tale",
+  "paragraphs": [
+   {
+    "jp": "ある{夏|なつ}の{夜|よる}、{小|ちい}さな{星|ほし}が{空|そら}から{落|お}ちて、{山|やま}の{湖|みずうみ}にぽちゃんと{入|はい}ってしまいました。{湖|みずうみ}の{底|そこ}で、{星|ほし}はぼんやり{光|ひか}りながら{泣|な}いていました。「{空|そら}に{帰|かえ}りたい。{友|とも}だちに{会|あ}いたいよ」",
+    "en": "One summer night, a little star fell from the sky and dropped with a plop into a mountain lake. At the bottom of the lake, the star cried as it glowed faintly. 'I want to go back to the sky. I want to see my friends.'"
+   },
+   {
+    "jp": "{湖|みずうみ}に{住|す}んでいる{魚|さかな}たちやカエルが{集|あつ}まってきて、{星|ほし}を{助|たす}けようとしました。{魚|さかな}たちは{星|ほし}を{背中|せなか}にのせて{泳|およ}ぎ、カエルは{星|ほし}を{上|うえ}に{投|な}げてみました。でも、{何度|なんど}{投|な}げても、{星|ほし}はすぐ{水|みず}の{中|なか}に{落|お}ちてしまいます。{空|そら}は{遠|とお}すぎたのです。",
+    "en": "The fish and frogs who lived in the lake gathered and tried to help the star. The fish carried it on their backs as they swam, and the frog tried throwing it upward. But no matter how many times he threw it, the star fell straight back into the water. The sky was just too far away."
+   },
+   {
+    "jp": "{星|ほし}は{毎晩|まいばん}{寂|さび}しそうに{空|そら}を{見上|みあ}げていました。{光|ひかり}もだんだん{弱|よわ}くなっていきました。それを{見|み}て、{年|とし}を{取|と}ったカメが{言|い}いました。「{泣|な}くのはやめて、{風|かぜ}のない{夜|よる}に{水|みず}の{上|うえ}を{見|み}てごらん」",
+    "en": "Every night the star looked up at the sky sadly. Its light grew weaker and weaker. Seeing this, an old turtle said, 'Stop crying, and look at the surface of the water on a night with no wind.'"
+   },
+   {
+    "jp": "{数日後|すうじつご}、{風|かぜ}のない{夜|よる}が{来|き}て、{湖|みずうみ}は{鏡|かがみ}のように{静|しず}かになりました。{星|ほし}が{水|みず}の{上|うえ}を{見|み}ると、そこにはたくさんの{星|ほし}が{光|ひか}っていました。{空|そら}の{友|とも}だちが、{湖|みずうみ}に{映|うつ}っていたのです。「やあ、こんなところにいたのか！」{友|とも}だちの{声|こえ}が{聞|き}こえるような{気|き}がしました。",
+    "en": "A few days later, a windless night came and the lake became as still as a mirror. When the star looked at the surface, many stars were shining there. Its friends in the sky were reflected in the lake. 'Hey, so this is where you were!' The star felt as if it could hear its friends' voices."
+   },
+   {
+    "jp": "それから、{星|ほし}はもう{泣|な}かなくなりました。{晴|は}れた{夜|よる}には、{友|とも}だちがみんな{湖|みずうみ}まで{会|あ}いに{来|き}てくれるからです。{今|いま}、{村|むら}の{人|ひと}たちはその{湖|みずうみ}を「{星|ほし}の{湖|みずうみ}」と{呼|よ}んでいます。{夜|よる}に{行|い}くと、{湖|みずうみ}の{中|なか}には{空|そら}より{一|ひと}つだけ{多|おお}く、{星|ほし}が{光|ひか}っているそうです。",
+    "en": "After that, the star never cried again, because on clear nights all its friends came down to the lake to visit. Now the villagers call it 'Star Lake'. They say that if you go there at night, there is exactly one more star shining in the lake than in the sky."
+   }
+  ],
+  "questions": [
+   {
+    "q": "カメは{星|ほし}に{何|なに}をするように{言|い}いましたか。",
+    "q_en": "What did the turtle tell the star to do?",
+    "options": [
+     "もっと{高|たか}く{跳|と}ぶこと",
+     "{魚|さかな}の{背中|せなか}に{乗|の}ること",
+     "{村|むら}の{人|ひと}に{助|たす}けてもらうこと",
+     "{風|かぜ}のない{夜|よる}に{水|みず}の{上|うえ}を{見|み}ること"
+    ],
+    "answer": 3,
+    "why": "On a still night, the lake reflects the sky and its friends."
+   },
+   {
+    "q": "どうして{湖|みずうみ}の{中|なか}の{星|ほし}は{空|そら}より{一|ひと}つ{多|おお}いのですか。",
+    "q_en": "Why are there one more stars in the lake than in the sky?",
+    "options": [
+     "カメが{星|ほし}を{作|つく}ったから",
+     "{落|お}ちた{星|ほし}が{湖|みずうみ}の{中|なか}にいるから",
+     "{村|むら}の{人|ひと}が{明|あか}かりをつけたから",
+     "{空|そら}の{星|ほし}が{一|ひと}つ{消|き}えたから"
+    ],
+    "answer": 1,
+    "why": "The fallen star lives in the lake along with the reflections."
+   }
+  ]
+ },
+ {
+  "id": "s4-069",
+  "level": 4,
+  "title": "ウサギとカメ、もう{一度|いちど}",
+  "title_en": "The Rabbit and the Turtle: The Rematch",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "{昔|むかし}、ウサギはカメとの{競争|きょうそう}で{負|ま}けてしまいました。{途中|とちゅう}で{寝|ね}てしまったからです。それから{何年|なんねん}も、ウサギは{森|もり}のみんなに{笑|わら}われていました。ある{日|ひ}、ウサギはカメの{家|いえ}に{来|き}て{言|い}いました。「もう{一度|いちど}{競争|きょうそう}しよう。{今度|こんど}は{絶対|ぜったい}に{寝|ね}ないぞ」",
+    "en": "Long ago, the rabbit lost a race against the turtle, because he fell asleep halfway. For years after that, everyone in the forest laughed at him. One day, the rabbit came to the turtle's house and said, 'Let's race again. This time I definitely won't sleep.'"
+   },
+   {
+    "jp": "カメは{少|すこ}し{考|かんが}えてから、{答|こた}えました。「いいよ。でも、{今度|こんど}はぼくがコースを{決|き}めてもいいかな」。ウサギは「どこでもいいよ。ぼくが{勝|か}つに{決|き}まっているから」と{笑|わら}いました。",
+    "en": "The turtle thought for a moment, then answered, 'All right. But can I choose the course this time?' The rabbit laughed, 'Anywhere you like. I'm sure to win anyway.'"
+   },
+   {
+    "jp": "{競争|きょうそう}の{日|ひ}、スタートの{合図|あいず}で、ウサギは{風|かぜ}のように{走|はし}り{出|だ}しました。ところが、すぐに{止|と}まってしまいました。{目|め}の{前|まえ}に、{大|おお}きな{川|かわ}が{流|なが}れていたのです。カメが{選|えら}んだのは、{川|かわ}を{渡|わた}って{向|む}こうの{岸|きし}まで{行|い}くコースでした。ウサギは{泳|およ}げません。カメはゆっくり{水|みず}に{入|はい}って、すいすい{泳|およ}いでいきました。",
+    "en": "On race day, at the starting signal, the rabbit dashed off like the wind. But he soon had to stop. Right in front of him flowed a big river. The course the turtle had chosen went across the river to the far bank. The rabbit couldn't swim. The turtle slowly entered the water and swam smoothly away."
+   },
+   {
+    "jp": "「ずるいよ！」とウサギは{怒|おこ}りました。カメは{向|む}こうの{岸|きし}から{答|こた}えました。「ずるくないよ。{君|きみ}は{陸|りく}が{得意|とくい}で、ぼくは{水|みず}が{得意|とくい}なだけさ。じゃあ、{次|つぎ}は{二人|ふたり}で{出|で}ようよ。{来月|らいげつ}、{森|もり}のリレー{大会|たいかい}があるんだ」",
+    "en": "'That's not fair!' the rabbit shouted angrily. The turtle answered from the far bank, 'It's not unfair. You're good on land, and I'm good in water, that's all. So next time, let's enter together. There's a forest relay race next month.'"
+   },
+   {
+    "jp": "リレー{大会|たいかい}の{日|ひ}、{森|もり}のみんなは{驚|おどろ}きました。{陸|りく}ではウサギがカメを{背中|せなか}にのせて{走|はし}り、{川|かわ}ではカメがウサギを{甲羅|こうら}にのせて{泳|およ}いだのです。{二人|ふたり}は{足|あし}の{速|はや}いキツネのチームにも{勝|か}って、{一位|いちい}になりました。ウサギはもう{笑|わら}われていません。{今|いま}は「カメの{一番|いちばん}の{友|とも}だち」と{呼|よ}ばれています。",
+    "en": "On the day of the relay, everyone in the forest was amazed. On land, the rabbit ran with the turtle on his back, and in the river, the turtle swam with the rabbit on his shell. The two of them even beat the speedy fox team and came first. Nobody laughs at the rabbit any more. Now he is called 'the turtle's best friend'."
+   }
+  ],
+  "questions": [
+   {
+    "q": "どうしてウサギはすぐに{止|と}まってしまったのですか。",
+    "q_en": "Why did the rabbit stop so soon?",
+    "options": [
+     "また{寝|ね}てしまったから",
+     "{足|あし}が{痛|いた}くなったから",
+     "{川|かわ}があって、{泳|およ}げなかったから",
+     "カメを{待|ま}っていたから"
+    ],
+    "answer": 2,
+    "why": "The turtle's course crossed a river, and rabbits can't swim."
+   },
+   {
+    "q": "リレー{大会|たいかい}で、{二人|ふたり}はどうやって{勝|か}ちましたか。",
+    "q_en": "How did the two win the relay?",
+    "options": [
+     "キツネのチームが{休|やす}んだから",
+     "{得意|とくい}なところで{相手|あいて}を{運|はこ}んで{助|たす}け{合|あ}った",
+     "ウサギが{一人|ひとり}で{全部|ぜんぶ}{走|はし}った",
+     "カメが{近|ちか}い{道|みち}を{見|み}つけた"
+    ],
+    "answer": 1,
+    "why": "The rabbit carried the turtle on land and the turtle carried the rabbit in water."
+   }
+  ]
+ },
+ {
+  "id": "s4-070",
+  "level": 4,
+  "title": "{鳥|とり}が{好|す}きなかかし",
+  "title_en": "The Scarecrow Who Loved Birds",
+  "genre_raw": "Nature",
+  "paragraphs": [
+   {
+    "jp": "{田|た}んぼの{真|ま}ん{中|なか}に、かかしのヘノヘノが{立|た}っていました。ヘノヘノの{仕事|しごと}は、スズメを{怖|こわ}がらせて、お{米|こめ}を{守|まも}ることです。でも、ヘノヘノには{秘密|ひみつ}がありました。{本当|ほんとう}は、{鳥|とり}が{大好|だいす}きだったのです。{朝|あさ}、スズメたちの{歌|うた}を{聞|き}くのが、{一日|いちにち}で{一番|いちばん}{楽|たの}しい{時間|じかん}でした。",
+    "en": "In the middle of a rice field stood a scarecrow named Henoheno. His job was to scare the sparrows and protect the rice. But Henoheno had a secret. Actually, he loved birds. Listening to the sparrows sing in the morning was the happiest time of his day."
+   },
+   {
+    "jp": "ある{朝|あさ}、{小|ちい}さなスズメがヘノヘノの{肩|かた}にとまりました。「あなた、{怖|こわ}くないね。ここで{休|やす}んでもいい？」。ヘノヘノは{動|うご}けないし、{話|はな}せません。でも、{心|こころ}の{中|なか}で「どうぞ」と{言|い}いました。それから、スズメたちは{毎日|まいにち}ヘノヘノの{帽子|ぼうし}や{腕|うで}にとまって、{歌|うた}うようになりました。",
+    "en": "One morning, a little sparrow landed on Henoheno's shoulder. 'You're not scary at all. Can I rest here?' Henoheno couldn't move or speak. But in his heart he said, 'Please do.' After that, the sparrows started perching on his hat and arms every day and singing."
+   },
+   {
+    "jp": "{農家|のうか}の{佐藤|さとう}さんは{困|こま}りました。「かかしに{鳥|とり}がとまっているなんて、{聞|き}いたことがない。これではお{米|こめ}を{全部|ぜんぶ}{食|た}べられてしまうぞ」。{佐藤|さとう}さんは、{秋|あき}になったら{新|あたら}しいかかしに{換|か}えようと{決|き}めました。ヘノヘノは{悲|かな}しくなりましたが、スズメたちに「{来|こ}ないで」と{言|い}うことはできませんでした。",
+    "en": "Mr Sato, the farmer, was troubled. 'I've never heard of birds sitting on a scarecrow. At this rate they'll eat all my rice.' He decided to replace Henoheno with a new scarecrow when autumn came. Henoheno was sad, but he couldn't tell the sparrows to stay away."
+   },
+   {
+    "jp": "ところが、{秋|あき}になると、{不思議|ふしぎ}なことが{起|お}きました。{佐藤|さとう}さんの{田|た}んぼで、{村|むら}で{一番|いちばん}たくさんお{米|こめ}が{取|と}れたのです。{隣|となり}の{田|た}んぼは{虫|むし}にたくさん{食|た}べられていたのに、{佐藤|さとう}さんの{田|た}んぼには{虫|むし}がほとんどいませんでした。{夏|なつ}の{間|あいだ}、スズメたちが{毎日|まいにち}{虫|むし}を{食|た}べていたからです。",
+    "en": "But when autumn came, something strange happened. Mr Sato's field produced more rice than any other in the village. The neighbouring fields had been badly eaten by insects, but there were hardly any in his. All summer long, the sparrows had been eating the insects every day."
+   },
+   {
+    "jp": "{佐藤|さとう}さんは{頭|あたま}をかいて{笑|わら}いました。そして、ヘノヘノを{換|か}えるのをやめて、{代|か}わりに{帽子|ぼうし}の{上|うえ}に{小|ちい}さな{鳥|とり}の{家|いえ}を{作|つく}ってあげました。{今|いま}、ヘノヘノは{村|むら}で{一番|いちばん}{有名|ゆうめい}なかかしです。でも、ヘノヘノを{怖|こわ}がっている{鳥|とり}は、{一羽|いちわ}もいません。",
+    "en": "Mr Sato scratched his head and laughed. He gave up on replacing Henoheno and instead built a little birdhouse on top of his hat. Now Henoheno is the most famous scarecrow in the village. But not a single bird is afraid of him."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{佐藤|さとう}さんは{最初|さいしょ}、{何|なに}をしようと{決|き}めましたか。",
+    "q_en": "What did Mr Sato first decide to do?",
+    "options": [
+     "{秋|あき}に{新|あたら}しいかかしに{換|か}える",
+     "スズメにえさをあげる",
+     "{田|た}んぼをやめる",
+     "{鳥|とり}の{家|いえ}を{作|つく}る"
+    ],
+    "answer": 0,
+    "why": "He thought the birds would eat his rice, so he planned to replace the scarecrow."
+   },
+   {
+    "q": "どうして{佐藤|さとう}さんの{田|た}んぼでお{米|こめ}がたくさん{取|と}れたのですか。",
+    "q_en": "Why did Mr Sato's field produce so much rice?",
+    "options": [
+     "{新|あたら}しいかかしがよかったから",
+     "{雨|あめ}がたくさん{降|ふ}ったから",
+     "{隣|となり}の{人|ひと}が{手伝|てつだ}ったから",
+     "スズメが{虫|むし}を{食|た}べてくれたから"
+    ],
+    "answer": 3,
+    "why": "The sparrows ate the insects that would have damaged the rice."
+   }
+  ]
+ },
+ {
+  "id": "s4-071",
+  "level": 4,
+  "title": "{山|やま}の{小|ちい}さな{電車|でんしゃ}",
+  "title_en": "The Little Mountain Train",
+  "genre_raw": "Adventure",
+  "paragraphs": [
+   {
+    "jp": "{山|やま}の{村|むら}と{町|まち}の{間|あいだ}を、{小|ちい}さな{赤|あか}い{電車|でんしゃ}が{走|はし}っていました。{名前|なまえ}はコトコです。コトコは{五十年|ごじゅうねん}の{間|あいだ}、{毎日|まいにち}{学生|がくせい}やお{年寄|としよ}りを{乗|の}せて、{山|やま}の{坂|さか}をことことと{上|のぼ}ってきました。",
+    "en": "A little red train ran between a mountain village and the town. Her name was Kotoko. For fifty years, Kotoko had carried students and old people every day, rattling her way up the mountain slopes."
+   },
+   {
+    "jp": "でも、{最近|さいきん}は{乗|の}る{人|ひと}がとても{少|すく}なくなりました。ある{日|ひ}、{駅長|えきちょう}さんが{寂|さび}しそうに{言|い}いました。「コトコ、{来月|らいげつ}からこの{線|せん}はバスに{変|か}わることになったんだ。{今月|こんげつ}で{最後|さいご}だよ」。コトコは{何|なに}も{言|い}えませんでした。{古|ふる}い{電車|でんしゃ}は、もういらないのかもしれません。",
+    "en": "But recently, very few people had been riding her. One day, the stationmaster said sadly, 'Kotoko, it's been decided that from next month this line will be replaced by a bus. This month is your last.' Kotoko couldn't say anything. Maybe nobody needed an old train any more."
+   },
+   {
+    "jp": "{最後|さいご}の{日|ひ}の{前|まえ}の{夜|よる}、{大雪|おおゆき}が{降|ふ}りました。{次|つぎ}の{朝|あさ}、{道|みち}は{雪|ゆき}で{埋|う}まって、{新|あたら}しいバスは{山|やま}を{上|のぼ}ることができませんでした。{村|むら}には{高|たか}い{熱|ねつ}を{出|だ}した{子|こ}どもがいて、すぐに{町|まち}の{病院|びょういん}へ{行|い}かなければなりません。「コトコなら、{行|い}けるかもしれない」と{駅長|えきちょう}さんが{言|い}いました。",
+    "en": "On the night before her last day, there was heavy snow. The next morning the roads were buried, and the new bus couldn't get up the mountain. In the village there was a child with a high fever who had to get to the hospital in town right away. 'Kotoko might be able to make it,' said the stationmaster."
+   },
+   {
+    "jp": "コトコは{雪|ゆき}の{中|なか}を{一生懸命|いっしょうけんめい}{走|はし}りました。{線路|せんろ}の{上|うえ}の{雪|ゆき}を{押|お}しながら、ゆっくり、でも{一度|いちど}も{止|と}まらずに{進|すす}みました。そして、{子|こ}どもとお{母|かあ}さんを{無事|ぶじ}に{町|まち}まで{運|はこ}んだのです。",
+    "en": "Kotoko ran through the snow with all her strength. Pushing the snow off the tracks, she moved forward slowly, but without stopping even once. And she carried the child and the mother safely to town."
+   },
+   {
+    "jp": "このニュースは、テレビで{全国|ぜんこく}に{紹介|しょうかい}されました。すると、「あの{赤|あか}い{電車|でんしゃ}に{乗|の}ってみたい」という{人|ひと}が、{日本中|にほんじゅう}から{来|く}るようになりました。バスの{話|はなし}はなくなって、コトコは{今|いま}も{毎日|まいにち}{走|はし}っています。{乗|の}る{人|ひと}が{多|おお}すぎて、{坂|さか}を{上|のぼ}るのが{少|すこ}し{大変|たいへん}になったことだけが、コトコの{新|あたら}しい{悩|なや}みです。",
+    "en": "This news was shown on TV all over the country. Then people who wanted to ride 'that red train' started coming from all over Japan. The bus plan was dropped, and Kotoko still runs every day. Her only new worry is that so many people ride her now that climbing the slopes has become a bit hard."
+   }
+  ],
+  "questions": [
+   {
+    "q": "どうしてコトコは{今月|こんげつ}で{最後|さいご}になるはずでしたか。",
+    "q_en": "Why was this month supposed to be Kotoko's last?",
+    "options": [
+     "{乗|の}る{人|ひと}が{少|すく}なくなったから",
+     "{雪|ゆき}で{壊|こわ}れたから",
+     "{駅長|えきちょう}さんがやめたから",
+     "{線路|せんろ}がなくなったから"
+    ],
+    "answer": 0,
+    "why": "Too few people rode the train, so it was going to be replaced by a bus."
+   },
+   {
+    "q": "{大雪|おおゆき}の{朝|あさ}、コトコは{何|なに}をしましたか。",
+    "q_en": "What did Kotoko do on the snowy morning?",
+    "options": [
+     "バスを{引|ひ}っ{張|ぱ}った",
+     "{駅|えき}で{休|やす}んでいた",
+     "{病気|びょうき}の{子|こ}どもを{町|まち}まで{運|はこ}んだ",
+     "テレビに{出|で}た"
+    ],
+    "answer": 2,
+    "why": "She carried the sick child and mother safely to the hospital town."
+   }
+  ]
+ },
+ {
+  "id": "s4-072",
+  "level": 4,
+  "title": "{月|つき}のウサギのお{休|やす}み",
+  "title_en": "The Moon Rabbit's Holiday",
+  "genre_raw": "Folk tale",
+  "paragraphs": [
+   {
+    "jp": "{月|つき}には、{一匹|いっぴき}のウサギが{住|す}んでいます。ウサギは{毎晩|まいばん}、{大|おお}きな{臼|うす}でお{餅|もち}をついています。{千年|せんねん}も{同|おな}じ{仕事|しごと}を{続|つづ}けてきたので、ウサギはすっかり{疲|つか}れてしまいました。「たまには{休|やす}みたいなあ。{一度|いちど}、{地球|ちきゅう}に{行|い}ってみよう」",
+    "en": "A rabbit lives on the moon. Every night, the rabbit pounds rice cakes in a big mortar. After doing the same job for a thousand years, the rabbit was completely worn out. 'I'd like a break once in a while. I think I'll try going to Earth.'"
+   },
+   {
+    "jp": "ウサギは{雲|くも}に{乗|の}って、{日本|にほん}の{小|ちい}さな{町|まち}に{下|お}りました。{最初|さいしょ}に{温泉|おんせん}に{入|はい}って、それから{町|まち}を{散歩|さんぽ}しました。すると、{古|ふる}いお{餅屋|もちや}さんから、いいにおいがしてきました。{中|なか}に{入|はい}ると、おばあさんが{一人|ひとり}でお{餅|もち}を{作|つく}っていました。",
+    "en": "The rabbit rode a cloud down to a small town in Japan. First it soaked in a hot spring, and then it took a walk around town. Then a lovely smell came drifting from an old rice cake shop. Inside, an old woman was making rice cakes all by herself."
+   },
+   {
+    "jp": "おばあさんのお{餅|もち}を{一口|ひとくち}{食|た}べて、ウサギは{驚|おどろ}きました。{自分|じぶん}のお{餅|もち}より、ずっとやわらかくて{甘|あま}いのです。「どうしたら、こんなにおいしく{作|つく}れるんですか」と{聞|き}くと、おばあさんは{笑|わら}って{答|こた}えました。「{秘密|ひみつ}はね、{食|た}べる{人|ひと}の{顔|かお}を{思|おも}い{浮|う}かべながら{作|つく}ることよ。わたしは{毎晩|まいばん}{月|つき}を{見|み}て、{月|つき}のウサギさんも{今|いま}がんばっているかなと{思|おも}いながら、お{餅|もち}をつくの」",
+    "en": "The rabbit took a bite of her rice cake and was amazed. It was much softer and sweeter than its own. 'How do you make them so delicious?' it asked. The old woman smiled and answered, 'The secret is to picture the face of the person who'll eat it while you make it. Every night I look at the moon and pound my rice cakes thinking, I wonder if the moon rabbit is working hard right now too.'"
+   },
+   {
+    "jp": "ウサギは{何|なに}も{言|い}えなくなりました。{千年|せんねん}の{間|あいだ}、ただの{仕事|しごと}だと{思|おも}って、お{餅|もち}をついていたからです。だれのために{作|つく}るのか、{考|かんが}えたこともありませんでした。でも、{地球|ちきゅう}には、{自分|じぶん}のことを{思|おも}ってくれる{人|ひと}がいたのです。",
+    "en": "The rabbit was lost for words. For a thousand years it had pounded rice cakes thinking of it as just a job. It had never even thought about who it was making them for. But here on Earth, there was someone who thought about it."
+   },
+   {
+    "jp": "ウサギは{休|やす}みを{一日|いちにち}{早|はや}く{終|お}わらせて、{月|つき}に{帰|かえ}りました。そして、その{夜|よる}から、おばあさんの{顔|かお}を{思|おも}い{浮|う}かべながら、お{餅|もち}をつくようになりました。{今|いま}では{毎年|まいとし}{十五夜|じゅうごや}の{朝|あさ}になると、おばあさんの{店|みせ}の{前|まえ}に、{白|しろ}くて{丸|まる}いお{餅|もち}が{一|ひと}つ{置|お}いてあるそうです。",
+    "en": "The rabbit ended its holiday a day early and went back to the moon. From that night on, it pounded its rice cakes while picturing the old woman's face. And now, they say, every year on the morning after the harvest moon, a single round white rice cake is left in front of the old woman's shop."
+   }
+  ],
+  "questions": [
+   {
+    "q": "おばあさんのお{餅|もち}がおいしい{秘密|ひみつ}は{何|なん}ですか。",
+    "q_en": "What is the secret of the old woman's delicious rice cakes?",
+    "options": [
+     "{特別|とくべつ}な{砂糖|さとう}を{使|つか}うこと",
+     "{月|つき}の{米|こめ}を{使|つか}うこと",
+     "{夜|よる}{遅|おそ}く{作|つく}ること",
+     "{食|た}べる{人|ひと}の{顔|かお}を{思|おも}い{浮|う}かべながら{作|つく}ること"
+    ],
+    "answer": 3,
+    "why": "She thinks of the person who will eat them while she makes them."
+   },
+   {
+    "q": "ウサギは{月|つき}に{帰|かえ}ってから、どう{変|か}わりましたか。",
+    "q_en": "How did the rabbit change after returning to the moon?",
+    "options": [
+     "お{餅|もち}を{作|つく}るのをやめた",
+     "おばあさんのことを{思|おも}いながらお{餅|もち}をつくようになった",
+     "{毎年|まいとし}{地球|ちきゅう}で{休|やす}むようになった",
+     "お{餅屋|もちや}さんで{働|はたら}き{始|はじ}めた"
+    ],
+    "answer": 1,
+    "why": "It began pounding rice cakes while picturing the old woman's face."
+   }
+  ]
+ }
+]

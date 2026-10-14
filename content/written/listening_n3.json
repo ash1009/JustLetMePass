@@ -1,0 +1,602 @@
+[
+ {
+  "id": "l3-01",
+  "level": 3,
+  "title_raw": "Preparing for the meeting",
+  "kind": "task",
+  "setup": "{会社|かいしゃ}で{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はこのあとまず{何|なに}をしますか。",
+  "lines": [
+   {
+    "s": "F",
+    "jp": "{山田|やまだ}さん、{午後|ごご}の{会議|かいぎ}の{準備|じゅんび}、お{願|ねが}いできますか。"
+   },
+   {
+    "s": "M",
+    "jp": "はい。{資料|しりょう}のコピーですね。{何部|なんぶ}ですか。"
+   },
+   {
+    "s": "F",
+    "jp": "コピーはもう{私|わたし}がしました。{会議室|かいぎしつ}のプロジェクターが{壊|こわ}れているみたいなので、{先|さき}に{総務|そうむ}に{連絡|れんらく}してもらえますか。"
+   },
+   {
+    "s": "M",
+    "jp": "わかりました。お{茶|ちゃ}の{用意|ようい}はどうしますか。"
+   },
+   {
+    "s": "F",
+    "jp": "それは{会議|かいぎ}が{始|はじ}まる{直前|ちょくぜん}でいいです。"
+   }
+  ],
+  "question": "{男|おとこ}の{人|ひと}はこのあとまず{何|なに}をしますか。",
+  "q_en": "What will the man do first?",
+  "options": [
+   "{資料|しりょう}をコピーする",
+   "{総務|そうむ}に{連絡|れんらく}する",
+   "お{茶|ちゃ}を{用意|ようい}する",
+   "プロジェクターを{直|なお}す"
+  ],
+  "answer": 1,
+  "en": "F: Mr. Yamada, could you prepare for the afternoon meeting?\nM: Yes. Copies of the materials, right? How many?\nF: I already made the copies. The projector in the meeting room seems broken, so could you contact General Affairs first?\nM: Understood. What about preparing tea?\nF: That can be just before the meeting starts.",
+  "why": "The copies are done, and she asks him to contact General Affairs first."
+ },
+ {
+  "id": "l3-02",
+  "level": 3,
+  "title_raw": "Shopping for a party",
+  "kind": "task",
+  "setup": "{家|いえ}で{夫|おっと}と{妻|つま}が{話|はな}しています。{夫|おっと}は{何|なに}を{買|か}いに{行|い}きますか。",
+  "lines": [
+   {
+    "s": "F",
+    "jp": "{明日|あした}のパーティー、{飲|の}み{物|もの}は{足|た}りるかな。"
+   },
+   {
+    "s": "M",
+    "jp": "ジュースはたくさんあるよ。ビールも{昨日|きのう}{買|か}ったし。"
+   },
+   {
+    "s": "F",
+    "jp": "じゃあ、{紙|かみ}のお{皿|さら}は？"
+   },
+   {
+    "s": "M",
+    "jp": "あ、それがなかった。{今|いま}から{買|か}ってくるよ。{氷|こおり}もいる？"
+   },
+   {
+    "s": "F",
+    "jp": "{氷|こおり}は{明日|あした}の{朝|あさ}でいいよ。{今日|きょう}{買|か}うと{溶|と}けちゃうから。"
+   }
+  ],
+  "question": "{夫|おっと}は{今|いま}から{何|なに}を{買|か}いに{行|い}きますか。",
+  "q_en": "What will the husband go to buy now?",
+  "options": [
+   "ジュース",
+   "ビール",
+   "{氷|こおり}",
+   "{紙|かみ}のお{皿|さら}"
+  ],
+  "answer": 3,
+  "en": "F: I wonder if we have enough drinks for tomorrow's party.\nM: We have lots of juice. I bought beer yesterday too.\nF: Then what about paper plates?\nM: Oh, we don't have those. I'll go buy them now. Do we need ice too?\nF: Ice can wait until tomorrow morning. If you buy it today, it will melt.",
+  "why": "They have no paper plates, and ice will be bought tomorrow."
+ },
+ {
+  "id": "l3-03",
+  "level": 3,
+  "title_raw": "Hospital reception",
+  "kind": "task",
+  "setup": "{病院|びょういん}の{受付|うけつけ}で{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はこのあと{何|なに}をしますか。",
+  "lines": [
+   {
+    "s": "M",
+    "jp": "すみません、{初|はじ}めてなんですが。"
+   },
+   {
+    "s": "F",
+    "jp": "では、{保険証|ほけんしょう}を{見|み}せていただけますか。"
+   },
+   {
+    "s": "M",
+    "jp": "はい、どうぞ。"
+   },
+   {
+    "s": "F",
+    "jp": "ありがとうございます。それから、こちらの{紙|かみ}に{今日|きょう}の{症状|しょうじょう}を{書|か}いてください。{書|か}き{終|お}わったら、{熱|ねつ}を{測|はか}ってお{待|ま}ちください。"
+   },
+   {
+    "s": "M",
+    "jp": "わかりました。"
+   }
+  ],
+  "question": "{男|おとこ}の{人|ひと}はこのあとまず{何|なに}をしますか。",
+  "q_en": "What will the man do first after this?",
+  "options": [
+   "{紙|かみ}に{症状|しょうじょう}を{書|か}く",
+   "{保険証|ほけんしょう}を{見|み}せる",
+   "{熱|ねつ}を{測|はか}る",
+   "{医者|いしゃ}に{会|あ}う"
+  ],
+  "answer": 0,
+  "en": "M: Excuse me, this is my first time here.\nF: Then may I see your health insurance card?\nM: Yes, here you are.\nF: Thank you. Next, please write today's symptoms on this paper. When you finish, take your temperature and wait.\nM: Understood.",
+  "why": "He already showed the card; next he writes his symptoms, then takes his temperature."
+ },
+ {
+  "id": "l3-04",
+  "level": 3,
+  "title_raw": "Club sign-up",
+  "kind": "task",
+  "setup": "{大学|だいがく}で{男|おとこ}の{学生|がくせい}と{女|おんな}の{学生|がくせい}が{話|はな}しています。{女|おんな}の{学生|がくせい}は{何|なに}を{持|も}っていかなければなりませんか。",
+  "lines": [
+   {
+    "s": "F",
+    "jp": "テニス{部|ぶ}に{入|はい}りたいんだけど、{何|なに}が{必要|ひつよう}？"
+   },
+   {
+    "s": "M",
+    "jp": "{申込書|もうしこみしょ}と{写真|しゃしん}{一枚|いちまい}だよ。ラケットは{部|ぶ}のを{借|か}りられるから、{買|か}わなくても{大丈夫|だいじょうぶ}。"
+   },
+   {
+    "s": "F",
+    "jp": "{申込書|もうしこみしょ}はもう{書|か}いたよ。{会費|かいひ}は？"
+   },
+   {
+    "s": "M",
+    "jp": "{会費|かいひ}は{来月|らいげつ}{集|あつ}めるから、まだいいよ。"
+   },
+   {
+    "s": "F",
+    "jp": "じゃあ、{写真|しゃしん}を{撮|と}ってから{持|も}っていくね。"
+   }
+  ],
+  "question": "{女|おんな}の{学生|がくせい}は{何|なに}を{持|も}っていきますか。",
+  "q_en": "What will the female student bring?",
+  "options": [
+   "{申込書|もうしこみしょ}だけ",
+   "{申込書|もうしこみしょ}と{写真|しゃしん}",
+   "{写真|しゃしん}とラケット",
+   "{申込書|もうしこみしょ}と{会費|かいひ}"
+  ],
+  "answer": 1,
+  "en": "F: I want to join the tennis club. What do I need?\nM: The application form and one photo. You can borrow the club's rackets, so you don't need to buy one.\nF: I already filled in the form. What about the fee?\nM: We collect the fee next month, so not yet.\nF: Then I'll take a photo and bring them.",
+  "why": "She needs the application form and one photo; rackets are lent and the fee is next month."
+ },
+ {
+  "id": "l3-05",
+  "level": 3,
+  "title_raw": "Why she was late",
+  "kind": "point",
+  "setup": "{会社|かいしゃ}で{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}はどうして{遅|おく}れましたか。",
+  "lines": [
+   {
+    "s": "M",
+    "jp": "{今朝|けさ}は{遅|おそ}かったね。{電車|でんしゃ}が{止|と}まったの？"
+   },
+   {
+    "s": "F",
+    "jp": "ううん、{電車|でんしゃ}は{大丈夫|だいじょうぶ}だったんだけど、{家|いえ}を{出|で}るときに{鍵|かぎ}が{見|み}つからなくて。"
+   },
+   {
+    "s": "M",
+    "jp": "ああ、それは{困|こま}るね。"
+   },
+   {
+    "s": "F",
+    "jp": "{結局|けっきょく}、{昨日|きのう}{着|き}たコートのポケットに{入|はい}ってたの。{三十分|さんじゅっぷん}も{探|さが}しちゃった。"
+   }
+  ],
+  "question": "{女|おんな}の{人|ひと}はどうして{遅|おく}れましたか。",
+  "q_en": "Why was the woman late?",
+  "options": [
+   "{電車|でんしゃ}が{止|と}まったから",
+   "{寝坊|ねぼう}したから",
+   "{鍵|かぎ}を{探|さが}していたから",
+   "コートを{忘|わす}れたから"
+  ],
+  "answer": 2,
+  "en": "M: You were late this morning. Did the train stop?\nF: No, the train was fine, but when I was leaving home I couldn't find my key.\nM: Ah, that's a problem.\nF: In the end it was in the pocket of the coat I wore yesterday. I spent thirty minutes looking for it.",
+  "why": "She spent thirty minutes looking for her key."
+ },
+ {
+  "id": "l3-06",
+  "level": 3,
+  "title_raw": "Choosing an apartment",
+  "kind": "point",
+  "setup": "{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}がこの{部屋|へや}に{決|き}めた{一番|いちばん}の{理由|りゆう}は{何|なん}ですか。",
+  "lines": [
+   {
+    "s": "F",
+    "jp": "{新|あたら}しい{部屋|へや}、{決|き}まったんだって？"
+   },
+   {
+    "s": "M",
+    "jp": "うん。{駅|えき}からはちょっと{遠|とお}いし、{部屋|へや}も{広|ひろ}くないんだけどね。"
+   },
+   {
+    "s": "F",
+    "jp": "{家賃|やちん}が{安|やす}いの？"
+   },
+   {
+    "s": "M",
+    "jp": "いや、{普通|ふつう}だよ。でも、{窓|まど}から{山|やま}が{見|み}えるんだ。{朝|あさ}、その{景色|けしき}を{見|み}たら、ここしかないと{思|おも}って。"
+   }
+  ],
+  "question": "{男|おとこ}の{人|ひと}がこの{部屋|へや}に{決|き}めた{一番|いちばん}の{理由|りゆう}は{何|なん}ですか。",
+  "q_en": "What is the main reason the man chose this room?",
+  "options": [
+   "{駅|えき}から{近|ちか}いから",
+   "{窓|まど}からの{景色|けしき}がいいから",
+   "{家賃|やちん}が{安|やす}いから",
+   "{部屋|へや}が{広|ひろ}いから"
+  ],
+  "answer": 1,
+  "en": "F: I heard you decided on a new room?\nM: Yes. It's a bit far from the station, and the room isn't big.\nF: Is the rent cheap?\nM: No, it's normal. But you can see the mountains from the window. When I saw that view in the morning, I thought this was the only place.",
+  "why": "He chose it because he can see the mountains from the window."
+ },
+ {
+  "id": "l3-07",
+  "level": 3,
+  "title_raw": "Cancelled trip",
+  "kind": "point",
+  "setup": "{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はどうして{旅行|りょこう}に{行|い}かないことにしましたか。",
+  "lines": [
+   {
+    "s": "F",
+    "jp": "{週末|しゅうまつ}、{京都|きょうと}に{行|い}くって{言|い}ってなかった？"
+   },
+   {
+    "s": "M",
+    "jp": "うん、でもやめたんだ。"
+   },
+   {
+    "s": "F",
+    "jp": "{天気|てんき}が{悪|わる}いから？"
+   },
+   {
+    "s": "M",
+    "jp": "{天気|てんき}は{大丈夫|だいじょうぶ}みたいなんだけど、{月曜日|げつようび}に{大事|だいじ}なプレゼンがあって、その{準備|じゅんび}が{終|お}わってないんだ。"
+   },
+   {
+    "s": "F",
+    "jp": "そっか。じゃあ{京都|きょうと}はまた{今度|こんど}だね。"
+   }
+  ],
+  "question": "{男|おとこ}の{人|ひと}はどうして{旅行|りょこう}に{行|い}かないことにしましたか。",
+  "q_en": "Why did the man decide not to go on the trip?",
+  "options": [
+   "{天気|てんき}が{悪|わる}いから",
+   "ホテルが{取|と}れなかったから",
+   "お{金|かね}がないから",
+   "プレゼンの{準備|じゅんび}をしなければならないから"
+  ],
+  "answer": 3,
+  "en": "F: Didn't you say you were going to Kyoto this weekend?\nM: Yes, but I cancelled.\nF: Because of bad weather?\nM: The weather seems fine, but I have an important presentation on Monday and I haven't finished preparing.\nF: I see. Then Kyoto next time.",
+  "why": "He has not finished preparing for Monday's presentation."
+ },
+ {
+  "id": "l3-08",
+  "level": 3,
+  "title_raw": "Restaurant review",
+  "kind": "point",
+  "setup": "{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{新|あたら}しいレストランについて{話|はな}しています。{女|おんな}の{人|ひと}はこの{店|みせ}の{何|なに}がよくないと{言|い}っていますか。",
+  "lines": [
+   {
+    "s": "M",
+    "jp": "{駅前|えきまえ}にできたイタリアン、{行|い}った？"
+   },
+   {
+    "s": "F",
+    "jp": "うん、{昨日|きのう}{行|い}ってきた。パスタはすごくおいしかったよ。{値段|ねだん}も{安|やす}いし。"
+   },
+   {
+    "s": "M",
+    "jp": "へえ、いいね。"
+   },
+   {
+    "s": "F",
+    "jp": "ただ、{店員|てんいん}さんが{少|すく}ないみたいで、{料理|りょうり}が{出|で}てくるまで{四十分|よんじゅっぷん}も{待|ま}ったの。{昼休|ひるやす}みに{行|い}くのは{無理|むり}だね。"
+   }
+  ],
+  "question": "{女|おんな}の{人|ひと}はこの{店|みせ}の{何|なに}がよくないと{言|い}っていますか。",
+  "q_en": "What does the woman say is not good about this restaurant?",
+  "options": [
+   "{料理|りょうり}の{味|あじ}",
+   "{料理|りょうり}が{出|で}るのが{遅|おそ}いこと",
+   "{値段|ねだん}が{高|たか}いこと",
+   "{駅|えき}から{遠|とお}いこと"
+  ],
+  "answer": 1,
+  "en": "M: Have you been to the new Italian place in front of the station?\nF: Yes, I went yesterday. The pasta was really delicious. And it's cheap.\nM: Oh, nice.\nF: But there seem to be few staff, and I waited forty minutes for the food. Going there on a lunch break is impossible.",
+  "why": "She waited forty minutes for the food to come."
+ },
+ {
+  "id": "l3-09",
+  "level": 3,
+  "title_raw": "New hobby",
+  "kind": "point",
+  "setup": "{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}はどうしてヨガを{始|はじ}めましたか。",
+  "lines": [
+   {
+    "s": "M",
+    "jp": "{最近|さいきん}ヨガに{通|かよ}ってるんだって？やせたいの？"
+   },
+   {
+    "s": "F",
+    "jp": "ううん、そうじゃないの。{一日中|いちにちじゅう}パソコンを{使|つか}ってるから、{肩|かた}がすごく{痛|いた}くて。"
+   },
+   {
+    "s": "M",
+    "jp": "ああ、なるほど。"
+   },
+   {
+    "s": "F",
+    "jp": "{医者|いしゃ}に{体|からだ}を{動|うご}かしたほうがいいって{言|い}われたの。{友達|ともだち}もできて{楽|たの}しいよ。"
+   }
+  ],
+  "question": "{女|おんな}の{人|ひと}はどうしてヨガを{始|はじ}めましたか。",
+  "q_en": "Why did the woman start yoga?",
+  "options": [
+   "やせたいから",
+   "{友達|ともだち}を{作|つく}りたいから",
+   "{肩|かた}が{痛|いた}いから",
+   "{友達|ともだち}に{誘|さそ}われたから"
+  ],
+  "answer": 2,
+  "en": "M: I heard you've been going to yoga lately. Do you want to lose weight?\nF: No, that's not it. I use a computer all day, so my shoulders really hurt.\nM: Ah, I see.\nF: A doctor told me I should move my body. I've made friends too, so it's fun.",
+  "why": "She started because her shoulders hurt and a doctor told her to move more."
+ },
+ {
+  "id": "l3-10",
+  "level": 3,
+  "title_raw": "Store announcement",
+  "kind": "summary",
+  "setup": "スーパーで{放送|ほうそう}が{流|なが}れています。",
+  "lines": [
+   {
+    "s": "N",
+    "jp": "{本日|ほんじつ}もみどりスーパーにご{来店|らいてん}いただき、ありがとうございます。ただいまから{午後|ごご}{七時|しちじ}まで、お{肉|にく}とお{魚|さかな}が{全部|ぜんぶ}{二割|にわり}{引|び}きになります。また、{一階|いっかい}のパン{売|う}り{場|ば}では、{焼|や}きたてのパンを{販売|はんばい}しております。なお、{本日|ほんじつ}は{駐車場|ちゅうしゃじょう}が{大変|たいへん}{混|こ}み{合|あ}っております。お{帰|かえ}りの{際|さい}はお{気|き}をつけください。"
+   }
+  ],
+  "question": "この{放送|ほうそう}で{一番|いちばん}{伝|つた}えたいことは{何|なん}ですか。",
+  "q_en": "What does this announcement mainly want to tell?",
+  "options": [
+   "{店|みせ}が{七時|しちじ}に{閉|し}まること",
+   "{駐車場|ちゅうしゃじょう}が{使|つか}えないこと",
+   "パン{売|う}り{場|ば}が{新|あたら}しくなったこと",
+   "{肉|にく}と{魚|さかな}が{安|やす}くなること"
+  ],
+  "answer": 3,
+  "en": "Thank you for coming to Midori Supermarket today. From now until 7 p.m., all meat and fish will be 20% off. Also, freshly baked bread is on sale at the bread counter on the first floor. Please note the parking lot is very crowded today. Please be careful when you leave.",
+  "why": "The main news is the 20% discount on meat and fish until 7 p.m."
+ },
+ {
+  "id": "l3-11",
+  "level": 3,
+  "title_raw": "Teacher's talk on reading",
+  "kind": "summary",
+  "setup": "{学校|がっこう}で{先生|せんせい}が{話|はな}しています。",
+  "lines": [
+   {
+    "s": "M",
+    "jp": "{皆|みな}さん、{最近|さいきん}{本|ほん}を{読|よ}んでいますか。スマートフォンで{短|みじか}い{文章|ぶんしょう}を{読|よ}むことは{多|おお}いと{思|おも}いますが、{長|なが}い{本|ほん}を{最後|さいご}まで{読|よ}むと、{考|かんが}える{力|ちから}がつきます。{毎日|まいにち}{十分|じゅっぷん}でもいいので、{好|す}きな{本|ほん}を{読|よ}む{時間|じかん}を{作|つく}ってみてください。{難|むずか}しい{本|ほん}でなくてもかまいません。"
+   }
+  ],
+  "question": "{先生|せんせい}が{一番|いちばん}{言|い}いたいことは{何|なん}ですか。",
+  "q_en": "What does the teacher most want to say?",
+  "options": [
+   "スマートフォンを{使|つか}わないでほしい",
+   "{毎日|まいにち}{少|すこ}しでも{本|ほん}を{読|よ}んでほしい",
+   "{難|むずか}しい{本|ほん}を{読|よ}んでほしい"
+  ],
+  "answer": 1,
+  "en": "Everyone, have you been reading books lately? I think you often read short texts on your smartphones, but reading a long book to the end builds your thinking skills. Even ten minutes a day is fine, so please try to make time to read a book you like. It doesn't have to be a difficult book.",
+  "why": "He asks students to make time every day, even ten minutes, to read books."
+ },
+ {
+  "id": "l3-12",
+  "level": 3,
+  "title_raw": "Radio talk on breakfast",
+  "kind": "summary",
+  "setup": "ラジオで{女|おんな}の{人|ひと}が{話|はな}しています。",
+  "lines": [
+   {
+    "s": "F",
+    "jp": "{朝|あさ}ご{飯|はん}を{食|た}べない{人|ひと}が{増|ふ}えているそうです。{時間|じかん}がない、お{腹|なか}がすいていない、という{理由|りゆう}が{多|おお}いようです。でも、{朝|あさ}ご{飯|はん}を{食|た}べると{体温|たいおん}が{上|あ}がって、{午前中|ごぜんちゅう}から{頭|あたま}がよく{働|はたら}きます。バナナや{牛乳|ぎゅうにゅう}だけでもいいので、{何|なに}か{口|くち}に{入|い}れてから{出|で}かけましょう。"
+   }
+  ],
+  "question": "{女|おんな}の{人|ひと}は{何|なに}について{話|はな}していますか。",
+  "q_en": "What is the woman talking about?",
+  "options": [
+   "バナナの{栄養|えいよう}",
+   "{朝|あさ}ご{飯|はん}を{作|つく}る{方法|ほうほう}",
+   "{朝|あさ}ご{飯|はん}を{食|た}べることの{大切|たいせつ}さ",
+   "{朝|あさ}{早|はや}く{起|お}きる{方法|ほうほう}"
+  ],
+  "answer": 2,
+  "en": "It seems the number of people who skip breakfast is increasing. Common reasons are having no time or not being hungry. But eating breakfast raises your body temperature, and your brain works well from the morning. Even just a banana or milk is fine, so let's eat something before going out.",
+  "why": "She explains why eating breakfast is important."
+ },
+ {
+  "id": "l3-13",
+  "level": 3,
+  "title_raw": "Manager's message",
+  "kind": "summary",
+  "setup": "{会社|かいしゃ}で{部長|ぶちょう}が{社員|しゃいん}に{話|はな}しています。",
+  "lines": [
+   {
+    "s": "M",
+    "jp": "{皆|みな}さん、お{疲|つか}れさまです。{来月|らいげつ}から、{会議|かいぎ}の{資料|しりょう}は{紙|かみ}で{配|くば}らないことになりました。{資料|しりょう}は{前|まえ}の{日|ひ}までに{共有|きょうゆう}フォルダに{入|い}れて、{会議|かいぎ}にはパソコンを{持|も}ってきてください。{紙|かみ}の{無駄|むだ}を{減|へ}らすためですので、ご{協力|きょうりょく}をお{願|ねが}いします。"
+   }
+  ],
+  "question": "{部長|ぶちょう}は{何|なに}について{話|はな}していますか。",
+  "q_en": "What is the manager talking about?",
+  "options": [
+   "{会議|かいぎ}の{資料|しりょう}の{新|あたら}しいやり{方|かた}",
+   "{新|あたら}しいパソコンの{使|つか}い{方|かた}",
+   "{会議|かいぎ}の{時間|じかん}の{変更|へんこう}",
+   "{会議室|かいぎしつ}の{予約|よやく}の{方法|ほうほう}"
+  ],
+  "answer": 0,
+  "en": "Good work, everyone. From next month, we will not hand out meeting materials on paper. Please put materials in the shared folder by the day before, and bring your computers to meetings. This is to reduce wasted paper, so thank you for your cooperation.",
+  "why": "He explains that meeting materials will now be shared digitally, not on paper."
+ },
+ {
+  "id": "l3-14",
+  "level": 3,
+  "title_raw": "Thanking a coworker",
+  "kind": "utterance",
+  "setup": "{同僚|どうりょう}に{仕事|しごと}を{手伝|てつだ}ってもらいました。{何|なん}と{言|い}いますか。",
+  "lines": [
+   {
+    "s": "N",
+    "jp": "{同僚|どうりょう}が{仕事|しごと}を{手伝|てつだ}ってくれました。"
+   }
+  ],
+  "question": "{何|なん}と{言|い}いますか。",
+  "q_en": "What do you say?",
+  "options": [
+   "{手伝|てつだ}ってあげましょうか。",
+   "{手伝|てつだ}ってくれて、{助|たす}かりました。",
+   "{手伝|てつだ}ってもいいですか。"
+  ],
+  "answer": 1,
+  "en": "A coworker helped you with your work.",
+  "why": "You thank someone for helping by saying it was a big help."
+ },
+ {
+  "id": "l3-15",
+  "level": 3,
+  "title_raw": "Asking to leave early",
+  "kind": "utterance",
+  "setup": "{熱|ねつ}があるので、{早|はや}く{帰|かえ}りたいです。{上司|じょうし}に{何|なん}と{言|い}いますか。",
+  "lines": [
+   {
+    "s": "N",
+    "jp": "{熱|ねつ}があるので、{早|はや}く{帰|かえ}りたいです。{上司|じょうし}に{言|い}います。"
+   }
+  ],
+  "question": "{何|なん}と{言|い}いますか。",
+  "q_en": "What do you say?",
+  "options": [
+   "すみません、{早|はや}く{帰|かえ}ったらどうですか。",
+   "すみません、{早|はや}く{帰|かえ}ってもらえますか。",
+   "すみません、{今日|きょう}は{早退|そうたい}させていただけませんか。"
+  ],
+  "answer": 2,
+  "en": "You have a fever, so you want to go home early. You speak to your boss.",
+  "why": "させていただけませんか politely asks for permission to do something yourself."
+ },
+ {
+  "id": "l3-16",
+  "level": 3,
+  "title_raw": "Borrowing a pen",
+  "kind": "response",
+  "setup": "{文|ぶん}を{聞|き}いて、{一番|いちばん}いい{返事|へんじ}を{選|えら}んでください。",
+  "lines": [
+   {
+    "s": "M",
+    "jp": "すみません、ちょっとペンを{貸|か}してもらえませんか。"
+   }
+  ],
+  "question": "{一番|いちばん}いい{返事|へんじ}はどれですか。",
+  "q_en": "Which is the best reply?",
+  "options": [
+   "ええ、{借|か}りてもいいですよ。",
+   "はい、どうぞ。{使|つか}ってください。",
+   "いいえ、{貸|か}してください。"
+  ],
+  "answer": 1,
+  "en": "M: Excuse me, could you lend me a pen for a moment?",
+  "why": "He asks to borrow a pen, so you hand it over and say please use it."
+ },
+ {
+  "id": "l3-17",
+  "level": 3,
+  "title_raw": "Finished the report?",
+  "kind": "response",
+  "setup": "{文|ぶん}を{聞|き}いて、{一番|いちばん}いい{返事|へんじ}を{選|えら}んでください。",
+  "lines": [
+   {
+    "s": "F",
+    "jp": "{報告書|ほうこくしょ}、もうできた？"
+   }
+  ],
+  "question": "{一番|いちばん}いい{返事|へんじ}はどれですか。",
+  "q_en": "Which is the best reply?",
+  "options": [
+   "ごめん、あと{少|すこ}しで{終|お}わるよ。",
+   "うん、{作|つく}ってもいいよ。",
+   "じゃあ、{作|つく}ってあげるね。"
+  ],
+  "answer": 0,
+  "en": "F: Is the report done yet?",
+  "why": "She asks if the report is finished, and this answer says it is almost done."
+ },
+ {
+  "id": "l3-18",
+  "level": 3,
+  "title_raw": "Invitation to dinner",
+  "kind": "response",
+  "setup": "{文|ぶん}を{聞|き}いて、{一番|いちばん}いい{返事|へんじ}を{選|えら}んでください。",
+  "lines": [
+   {
+    "s": "M",
+    "jp": "{今晩|こんばん}、みんなで{食事|しょくじ}に{行|い}くんですが、よかったら{一緒|いっしょ}にどうですか。"
+   }
+  ],
+  "question": "{一番|いちばん}いい{返事|へんじ}はどれですか。",
+  "q_en": "Which is the best reply?",
+  "options": [
+   "はい、{一緒|いっしょ}に{行|い}ってください。",
+   "ええ、どうぞ{行|い}ってきてください。",
+   "ありがとうございます。ぜひ{行|い}きたいです。"
+  ],
+  "answer": 2,
+  "en": "M: Everyone is going out to eat tonight. Would you like to come with us?",
+  "why": "He is inviting you, so you thank him and say you would love to go."
+ },
+ {
+  "id": "l3-19",
+  "level": 3,
+  "title_raw": "Sorry for the wait",
+  "kind": "response",
+  "setup": "{文|ぶん}を{聞|き}いて、{一番|いちばん}いい{返事|へんじ}を{選|えら}んでください。",
+  "lines": [
+   {
+    "s": "F",
+    "jp": "お{待|ま}たせして、すみません。"
+   }
+  ],
+  "question": "{一番|いちばん}いい{返事|へんじ}はどれですか。",
+  "q_en": "Which is the best reply?",
+  "options": [
+   "いいえ、{待|ま}ってもらえますか。",
+   "いいえ、{私|わたし}も{今|いま}{来|き}たところです。",
+   "はい、{待|ま}たせました。"
+  ],
+  "answer": 1,
+  "en": "F: Sorry to keep you waiting.",
+  "why": "A polite reply is that you only just arrived too."
+ },
+ {
+  "id": "l3-20",
+  "level": 3,
+  "title_raw": "Is this seat free?",
+  "kind": "response",
+  "setup": "{文|ぶん}を{聞|き}いて、{一番|いちばん}いい{返事|へんじ}を{選|えら}んでください。",
+  "lines": [
+   {
+    "s": "M",
+    "jp": "すみません、この{席|せき}、{空|あ}いていますか。"
+   }
+  ],
+  "question": "{一番|いちばん}いい{返事|へんじ}はどれですか。",
+  "q_en": "Which is the best reply?",
+  "options": [
+   "いいえ、{座|すわ}っています。",
+   "ええ、{座|すわ}らせてください。",
+   "ええ、どうぞ。"
+  ],
+  "answer": 2,
+  "en": "M: Excuse me, is this seat free?",
+  "why": "If the seat is free, you simply say yes, go ahead."
+ }
+]

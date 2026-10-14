@@ -1,0 +1,710 @@
+[
+ {
+  "id": "s4-025",
+  "level": 4,
+  "title": "{冬|ふゆ}の{北海道|ほっかいどう}",
+  "title_en": "Hokkaido in Winter",
+  "genre_raw": "Travel",
+  "paragraphs": [
+   {
+    "jp": "{去年|きょねん}の{二月|にがつ}、{私|わたし}は{友|とも}だちのケンと{一緒|いっしょ}に{北海道|ほっかいどう}へ{行|い}きました。{私|わたし}はオーストラリアから{来|き}たので、{雪|ゆき}をあまり{見|み}たことがありません。{飛行機|ひこうき}の{窓|まど}から{白|しろ}い{町|まち}が{見|み}えたとき、とてもうれしくなりました。",
+    "en": "Last February, I went to Hokkaido with my friend Ken. I came from Australia, so I have hardly ever seen snow. When I saw the white town from the airplane window, I became very happy."
+   },
+   {
+    "jp": "{札幌|さっぽろ}に{着|つ}くと、{外|そと}はマイナス{十度|じゅうど}でした。ケンは「{手袋|てぶくろ}を{持|も}ってきた？」と{聞|き}きました。{私|わたし}は{忘|わす}れてしまったので、{駅|えき}の{近|ちか}くの{店|みせ}で{買|か}うことにしました。{店|みせ}の{人|ひと}は「{道|みち}が{凍|こお}っていますから、ゆっくり{歩|ある}いたほうがいいですよ」と{教|おし}えてくれました。",
+    "en": "When we arrived in Sapporo, it was minus ten degrees outside. Ken asked, \"Did you bring gloves?\" I had forgotten them, so I decided to buy some at a shop near the station. The shop clerk told me, \"The roads are frozen, so you'd better walk slowly.\""
+   },
+   {
+    "jp": "{次|つぎ}の{日|ひ}、{私|わたし}たちは{雪|ゆき}まつりを{見|み}に{行|い}きました。{大|おお}きな{雪|ゆき}のお{城|しろ}や、かわいい{動物|どうぶつ}の{像|ぞう}がたくさんありました。{写真|しゃしん}を{撮|と}ろうとしたとき、{私|わたし}は{氷|こおり}の{上|うえ}ですべって、{転|ころ}んでしまいました。ケンは{笑|わら}いながら「だから、ゆっくり{歩|ある}けって{言|い}われたでしょう」と{言|い}いました。",
+    "en": "The next day, we went to see the snow festival. There were big snow castles and many cute animal statues. When I tried to take a photo, I slipped on the ice and fell down. Ken laughed and said, \"See, you were told to walk slowly, weren't you?\""
+   },
+   {
+    "jp": "{少|すこ}し{痛|いた}かったですが、けがはしませんでした。{夜|よる}は{温|あたた}かいラーメン{屋|や}に{入|はい}って、みそラーメンを{食|た}べました。{寒|さむ}い{日|ひ}に{食|た}べるラーメンは、{今|いま}まで{食|た}べたラーメンの{中|なか}で{一番|いちばん}おいしかったです。",
+    "en": "It hurt a little, but I wasn't injured. In the evening we went into a warm ramen shop and ate miso ramen. Ramen eaten on a cold day was the most delicious ramen I had ever eaten."
+   },
+   {
+    "jp": "{旅行|りょこう}の{最後|さいご}の{日|ひ}、ケンが「また{来|こ}ようか」と{言|い}いました。{私|わたし}は「うん。でも{今度|こんど}は{滑|すべ}らない{靴|くつ}を{買|か}ってから{来|く}る」と{答|こた}えました。",
+    "en": "On the last day of the trip, Ken said, \"Shall we come again?\" I answered, \"Yeah. But next time I'll buy shoes that don't slip before I come.\""
+   }
+  ],
+  "questions": [
+   {
+    "q": "「{私|わたし}」はどうして{店|みせ}で{手袋|てぶくろ}を{買|か}いましたか。",
+    "q_en": "Why did \"I\" buy gloves at a shop?",
+    "options": [
+     "{手袋|てぶくろ}をなくしたから",
+     "{手袋|てぶくろ}を{持|も}ってくるのを{忘|わす}れたから",
+     "ケンにプレゼントしたかったから",
+     "{手袋|てぶくろ}が{安|やす}かったから"
+    ],
+    "answer": 1,
+    "why": "The narrator forgot to bring gloves."
+   },
+   {
+    "q": "{雪|ゆき}まつりで{何|なに}がありましたか。",
+    "q_en": "What happened at the snow festival?",
+    "options": [
+     "ケンが{転|ころ}んでけがをした",
+     "{雪|ゆき}のお{城|しろ}がこわれた",
+     "{写真|しゃしん}を{撮|と}れなかった",
+     "{私|わたし}が{氷|こおり}の{上|うえ}で{転|ころ}んだ"
+    ],
+    "answer": 3,
+    "why": "The narrator slipped on the ice while trying to take a photo."
+   },
+   {
+    "q": "{今度|こんど}{来|く}るとき、「{私|わたし}」は{何|なに}をするつもりですか。",
+    "q_en": "What does \"I\" plan to do before coming next time?",
+    "options": [
+     "{滑|すべ}らない{靴|くつ}を{買|か}う",
+     "{夏|なつ}に{来|く}る",
+     "ラーメンを{作|つく}る",
+     "ケンと{来|こ}ない"
+    ],
+    "answer": 0,
+    "why": "The narrator says they will buy non-slip shoes first."
+   }
+  ]
+ },
+ {
+  "id": "s4-026",
+  "level": 4,
+  "title": "{温泉|おんせん}のルール",
+  "title_en": "Onsen Rules",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "マリアさんは{日本|にほん}の{温泉|おんせん}に{入|はい}ってみたいと{思|おも}っていました。でも、{温泉|おんせん}にはルールがたくさんあると{聞|き}いて、{少|すこ}し{心配|しんぱい}でした。それで、{日本人|にほんじん}の{友|とも}だちのゆかさんと{一緒|いっしょ}に{箱根|はこね}の{温泉|おんせん}へ{行|い}くことにしました。",
+    "en": "Maria wanted to try a Japanese hot spring. But she had heard that onsen have many rules, so she was a little worried. So she decided to go to a hot spring in Hakone with her Japanese friend Yuka."
+   },
+   {
+    "jp": "{入|はい}る{前|まえ}に、ゆかさんが{教|おし}えてくれました。「まず、{体|からだ}を{洗|あら}ってからお{湯|ゆ}に{入|はい}ってね。それから、タオルはお{湯|ゆ}の{中|なか}に{入|い}れちゃだめ。{頭|あたま}の{上|うえ}に{置|お}くといいよ」マリアさんは「わかった。{体|からだ}を{洗|あら}う、タオルは{頭|あたま}」と{何度|なんど}も{言|い}いながら、{服|ふく}を{脱|ぬ}ぎました。",
+    "en": "Before going in, Yuka explained. \"First, wash your body before you get into the water. Also, you mustn't put your towel in the water. It's good to put it on your head.\" Maria took off her clothes while repeating, \"Okay. Wash body, towel on head.\""
+   },
+   {
+    "jp": "お{湯|ゆ}はとても{熱|あつ}かったですが、{外|そと}の{山|やま}が{見|み}えて、{気持|きも}ちがよかったです。{隣|となり}に{座|すわ}っていたおばあさんが「どこから{来|き}たの？」と{話|はな}しかけてくれました。マリアさんが「スペインから{来|き}ました」と{答|こた}えると、おばあさんは「{日本語|にほんご}が{上手|じょうず}ね」とほめてくれました。",
+    "en": "The water was very hot, but she could see the mountains outside, and it felt good. An old woman sitting next to her started talking to her: \"Where are you from?\" When Maria answered, \"I came from Spain,\" the old woman praised her: \"Your Japanese is good.\""
+   },
+   {
+    "jp": "{話|はな}すのが{楽|たの}しくて、マリアさんは{長|なが}い{間|あいだ}お{湯|ゆ}に{入|はい}っていました。すると、{急|きゅう}に{頭|あたま}がふらふらしてきました。ゆかさんは「{長|なが}く{入|はい}りすぎだよ！」と{言|い}って、{冷|つめ}たい{水|みず}を{持|も}ってきてくれました。",
+    "en": "Talking was so fun that Maria stayed in the water for a long time. Then suddenly she started to feel dizzy. Yuka said, \"You stayed in too long!\" and brought her some cold water."
+   },
+   {
+    "jp": "{少|すこ}し{休|やす}んだら、{元気|げんき}になりました。マリアさんは{笑|わら}って{言|い}いました。「ゆかさん、ルールがもう{一|ひと}つありましたね。{温泉|おんせん}で{話|はな}しすぎてはいけない」",
+    "en": "After resting a little, she felt better. Maria laughed and said, \"Yuka, there was one more rule, wasn't there? You mustn't talk too much in the onsen.\""
+   }
+  ],
+  "questions": [
+   {
+    "q": "{温泉|おんせん}で、タオルはどうしたらいいですか。",
+    "q_en": "What should you do with your towel at an onsen?",
+    "options": [
+     "お{湯|ゆ}の{中|なか}に{入|い}れる",
+     "{体|からだ}を{洗|あら}う{前|まえ}に{捨|す}てる",
+     "{頭|あたま}の{上|うえ}に{置|お}く",
+     "おばあさんに{渡|わた}す"
+    ],
+    "answer": 2,
+    "why": "Yuka says to put the towel on your head, not in the water."
+   },
+   {
+    "q": "マリアさんはどうして{頭|あたま}がふらふらしましたか。",
+    "q_en": "Why did Maria feel dizzy?",
+    "options": [
+     "{冷|つめ}たい{水|みず}を{飲|の}みすぎたから",
+     "お{湯|ゆ}に{長|なが}く{入|はい}りすぎたから",
+     "{体|からだ}を{洗|あら}わなかったから",
+     "{山|やま}に{登|のぼ}ったから"
+    ],
+    "answer": 1,
+    "why": "She enjoyed talking and stayed in the hot water too long."
+   }
+  ]
+ },
+ {
+  "id": "s4-027",
+  "level": 4,
+  "title": "{富士山|ふじさん}に{登|のぼ}った{夜|よる}",
+  "title_en": "The Night We Climbed Mt. Fuji",
+  "genre_raw": "Adventure",
+  "paragraphs": [
+   {
+    "jp": "{日本|にほん}に{住|す}んでいる{間|あいだ}に、{一度|いちど}{富士山|ふじさん}に{登|のぼ}りたいと{思|おも}っていました。{八月|はちがつ}、{会社|かいしゃ}の{先輩|せんぱい}の{田中|たなか}さんが「{一緒|いっしょ}に{登|のぼ}らない？」と{誘|さそ}ってくれました。{私|わたし}たちは{山|やま}の{上|うえ}で{日|ひ}の{出|で}を{見|み}るために、{夜|よる}に{登|のぼ}ることにしました。",
+    "en": "While living in Japan, I wanted to climb Mt. Fuji once. In August, Mr. Tanaka, a senior colleague from my company, invited me: \"Want to climb together?\" We decided to climb at night so we could see the sunrise from the top of the mountain."
+   },
+   {
+    "jp": "{夜|よる}の{九時|くじ}に{五合目|ごごうめ}から{出発|しゅっぱつ}しました。{道|みち}は{暗|くら}くて、{石|いし}が{多|おお}かったです。{上|うえ}へ{行|い}けば{行|い}くほど、{寒|さむ}くなりました。{田中|たなか}さんは「{疲|つか}れたら、すぐに{言|い}ってね。{無理|むり}をしないほうがいいから」と{言|い}ってくれました。",
+    "en": "We set off from the Fifth Station at nine at night. The path was dark and had lots of rocks. The higher we went, the colder it got. Mr. Tanaka said, \"If you get tired, tell me right away. It's better not to push yourself.\""
+   },
+   {
+    "jp": "{夜中|よなか}の{二時|にじ}ごろ、{私|わたし}は{頭|あたま}が{痛|いた}くなって、{足|あし}も{動|うご}かなくなりました。「もう{帰|かえ}ろうかな」と{思|おも}いました。すると、{知|し}らないおじいさんが「がんばって。あと{少|すこ}しですよ」と{言|い}って、チョコレートをくれました。そのおじいさんは{七十歳|ななじゅっさい}なのに、{毎年|まいとし}{登|のぼ}っているそうです。",
+    "en": "Around two in the morning, I got a headache and my legs wouldn't move. I thought, \"Maybe I'll just go back.\" Then an old man I didn't know said, \"Hang in there. Just a little more,\" and gave me some chocolate. Apparently that old man climbs every year even though he is seventy."
+   },
+   {
+    "jp": "チョコレートを{食|た}べて、ゆっくり{休|やす}みながら{歩|ある}きました。そして{朝|あさ}の{四時半|よじはん}、やっと{頂上|ちょうじょう}に{着|つ}きました。{空|そら}がだんだん{赤|あか}くなって、{雲|くも}の{上|うえ}から{太陽|たいよう}が{出|で}てきました。まわりの{人|ひと}たちはみんな「わあ」と{声|こえ}を{出|だ}しました。",
+    "en": "I ate the chocolate and walked while resting slowly. Then at four thirty in the morning, we finally reached the summit. The sky gradually turned red, and the sun came up above the clouds. Everyone around us went \"Wow.\""
+   },
+   {
+    "jp": "{私|わたし}はおじいさんにお{礼|れい}を{言|い}いたかったですが、{人|ひと}が{多|おお}くて{見|み}つけられませんでした。{今|いま}でも、{疲|つか}れたときはあの{朝|あさ}の{太陽|たいよう}と、チョコレートの{味|あじ}を{思|おも}い{出|だ}します。",
+    "en": "I wanted to thank the old man, but there were so many people that I couldn't find him. Even now, when I'm tired, I remember that morning sun and the taste of the chocolate."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{二人|ふたり}はどうして{夜|よる}に{登|のぼ}りましたか。",
+    "q_en": "Why did the two climb at night?",
+    "options": [
+     "{昼|ひる}は{暑|あつ}すぎるから",
+     "{仕事|しごと}が{終|お}わるのが{遅|おそ}かったから",
+     "{頂上|ちょうじょう}で{日|ひ}の{出|で}を{見|み}たかったから",
+     "{夜|よる}は{人|ひと}が{少|すく}ないから"
+    ],
+    "answer": 2,
+    "why": "They wanted to see the sunrise from the top."
+   },
+   {
+    "q": "{知|し}らないおじいさんは「{私|わたし}」に{何|なに}をしましたか。",
+    "q_en": "What did the old man do for \"me\"?",
+    "options": [
+     "{頂上|ちょうじょう}まで{連|つ}れて{行|い}った",
+     "{薬|くすり}をくれた",
+     "{帰|かえ}ったほうがいいと{言|い}った",
+     "{応援|おうえん}して、チョコレートをくれた"
+    ],
+    "answer": 3,
+    "why": "He encouraged the narrator and gave them chocolate."
+   },
+   {
+    "q": "{最後|さいご}に「{私|わたし}」はおじいさんにお{礼|れい}を{言|い}えましたか。",
+    "q_en": "Was \"I\" able to thank the old man in the end?",
+    "options": [
+     "いいえ、{見|み}つけられなかった",
+     "はい、{頂上|ちょうじょう}で{言|い}った",
+     "はい、{手紙|てがみ}を{書|か}いた",
+     "いいえ、{田中|たなか}さんが{言|い}った"
+    ],
+    "answer": 0,
+    "why": "There were too many people, so the narrator could not find him."
+   }
+  ]
+ },
+ {
+  "id": "s4-028",
+  "level": 4,
+  "title": "{大阪|おおさか}{行|ゆ}きの{夜行|やこう}バス",
+  "title_en": "The Night Bus to Osaka",
+  "genre_raw": "Travel",
+  "paragraphs": [
+   {
+    "jp": "{大学生|だいがくせい}のトムさんはお{金|かね}があまりないので、{新幹線|しんかんせん}ではなく、{夜行|やこう}バスで{東京|とうきょう}から{大阪|おおさか}へ{行|い}くことにしました。{夜|よる}の{十一時|じゅういちじ}に{出発|しゅっぱつ}して、{朝|あさ}の{七時|しちじ}に{着|つ}く{予定|よてい}です。{料金|りょうきん}は{新幹線|しんかんせん}の{半分|はんぶん}{以下|いか}でした。",
+    "en": "Tom, a university student, doesn't have much money, so he decided to go from Tokyo to Osaka by night bus instead of the shinkansen. It was scheduled to leave at 11 p.m. and arrive at 7 a.m. The fare was less than half of the shinkansen's."
+   },
+   {
+    "jp": "バスに{乗|の}ると、{運転手|うんてんしゅ}さんが「{電気|でんき}を{消|け}しますので、{静|しず}かにしてください。{電話|でんわ}は{使|つか}わないでください」と{言|い}いました。トムさんの{隣|となり}には、{大|おお}きいかばんを{持|も}った{男|おとこ}の{人|ひと}が{座|すわ}っていました。その{人|ひと}は{座|すわ}るとすぐ、{大|おお}きな{音|おと}でいびきをかき{始|はじ}めました。",
+    "en": "When Tom got on the bus, the driver said, \"We will turn off the lights, so please be quiet. Please do not use your phones.\" Next to Tom sat a man with a big bag. As soon as he sat down, he started snoring loudly."
+   },
+   {
+    "jp": "トムさんは{耳|みみ}をふさいだり、{音楽|おんがく}を{聞|き}いたりしましたが、ぜんぜん{眠|ねむ}れませんでした。「{新幹線|しんかんせん}にすればよかった」と{思|おも}いました。{途中|とちゅう}でバスがサービスエリアに{止|と}まったとき、{外|そと}に{出|で}て、{温|あたた}かいコーヒーを{買|か}いました。",
+    "en": "Tom covered his ears and listened to music, but he couldn't sleep at all. He thought, \"I should have taken the shinkansen.\" When the bus stopped at a service area on the way, he got out and bought a hot coffee."
+   },
+   {
+    "jp": "バスに{戻|もど}ると、{隣|となり}の{男|おとこ}の{人|ひと}が{起|お}きていて、「さっきはうるさくてすみません。これ、どうぞ」と{言|い}って、{耳|みみ}せんをくれました。{話|はなし}を{聞|き}くと、その{人|ひと}は{大阪|おおさか}でたこ{焼|や}き{屋|や}をやっているそうです。",
+    "en": "When he went back to the bus, the man next to him was awake and said, \"Sorry for being noisy earlier. Here, take these,\" and gave him earplugs. When Tom talked with him, it turned out the man runs a takoyaki shop in Osaka."
+   },
+   {
+    "jp": "{耳|みみ}せんのおかげで、トムさんは{少|すこ}し{眠|ねむ}ることができました。{朝|あさ}、{大阪|おおさか}に{着|つ}くと、{男|おとこ}の{人|ひと}は「{店|みせ}に{来|き}たら、たこ{焼|や}きをごちそうするよ」と{言|い}いました。その{日|ひ}の{昼|ひる}、トムさんが{食|た}べたたこ{焼|や}きは、{大阪|おおさか}で{一番|いちばん}おいしい{味|あじ}でした。",
+    "en": "Thanks to the earplugs, Tom was able to sleep a little. In the morning when they arrived in Osaka, the man said, \"If you come to my shop, I'll treat you to takoyaki.\" The takoyaki Tom ate that afternoon tasted like the best in Osaka."
+   }
+  ],
+  "questions": [
+   {
+    "q": "トムさんはどうして{夜行|やこう}バスを{選|えら}びましたか。",
+    "q_en": "Why did Tom choose the night bus?",
+    "options": [
+     "{新幹線|しんかんせん}より{早|はや}く{着|つ}くから",
+     "{新幹線|しんかんせん}より{安|やす}いから",
+     "バスで{寝|ね}るのが{好|す}きだから",
+     "{友|とも}だちに{勧|すす}められたから"
+    ],
+    "answer": 1,
+    "why": "He doesn't have much money and the bus was less than half the price."
+   },
+   {
+    "q": "{隣|となり}の{男|おとこ}の{人|ひと}はトムさんに{何|なに}をくれましたか。",
+    "q_en": "What did the man next to Tom give him?",
+    "options": [
+     "{耳|みみ}せん",
+     "{温|あたた}かいコーヒー",
+     "たこ{焼|や}き",
+     "バスの{切符|きっぷ}"
+    ],
+    "answer": 0,
+    "why": "He apologized for snoring and gave Tom earplugs."
+   }
+  ]
+ },
+ {
+  "id": "s4-029",
+  "level": 4,
+  "title": "{沖縄|おきなわ}の{海|うみ}",
+  "title_en": "The Okinawa Sea",
+  "genre_raw": "Travel",
+  "paragraphs": [
+   {
+    "jp": "{夏休|なつやす}みに、{私|わたし}は{家族|かぞく}と{沖縄|おきなわ}へ{行|い}きました。{空港|くうこう}を{出|で}ると、{空気|くうき}が{暑|あつ}くて、{少|すこ}し{甘|あま}いにおいがしました。{弟|おとうと}は「{早|はや}く{海|うみ}で{泳|およ}ぎたい！」と{言|い}って、ホテルに{着|つ}く{前|まえ}から{水着|みずぎ}を{着|き}ていました。",
+    "en": "During summer vacation, I went to Okinawa with my family. When we left the airport, the air was hot and smelled a little sweet. My little brother said, \"I want to swim in the sea soon!\" and was already wearing his swimsuit before we arrived at the hotel."
+   },
+   {
+    "jp": "{海|うみ}はとてもきれいで、{水|みず}の{中|なか}に{青|あお}や{黄色|きいろ}の{魚|さかな}が{見|み}えました。{父|ちち}は「{日焼|ひや}けしないように、ちゃんとクリームを{塗|ぬ}りなさい」と{言|い}いましたが、{弟|おとうと}は{聞|き}かないで、すぐ{海|うみ}に{走|はし}っていきました。",
+    "en": "The sea was very beautiful, and we could see blue and yellow fish in the water. Dad said, \"Put on sunscreen properly so you don't get sunburned,\" but my brother didn't listen and immediately ran into the sea."
+   },
+   {
+    "jp": "{午後|ごご}、{私|わたし}たちはボートに{乗|の}って、{小|ちい}さい{島|しま}へ{行|い}きました。そこで{弟|おとうと}が{大|おお}きな{声|こえ}で「カメだ！」と{叫|さけ}びました。{本当|ほんとう}に、{大|おお}きなウミガメがゆっくり{泳|およ}いでいました。ガイドの{人|ひと}は「カメにさわってはいけませんよ。{見|み}るだけにしてくださいね」と{言|い}いました。",
+    "en": "In the afternoon, we took a boat to a small island. There my brother shouted loudly, \"A turtle!\" Sure enough, a big sea turtle was swimming slowly. The guide said, \"You mustn't touch the turtle. Please only look at it.\""
+   },
+   {
+    "jp": "{夜|よる}、ホテルに{帰|かえ}ると、{弟|おとうと}の{背中|せなか}が{真|ま}っ{赤|か}になっていました。「{痛|いた}い、{痛|いた}い」と{泣|な}いている{弟|おとうと}に、{母|はは}が{冷|つめ}たいタオルを{当|あ}ててあげました。{父|ちち}は「だから{言|い}っただろう」と{言|い}いましたが、{顔|かお}は{笑|わら}っていました。",
+    "en": "At night when we returned to the hotel, my brother's back had turned bright red. Mom put a cold towel on my crying brother, who kept saying \"It hurts, it hurts.\" Dad said, \"That's why I told you,\" but he was smiling."
+   },
+   {
+    "jp": "{次|つぎ}の{日|ひ}、{弟|おとうと}は{長|なが}そでのシャツを{着|き}て、{誰|だれ}よりも{先|さき}にクリームを{塗|ぬ}りました。",
+    "en": "The next day, my brother wore a long-sleeved shirt and put on sunscreen before anyone else."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{弟|おとうと}の{背中|せなか}はどうして{赤|あか}くなりましたか。",
+    "q_en": "Why did the brother's back turn red?",
+    "options": [
+     "カメにさわったから",
+     "{熱|あつ}いお{風呂|ふろ}に{入|はい}ったから",
+     "ボートから{落|お}ちたから",
+     "クリームを{塗|ぬ}らないで{泳|およ}いだから"
+    ],
+    "answer": 3,
+    "why": "He ignored Dad and swam without sunscreen, so he got sunburned."
+   },
+   {
+    "q": "ガイドの{人|ひと}は{何|なに}と{言|い}いましたか。",
+    "q_en": "What did the guide say?",
+    "options": [
+     "カメは{見|み}るだけで、さわらないでください",
+     "カメと{一緒|いっしょ}に{泳|およ}いでください",
+     "カメに{魚|さかな}をあげてください",
+     "カメの{写真|しゃしん}を{撮|と}ってはいけません"
+    ],
+    "answer": 0,
+    "why": "The guide said not to touch the turtle, only look."
+   }
+  ]
+ },
+ {
+  "id": "s4-030",
+  "level": 4,
+  "title": "{旅館|りょかん}の{晩|ばん}ご{飯|はん}",
+  "title_en": "Dinner at the Ryokan",
+  "genre_raw": "Food",
+  "paragraphs": [
+   {
+    "jp": "アンナさんは{両親|りょうしん}を{連|つ}れて、{京都|きょうと}の{旅館|りょかん}に{泊|と}まりました。{部屋|へや}は{畳|たたみ}で、{窓|まど}から{小|ちい}さい{庭|にわ}が{見|み}えました。{着物|きもの}を{着|き}た{女|おんな}の{人|ひと}が、お{茶|ちゃ}とお{菓子|かし}を{持|も}ってきてくれました。",
+    "en": "Anna took her parents and stayed at a ryokan in Kyoto. The room had tatami mats, and you could see a small garden from the window. A woman wearing a kimono brought them tea and sweets."
+   },
+   {
+    "jp": "{夜|よる}の{七時|しちじ}になると、{部屋|へや}に{晩|ばん}ご{飯|はん}が{運|はこ}ばれてきました。テーブルの{上|うえ}に、さしみや{天|てん}ぷら、{小|ちい}さいなべなど、{料理|りょうり}がたくさん{並|なら}んでいました。アンナさんのお{父|とう}さんは「これは{全部|ぜんぶ}{一人分|ひとりぶん}なのか？」とびっくりしていました。",
+    "en": "At seven in the evening, dinner was brought to the room. Many dishes, such as sashimi, tempura and a small hot pot, were lined up on the table. Anna's father was surprised: \"Is all of this for one person?\""
+   },
+   {
+    "jp": "お{母|かあ}さんは{生|なま}の{魚|さかな}が{苦手|にがて}です。でも、{旅館|りょかん}の{人|ひと}に{悪|わる}いと{思|おも}って、{何|なに}も{言|い}いませんでした。アンナさんがそれに{気|き}がついて、{旅館|りょかん}の{人|ひと}に「すみません、{母|はは}は{生|なま}のものが{食|た}べられないんですが…」と{小|ちい}さい{声|こえ}で{言|い}いました。",
+    "en": "Her mother doesn't like raw fish. But she felt it would be rude to the ryokan staff, so she didn't say anything. Anna noticed this and said quietly to the staff, \"Excuse me, my mother can't eat raw things...\""
+   },
+   {
+    "jp": "すると、{旅館|りょかん}の{人|ひと}はにっこりして、「では、{焼|や}きましょうか」と{言|い}いました。{十分|じゅっぷん}ぐらいたって、さしみが{焼|や}き{魚|ざかな}になって{戻|もど}ってきました。お{母|かあ}さんは「おいしい！こんなに{親切|しんせつ}にしてもらえるなんて」と{喜|よろこ}びました。",
+    "en": "Then the staff member smiled and said, \"Well then, shall we grill it?\" About ten minutes later, the sashimi came back as grilled fish. Her mother was delighted: \"Delicious! I can't believe they're so kind to us.\""
+   },
+   {
+    "jp": "{食事|しょくじ}のあと、{三人|さんにん}は{温泉|おんせん}に{入|はい}って、ふとんの{上|うえ}でゆっくり{話|はな}しました。お{父|とう}さんは「また{来|き}たいなあ。{次|つぎ}は{何|なに}も{言|い}わなくても、{焼|や}き{魚|ざかな}が{出|で}てくるかもしれない」と{笑|わら}いました。",
+    "en": "After the meal, the three of them took a bath in the hot spring and chatted at leisure on their futons. Her father laughed: \"I want to come again. Next time the grilled fish might come out even if we don't say anything.\""
+   }
+  ],
+  "questions": [
+   {
+    "q": "お{母|かあ}さんはどうして{最初|さいしょ}{何|なに}も{言|い}いませんでしたか。",
+    "q_en": "Why didn't the mother say anything at first?",
+    "options": [
+     "おなかがいっぱいだったから",
+     "{日本語|にほんご}が{話|はな}せなかったから",
+     "{旅館|りょかん}の{人|ひと}に{悪|わる}いと{思|おも}ったから",
+     "さしみが{好|す}きだったから"
+    ],
+    "answer": 2,
+    "why": "She felt it would be rude to the ryokan staff."
+   },
+   {
+    "q": "{旅館|りょかん}の{人|ひと}は{何|なに}をしましたか。",
+    "q_en": "What did the ryokan staff do?",
+    "options": [
+     "{新|あたら}しい{天|てん}ぷらを{持|も}ってきた",
+     "さしみを{焼|や}いて{持|も}ってきた",
+     "{料理|りょうり}を{全部|ぜんぶ}{片付|かたづ}けた",
+     "お{金|かね}を{返|かえ}した"
+    ],
+    "answer": 1,
+    "why": "They grilled the sashimi and brought it back as grilled fish."
+   }
+  ]
+ },
+ {
+  "id": "s4-031",
+  "level": 4,
+  "title": "{奈良|なら}の{鹿|しか}",
+  "title_en": "The Deer of Nara",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "{日曜日|にちようび}、リーさんは{初|はじ}めて{奈良|なら}へ{行|い}きました。{奈良|なら}の{公園|こうえん}には{鹿|しか}がたくさんいて、{人|ひと}を{怖|こわ}がらないそうです。{公園|こうえん}の{入|い}り{口|ぐち}で、リーさんは{鹿|しか}にあげるせんべいを{買|か}いました。",
+    "en": "On Sunday, Lee went to Nara for the first time. Apparently there are lots of deer in Nara's park, and they aren't afraid of people. At the park entrance, Lee bought crackers to give to the deer."
+   },
+   {
+    "jp": "せんべいを{持|も}った{瞬間|しゅんかん}、{鹿|しか}が{五頭|ごとう}も{集|あつ}まってきました。{一頭|いっとう}がリーさんのかばんをかんで、もう{一頭|いっとう}はシャツを{引|ひ}っぱりました。「ちょっと{待|ま}って！{順番|じゅんばん}に！」と{言|い}っても、{鹿|しか}たちはぜんぜん{聞|き}いてくれません。",
+    "en": "The moment Lee held the crackers, as many as five deer gathered around. One bit Lee's bag, and another pulled on her shirt. Even when she said, \"Wait a minute! Take turns!\", the deer didn't listen at all."
+   },
+   {
+    "jp": "{困|こま}っていると、{近|ちか}くにいた{小学生|しょうがくせい}の{男|おとこ}の{子|こ}が{来|き}て、「せんべいを{見|み}せないで、{背中|せなか}に{隠|かく}したほうがいいよ。それから、{鹿|しか}におじぎをするんだ」と{教|おし}えてくれました。リーさんが{言|い}われたとおりにおじぎをすると、{一頭|いっとう}の{鹿|しか}もおじぎを{返|かえ}しました。",
+    "en": "While she was in trouble, an elementary school boy nearby came and told her, \"You should hide the crackers behind your back so they can't see them. And then you bow to the deer.\" When Lee bowed as she was told, one of the deer bowed back."
+   },
+   {
+    "jp": "「すごい！{鹿|しか}がおじぎした！」リーさんはうれしくなって、その{鹿|しか}にゆっくりせんべいをあげました。{男|おとこ}の{子|こ}は「ぼくは{毎週|まいしゅう}ここに{来|く}るから、{鹿|しか}のことはよく{知|し}ってるんだ」と{得意|とくい}そうに{言|い}いました。",
+    "en": "\"Amazing! The deer bowed!\" Lee was delighted and slowly gave that deer a cracker. The boy said proudly, \"I come here every week, so I know a lot about the deer.\""
+   },
+   {
+    "jp": "{帰|かえ}りの{電車|でんしゃ}で、リーさんはかばんを{見|み}て{笑|わら}ってしまいました。かばんには{鹿|しか}がかんだ{跡|あと}が{残|のこ}っていました。でも、それも{奈良|なら}のいい{思|おも}い{出|で}になりました。",
+    "en": "On the train home, Lee looked at her bag and couldn't help laughing. The bite marks from the deer were still on it. But that also became a good memory of Nara."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{男|おとこ}の{子|こ}はリーさんに{何|なに}を{教|おし}えましたか。",
+    "q_en": "What did the boy teach Lee?",
+    "options": [
+     "せんべいを{隠|かく}して、{鹿|しか}におじぎをすること",
+     "せんべいを{全部|ぜんぶ}{投|な}げること",
+     "{鹿|しか}から{走|はし}って{逃|に}げること",
+     "かばんを{鹿|しか}にあげること"
+    ],
+    "answer": 0,
+    "why": "He said to hide the crackers behind her back and bow to the deer."
+   },
+   {
+    "q": "リーさんのかばんはどうなりましたか。",
+    "q_en": "What happened to Lee's bag?",
+    "options": [
+     "{電車|でんしゃ}に{忘|わす}れた",
+     "{男|おとこ}の{子|こ}にあげた",
+     "{鹿|しか}がかんだ{跡|あと}が{残|のこ}った",
+     "{鹿|しか}に{取|と}られた"
+    ],
+    "answer": 2,
+    "why": "A deer bit it, and the marks remained."
+   }
+  ]
+ },
+ {
+  "id": "s4-032",
+  "level": 4,
+  "title": "{戻|もど}ってきた{財布|さいふ}",
+  "title_en": "The Wallet That Came Back",
+  "genre_raw": "Daily life",
+  "paragraphs": [
+   {
+    "jp": "ある{金曜日|きんようび}の{夜|よる}、サラさんは{家|いえ}に{帰|かえ}ってから、{財布|さいふ}がないことに{気|き}がつきました。かばんの{中|なか}も、コートのポケットも{探|さが}しましたが、どこにもありません。{財布|さいふ}の{中|なか}には、お{金|かね}と{在留|ざいりゅう}カードと、{銀行|ぎんこう}のカードが{入|はい}っていました。",
+    "en": "One Friday night, after Sara got home, she noticed that her wallet was gone. She searched in her bag and her coat pockets, but it wasn't anywhere. In the wallet were money, her residence card and her bank card."
+   },
+   {
+    "jp": "サラさんは{泣|な}きそうになりながら、ルームメイトのみきさんに{相談|そうだん}しました。みきさんは「{落|お}ち{着|つ}いて。まず、{今日|きょう}どこへ{行|い}ったか{思|おも}い{出|だ}してみて。それから{交番|こうばん}に{行|い}こう」と{言|い}いました。サラさんは{会社|かいしゃ}のあと、スーパーに{寄|よ}って、{電車|でんしゃ}で{帰|かえ}ってきたことを{思|おも}い{出|だ}しました。",
+    "en": "Almost in tears, Sara asked her roommate Miki for advice. Miki said, \"Calm down. First, try to remember where you went today. Then let's go to the police box.\" Sara remembered that after work she had stopped by the supermarket and come home by train."
+   },
+   {
+    "jp": "{二人|ふたり}は{駅|えき}の{前|まえ}の{交番|こうばん}へ{行|い}きました。{警察官|けいさつかん}は{色|いろ}や{形|かたち}、{中|なか}に{何|なに}が{入|はい}っていたかを{聞|き}いて、{書類|しょるい}に{書|か}いてくれました。「{見|み}つかったら、{電話|でんわ}しますね」と{言|い}われましたが、サラさんは「もう{戻|もど}ってこないだろう」と{思|おも}っていました。",
+    "en": "The two of them went to the police box in front of the station. The police officer asked about the color, the shape and what was inside, and wrote it on a form. She was told, \"We'll call you if it's found,\" but Sara thought, \"It probably won't come back.\""
+   },
+   {
+    "jp": "ところが、{次|つぎ}の{日|ひ}の{朝|あさ}、{電話|でんわ}がかかってきました。{電車|でんしゃ}の{座席|ざせき}に{落|お}ちていた{財布|さいふ}を、{高校生|こうこうせい}が{駅|えき}に{届|とど}けてくれたそうです。{駅|えき}で{財布|さいふ}を{受|う}け{取|と}って、{中|なか}を{見|み}ると、お{金|かね}もカードも{全部|ぜんぶ}そのまま{入|はい}っていました。",
+    "en": "However, the next morning, she got a phone call. Apparently a high school student had handed in the wallet, which had fallen on a train seat, to the station. When she picked up the wallet at the station and looked inside, the money and cards were all still there."
+   },
+   {
+    "jp": "「{日本|にほん}ではよくあることだよ」とみきさんは{言|い}いましたが、サラさんはとても{感動|かんどう}しました。その{日|ひ}から、サラさんも{道|みち}で{何|なに}か{拾|ひろ}ったら、かならず{交番|こうばん}に{届|とど}けるようにしています。",
+    "en": "\"That happens a lot in Japan,\" said Miki, but Sara was very moved. Since that day, Sara also makes sure to take anything she picks up on the street to the police box."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{財布|さいふ}はどこで{見|み}つかりましたか。",
+    "q_en": "Where was the wallet found?",
+    "options": [
+     "スーパーのレジ",
+     "{会社|かいしゃ}の{机|つくえ}の{下|した}",
+     "{家|いえ}のコートのポケット",
+     "{電車|でんしゃ}の{座席|ざせき}"
+    ],
+    "answer": 3,
+    "why": "A high school student found it on a train seat."
+   },
+   {
+    "q": "{財布|さいふ}の{中|なか}はどうなっていましたか。",
+    "q_en": "What was the state of the wallet's contents?",
+    "options": [
+     "お{金|かね}だけなくなっていた",
+     "{全部|ぜんぶ}そのまま{入|はい}っていた",
+     "カードがなくなっていた",
+     "{高校生|こうこうせい}の{手紙|てがみ}が{入|はい}っていた"
+    ],
+    "answer": 1,
+    "why": "The money and cards were all still there."
+   },
+   {
+    "q": "この{経験|けいけん}のあと、サラさんは{何|なに}をするようにしていますか。",
+    "q_en": "What does Sara make a habit of doing after this experience?",
+    "options": [
+     "{財布|さいふ}を{持|も}たない",
+     "{電車|でんしゃ}に{乗|の}らない",
+     "{拾|ひろ}ったものを{交番|こうばん}に{届|とど}ける",
+     "{毎日|まいにち}{交番|こうばん}に{行|い}く"
+    ],
+    "answer": 2,
+    "why": "She now always takes things she finds to the police box."
+   }
+  ]
+ },
+ {
+  "id": "s4-033",
+  "level": 4,
+  "title": "お{花見|はなみ}の{場所|ばしょ}とり",
+  "title_en": "Saving a Spot for Hanami",
+  "genre_raw": "Work",
+  "paragraphs": [
+   {
+    "jp": "{四月|しがつ}のはじめ、{会社|かいしゃ}でお{花見|はなみ}をすることになりました。{一番|いちばん}{新|あたら}しい{社員|しゃいん}のジョンさんは、{課長|かちょう}に「{朝|あさ}から{公園|こうえん}で{場所|ばしょ}をとっておいてくれる？」と{頼|たの}まれました。ジョンさんは「{場所|ばしょ}をとる」という{意味|いみ}がよくわかりませんでしたが、「はい」と{答|こた}えました。",
+    "en": "At the beginning of April, the company decided to have a hanami party. John, the newest employee, was asked by his section manager, \"Could you save us a spot at the park from the morning?\" John didn't really understand what \"save a spot\" meant, but he answered \"Yes.\""
+   },
+   {
+    "jp": "{当日|とうじつ}の{朝|あさ}{八時|はちじ}、{公園|こうえん}に{行|い}くと、もうたくさんの{人|ひと}がいて、{青|あお}いシートが{敷|し}いてありました。シートの{上|うえ}で{寝|ね}ている{人|ひと}や、{本|ほん}を{読|よ}んでいる{人|ひと}もいます。ジョンさんはやっと「{場所|ばしょ}をとる」の{意味|いみ}がわかりました。",
+    "en": "At eight in the morning on the day, when he went to the park, there were already lots of people, and blue sheets had been spread out. There were people sleeping on the sheets and others reading books. John finally understood what \"save a spot\" meant."
+   },
+   {
+    "jp": "ジョンさんは{大|おお}きな{桜|さくら}の{木|き}の{下|した}にシートを{敷|し}いて、{一人|ひとり}で{座|すわ}って{待|ま}ちました。{昼|ひる}になると、{隣|となり}のシートの{大学生|だいがくせい}たちが「{一人|ひとり}でさびしくない？これ、{食|た}べる？」と{言|い}って、おにぎりをくれました。ジョンさんは{一緒|いっしょ}にビールを{飲|の}んだり、{歌|うた}を{歌|うた}ったりして、とても{楽|たの}しい{時間|じかん}を{過|す}ごしました。",
+    "en": "John spread his sheet under a big cherry tree and sat alone waiting. At noon, the university students on the next sheet said, \"Aren't you lonely by yourself? Want to eat this?\" and gave him rice balls. John drank beer and sang songs with them and had a really fun time."
+   },
+   {
+    "jp": "{夕方|ゆうがた}{六時|ろくじ}、{会社|かいしゃ}の{人|ひと}たちが{来|き}ました。でも、ジョンさんは{一日中|いちにちじゅう}{外|そと}にいたので、もう{疲|つか}れて{眠|ねむ}くなっていました。{課長|かちょう}が「{乾杯|かんぱい}！」と{言|い}ったとき、ジョンさんはシートの{上|うえ}で{寝|ね}てしまっていました。",
+    "en": "At six in the evening, the people from the company arrived. But because John had been outside all day, he was already tired and sleepy. When the manager said \"Cheers!\", John had fallen asleep on the sheet."
+   },
+   {
+    "jp": "{次|つぎ}の{日|ひ}、{課長|かちょう}は「{昨日|きのう}はありがとう。{来年|らいねん}もお{願|ねが}いね」と{笑|わら}いました。ジョンさんは「はい。でも{来年|らいねん}は、{大学生|だいがくせい}たちと{飲|の}みすぎないようにします」と{答|こた}えました。",
+    "en": "The next day, the manager laughed and said, \"Thanks for yesterday. I'm counting on you next year too.\" John replied, \"Yes. But next year I'll try not to drink too much with the university students.\""
+   }
+  ],
+  "questions": [
+   {
+    "q": "ジョンさんは{課長|かちょう}に{何|なに}を{頼|たの}まれましたか。",
+    "q_en": "What was John asked to do by the manager?",
+    "options": [
+     "{朝|あさ}から{公園|こうえん}で{場所|ばしょ}をとること",
+     "おにぎりを{作|つく}ること",
+     "{桜|さくら}の{写真|しゃしん}を{撮|と}ること",
+     "{大学生|だいがくせい}を{誘|さそ}うこと"
+    ],
+    "answer": 0,
+    "why": "He was asked to save a spot at the park from the morning."
+   },
+   {
+    "q": "{会社|かいしゃ}の{人|ひと}たちが{乾杯|かんぱい}したとき、ジョンさんはどうしていましたか。",
+    "q_en": "What was John doing when his coworkers made a toast?",
+    "options": [
+     "{歌|うた}を{歌|うた}っていた",
+     "{寝|ね}ていた",
+     "{家|いえ}に{帰|かえ}っていた",
+     "ビールを{買|か}いに{行|い}っていた"
+    ],
+    "answer": 1,
+    "why": "He was tired from being outside all day (and from drinking) and fell asleep."
+   }
+  ]
+ },
+ {
+  "id": "s4-034",
+  "level": 4,
+  "title": "{花火|はなび}の{夜|よる}",
+  "title_en": "The Night of the Fireworks",
+  "genre_raw": "Romance",
+  "paragraphs": [
+   {
+    "jp": "{七月|しちがつ}の{終|お}わり、{大学|だいがく}の{同|おな}じクラスのけんたくんが、エマさんを{花火|はなび}{大会|たいかい}に{誘|さそ}いました。エマさんは{前|まえ}からけんたくんのことが{気|き}になっていたので、すぐに「{行|い}きたい！」と{返事|へんじ}をしました。{友|とも}だちが{浴衣|ゆかた}を{貸|か}してくれて、{着方|きかた}も{教|おし}えてくれました。",
+    "en": "At the end of July, Kenta, a classmate at university, invited Emma to a fireworks festival. Emma had been interested in Kenta for a while, so she immediately replied, \"I want to go!\" Her friend lent her a yukata and also taught her how to put it on."
+   },
+   {
+    "jp": "{当日|とうじつ}、{駅|えき}は{人|ひと}でいっぱいでした。{浴衣|ゆかた}を{着|き}たエマさんを{見|み}て、けんたくんは{少|すこ}し{赤|あか}い{顔|かお}で「{似合|にあ}ってるね」と{言|い}いました。{二人|ふたり}は{屋台|やたい}でかき{氷|ごおり}と{焼|や}きそばを{買|か}って、{川|かわ}の{近|ちか}くへ{歩|ある}いていきました。",
+    "en": "On the day, the station was packed with people. Seeing Emma in her yukata, Kenta said with a slightly red face, \"It suits you.\" The two bought shaved ice and yakisoba at food stalls and walked toward the river."
+   },
+   {
+    "jp": "ところが、{人|ひと}が{多|おお}すぎて、{途中|とちゅう}で{二人|ふたり}は{離|はな}れてしまいました。エマさんは{電話|でんわ}をかけましたが、{電波|でんぱ}が{悪|わる}くて、つながりません。{花火|はなび}が{始|はじ}まる{時間|じかん}が{近|ちか}づいて、エマさんはだんだん{不安|ふあん}になりました。",
+    "en": "However, there were too many people, and the two got separated on the way. Emma called him, but the signal was bad and she couldn't get through. As the time for the fireworks to start came closer, Emma became more and more worried."
+   },
+   {
+    "jp": "そのとき、エマさんは{前|まえ}にけんたくんが{言|い}ったことを{思|おも}い{出|だ}しました。「もし{迷子|まいご}になったら、{大|おお}きい{橋|はし}の{下|した}で{会|あ}おう」{急|いそ}いで{橋|はし}へ{行|い}くと、けんたくんが{手|て}を{振|ふ}って{待|ま}っていました。",
+    "en": "Just then, Emma remembered something Kenta had said before: \"If we get lost, let's meet under the big bridge.\" When she hurried to the bridge, Kenta was waiting there, waving his hand."
+   },
+   {
+    "jp": "{二人|ふたり}が{会|あ}えた{瞬間|しゅんかん}、{空|そら}に{大|おお}きな{花火|はなび}が{上|あ}がりました。けんたくんは「もう{離|はな}れないように」と{言|い}って、エマさんの{手|て}をそっとつなぎました。{花火|はなび}の{音|おと}より、エマさんの{心臓|しんぞう}の{音|おと}のほうが{大|おお}きかったかもしれません。",
+    "en": "The moment the two met up, a big firework went up into the sky. Kenta said, \"So we don't get separated again,\" and gently took Emma's hand. Emma's heartbeat may have been louder than the sound of the fireworks."
+   }
+  ],
+  "questions": [
+   {
+    "q": "エマさんはどうしてけんたくんに{電話|でんわ}がつながりませんでしたか。",
+    "q_en": "Why couldn't Emma's call get through to Kenta?",
+    "options": [
+     "けんたくんが{電話|でんわ}を{忘|わす}れたから",
+     "{電話|でんわ}の{電池|でんち}がなかったから",
+     "{電波|でんぱ}が{悪|わる}かったから",
+     "{番号|ばんごう}を{知|し}らなかったから"
+    ],
+    "answer": 2,
+    "why": "The signal was bad because of the crowd."
+   },
+   {
+    "q": "{二人|ふたり}はどこで{会|あ}えましたか。",
+    "q_en": "Where did the two find each other?",
+    "options": [
+     "{駅|えき}の{前|まえ}",
+     "{屋台|やたい}の{近|ちか}く",
+     "{大学|だいがく}",
+     "{大|おお}きい{橋|はし}の{下|した}"
+    ],
+    "answer": 3,
+    "why": "Kenta had said to meet under the big bridge if they got lost."
+   }
+  ]
+ },
+ {
+  "id": "s4-035",
+  "level": 4,
+  "title": "ホームステイの{家族|かぞく}",
+  "title_en": "My Homestay Family",
+  "genre_raw": "Slice of life",
+  "paragraphs": [
+   {
+    "jp": "ルーカスさんは{三週間|さんしゅうかん}、{福岡|ふくおか}の{山本|やまもと}さんの{家|いえ}にホームステイしました。{家族|かぞく}はお{父|とう}さんとお{母|かあ}さん、{中学生|ちゅうがくせい}のゆうとくん、それに{犬|いぬ}のコロです。{最初|さいしょ}の{日|ひ}、ルーカスさんは{緊張|きんちょう}して、あまり{話|はな}せませんでした。",
+    "en": "Lucas did a homestay at the Yamamoto family's home in Fukuoka for three weeks. The family was the father, the mother, a junior high school student named Yuto, and their dog Koro. On the first day, Lucas was nervous and couldn't talk much."
+   },
+   {
+    "jp": "{次|つぎ}の{朝|あさ}、お{母|かあ}さんが{作|つく}った{朝|あさ}ご{飯|はん}には、{納豆|なっとう}がありました。ルーカスさんは{納豆|なっとう}のにおいが{苦手|にがて}でしたが、{残|のこ}すのは{失礼|しつれい}だと{思|おも}って、{全部|ぜんぶ}{食|た}べました。するとお{母|かあ}さんは「{納豆|なっとう}が{好|す}きなのね！」と{喜|よろこ}んで、{毎朝|まいあさ}{納豆|なっとう}を{出|だ}してくれるようになりました。",
+    "en": "The next morning, the breakfast the mother made had natto. Lucas didn't like the smell of natto, but he thought leaving it would be rude, so he ate it all. Then the mother happily said, \"So you like natto!\" and started serving him natto every morning."
+   },
+   {
+    "jp": "{一週間|いっしゅうかん}たったころ、ゆうとくんが{小|ちい}さい{声|こえ}で{聞|き}きました。「ルーカスさん、{本当|ほんとう}は{納豆|なっとう}、{好|す}きじゃないでしょう？{顔|かお}を{見|み}ればわかるよ」ルーカスさんは{笑|わら}って、「{実|じつ}は…」と{本当|ほんとう}のことを{話|はな}しました。",
+    "en": "About a week later, Yuto asked quietly, \"Lucas, you don't really like natto, do you? I can tell by looking at your face.\" Lucas laughed and told the truth: \"Actually...\""
+   },
+   {
+    "jp": "その{夜|よる}、ゆうとくんがお{母|かあ}さんに{話|はな}してくれました。お{母|かあ}さんは「{言|い}ってくれればよかったのに！」とびっくりしましたが、{怒|おこ}りませんでした。それから{家族|かぞく}みんなで、{好|す}きな{食|た}べ{物|もの}や{嫌|きら}いな{食|た}べ{物|もの}の{話|はなし}をして、{遅|おそ}くまで{笑|わら}いました。その{日|ひ}から、ルーカスさんは{何|なん}でも{話|はな}せるようになりました。",
+    "en": "That night, Yuto told his mother for him. The mother was surprised — \"You should have told me!\" — but she wasn't angry. Then the whole family talked about foods they liked and disliked, and laughed until late. From that day on, Lucas became able to talk about anything."
+   },
+   {
+    "jp": "{帰|かえ}る{日|ひ}、{空港|くうこう}でお{母|かあ}さんが{小|ちい}さい{袋|ふくろ}をくれました。{中|なか}には{手紙|てがみ}と、{納豆|なっとう}の{形|かたち}のキーホルダーが{入|はい}っていました。ルーカスさんは{泣|な}きながら{笑|わら}ってしまいました。",
+    "en": "On the day he went home, the mother gave him a small bag at the airport. Inside were a letter and a key ring shaped like natto. Lucas laughed while crying."
+   }
+  ],
+  "questions": [
+   {
+    "q": "ルーカスさんはどうして{納豆|なっとう}を{全部|ぜんぶ}{食|た}べましたか。",
+    "q_en": "Why did Lucas eat all the natto?",
+    "options": [
+     "{残|のこ}すのは{失礼|しつれい}だと{思|おも}ったから",
+     "{納豆|なっとう}が{大好|だいす}きだから",
+     "とてもおなかがすいていたから",
+     "ゆうとくんに{言|い}われたから"
+    ],
+    "answer": 0,
+    "why": "He thought leaving food would be rude."
+   },
+   {
+    "q": "{本当|ほんとう}のことを{知|し}って、お{母|かあ}さんはどうしましたか。",
+    "q_en": "What did the mother do when she learned the truth?",
+    "options": [
+     "{怒|おこ}って{部屋|へや}に{入|はい}った",
+     "{毎朝|まいあさ}もっと{納豆|なっとう}を{出|だ}した",
+     "びっくりしたが、{怒|おこ}らなかった",
+     "ルーカスさんを{家|いえ}に{帰|かえ}した"
+    ],
+    "answer": 2,
+    "why": "She was surprised but not angry."
+   }
+  ]
+ },
+ {
+  "id": "s4-036",
+  "level": 4,
+  "title": "{初|はじ}めての{病院|びょういん}",
+  "title_en": "My First Hospital Visit",
+  "genre_raw": "Daily life",
+  "paragraphs": [
+   {
+    "jp": "{日本|にほん}に{来|き}て{三か月|さんかげつ}たったある{朝|あさ}、アミットさんは{熱|ねつ}が{出|で}て、のどもとても{痛|いた}くなりました。{日本|にほん}の{病院|びょういん}に{行|い}ったことがなかったので、どうすればいいかわかりませんでした。{会社|かいしゃ}に{電話|でんわ}すると、{同僚|どうりょう}のさとうさんが「{近|ちか}くの{病院|びょういん}を{調|しら}べてあげるよ」と{言|い}ってくれました。",
+    "en": "One morning, three months after coming to Japan, Amit got a fever and his throat became very sore. He had never been to a Japanese hospital, so he didn't know what to do. When he called his company, his coworker Ms. Sato said, \"I'll look up a nearby clinic for you.\""
+   },
+   {
+    "jp": "{病院|びょういん}に{着|つ}くと、{受付|うけつけ}の{人|ひと}に「{保険証|ほけんしょう}を{見|み}せてください」と{言|い}われました。それから、{紙|かみ}を{渡|わた}されて、{体|からだ}の{具合|ぐあい}を{書|か}くように{言|い}われました。{漢字|かんじ}が{多|おお}くて{読|よ}めませんでしたが、{受付|うけつけ}の{人|ひと}がやさしい{日本語|にほんご}で{一|ひと}つずつ{説明|せつめい}してくれました。",
+    "en": "When he arrived at the clinic, the receptionist said, \"Please show me your health insurance card.\" Then he was handed a sheet of paper and told to write about his symptoms. There were so many kanji he couldn't read it, but the receptionist explained each item one by one in easy Japanese."
+   },
+   {
+    "jp": "{三十分|さんじゅっぷん}ぐらい{待|ま}ってから、{名前|なまえ}を{呼|よ}ばれました。お{医者|いしゃ}さんは{口|くち}の{中|なか}を{見|み}て、「かぜですね。{薬|くすり}を{出|だ}しておきます。{三日|みっか}ぐらいは{仕事|しごと}を{休|やす}んで、よく{寝|ね}てください」と{言|い}いました。",
+    "en": "After waiting about thirty minutes, his name was called. The doctor looked inside his mouth and said, \"It's a cold. I'll prescribe some medicine. Please take about three days off work and sleep well.\""
+   },
+   {
+    "jp": "{薬局|やっきょく}で{薬|くすり}をもらうとき、{薬剤師|やくざいし}さんが「この{薬|くすり}は{一日|いちにち}{三回|さんかい}、ご{飯|はん}を{食|た}べたあとで{飲|の}んでくださいね」と{教|おし}えてくれました。アミットさんは{忘|わす}れないように、スマホにメモしました。",
+    "en": "When he picked up his medicine at the pharmacy, the pharmacist told him, \"Please take this medicine three times a day, after meals.\" Amit made a note on his smartphone so he wouldn't forget."
+   },
+   {
+    "jp": "{三日後|みっかご}、{元気|げんき}になったアミットさんが{会社|かいしゃ}に{行|い}くと、さとうさんが「もう{大丈夫|だいじょうぶ}？」と{聞|き}いてくれました。アミットさんは「おかげさまで。{病院|びょういん}で{日本語|にほんご}の{勉強|べんきょう}もできました」と{答|こた}えて、{二人|ふたり}で{笑|わら}いました。",
+    "en": "Three days later, when Amit went to work feeling better, Ms. Sato asked him, \"Are you all right now?\" Amit answered, \"Yes, thanks to you. I even got to study Japanese at the hospital,\" and they both laughed."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{受付|うけつけ}で、アミットさんは{最初|さいしょ}に{何|なに}を{見|み}せましたか。",
+    "q_en": "What did Amit first show at reception?",
+    "options": [
+     "パスポート",
+     "{会社|かいしゃ}のカード",
+     "{薬|くすり}",
+     "{保険証|ほけんしょう}"
+    ],
+    "answer": 3,
+    "why": "The receptionist asked to see his health insurance card."
+   },
+   {
+    "q": "{薬|くすり}はいつ{飲|の}みますか。",
+    "q_en": "When should he take the medicine?",
+    "options": [
+     "{寝|ね}る{前|まえ}に{一回|いっかい}",
+     "ご{飯|はん}のあとで{一日|いちにち}{三回|さんかい}",
+     "ご{飯|はん}の{前|まえ}に{一日|いちにち}{二回|にかい}",
+     "{熱|ねつ}が{出|で}たときだけ"
+    ],
+    "answer": 1,
+    "why": "The pharmacist said three times a day, after meals."
+   },
+   {
+    "q": "お{医者|いしゃ}さんはアミットさんに{何|なに}と{言|い}いましたか。",
+    "q_en": "What did the doctor tell Amit?",
+    "options": [
+     "{明日|あした}から{仕事|しごと}に{行|い}ってもいい",
+     "{大|おお}きい{病院|びょういん}に{行|い}ったほうがいい",
+     "{三日|みっか}ぐらい{休|やす}んで、よく{寝|ね}る",
+     "{薬|くすり}は{要|い}らない"
+    ],
+    "answer": 2,
+    "why": "The doctor said to rest about three days and sleep well."
+   }
+  ]
+ }
+]

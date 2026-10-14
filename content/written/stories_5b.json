@@ -1,0 +1,710 @@
+[
+ {
+  "id": "s5-013",
+  "level": 5,
+  "title": "{桃太郎|ももたろう}",
+  "title_en": "Momotaro, the Peach Boy",
+  "genre_raw": "Folk tale",
+  "paragraphs": [
+   {
+    "jp": "むかしむかし、{小|ちい}さい{村|むら}に、おじいさんとおばあさんがいました。ある{日|ひ}、おばあさんは{川|かわ}で{洗濯|せんたく}をしていました。すると、{大|おお}きな{桃|もも}が{川|かわ}を{流|なが}れてきました。おばあさんはその{桃|もも}を{家|いえ}に{持|も}って{帰|かえ}りました。",
+    "en": "Long, long ago, an old man and an old woman lived in a small village. One day, the old woman was washing clothes in the river. Then a big peach came floating down the river. She took the peach home."
+   },
+   {
+    "jp": "おじいさんが{桃|もも}を{切|き}ると、{中|なか}から{元気|げんき}な{男|おとこ}の{子|こ}が{出|で}てきました。ふたりはとても{喜|よろこ}んで、{男|おとこ}の{子|こ}に「{桃太郎|ももたろう}」という{名前|なまえ}をつけました。{桃太郎|ももたろう}はたくさん{食|た}べて、{大|おお}きくて{強|つよ}い{男|おとこ}の{子|こ}になりました。",
+    "en": "When the old man cut the peach, a lively baby boy came out of it. The two were very happy and named him Momotaro. Momotaro ate a lot and became a big, strong boy."
+   },
+   {
+    "jp": "そのころ、{鬼|おに}が{村|むら}の{人|ひと}たちのお{金|かね}や{食|た}べ{物|もの}をとっていました。{桃太郎|ももたろう}は「{鬼ヶ島|おにがしま}へ{行|い}きます」と{言|い}いました。おばあさんはおいしいきびだんごを{作|つく}りました。",
+    "en": "At that time, ogres were taking the villagers' money and food. Momotaro said, 'I will go to Ogre Island.' The old woman made him some tasty millet dumplings."
+   },
+   {
+    "jp": "{道|みち}で、{桃太郎|ももたろう}は{犬|いぬ}と{猿|さる}ときじに{会|あ}いました。きびだんごを{一|ひと}つずつあげると、みんな{友|とも}だちになって、{一緒|いっしょ}に{行|い}きました。{鬼ヶ島|おにがしま}で、みんなはがんばってたたかいました。",
+    "en": "On the way, Momotaro met a dog, a monkey and a pheasant. When he gave each of them a dumpling, they all became his friends and went with him. On Ogre Island, they all fought hard."
+   },
+   {
+    "jp": "{鬼|おに}は「すみません。もう{悪|わる}いことはしません」と{言|い}いました。{桃太郎|ももたろう}たちは{宝物|たからもの}を{持|も}って{村|むら}に{帰|かえ}りました。おじいさんとおばあさんはとても{喜|よろこ}びました。",
+    "en": "The ogres said, 'We are sorry. We will not do bad things anymore.' Momotaro and his friends took the treasure back to the village. The old man and the old woman were very happy."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{桃太郎|ももたろう}はどこから{出|で}てきましたか。",
+    "q_en": "Where did Momotaro come out of?",
+    "options": [
+     "{川|かわ}の{中|なか}から",
+     "{大|おお}きな{桃|もも}の{中|なか}から",
+     "{鬼ヶ島|おにがしま}から",
+     "おばあさんの{家|いえ}の{庭|にわ}から"
+    ],
+    "answer": 1,
+    "why": "He came out when the old man cut the big peach."
+   },
+   {
+    "q": "{犬|いぬ}と{猿|さる}ときじは、どうして{桃太郎|ももたろう}の{友|とも}だちになりましたか。",
+    "q_en": "Why did the dog, monkey and pheasant become Momotaro's friends?",
+    "options": [
+     "{鬼|おに}がこわかったから",
+     "おばあさんに{言|い}われたから",
+     "{宝物|たからもの}がほしかったから",
+     "きびだんごをもらったから"
+    ],
+    "answer": 3,
+    "why": "Momotaro gave each of them a millet dumpling."
+   }
+  ]
+ },
+ {
+  "id": "s5-014",
+  "level": 5,
+  "title": "{浦島太郎|うらしまたろう}",
+  "title_en": "Urashima Taro",
+  "genre_raw": "Folk tale",
+  "paragraphs": [
+   {
+    "jp": "むかし、{海|うみ}の{近|ちか}くに{浦島太郎|うらしまたろう}という{若|わか}い{男|おとこ}の{人|ひと}がいました。ある{日|ひ}、{子|こ}どもたちが{小|ちい}さいかめをいじめていました。{太郎|たろう}は「やめなさい」と{言|い}って、かめを{海|うみ}に{帰|かえ}しました。",
+    "en": "Long ago, a young man called Urashima Taro lived near the sea. One day, some children were being mean to a small turtle. Taro said, 'Stop it,' and returned the turtle to the sea."
+   },
+   {
+    "jp": "{次|つぎ}の{日|ひ}、{大|おお}きいかめが{来|き}て、「きのうはありがとうございました。{竜宮城|りゅうぐうじょう}へ{行|い}きませんか」と{言|い}いました。{太郎|たろう}はかめの{背中|せなか}に{乗|の}って、{海|うみ}の{中|なか}へ{行|い}きました。",
+    "en": "The next day, a big turtle came and said, 'Thank you for yesterday. Would you like to come to the Dragon Palace?' Taro rode on the turtle's back and went down into the sea."
+   },
+   {
+    "jp": "{竜宮城|りゅうぐうじょう}はとてもきれいなところでした。{美|うつく}しい{乙姫|おとひめ}さまが{太郎|たろう}を{待|ま}っていました。{太郎|たろう}は{毎日|まいにち}おいしいごちそうを{食|た}べて、{魚|さかな}たちのおどりを{見|み}ました。とても{楽|たの}しかったです。",
+    "en": "The Dragon Palace was a very beautiful place. The lovely Princess Otohime was waiting for Taro. Every day he ate delicious food and watched the fish dance. He had a wonderful time."
+   },
+   {
+    "jp": "でも、{少|すこ}しして、{太郎|たろう}はお{母|かあ}さんに{会|あ}いたくなりました。{乙姫|おとひめ}さまは{小|ちい}さい{箱|はこ}をくれて、「この{箱|はこ}は{開|あ}けないでください」と{言|い}いました。",
+    "en": "But after a while, Taro wanted to see his mother. Princess Otohime gave him a small box and said, 'Please do not open this box.'"
+   },
+   {
+    "jp": "{村|むら}に{帰|かえ}ると、{家|いえ}もお{母|かあ}さんもありませんでした。{知|し}っている{人|ひと}もいませんでした。{竜宮城|りゅうぐうじょう}の{三年|さんねん}は、{村|むら}では{三百年|さんびゃくねん}でした。{太郎|たろう}はさびしくて、{箱|はこ}を{開|あ}けました。すると、{白|しろ}いけむりが{出|で}て、{太郎|たろう}はおじいさんになりました。",
+    "en": "When he got back to his village, his house and his mother were gone. There was no one he knew. Three years in the Dragon Palace had been three hundred years in the village. Taro was lonely, so he opened the box. White smoke came out, and Taro became an old man."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{太郎|たろう}はどうやって{竜宮城|りゅうぐうじょう}へ{行|い}きましたか。",
+    "q_en": "How did Taro go to the Dragon Palace?",
+    "options": [
+     "{舟|ふね}に{乗|の}って{行|い}きました。",
+     "{乙姫|おとひめ}さまと{泳|およ}いで{行|い}きました。",
+     "かめの{背中|せなか}に{乗|の}って{行|い}きました。",
+     "{子|こ}どもたちと{歩|ある}いて{行|い}きました。"
+    ],
+    "answer": 2,
+    "why": "The big turtle carried Taro on its back."
+   },
+   {
+    "q": "{村|むら}に{帰|かえ}ったとき、どうして{知|し}っている{人|ひと}がいませんでしたか。",
+    "q_en": "Why was there no one Taro knew when he returned?",
+    "options": [
+     "{村|むら}では{三百年|さんびゃくねん}たっていたから",
+     "みんな{竜宮城|りゅうぐうじょう}へ{行|い}ったから",
+     "{太郎|たろう}がおじいさんになったから",
+     "ちがう{村|むら}に{帰|かえ}ったから"
+    ],
+    "answer": 0,
+    "why": "Three years in the palace were three hundred years in the village."
+   },
+   {
+    "q": "{箱|はこ}を{開|あ}けると、どうなりましたか。",
+    "q_en": "What happened when he opened the box?",
+    "options": [
+     "{乙姫|おとひめ}さまが{出|で}てきました。",
+     "{太郎|たろう}はおじいさんになりました。",
+     "お{母|かあ}さんが{帰|かえ}ってきました。",
+     "{宝物|たからもの}がたくさん{出|で}てきました。"
+    ],
+    "answer": 1,
+    "why": "White smoke came out and turned Taro into an old man."
+   }
+  ]
+ },
+ {
+  "id": "s5-015",
+  "level": 5,
+  "title": "{笠地蔵|かさじぞう}",
+  "title_en": "The Straw Hats and the Jizo Statues",
+  "genre_raw": "Folk tale",
+  "paragraphs": [
+   {
+    "jp": "むかし、{山|やま}の{村|むら}に、お{金|かね}がないおじいさんとおばあさんがいました。もうすぐお{正月|しょうがつ}でしたが、{家|いえ}にはお{米|こめ}がありませんでした。おじいさんは{笠|かさ}を{五|いつ}つ{作|つく}って、{町|まち}へ{売|う}りに{行|い}きました。",
+    "en": "Long ago, a poor old man and old woman lived in a mountain village. New Year was coming soon, but they had no rice at home. The old man made five straw hats and went to town to sell them."
+   },
+   {
+    "jp": "でも、その{日|ひ}は{雪|ゆき}で、{町|まち}にはあまり{人|ひと}がいませんでした。{笠|かさ}は{一|ひと}つも{売|う}れませんでした。おじいさんは{笠|かさ}を{持|も}って、{寒|さむ}い{道|みち}を{帰|かえ}りました。",
+    "en": "But it was snowing that day, and there were not many people in town. He could not sell a single hat. The old man walked home along the cold road with the hats."
+   },
+   {
+    "jp": "{道|みち}に、{六|むっ}つのお{地蔵|じぞう}さまが{立|た}っていました。{頭|あたま}の{上|うえ}に{雪|ゆき}がたくさんありました。「{寒|さむ}いでしょう」と、おじいさんはお{地蔵|じぞう}さまに{笠|かさ}をかぶせました。でも、{笠|かさ}は{五|いつ}つだけです。おじいさんは{最後|さいご}のお{地蔵|じぞう}さまに、{自分|じぶん}の{手|て}ぬぐいをかぶせました。",
+    "en": "Six Jizo statues stood by the road. There was a lot of snow on their heads. 'You must be cold,' said the old man, and he put the hats on the statues. But there were only five hats. He put his own hand towel on the last statue."
+   },
+   {
+    "jp": "{家|いえ}に{帰|かえ}って{話|はな}すと、おばあさんは「いいことをしましたね」と{言|い}いました。その{夜|よる}、{外|そと}から「よいしょ、よいしょ」という{声|こえ}が{聞|き}こえました。",
+    "en": "When he got home and told her, the old woman said, 'You did a good thing.' That night, they heard voices outside saying, 'Heave-ho, heave-ho.'"
+   },
+   {
+    "jp": "{朝|あさ}、{戸|と}を{開|あ}けると、{家|いえ}の{前|まえ}にお{米|こめ}や{野菜|やさい}やお{餅|もち}がたくさんありました。{雪|ゆき}の{中|なか}を、{笠|かさ}をかぶったお{地蔵|じぞう}さまたちが{帰|かえ}っていきました。ふたりはいいお{正月|しょうがつ}をむかえました。",
+    "en": "In the morning, when they opened the door, there was lots of rice, vegetables and rice cakes in front of the house. The Jizo statues, wearing their hats, were walking away through the snow. The two had a happy New Year."
+   }
+  ],
+  "questions": [
+   {
+    "q": "どうして{笠|かさ}は{売|う}れませんでしたか。",
+    "q_en": "Why didn't the hats sell?",
+    "options": [
+     "{笠|かさ}が{高|たか}かったから",
+     "{雪|ゆき}で、{町|まち}に{人|ひと}があまりいなかったから",
+     "{笠|かさ}がきれいじゃなかったから",
+     "{町|まち}がとても{遠|とお}かったから"
+    ],
+    "answer": 1,
+    "why": "It was snowing and there were few people in town."
+   },
+   {
+    "q": "{最後|さいご}のお{地蔵|じぞう}さまには、{何|なに}をかぶせましたか。",
+    "q_en": "What did he put on the last statue?",
+    "options": [
+     "{新|あたら}しい{笠|かさ}",
+     "おばあさんの{着物|きもの}",
+     "{自分|じぶん}の{手|て}ぬぐい",
+     "{何|なに}もかぶせませんでした"
+    ],
+    "answer": 2,
+    "why": "He had only five hats, so he used his own towel for the sixth."
+   },
+   {
+    "q": "{朝|あさ}、{家|いえ}の{前|まえ}に{何|なに}がありましたか。",
+    "q_en": "What was in front of the house in the morning?",
+    "options": [
+     "お{米|こめ}や{野菜|やさい}やお{餅|もち}",
+     "{五|いつ}つの{笠|かさ}",
+     "たくさんの{雪|ゆき}だけ",
+     "{六|むっ}つのお{地蔵|じぞう}さま"
+    ],
+    "answer": 0,
+    "why": "The statues left food as thanks."
+   }
+  ]
+ },
+ {
+  "id": "s5-016",
+  "level": 5,
+  "title": "{鶴|つる}の{恩返|おんがえ}し",
+  "title_en": "The Grateful Crane",
+  "genre_raw": "Folk tale",
+  "paragraphs": [
+   {
+    "jp": "むかし、{雪|ゆき}の{日|ひ}に、おじいさんが{山|やま}から{帰|かえ}っていました。{道|みち}で、{一羽|いちわ}の{鶴|つる}がわなにかかって{困|こま}っていました。おじいさんはわなをはずして、{鶴|つる}を{助|たす}けました。{鶴|つる}はうれしそうに{空|そら}へ{飛|と}んでいきました。",
+    "en": "Long ago, on a snowy day, an old man was coming home from the mountains. On the road, a crane was caught in a trap. The old man took off the trap and saved the crane. The crane flew happily up into the sky."
+   },
+   {
+    "jp": "その{夜|よる}、{若|わか}くてきれいな{女|おんな}の{人|ひと}が{家|いえ}に{来|き}ました。「{道|みち}がわかりません。{泊|と}めてください」と{言|い}いました。おじいさんとおばあさんは{女|おんな}の{人|ひと}を{家|いえ}に{入|い}れました。{女|おんな}の{人|ひと}はやさしくて、よく{働|はたら}きました。",
+    "en": "That night, a young, beautiful woman came to their house. She said, 'I am lost. Please let me stay the night.' The old man and woman let her in. She was kind and worked hard."
+   },
+   {
+    "jp": "ある{日|ひ}、{女|おんな}の{人|ひと}は「{布|ぬの}を{織|お}ります。でも、{部屋|へや}の{中|なか}を{見|み}ないでください」と{言|い}いました。{三日|みっか}あと、とてもきれいな{布|ぬの}ができました。{町|まち}で{売|う}ると、たくさんのお{金|かね}になりました。",
+    "en": "One day the woman said, 'I will weave some cloth. But please do not look inside the room.' Three days later, a very beautiful cloth was finished. When they sold it in town, they got a lot of money."
+   },
+   {
+    "jp": "{女|おんな}の{人|ひと}はまた{布|ぬの}を{織|お}りました。おばあさんは「どうやって{織|お}っているのかな」と{思|おも}って、{部屋|へや}の{中|なか}を{見|み}てしまいました。そこには{一羽|いちわ}の{鶴|つる}がいて、{自分|じぶん}の{羽|はね}で{布|ぬの}を{織|お}っていました。",
+    "en": "The woman wove cloth again. The old woman wondered, 'How is she weaving it?' and looked into the room. Inside was a crane, weaving the cloth with its own feathers."
+   },
+   {
+    "jp": "{鶴|つる}は「わたしはあの{日|ひ}の{鶴|つる}です。でも、もうここにはいられません」と{言|い}いました。そして、{空|そら}へ{飛|と}んでいきました。おじいさんとおばあさんはとてもさびしくなりました。",
+    "en": "The crane said, 'I am the crane from that day. But I cannot stay here anymore.' Then it flew away into the sky. The old man and woman became very lonely."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{女|おんな}の{人|ひと}は{何|なに}をしないでくださいと{言|い}いましたか。",
+    "q_en": "What did the woman ask them not to do?",
+    "options": [
+     "{布|ぬの}を{売|う}らないでください",
+     "{部屋|へや}の{中|なか}を{見|み}ないでください",
+     "{山|やま}へ{行|い}かないでください",
+     "{鶴|つる}を{助|たす}けないでください"
+    ],
+    "answer": 1,
+    "why": "She asked them not to look inside the room while she wove."
+   },
+   {
+    "q": "{女|おんな}の{人|ひと}は、ほんとうは{何|なん}でしたか。",
+    "q_en": "What was the woman really?",
+    "options": [
+     "{村|むら}のお{姫|ひめ}さま",
+     "おばあさんの{娘|むすめ}",
+     "{町|まち}の{店|みせ}の{人|ひと}",
+     "おじいさんが{助|たす}けた{鶴|つる}"
+    ],
+    "answer": 3,
+    "why": "She was the crane the old man saved from the trap."
+   }
+  ]
+ },
+ {
+  "id": "s5-017",
+  "level": 5,
+  "title": "{金太郎|きんたろう}",
+  "title_en": "Kintaro, the Strong Boy",
+  "genre_raw": "Folk tale",
+  "paragraphs": [
+   {
+    "jp": "むかし、{足柄山|あしがらやま}という{山|やま}に、{金太郎|きんたろう}という{男|おとこ}の{子|こ}がいました。{金太郎|きんたろう}はお{母|かあ}さんと{二人|ふたり}で{住|す}んでいました。{体|からだ}は{小|ちい}さいですが、とても{力|ちから}が{強|つよ}かったです。",
+    "en": "Long ago, a boy called Kintaro lived on a mountain called Ashigara. He lived with his mother. He was small, but he was very strong."
+   },
+   {
+    "jp": "{金太郎|きんたろう}の{友|とも}だちは、{山|やま}の{動物|どうぶつ}たちでした。うさぎやさるやしかと、{毎日|まいにち}{一緒|いっしょ}に{遊|あそ}びました。くまとすもうをしても、{金太郎|きんたろう}はいつも{勝|か}ちました。",
+    "en": "Kintaro's friends were the animals of the mountain. He played with rabbits, monkeys and deer every day. Even when he did sumo with a bear, Kintaro always won."
+   },
+   {
+    "jp": "ある{日|ひ}、みんなで{山|やま}の{向|む}こうへ{行|い}きました。でも、{途中|とちゅう}に{大|おお}きい{川|かわ}があって、{橋|はし}がありませんでした。{動物|どうぶつ}たちは「{渡|わた}れないね」と{困|こま}りました。",
+    "en": "One day, they all went to the other side of the mountain. But on the way there was a big river with no bridge. The animals were stuck. 'We can't cross,' they said."
+   },
+   {
+    "jp": "{金太郎|きんたろう}は{川|かわ}の{近|ちか}くの{大|おお}きな{木|き}を{両手|りょうて}で{押|お}しました。{木|き}はたおれて、{川|かわ}の{上|うえ}に{橋|はし}ができました。{動物|どうぶつ}たちは{大|おお}よろこびで{川|かわ}を{渡|わた}りました。",
+    "en": "Kintaro pushed a big tree near the river with both hands. The tree fell over and made a bridge across the river. The animals happily crossed the river."
+   },
+   {
+    "jp": "それを{見|み}ていたさむらいが、「{強|つよ}くてやさしい{子|こ}ですね。わたしと{一緒|いっしょ}に{都|みやこ}へ{来|き}ませんか」と{言|い}いました。{金太郎|きんたろう}は{大|おお}きくなって、りっぱなさむらいになりました。",
+    "en": "A samurai who saw this said, 'You are a strong and kind boy. Will you come to the capital with me?' Kintaro grew up and became a great samurai."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{金太郎|きんたろう}の{友|とも}だちはだれでしたか。",
+    "q_en": "Who were Kintaro's friends?",
+    "options": [
+     "{村|むら}の{子|こ}どもたち",
+     "{都|みやこ}のさむらいたち",
+     "{山|やま}の{動物|どうぶつ}たち",
+     "{川|かわ}の{魚|さかな}たち"
+    ],
+    "answer": 2,
+    "why": "He played with the mountain animals every day."
+   },
+   {
+    "q": "{金太郎|きんたろう}はどうやって{橋|はし}を{作|つく}りましたか。",
+    "q_en": "How did Kintaro make a bridge?",
+    "options": [
+     "{大|おお}きな{木|き}を{押|お}してたおしました。",
+     "くまと{一緒|いっしょ}に{石|いし}を{運|はこ}びました。",
+     "さむらいに{作|つく}ってもらいました。",
+     "{川|かわ}の{水|みず}を{全部|ぜんぶ}{飲|の}みました。"
+    ],
+    "answer": 0,
+    "why": "He pushed a big tree over so it lay across the river."
+   }
+  ]
+ },
+ {
+  "id": "s5-018",
+  "level": 5,
+  "title": "{一寸法師|いっすんぼうし}",
+  "title_en": "Issun-boshi, the Tiny Boy",
+  "genre_raw": "Folk tale",
+  "paragraphs": [
+   {
+    "jp": "むかし、{子|こ}どもがほしいおじいさんとおばあさんがいました。ある{日|ひ}、{指|ゆび}ぐらいの{小|ちい}さい{男|おとこ}の{子|こ}が{生|う}まれました。ふたりはその{子|こ}を「{一寸法師|いっすんぼうし}」とよびました。{一寸法師|いっすんぼうし}は{何年|なんねん}たっても、{大|おお}きくなりませんでした。",
+    "en": "Long ago, there was an old man and an old woman who wanted a child. One day, a baby boy as small as a finger was born. They called him Issun-boshi. Even after many years, he never grew bigger."
+   },
+   {
+    "jp": "ある{日|ひ}、{一寸法師|いっすんぼうし}は「{都|みやこ}へ{行|い}って、{働|はたら}きたいです」と{言|い}いました。おわんを{舟|ふね}にして、おはしで{川|かわ}をこいで、{都|みやこ}へ{行|い}きました。{刀|かたな}は{一本|いっぽん}の{針|はり}でした。",
+    "en": "One day, Issun-boshi said, 'I want to go to the capital and work.' He used a rice bowl as a boat, rowed down the river with a chopstick, and went to the capital. His sword was a sewing needle."
+   },
+   {
+    "jp": "{都|みやこ}で、{一寸法師|いっすんぼうし}は{大|おお}きいお{屋敷|やしき}で{働|はたら}きました。そこには、やさしいお{姫|ひめ}さまがいました。{一寸法師|いっすんぼうし}は{小|ちい}さいですが、よく{働|はたら}いたので、みんなに{好|す}かれました。",
+    "en": "In the capital, Issun-boshi worked at a big mansion. A kind princess lived there. He was tiny, but he worked hard, so everyone liked him."
+   },
+   {
+    "jp": "ある{日|ひ}、お{姫|ひめ}さまとお{寺|てら}へ{行|い}くとき、{大|おお}きな{鬼|おに}が{出|で}てきました。{鬼|おに}は{一寸法師|いっすんぼうし}をぱくっと{食|た}べてしまいました。でも、{一寸法師|いっすんぼうし}はおなかの{中|なか}で{針|はり}を{何回|なんかい}もさしました。{鬼|おに}は「いたい、いたい」と{言|い}って、{逃|に}げていきました。",
+    "en": "One day, when he was going to a temple with the princess, a huge ogre appeared. The ogre swallowed Issun-boshi in one gulp. But inside its stomach, Issun-boshi stabbed it again and again with his needle. The ogre cried, 'Ouch, ouch!' and ran away."
+   },
+   {
+    "jp": "{鬼|おに}は{打出|うちで}の{小槌|こづち}を{落|お}としていきました。お{姫|ひめ}さまが{小槌|こづち}をふって「{大|おお}きくなれ」と{言|い}うと、{一寸法師|いっすんぼうし}はどんどん{大|おお}きくなりました。そして、お{姫|ひめ}さまと{結婚|けっこん}して、しあわせにくらしました。",
+    "en": "The ogre dropped its magic mallet as it ran. When the princess shook the mallet and said, 'Grow bigger!', Issun-boshi grew bigger and bigger. Then he married the princess, and they lived happily."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{一寸法師|いっすんぼうし}は{何|なに}を{舟|ふね}にしましたか。",
+    "q_en": "What did Issun-boshi use as a boat?",
+    "options": [
+     "おはし",
+     "{針|はり}",
+     "{小槌|こづち}",
+     "おわん"
+    ],
+    "answer": 3,
+    "why": "He used a rice bowl as a boat and a chopstick as an oar."
+   },
+   {
+    "q": "{鬼|おに}はどうして{逃|に}げましたか。",
+    "q_en": "Why did the ogre run away?",
+    "options": [
+     "お{姫|ひめ}さまがこわかったから",
+     "おなかの{中|なか}で{針|はり}でさされたから",
+     "{一寸法師|いっすんぼうし}が{大|おお}きくなったから",
+     "お{寺|てら}の{人|ひと}が{来|き}たから"
+    ],
+    "answer": 1,
+    "why": "Issun-boshi stabbed it from inside its stomach."
+   },
+   {
+    "q": "{一寸法師|いっすんぼうし}はどうやって{大|おお}きくなりましたか。",
+    "q_en": "How did Issun-boshi become big?",
+    "options": [
+     "お{姫|ひめ}さまが{小槌|こづち}をふったから",
+     "たくさんごはんを{食|た}べたから",
+     "{鬼|おに}が{助|たす}けてくれたから",
+     "{何年|なんねん}も{待|ま}ったから"
+    ],
+    "answer": 0,
+    "why": "The princess used the ogre's magic mallet."
+   }
+  ]
+ },
+ {
+  "id": "s5-019",
+  "level": 5,
+  "title": "さるかに{合戦|がっせん}",
+  "title_en": "The Monkey and the Crab",
+  "genre_raw": "Folk tale",
+  "paragraphs": [
+   {
+    "jp": "むかし、かにがおにぎりを{持|も}って{歩|ある}いていました。そこへさるが{来|き}て、「ぼくの{柿|かき}の{種|たね}と、きみのおにぎりを、とりかえませんか」と{言|い}いました。かには{種|たね}をもらって、{庭|にわ}に{植|う}えました。",
+    "en": "Long ago, a crab was walking along with a rice ball. A monkey came and said, 'Shall we swap my persimmon seed for your rice ball?' The crab took the seed and planted it in its garden."
+   },
+   {
+    "jp": "かには{毎日|まいにち}{水|みず}をやりました。{木|き}は{大|おお}きくなって、おいしそうな{柿|かき}がたくさんなりました。でも、かには{木|き}に{登|のぼ}れません。",
+    "en": "The crab watered it every day. The tree grew big, and lots of tasty-looking persimmons grew on it. But the crab could not climb the tree."
+   },
+   {
+    "jp": "さるが{来|き}て、「ぼくがとってあげます」と{言|い}って、{木|き}に{登|のぼ}りました。でも、さるは{赤|あか}い{柿|かき}を{自分|じぶん}で{食|た}べて、かにには{青|あお}くてかたい{柿|かき}を{投|な}げました。かには{大|おお}きなけがをしてしまいました。",
+    "en": "The monkey came, said, 'I'll pick them for you,' and climbed the tree. But the monkey ate the ripe red persimmons himself and threw hard green ones at the crab. The crab was badly hurt."
+   },
+   {
+    "jp": "かにの{子|こ}どもたちはとても{怒|おこ}りました。くりとはちと{臼|うす}が{来|き}て、「{一緒|いっしょ}にさるをやっつけましょう」と{言|い}いました。みんなはさるの{家|いえ}にかくれて、さるを{待|ま}ちました。",
+    "en": "The crab's children were very angry. A chestnut, a bee and a heavy rice mortar came and said, 'Let's beat that monkey together.' They all hid in the monkey's house and waited for him."
+   },
+   {
+    "jp": "さるが{帰|かえ}ってきて、{火|ひ}の{近|ちか}くに{座|すわ}ると、くりがぱんとはねて、さるにあたりました。「あつい！」{水|みず}で{冷|ひ}やそうとすると、はちがさしました。{外|そと}へ{逃|に}げると、{臼|うす}が{上|うえ}から{落|お}ちてきました。さるは「ごめんなさい。もう{悪|わる}いことはしません」とあやまりました。",
+    "en": "When the monkey came home and sat by the fire, the chestnut popped and hit him. 'Hot!' When he tried to cool off with water, the bee stung him. When he ran outside, the mortar fell on him from above. The monkey said, 'I'm sorry. I won't do bad things anymore.'"
+   }
+  ],
+  "questions": [
+   {
+    "q": "さるはかにに{何|なに}をしましたか。",
+    "q_en": "What did the monkey do to the crab?",
+    "options": [
+     "{赤|あか}い{柿|かき}を{全部|ぜんぶ}あげました。",
+     "{柿|かき}の{木|き}に{水|みず}をやりました。",
+     "{青|あお}くてかたい{柿|かき}を{投|な}げました。",
+     "おにぎりを{作|つく}ってあげました。"
+    ],
+    "answer": 2,
+    "why": "He ate the good persimmons and threw hard green ones at the crab."
+   },
+   {
+    "q": "さるが{外|そと}へ{逃|に}げると、どうなりましたか。",
+    "q_en": "What happened when the monkey ran outside?",
+    "options": [
+     "はちがさしました。",
+     "{臼|うす}が{上|うえ}から{落|お}ちてきました。",
+     "くりがはねました。",
+     "かにが{待|ま}っていました。"
+    ],
+    "answer": 1,
+    "why": "The mortar dropped on him from above."
+   }
+  ]
+ },
+ {
+  "id": "s5-020",
+  "level": 5,
+  "title": "{花|はな}さかじいさん",
+  "title_en": "The Old Man Who Made Flowers Bloom",
+  "genre_raw": "Folk tale",
+  "paragraphs": [
+   {
+    "jp": "むかし、やさしいおじいさんとおばあさんが、シロという{白|しろ}い{犬|いぬ}をかっていました。ある{日|ひ}、シロが{畑|はたけ}で「ここほれ、ワンワン」と{鳴|な}きました。おじいさんがそこをほると、{金|きん}がたくさん{出|で}てきました。",
+    "en": "Long ago, a kind old man and old woman had a white dog called Shiro. One day in the field, Shiro barked, 'Dig here, woof woof!' When the old man dug there, lots of gold came out."
+   },
+   {
+    "jp": "となりのいじわるなおじいさんがそれを{見|み}て、シロを{連|つ}れていきました。でも、ほると、{出|で}てきたのはごみだけでした。いじわるなおじいさんは{怒|おこ}って、シロをたたきました。シロは{死|し}んでしまいました。",
+    "en": "The mean old man next door saw this and took Shiro away. But when he dug, only rubbish came out. The mean old man got angry and hit Shiro. Shiro died."
+   },
+   {
+    "jp": "やさしいおじいさんは{泣|な}きながら、シロのおはかに{小|ちい}さい{木|き}を{植|う}えました。{木|き}はすぐに{大|おお}きくなりました。その{木|き}で{臼|うす}を{作|つく}って、おもちをつくと、また{金|きん}がたくさん{出|で}てきました。",
+    "en": "Crying, the kind old man planted a small tree on Shiro's grave. The tree quickly grew big. He made a mortar from its wood, and when he pounded rice cakes in it, lots of gold came out again."
+   },
+   {
+    "jp": "いじわるなおじいさんはその{臼|うす}をかりました。でも、またごみしか{出|で}ませんでした。{怒|おこ}って、{臼|うす}を{燃|も}やしてしまいました。やさしいおじいさんは、その{灰|はい}を{持|も}って{帰|かえ}りました。",
+    "en": "The mean old man borrowed the mortar. But again, only rubbish came out. He got angry and burned the mortar. The kind old man took the ashes home."
+   },
+   {
+    "jp": "{風|かぜ}がふいて、{灰|はい}が{枯|か}れた{木|き}にかかると、きれいな{桜|さくら}の{花|はな}が{咲|さ}きました。おじいさんが{灰|はい}をまくと、{村|むら}じゅうの{木|き}に{花|はな}が{咲|さ}きました。とのさまはとても{喜|よろこ}んで、おじいさんにたくさんのほうびをあげました。",
+    "en": "When the wind blew the ashes onto a dead tree, beautiful cherry blossoms bloomed. When the old man scattered the ashes, flowers bloomed on trees all over the village. The lord was very pleased and gave the old man many rewards."
+   }
+  ],
+  "questions": [
+   {
+    "q": "シロが「ここほれ」と{鳴|な}いたところには、{何|なに}がありましたか。",
+    "q_en": "What was in the place where Shiro barked 'Dig here'?",
+    "options": [
+     "{金|きん}",
+     "ごみ",
+     "{桜|さくら}の{花|はな}",
+     "{灰|はい}"
+    ],
+    "answer": 0,
+    "why": "Gold came out when the kind old man dug there."
+   },
+   {
+    "q": "{灰|はい}が{枯|か}れた{木|き}にかかると、どうなりましたか。",
+    "q_en": "What happened when the ashes fell on a dead tree?",
+    "options": [
+     "{木|き}がたおれました。",
+     "{金|きん}が{出|で}てきました。",
+     "シロが{帰|かえ}ってきました。",
+     "{花|はな}が{咲|さ}きました。"
+    ],
+    "answer": 3,
+    "why": "The ashes made cherry blossoms bloom."
+   }
+  ]
+ },
+ {
+  "id": "s5-021",
+  "level": 5,
+  "title": "おむすびころりん",
+  "title_en": "The Rolling Rice Ball",
+  "genre_raw": "Folk tale",
+  "paragraphs": [
+   {
+    "jp": "むかし、やさしいおじいさんが{山|やま}で{木|き}を{切|き}っていました。お{昼|ひる}になって、おじいさんはおばあさんが{作|つく}ったおむすびを{出|だ}しました。すると、おむすびがころころと{転|ころ}がって、{小|ちい}さい{穴|あな}に{落|お}ちてしまいました。",
+    "en": "Long ago, a kind old man was cutting wood in the mountains. At lunchtime, he took out the rice balls his wife had made. Then one rice ball rolled away and fell into a small hole."
+   },
+   {
+    "jp": "{穴|あな}の{中|なか}から、「おむすびころりん、すっとんとん」というかわいい{歌|うた}が{聞|き}こえました。おじいさんはおもしろくなって、もう{一|ひと}つおむすびを{穴|あな}に{入|い}れました。",
+    "en": "From inside the hole came a cute song: 'Roll, little rice ball, roll, thump-thump!' The old man found it fun, so he dropped another rice ball into the hole."
+   },
+   {
+    "jp": "おじいさんは{穴|あな}に{顔|かお}を{近|ちか}づけました。そのとき、{足|あし}がすべって、{自分|じぶん}も{穴|あな}に{落|お}ちてしまいました。{穴|あな}の{中|なか}には、ねずみたちの{家|いえ}がありました。ねずみたちは「おむすびをありがとう」と{言|い}って、ごちそうを{出|だ}してくれました。",
+    "en": "The old man put his face close to the hole. Just then, his foot slipped and he fell into the hole too. Inside was the home of some mice. The mice said, 'Thank you for the rice balls,' and served him a feast."
+   },
+   {
+    "jp": "{帰|かえ}るとき、ねずみたちは{大|おお}きい{箱|はこ}と{小|ちい}さい{箱|はこ}を{出|だ}しました。おじいさんは{小|ちい}さい{箱|はこ}をもらいました。{家|いえ}で{開|あ}けると、{中|なか}には{金|きん}がたくさん{入|はい}っていました。",
+    "en": "When he was leaving, the mice brought out a big box and a small box. The old man took the small box. When he opened it at home, it was full of gold."
+   },
+   {
+    "jp": "となりのよくばりなおじいさんがこれを{聞|き}いて、{自分|じぶん}も{穴|あな}に{入|はい}りました。そして、ねこのまねをして「ニャーオ」と{鳴|な}いて、{金|きん}を{全部|ぜんぶ}とろうとしました。ねずみたちはびっくりして、{逃|に}げてしまいました。よくばりなおじいさんは{何|なに}ももらえませんでした。",
+    "en": "The greedy old man next door heard about this and went into the hole himself. Then he pretended to be a cat, cried 'Meow!', and tried to take all the gold. The mice were shocked and ran away. The greedy old man got nothing."
+   }
+  ],
+  "questions": [
+   {
+    "q": "おむすびはどこに{落|お}ちましたか。",
+    "q_en": "Where did the rice ball fall?",
+    "options": [
+     "{川|かわ}の{中|なか}",
+     "{小|ちい}さい{穴|あな}の{中|なか}",
+     "ねこの{家|いえ}",
+     "おばあさんの{箱|はこ}の{中|なか}"
+    ],
+    "answer": 1,
+    "why": "It rolled into a small hole where mice lived."
+   },
+   {
+    "q": "よくばりなおじいさんは、どうして{何|なに}ももらえませんでしたか。",
+    "q_en": "Why did the greedy old man get nothing?",
+    "options": [
+     "{大|おお}きい{箱|はこ}をえらんだから",
+     "おむすびを{持|も}っていかなかったから",
+     "ねこのまねをして、ねずみが{逃|に}げたから",
+     "{穴|あな}が{小|ちい}さくて{入|はい}れなかったから"
+    ],
+    "answer": 2,
+    "why": "He meowed like a cat, so the mice ran away."
+   }
+  ]
+ },
+ {
+  "id": "s5-022",
+  "level": 5,
+  "title": "かちかち{山|やま}",
+  "title_en": "Crackle-Crackle Mountain",
+  "genre_raw": "Folk tale",
+  "paragraphs": [
+   {
+    "jp": "むかし、おじいさんとおばあさんの{畑|はたけ}に、いたずらなたぬきが{来|き}ていました。ある{日|ひ}、おじいさんはたぬきをつかまえて、ひもでしばりました。",
+    "en": "Long ago, a naughty raccoon dog kept coming to an old couple's field to eat their vegetables. One day, the old man caught the raccoon dog and tied it up with rope."
+   },
+   {
+    "jp": "たぬきは「もう{悪|わる}いことはしません。ひもをとってください」とおばあさんに{言|い}いました。やさしいおばあさんがひもをとると、たぬきはおばあさんをつきとばして、{逃|に}げていきました。おばあさんはけがをしてしまいました。",
+    "en": "The raccoon dog said to the old woman, 'I won't do bad things anymore. Please untie me.' When the kind old woman untied it, the raccoon dog pushed her over and ran away. The old woman was hurt."
+   },
+   {
+    "jp": "それを{聞|き}いたうさぎは、とても{怒|おこ}りました。うさぎはたぬきと{山|やま}へたきぎをとりに{行|い}きました。{帰|かえ}り{道|みち}、うさぎはたぬきの{背中|せなか}のたきぎに{火|ひ}をつけました。「かちかち」という{音|おと}がしました。「{何|なん}の{音|おと}？」「ここはかちかち{山|やま}だから、かちかち{鳥|どり}が{鳴|な}いているんですよ」",
+    "en": "A rabbit heard about this and got very angry. The rabbit went to the mountain with the raccoon dog to collect firewood. On the way back, the rabbit lit the firewood on the raccoon dog's back. There was a 'click-click' sound. 'What's that sound?' 'This is Crackle-Crackle Mountain, so the crackle-crackle bird is singing.'"
+   },
+   {
+    "jp": "たぬきは{背中|せなか}にやけどをしました。それから、うさぎは「{海|うみ}へ{魚|さかな}をとりに{行|い}きましょう」と{言|い}いました。うさぎは{木|き}の{舟|ふね}に、たぬきは{泥|どろ}の{舟|ふね}に{乗|の}りました。",
+    "en": "The raccoon dog got burns on its back. Next, the rabbit said, 'Let's go fishing in the sea.' The rabbit got into a wooden boat, and the raccoon dog got into a mud boat."
+   },
+   {
+    "jp": "{海|うみ}に{出|で}ると、{泥|どろ}の{舟|ふね}は{溶|と}けてきました。たぬきは「{助|たす}けて！ごめんなさい。もう{悪|わる}いことはしません」と{何回|なんかい}もあやまりました。うさぎは「ほんとうですね」と{言|い}って、たぬきを{木|き}の{舟|ふね}に{乗|の}せました。",
+    "en": "Out at sea, the mud boat began to melt. The raccoon dog cried, 'Help! I'm sorry. I won't do bad things anymore,' over and over. The rabbit said, 'You really mean it?' and pulled it into the wooden boat."
+   }
+  ],
+  "questions": [
+   {
+    "q": "たぬきはおばあさんに{何|なに}をしましたか。",
+    "q_en": "What did the raccoon dog do to the old woman?",
+    "options": [
+     "つきとばして、けがをさせました。",
+     "{野菜|やさい}をあげました。",
+     "ひもでしばりました。",
+     "{舟|ふね}に{乗|の}せました。"
+    ],
+    "answer": 0,
+    "why": "After she untied it, it pushed her over and she was hurt."
+   },
+   {
+    "q": "たぬきはどんな{舟|ふね}に{乗|の}りましたか。",
+    "q_en": "What kind of boat did the raccoon dog ride in?",
+    "options": [
+     "{木|き}の{舟|ふね}",
+     "{大|おお}きい{舟|ふね}",
+     "{泥|どろ}の{舟|ふね}",
+     "うさぎと{同|おな}じ{舟|ふね}"
+    ],
+    "answer": 2,
+    "why": "The rabbit gave it a boat made of mud, which melted."
+   }
+  ]
+ },
+ {
+  "id": "s5-023",
+  "level": 5,
+  "title": "かぐや{姫|ひめ}",
+  "title_en": "Princess Kaguya",
+  "genre_raw": "Folk tale",
+  "paragraphs": [
+   {
+    "jp": "むかし、{竹|たけ}を{取|と}るおじいさんがいました。ある{日|ひ}、{竹|たけ}の{林|はやし}の{中|なか}に、{光|ひか}っている{竹|たけ}が{一本|いっぽん}ありました。{切|き}ってみると、{中|なか}に{小|ちい}さくてかわいい{女|おんな}の{子|こ}がいました。おじいさんは{女|おんな}の{子|こ}を{家|いえ}に{連|つ}れて{帰|かえ}りました。",
+    "en": "Long ago, there was an old man who cut bamboo. One day, in a bamboo grove, there was one bamboo stalk that was shining. When he cut it open, there was a tiny, cute girl inside. The old man took her home."
+   },
+   {
+    "jp": "おじいさんとおばあさんは、その{子|こ}を「かぐや{姫|ひめ}」とよんで、{大切|たいせつ}に{育|そだ}てました。かぐや{姫|ひめ}はすぐに{大|おお}きくなって、とてもきれいな{女|おんな}の{人|ひと}になりました。",
+    "en": "The old man and old woman named her Princess Kaguya and raised her with great care. She grew up quickly and became a very beautiful woman."
+   },
+   {
+    "jp": "たくさんの{男|おとこ}の{人|ひと}が「{結婚|けっこん}してください」と{言|い}いに{来|き}ました。かぐや{姫|ひめ}は「{世界|せかい}に{一|ひと}つしかないめずらしい{物|もの}を{持|も}ってきてください」と{言|い}いました。でも、だれも{持|も}ってくることができませんでした。",
+    "en": "Many men came and said, 'Please marry me.' Princess Kaguya said, 'Please bring me a rare thing that there is only one of in the world.' But nobody could bring one."
+   },
+   {
+    "jp": "ある{夏|なつ}、かぐや{姫|ひめ}は{毎晩|まいばん}{月|つき}を{見|み}て{泣|な}いていました。「わたしは{月|つき}の{世界|せかい}の{人|ひと}です。{次|つぎ}の{満月|まんげつ}の{夜|よる}に、{月|つき}へ{帰|かえ}ります」と{言|い}いました。おじいさんとおばあさんはとても{悲|かな}しくなりました。",
+    "en": "One summer, Princess Kaguya was crying every night as she looked at the moon. She said, 'I am a person from the world of the moon. On the night of the next full moon, I will go back to the moon.' The old man and old woman became very sad."
+   },
+   {
+    "jp": "{満月|まんげつ}の{夜|よる}、{空|そら}から{月|つき}の{人|ひと}たちが{来|き}ました。かぐや{姫|ひめ}は「ありがとうございました。{忘|わす}れません」と{言|い}って、{泣|な}きながら{月|つき}へ{帰|かえ}っていきました。おじいさんとおばあさんは、{毎晩|まいばん}{月|つき}を{見|み}て、かぐや{姫|ひめ}のことを{思|おも}い{出|だ}しました。",
+    "en": "On the night of the full moon, people from the moon came down from the sky. Princess Kaguya said, 'Thank you for everything. I will never forget you,' and went back to the moon in tears. Every night, the old man and old woman looked at the moon and remembered her."
+   }
+  ],
+  "questions": [
+   {
+    "q": "かぐや{姫|ひめ}はどこにいましたか。",
+    "q_en": "Where was Princess Kaguya found?",
+    "options": [
+     "{月|つき}の{下|した}の{川|かわ}",
+     "{光|ひか}っている{竹|たけ}の{中|なか}",
+     "おばあさんの{畑|はたけ}",
+     "{大|おお}きな{桃|もも}の{中|なか}"
+    ],
+    "answer": 1,
+    "why": "The old man found her inside a shining bamboo stalk."
+   },
+   {
+    "q": "かぐや{姫|ひめ}は、どうして{毎晩|まいばん}{泣|な}いていましたか。",
+    "q_en": "Why was Princess Kaguya crying every night?",
+    "options": [
+     "だれも{結婚|けっこん}してくれなかったから",
+     "{月|つき}がきれいじゃなかったから",
+     "めずらしい{物|もの}がほしかったから",
+     "もうすぐ{月|つき}へ{帰|かえ}るから"
+    ],
+    "answer": 3,
+    "why": "She had to go back to the moon at the next full moon."
+   }
+  ]
+ },
+ {
+  "id": "s5-024",
+  "level": 5,
+  "title": "ぶんぶく{茶釜|ちゃがま}",
+  "title_en": "The Magic Tea Kettle",
+  "genre_raw": "Folk tale",
+  "paragraphs": [
+   {
+    "jp": "むかし、お{寺|てら}のおしょうさんが、{店|みせ}で{古|ふる}い{茶釜|ちゃがま}を{買|か}いました。{茶釜|ちゃがま}は、お{茶|ちゃ}のお{湯|ゆ}をわかす{大|おお}きいやかんです。おしょうさんは{茶釜|ちゃがま}をきれいにして、{火|ひ}にかけました。",
+    "en": "Long ago, a monk at a temple bought an old tea kettle at a shop. A chagama is a big kettle for boiling water for tea. The monk cleaned the kettle and put it on the fire."
+   },
+   {
+    "jp": "すると、{茶釜|ちゃがま}が「あつい、あつい！」と{言|い}いました。そして、{茶釜|ちゃがま}から{頭|あたま}と{足|あし}としっぽが{出|で}てきました。{茶釜|ちゃがま}は、ほんとうはたぬきでした。おしょうさんはびっくりして、{茶釜|ちゃがま}を{道具屋|どうぐや}さんに{売|う}ってしまいました。",
+    "en": "Then the kettle cried, 'Hot, hot!' A head, legs and a tail popped out of it. The kettle was really a raccoon dog. The monk was shocked and sold the kettle to a secondhand shop owner."
+   },
+   {
+    "jp": "その{夜|よる}、たぬきは{道具屋|どうぐや}さんに「わたしは{火|ひ}が{苦手|にがて}です。でも、おもしろいことができます。わたしと{一緒|いっしょ}に{見|み}せ{物|もの}をしましょう」と{言|い}いました。",
+    "en": "That night, the raccoon dog said to the shop owner, 'I can't stand fire. But I can do funny things. Let's put on a show together.'"
+   },
+   {
+    "jp": "{道具屋|どうぐや}さんは{町|まち}で{見|み}せ{物|もの}を{始|はじ}めました。{茶釜|ちゃがま}のたぬきは、ロープの{上|うえ}を{歩|ある}いたり、おどったりしました。{町|まち}の{人|ひと}たちはとても{喜|よろこ}んで、{毎日|まいにち}たくさん{見|み}に{来|き}ました。",
+    "en": "The shop owner started a show in town. The kettle raccoon dog walked on a tightrope and danced. The townspeople loved it, and many came to watch every day."
+   },
+   {
+    "jp": "{道具屋|どうぐや}さんはお{金持|かねも}ちになりました。でも、たぬきはだんだんつかれてきました。{道具屋|どうぐや}さんは「ありがとう。ゆっくり{休|やす}んでください」と{言|い}って、{茶釜|ちゃがま}をお{寺|てら}に{返|かえ}しました。{茶釜|ちゃがま}は、{今|いま}もそのお{寺|てら}で{大切|たいせつ}にされているそうです。",
+    "en": "The shop owner became rich. But the raccoon dog slowly grew tired. The shop owner said, 'Thank you. Please have a good rest,' and returned the kettle to the temple. They say the kettle is still taken good care of at that temple today."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{茶釜|ちゃがま}を{火|ひ}にかけると、どうなりましたか。",
+    "q_en": "What happened when the kettle was put on the fire?",
+    "options": [
+     "お{茶|ちゃ}がおいしくなりました。",
+     "{茶釜|ちゃがま}がこわれました。",
+     "たぬきの{頭|あたま}と{足|あし}としっぽが{出|で}てきました。",
+     "おしょうさんがやけどをしました。"
+    ],
+    "answer": 2,
+    "why": "The kettle was really a raccoon dog, and it shouted that it was hot."
+   },
+   {
+    "q": "{道具屋|どうぐや}さんはどうしてお{金持|かねも}ちになりましたか。",
+    "q_en": "Why did the shop owner become rich?",
+    "options": [
+     "たぬきの{見|み}せ{物|もの}が{人気|にんき}だったから",
+     "{茶釜|ちゃがま}を{高|たか}く{売|う}ったから",
+     "お{寺|てら}からお{金|かね}をもらったから",
+     "{店|みせ}の{道具|どうぐ}が{全部|ぜんぶ}{売|う}れたから"
+    ],
+    "answer": 0,
+    "why": "Many people came every day to see the raccoon dog's show."
+   },
+   {
+    "q": "{最後|さいご}に、{茶釜|ちゃがま}はどこへ{行|い}きましたか。",
+    "q_en": "Where did the kettle go in the end?",
+    "options": [
+     "{町|まち}の{店|みせ}",
+     "{山|やま}の{中|なか}",
+     "おしょうさんの{友|とも}だちの{家|いえ}",
+     "お{寺|てら}"
+    ],
+    "answer": 3,
+    "why": "The shop owner returned it to the temple so it could rest."
+   }
+  ]
+ }
+]

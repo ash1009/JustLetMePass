@@ -1,0 +1,458 @@
+[
+ {
+  "id": "r5-01",
+  "level": 5,
+  "title_raw": "Saturday Shopping",
+  "kind": "short",
+  "text": "{土曜日|どようび}に{姉|あね}とデパートへ{行|い}きました。{姉|あね}は{赤|あか}いかばんを{買|か}いました。{私|わたし}は{本|ほん}を{二冊|にさつ}{買|か}いました。それから、{七階|ななかい}のレストランで{昼|ひる}ごはんを{食|た}べました。",
+  "en": "On Saturday I went to the department store with my older sister. My sister bought a red bag. I bought two books. Then we ate lunch at the restaurant on the 7th floor.",
+  "questions": [
+   {
+    "q": "「{私|わたし}」は{何|なに}を{買|か}いましたか。",
+    "q_en": "What did \"I\" buy?",
+    "options": [
+     "{本|ほん}",
+     "{赤|あか}いかばん",
+     "{昼|ひる}ごはん",
+     "かばんと{本|ほん}"
+    ],
+    "answer": 0,
+    "why": "The writer says they bought two books; the red bag was the sister's."
+   }
+  ]
+ },
+ {
+  "id": "r5-02",
+  "level": 5,
+  "title_raw": "Library Notice",
+  "kind": "notice",
+  "text": "{図書館|としょかん}からのおしらせ\n{図書館|としょかん}は{毎週|まいしゅう}{月曜日|げつようび}が{休|やす}みです。{火曜日|かようび}から{金曜日|きんようび}までは{朝|あさ}{九時|くじ}から{夜|よる}{七時|しちじ}まで、{土曜日|どようび}と{日曜日|にちようび}は{朝|あさ}{十時|じゅうじ}から{夕方|ゆうがた}{五時|ごじ}までです。{本|ほん}は{二週間|にしゅうかん}{借|か}りることができます。",
+  "en": "Notice from the library. The library is closed every Monday. From Tuesday to Friday it is open from 9 a.m. to 7 p.m., and on Saturday and Sunday from 10 a.m. to 5 p.m. You can borrow books for two weeks.",
+  "questions": [
+   {
+    "q": "{日曜日|にちようび}、{図書館|としょかん}は{何時|なんじ}までですか。",
+    "q_en": "Until what time is the library open on Sunday?",
+    "options": [
+     "{七時|しちじ}",
+     "{九時|くじ}",
+     "{五時|ごじ}",
+     "{十時|じゅうじ}"
+    ],
+    "answer": 2,
+    "why": "On Saturday and Sunday it is open until 5 p.m."
+   },
+   {
+    "q": "{図書館|としょかん}が{休|やす}みの{日|ひ}はいつですか。",
+    "q_en": "Which day is the library closed?",
+    "options": [
+     "{月曜日|げつようび}",
+     "{火曜日|かようび}",
+     "{土曜日|どようび}",
+     "{日曜日|にちようび}"
+    ],
+    "answer": 0,
+    "why": "The notice says it is closed every Monday."
+   }
+  ]
+ },
+ {
+  "id": "r5-03",
+  "level": 5,
+  "title_raw": "Message from Mom",
+  "kind": "message",
+  "text": "ゆいへ\nお{母|かあ}さんは{今日|きょう}、{仕事|しごと}で{帰|かえ}るのが{遅|おそ}くなります。{冷蔵庫|れいぞうこ}にカレーがありますから、{温|あたた}めて{食|た}べてください。それから、{犬|いぬ}の{散歩|さんぽ}をおねがいします。\n{母|はは}より",
+  "en": "To Yui. Mom will come home late from work today. There is curry in the fridge, so please heat it up and eat it. Also, please walk the dog. From Mom.",
+  "questions": [
+   {
+    "q": "ゆいさんは{何|なに}をしなければなりませんか。",
+    "q_en": "What does Yui have to do?",
+    "options": [
+     "カレーを{作|つく}ります。",
+     "{仕事|しごと}に{行|い}きます。",
+     "{冷蔵庫|れいぞうこ}を{買|か}います。",
+     "{犬|いぬ}と{散歩|さんぽ}します。"
+    ],
+    "answer": 3,
+    "why": "Mom asks Yui to walk the dog; the curry is already made."
+   }
+  ]
+ },
+ {
+  "id": "r5-04",
+  "level": 5,
+  "title_raw": "My Family",
+  "kind": "short",
+  "text": "{私|わたし}の{家族|かぞく}は{四人|よにん}です。{父|ちち}と{母|はは}と{弟|おとうと}と{私|わたし}です。{父|ちち}は{銀行|ぎんこう}で{働|はたら}いています。{母|はは}は{料理|りょうり}が{上手|じょうず}です。{私|わたし}は{大学生|だいがくせい}です。{弟|おとうと}は{十歳|じゅっさい}で、サッカーが{好|す}きです。",
+  "en": "There are four people in my family: my father, my mother, my younger brother and me. My father works at a bank. My mother is good at cooking. I am a university student. My brother is ten and likes soccer.",
+  "questions": [
+   {
+    "q": "{弟|おとうと}さんは{何|なに}が{好|す}きですか。",
+    "q_en": "What does the younger brother like?",
+    "options": [
+     "{料理|りょうり}",
+     "{銀行|ぎんこう}",
+     "{本|ほん}",
+     "サッカー"
+    ],
+    "answer": 3,
+    "why": "The text says the brother likes soccer."
+   }
+  ]
+ },
+ {
+  "id": "r5-05",
+  "level": 5,
+  "title_raw": "Email to a Teacher",
+  "kind": "message",
+  "text": "{山田|やまだ}{先生|せんせい}\nおはようございます。リーです。すみません、{今日|きょう}は{頭|あたま}が{痛|いた}いので、{学校|がっこう}を{休|やす}みます。{明日|あした}のテストには{行|い}きます。{宿題|しゅくだい}は{明日|あした}{出|だ}します。\nリー",
+  "en": "Dear Mr./Ms. Yamada, good morning. This is Lee. I'm sorry, but I have a headache today, so I will miss school. I will come to tomorrow's test. I will hand in my homework tomorrow. Lee",
+  "questions": [
+   {
+    "q": "リーさんは{今日|きょう}どうしますか。",
+    "q_en": "What will Lee do today?",
+    "options": [
+     "テストを{受|う}けます。",
+     "{宿題|しゅくだい}を{出|だ}します。",
+     "{学校|がっこう}を{休|やす}みます。",
+     "{先生|せんせい}に{会|あ}います。"
+    ],
+    "answer": 2,
+    "why": "Lee has a headache and will stay home from school today."
+   }
+  ]
+ },
+ {
+  "id": "r5-06",
+  "level": 5,
+  "title_raw": "Lost Umbrella",
+  "kind": "notice",
+  "text": "かさのおしらせ\n{昨日|きのう}、{駅|えき}の{前|まえ}で{青|あお}いかさを{見|み}つけました。{白|しろ}い{花|はな}の{絵|え}があります。このかさの{人|ひと}は、{三階|さんがい}の{事務所|じむしょ}に{来|き}てください。\n{事務所|じむしょ}：{午前|ごぜん}{九時|くじ}～{午後|ごご}{五時|ごじ}",
+  "en": "Umbrella notice. Yesterday we found a blue umbrella in front of the station. It has a picture of white flowers. If this umbrella is yours, please come to the office on the 3rd floor. Office: 9 a.m. to 5 p.m.",
+  "questions": [
+   {
+    "q": "かさはどんなかさですか。",
+    "q_en": "What kind of umbrella is it?",
+    "options": [
+     "{白|しろ}いかさで、{青|あお}い{花|はな}の{絵|え}があります。",
+     "{青|あお}いかさで、{白|しろ}い{花|はな}の{絵|え}があります。",
+     "{白|しろ}いかさで、{絵|え}はありません。",
+     "{青|あお}いかさで、{絵|え}はありません。"
+    ],
+    "answer": 1,
+    "why": "It is a blue umbrella with a picture of white flowers."
+   },
+   {
+    "q": "かさの{人|ひと}はどこへ{行|い}きますか。",
+    "q_en": "Where should the owner go?",
+    "options": [
+     "{駅|えき}の{前|まえ}",
+     "{一階|いっかい}の{受付|うけつけ}",
+     "{花屋|はなや}",
+     "{三階|さんがい}の{事務所|じむしょ}"
+    ],
+    "answer": 3,
+    "why": "The notice says to come to the office on the 3rd floor."
+   }
+  ]
+ },
+ {
+  "id": "r5-07",
+  "level": 5,
+  "title_raw": "Weekend Plans",
+  "kind": "medium",
+  "text": "{今週|こんしゅう}の{土曜日|どようび}、{友|とも}だちのマリアさんと{山|やま}へ{行|い}くつもりでした。でも、{天気予報|てんきよほう}では{土曜日|どようび}は{雨|あめ}です。それで、{土曜日|どようび}は{家|いえ}で{映画|えいが}を{見|み}ます。{日曜日|にちようび}は{晴|は}れますから、{山|やま}へは{日曜日|にちようび}に{行|い}きます。\n{朝|あさ}{七時|しちじ}に{駅|えき}で{会|あ}います。お{弁当|べんとう}は{私|わたし}が{作|つく}ります。",
+  "en": "I was planning to go to the mountains with my friend Maria this Saturday. But the weather forecast says it will rain on Saturday. So on Saturday I will watch a movie at home. Sunday will be sunny, so we will go to the mountains on Sunday. We will meet at the station at 7 a.m. I will make the packed lunches.",
+  "questions": [
+   {
+    "q": "{土曜日|どようび}、{何|なに}をしますか。",
+    "q_en": "What will the writer do on Saturday?",
+    "options": [
+     "{山|やま}へ{行|い}きます。",
+     "{駅|えき}でマリアさんに{会|あ}います。",
+     "{家|いえ}で{映画|えいが}を{見|み}ます。",
+     "お{弁当|べんとう}を{買|か}います。"
+    ],
+    "answer": 2,
+    "why": "Because of rain, the writer will watch a movie at home on Saturday."
+   },
+   {
+    "q": "{二人|ふたり}は{何時|なんじ}にどこで{会|あ}いますか。",
+    "q_en": "When and where will the two meet?",
+    "options": [
+     "{七時|しちじ}に{駅|えき}で",
+     "{七時|しちじ}に{山|やま}で",
+     "{八時|はちじ}に{駅|えき}で",
+     "{八時|はちじ}に{家|いえ}で"
+    ],
+    "answer": 0,
+    "why": "They will meet at the station at 7 a.m."
+   }
+  ]
+ },
+ {
+  "id": "r5-08",
+  "level": 5,
+  "title_raw": "Restaurant Lunch Menu",
+  "kind": "notice",
+  "text": "ランチメニュー（{十一時|じゅういちじ}～{二時|にじ}）\nAランチ：カレーライス　{八百円|はっぴゃくえん}\nBランチ：{魚|さかな}の{定食|ていしょく}　{九百円|きゅうひゃくえん}\nCランチ：ハンバーグ　{千円|せんえん}\n※コーヒーは{百円|ひゃくえん}です。{二時|にじ}からは、ランチはありません。",
+  "en": "Lunch menu (11:00 to 2:00). A lunch: curry rice, 800 yen. B lunch: fish set meal, 900 yen. C lunch: hamburger steak, 1000 yen. Coffee is 100 yen. There is no lunch menu after 2:00.",
+  "questions": [
+   {
+    "q": "{魚|さかな}の{定食|ていしょく}とコーヒーで、いくらですか。",
+    "q_en": "How much is the fish set meal with coffee?",
+    "options": [
+     "{九百円|きゅうひゃくえん}",
+     "{八百円|はっぴゃくえん}",
+     "{千百円|せんひゃくえん}",
+     "{千円|せんえん}"
+    ],
+    "answer": 3,
+    "why": "The fish set is 900 yen and coffee is 100 yen, so 1000 yen."
+   }
+  ]
+ },
+ {
+  "id": "r5-09",
+  "level": 5,
+  "title_raw": "New Classmate",
+  "kind": "short",
+  "text": "{私|わたし}のクラスに{新|あたら}しい{学生|がくせい}が{来|き}ました。{名前|なまえ}はキムさんです。{韓国|かんこく}から{来|き}ました。キムさんは{歌|うた}が{好|す}きで、ギターも{弾|ひ}きます。{昨日|きのう}、{一緒|いっしょ}に{学校|がっこう}の{食堂|しょくどう}で{昼|ひる}ごはんを{食|た}べました。",
+  "en": "A new student came to my class. Her name is Kim. She came from Korea. Kim likes singing and also plays the guitar. Yesterday we ate lunch together in the school cafeteria.",
+  "questions": [
+   {
+    "q": "キムさんについて、{正|ただ}しいのはどれですか。",
+    "q_en": "Which is true about Kim?",
+    "options": [
+     "{日本|にほん}から{来|き}ました。",
+     "ギターを{弾|ひ}きます。",
+     "{歌|うた}が{好|す}きではありません。",
+     "{食堂|しょくどう}で{働|はたら}いています。"
+    ],
+    "answer": 1,
+    "why": "The text says Kim likes singing and also plays the guitar."
+   }
+  ]
+ },
+ {
+  "id": "r5-10",
+  "level": 5,
+  "title_raw": "Directions to My House",
+  "kind": "message",
+  "text": "ケンさん\n{明日|あした}のパーティーは{私|わたし}の{家|いえ}です。{駅|えき}の{北口|きたぐち}を{出|で}て、まっすぐ{行|い}ってください。{郵便局|ゆうびんきょく}の{角|かど}を{右|みぎ}に{曲|ま}がります。{二|ふた}つ{目|め}の{白|しろ}い{家|いえ}が{私|わたし}の{家|いえ}です。\nアンナ",
+  "en": "Ken, tomorrow's party is at my house. Leave the station by the north exit and go straight. Turn right at the corner of the post office. The second white house is mine. Anna",
+  "questions": [
+   {
+    "q": "{郵便局|ゆうびんきょく}のところで、どうしますか。",
+    "q_en": "What should Ken do at the post office?",
+    "options": [
+     "{右|みぎ}に{曲|ま}がります。",
+     "{左|ひだり}に{曲|ま}がります。",
+     "まっすぐ{行|い}きます。",
+     "{駅|えき}に{戻|もど}ります。"
+    ],
+    "answer": 0,
+    "why": "Anna says to turn right at the post office corner."
+   }
+  ]
+ },
+ {
+  "id": "r5-11",
+  "level": 5,
+  "title_raw": "Train Notice",
+  "kind": "notice",
+  "text": "{駅|えき}からのおしらせ\n{今日|きょう}は{雪|ゆき}のため、{電車|でんしゃ}が{少|すく}なくなります。{急行|きゅうこう}は{止|と}まりません。{各駅停車|かくえきていしゃ}は{三十分|さんじゅっぷん}に{一本|いっぽん}です。{時間|じかん}に{気|き}をつけてください。",
+  "en": "Notice from the station. Because of snow, there will be fewer trains today. Express trains will not run. Local trains will come once every 30 minutes. Please be careful about the time.",
+  "questions": [
+   {
+    "q": "{今日|きょう}、{電車|でんしゃ}はどうなりますか。",
+    "q_en": "What will happen to the trains today?",
+    "options": [
+     "{急行|きゅうこう}だけ{走|はし}ります。",
+     "{電車|でんしゃ}は{全部|ぜんぶ}{止|と}まります。",
+     "{各駅停車|かくえきていしゃ}が{三十分|さんじゅっぷん}に{一本|いっぽん}{来|き}ます。",
+     "{電車|でんしゃ}が{多|おお}くなります。"
+    ],
+    "answer": 2,
+    "why": "Only local trains run, once every 30 minutes."
+   }
+  ]
+ },
+ {
+  "id": "r5-12",
+  "level": 5,
+  "title_raw": "A Day Off",
+  "kind": "short",
+  "text": "{昨日|きのう}は{休|やす}みでした。{朝|あさ}はゆっくり{寝|ね}て、{十時|じゅうじ}に{起|お}きました。{午後|ごご}は{公園|こうえん}を{散歩|さんぽ}しました。{夜|よる}は{友|とも}だちに{手紙|てがみ}を{書|か}きました。とてもいい{日|ひ}でした。",
+  "en": "Yesterday was my day off. In the morning I slept in and got up at ten. In the afternoon I took a walk in the park. In the evening I wrote a letter to a friend. It was a very good day.",
+  "questions": [
+   {
+    "q": "{午後|ごご}、{何|なに}をしましたか。",
+    "q_en": "What did the writer do in the afternoon?",
+    "options": [
+     "{寝|ね}ました。",
+     "{手紙|てがみ}を{書|か}きました。",
+     "{友|とも}だちに{会|あ}いました。",
+     "{公園|こうえん}を{散歩|さんぽ}しました。"
+    ],
+    "answer": 3,
+    "why": "The writer walked in the park in the afternoon."
+   }
+  ]
+ },
+ {
+  "id": "r5-13",
+  "level": 5,
+  "title_raw": "Party Invitation",
+  "kind": "message",
+  "text": "みなさんへ\n{来週|らいしゅう}の{金曜日|きんようび}、{夜|よる}{六時|ろくじ}から{教室|きょうしつ}でクラスのパーティーをします。{飲|の}み{物|もの}は{学校|がっこう}が{用意|ようい}します。みなさんは{食|た}べ{物|もの}を{一|ひと}つ{持|も}ってきてください。{水曜日|すいようび}までに{田中|たなか}に{返事|へんじ}をください。\n{田中|たなか}",
+  "en": "To everyone. Next Friday from 6 p.m. we will have a class party in the classroom. The school will prepare drinks. Please each bring one food. Please reply to Tanaka by Wednesday. Tanaka",
+  "questions": [
+   {
+    "q": "パーティーに{何|なに}を{持|も}っていきますか。",
+    "q_en": "What should people bring to the party?",
+    "options": [
+     "{飲|の}み{物|もの}",
+     "{食|た}べ{物|もの}",
+     "{飲|の}み{物|もの}と{食|た}べ{物|もの}",
+     "{何|なに}も{持|も}っていきません"
+    ],
+    "answer": 1,
+    "why": "The school prepares drinks, so everyone brings one food."
+   },
+   {
+    "q": "いつまでに{返事|へんじ}をしますか。",
+    "q_en": "By when should people reply?",
+    "options": [
+     "{金曜日|きんようび}",
+     "{月曜日|げつようび}",
+     "{水曜日|すいようび}",
+     "{木曜日|もくようび}"
+    ],
+    "answer": 2,
+    "why": "Tanaka asks for a reply by Wednesday."
+   }
+  ]
+ },
+ {
+  "id": "r5-14",
+  "level": 5,
+  "title_raw": "The Supermarket Near My House",
+  "kind": "medium",
+  "text": "{私|わたし}の{家|いえ}の{近|ちか}くに{大|おお}きいスーパーがあります。{野菜|やさい}や{果物|くだもの}が{安|やす}くて、{新|あたら}しいです。{夜|よる}{十時|じゅうじ}まで{開|あ}いていますから、{仕事|しごと}のあとでも{行|い}けます。\nでも、{日曜日|にちようび}はとても{人|ひと}が{多|おお}いです。それで、{私|わたし}はいつも{水曜日|すいようび}の{夜|よる}に{買|か}い{物|もの}をします。{水曜日|すいようび}は{肉|にく}も{安|やす}いです。",
+  "en": "There is a big supermarket near my house. The vegetables and fruit are cheap and fresh. It is open until 10 p.m., so I can go even after work. But on Sundays there are very many people. So I always shop on Wednesday evenings. On Wednesdays, meat is cheap too.",
+  "questions": [
+   {
+    "q": "どうして{水曜日|すいようび}に{買|か}い{物|もの}をしますか。",
+    "q_en": "Why does the writer shop on Wednesdays?",
+    "options": [
+     "{日曜日|にちようび}は{店|みせ}が{休|やす}みだからです。",
+     "{水曜日|すいようび}は{仕事|しごと}がないからです。",
+     "{水曜日|すいようび}だけ{夜|よる}{十時|じゅうじ}まで{開|あ}いているからです。",
+     "{日曜日|にちようび}は{人|ひと}が{多|おお}いからです。"
+    ],
+    "answer": 3,
+    "why": "The writer avoids Sundays because there are many people."
+   }
+  ]
+ },
+ {
+  "id": "r5-15",
+  "level": 5,
+  "title_raw": "School Trip Notice",
+  "kind": "notice",
+  "text": "{一年生|いちねんせい}のみなさんへ\n{十月|じゅうがつ}{二十日|はつか}は{動物園|どうぶつえん}へ{行|い}きます。{朝|あさ}{八時半|はちじはん}に{学校|がっこう}の{前|まえ}に{来|き}てください。お{弁当|べんとう}と{水|みず}を{持|も}ってきてください。お{金|かね}はいりません。{雨|あめ}の{日|ひ}は{二十一日|にじゅういちにち}に{行|い}きます。",
+  "en": "To all first-year students. On October 20th we will go to the zoo. Please come to the front of the school at 8:30 a.m. Please bring a packed lunch and water. You do not need money. If it rains, we will go on the 21st.",
+  "questions": [
+   {
+    "q": "{持|も}っていかなくてもいいものはどれですか。",
+    "q_en": "Which thing do students NOT need to bring?",
+    "options": [
+     "お{弁当|べんとう}",
+     "{水|みず}",
+     "お{金|かね}",
+     "お{弁当|べんとう}と{水|みず}"
+    ],
+    "answer": 2,
+    "why": "The notice says money is not needed."
+   }
+  ]
+ },
+ {
+  "id": "r5-16",
+  "level": 5,
+  "title_raw": "Text from a Friend",
+  "kind": "message",
+  "text": "ごめんなさい！{今|いま}、{電車|でんしゃ}が{遅|おく}れているから、{十分|じゅっぷん}ぐらい{遅|おく}れます。{先|さき}に{店|みせ}に{入|はい}って、{何|なに}か{飲|の}んでいてください。{窓|まど}の{近|ちか}くの{席|せき}がいいです。\nサキ",
+  "en": "Sorry! Right now the train is late, so I'll be about ten minutes late. Please go into the shop first and have something to drink. A seat near the window would be good. Saki",
+  "questions": [
+   {
+    "q": "このメッセージを{読|よ}んだ{人|ひと}は、どうしますか。",
+    "q_en": "What should the person who reads this message do?",
+    "options": [
+     "{先|さき}に{店|みせ}に{入|はい}ります。",
+     "{駅|えき}でサキさんを{待|ま}ちます。",
+     "{十分|じゅっぷん}{後|ご}に{電車|でんしゃ}に{乗|の}ります。",
+     "{家|いえ}に{帰|かえ}ります。"
+    ],
+    "answer": 0,
+    "why": "Saki asks them to go into the shop first."
+   }
+  ]
+ },
+ {
+  "id": "r5-17",
+  "level": 5,
+  "title_raw": "My Room",
+  "kind": "short",
+  "text": "{私|わたし}の{部屋|へや}は{二階|にかい}にあります。{部屋|へや}は{広|ひろ}くないですが、{明|あか}るいです。{窓|まど}の{前|まえ}に{机|つくえ}があります。{机|つくえ}の{上|うえ}にパソコンと{時計|とけい}があります。ベッドはドアの{右|みぎ}にあります。",
+  "en": "My room is on the second floor. It is not big, but it is bright. There is a desk in front of the window. On the desk there is a computer and a clock. The bed is to the right of the door.",
+  "questions": [
+   {
+    "q": "{机|つくえ}はどこにありますか。",
+    "q_en": "Where is the desk?",
+    "options": [
+     "ドアの{右|みぎ}",
+     "ベッドの{上|うえ}",
+     "{窓|まど}の{前|まえ}",
+     "{一階|いっかい}"
+    ],
+    "answer": 2,
+    "why": "The desk is in front of the window."
+   }
+  ]
+ },
+ {
+  "id": "r5-18",
+  "level": 5,
+  "title_raw": "Email about a Concert",
+  "kind": "medium",
+  "text": "ジョンさん\nこんにちは。{今度|こんど}の{日曜日|にちようび}、{公園|こうえん}でピアノのコンサートがあります。{午後|ごご}{二時|にじ}からで、お{金|かね}はいりません。{一緒|いっしょ}に{行|い}きませんか。\n{行|い}くなら、{一時半|いちじはん}に{公園|こうえん}の{入|い}り{口|ぐち}で{会|あ}いましょう。コンサートのあとで、{近|ちか}くの{喫茶店|きっさてん}でケーキを{食|た}べたいです。\n{花子|はなこ}",
+  "en": "Hi John. This Sunday there is a piano concert in the park. It starts at 2 p.m. and it is free. Would you like to go together? If you go, let's meet at the park entrance at 1:30. After the concert, I want to eat cake at a nearby cafe. Hanako",
+  "questions": [
+   {
+    "q": "{二人|ふたり}は{何時|なんじ}に{会|あ}いますか。",
+    "q_en": "What time will the two meet?",
+    "options": [
+     "{一時|いちじ}",
+     "{一時半|いちじはん}",
+     "{二時|にじ}",
+     "{二時半|にじはん}"
+    ],
+    "answer": 1,
+    "why": "Hanako suggests meeting at 1:30; the concert starts at 2."
+   },
+   {
+    "q": "コンサートのあとで、{花子|はなこ}さんは{何|なに}がしたいですか。",
+    "q_en": "What does Hanako want to do after the concert?",
+    "options": [
+     "ピアノを{弾|ひ}きたいです。",
+     "{公園|こうえん}を{散歩|さんぽ}したいです。",
+     "{喫茶店|きっさてん}でケーキを{食|た}べたいです。",
+     "{家|いえ}に{帰|かえ}りたいです。"
+    ],
+    "answer": 2,
+    "why": "She wants to eat cake at a cafe nearby."
+   }
+  ]
+ }
+]

@@ -1,0 +1,500 @@
+[
+ {
+  "id": "r3-01",
+  "level": 3,
+  "title_raw": "Meeting time change",
+  "kind": "short",
+  "text": "{田中|たなか}さん\nお{疲|つか}れさまです。{明日|あした}の{会議|かいぎ}についてですが、{部長|ぶちょう}の{都合|つごう}が{悪|わる}くなったため、{午後|ごご}{二時|にじ}から{四時|よじ}に{変更|へんこう}になりました。{場所|ばしょ}は{変|か}わらず、{三階|さんがい}の{会議室|かいぎしつ}です。\nそれから、{会議|かいぎ}で{使|つか}う{資料|しりょう}を{今日中|きょうじゅう}に{私|わたし}に{送|おく}っておいていただけますか。{人数分|にんずうぶん}のコピーは{私|わたし}がしておきます。もし{間|ま}に{合|あ}わない{場合|ばあい}は、{早|はや}めに{教|おし}えてください。\nよろしくお{願|ねが}いします。\n{山本|やまもと}",
+  "en": "Mr. Tanaka,\nThank you for your hard work. About tomorrow's meeting: because the department manager is no longer available, it has been changed from 2 p.m. to 4 p.m. The place has not changed; it is the third-floor meeting room.\nAlso, could you send me the materials for the meeting by the end of today? I will make copies for everyone. If you cannot make it in time, please let me know early.\nThank you.\nYamamoto",
+  "questions": [
+   {
+    "q": "{田中|たなか}さんは{今日|きょう}、{何|なに}をしなければなりませんか。",
+    "q_en": "What does Mr. Tanaka have to do today?",
+    "options": [
+     "{山本|やまもと}さんに{資料|しりょう}を{送|おく}る",
+     "{資料|しりょう}を{人数分|にんずうぶん}コピーする",
+     "{会議室|かいぎしつ}を{予約|よやく}する",
+     "{部長|ぶちょう}に{時間|じかん}を{聞|き}く"
+    ],
+    "answer": 0,
+    "why": "Yamamoto asks Tanaka to send him the materials today and says he will make the copies himself."
+   },
+   {
+    "q": "{明日|あした}の{会議|かいぎ}について、{正|ただ}しいものはどれですか。",
+    "q_en": "Which is correct about tomorrow's meeting?",
+    "options": [
+     "{二時|にじ}に{始|はじ}まる",
+     "{場所|ばしょ}が{変|か}わった",
+     "{四時|よじ}に{始|はじ}まる",
+     "{部長|ぶちょう}は{来|こ}ない"
+    ],
+    "answer": 2,
+    "why": "The meeting was moved from 2 p.m. to 4 p.m., but the room is the same."
+   }
+  ]
+ },
+ {
+  "id": "r3-02",
+  "level": 3,
+  "title_raw": "Garbage rules notice",
+  "kind": "notice",
+  "text": "ごみの{出|だ}し{方|かた}についてのお{願|ねが}い\n{最近|さいきん}、{決|き}められた{日|ひ}{以外|いがい}にごみを{出|だ}す{人|ひと}が{増|ふ}えています。カラスがごみ{袋|ぶくろ}を{破|やぶ}って、{周|まわ}りが{汚|よご}れてしまうことがあります。\n{燃|も}えるごみは{月曜日|げつようび}と{木曜日|もくようび}、プラスチックは{水曜日|すいようび}です。どちらも{朝|あさ}{八時|はちじ}までに{出|だ}してください。{前|まえ}の{日|ひ}の{夜|よる}に{出|だ}さないでください。\n{大|おお}きいごみを{捨|す}てたい{場合|ばあい}は、{前|まえ}もって{管理人|かんりにん}に{連絡|れんらく}してください。\nみどりマンション　{管理人|かんりにん}",
+  "en": "A request about putting out garbage\nRecently, more people are putting out garbage on days other than the set days. Crows tear the garbage bags and the area gets dirty.\nBurnable garbage is on Monday and Thursday, and plastic is on Wednesday. Please put both out by 8 a.m. Please do not put them out the night before.\nIf you want to throw away large items, please contact the building manager in advance.\nMidori Mansion, Building Manager",
+  "questions": [
+   {
+    "q": "プラスチックのごみはいつ{出|だ}しますか。",
+    "q_en": "When do you put out plastic garbage?",
+    "options": [
+     "{月曜日|げつようび}の{朝|あさ}{八時|はちじ}まで",
+     "{木曜日|もくようび}の{朝|あさ}{八時|はちじ}まで",
+     "{水曜日|すいようび}の{朝|あさ}{八時|はちじ}まで",
+     "{火曜日|かようび}の{夜|よる}"
+    ],
+    "answer": 2,
+    "why": "The notice says plastic is on Wednesday, by 8 a.m."
+   },
+   {
+    "q": "{大|おお}きいごみを{捨|す}てたい{人|ひと}は、どうしなければなりませんか。",
+    "q_en": "What must people who want to throw away large items do?",
+    "options": [
+     "{前|まえ}の{日|ひ}の{夜|よる}に{出|だ}す",
+     "{先|さき}に{管理人|かんりにん}に{知|し}らせる",
+     "{燃|も}えるごみの{日|ひ}に{出|だ}す",
+     "{自分|じぶん}で{店|みせ}に{持|も}っていく"
+    ],
+    "answer": 1,
+    "why": "The notice says to contact the building manager in advance."
+   }
+  ]
+ },
+ {
+  "id": "r3-03",
+  "level": 3,
+  "title_raw": "Starting to cook",
+  "kind": "medium",
+  "text": "{私|わたし}は{去年|きょねん}まで、{料理|りょうり}がほとんどできませんでした。{仕事|しごと}が{忙|いそが}しくて、{晩|ばん}ご{飯|はん}はいつもコンビニのお{弁当|べんとう}でした。\nでも、{健康診断|けんこうしんだん}で{医者|いしゃ}に「{野菜|やさい}が{足|た}りていませんね」と{言|い}われてから、{自分|じぶん}で{作|つく}ってみることにしました。{最初|さいしょ}は{簡単|かんたん}な{野菜|やさい}スープしか{作|つく}れませんでしたが、{毎週|まいしゅう}{一|ひと}つずつ{新|あたら}しい{料理|りょうり}に{挑戦|ちょうせん}しました。\n{今|いま}では{週末|しゅうまつ}に{一週間分|いっしゅうかんぶん}のおかずを{作|つく}って、{冷蔵庫|れいぞうこ}に{入|い}れておくようになりました。{料理|りょうり}をするようになって、お{金|かね}も{前|まえ}より{使|つか}わなくなりました。{何|なに}より、{自分|じぶん}で{作|つく}ったものを{食|た}べるのは{楽|たの}しいです。",
+  "en": "Until last year, I could hardly cook. I was busy with work, and dinner was always a convenience store bento.\nBut after a doctor told me at a health check, \"You are not getting enough vegetables,\" I decided to try cooking for myself. At first I could only make a simple vegetable soup, but every week I tried one new dish.\nNow I make a week's worth of side dishes on the weekend and keep them in the fridge. Since I started cooking, I also spend less money than before. Most of all, eating food I made myself is fun.",
+  "questions": [
+   {
+    "q": "この{人|ひと}が{料理|りょうり}を{始|はじ}めたのはどうしてですか。",
+    "q_en": "Why did this person start cooking?",
+    "options": [
+     "お{金|かね}がなかったから",
+     "{仕事|しごと}が{暇|ひま}になったから",
+     "{友達|ともだち}に{習|なら}ったから",
+     "{医者|いしゃ}に{野菜|やさい}が{足|た}りないと{言|い}われたから"
+    ],
+    "answer": 3,
+    "why": "The doctor said they were not eating enough vegetables, so they decided to cook."
+   },
+   {
+    "q": "この{人|ひと}は{今|いま}、どうしていますか。",
+    "q_en": "What does this person do now?",
+    "options": [
+     "{週末|しゅうまつ}にまとめておかずを{作|つく}っている",
+     "{毎日|まいにち}コンビニでお{弁当|べんとう}を{買|か}っている",
+     "{野菜|やさい}スープだけを{作|つく}っている",
+     "{料理|りょうり}{教室|きょうしつ}に{通|かよ}っている"
+    ],
+    "answer": 0,
+    "why": "They make a week of side dishes on the weekend and keep them in the fridge."
+   }
+  ]
+ },
+ {
+  "id": "r3-04",
+  "level": 3,
+  "title_raw": "Library holiday hours",
+  "kind": "info",
+  "text": "{市立|しりつ}{図書館|としょかん}　{年末年始|ねんまつねんし}のお{知|し}らせ\n・12{月|がつ}28{日|にち}から1{月|がつ}4{日|か}まで、{図書館|としょかん}はお{休|やす}みです。\n・12{月|がつ}27{日|にち}は{午後|ごご}{五時|ごじ}に{閉|し}まります。\n・{休|やす}みの{間|あいだ}に{本|ほん}を{返|かえ}したい{方|かた}は、{入口|いりぐち}の{横|よこ}にある「{返却|へんきゃく}ポスト」に{入|い}れてください。ただし、CDやDVDはポストに{入|い}れないでください。こわれるおそれがあります。\n・{休|やす}みの{前|まえ}は、{本|ほん}を{一人|ひとり}10{冊|さつ}まで{借|か}りることができます（いつもは5{冊|さつ}までです）。{返|かえ}す{日|ひ}は1{月|がつ}18{日|にち}です。",
+  "en": "City Library: New Year holiday notice\n- The library is closed from December 28 to January 4.\n- On December 27, it closes at 5 p.m.\n- If you want to return books during the holiday, please put them in the \"return box\" next to the entrance. However, please do not put CDs or DVDs in the box. They may break.\n- Before the holiday, each person can borrow up to 10 books (usually it is up to 5). The return date is January 18.",
+  "questions": [
+   {
+    "q": "12{月|がつ}26{日|にち}に{本|ほん}を{借|か}りる{人|ひと}は、{何冊|なんさつ}まで{借|か}りられますか。",
+    "q_en": "How many books can a person who borrows on December 26 take?",
+    "options": [
+     "5{冊|さつ}",
+     "8{冊|さつ}",
+     "10{冊|さつ}",
+     "18{冊|さつ}"
+    ],
+    "answer": 2,
+    "why": "Before the holiday, each person can borrow up to 10 books."
+   },
+   {
+    "q": "{休|やす}みの{間|あいだ}にDVDを{返|かえ}したい{人|ひと}は、どうすればいいですか。",
+    "q_en": "What should a person who wants to return a DVD during the holiday do?",
+    "options": [
+     "{返却|へんきゃく}ポストに{入|い}れる",
+     "{入口|いりぐち}の{前|まえ}に{置|お}く",
+     "1{月|がつ}5{日|か}{以降|いこう}に{図書館|としょかん}に{持|も}っていく",
+     "12{月|がつ}28{日|にち}に{持|も}っていく"
+    ],
+    "answer": 2,
+    "why": "DVDs must not go in the box, so you return them after the library opens again on January 5."
+   }
+  ]
+ },
+ {
+  "id": "r3-05",
+  "level": 3,
+  "title_raw": "Lost umbrella",
+  "kind": "short",
+  "text": "{昨日|きのう}、{駅|えき}のトイレに{傘|かさ}を{忘|わす}れてしまいました。{気|き}がついたのは{家|いえ}に{着|つ}いてからでした。{父|ちち}からもらった{大切|たいせつ}な{傘|かさ}だったので、すぐ{駅|えき}に{電話|でんわ}をかけました。{駅員|えきいん}さんによると、{忘|わす}れ{物|もの}は{一日|いちにち}だけ{駅|えき}に{置|お}いておいて、その{後|あと}は{警察|けいさつ}に{届|とど}けるそうです。{今朝|けさ}、{会社|かいしゃ}に{行|い}く{前|まえ}に{駅|えき}に{寄|よ}ったら、ちゃんと{届|とど}いていました。{見|み}つけてくれた{人|ひと}に{感謝|かんしゃ}したいです。",
+  "en": "Yesterday I left my umbrella in the station toilet. I only noticed after I got home. It was an important umbrella that my father gave me, so I called the station right away. According to the station staff, lost items are kept at the station for only one day, and after that they are taken to the police. This morning, when I stopped by the station before going to work, it had been handed in. I want to thank the person who found it.",
+  "questions": [
+   {
+    "q": "{傘|かさ}は{今朝|けさ}どこにありましたか。",
+    "q_en": "Where was the umbrella this morning?",
+    "options": [
+     "{駅|えき}のトイレ",
+     "{警察|けいさつ}",
+     "{会社|かいしゃ}",
+     "{駅|えき}"
+    ],
+    "answer": 3,
+    "why": "The writer stopped by the station this morning and the umbrella was there."
+   }
+  ]
+ },
+ {
+  "id": "r3-06",
+  "level": 3,
+  "title_raw": "Working from home",
+  "kind": "medium",
+  "text": "{私|わたし}の{会社|かいしゃ}では、{三年前|さんねんまえ}から{週|しゅう}に{二日|ふつか}、{家|いえ}で{仕事|しごと}ができるようになりました。{初|はじ}めは{通勤|つうきん}しなくていいので、とても{楽|らく}だと{思|おも}いました。{朝|あさ}ゆっくり{寝|ね}られるし、{満員|まんいん}{電車|でんしゃ}に{乗|の}らなくてもいいからです。\nしかし、しばらくすると{困|こま}ったこともありました。{家|いえ}にいると、{仕事|しごと}と{休|やす}みの{区別|くべつ}がつきにくいのです。{夜|よる}{遅|おそ}くまでメールを{確認|かくにん}してしまう{日|ひ}もありました。\nそこで、{私|わたし}は{自分|じぶん}でルールを{作|つく}りました。{仕事|しごと}は{夕方|ゆうがた}{六時|ろくじ}までにして、それ{以降|いこう}はパソコンを{閉|と}じます。このルールのおかげで、{家|いえ}でも{気持|きも}ちよく{働|はたら}けるようになりました。",
+  "en": "At my company, for three years we have been able to work at home two days a week. At first I thought it was very easy because I did not have to commute. I could sleep late in the morning, and I did not have to ride crowded trains.\nHowever, after a while there were also problems. When I am at home, it is hard to separate work and rest. Some days I ended up checking emails until late at night.\nSo I made my own rule. I finish work by 6 p.m., and after that I close my computer. Thanks to this rule, I can now work comfortably even at home.",
+  "questions": [
+   {
+    "q": "{家|いえ}で{仕事|しごと}をして、{困|こま}ったことは{何|なん}ですか。",
+    "q_en": "What was the problem with working at home?",
+    "options": [
+     "{朝|あさ}{早|はや}く{起|お}きなければならないこと",
+     "{仕事|しごと}と{休|やす}みを{分|わ}けにくいこと",
+     "{満員|まんいん}{電車|でんしゃ}に{乗|の}ること",
+     "パソコンが{古|ふる}いこと"
+    ],
+    "answer": 1,
+    "why": "The writer says it is hard to separate work and rest at home."
+   },
+   {
+    "q": "この{人|ひと}が{作|つく}ったルールはどれですか。",
+    "q_en": "Which rule did this person make?",
+    "options": [
+     "{夜|よる}だけメールを{見|み}る",
+     "{週|しゅう}に{三日|みっか}{家|いえ}で{働|はたら}く",
+     "{六時|ろくじ}{以降|いこう}は{仕事|しごと}をしない",
+     "{毎朝|まいあさ}{会社|かいしゃ}に{行|い}く"
+    ],
+    "answer": 2,
+    "why": "The rule is to stop work by 6 p.m. and close the computer."
+   }
+  ]
+ },
+ {
+  "id": "r3-07",
+  "level": 3,
+  "title_raw": "Gym membership guide",
+  "kind": "info",
+  "text": "さくらスポーツクラブ　{会員|かいいん}の{種類|しゅるい}\n・{全日|ぜんじつ}{会員|かいいん}：{毎月|まいつき}8,000{円|えん}。いつでも{利用|りよう}できます。\n・{平日|へいじつ}{会員|かいいん}：{毎月|まいつき}6,000{円|えん}。{月曜日|げつようび}から{金曜日|きんようび}まで{利用|りよう}できます。\n・{夜|よる}{会員|かいいん}：{毎月|まいつき}5,000{円|えん}。{毎日|まいにち}{午後|ごご}{七時|しちじ}から{十時|じゅうじ}まで{利用|りよう}できます。\n※{入会|にゅうかい}のときに、{入会金|にゅうかいきん}3,000{円|えん}がかかります。ただし、10{月|がつ}{中|ちゅう}に{申|もう}し{込|こ}んだ{方|かた}は{入会金|にゅうかいきん}が{無料|むりょう}になります。\n※プールを{使|つか}う{方|かた}は、{水泳|すいえい}{帽|ぼう}が{必要|ひつよう}です。",
+  "en": "Sakura Sports Club: Membership types\n- Full member: 8,000 yen per month. You can use it any time.\n- Weekday member: 6,000 yen per month. You can use it Monday to Friday.\n- Night member: 5,000 yen per month. You can use it every day from 7 p.m. to 10 p.m.\n* When you join, there is a 3,000 yen joining fee. However, people who apply during October pay no joining fee.\n* People who use the pool need a swimming cap.",
+  "questions": [
+   {
+    "q": "{土曜日|どようび}の{朝|あさ}に{行|い}きたい{人|ひと}が10{月|がつ}に{申|もう}し{込|こ}みます。{最初|さいしょ}の{月|つき}にいくら{払|はら}いますか。",
+    "q_en": "A person who wants to go on Saturday mornings applies in October. How much do they pay for the first month?",
+    "options": [
+     "5,000{円|えん}",
+     "6,000{円|えん}",
+     "8,000{円|えん}",
+     "11,000{円|えん}"
+    ],
+    "answer": 2,
+    "why": "Only full members can go on Saturday mornings, and the joining fee is free in October, so it is 8,000 yen."
+   }
+  ]
+ },
+ {
+  "id": "r3-08",
+  "level": 3,
+  "title_raw": "A new coworker",
+  "kind": "long",
+  "text": "{先月|せんげつ}、{私|わたし}の{部署|ぶしょ}にベトナムから{来|き}たグエンさんという{新|あたら}しい{社員|しゃいん}が{入|はい}りました。グエンさんは{日本語|にほんご}が{上手|じょうず}ですが、{日本|にほん}の{会社|かいしゃ}で{働|はたら}くのは{初|はじ}めてだそうです。\nある{日|ひ}、グエンさんが{困|こま}った{顔|かお}をしていたので、{理由|りゆう}を{聞|き}いてみました。すると、「{会議|かいぎ}でみんなが『{検討|けんとう}します』と{言|い}ったのに、その{後|あと}{何|なに}も{決|き}まらなかったんです」と{言|い}いました。{私|わたし}は{笑|わら}って、{日本|にほん}の{会社|かいしゃ}では、はっきり「できません」と{言|い}わずに、そういう{言|い}い{方|かた}をすることがあると{説明|せつめい}しました。\nグエンさんは「{言葉|ことば}の{意味|いみ}だけでなく、{使|つか}い{方|かた}も{覚|おぼ}えなければなりませんね」と{言|い}って、{手帳|てちょう}にメモしていました。\nその{話|はなし}を{聞|き}いて、{私|わたし}は{自分|じぶん}たちが{普段|ふだん}{何|なに}も{考|かんが}えずに{使|つか}っている{言葉|ことば}が、{外|そと}から{来|き}た{人|ひと}にはわかりにくいのだと{気|き}づきました。それからは、{会議|かいぎ}でできるだけはっきり{話|はな}すようにしています。グエンさんのおかげで、{部署|ぶしょ}の{会議|かいぎ}も{前|まえ}より{短|みじか}くなりました。",
+  "en": "Last month, a new employee from Vietnam named Mr. Nguyen joined my department. Mr. Nguyen is good at Japanese, but he says it is his first time working at a Japanese company.\nOne day, he looked troubled, so I asked him why. He said, \"In the meeting everyone said 'We will consider it,' but after that nothing was decided.\" I laughed and explained that at Japanese companies, people sometimes use that kind of expression instead of clearly saying \"We can't.\"\nMr. Nguyen said, \"I have to learn not only the meaning of words but also how they are used,\" and wrote a note in his planner.\nHearing that, I realized that words we usually use without thinking are hard to understand for people from outside. Since then, I try to speak as clearly as possible in meetings. Thanks to Mr. Nguyen, our department's meetings have become shorter than before.",
+  "questions": [
+   {
+    "q": "グエンさんはどうして{困|こま}った{顔|かお}をしていましたか。",
+    "q_en": "Why did Mr. Nguyen look troubled?",
+    "options": [
+     "{日本語|にほんご}の{言葉|ことば}の{意味|いみ}が{全然|ぜんぜん}わからなかったから",
+     "{会議|かいぎ}に{遅|おく}れてしまったから",
+     "「{検討|けんとう}します」の{後|あと}、{何|なに}も{決|き}まらなかったから",
+     "{手帳|てちょう}をなくしたから"
+    ],
+    "answer": 2,
+    "why": "He was confused because people said they would consider it, but nothing was decided."
+   },
+   {
+    "q": "「そういう{言|い}い{方|かた}」とはどんな{言|い}い{方|かた}ですか。",
+    "q_en": "What kind of expression is 'that kind of expression'?",
+    "options": [
+     "はっきり「できません」と{言|い}わない{言|い}い{方|かた}",
+     "とても{丁寧|ていねい}な{敬語|けいご}",
+     "{外国人|がいこくじん}だけが{使|つか}う{言|い}い{方|かた}",
+     "{笑|わら}いながら{話|はな}す{言|い}い{方|かた}"
+    ],
+    "answer": 0,
+    "why": "It means saying 'we will consider it' instead of clearly saying 'we can't.'"
+   },
+   {
+    "q": "この{話|はなし}の{後|あと}、{私|わたし}はどう{変|か}わりましたか。",
+    "q_en": "How did the writer change after this?",
+    "options": [
+     "グエンさんに{日本語|にほんご}を{教|おし}えるようになった",
+     "{会議|かいぎ}ではっきり{話|はな}すようにした",
+     "{会議|かいぎ}に{出|で}なくなった",
+     "{手帳|てちょう}にメモするようになった"
+    ],
+    "answer": 1,
+    "why": "The writer now tries to speak as clearly as possible in meetings."
+   },
+   {
+    "q": "この{文章|ぶんしょう}で{一番|いちばん}{言|い}いたいことは{何|なん}ですか。",
+    "q_en": "What is the main point of this passage?",
+    "options": [
+     "{日本|にほん}の{会議|かいぎ}は{長|なが}すぎる",
+     "{外国人|がいこくじん}は{日本語|にほんご}を{勉強|べんきょう}するべきだ",
+     "ベトナムの{会社|かいしゃ}は{日本|にほん}と{違|ちが}う",
+     "{普段|ふだん}の{言葉|ことば}も{外|そと}の{人|ひと}にはわかりにくいことがある"
+    ],
+    "answer": 3,
+    "why": "The writer realized that everyday expressions can be hard for outsiders to understand."
+   }
+  ]
+ },
+ {
+  "id": "r3-09",
+  "level": 3,
+  "title_raw": "Cafe temporary closing",
+  "kind": "notice",
+  "text": "{臨時|りんじ}{休業|きゅうぎょう}のお{知|し}らせ\nいつも「カフェ・ひだまり」をご{利用|りよう}いただき、ありがとうございます。\n{店内|てんない}の{工事|こうじ}のため、11{月|がつ}10{日|か}（{月|げつ}）から11{月|がつ}16{日|にち}（{日|にち}）まで、お{休|やす}みさせていただきます。11{月|がつ}17{日|にち}（{月|げつ}）からは{通常|つうじょう}どおり{営業|えいぎょう}いたします。\nなお、ポイントカードの{期限|きげん}が{休業|きゅうぎょう}{中|ちゅう}に{終|お}わってしまうお{客様|きゃくさま}は、{営業|えいぎょう}{再開|さいかい}{後|ご}{一|いっ}か{月|げつ}{以内|いない}であれば{使|つか}うことができます。\nご{迷惑|めいわく}をおかけしますが、よろしくお{願|ねが}いいたします。",
+  "en": "Notice of temporary closing\nThank you for always using Cafe Hidamari.\nBecause of construction inside the shop, we will be closed from Monday, November 10, to Sunday, November 16. From Monday, November 17, we will be open as usual.\nAlso, customers whose point card expires during the closing can still use it within one month after we reopen.\nWe are sorry for the trouble and thank you for your understanding.",
+  "questions": [
+   {
+    "q": "ポイントカードの{期限|きげん}が11{月|がつ}12{日|にち}の{人|ひと}は、どうなりますか。",
+    "q_en": "What happens to a person whose point card expires on November 12?",
+    "options": [
+     "もう{使|つか}えない",
+     "11{月|がつ}9{日|か}までに{使|つか}わなければならない",
+     "{新|あたら}しいカードがもらえる",
+     "12{月|がつ}16{日|にち}ごろまで{使|つか}える"
+    ],
+    "answer": 3,
+    "why": "Cards that expire during the closing can be used within one month after reopening on November 17."
+   }
+  ]
+ },
+ {
+  "id": "r3-10",
+  "level": 3,
+  "title_raw": "Bicycle commuting",
+  "kind": "short",
+  "text": "{最近|さいきん}、{自転車|じてんしゃ}で{会社|かいしゃ}に{通|かよ}うようになりました。{電車|でんしゃ}より{少|すこ}し{時間|じかん}がかかりますが、{運動|うんどう}にもなるし、{朝|あさ}の{空気|くうき}が{気持|きも}ちいいです。ただ、{雨|あめ}の{日|ひ}は{危|あぶ}ないので、{電車|でんしゃ}を{使|つか}うことにしています。{会社|かいしゃ}にシャワーがあればもっといいのに、と{思|おも}います。{夏|なつ}は{汗|あせ}をかくので、{着替|きが}えを{持|も}っていかなければなりません。それでも、しばらくは{続|つづ}けてみるつもりです。",
+  "en": "Recently I have started commuting to work by bicycle. It takes a little longer than the train, but it is also exercise and the morning air feels nice. However, on rainy days it is dangerous, so I take the train. I think it would be even better if the company had a shower. In summer I sweat, so I have to bring a change of clothes. Even so, I plan to keep it up for a while.",
+  "questions": [
+   {
+    "q": "この{人|ひと}は{雨|あめ}の{日|ひ}、どうしますか。",
+    "q_en": "What does this person do on rainy days?",
+    "options": [
+     "{電車|でんしゃ}で{会社|かいしゃ}に{行|い}く",
+     "{自転車|じてんしゃ}で{会社|かいしゃ}に{行|い}く",
+     "{会社|かいしゃ}を{休|やす}む",
+     "{歩|ある}いて{会社|かいしゃ}に{行|い}く"
+    ],
+    "answer": 0,
+    "why": "It is dangerous on rainy days, so they use the train."
+   }
+  ]
+ },
+ {
+  "id": "r3-11",
+  "level": 3,
+  "title_raw": "Moving to the countryside",
+  "kind": "long",
+  "text": "{私|わたし}は{去年|きょねん}の{春|はる}、{東京|とうきょう}から{長野県|ながのけん}の{小|ちい}さな{町|まち}に{引|ひ}っ{越|こ}しました。{東京|とうきょう}では{毎日|まいにち}{遅|おそ}くまで{働|はたら}いていて、{疲|つか}れていたからです。\n{引|ひ}っ{越|こ}す{前|まえ}は、{田舎|いなか}の{生活|せいかつ}は{不便|ふべん}だろうと{心配|しんぱい}していました。{実際|じっさい}、{近|ちか}くにコンビニはありませんし、バスも{一時間|いちじかん}に{一本|いっぽん}しか{来|き}ません。{車|くるま}がないと、{買|か}い{物|もの}に{行|い}くのも{大変|たいへん}です。\nしかし、{住|す}んでみると、{思|おも}っていたより{楽|たの}しいことがたくさんありました。{近所|きんじょ}の{人|ひと}が{畑|はたけ}でとれた{野菜|やさい}をくれたり、お{祭|まつ}りに{誘|さそ}ってくれたりします。{東京|とうきょう}では{隣|となり}に{住|す}んでいる{人|ひと}の{名前|なまえ}も{知|し}りませんでしたが、ここでは{町|まち}の{人|ひと}たちとよく{話|はな}すようになりました。\n{今|いま}はインターネットを{使|つか}って、{家|いえ}で{東京|とうきょう}の{会社|かいしゃ}の{仕事|しごと}をしています。{給料|きゅうりょう}は{少|すこ}し{下|さ}がりましたが、{家賃|やちん}が{安|やす}いので{生活|せいかつ}は{困|こま}りません。{不便|ふべん}なこともありますが、{私|わたし}はここに{来|き}てよかったと{思|おも}っています。",
+  "en": "Last spring, I moved from Tokyo to a small town in Nagano Prefecture. In Tokyo I worked late every day and I was tired.\nBefore moving, I worried that country life would be inconvenient. In fact, there is no convenience store nearby, and the bus comes only once an hour. Without a car, even going shopping is hard.\nBut after living here, I found many more enjoyable things than I expected. Neighbors give me vegetables from their fields and invite me to festivals. In Tokyo I did not even know the name of the person living next door, but here I have started talking often with the people in town.\nNow I use the internet to work at home for a company in Tokyo. My salary went down a little, but rent is cheap, so I have no problems living. There are some inconvenient things, but I think I am glad I came here.",
+  "questions": [
+   {
+    "q": "この{人|ひと}はどうして{引|ひ}っ{越|こ}しましたか。",
+    "q_en": "Why did this person move?",
+    "options": [
+     "{東京|とうきょう}の{仕事|しごと}で{疲|つか}れていたから",
+     "{長野|ながの}の{会社|かいしゃ}に{入|はい}ったから",
+     "{家族|かぞく}が{長野|ながの}に{住|す}んでいるから",
+     "{東京|とうきょう}の{家賃|やちん}が{上|あ}がったから"
+    ],
+    "answer": 0,
+    "why": "The writer was tired from working late every day in Tokyo."
+   },
+   {
+    "q": "{田舎|いなか}の{生活|せいかつ}で{不便|ふべん}なことは{何|なん}ですか。",
+    "q_en": "What is inconvenient about country life?",
+    "options": [
+     "{近所|きんじょ}の{人|ひと}と{話|はな}せないこと",
+     "インターネットが{使|つか}えないこと",
+     "{車|くるま}がないと{買|か}い{物|もの}が{大変|たいへん}なこと",
+     "{家賃|やちん}が{高|たか}いこと"
+    ],
+    "answer": 2,
+    "why": "There are few buses and no nearby stores, so shopping is hard without a car."
+   },
+   {
+    "q": "{東京|とうきょう}にいたときと{比|くら}べて、{変|か}わったことは{何|なん}ですか。",
+    "q_en": "Compared to Tokyo, what has changed?",
+    "options": [
+     "{給料|きゅうりょう}が{上|あ}がった",
+     "{町|まち}の{人|ひと}とよく{話|はな}すようになった",
+     "{会社|かいしゃ}に{毎日|まいにち}{通|かよ}うようになった",
+     "{隣|となり}の{人|ひと}の{名前|なまえ}を{忘|わす}れた"
+    ],
+    "answer": 1,
+    "why": "In Tokyo the writer did not know their neighbors, but now they talk often with people in town."
+   },
+   {
+    "q": "この{人|ひと}は{今|いま}の{生活|せいかつ}についてどう{思|おも}っていますか。",
+    "q_en": "What does this person think about their life now?",
+    "options": [
+     "{不便|ふべん}なので{東京|とうきょう}に{戻|もど}りたい",
+     "お{金|かね}が{足|た}りなくて{困|こま}っている",
+     "{何|なに}も{不便|ふべん}なことはない",
+     "{不便|ふべん}なこともあるが、{来|き}てよかった"
+    ],
+    "answer": 3,
+    "why": "The writer says there are some inconveniences but they are glad they came."
+   }
+  ]
+ },
+ {
+  "id": "r3-12",
+  "level": 3,
+  "title_raw": "Request to a manager",
+  "kind": "short",
+  "text": "{鈴木|すずき}{課長|かちょう}\nお{疲|つか}れさまです。{木村|きむら}です。\n{実|じつ}は、{来週|らいしゅう}の{金曜日|きんようび}に{子供|こども}の{学校|がっこう}で{行事|ぎょうじ}があるため、{午後|ごご}から{休|やす}ませていただきたいのですが、よろしいでしょうか。\nその{日|ひ}の{午後|ごご}に{予定|よてい}していたお{客様|きゃくさま}との{打|う}ち{合|あ}わせは、{佐藤|さとう}さんに{代|か}わってもらえることになっています。{必要|ひつよう}な{資料|しりょう}は{木曜日|もくようび}までに{佐藤|さとう}さんに{渡|わた}しておきます。\nどうぞよろしくお{願|ねが}いいたします。",
+  "en": "Section Chief Suzuki,\nThank you for your hard work. This is Kimura.\nActually, there is an event at my child's school next Friday, so I would like to take the afternoon off. Would that be all right?\nMs. Sato has agreed to take my place at the client meeting planned for that afternoon. I will give Ms. Sato the necessary materials by Thursday.\nThank you very much.",
+  "questions": [
+   {
+    "q": "{木村|きむら}さんは{課長|かちょう}に{何|なに}をお{願|ねが}いしていますか。",
+    "q_en": "What is Kimura asking the section chief?",
+    "options": [
+     "{打|う}ち{合|あ}わせの{日|ひ}を{変|か}えること",
+     "{金曜日|きんようび}の{午後|ごご}に{休|やす}むこと",
+     "{佐藤|さとう}さんに{資料|しりょう}を{渡|わた}すこと",
+     "{学校|がっこう}の{行事|ぎょうじ}に{来|く}ること"
+    ],
+    "answer": 1,
+    "why": "Kimura asks to take Friday afternoon off for a school event."
+   }
+  ]
+ },
+ {
+  "id": "r3-13",
+  "level": 3,
+  "title_raw": "Train fare chart",
+  "kind": "info",
+  "text": "みなみ{線|せん}　{一日|いちにち}{乗車券|じょうしゃけん}のご{案内|あんない}\n・{大人|おとな}：900{円|えん}　{子供|こども}（{小学生|しょうがくせい}）：450{円|えん}\n・{小学生|しょうがくせい}より{小|ちい}さいお{子様|こさま}は{無料|むりょう}です。\n・{買|か}った{日|ひ}だけ、みなみ{線|せん}の{全部|ぜんぶ}の{駅|えき}で{何回|なんかい}でも{乗|の}り{降|お}りできます。\n・{駅|えき}の{券売機|けんばいき}で{買|か}えます。\n・{土曜日|どようび}・{日曜日|にちようび}・{祝日|しゅくじつ}は、{大人|おとな}700{円|えん}になります。\n※{一回|いっかい}の{乗車|じょうしゃ}は、{大人|おとな}250{円|えん}です。\n※{乗車券|じょうしゃけん}をなくした{場合|ばあい}、もう{一度|いちど}{買|か}っていただくことになります。",
+  "en": "Minami Line: One-day ticket guide\n- Adult: 900 yen. Child (elementary school): 450 yen.\n- Children younger than elementary school ride free.\n- On the day you buy it only, you can get on and off as many times as you like at all Minami Line stations.\n- You can buy it from the ticket machines at stations.\n- On Saturdays, Sundays and national holidays, the adult price is 700 yen.\n* A single ride costs 250 yen for adults.\n* If you lose the ticket, you will need to buy it again.",
+  "questions": [
+   {
+    "q": "{日曜日|にちようび}に、{大人|おとな}{二人|ふたり}と{小学生|しょうがくせい}{一人|ひとり}が{一日|いちにち}{乗車券|じょうしゃけん}を{買|か}います。{全部|ぜんぶ}でいくらですか。",
+    "q_en": "On a Sunday, two adults and one elementary school child buy one-day tickets. How much is it in total?",
+    "options": [
+     "1,400{円|えん}",
+     "1,850{円|えん}",
+     "2,250{円|えん}",
+     "1,750{円|えん}"
+    ],
+    "answer": 1,
+    "why": "On Sunday adults pay 700 yen each and the child pays 450 yen, so 700 + 700 + 450 = 1,850 yen."
+   },
+   {
+    "q": "{平日|へいじつ}に{大人|おとな}が{三回|さんかい}{電車|でんしゃ}に{乗|の}る{場合|ばあい}、どちらが{安|やす}いですか。",
+    "q_en": "If an adult rides three times on a weekday, which is cheaper?",
+    "options": [
+     "{一日|いちにち}{乗車券|じょうしゃけん}のほうが{安|やす}い",
+     "{同|おな}じ{値段|ねだん}だ",
+     "{一回|いっかい}ずつ{買|か}うほうが{安|やす}い",
+     "{子供|こども}の{切符|きっぷ}を{買|か}うほうが{安|やす}い"
+    ],
+    "answer": 2,
+    "why": "Three single rides cost 750 yen, which is less than the 900-yen weekday pass."
+   }
+  ]
+ },
+ {
+  "id": "r3-14",
+  "level": 3,
+  "title_raw": "Smartphone and sleep",
+  "kind": "medium",
+  "text": "{寝|ね}る{前|まえ}にスマートフォンを{見|み}る{人|ひと}は{多|おお}いでしょう。しかし、{寝|ね}る{直前|ちょくぜん}まで{画面|がめん}を{見|み}ていると、{頭|あたま}が{起|お}きたままになって、なかなか{眠|ねむ}れなくなると{言|い}われています。\n{私|わたし}も{以前|いぜん}は、ベッドの{中|なか}で{一時間|いちじかん}ぐらい{動画|どうが}を{見|み}ていました。{朝|あさ}{起|お}きても{疲|つか}れが{取|と}れていない{気|き}がしていました。\nそこで、{寝|ね}る{三十分|さんじゅっぷん}{前|まえ}にはスマートフォンを{別|べつ}の{部屋|へや}に{置|お}くことにしました。{代|か}わりに{本|ほん}を{読|よ}んだり、{音楽|おんがく}を{聞|き}いたりしています。{始|はじ}めて{二週間|にしゅうかん}ほどで、{前|まえ}より{早|はや}く{眠|ねむ}れるようになりました。",
+  "en": "Many people probably look at their smartphones before bed. However, it is said that if you look at a screen right up until you sleep, your brain stays awake and it becomes hard to fall asleep.\nI also used to watch videos in bed for about an hour. Even when I woke up in the morning, I felt I was still tired.\nSo I decided to put my smartphone in another room 30 minutes before bed. Instead, I read books or listen to music. About two weeks after starting, I became able to fall asleep faster than before.",
+  "questions": [
+   {
+    "q": "この{人|ひと}は{今|いま}、{寝|ね}る{前|まえ}に{何|なに}をしていますか。",
+    "q_en": "What does this person do before bed now?",
+    "options": [
+     "ベッドで{動画|どうが}を{見|み}ている",
+     "{本|ほん}を{読|よ}んだり{音楽|おんがく}を{聞|き}いたりしている",
+     "スマートフォンで{音楽|おんがく}を{聞|き}いている",
+     "{一時間|いちじかん}{運動|うんどう}している"
+    ],
+    "answer": 1,
+    "why": "They put the phone in another room and read books or listen to music instead."
+   },
+   {
+    "q": "「{頭|あたま}が{起|お}きたままになって」とありますが、その{結果|けっか}どうなりますか。",
+    "q_en": "It says 'your brain stays awake.' What is the result?",
+    "options": [
+     "{早|はや}く{起|お}きられる",
+     "{夢|ゆめ}をたくさん{見|み}る",
+     "なかなか{眠|ねむ}れない",
+     "{目|め}が{悪|わる}くなる"
+    ],
+    "answer": 2,
+    "why": "The passage says it becomes hard to fall asleep."
+   }
+  ]
+ },
+ {
+  "id": "r3-15",
+  "level": 3,
+  "title_raw": "Office cleaning notice",
+  "kind": "notice",
+  "text": "{社員|しゃいん}の{皆|みな}さんへ\n{来週|らいしゅう}の{土曜日|どようび}、{事務所|じむしょ}の{床|ゆか}のワックスがけを{行|おこな}います。そのため、{金曜日|きんようび}の{帰|かえ}りまでに、{次|つぎ}のことをお{願|ねが}いします。\n・{机|つくえ}の{下|した}に{置|お}いてある{荷物|にもつ}は、すべて{机|つくえ}の{上|うえ}かロッカーに{入|い}れてください。\n・パソコンの{電源|でんげん}は{切|き}っておいてください。\n・{土曜日|どようび}は{事務所|じむしょ}に{入|はい}ることができません。{休日|きゅうじつ}{出勤|しゅっきん}が{必要|ひつよう}な{方|かた}は、{二階|にかい}の{会議室|かいぎしつ}を{使|つか}ってください。\n{総務部|そうむぶ}",
+  "en": "To all employees\nNext Saturday, the office floor will be waxed. So please do the following before you leave on Friday.\n- Put all items you keep under your desk on top of your desk or in a locker.\n- Turn off your computer.\n- You cannot enter the office on Saturday. If you need to work on the holiday, please use the second-floor meeting room.\nGeneral Affairs Department",
+  "questions": [
+   {
+    "q": "{金曜日|きんようび}に{帰|かえ}る{前|まえ}にしなくてもいいことはどれですか。",
+    "q_en": "Which thing do you NOT need to do before going home on Friday?",
+    "options": [
+     "{机|つくえ}の{下|した}の{荷物|にもつ}を{片付|かたづ}ける",
+     "パソコンの{電源|でんげん}を{切|き}る",
+     "{会議室|かいぎしつ}を{予約|よやく}する",
+     "{荷物|にもつ}をロッカーに{入|い}れる"
+    ],
+    "answer": 2,
+    "why": "The notice asks you to move items and turn off the computer, but not to book the meeting room."
+   },
+   {
+    "q": "{土曜日|どようび}に{仕事|しごと}をしなければならない{人|ひと}は、どこで{仕事|しごと}をしますか。",
+    "q_en": "Where does a person who must work on Saturday work?",
+    "options": [
+     "{自分|じぶん}の{机|つくえ}",
+     "{家|いえ}",
+     "{一階|いっかい}のロビー",
+     "{二階|にかい}の{会議室|かいぎしつ}"
+    ],
+    "answer": 3,
+    "why": "The notice says to use the second-floor meeting room."
+   }
+  ]
+ }
+]

@@ -1,0 +1,722 @@
+[
+ {
+  "id": "s3-001",
+  "level": 3,
+  "title": "{新|あたら}しい{記者|きしゃ}",
+  "title_en": "The New Reporter",
+  "genre_raw": "Work",
+  "paragraphs": [
+   {
+    "jp": "{春人|はると}は{二十三歳|にじゅうさんさい}。{東京|とうきょう}の{大学|だいがく}を{卒業|そつぎょう}したあと、{海|うみ}のそばの{小|ちい}さな{町|まち}、{浜田町|はまだちょう}にある「{浜田|はまだ}{新聞|しんぶん}」で{働|はたら}くことになった。{本当|ほんとう}は{東京|とうきょう}の{大|おお}きな{新聞社|しんぶんしゃ}に{入|はい}りたかったが、{試験|しけん}に{落|お}ちてしまったのだ。{電車|でんしゃ}の{窓|まど}から{青|あお}い{海|うみ}が{見|み}えたとき、{春人|はると}は「こんな{静|しず}かな{町|まち}で、{書|か}くことなんてあるのかな」と{思|おも}った。",
+    "en": "Haruto is twenty-three. After graduating from a university in Tokyo, he started working at the Hamada Newspaper in Hamada, a small town by the sea. He had really wanted to join a big newspaper in Tokyo, but he failed the exam. When he saw the blue sea from the train window, Haruto thought, \"In a quiet town like this, will there even be anything to write about?\""
+   },
+   {
+    "jp": "{新聞社|しんぶんしゃ}は{駅|えき}の{前|まえ}の{古|ふる}いビルの{二階|にかい}にあった。{中|なか}に{入|はい}ると、{机|つくえ}が{三|みっ}つしかない。{社員|しゃいん}は{編集長|へんしゅうちょう}の{森|もり}さんと、カメラマンの{吉田|よしだ}さん、そして{春人|はると}の{三人|さんにん}だけだった。{森|もり}さんは{六十歳|ろくじゅっさい}ぐらいの{女性|じょせい}で、{大|おお}きな{声|こえ}で{笑|わら}う{人|ひと}だった。「ようこそ！{今日|きょう}から{君|きみ}も{浜田|はまだ}{新聞|しんぶん}の{記者|きしゃ}よ」",
+    "en": "The newspaper office was on the second floor of an old building in front of the station. Inside, there were only three desks. The staff was just three people: Ms. Mori the editor, Mr. Yoshida the photographer, and Haruto. Ms. Mori was a woman of about sixty who laughed in a loud voice. \"Welcome! From today, you're a Hamada Newspaper reporter too.\""
+   },
+   {
+    "jp": "{最初|さいしょ}の{仕事|しごと}は、{町|まち}の{人|ひと}に{話|はなし}を{聞|き}くことだった。「{何|なに}について{書|か}けばいいですか」と{春人|はると}が{聞|き}くと、{森|もり}さんは{首|くび}を{振|ふ}った。「それを{見|み}つけるのが{記者|きしゃ}の{仕事|しごと}でしょう。{大|おお}きなニュースじゃなくていいの。この{町|まち}の{人|ひと}が{読|よ}みたいと{思|おも}う{話|はなし}を{探|さが}してきて」",
+    "en": "His first job was to talk to people in the town. When Haruto asked, \"What should I write about?\", Ms. Mori shook her head. \"Finding that is a reporter's job, isn't it? It doesn't have to be big news. Go and look for stories the people of this town will want to read.\""
+   },
+   {
+    "jp": "{春人|はると}はノートを{持|も}って{町|まち}を{歩|ある}いた。{商店街|しょうてんがい}には{閉|し}まっている{店|みせ}が{多|おお}く、{若|わか}い{人|ひと}はほとんど{見|み}かけなかった。{港|みなと}まで{来|き}たとき、{一人|ひとり}のおばあさんが{声|こえ}をかけてきた。「あなた、{新|あたら}しい{記者|きしゃ}さんでしょう？{町|まち}の{人|ひと}はみんな{知|し}ってるわよ」{小|ちい}さな{町|まち}では、ニュースより{噂|うわさ}のほうが{速|はや}いらしい。",
+    "en": "Haruto walked around town with a notebook. Many shops on the shopping street were closed, and he hardly saw any young people. When he reached the harbor, an old woman called out to him. \"You're the new reporter, right? Everyone in town knows.\" In a small town, it seems, rumors travel faster than news."
+   },
+   {
+    "jp": "おばあさんは{港|みなと}のほうを{指|ゆび}さした。「{話|はなし}を{聞|き}くなら、{源|げん}さんに{会|あ}うといいわ。この{町|まち}でいちばん{長|なが}く{海|うみ}に{出|で}ている{漁師|りょうし}よ。でも、{気|き}をつけてね。とても{頑固|がんこ}だから」{春人|はると}は{少|すこ}し{緊張|きんちょう}しながら、{古|ふる}い{船|ふね}のほうへ{歩|ある}いていった。しかし、{源|げん}さんの{船|ふね}はもう{海|うみ}に{出|で}たあとだった。",
+    "en": "The old woman pointed toward the harbor. \"If you want stories, you should meet Gen-san. He's the fisherman who has gone out to sea the longest in this town. But be careful. He's very stubborn.\" A little nervous, Haruto walked toward the old boats. But Gen-san's boat had already gone out to sea."
+   },
+   {
+    "jp": "その{夜|よる}、{春人|はると}は{日記|にっき}を{書|か}き{始|はじ}めた。{最初|さいしょ}のページにはこう{書|か}いた。「こんな{静|しず}かな{町|まち}で、{書|か}くことなんてあるのかな。でも、{本当|ほんとう}はそうじゃないのかもしれない。{明日|あした}から、この{町|まち}の{話|はなし}を{一|ひと}つずつ{集|あつ}めてみよう」",
+    "en": "That night, Haruto started a diary. On the first page he wrote: \"In a quiet town like this, will there be anything to write about? But maybe that's not really true. Starting tomorrow, I'll try collecting this town's stories one by one.\""
+   }
+  ],
+  "questions": [
+   {
+    "q": "{森|もり}さんは{春人|はると}に{何|なに}をするように{言|い}いましたか。",
+    "q_en": "What did Ms. Mori tell Haruto to do?",
+    "options": [
+     "{大|おお}きなニュースを{探|さが}す",
+     "カメラの{使|つか}い{方|かた}を{覚|おぼ}える",
+     "{町|まち}の{人|ひと}が{読|よ}みたい{話|はなし}を{探|さが}す",
+     "{東京|とうきょう}の{新聞社|しんぶんしゃ}に{行|い}く"
+    ],
+    "answer": 2,
+    "why": "She told him to find stories that the people of the town would want to read."
+   },
+   {
+    "q": "{春人|はると}はどうして{浜田|はまだ}{新聞|しんぶん}で{働|はたら}くことになりましたか。",
+    "q_en": "Why did Haruto end up working at the Hamada Newspaper?",
+    "options": [
+     "{東京|とうきょう}の{新聞社|しんぶんしゃ}の{試験|しけん}に{落|お}ちたから",
+     "{浜田町|はまだちょう}で{生|う}まれたから",
+     "{源|げん}さんに{頼|たの}まれたから",
+     "{海|うみ}で{働|はたら}きたかったから"
+    ],
+    "answer": 0,
+    "why": "He wanted a big Tokyo newspaper but failed the exam."
+   }
+  ]
+ },
+ {
+  "id": "s3-002",
+  "level": 3,
+  "title": "{漁師|りょうし}の{源|げん}さん",
+  "title_en": "Gen the Fisherman",
+  "genre_raw": "Slice of life",
+  "paragraphs": [
+   {
+    "jp": "{次|つぎ}の{日|ひ}、{春人|はると}は{朝|あさ}{四時|よじ}に{港|みなと}へ{行|い}った。{源|げん}さんはもう{船|ふね}の{準備|じゅんび}をしていた。{七十八歳|ななじゅうはっさい}だと{聞|き}いていたが、{腕|うで}は{太|ふと}く、{背中|せなか}もまっすぐだった。「{新聞|しんぶん}に{書|か}くようなことは{何|なに}もないよ」{源|げん}さんはそう{言|い}って、{春人|はると}の{顔|かお}も{見|み}なかった。",
+    "en": "The next day, Haruto went to the harbor at four in the morning. Gen-san was already getting his boat ready. Haruto had heard he was seventy-eight, but his arms were thick and his back was straight. \"There's nothing worth writing in a newspaper here,\" Gen-san said, without even looking at Haruto's face."
+   },
+   {
+    "jp": "{春人|はると}はあきらめなかった。「では、{話|はなし}はしなくてもいいです。{一緒|いっしょ}に{船|ふね}に{乗|の}せてもらえませんか」{源|げん}さんは{少|すこ}し{驚|おどろ}いた{顔|かお}をしたが、「{酔|よ}っても{知|し}らないぞ」と{言|い}って、{春人|はると}を{船|ふね}に{乗|の}せてくれた。",
+    "en": "Haruto didn't give up. \"Then you don't have to talk. Could you let me ride on the boat with you?\" Gen-san looked a little surprised, but he said, \"Don't blame me if you get seasick,\" and let Haruto on the boat."
+   },
+   {
+    "jp": "{海|うみ}の{上|うえ}は{思|おも}ったよりずっと{揺|ゆ}れた。{春人|はると}はすぐに{気分|きぶん}が{悪|わる}くなり、{何度|なんど}も{海|うみ}に{向|む}かって{吐|は}いてしまった。{源|げん}さんは{何|なに}も{言|い}わずに{網|あみ}を{引|ひ}いていた。でも、{太陽|たいよう}が{昇|のぼ}ってきたとき、{源|げん}さんは{小|ちい}さな{声|こえ}で「{見|み}ろ」と{言|い}った。{海|うみ}{全体|ぜんたい}がオレンジ{色|いろ}に{光|ひか}っていた。",
+    "en": "The sea rocked much more than he expected. Haruto soon felt sick and threw up over the side many times. Gen-san said nothing and kept pulling in his nets. But when the sun came up, Gen-san said quietly, \"Look.\" The whole sea was shining orange."
+   },
+   {
+    "jp": "{港|みなと}に{戻|もど}ると、{源|げん}さんは{温|あたた}かいお{茶|ちゃ}をくれた。そして、{少|すこ}しずつ{話|はな}し{始|はじ}めた。{十五歳|じゅうごさい}で{父親|ちちおや}と{海|うみ}に{出|で}たこと。{昔|むかし}はこの{町|まち}に{漁師|りょうし}が{五十人|ごじゅうにん}{以上|いじょう}いたが、{今|いま}は{五人|ごにん}しか{残|のこ}っていないこと。「{息子|むすこ}は{都会|とかい}で{会社員|かいしゃいん}になった。{俺|おれ}がこの{家|いえ}の{最後|さいご}の{漁師|りょうし}になるかもしれないな」",
+    "en": "Back at the harbor, Gen-san gave him some hot tea. Then, little by little, he began to talk. How he first went to sea with his father at fifteen. How there used to be more than fifty fishermen in this town, but now only five are left. \"My son became an office worker in the city. I might be the last fisherman in my family.\""
+   },
+   {
+    "jp": "{春人|はると}はその{日|ひ}の{話|はなし}を{記事|きじ}にした。タイトルは「{海|うみ}と{生|い}きて{六十年|ろくじゅうねん}」。{記事|きじ}が{新聞|しんぶん}に{載|の}った{日|ひ}、{町|まち}の{人|ひと}たちが{次々|つぎつぎ}に{源|げん}さんの{船|ふね}を{見|み}に{来|き}た。{子|こ}どもたちは「{漁師|りょうし}ってかっこいい！」と{言|い}っていた。{源|げん}さんは{迷惑|めいわく}そうな{顔|かお}をしていたが、{少|すこ}しうれしそうにも{見|み}えた。",
+    "en": "Haruto turned that day's story into an article titled \"Sixty Years Living with the Sea.\" On the day it ran in the paper, one person after another came to see Gen-san's boat. The children said, \"Fishermen are so cool!\" Gen-san looked annoyed, but he also seemed a little happy."
+   },
+   {
+    "jp": "{数日後|すうじつご}、{新聞社|しんぶんしゃ}に{一通|いっつう}の{手紙|てがみ}が{届|とど}いた。{東京|とうきょう}に{住|す}む{源|げん}さんの{息子|むすこ}からだった。{近所|きんじょ}の{人|ひと}が{記事|きじ}を{送|おく}ってくれたそうだ。「{父|ちち}のことを{書|か}いてくださって、ありがとうございます。{父|ちち}があんなに{海|うみ}を{愛|あい}していたなんて、{知|し}りませんでした。{今度|こんど}の{夏休|なつやす}みは、{子|こ}どもを{連|つ}れて{帰|かえ}ります」{春人|はると}は{手紙|てがみ}を{読|よ}みながら、{初|はじ}めて{記者|きしゃ}になってよかったと{思|おも}った。",
+    "en": "A few days later, a letter arrived at the office. It was from Gen-san's son, who lives in Tokyo. A neighbor had sent him the article. \"Thank you for writing about my father. I never knew he loved the sea so much. This summer vacation, I'll bring my children home.\" Reading the letter, Haruto felt glad to be a reporter for the first time."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{春人|はると}は{船|ふね}の{上|うえ}でどうなりましたか。",
+    "q_en": "What happened to Haruto on the boat?",
+    "options": [
+     "{網|あみ}を{引|ひ}くのを{手伝|てつだ}った",
+     "{気分|きぶん}が{悪|わる}くなった",
+     "{魚|さかな}をたくさん{釣|つ}った",
+     "{源|げん}さんとけんかした"
+    ],
+    "answer": 1,
+    "why": "The boat rocked a lot and Haruto felt sick and threw up."
+   },
+   {
+    "q": "{記事|きじ}を{読|よ}んだ{源|げん}さんの{息子|むすこ}は、{何|なに}をすると{言|い}いましたか。",
+    "q_en": "After reading the article, what did Gen-san's son say he would do?",
+    "options": [
+     "{会社|かいしゃ}をやめて{漁師|りょうし}になる",
+     "{新聞社|しんぶんしゃ}に{電話|でんわ}する",
+     "{父親|ちちおや}を{東京|とうきょう}に{呼|よ}ぶ",
+     "{夏休|なつやす}みに{子|こ}どもを{連|つ}れて{帰|かえ}る"
+    ],
+    "answer": 3,
+    "why": "His letter says he will bring his children home this summer vacation."
+   }
+  ]
+ },
+ {
+  "id": "s3-003",
+  "level": 3,
+  "title": "{消|き}えそうな{祭|まつ}り",
+  "title_en": "The Festival That Almost Disappeared",
+  "genre_raw": "History",
+  "paragraphs": [
+   {
+    "jp": "{夏|なつ}が{近|ちか}づいたある{日|ひ}、{森|もり}さんが{言|い}った。「{今年|ことし}は、{海神|うみがみ}{神社|じんじゃ}のお{祭|まつ}りがないかもしれないそうよ」{海神|うみがみ}{神社|じんじゃ}は{丘|おか}の{上|うえ}にある{小|ちい}さな{神社|じんじゃ}で、{毎年|まいとし}{八月|はちがつ}にお{祭|まつ}りが{行|おこな}われてきた。{三百年|さんびゃくねん}も{続|つづ}いている{祭|まつ}りだという。",
+    "en": "One day as summer approached, Ms. Mori said, \"I hear there might be no festival at Umigami Shrine this year.\" Umigami Shrine is a small shrine on top of a hill, and a festival has been held there every August. People say it has continued for three hundred years."
+   },
+   {
+    "jp": "{春人|はると}は{神社|じんじゃ}へ{行|い}って、{神社|じんじゃ}を{守|まも}っている{大川|おおかわ}さんに{話|はなし}を{聞|き}いた。{祭|まつ}りでは、{男|おとこ}たちが{重|おも}いお{神輿|みこし}を{担|かつ}いで、{丘|おか}から{海|うみ}まで{運|はこ}ぶ。でも、{今|いま}の{町|まち}には{担|かつ}ぐ{人|ひと}がいないのだ。「{少|すく}なくとも{二十人|にじゅうにん}{必要|ひつよう}なんですが、{去年|きょねん}は{十二人|じゅうににん}しか{集|あつ}まりませんでした。みんな{年|とし}をとってしまって……」",
+    "en": "Haruto went to the shrine and talked to Mr. Okawa, who looks after it. At the festival, men carry a heavy portable shrine on their shoulders from the hill down to the sea. But now there aren't enough people in town to carry it. \"We need at least twenty people, but last year only twelve came. Everyone has gotten old...\""
+   },
+   {
+    "jp": "{大川|おおかわ}さんは{古|ふる}いアルバムを{見|み}せてくれた。{白黒|しろくろ}の{写真|しゃしん}の{中|なか}で、たくさんの{人|ひと}が{笑|わら}いながらお{神輿|みこし}を{担|かつ}いでいる。その{中|なか}に、{若|わか}いころの{源|げん}さんもいた。「この{祭|まつ}りは、{海|うみ}で{働|はたら}く{人|ひと}の{安全|あんぜん}を{祈|いの}るためのものなんです。なくなってしまうのは、{本当|ほんとう}に{寂|さび}しいです」",
+    "en": "Mr. Okawa showed him an old album. In the black-and-white photos, many people were laughing as they carried the shrine. Among them was a young Gen-san. \"This festival is for praying for the safety of people who work at sea. It would be really sad if it disappeared.\""
+   },
+   {
+    "jp": "{春人|はると}は{記事|きじ}を{書|か}いた。{祭|まつ}りの{歴史|れきし}と、{古|ふる}い{写真|しゃしん}と、{大川|おおかわ}さんの{言葉|ことば}。そして{最後|さいご}に、こう{書|か}いた。「お{神輿|みこし}を{担|かつ}いでくれる{人|ひと}を{探|さが}しています。{年齢|ねんれい}は{関係|かんけい}ありません。この{町|まち}に{住|す}んでいなくてもかまいません」",
+    "en": "Haruto wrote an article: the history of the festival, the old photos, and Mr. Okawa's words. At the end, he wrote: \"We are looking for people to carry the portable shrine. Age doesn't matter. You don't have to live in this town.\""
+   },
+   {
+    "jp": "{最初|さいしょ}の{一週間|いっしゅうかん}、{電話|でんわ}は{一本|いっぽん}もかかってこなかった。{春人|はると}はがっかりした。ところが、{二週目|にしゅうめ}に{入|はい}ると、{急|きゅう}に{電話|でんわ}が{鳴|な}り{始|はじ}めた。{町|まち}を{出|で}た{人|ひと}の{家族|かぞく}が、{記事|きじ}の{写真|しゃしん}を{撮|と}ってインターネットに{載|の}せたらしい。「{子|こ}どものころ、あの{祭|まつ}りが{大好|だいす}きでした。{帰|かえ}って{手伝|てつだ}います」という{連絡|れんらく}が、{次々|つぎつぎ}に{来|き}た。",
+    "en": "For the first week, not a single call came. Haruto was disappointed. But in the second week, the phone suddenly started ringing. It seems a family member of someone who had left town took a photo of the article and posted it online. Messages came in one after another: \"I loved that festival when I was a kid. I'll come back and help.\""
+   },
+   {
+    "jp": "{八月|はちがつ}、お{祭|まつ}りの{日|ひ}。{丘|おか}の{上|うえ}には{三十人|さんじゅうにん}{以上|いじょう}が{集|あつ}まった。{大阪|おおさか}や{東京|とうきょう}から{帰|かえ}ってきた{人|ひと}もいれば、{初|はじ}めて{町|まち}に{来|き}た{大学生|だいがくせい}もいた。お{神輿|みこし}が{海|うみ}に{着|つ}いたとき、{大川|おおかわ}さんは{泣|な}いていた。{春人|はると}もカメラを{持|も}ったまま、{少|すこ}し{泣|な}きそうになった。",
+    "en": "In August, on the day of the festival, more than thirty people gathered on the hill. Some had come back from Osaka and Tokyo, and some were university students visiting the town for the first time. When the shrine reached the sea, Mr. Okawa was crying. Holding his camera, Haruto almost cried too."
+   }
+  ],
+  "questions": [
+   {
+    "q": "お{祭|まつ}りがなくなりそうだったのは、どうしてですか。",
+    "q_en": "Why was the festival about to disappear?",
+    "options": [
+     "{神社|じんじゃ}が{古|ふる}くなったから",
+     "お{神輿|みこし}を{担|かつ}ぐ{人|ひと}が{足|た}りないから",
+     "お{金|かね}がなかったから",
+     "{台風|たいふう}が{来|く}るから"
+    ],
+    "answer": 1,
+    "why": "They needed at least twenty carriers but only twelve came last year."
+   },
+   {
+    "q": "{二週目|にしゅうめ}に{急|きゅう}に{電話|でんわ}が{増|ふ}えたのは、なぜですか。",
+    "q_en": "Why did the phone calls suddenly increase in the second week?",
+    "options": [
+     "{森|もり}さんが{町|まち}の{人|ひと}に{頼|たの}んだから",
+     "{大川|おおかわ}さんがテレビに{出|で}たから",
+     "{源|げん}さんが{友達|ともだち}に{話|はな}したから",
+     "{記事|きじ}の{写真|しゃしん}がインターネットに{載|の}ったから"
+    ],
+    "answer": 3,
+    "why": "Someone's family posted a photo of the article online and people far away saw it."
+   }
+  ]
+ },
+ {
+  "id": "s3-004",
+  "level": 3,
+  "title": "{百年|ひゃくねん}の{店|みせ}",
+  "title_en": "The Hundred-Year Shop",
+  "genre_raw": "Food",
+  "paragraphs": [
+   {
+    "jp": "{秋|あき}になって、{悲|かな}しいニュースが{入|はい}ってきた。{商店街|しょうてんがい}にある{和菓子屋|わがしや}「{松本屋|まつもとや}」が、{今月|こんげつ}の{終|お}わりで{店|みせ}を{閉|し}めるというのだ。{松本屋|まつもとや}はちょうど{今年|ことし}で{百年|ひゃくねん}になる{店|みせ}だ。{町|まち}の{人|ひと}なら{誰|だれ}でも、{一度|いちど}はここのどら{焼|や}きを{食|た}べたことがあるはずだ。",
+    "en": "In autumn, sad news came in. Matsumotoya, a Japanese sweets shop on the shopping street, was going to close at the end of the month. Matsumotoya turns exactly one hundred years old this year. Everyone in town must have eaten its dorayaki at least once."
+   },
+   {
+    "jp": "{店|みせ}に{行|い}くと、{四代目|よんだいめ}の{松本|まつもと}さんが{一人|ひとり}であんこを{作|つく}っていた。{松本|まつもと}さんは{七十歳|ななじゅっさい}。{最近|さいきん}、{手|て}が{痛|いた}くて、{長|なが}い{時間|じかん}{働|はたら}けなくなったそうだ。「{子|こ}どもはいませんし、{店|みせ}を{継|つ}いでくれる{人|ひと}もいません。{百年|ひゃくねん}で{終|お}わりにするのが、ちょうどいいと{思|おも}ったんです」",
+    "en": "When Haruto went to the shop, Mr. Matsumoto, the fourth owner, was making red bean paste by himself. Mr. Matsumoto is seventy. Recently his hands hurt, and he can no longer work long hours. \"I have no children, and there's no one to take over the shop. I thought ending it at a hundred years would be just right.\""
+   },
+   {
+    "jp": "{春人|はると}は{毎日|まいにち}{店|みせ}に{通|かよ}って、{最後|さいご}の{一|いっ}か{月|げつ}を{記録|きろく}することにした。{朝|あさ}{五時|ごじ}に{豆|まめ}を{煮|に}る{松本|まつもと}さん。{学校|がっこう}の{帰|かえ}りにどら{焼|や}きを{買|か}いに{来|く}る{小学生|しょうがくせい}。「{結婚式|けっこんしき}のお{菓子|かし}もここで{頼|たの}んだのよ」と{話|はな}すおばあさん。{店|みせ}には、{町|まち}の{人|ひと}たちの{思|おも}い{出|で}がたくさん{詰|つ}まっていた。",
+    "en": "Haruto decided to visit the shop every day and record its last month. Mr. Matsumoto boiling beans at five in the morning. Elementary school kids coming to buy dorayaki on the way home. An old woman saying, \"I ordered the sweets for my wedding here too.\" The shop was full of the townspeople's memories."
+   },
+   {
+    "jp": "ある{日|ひ}、{春人|はると}は{店|みせ}の{前|まえ}に{立|た}っている{若|わか}い{女性|じょせい}に{気|き}づいた。{何度|なんど}も{店|みせ}の{中|なか}をのぞいているが、{入|はい}ってこない。{声|こえ}をかけると、{彼女|かのじょ}は{少|すこ}し{恥|は}ずかしそうに{言|い}った。「{実|じつ}は、{東京|とうきょう}のお{菓子|かし}{屋|や}で{働|はたら}いているんです。{記事|きじ}を{読|よ}んで、{来|き}てしまいました」{彼女|かのじょ}の{名前|なまえ}は{美咲|みさき}。{子|こ}どものころ、{祖母|そぼ}の{家|いえ}に{来|く}るたびに、ここのどら{焼|や}きを{食|た}べていたという。",
+    "en": "One day, Haruto noticed a young woman standing in front of the shop. She kept peeking inside but didn't come in. When he spoke to her, she said a little shyly, \"Actually, I work at a sweets shop in Tokyo. I read the article and ended up coming here.\" Her name was Misaki. As a child, she ate the dorayaki here every time she visited her grandmother's house."
+   },
+   {
+    "jp": "{美咲|みさき}さんは{松本|まつもと}さんに{深|ふか}く{頭|あたま}を{下|さ}げた。「この{味|あじ}を{教|おし}えていただけませんか。この{店|みせ}を{終|お}わらせたくないんです」{松本|まつもと}さんはしばらく{黙|だま}っていた。そして、「{厳|きび}しいですよ」とだけ{言|い}った。",
+    "en": "Misaki bowed deeply to Mr. Matsumoto. \"Would you please teach me this taste? I don't want this shop to end.\" Mr. Matsumoto was silent for a while. Then he said only, \"I'll be strict.\""
+   },
+   {
+    "jp": "{店|みせ}は{予定|よてい}どおり{月末|げつまつ}に{一度|いちど}{閉|し}まった。でも、{入|い}り{口|ぐち}には{新|あたら}しい{紙|かみ}が{貼|は}ってある。「{再来年|さらいねん}の{春|はる}、{新|あたら}しい{店主|てんしゅ}と{一緒|いっしょ}に{戻|もど}ってきます」{春人|はると}はその{紙|かみ}の{写真|しゃしん}を{撮|と}って、{記事|きじ}の{最後|さいご}に{載|の}せた。",
+    "en": "As planned, the shop closed for now at the end of the month. But a new sign was taped to the entrance: \"We will be back the spring after next, with a new owner.\" Haruto took a photo of the sign and put it at the end of his article."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{松本|まつもと}さんはどうして{店|みせ}を{閉|し}めることにしましたか。",
+    "q_en": "Why did Mr. Matsumoto decide to close the shop?",
+    "options": [
+     "{手|て}が{痛|いた}くて、{店|みせ}を{継|つ}ぐ{人|ひと}もいないから",
+     "お{客|きゃく}さんが{来|こ}なくなったから",
+     "{東京|とうきょう}に{引|ひ}っ{越|こ}すから",
+     "どら{焼|や}きの{値段|ねだん}が{上|あ}がったから"
+    ],
+    "answer": 0,
+    "why": "His hands hurt and he has no one to take over the shop."
+   },
+   {
+    "q": "{美咲|みさき}さんは{松本|まつもと}さんに{何|なに}をお{願|ねが}いしましたか。",
+    "q_en": "What did Misaki ask Mr. Matsumoto?",
+    "options": [
+     "どら{焼|や}きを{東京|とうきょう}に{送|おく}ってほしい",
+     "{店|みせ}を{閉|し}めないでほしい",
+     "{店|みせ}の{味|あじ}を{教|おし}えてほしい",
+     "{祖母|そぼ}に{会|あ}ってほしい"
+    ],
+    "answer": 2,
+    "why": "She asked him to teach her the shop's taste so the shop would not end."
+   }
+  ]
+ },
+ {
+  "id": "s3-005",
+  "level": 3,
+  "title": "{消|き}える{自転車|じてんしゃ}",
+  "title_en": "The Disappearing Bicycles",
+  "genre_raw": "Mystery",
+  "paragraphs": [
+   {
+    "jp": "{冬|ふゆ}の{初|はじ}め、{浜田町|はまだちょう}で{不思議|ふしぎ}なことが{起|お}こり{始|はじ}めた。{自転車|じてんしゃ}が{次々|つぎつぎ}に{消|き}えるのだ。{最初|さいしょ}は{駅|えき}の{前|まえ}で{二台|にだい}、{次|つぎ}の{週|しゅう}は{港|みなと}の{近|ちか}くで{三台|さんだい}。{警察|けいさつ}も{調|しら}べているが、{犯人|はんにん}はまだ{見|み}つかっていない。{事件|じけん}などめったにない{町|まち}なので、みんな{不安|ふあん}になっていた。",
+    "en": "At the start of winter, something strange began happening in Hamada. Bicycles were disappearing one after another. First two in front of the station, then three near the harbor the next week. The police were investigating, but the culprit hadn't been found. Because crimes almost never happen in this town, everyone was getting worried."
+   },
+   {
+    "jp": "{春人|はると}は{自転車|じてんしゃ}を{盗|ぬす}まれた{人|ひと}たちに{話|はなし}を{聞|き}いて{回|まわ}った。すると、{面白|おもしろ}いことがわかった。{消|き}えた{自転車|じてんしゃ}は、どれも{古|ふる}くて{錆|さ}びたものばかりだったのだ。{新|あたら}しくて{高|たか}い{自転車|じてんしゃ}は{一台|いちだい}も{盗|ぬす}まれていない。「{泥棒|どろぼう}なら、{普通|ふつう}は{新|あたら}しいのを{選|えら}ぶよね」とカメラマンの{吉田|よしだ}さんも{首|くび}をかしげた。",
+    "en": "Haruto went around talking to the people whose bikes had been stolen. Then he found out something interesting. The missing bikes were all old and rusty. Not a single new, expensive bike had been taken. \"A thief would normally pick a new one, right?\" said Mr. Yoshida the photographer, tilting his head."
+   },
+   {
+    "jp": "もう{一|ひと}つ、{変|へん}なことがあった。{消|き}えた{自転車|じてんしゃ}の{多|おお}くは、{鍵|かぎ}がかかっていなかった。そして{持|も}ち{主|ぬし}のほとんどが、{長|なが}い{間|あいだ}その{自転車|じてんしゃ}に{乗|の}っていなかったのだ。「{実|じつ}は、{盗|ぬす}まれるまで{自転車|じてんしゃ}のことを{忘|わす}れていました」と{恥|は}ずかしそうに{言|い}う{人|ひと}もいた。",
+    "en": "There was one more strange thing. Most of the missing bikes hadn't been locked. And most of the owners hadn't ridden them for a long time. Some people even said, embarrassed, \"Actually, I'd forgotten about my bike until it was stolen.\""
+   },
+   {
+    "jp": "{春人|はると}は{町|まち}の{地図|ちず}に、{自転車|じてんしゃ}が{消|き}えた{場所|ばしょ}を{書|か}き{込|こ}んでみた。{駅|えき}、{港|みなと}、{公園|こうえん}、{商店街|しょうてんがい}。{全部|ぜんぶ}、ある{細|ほそ}い{道|みち}の{近|ちか}くだった。その{道|みち}の{奥|おく}には、{何年|なんねん}も{前|まえ}に{閉|し}まった{古|ふる}い{自転車屋|じてんしゃや}がある。",
+    "en": "Haruto marked the places where bikes had disappeared on a map of the town. The station, the harbor, the park, the shopping street. All of them were near a certain narrow road. At the end of that road was an old bicycle shop that had closed many years ago."
+   },
+   {
+    "jp": "その{夜|よる}、{春人|はると}は{吉田|よしだ}さんと{一緒|いっしょ}に、{自転車屋|じてんしゃや}の{近|ちか}くで{待|ま}ってみることにした。とても{寒|さむ}い{夜|よる}だった。{夜中|よなか}の{十二時|じゅうにじ}を{過|す}ぎたころ、{暗|くら}い{道|みち}の{向|む}こうから、カラカラという{音|おと}が{聞|き}こえてきた。{誰|だれ}かが{自転車|じてんしゃ}を{押|お}しながら、ゆっくり{歩|ある}いてくる。",
+    "en": "That night, Haruto decided to wait near the bicycle shop with Mr. Yoshida. It was a very cold night. A little after midnight, they heard a rattling sound from the far end of the dark road. Someone was slowly walking toward them, pushing a bicycle."
+   },
+   {
+    "jp": "{春人|はると}は{息|いき}を{止|と}めた。{街灯|がいとう}の{下|した}に{現|あらわ}れたのは、{背|せ}の{低|ひく}い、{白|しろ}い{髪|かみ}のおじいさんだった。おじいさんは{古|ふる}い{自転車屋|じてんしゃや}のシャッターを{開|あ}けて、{自転車|じてんしゃ}と{一緒|いっしょ}に{中|なか}に{入|はい}っていった。{吉田|よしだ}さんが{小|ちい}さな{声|こえ}で{言|い}った。「あの{人|ひと}……{昔|むかし}あの{店|みせ}をやっていた{山田|やまだ}さんじゃないか？」",
+    "en": "Haruto held his breath. The person who appeared under the streetlight was a short old man with white hair. He opened the shutter of the old bike shop and went inside with the bicycle. Mr. Yoshida said in a small voice, \"That man... isn't that Mr. Yamada, who used to run that shop?\""
+   }
+  ],
+  "questions": [
+   {
+    "q": "{消|き}えた{自転車|じてんしゃ}について、{正|ただ}しいものはどれですか。",
+    "q_en": "Which is true about the missing bicycles?",
+    "options": [
+     "{新|あたら}しくて{高|たか}いものが{多|おお}かった",
+     "{全部|ぜんぶ}{鍵|かぎ}がかかっていた",
+     "{古|ふる}くて{錆|さ}びたものばかりだった",
+     "{毎日|まいにち}{使|つか}われていた"
+    ],
+    "answer": 2,
+    "why": "All the missing bikes were old and rusty, and no new ones were taken."
+   },
+   {
+    "q": "{春人|はると}と{吉田|よしだ}さんは、その{夜|よる}{何|なに}を{見|み}ましたか。",
+    "q_en": "What did Haruto and Mr. Yoshida see that night?",
+    "options": [
+     "{警察|けいさつ}が{犯人|はんにん}を{捕|つか}まえるところ",
+     "おじいさんが{自転車|じてんしゃ}を{押|お}して{古|ふる}い{店|みせ}に{入|はい}るところ",
+     "{若|わか}い{男|おとこ}が{自転車|じてんしゃ}に{乗|の}って{逃|に}げるところ",
+     "{自転車屋|じてんしゃや}が{火事|かじ}になるところ"
+    ],
+    "answer": 1,
+    "why": "A white-haired old man pushed a bike into the old bicycle shop."
+   }
+  ]
+ },
+ {
+  "id": "s3-006",
+  "level": 3,
+  "title": "{自転車屋|じてんしゃや}の{秘密|ひみつ}",
+  "title_en": "The Bicycle Shop's Secret",
+  "genre_raw": "Mystery",
+  "paragraphs": [
+   {
+    "jp": "{次|つぎ}の{朝|あさ}、{春人|はると}は{一人|ひとり}で{自転車屋|じてんしゃや}を{訪|たず}ねた。シャッターを{叩|たた}くと、{山田|やまだ}さんが{出|で}てきた。{春人|はると}が{新聞|しんぶん}の{記者|きしゃ}だと{言|い}うと、{山田|やまだ}さんは{少|すこ}し{困|こま}った{顔|かお}をした。でも、{怒|おこ}らずに{中|なか}に{入|い}れてくれた。",
+    "en": "The next morning, Haruto visited the bicycle shop alone. When he knocked on the shutter, Mr. Yamada came out. When Haruto said he was a newspaper reporter, Mr. Yamada looked a little troubled. But he didn't get angry, and he let Haruto in."
+   },
+   {
+    "jp": "{店|みせ}の{中|なか}を{見|み}て、{春人|はると}は{驚|おどろ}いた。{十台|じゅうだい}{以上|いじょう}の{自転車|じてんしゃ}が{並|なら}んでいる。でも、どれも{錆|さび}がきれいに{取|と}られて、タイヤも{新|あたら}しくなっていた。{古|ふる}い{自転車|じてんしゃ}が、まるで{新品|しんぴん}のように{光|ひか}っていた。",
+    "en": "Looking inside the shop, Haruto was surprised. More than ten bicycles were lined up. But all of them had their rust cleaned off, and their tires were new. The old bikes were shining as if they were brand new."
+   },
+   {
+    "jp": "「{盗|ぬす}んだつもりはなかったんだ」と{山田|やまだ}さんは{言|い}った。{山田|やまだ}さんは{八十二歳|はちじゅうにさい}。{奥|おく}さんが{亡|な}くなってから、{毎日|まいにち}{家|いえ}で{一人|ひとり}で{過|す}ごしていた。ある{日|ひ}、{駅|えき}の{前|まえ}に{錆|さ}びたまま{置|お}いてある{自転車|じてんしゃ}を{見|み}て、「かわいそうだ」と{思|おも}った。{捨|す}てられた{自転車|じてんしゃ}だと{思|おも}いこんで、{直|なお}してあげようと{考|かんが}えたのだ。",
+    "en": "\"I didn't mean to steal them,\" Mr. Yamada said. He is eighty-two. Since his wife died, he had spent every day alone at home. One day, he saw bikes left rusting in front of the station and felt sorry for them. He was sure they had been thrown away, so he decided to fix them."
+   },
+   {
+    "jp": "「{直|なお}したら、{自転車|じてんしゃ}がなくて{困|こま}っている{人|ひと}にあげようと{思|おも}っていた。でも、{持|も}ち{主|ぬし}がいたんだね。{悪|わる}いことをしてしまった」{山田|やまだ}さんは{頭|あたま}を{下|さ}げた。{春人|はると}は、どう{記事|きじ}を{書|か}けばいいか{迷|まよ}った。{山田|やまだ}さんがしたことは、やはり{間違|まちが}いだ。でも、{悪|わる}い{人|ひと}だとは{思|おも}えなかった。",
+    "en": "\"I was planning to give them to people who needed a bike once they were fixed. But they had owners, didn't they? I did something wrong.\" Mr. Yamada bowed his head. Haruto wasn't sure how to write the article. What Mr. Yamada did was still wrong. But Haruto couldn't think of him as a bad person."
+   },
+   {
+    "jp": "{春人|はると}は{山田|やまだ}さんと{一緒|いっしょ}に{警察|けいさつ}へ{行|い}き、{持|も}ち{主|ぬし}たちに{連絡|れんらく}してもらった。{集|あつ}まった{持|も}ち{主|ぬし}たちは、ぴかぴかになった{自転車|じてんしゃ}を{見|み}て{目|め}を{丸|まる}くした。{一人|ひとり}の{高校生|こうこうせい}が{言|い}った。「{僕|ぼく}の{自転車|じてんしゃ}、{買|か}ったときよりきれいになってる！」みんなが{笑|わら}い、{山田|やまだ}さんもやっと{笑顔|えがお}になった。",
+    "en": "Haruto went to the police with Mr. Yamada and had them contact the owners. When the owners gathered and saw their shiny bikes, their eyes went wide. One high school student said, \"My bike is cleaner than when I bought it!\" Everyone laughed, and Mr. Yamada finally smiled too."
+   },
+   {
+    "jp": "{春人|はると}の{記事|きじ}が{出|で}たあと、{山田|やまだ}さんの{自転車屋|じてんしゃや}は{十年|じゅうねん}ぶりに{店|みせ}を{開|あ}けた。{今度|こんど}は、{町|まち}の{人|ひと}が{自分|じぶん}で{古|ふる}い{自転車|じてんしゃ}を{持|も}ってくる。{修理|しゅうり}を{待|ま}つ{自転車|じてんしゃ}の{列|れつ}は、{毎日|まいにち}{店|みせ}の{外|そと}まで{続|つづ}いている。",
+    "en": "After Haruto's article came out, Mr. Yamada's bicycle shop opened for the first time in ten years. This time, people bring their old bikes in themselves. Every day, the line of bikes waiting for repair stretches outside the shop."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{山田|やまだ}さんは、どうして{自転車|じてんしゃ}を{持|も}っていったのですか。",
+    "q_en": "Why did Mr. Yamada take the bicycles?",
+    "options": [
+     "{売|う}ってお{金|かね}にしたかったから",
+     "{自分|じぶん}で{乗|の}りたかったから",
+     "{持|も}ち{主|ぬし}を{困|こま}らせたかったから",
+     "{捨|す}てられた{自転車|じてんしゃ}だと{思|おも}って、{直|なお}したかったから"
+    ],
+    "answer": 3,
+    "why": "He believed they had been thrown away and wanted to repair them."
+   },
+   {
+    "q": "{記事|きじ}が{出|で}たあと、どうなりましたか。",
+    "q_en": "What happened after the article came out?",
+    "options": [
+     "{山田|やまだ}さんの{店|みせ}がまた{開|ひら}いた",
+     "{山田|やまだ}さんが{町|まち}を{出|で}た",
+     "{自転車|じてんしゃ}がまた{盗|ぬす}まれた",
+     "{高校生|こうこうせい}が{店|みせ}で{働|はたら}き{始|はじ}めた"
+    ],
+    "answer": 0,
+    "why": "The shop opened again for the first time in ten years, and people now bring bikes to be fixed."
+   }
+  ]
+ },
+ {
+  "id": "s3-007",
+  "level": 3,
+  "title": "{五人|ごにん}の{吹奏楽部|すいそうがくぶ}",
+  "title_en": "The Five-Member School Band",
+  "genre_raw": "Slice of life",
+  "paragraphs": [
+   {
+    "jp": "{春|はる}になり、{春人|はると}が{浜田町|はまだちょう}に{来|き}て{一年|いちねん}が{経|た}った。ある{日|ひ}、{浜田|はまだ}{高校|こうこう}から{手紙|てがみ}が{届|とど}いた。「{吹奏楽部|すいそうがくぶ}の{演奏会|えんそうかい}を{取材|しゅざい}していただけませんか」{書|か}いたのは、{部長|ぶちょう}で{二年生|にねんせい}の{佐藤|さとう}{葵|あおい}という{女|おんな}の{子|こ}だった。",
+    "en": "Spring came, and a year had passed since Haruto arrived in Hamada. One day, a letter came from Hamada High School. \"Would you please cover our band's concert?\" It was written by Aoi Sato, a second-year girl who was the club's leader."
+   },
+   {
+    "jp": "{音楽室|おんがくしつ}に{行|い}くと、{部員|ぶいん}は{五人|ごにん}しかいなかった。トランペット、サックス、トロンボーン、ドラム、そしてフルート。{十年前|じゅうねんまえ}には{四十人|よんじゅうにん}もいたそうだが、{生徒|せいと}が{減|へ}って、{今|いま}はこれだけだ。「{五人|ごにん}じゃ、{大会|たいかい}にも{出|で}られないんです」と{葵|あおい}さんは{言|い}った。",
+    "en": "When he went to the music room, there were only five members: trumpet, saxophone, trombone, drums, and flute. Ten years ago there were as many as forty, but the number of students has fallen, and now this is all. \"With five people, we can't even enter competitions,\" Aoi said."
+   },
+   {
+    "jp": "それでも、{五人|ごにん}は{毎日|まいにち}{練習|れんしゅう}していた。{目標|もくひょう}は、{六月|ろくがつ}に{町|まち}の{公民館|こうみんかん}で{開|ひら}く{演奏会|えんそうかい}だ。でも、{問題|もんだい}があった。{去年|きょねん}の{演奏会|えんそうかい}に{来|き}たお{客|きゃく}さんは、{家族|かぞく}を{入|い}れても{十五人|じゅうごにん}だけだったのだ。「{今年|ことし}はもっとたくさんの{人|ひと}に{聞|き}いてほしいんです。だから{新聞|しんぶん}に{書|か}いてもらいたくて」",
+    "en": "Even so, the five practiced every day. Their goal was a concert in June at the town community hall. But there was a problem. Last year, only fifteen people came to the concert, even counting their families. \"This year we want many more people to hear us. That's why we wanted you to write about us.\""
+   },
+   {
+    "jp": "{春人|はると}は{何日|なんにち}も{練習|れんしゅう}を{見|み}に{行|い}った。{五人|ごにん}の{音|おと}は{小|ちい}さかったが、とても{楽|たの}しそうだった。ドラムの{健太|けんた}{君|くん}は、あの{自転車|じてんしゃ}を{山田|やまだ}さんに{直|なお}してもらった{高校生|こうこうせい}だった。「{自転車|じてんしゃ}が{直|なお}ったから、{朝|あさ}{早|はや}く{練習|れんしゅう}に{来|こ}られるようになったんです」と{健太|けんた}{君|くん}は{笑|わら}った。",
+    "en": "Haruto went to watch their practice for many days. The five made a small sound, but they looked like they were having fun. Kenta, the drummer, was the high school student whose bike Mr. Yamada had fixed. \"Since my bike got fixed, I can come early in the morning to practice,\" Kenta said with a laugh."
+   },
+   {
+    "jp": "{春人|はると}は{記事|きじ}に、{五人|ごにん}の{練習|れんしゅう}の{様子|ようす}と、{演奏会|えんそうかい}の{日|ひ}にちを{大|おお}きく{書|か}いた。すると、{思|おも}いがけないことが{起|お}こった。{昔|むかし}この{部|ぶ}にいた{卒業生|そつぎょうせい}たちが、{次々|つぎつぎ}に{連絡|れんらく}してきたのだ。「{一緒|いっしょ}に{演奏|えんそう}させてもらえませんか」その{中|なか}には、{役場|やくば}で{働|はたら}く{人|ひと}や、{魚屋|さかなや}のおじさんもいた。",
+    "en": "In his article, Haruto described the five's practice and printed the concert date in large letters. Then something unexpected happened. Graduates who had been in the club long ago contacted them one after another. \"Could we play with you?\" Among them were a town hall worker and the man from the fish shop."
+   },
+   {
+    "jp": "{演奏会|えんそうかい}の{日|ひ}、{公民館|こうみんかん}の{舞台|ぶたい}には{五人|ごにん}ではなく、{二十三人|にじゅうさんにん}が{並|なら}んでいた。{客席|きゃくせき}は{満員|まんいん}で、{立|た}って{聞|き}く{人|ひと}もいた。{最後|さいご}の{曲|きょく}が{終|お}わると、{大|おお}きな{拍手|はくしゅ}がいつまでも{続|つづ}いた。{葵|あおい}さんは{泣|な}きながら、{何度|なんど}も{頭|あたま}を{下|さ}げていた。",
+    "en": "On the day of the concert, not five but twenty-three people stood on the community hall stage. Every seat was full, and some people listened standing. When the last song ended, the loud applause went on and on. Aoi bowed again and again, crying."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{葵|あおい}さんは、どうして{新聞|しんぶん}に{書|か}いてほしかったのですか。",
+    "q_en": "Why did Aoi want the newspaper to write about the band?",
+    "options": [
+     "{大会|たいかい}に{出|で}たかったから",
+     "もっとたくさんの{人|ひと}に{演奏|えんそう}を{聞|き}いてほしかったから",
+     "{新|あたら}しい{楽器|がっき}がほしかったから",
+     "{有名|ゆうめい}になりたかったから"
+    ],
+    "answer": 1,
+    "why": "Only fifteen people came last year, and she wanted many more to hear them."
+   },
+   {
+    "q": "{記事|きじ}が{出|で}たあと、{何|なに}が{起|お}こりましたか。",
+    "q_en": "What happened after the article came out?",
+    "options": [
+     "{部員|ぶいん}が{一人|ひとり}やめた",
+     "{演奏会|えんそうかい}が{中止|ちゅうし}になった",
+     "{卒業生|そつぎょうせい}たちが{一緒|いっしょ}に{演奏|えんそう}したいと{連絡|れんらく}してきた",
+     "{健太|けんた}{君|くん}の{自転車|じてんしゃ}がまた{壊|こわ}れた"
+    ],
+    "answer": 2,
+    "why": "Former club members got in touch asking to play together, so 23 people performed."
+   }
+  ]
+ },
+ {
+  "id": "s3-008",
+  "level": 3,
+  "title": "{台風|たいふう}の{夜|よる}",
+  "title_en": "The Night of the Typhoon",
+  "genre_raw": "Adventure",
+  "paragraphs": [
+   {
+    "jp": "{九月|くがつ}、{大|おお}きな{台風|たいふう}が{浜田町|はまだちょう}に{近|ちか}づいてきた。テレビでは「{今夜|こんや}は{非常|ひじょう}に{強|つよ}い{風|かぜ}と{雨|あめ}になるでしょう」と{何度|なんど}も{言|い}っていた。{森|もり}さんは{春人|はると}に{言|い}った。「{記事|きじ}より{命|いのち}のほうが{大切|たいせつ}よ。{危|あぶ}ないところには{絶対|ぜったい}に{行|い}かないで」",
+    "en": "In September, a big typhoon approached Hamada. The TV kept saying, \"Tonight there will be extremely strong wind and rain.\" Ms. Mori told Haruto, \"Your life is more important than any article. Never go anywhere dangerous.\""
+   },
+   {
+    "jp": "{夕方|ゆうがた}、{春人|はると}は{避難所|ひなんじょ}になった{小学校|しょうがっこう}の{体育館|たいいくかん}へ{取材|しゅざい}に{行|い}った。{体育館|たいいくかん}にはお{年寄|としよ}りや、{子|こ}どもを{連|つ}れた{家族|かぞく}が{集|あつ}まっていた。{外|そと}では{風|かぜ}がどんどん{強|つよ}くなり、{窓|まど}がガタガタと{鳴|な}っていた。",
+    "en": "In the evening, Haruto went to report at the elementary school gym, which had become an evacuation shelter. Elderly people and families with children had gathered there. Outside, the wind grew stronger and stronger, and the windows rattled."
+   },
+   {
+    "jp": "そのとき、{一人|ひとり}のおばあさんが{春人|はると}のところへ{走|はし}ってきた。「{源|げん}さんがいないの！{船|ふね}が{心配|しんぱい}だって{言|い}って、{港|みなと}へ{行|い}ったまま{戻|もど}ってこないのよ」{春人|はると}は{森|もり}さんの{言葉|ことば}を{思|おも}い{出|だ}した。でも、{源|げん}さんを{放|ほう}っておくことはできない。{春人|はると}はすぐに{消防団|しょうぼうだん}の{人|ひと}に{知|し}らせ、{二人|ふたり}の{団員|だんいん}と{一緒|いっしょ}に{車|くるま}で{港|みなと}へ{向|む}かった。",
+    "en": "Just then, an old woman ran up to Haruto. \"Gen-san isn't here! He said he was worried about his boat, went to the harbor, and hasn't come back!\" Haruto remembered Ms. Mori's words. But he couldn't leave Gen-san alone. He immediately told the volunteer fire brigade, and headed to the harbor by car with two of its members."
+   },
+   {
+    "jp": "{港|みなと}は{真|ま}っ{暗|くら}だった。{波|なみ}が{堤防|ていぼう}を{越|こ}えて、{道|みち}まで{水|みず}が{来|き}ている。{懐中電灯|かいちゅうでんとう}で{照|て}らすと、{船|ふね}のロープを{必死|ひっし}に{結|むす}び{直|なお}している{源|げん}さんが{見|み}えた。「{源|げん}さん！{危|あぶ}ないです！」{春人|はると}が{叫|さけ}ぶと、{源|げん}さんは「この{船|ふね}は{親父|おやじ}の{代|だい}からの{船|ふね}なんだ！」と{叫|さけ}び{返|かえ}した。",
+    "en": "The harbor was pitch dark. Waves were crashing over the seawall, and water had reached the road. When they shone a flashlight, they saw Gen-san desperately retying his boat's ropes. \"Gen-san! It's dangerous!\" Haruto shouted. Gen-san shouted back, \"This boat has been in the family since my father's time!\""
+   },
+   {
+    "jp": "{春人|はると}たちは{急|いそ}いでロープを{結|むす}ぶのを{手伝|てつだ}い、{三人|さんにん}で{源|げん}さんを{車|くるま}まで{連|つ}れて{戻|もど}った。{避難所|ひなんじょ}に{着|つ}いたとき、{四人|よにん}ともずぶぬれだった。{源|げん}さんは{毛布|もうふ}にくるまって、しばらく{何|なに}も{言|い}わなかった。それから、{小|ちい}さな{声|こえ}で「すまなかった」と{言|い}った。",
+    "en": "Haruto and the others quickly helped tie the ropes, and the three of them brought Gen-san back to the car. When they reached the shelter, all four were soaking wet. Gen-san wrapped himself in a blanket and said nothing for a while. Then, in a small voice, he said, \"I'm sorry.\""
+   },
+   {
+    "jp": "{次|つぎ}の{朝|あさ}、{台風|たいふう}は{去|さ}り、{空|そら}は{嘘|うそ}のように{晴|は}れていた。{町|まち}には{倒|たお}れた{木|き}や{割|わ}れたガラスがあったが、けがをした{人|ひと}は{一人|ひとり}もいなかった。{港|みなと}へ{行|い}くと、{源|げん}さんの{船|ふね}はちゃんと{浮|う}かんでいた。{春人|はると}はその{写真|しゃしん}を{撮|と}って、{記事|きじ}の{一番|いちばん}{上|うえ}に{載|の}せた。{森|もり}さんには{少|すこ}し{叱|しか}られたけれど、{最後|さいご}に「よくやったわね」と{言|い}ってもらえた。",
+    "en": "The next morning the typhoon was gone, and the sky was unbelievably clear. There were fallen trees and broken glass around town, but not a single person was hurt. At the harbor, Gen-san's boat was still floating safely. Haruto took a photo of it and put it at the very top of his article. Ms. Mori scolded him a little, but in the end she said, \"Well done.\""
+   }
+  ],
+  "questions": [
+   {
+    "q": "{源|げん}さんは、どうして{台風|たいふう}の{夜|よる}に{港|みなと}へ{行|い}ったのですか。",
+    "q_en": "Why did Gen-san go to the harbor on the night of the typhoon?",
+    "options": [
+     "{船|ふね}が{心配|しんぱい}だったから",
+     "{魚|さかな}を{取|と}りに{行|い}ったから",
+     "{春人|はると}を{探|さが}していたから",
+     "{避難所|ひなんじょ}が{嫌|きら}いだったから"
+    ],
+    "answer": 0,
+    "why": "He said he was worried about his boat, which had been in his family since his father's time."
+   },
+   {
+    "q": "{春人|はると}は、{誰|だれ}と{一緒|いっしょ}に{港|みなと}へ{行|い}きましたか。",
+    "q_en": "Who did Haruto go to the harbor with?",
+    "options": [
+     "{森|もり}さん",
+     "{吉田|よしだ}さん",
+     "おばあさん",
+     "{消防団|しょうぼうだん}の{人|ひと}"
+    ],
+    "answer": 3,
+    "why": "He told the fire brigade and went by car with two of its members."
+   }
+  ]
+ },
+ {
+  "id": "s3-009",
+  "level": 3,
+  "title": "{町長|ちょうちょう}{選挙|せんきょ}",
+  "title_en": "The Town Election",
+  "genre_raw": "Work",
+  "paragraphs": [
+   {
+    "jp": "{台風|たいふう}のあと、{町|まち}は{町長|ちょうちょう}{選挙|せんきょ}の{話題|わだい}でいっぱいになった。{二十年|にじゅうねん}{町長|ちょうちょう}を{続|つづ}けてきた{石田|いしだ}さんがやめることになり、{二人|ふたり}が{立候補|りっこうほ}したのだ。{一人|ひとり}は{役場|やくば}で{長|なが}く{働|はたら}いてきた{六十五歳|ろくじゅうごさい}の{中村|なかむら}さん。もう{一人|ひとり}は、{東京|とうきょう}から{戻|もど}ってきたばかりの{三十二歳|さんじゅうにさい}の{小林|こばやし}さんだった。",
+    "en": "After the typhoon, the whole town was talking about the mayoral election. Mr. Ishida, who had been mayor for twenty years, was stepping down, and two people were running. One was Mr. Nakamura, sixty-five, who had worked at the town hall for a long time. The other was Mr. Kobayashi, thirty-two, who had just come back from Tokyo."
+   },
+   {
+    "jp": "{中村|なかむら}さんは「{台風|たいふう}に{強|つよ}い{町|まち}を{作|つく}る」と{言|い}って、{堤防|ていぼう}を{高|たか}くすることを{約束|やくそく}した。{小林|こばやし}さんは「{若|わか}い{人|ひと}が{戻|もど}ってくる{町|まち}にする」と{言|い}って、{空|あ}いている{店|みせ}を{安|やす}く{貸|か}す{計画|けいかく}を{話|はな}した。どちらも{町|まち}にとって{大切|たいせつ}なことだった。",
+    "en": "Mr. Nakamura said, \"I will build a town that can stand up to typhoons,\" and promised to make the seawall higher. Mr. Kobayashi said, \"I will make this a town young people come back to,\" and talked about a plan to rent empty shops cheaply. Both were important for the town."
+   },
+   {
+    "jp": "{選挙|せんきょ}が{近|ちか}づくと、{春人|はると}のところにいろいろな{人|ひと}が{来|く}るようになった。「{中村|なかむら}さんのいいことを{書|か}いてくれ」「{小林|こばやし}さんは{若|わか}すぎる、と{書|か}くべきだ」ある{人|ひと}は、{春人|はると}に{封筒|ふうとう}を{渡|わた}そうとさえした。{春人|はると}は{中|なか}も{見|み}ずに{断|ことわ}った。",
+    "en": "As the election got closer, all kinds of people started coming to Haruto. \"Write good things about Nakamura.\" \"You should write that Kobayashi is too young.\" One person even tried to hand him an envelope. Haruto refused it without even looking inside."
+   },
+   {
+    "jp": "{春人|はると}は{森|もり}さんに{相談|そうだん}した。「どう{書|か}けばいいか、わからなくなりました」{森|もり}さんはコーヒーを{一口|ひとくち}{飲|の}んでから{言|い}った。「{新聞|しんぶん}の{仕事|しごと}は、{誰|だれ}を{選|えら}ぶべきか{教|おし}えることじゃないの。{町|まち}の{人|ひと}が{自分|じぶん}で{考|かんが}えられるように、{正|ただ}しい{情報|じょうほう}を{届|とど}けることよ」",
+    "en": "Haruto asked Ms. Mori for advice. \"I don't know how I should write anymore.\" Ms. Mori took a sip of coffee and said, \"A newspaper's job isn't to tell people who to choose. It's to deliver correct information so the people of the town can think for themselves.\""
+   },
+   {
+    "jp": "そこで{春人|はると}は、{二人|ふたり}に{同|おな}じ{十|とお}の{質問|しつもん}をして、その{答|こた}えを{同|おな}じ{大|おお}きさで{新聞|しんぶん}に{並|なら}べて{載|の}せた。{自分|じぶん}の{意見|いけん}は{一行|いちぎょう}も{書|か}かなかった。それから、{投票|とうひょう}の{日|ひ}と{場所|ばしょ}を、{誰|だれ}にでもわかるように{大|おお}きく{書|か}いた。",
+    "en": "So Haruto asked the two candidates the same ten questions and printed their answers side by side, at the same size. He didn't write a single line of his own opinion. Then he printed the voting date and place in large letters so anyone could understand."
+   },
+   {
+    "jp": "{投票|とうひょう}の{結果|けっか}、{小林|こばやし}さんがわずか{八十票|はちじゅっぴょう}の{差|さ}で{勝|か}った。でも、{春人|はると}がいちばんうれしかったのは、{別|べつ}のことだった。{投票|とうひょう}に{行|い}った{人|ひと}が、{前回|ぜんかい}よりずっと{増|ふ}えたのだ。{選挙|せんきょ}のあと、{中村|なかむら}さんと{小林|こばやし}さんは{握手|あくしゅ}をした。「{堤防|ていぼう}の{計画|けいかく}、{一緒|いっしょ}に{考|かんが}えてもらえませんか」と{小林|こばやし}さんが{言|い}うと、{中村|なかむら}さんは{笑|わら}ってうなずいた。",
+    "en": "In the vote, Mr. Kobayashi won by only eighty votes. But what made Haruto happiest was something else. Many more people went to vote than last time. After the election, Mr. Nakamura and Mr. Kobayashi shook hands. When Mr. Kobayashi said, \"Would you help me think about the seawall plan?\", Mr. Nakamura smiled and nodded."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{森|もり}さんによると、{新聞|しんぶん}の{仕事|しごと}は{何|なん}ですか。",
+    "q_en": "According to Ms. Mori, what is a newspaper's job?",
+    "options": [
+     "{誰|だれ}を{選|えら}ぶべきか{教|おし}えること",
+     "{町|まち}の{人|ひと}が{自分|じぶん}で{考|かんが}えられるように、{正|ただ}しい{情報|じょうほう}を{届|とど}けること",
+     "{若|わか}い{人|ひと}を{応援|おうえん}すること",
+     "{町長|ちょうちょう}の{意見|いけん}を{伝|つた}えること"
+    ],
+    "answer": 1,
+    "why": "She said it is to give correct information so people can decide for themselves."
+   },
+   {
+    "q": "{春人|はると}は{選挙|せんきょ}の{記事|きじ}をどのように{書|か}きましたか。",
+    "q_en": "How did Haruto write the election article?",
+    "options": [
+     "{中村|なかむら}さんのいいところを{多|おお}く{書|か}いた",
+     "{自分|じぶん}の{意見|いけん}を{大|おお}きく{書|か}いた",
+     "{封筒|ふうとう}をくれた{人|ひと}の{話|はなし}を{書|か}いた",
+     "{二人|ふたり}の{答|こた}えを{同|おな}じ{大|おお}きさで{並|なら}べた"
+    ],
+    "answer": 3,
+    "why": "He asked both the same ten questions and printed the answers side by side at the same size."
+   }
+  ]
+ },
+ {
+  "id": "s3-010",
+  "level": 3,
+  "title": "{新聞|しんぶん}がなくなる？",
+  "title_en": "Is the Newspaper Ending?",
+  "genre_raw": "Work",
+  "paragraphs": [
+   {
+    "jp": "{選挙|せんきょ}が{終|お}わって{少|すこ}し{経|た}った{冬|ふゆ}の{夜|よる}、{森|もり}さんが{春人|はると}と{吉田|よしだ}さんを{呼|よ}んだ。{森|もり}さんはいつもと{違|ちが}って、{笑|わら}っていなかった。「{二人|ふたり}に{話|はな}さなければならないことがあるの。{浜田|はまだ}{新聞|しんぶん}は、{来年|らいねん}の{三月|さんがつ}で{終|お}わりにしようと{思|おも}う」",
+    "en": "One winter night, a little while after the election, Ms. Mori called Haruto and Mr. Yoshida over. Unlike usual, she wasn't smiling. \"There's something I have to tell you both. I'm thinking of ending the Hamada Newspaper next March.\""
+   },
+   {
+    "jp": "{理由|りゆう}はお{金|かね}だった。{新聞|しんぶん}を{読|よ}む{人|ひと}は{毎年|まいとし}{減|へ}っていて、{今|いま}は{八百人|はっぴゃくにん}しかいない。{広告|こうこく}を{出|だ}してくれていた{店|みせ}も、{次々|つぎつぎ}に{閉|し}まってしまった。{紙|かみ}の{値段|ねだん}も{上|あ}がっている。「{私|わたし}もずいぶん{頑張|がんば}ったけど、もう{限界|げんかい}なのよ」",
+    "en": "The reason was money. The number of readers was falling every year, and now there were only eight hundred. The shops that used to place ads had closed one after another. The price of paper was rising too. \"I've worked really hard, but I can't go on any longer.\""
+   },
+   {
+    "jp": "{春人|はると}は{何|なに}も{言|い}えなかった。{町|まち}に{来|き}たばかりのころなら、「{東京|とうきょう}に{戻|もど}ればいい」と{思|おも}ったかもしれない。でも{今|いま}は{違|ちが}う。{源|げん}さんの{船|ふね}、{海神|うみがみ}{神社|じんじゃ}のお{祭|まつ}り、{松本屋|まつもとや}のどら{焼|や}き、{山田|やまだ}さんの{自転車|じてんしゃ}、{五人|ごにん}の{吹奏楽部|すいそうがくぶ}。この{町|まち}の{話|はなし}を、もっと{書|か}き{続|つづ}けたかった。",
+    "en": "Haruto couldn't say anything. When he first came to town, he might have thought, \"I'll just go back to Tokyo.\" But it was different now. Gen-san's boat, the Umigami Shrine festival, Matsumotoya's dorayaki, Mr. Yamada's bicycles, the five-member band. He wanted to keep writing this town's stories."
+   },
+   {
+    "jp": "その{夜|よる}、{春人|はると}は{眠|ねむ}れなかった。{机|つくえ}の{上|うえ}には、この{二年|にねん}で{書|か}いた{記事|きじ}が{積|つ}んである。{一枚|いちまい}ずつ{読|よ}み{返|かえ}しているうちに、{春人|はると}はあることに{気|き}がついた。{記事|きじ}が{出|で}るたびに、{町|まち}の{誰|だれ}かが{動|うご}いていた。{祭|まつ}りに{人|ひと}が{集|あつ}まり、{店|みせ}に{新|あたら}しい{店主|てんしゅ}が{来|き}て、{演奏会|えんそうかい}の{客席|きゃくせき}がいっぱいになった。",
+    "en": "That night, Haruto couldn't sleep. On his desk was a pile of the articles he had written over the past two years. As he reread them one by one, he noticed something. Every time an article came out, someone in town took action. People gathered for the festival, a new owner came to the shop, and the concert hall filled up."
+   },
+   {
+    "jp": "{次|つぎ}の{朝|あさ}、{春人|はると}は{森|もり}さんに{言|い}った。「{三月|さんがつ}まで、まだ{三|さん}か{月|げつ}あります。{最後|さいご}に{一|ひと}つ、{大|おお}きな{記事|きじ}を{書|か}かせてください」「{大|おお}きな{記事|きじ}って、{何|なに}を{書|か}くの？」と{森|もり}さんが{聞|き}いた。{春人|はると}は{少|すこ}し{考|かんが}えてから、{答|こた}えた。「この{新聞|しんぶん}のことです」",
+    "en": "The next morning, Haruto said to Ms. Mori, \"There are still three months until March. Please let me write one last big article.\" \"A big article? About what?\" Ms. Mori asked. Haruto thought for a moment, then answered, \"About this newspaper.\""
+   },
+   {
+    "jp": "{森|もり}さんは{驚|おどろ}いた{顔|かお}をした。{吉田|よしだ}さんは{笑|わら}って、{古|ふる}いカメラを{手|て}に{取|と}った。「よし、{写真|しゃしん}は{任|まか}せろ」{森|もり}さんはしばらく{黙|だま}っていたが、やがて{小|ちい}さくうなずいた。「わかった。{好|す}きにやってみなさい」",
+    "en": "Ms. Mori looked surprised. Mr. Yoshida smiled and picked up his old camera. \"All right, leave the photos to me.\" Ms. Mori was quiet for a while, but eventually gave a small nod. \"All right. Do it your way.\""
+   }
+  ],
+  "questions": [
+   {
+    "q": "{浜田|はまだ}{新聞|しんぶん}が{終|お}わりそうになったのは、なぜですか。",
+    "q_en": "Why was the Hamada Newspaper about to end?",
+    "options": [
+     "{森|もり}さんが{病気|びょうき}になったから",
+     "{読|よ}む{人|ひと}や{広告|こうこく}が{減|へ}って、お{金|かね}が{足|た}りないから",
+     "{春人|はると}が{東京|とうきょう}に{帰|かえ}るから",
+     "{町長|ちょうちょう}が{新聞|しんぶん}を{嫌|きら}いだから"
+    ],
+    "answer": 1,
+    "why": "Readers and advertisers decreased and paper got more expensive, so there was not enough money."
+   },
+   {
+    "q": "{春人|はると}が{書|か}きたいと{言|い}った{大|おお}きな{記事|きじ}は、{何|なに}についてですか。",
+    "q_en": "What did Haruto say his big article would be about?",
+    "options": [
+     "{浜田|はまだ}{新聞|しんぶん}について",
+     "{東京|とうきょう}の{新聞社|しんぶんしゃ}について",
+     "{新|あたら}しい{町長|ちょうちょう}について",
+     "{森|もり}さんの{人生|じんせい}について"
+    ],
+    "answer": 0,
+    "why": "He said, \"About this newspaper.\""
+   }
+  ]
+ },
+ {
+  "id": "s3-011",
+  "level": 3,
+  "title": "{町|まち}の{声|こえ}",
+  "title_en": "The Voices of the Town",
+  "genre_raw": "Slice of life",
+  "paragraphs": [
+   {
+    "jp": "{春人|はると}はもう{一度|いちど}、この{二年|にねん}で{会|あ}った{人|ひと}たちを{訪|たず}ねることにした。{今度|こんど}の{質問|しつもん}は{一|ひと}つだけ。「{浜田|はまだ}{新聞|しんぶん}がなくなったら、どう{思|おも}いますか」",
+    "en": "Haruto decided to visit once more the people he had met over the past two years. This time he had only one question: \"How would you feel if the Hamada Newspaper disappeared?\""
+   },
+   {
+    "jp": "{最初|さいしょ}に{会|あ}いに{行|い}ったのは{源|げん}さんだった。{源|げん}さんは{網|あみ}を{直|なお}しながら{言|い}った。「{俺|おれ}は{本|ほん}なんか{読|よ}まない。でも、あの{新聞|しんぶん}だけは{毎週|まいしゅう}{読|よ}んでいる。{誰|だれ}が{結婚|けっこん}して、{誰|だれ}が{亡|な}くなったか。{町|まち}のことがわかるのは、あれだけだからな」",
+    "en": "The first person he went to see was Gen-san. Mending his net, Gen-san said, \"I don't read books or anything. But that paper I read every week. Who got married, who passed away. It's the only thing that tells me what's going on in town.\""
+   },
+   {
+    "jp": "{大川|おおかわ}さんは{神社|じんじゃ}で{言|い}った。「あの{記事|きじ}がなかったら、お{祭|まつ}りは{終|お}わっていました」{春|はる}の{開店|かいてん}に{向|む}けて{毎日|まいにち}{練習|れんしゅう}している{美咲|みさき}さんは、あんこを{混|ま}ぜる{手|て}を{止|と}めて{言|い}った。「{私|わたし}がこの{町|まち}に{来|き}たのは、あの{新聞|しんぶん}のおかげです」{山田|やまだ}さんも、{葵|あおい}さんも、{新|あたら}しい{町長|ちょうちょう}の{小林|こばやし}さんも、みんな{同|おな}じようなことを{言|い}った。",
+    "en": "At the shrine, Mr. Okawa said, \"Without that article, the festival would have ended.\" Misaki, who was practicing every day for the shop's spring opening, stopped stirring the bean paste and said, \"I came to this town thanks to that newspaper.\" Mr. Yamada, Aoi, and the new mayor Mr. Kobayashi all said similar things."
+   },
+   {
+    "jp": "{吉田|よしだ}さんは、{話|はな}してくれた{人|ひと}たち{一人一人|ひとりひとり}の{写真|しゃしん}を{撮|と}った。{漁師|りょうし}、{神社|じんじゃ}の{大川|おおかわ}さん、{和菓子|わがし}{職人|しょくにん}、{自転車屋|じてんしゃや}、{高校生|こうこうせい}、{町長|ちょうちょう}。{写真|しゃしん}を{机|つくえ}に{並|なら}べてみると、まるで{町|まち}の{家族|かぞく}{写真|しゃしん}のようだった。",
+    "en": "Mr. Yoshida photographed each of the people who had talked with them: the fisherman, Mr. Okawa from the shrine, the sweets maker, the bike shop owner, the high school student, the mayor. When they laid the photos out on the desk, it looked just like a family photo of the town."
+   },
+   {
+    "jp": "でも、{春人|はると}は{悩|なや}んでいた。{記事|きじ}を{書|か}いても、お{金|かね}の{問題|もんだい}は{解決|かいけつ}しないかもしれない。「{新聞|しんぶん}を{続|つづ}けてほしい」と{言|い}う{人|ひと}は{多|おお}いが、{新|あたら}しく{新聞|しんぶん}を{取|と}ってくれる{人|ひと}が{増|ふ}えるかどうかはわからない。{春人|はると}は{夜遅|よるおそ}くまで、{原稿|げんこう}を{書|か}いては{消|け}し、また{書|か}いては{消|け}した。",
+    "en": "But Haruto was worried. Even if he wrote the article, the money problem might not be solved. Many people said they wanted the paper to continue, but he didn't know if more people would actually subscribe. Late into the night, Haruto wrote his draft, erased it, then wrote and erased it again."
+   },
+   {
+    "jp": "そんなとき、{健太|けんた}{君|くん}が{新聞社|しんぶんしゃ}にやってきた。「{春人|はると}さん、{僕|ぼく}たち{高校生|こうこうせい}にも{何|なに}かできませんか。{新聞|しんぶん}を{配|くば}るのを{手伝|てつだ}うとか、インターネットで{読|よ}めるようにするとか」{春人|はると}ははっとした。{一人|ひとり}で{全部|ぜんぶ}やろうとしなくてもいいのだ。この{町|まち}には、{助|たす}けてくれる{人|ひと}がこんなにたくさんいる。{春人|はると}は{原稿|げんこう}の{最後|さいご}に、{新|あたら}しい{一文|いちぶん}を{書|か}き{加|くわ}えた。",
+    "en": "Just then, Kenta came to the newspaper office. \"Haruto, isn't there something we high school students can do? Like helping deliver the paper, or making it readable online?\" Haruto suddenly realized something. He didn't have to try to do everything by himself. There were so many people in this town who would help. At the end of his draft, Haruto added one new sentence."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{源|げん}さんは、どうして{浜田|はまだ}{新聞|しんぶん}を{読|よ}んでいますか。",
+    "q_en": "Why does Gen-san read the Hamada Newspaper?",
+    "options": [
+     "{本|ほん}を{読|よ}むのが{好|す}きだから",
+     "{自分|じぶん}の{記事|きじ}が{載|の}っているから",
+     "{町|まち}のことがわかるのは、その{新聞|しんぶん}だけだから",
+     "{息子|むすこ}に{頼|たの}まれたから"
+    ],
+    "answer": 2,
+    "why": "He says it is the only way he can learn what is happening in town."
+   },
+   {
+    "q": "{春人|はると}が{悩|なや}んでいたのは、どんなことですか。",
+    "q_en": "What was Haruto worried about?",
+    "options": [
+     "{記事|きじ}を{書|か}いても、お{金|かね}の{問題|もんだい}が{解決|かいけつ}しないかもしれないこと",
+     "{町|まち}の{人|ひと}が{話|はな}してくれないこと",
+     "{吉田|よしだ}さんが{写真|しゃしん}を{撮|と}ってくれないこと",
+     "{健太|けんた}{君|くん}が{新聞|しんぶん}を{読|よ}まないこと"
+    ],
+    "answer": 0,
+    "why": "Many people liked the paper, but he wasn't sure more people would actually pay for it."
+   }
+  ]
+ },
+ {
+  "id": "s3-012",
+  "level": 3,
+  "title": "{春人|はると}の{大|おお}きな{記事|きじ}",
+  "title_en": "Haruto's Big Story",
+  "genre_raw": "Work",
+  "paragraphs": [
+   {
+    "jp": "{二月|にがつ}の{終|お}わり、{浜田|はまだ}{新聞|しんぶん}に{春人|はると}の{記事|きじ}が{載|の}った。いつもの{四倍|よんばい}の{長|なが}さで、タイトルは「この{町|まち}の{新聞|しんぶん}を、みんなで{作|つく}りませんか」。{記事|きじ}には、{町|まち}の{人|ひと}たちの{言葉|ことば}と{吉田|よしだ}さんの{写真|しゃしん}、そして{新聞|しんぶん}が{今|いま}{困|こま}っていることが、{正直|しょうじき}に{書|か}かれていた。",
+    "en": "At the end of February, Haruto's article appeared in the Hamada Newspaper. It was four times longer than usual, and its title was \"Shall We All Make This Town's Newspaper Together?\" The article honestly presented the townspeople's words, Mr. Yoshida's photos, and the trouble the paper was in now."
+   },
+   {
+    "jp": "{記事|きじ}の{最後|さいご}には、こう{書|か}いてあった。「{新聞|しんぶん}は、{記者|きしゃ}だけのものではありません。{町|まち}の{出来事|できごと}を{知|し}らせてくれる{人|ひと}、{新聞|しんぶん}を{配|くば}ってくれる{人|ひと}、そして{読|よ}んでくれる{人|ひと}がいて、{初|はじ}めて{新聞|しんぶん}になります。{浜田|はまだ}{新聞|しんぶん}を{続|つづ}けるために、{力|ちから}を{貸|か}してください」",
+    "en": "At the end of the article, it said: \"A newspaper doesn't belong only to its reporters. Only when there are people who tell us about events in town, people who deliver the paper, and people who read it, does it become a newspaper. Please lend us your strength so the Hamada Newspaper can continue.\""
+   },
+   {
+    "jp": "{記事|きじ}が{出|で}た{次|つぎ}の{日|ひ}、{新聞社|しんぶんしゃ}の{電話|でんわ}は{朝|あさ}から{夜|よる}まで{鳴|な}り{続|つづ}けた。「{新聞|しんぶん}を{取|と}りたい」という{電話|でんわ}が、{一日|いちにち}で{百本|ひゃっぽん}{以上|いじょう}かかってきた。{町|まち}を{出|で}た{人|ひと}たちからも、「{遠|とお}くからでも{読|よ}みたい」という{連絡|れんらく}が{来|き}た。{健太|けんた}{君|くん}たちは、インターネットで{読|よ}めるようにする{準備|じゅんび}を{始|はじ}めてくれた。",
+    "en": "The day after the article came out, the office phone rang from morning to night. More than a hundred people called in one day saying they wanted to subscribe. People who had left town also got in touch, saying, \"I want to read it even from far away.\" Kenta and his friends started preparing to make the paper readable online."
+   },
+   {
+    "jp": "{店|みせ}の{人|ひと}たちも{動|うご}いた。{春|はる}に{新|あたら}しく{開店|かいてん}する{松本屋|まつもとや}は、{最初|さいしょ}の{広告|こうこく}を{浜田|はまだ}{新聞|しんぶん}に{出|だ}すと{決|き}めた。{山田|やまだ}さんの{自転車屋|じてんしゃや}も、{小|ちい}さな{広告|こうこく}を{出|だ}してくれた。{源|げん}さんは{何|なに}も{言|い}わずに、{大|おお}きな{魚|さかな}を{三匹|さんびき}、{新聞社|しんぶんしゃ}の{前|まえ}に{置|お}いていった。",
+    "en": "The shop owners took action too. Matsumotoya, reopening in spring, decided to place its first ad in the Hamada Newspaper. Mr. Yamada's bike shop also placed a small ad. And Gen-san, without saying a word, left three big fish in front of the newspaper office."
+   },
+   {
+    "jp": "{三月|さんがつ}の{終|お}わり、{森|もり}さんは{春人|はると}と{吉田|よしだ}さんの{前|まえ}で{言|い}った。「{読者|どくしゃ}は{千五百人|せんごひゃくにん}になったわ。{前|まえ}の{倍|ばい}{近|ちか}くよ。{浜田|はまだ}{新聞|しんぶん}は、{続|つづ}けます」{吉田|よしだ}さんは{手|て}をたたき、{春人|はると}は{思|おも}わず{森|もり}さんに{頭|あたま}を{下|さ}げた。「ありがとうございます！」「お{礼|れい}を{言|い}うのは、こっちよ」と{森|もり}さんは{笑|わら}った。",
+    "en": "At the end of March, Ms. Mori spoke in front of Haruto and Mr. Yoshida. \"We now have fifteen hundred readers. That's nearly double what we had. The Hamada Newspaper will continue.\" Mr. Yoshida clapped, and Haruto bowed to Ms. Mori without thinking. \"Thank you!\" \"I'm the one who should be thanking you,\" Ms. Mori said with a laugh."
+   },
+   {
+    "jp": "その{夜|よる}、{春人|はると}は{久|ひさ}しぶりに{日記|にっき}を{開|ひら}いた。{最初|さいしょ}のページには、{町|まち}に{来|き}た{日|ひ}の{言葉|ことば}が{書|か}いてあった。「こんな{静|しず}かな{町|まち}で、{書|か}くことなんてあるのかな」{春人|はると}は{笑|わら}って、{新|あたら}しいページに{書|か}いた。「{書|か}くことは、{毎日|まいにち}ある。この{町|まち}の{人|ひと}たちが、{毎日|まいにち}{一生懸命|いっしょうけんめい}{生|い}きているから」{窓|まど}の{外|そと}では、{春|はる}の{海|うみ}が{静|しず}かに{光|ひか}っていた。",
+    "en": "That night, Haruto opened his diary for the first time in a long while. On the first page were the words from the day he came to town: \"In a quiet town like this, will there be anything to write about?\" Haruto smiled and wrote on a new page: \"There is something to write about every day. Because the people of this town live their lives with all their hearts, every day.\" Outside the window, the spring sea was shining quietly."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{春人|はると}は{記事|きじ}の{最後|さいご}で、{町|まち}の{人|ひと}に{何|なに}をお{願|ねが}いしましたか。",
+    "q_en": "At the end of the article, what did Haruto ask the townspeople?",
+    "options": [
+     "{新聞社|しんぶんしゃ}で{働|はたら}いてほしい",
+     "{記事|きじ}を{書|か}いてほしい",
+     "{新聞|しんぶん}を{続|つづ}けるために{力|ちから}を{貸|か}してほしい",
+     "{森|もり}さんにお{礼|れい}を{言|い}ってほしい"
+    ],
+    "answer": 2,
+    "why": "He wrote, \"Please lend us your strength so the Hamada Newspaper can continue.\""
+   },
+   {
+    "q": "{浜田|はまだ}{新聞|しんぶん}が{続|つづ}けられることになったのは、なぜですか。",
+    "q_en": "Why was the Hamada Newspaper able to continue?",
+    "options": [
+     "{町長|ちょうちょう}がお{金|かね}を{出|だ}したから",
+     "{東京|とうきょう}の{新聞社|しんぶんしゃ}が{助|たす}けたから",
+     "{森|もり}さんが{家|いえ}を{売|う}ったから",
+     "{新聞|しんぶん}を{取|と}る{人|ひと}や{広告|こうこく}が{増|ふ}えたから"
+    ],
+    "answer": 3,
+    "why": "Many new subscribers signed up and shops placed ads, so readers nearly doubled."
+   },
+   {
+    "q": "{源|げん}さんは{記事|きじ}を{読|よ}んだあと、{何|なに}をしましたか。",
+    "q_en": "What did Gen-san do after reading the article?",
+    "options": [
+     "{新聞社|しんぶんしゃ}の{前|まえ}に{魚|さかな}を{置|お}いていった",
+     "{広告|こうこく}を{出|だ}した",
+     "{電話|でんわ}で{春人|はると}にお{礼|れい}を{言|い}った",
+     "{新聞|しんぶん}を{配|くば}るのを{手伝|てつだ}った"
+    ],
+    "answer": 0,
+    "why": "Without a word, he left three big fish in front of the office."
+   }
+  ]
+ }
+]

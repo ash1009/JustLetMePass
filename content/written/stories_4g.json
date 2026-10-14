@@ -1,0 +1,686 @@
+[
+ {
+  "id": "s4-073",
+  "level": 4,
+  "title": "{剣道部|けんどうぶ}の{朝|あさ}",
+  "title_en": "Mornings at the Kendo Club",
+  "genre_raw": "Slice of life",
+  "paragraphs": [
+   {
+    "jp": "{高校|こうこう}に{入|はい}ったとき、ケンタは{剣道部|けんどうぶ}に{入|はい}ることにしました。{理由|りゆう}は{簡単|かんたん}です。{入学式|にゅうがくしき}の{日|ひ}に、{二年生|にねんせい}の{森|もり}{先輩|せんぱい}が{試合|しあい}をしているのを{見|み}て、「かっこいい！」と{思|おも}ったからです。",
+    "en": "When he started high school, Kenta decided to join the kendo club. The reason was simple. On the day of the entrance ceremony he saw Mori, a second-year student, in a match, and thought, \"So cool!\""
+   },
+   {
+    "jp": "でも、{練習|れんしゅう}は{思|おも}っていたよりずっと{大変|たいへん}でした。{毎朝|まいあさ}{六時半|ろくじはん}に{学校|がっこう}へ{来|こ}なければなりません。{道場|どうじょう}の{床|ゆか}は{冷|つめ}たくて、{足|あし}が{痛|いた}くなります。{森|もり}{先輩|せんぱい}はとても{厳|きび}しくて、「{声|こえ}が{小|ちい}さい！もう{一回|いっかい}！」と{何度|なんど}も{言|い}いました。{一か月|いっかげつ}たったころ、ケンタは「もう{辞|や}めようかな」と{考|かんが}えるようになりました。",
+    "en": "But practice was much harder than he had expected. He had to come to school at 6:30 every morning. The dojo floor was cold, and his feet hurt. Mori was very strict and said again and again, \"Your voice is too quiet! One more time!\" After about a month, Kenta started thinking, \"Maybe I should quit.\""
+   },
+   {
+    "jp": "ある{朝|あさ}、ケンタは{間違|まちが}えて{六時|ろくじ}に{着|つ}いてしまいました。{道場|どうじょう}にはもう{電気|でんき}がついていました。{中|なか}をのぞくと、{森|もり}{先輩|せんぱい}が{一人|ひとり}で{竹刀|しない}を{振|ふ}っていました。「{先輩|せんぱい}、いつもこんなに{早|はや}いんですか」と{聞|き}くと、{先輩|せんぱい}は{少|すこ}し{笑|わら}いました。「{私|わたし}、{一年生|いちねんせい}のときは{部|ぶ}で{一番|いちばん}{弱|よわ}かったの。だから、だれよりも{早|はや}く{来|く}るようにしているんだ」",
+    "en": "One morning, Kenta arrived at six by mistake. The lights in the dojo were already on. When he peeked inside, Mori was swinging a bamboo sword alone. \"Do you always come this early?\" he asked, and she smiled a little. \"When I was a first-year, I was the weakest in the club. So I make sure to come earlier than anyone else.\""
+   },
+   {
+    "jp": "ケンタはびっくりしました。あんなに{強|つよ}い{先輩|せんぱい}も、{最初|さいしょ}は{弱|よわ}かったのです。その{日|ひ}から、ケンタも{六時|ろくじ}に{来|く}るようにしました。{先輩|せんぱい}は{何|なに}も{言|い}いませんでしたが、ときどき{竹刀|しない}の{持|も}ち{方|かた}を{教|おし}えてくれました。",
+    "en": "Kenta was surprised. Even someone as strong as Mori had been weak at the start. From that day, Kenta also made sure to come at six. Mori didn't say anything, but sometimes she showed him how to hold the sword."
+   },
+   {
+    "jp": "{秋|あき}になって、ケンタは{初|はじ}めて{試合|しあい}に{出|で}ました。{結果|けっか}は{負|ま}けでしたが、{一本|いっぽん}だけ{取|と}ることができました。{試合|しあい}のあと、{森|もり}{先輩|せんぱい}が「{声|こえ}、{大|おお}きくなったね」と{言|い}いました。ケンタは{今|いま}まででいちばん{大|おお}きい{声|こえ}で「はい！」と{答|こた}えました。",
+    "en": "In autumn, Kenta was in a match for the first time. He lost, but he managed to win one point. After the match, Mori said, \"Your voice has gotten louder.\" Kenta answered \"Yes!\" in the loudest voice he had ever used."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{森|もり}{先輩|せんぱい}はどうして{毎朝|まいあさ}{早|はや}く{来|き}ていますか。",
+    "q_en": "Why does Mori come early every morning?",
+    "options": [
+     "{道場|どうじょう}の{電気|でんき}をつけなければならないから",
+     "{一年生|いちねんせい}のとき、いちばん{弱|よわ}かったから",
+     "ケンタに{竹刀|しない}の{持|も}ち{方|かた}を{教|おし}えるから",
+     "{家|いえ}が{学校|がっこう}のすぐ{近|ちか}くにあるから"
+    ],
+    "answer": 1,
+    "why": "She was the weakest in the club as a first-year, so she practices before everyone else."
+   },
+   {
+    "q": "{秋|あき}の{試合|しあい}はどうでしたか。",
+    "q_en": "How did the autumn match go?",
+    "options": [
+     "ケンタは{勝|か}って、{先輩|せんぱい}に{褒|ほ}められた",
+     "ケンタは{声|こえ}が{小|ちい}さくて{怒|おこ}られた",
+     "ケンタは{試合|しあい}に{出|で}られなかった",
+     "ケンタは{負|ま}けたが、{一本|いっぽん}{取|と}れた"
+    ],
+    "answer": 3,
+    "why": "He lost the match but won one point."
+   }
+  ]
+ },
+ {
+  "id": "s4-074",
+  "level": 4,
+  "title": "{京都|きょうと}の{迷子|まいご}",
+  "title_en": "Lost in Kyoto",
+  "genre_raw": "Travel",
+  "paragraphs": [
+   {
+    "jp": "{中学|ちゅうがく}{三年生|さんねんせい}の{修学旅行|しゅうがくりょこう}で、ユイたちは{京都|きょうと}へ{行|い}きました。{二日目|ふつかめ}は{班|はん}で{自由|じゆう}に{町|まち}を{歩|ある}く{日|ひ}です。{先生|せんせい}は「{午後|ごご}{四時|よじ}までに、{必|かなら}ずホテルに{戻|もど}らなければなりません。{遅|おく}れないようにしてください」と{何度|なんど}も{言|い}いました。",
+    "en": "On their third-year junior high school trip, Yui and her classmates went to Kyoto. The second day was a day for walking around the city freely in groups. The teacher said many times, \"You must be back at the hotel by 4 p.m. Please make sure you aren't late.\""
+   },
+   {
+    "jp": "ユイの{班|はん}は{四人|よにん}です。{金閣寺|きんかくじ}を{見|み}て、{抹茶|まっちゃ}のアイスを{食|た}べて、とても{楽|たの}しい{時間|じかん}でした。ところが、{三時|さんじ}ごろ、{地図|ちず}を{持|も}っていたダイキが「あれ？ここ、どこ？」と{言|い}いました。{細|ほそ}い{道|みち}がたくさんあって、どの{道|みち}も{同|おな}じに{見|み}えます。スマホは{学校|がっこう}のルールで{持|も}ってきてはいけませんでした。",
+    "en": "There were four people in Yui's group. They saw Kinkaku-ji and ate matcha ice cream, and had a really fun time. But around three o'clock, Daiki, who was holding the map, said, \"Huh? Where are we?\" There were lots of narrow streets, and every one looked the same. Because of a school rule, they hadn't been allowed to bring smartphones."
+   },
+   {
+    "jp": "みんなが{困|こま}っていると、{着物|きもの}を{着|き}たおばあさんが{通|とお}りました。ユイは{勇気|ゆうき}を{出|だ}して{話|はな}しかけました。「すみません、さくらホテルへはどうやって{行|い}けばいいですか」。おばあさんは「ああ、{修学旅行|しゅうがくりょこう}の{子|こ}たちね。わたしもそっちへ{行|い}くから、いっしょに{行|い}きましょう」と、にこにこして{言|い}いました。",
+    "en": "While everyone was at a loss, an old woman in a kimono walked by. Yui gathered her courage and spoke to her. \"Excuse me, how do we get to the Sakura Hotel?\" The old woman smiled and said, \"Oh, you're on a school trip. I'm going that way too, so let's go together.\""
+   },
+   {
+    "jp": "{歩|ある}きながら、おばあさんは{古|ふる}いお{寺|てら}や、おいしいおまんじゅうの{店|みせ}のことを{教|おし}えてくれました。ホテルに{着|つ}いたのは{三時|さんじ}{五十五分|ごじゅうごふん}でした。ぎりぎりです。{玄関|げんかん}で{待|ま}っていた{先生|せんせい}は、おばあさんを{見|み}て、{驚|おどろ}いた{顔|かお}をしました。「お{母|かあ}さん！どうしてここに？」",
+    "en": "As they walked, the old woman told them about old temples and a shop with delicious steamed buns. They arrived at the hotel at 3:55. Just in time. The teacher waiting at the entrance saw the old woman and looked shocked. \"Mom! What are you doing here?\""
+   },
+   {
+    "jp": "おばあさんは、{先生|せんせい}のお{母|かあ}さんだったのです。「{息子|むすこ}の{顔|かお}を{見|み}に{来|き}たら、かわいい{迷子|まいご}を{見|み}つけたのよ」。みんなは{大|おお}きな{声|こえ}で{笑|わら}いました。その{夜|よる}、ユイは{日記|にっき}に「{京都|きょうと}でいちばんの{思|おも}い{出|で}は、{金閣寺|きんかくじ}じゃなくて、{先生|せんせい}のお{母|かあ}さん」と{書|か}きました。",
+    "en": "The old woman was the teacher's mother. \"I came to see my son's face, and I found some cute lost children.\" Everyone laughed loudly. That night, Yui wrote in her diary, \"My best memory of Kyoto isn't Kinkaku-ji. It's the teacher's mother.\""
+   }
+  ],
+  "questions": [
+   {
+    "q": "ユイたちはどうして{道|みち}がわからなくなりましたか。",
+    "q_en": "Why did Yui's group get lost?",
+    "options": [
+     "{細|ほそ}い{道|みち}がたくさんあって、{同|おな}じに{見|み}えたから",
+     "ダイキが{地図|ちず}をなくしたから",
+     "スマホの{電池|でんち}がなくなったから",
+     "おばあさんが{違|ちが}う{道|みち}を{教|おし}えたから"
+    ],
+    "answer": 0,
+    "why": "The many narrow streets all looked the same."
+   },
+   {
+    "q": "{先生|せんせい}はどうして{驚|おどろ}きましたか。",
+    "q_en": "Why was the teacher surprised?",
+    "options": [
+     "{生徒|せいと}たちが{四時|よじ}に{遅|おく}れたから",
+     "{生徒|せいと}たちがスマホを{持|も}っていたから",
+     "{自分|じぶん}のお{母|かあ}さんが{生徒|せいと}といっしょに{来|き}たから",
+     "おばあさんが{着物|きもの}を{着|き}ていたから"
+    ],
+    "answer": 2,
+    "why": "The old woman who brought the students was his own mother."
+   }
+  ]
+ },
+ {
+  "id": "s4-075",
+  "level": 4,
+  "title": "{妹|いもうと}の{先生|せんせい}",
+  "title_en": "My Sister's Teacher",
+  "genre_raw": "Daily life",
+  "paragraphs": [
+   {
+    "jp": "{期末|きまつ}テストまで、あと{二週間|にしゅうかん}です。ハルトは{数学|すうがく}がとても{苦手|にがて}で、{前|まえ}のテストは{三十点|さんじゅってん}でした。{今度|こんど}{悪|わる}い{点|てん}を{取|と}ったら、{夏休|なつやす}みに{学校|がっこう}へ{行|い}かなければなりません。「{今度|こんど}こそ、ちゃんと{勉強|べんきょう}しよう」とハルトは{思|おも}いました。",
+    "en": "There were two weeks left until the end-of-term exams. Haruto was really bad at math, and he had gotten 30 points on the last test. If he got a bad score this time, he would have to go to school during the summer vacation. \"This time I'll study properly,\" Haruto thought."
+   },
+   {
+    "jp": "まず、ハルトはスマホを{母|はは}に{預|あず}けることにしました。それから、{毎日|まいにち}{夜|よる}{八時|はちじ}から{十時|じゅうじ}まで{机|つくえ}の{前|まえ}に{座|すわ}るようにしました。でも、{問題|もんだい}がありました。{小学|しょうがく}{四年生|よねんせい}の{妹|いもうと}のミオが、{毎晩|まいばん}{部屋|へや}に{来|く}るのです。「お{兄|にい}ちゃん、{算数|さんすう}の{宿題|しゅくだい}、わからない。{教|おし}えて」",
+    "en": "First, Haruto decided to leave his smartphone with his mother. Then he made sure to sit at his desk from 8 to 10 every night. But there was a problem. His sister Mio, who was in fourth grade, came to his room every night. \"Big brother, I don't understand my math homework. Teach me.\""
+   },
+   {
+    "jp": "{最初|さいしょ}は「{忙|いそが}しいから、あとで」と{言|い}っていました。でも、ミオが{泣|な}きそうな{顔|かお}をするので、しかたなく{教|おし}えてあげました。{教|おし}えるためには、{自分|じぶん}がよくわかっていなければなりません。ハルトは{教科書|きょうかしょ}を{最初|さいしょ}から{読|よ}み{直|なお}して、ゆっくり{説明|せつめい}しました。「わかった！お{兄|にい}ちゃん、{先生|せんせい}みたい」とミオは{喜|よろこ}びました。",
+    "en": "At first he said, \"I'm busy, later.\" But Mio looked like she was about to cry, so he had no choice but to teach her. To teach someone, you have to understand it well yourself. Haruto reread the textbook from the beginning and explained slowly. \"I get it! Big brother, you're like a teacher,\" Mio said happily."
+   },
+   {
+    "jp": "そんな{夜|よる}が{毎日|まいにち}{続|つづ}きました。ふしぎなことに、ミオに{説明|せつめい}していると、{自分|じぶん}の{数学|すうがく}の{問題|もんだい}も{前|まえ}より{簡単|かんたん}に{見|み}えてきました。{基本|きほん}がわかると、{難|むずか}しい{問題|もんだい}も{解|と}けるのです。",
+    "en": "Nights like that went on every day. Strangely, while he was explaining things to Mio, his own math problems started to look easier than before. Once he understood the basics, he could solve the hard problems too."
+   },
+   {
+    "jp": "テストが{返|かえ}ってきた{日|ひ}、ハルトは{走|はし}って{家|いえ}に{帰|かえ}りました。{七十八点|ななじゅうはってん}でした。「ミオ、ありがとう！」と{言|い}うと、ミオは{自分|じぶん}のテストを{見|み}せました。{百点|ひゃくてん}でした。「{次|つぎ}は{私|わたし}がお{兄|にい}ちゃんに{教|おし}えてあげる」とミオは{笑|わら}いました。",
+    "en": "On the day the tests were handed back, Haruto ran home. He had 78 points. When he said, \"Mio, thank you!\", Mio showed him her own test. She had 100 points. \"Next time, I'll teach you,\" Mio said with a laugh."
+   }
+  ],
+  "questions": [
+   {
+    "q": "ハルトが{勉強|べんきょう}するために、{最初|さいしょ}にしたことは{何|なん}ですか。",
+    "q_en": "What was the first thing Haruto did in order to study?",
+    "options": [
+     "{図書館|としょかん}に{行|い}くことにした",
+     "{塾|じゅく}に{通|かよ}うことにした",
+     "ミオを{部屋|へや}に{入|い}れないことにした",
+     "スマホを{母|はは}に{預|あず}けることにした"
+    ],
+    "answer": 3,
+    "why": "He first gave his smartphone to his mother."
+   },
+   {
+    "q": "ハルトの{数学|すうがく}はどうしてよくなりましたか。",
+    "q_en": "Why did Haruto's math improve?",
+    "options": [
+     "ミオに{教|おし}えるために、{基本|きほん}をよく{勉強|べんきょう}したから",
+     "ミオが{数学|すうがく}を{教|おし}えてくれたから",
+     "テストの{問題|もんだい}がとても{簡単|かんたん}だったから",
+     "{夏休|なつやす}みに{学校|がっこう}で{勉強|べんきょう}したから"
+    ],
+    "answer": 0,
+    "why": "Teaching Mio made him go back over the basics carefully."
+   },
+   {
+    "q": "ミオのテストは{何点|なんてん}でしたか。",
+    "q_en": "What score did Mio get?",
+    "options": [
+     "{三十点|さんじゅってん}",
+     "{七十八点|ななじゅうはってん}",
+     "{百点|ひゃくてん}",
+     "{八十点|はちじゅってん}"
+    ],
+    "answer": 2,
+    "why": "Mio showed him a test with 100 points."
+   }
+  ]
+ },
+ {
+  "id": "s4-076",
+  "level": 4,
+  "title": "おにぎり{一|ひと}つのお{客|きゃく}さん",
+  "title_en": "The One-Rice-Ball Customer",
+  "genre_raw": "Work",
+  "paragraphs": [
+   {
+    "jp": "{大学生|だいがくせい}のサクラは、{駅前|えきまえ}のコンビニでアルバイトをしています。{最初|さいしょ}の{日|ひ}、{店長|てんちょう}に「お{客|きゃく}さまには{必|かなら}ず{敬語|けいご}を{使|つか}わなければなりません」と{言|い}われました。「いらっしゃいませ」「{少々|しょうしょう}お{待|ま}ちください」「かしこまりました」。サクラは{家|いえ}でも{鏡|かがみ}の{前|まえ}で{練習|れんしゅう}するようにしました。",
+    "en": "Sakura, a university student, works part-time at a convenience store in front of the station. On her first day, the manager told her, \"You must always use polite language with customers.\" \"Welcome.\" \"Please wait a moment.\" \"Certainly.\" Sakura made a point of practicing in front of the mirror at home, too."
+   },
+   {
+    "jp": "{毎朝|まいあさ}{七時|しちじ}に、{同|おな}じおじいさんが{来|き}ます。{買|か}うのは、いつも{梅|うめ}のおにぎりを{一|ひと}つだけです。サクラが「おはようございます。{袋|ふくろ}はご{利用|りよう}になりますか」と{聞|き}いても、おじいさんは{首|くび}を{横|よこ}に{振|ふ}るだけで、{何|なに}も{言|い}いません。それでも、サクラは{毎朝|まいあさ}{笑顔|えがお}であいさつすることにしていました。",
+    "en": "Every morning at seven, the same old man comes in. He always buys just one pickled-plum rice ball. Even when Sakura asks, \"Good morning. Would you like a bag?\", he only shakes his head and says nothing. Still, Sakura made it her habit to greet him with a smile every morning."
+   },
+   {
+    "jp": "ある{月曜日|げつようび}、おじいさんは{来|き}ませんでした。{火曜日|かようび}も、{水曜日|すいようび}も{来|き}ませんでした。サクラは{心配|しんぱい}になりました。「{病気|びょうき}かな。でも、{名前|なまえ}も{家|いえ}も{知|し}らないし……」。{棚|たな}の{梅|うめ}のおにぎりを{見|み}るたびに、おじいさんの{顔|かお}を{思|おも}い{出|だ}しました。",
+    "en": "One Monday, the old man didn't come. He didn't come on Tuesday or Wednesday either. Sakura got worried. \"Is he sick? But I don't know his name or where he lives...\" Every time she saw the plum rice balls on the shelf, she remembered his face."
+   },
+   {
+    "jp": "{次|つぎ}の{週|しゅう}の{朝|あさ}、ドアが{開|あ}いて、おじいさんが{入|はい}ってきました。{若|わか}い{女|おんな}の{人|ひと}もいっしょです。「{祖父|そふ}が{入院|にゅういん}していたんです。{病院|びょういん}で、コンビニの{店員|てんいん}さんの{話|はなし}ばかりしていました。{一人|ひとり}で{住|す}んでいるので、{毎朝|まいあさ}のあいさつがとてもうれしかったそうです」",
+    "en": "The next week, one morning, the door opened and the old man came in. A young woman was with him. \"My grandfather was in the hospital. In the hospital, all he talked about was the clerk at the convenience store. He lives alone, so he says your greeting every morning made him very happy.\""
+   },
+   {
+    "jp": "おじいさんは{梅|うめ}のおにぎりをレジに{置|お}いて、{初|はじ}めて{口|くち}を{開|ひら}きました。「おはよう。いつも、ありがとう」。サクラは{少|すこ}し{泣|な}きそうになりましたが、{笑顔|えがお}で「ありがとうございます。またお{待|ま}ちしております」と{言|い}いました。",
+    "en": "The old man put a plum rice ball on the counter and spoke for the first time. \"Good morning. Thank you, as always.\" Sakura almost cried, but she said with a smile, \"Thank you very much. We look forward to seeing you again.\""
+   }
+  ],
+  "questions": [
+   {
+    "q": "おじいさんはどうして{来|こ}なくなりましたか。",
+    "q_en": "Why did the old man stop coming?",
+    "options": [
+     "{別|べつ}のコンビニに{行|い}くことにしたから",
+     "{入院|にゅういん}していたから",
+     "{梅|うめ}のおにぎりがなかったから",
+     "サクラが{敬語|けいご}を{使|つか}わなかったから"
+    ],
+    "answer": 1,
+    "why": "His granddaughter said he had been in the hospital."
+   },
+   {
+    "q": "おじいさんにとって、{何|なに}がうれしかったのですか。",
+    "q_en": "What made the old man happy?",
+    "options": [
+     "おにぎりが{安|やす}かったこと",
+     "{孫|まご}が{毎朝|まいあさ}{来|き}てくれたこと",
+     "サクラの{毎朝|まいあさ}のあいさつ",
+     "{店長|てんちょう}が{袋|ふくろ}をくれたこと"
+    ],
+    "answer": 2,
+    "why": "He lives alone, so Sakura's daily greeting meant a lot to him."
+   }
+  ]
+ },
+ {
+  "id": "s4-077",
+  "level": 4,
+  "title": "{初|はじ}めての{給料|きゅうりょう}",
+  "title_en": "My First Paycheck",
+  "genre_raw": "Daily life",
+  "paragraphs": [
+   {
+    "jp": "リクは{四月|しがつ}から{会社|かいしゃ}で{働|はたら}き{始|はじ}めました。そして{五月|ごがつ}{二十五日|にじゅうごにち}、{初|はじ}めての{給料|きゅうりょう}が{出|で}ました。{銀行|ぎんこう}のアプリで{金額|きんがく}を{見|み}たとき、リクは{少|すこ}し{手|て}がふるえました。「このお{金|かね}で、まず{両親|りょうしん}に{何|なに}かしよう」と{決|き}めていました。",
+    "en": "Riku started working at a company in April. Then on May 25th, he got his first paycheck. When he saw the amount in his banking app, his hands shook a little. He had already decided, \"With this money, I'll do something for my parents first.\""
+   },
+   {
+    "jp": "でも、{何|なに}を{買|か}えばいいか、わかりません。{母|はは}に{電話|でんわ}で{聞|き}くと、「{何|なに}もいらないわよ。{自分|じぶん}のために{使|つか}いなさい」と{言|い}われました。{父|ちち}に{聞|き}いても、「{別|べつ}に」としか{言|い}いません。リクはいろいろ{考|かんが}えて、{二人|ふたり}を{駅|えき}の{近|ちか}くの{古|ふる}いすし{屋|や}に{連|つ}れて{行|い}くことにしました。",
+    "en": "But he didn't know what to buy. When he asked his mother on the phone, she said, \"I don't need anything. Use it for yourself.\" When he asked his father, all he said was, \"Nothing really.\" After thinking about it a lot, Riku decided to take the two of them to an old sushi shop near the station."
+   },
+   {
+    "jp": "{土曜日|どようび}の{夜|よる}、{三人|さんにん}でカウンターに{座|すわ}りました。{父|ちち}はいつもよりたくさん{話|はな}して、たくさん{食|た}べました。{会計|かいけい}のとき、{金額|きんがく}は{思|おも}っていたより{高|たか}かったですが、リクは{笑顔|えがお}で{払|はら}いました。「ごちそうさまでした」と{両親|りょうしん}に{言|い}われて、{少|すこ}し{大人|おとな}になった{気|き}がしました。",
+    "en": "On Saturday night, the three of them sat at the counter. His father talked more than usual and ate a lot. When it was time to pay, the bill was more expensive than he had expected, but Riku paid with a smile. When his parents said, \"Thank you for the meal,\" he felt like he had become a little more grown up."
+   },
+   {
+    "jp": "{帰|かえ}り{道|みち}、{父|ちち}がさいふから{古|ふる}い{写真|しゃしん}を{出|だ}しました。{若|わか}い{男|おとこ}の{人|ひと}が、{年|とし}を{取|と}った{夫婦|ふうふ}といっしょに、すし{屋|や}のカウンターに{座|すわ}っています。「これ、{三十年|さんじゅうねん}{前|まえ}の{俺|おれ}だ。{初|はじ}めての{給料|きゅうりょう}で、{親|おや}をあの{店|みせ}に{連|つ}れて{行|い}ったんだよ」",
+    "en": "On the way home, his father took an old photo out of his wallet. A young man was sitting at a sushi counter with an elderly couple. \"This is me, thirty years ago. With my first paycheck, I took my parents to that same shop.\""
+   },
+   {
+    "jp": "リクは{驚|おどろ}いて、{写真|しゃしん}と{父|ちち}の{顔|かお}を{何度|なんど}も{見|み}ました。{父|ちち}は{少|すこ}し{恥|は}ずかしそうに「だから{今日|きょう}はうれしかった」と{言|い}いました。リクはそのとき、いつか{自分|じぶん}の{子|こ}どもとも、あの{店|みせ}に{行|い}きたいと{思|おも}いました。",
+    "en": "Riku was surprised and looked back and forth between the photo and his father's face. Looking a bit embarrassed, his father said, \"That's why I was happy today.\" At that moment, Riku thought that someday he would like to go to that shop with his own children, too."
+   }
+  ],
+  "questions": [
+   {
+    "q": "リクは{初|はじ}めての{給料|きゅうりょう}で{何|なに}をしましたか。",
+    "q_en": "What did Riku do with his first paycheck?",
+    "options": [
+     "{両親|りょうしん}をすし{屋|や}に{連|つ}れて{行|い}った",
+     "{自分|じぶん}のために{時計|とけい}を{買|か}った",
+     "{母|はは}に{花|はな}を{送|おく}った",
+     "{全部|ぜんぶ}{銀行|ぎんこう}に{入|い}れておいた"
+    ],
+    "answer": 0,
+    "why": "He took his parents to an old sushi shop and paid."
+   },
+   {
+    "q": "{父|ちち}はどうして{今日|きょう}がうれしかったのですか。",
+    "q_en": "Why was the father happy that day?",
+    "options": [
+     "すしがとても{安|やす}かったから",
+     "リクが{会社|かいしゃ}で{偉|えら}くなったから",
+     "{久|ひさ}しぶりに{写真|しゃしん}を{撮|と}ったから",
+     "{自分|じぶん}も{昔|むかし}、{同|おな}じことを{親|おや}にしたから"
+    ],
+    "answer": 3,
+    "why": "Thirty years ago he took his own parents to the same shop with his first pay."
+   }
+  ]
+ },
+ {
+  "id": "s4-078",
+  "level": 4,
+  "title": "{笑|わら}わない{課長|かちょう}",
+  "title_en": "The Manager Who Never Smiles",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "アオイの{会社|かいしゃ}には、{笑|わら}わない{課長|かちょう}がいます。{田中|たなか}{課長|かちょう}です。{会社|かいしゃ}の{人|ひと}たちは「{田中|たなか}さんが{笑|わら}ったのを{見|み}た{人|ひと}はいない」と{言|い}っています。{新入社員|しんにゅうしゃいん}のアオイは、その{課長|かちょう}の{下|した}で{働|はたら}くことになりました。",
+    "en": "At Aoi's company, there is a manager who never smiles: Mr. Tanaka. People at the company say, \"No one has ever seen Tanaka smile.\" Aoi, a new employee, ended up working under that manager."
+   },
+   {
+    "jp": "アオイは{毎日|まいにち}{緊張|きんちょう}していました。「{課長|かちょう}、{資料|しりょう}をお{持|も}ちしました。ご{覧|らん}ください」。{課長|かちょう}は{資料|しりょう}を{読|よ}んで、「わかりました」とだけ{言|い}います。{顔|かお}はいつも{同|おな}じです。アオイは{間違|まちが}えないように、{何度|なんど}もチェックするようにしていました。",
+    "en": "Aoi was nervous every day. \"Sir, I've brought the documents. Please take a look.\" The manager would read them and say only, \"Understood.\" His face was always the same. Aoi made a point of checking everything many times so she wouldn't make mistakes."
+   },
+   {
+    "jp": "ところが、ある{日|ひ}、アオイは{大|おお}きな{失敗|しっぱい}をしてしまいました。お{客|きゃく}さまに{違|ちが}う{値段|ねだん}のメールを{送|おく}ってしまったのです。{真|ま}っ{青|さお}になって{謝|あやま}りに{行|い}くと、{課長|かちょう}は{何|なに}も{言|い}わずに{電話|でんわ}を{取|と}りました。「{田中|たなか}でございます。{大変|たいへん}{申|もう}し{訳|わけ}ございません……」。{三十分|さんじゅっぷん}{後|ご}、{問題|もんだい}はなくなっていました。",
+    "en": "But one day, Aoi made a big mistake. She sent a customer an email with the wrong price. When she went to apologize, white as a sheet, the manager picked up the phone without a word. \"This is Tanaka. I am terribly sorry...\" Thirty minutes later, the problem was gone."
+   },
+   {
+    "jp": "{次|つぎ}の{日曜日|にちようび}、アオイは{公園|こうえん}で{信|しん}じられないものを{見|み}ました。{田中|たなか}{課長|かちょう}が、{小|ちい}さい{白|しろ}い{犬|いぬ}といっしょに{走|はし}りながら、{大|おお}きな{声|こえ}で{笑|わら}っていたのです。「ポチ、{待|ま}て〜！」。{課長|かちょう}はアオイに{気|き}がついて、{急|きゅう}に{止|と}まりました。",
+    "en": "The next Sunday, Aoi saw something unbelievable in the park. Mr. Tanaka was running with a small white dog and laughing loudly. \"Pochi, wait!\" The manager noticed Aoi and suddenly stopped."
+   },
+   {
+    "jp": "{月曜日|げつようび}の{朝|あさ}、{課長|かちょう}がアオイの{席|せき}に{来|き}ました。「{昨日|きのう}のことは、ほかの{人|ひと}には{言|い}わないでください」。アオイは「かしこまりました」と{答|こた}えました。そのとき、{課長|かちょう}の{口|くち}が、ほんの{少|すこ}しだけ{笑|わら}ったように{見|み}えました。",
+    "en": "On Monday morning, the manager came to Aoi's desk. \"Please don't tell anyone else about yesterday.\" Aoi answered, \"Certainly.\" At that moment, the corner of his mouth seemed to smile, just a tiny bit."
+   }
+  ],
+  "questions": [
+   {
+    "q": "アオイが{失敗|しっぱい}したとき、{課長|かちょう}はどうしましたか。",
+    "q_en": "What did the manager do when Aoi made a mistake?",
+    "options": [
+     "{大|おお}きな{声|こえ}でアオイを{怒|おこ}った",
+     "アオイにお{客|きゃく}さまに{電話|でんわ}させた",
+     "{何|なに}も{言|い}わずに、お{客|きゃく}さまに{電話|でんわ}で{謝|あやま}った",
+     "{会社|かいしゃ}を{休|やす}んだ"
+    ],
+    "answer": 2,
+    "why": "He quietly phoned the customer and apologized himself."
+   },
+   {
+    "q": "{課長|かちょう}はアオイに{何|なに}を{頼|たの}みましたか。",
+    "q_en": "What did the manager ask Aoi?",
+    "options": [
+     "{犬|いぬ}の{世話|せわ}をしてほしい",
+     "{公園|こうえん}で{見|み}たことを{秘密|ひみつ}にしてほしい",
+     "もっと{資料|しりょう}をチェックしてほしい",
+     "お{客|きゃく}さまに{謝|あやま}りに{行|い}ってほしい"
+    ],
+    "answer": 1,
+    "why": "He asked her not to tell anyone what she saw on Sunday."
+   }
+  ]
+ },
+ {
+  "id": "s4-079",
+  "level": 4,
+  "title": "{幹事|かんじ}は{大変|たいへん}",
+  "title_en": "Being the Party Organizer Is Hard",
+  "genre_raw": "Work",
+  "paragraphs": [
+   {
+    "jp": "{十二月|じゅうにがつ}になって、{会社|かいしゃ}の{忘年会|ぼうねんかい}の{準備|じゅんび}が{始|はじ}まりました。{今年|ことし}の{幹事|かんじ}は、{入社|にゅうしゃ}{一年目|いちねんめ}のケンジです。{部長|ぶちょう}に「{今年|ことし}は{社長|しゃちょう}もいらっしゃるから、しっかり{準備|じゅんび}してくださいね」と{言|い}われて、ケンジは{少|すこ}し{不安|ふあん}になりました。",
+    "en": "December came, and preparations for the company's year-end party began. This year's organizer was Kenji, in his first year at the company. The department head told him, \"The company president will be coming this year, so please prepare carefully,\" and Kenji got a little nervous."
+   },
+   {
+    "jp": "ケンジは{有名|ゆうめい}なレストランを{予約|よやく}して、ビンゴの{景品|けいひん}も{買|か}いました。{当日|とうじつ}の{朝|あさ}も、{店|みせ}に{電話|でんわ}して{確認|かくにん}するようにしました。ところが、{午後|ごご}{三時|さんじ}にレストランから{電話|でんわ}がかかってきました。「{申|もう}し{訳|わけ}ございません。キッチンの{水道|すいどう}が{壊|こわ}れてしまって、{今晩|こんばん}はお{店|みせ}を{開|あ}けることができません」",
+    "en": "Kenji booked a famous restaurant and bought prizes for bingo. On the morning of the party, he even made sure to call the restaurant to confirm. But at 3 p.m., the restaurant called him. \"We are very sorry. The water pipes in the kitchen have broken, so we can't open tonight.\""
+   },
+   {
+    "jp": "ケンジは{真|ま}っ{白|しろ}になりました。{忘年会|ぼうねんかい}は{七時|しちじ}からです。ほかの{店|みせ}に{電話|でんわ}しましたが、どこもいっぱいでした。しかたなく、ケンジは{会議室|かいぎしつ}で{忘年会|ぼうねんかい}をすることにしました。ピザとおすしを{注文|ちゅうもん}して、{机|つくえ}を{並|なら}べ{直|なお}しました。{先輩|せんぱい}たちも{手伝|てつだ}ってくれました。",
+    "en": "Kenji's mind went blank. The party started at seven. He called other restaurants, but they were all full. With no other choice, Kenji decided to hold the party in the meeting room. He ordered pizza and sushi and rearranged the desks. His senior coworkers helped him, too."
+   },
+   {
+    "jp": "{七時|しちじ}に{社長|しゃちょう}がいらっしゃいました。ケンジは{頭|あたま}を{下|さ}げて、「{本当|ほんとう}に{申|もう}し{訳|わけ}ございません。こんな{場所|ばしょ}で……」と{謝|あやま}りました。すると{社長|しゃちょう}は、ピザを{一枚|いちまい}{取|と}って{言|い}いました。「なつかしいなあ。{会社|かいしゃ}を{始|はじ}めたころは、{毎年|まいとし}この{部屋|へや}で{忘年会|ぼうねんかい}をしていたんだよ」",
+    "en": "At seven, the president arrived. Kenji bowed and apologized, \"I'm truly sorry. In a place like this...\" Then the president picked up a slice of pizza and said, \"This brings back memories. When I first started the company, we held the year-end party in this room every year.\""
+   },
+   {
+    "jp": "その{夜|よる}、{社長|しゃちょう}は{昔|むかし}の{話|はなし}をたくさんしてくださいました。ビンゴでは、{社長|しゃちょう}が{一番|いちばん}に「ビンゴ！」と{叫|さけ}んで、みんなが{笑|わら}いました。{帰|かえ}るとき、{社長|しゃちょう}はケンジに「{来年|らいねん}も{君|きみ}が{幹事|かんじ}をやってくれ」とおっしゃいました。ケンジはうれしいような、{困|こま}ったような{気持|きも}ちでした。",
+    "en": "That night, the president told lots of stories about the old days. In bingo, the president was the first to shout \"Bingo!\" and everyone laughed. As he was leaving, the president said to Kenji, \"You be the organizer next year too.\" Kenji felt both happy and a bit troubled."
+   }
+  ],
+  "questions": [
+   {
+    "q": "ケンジはどうして{会議室|かいぎしつ}で{忘年会|ぼうねんかい}をしましたか。",
+    "q_en": "Why did Kenji hold the party in the meeting room?",
+    "options": [
+     "{社長|しゃちょう}が{会議室|かいぎしつ}がいいと{言|い}ったから",
+     "レストランが{開|あ}けられなくなって、ほかの{店|みせ}もいっぱいだったから",
+     "レストランの{予約|よやく}を{忘|わす}れていたから",
+     "{会社|かいしゃ}にお{金|かね}がなかったから"
+    ],
+    "answer": 1,
+    "why": "The restaurant's water pipes broke and every other place was full."
+   },
+   {
+    "q": "{社長|しゃちょう}は{会議室|かいぎしつ}の{忘年会|ぼうねんかい}をどう{思|おも}いましたか。",
+    "q_en": "How did the president feel about the party in the meeting room?",
+    "options": [
+     "{怒|おこ}って、すぐ{帰|かえ}った",
+     "ピザが{好|す}きではなかった",
+     "{来年|らいねん}は{別|べつ}の{人|ひと}に{幹事|かんじ}をしてほしいと{思|おも}った",
+     "{昔|むかし}を{思|おも}い{出|だ}して、{楽|たの}しんだ"
+    ],
+    "answer": 3,
+    "why": "It reminded him of the company's early days, and he enjoyed it."
+   }
+  ]
+ },
+ {
+  "id": "s4-080",
+  "level": 4,
+  "title": "{会議|かいぎ}に{出|で}たネコ",
+  "title_en": "The Cat Who Joined the Meeting",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "マイは{去年|きょねん}から{家|いえ}で{仕事|しごと}をしています。{電車|でんしゃ}に{乗|の}らなくてもいいし、{好|す}きな{時間|じかん}にお{茶|ちゃ}を{飲|の}めるし、とても{楽|らく}です。ただ、{一|ひと}つだけ{問題|もんだい}があります。ネコのモチです。モチはマイがパソコンを{使|つか}っていると、{必|かなら}ずキーボードの{上|うえ}に{座|すわ}るのです。",
+    "en": "Since last year, Mai has been working from home. She doesn't have to take the train, she can drink tea whenever she likes, and it's very easy. There's just one problem: her cat, Mochi. Whenever Mai uses her computer, Mochi always sits on the keyboard."
+   },
+   {
+    "jp": "{今日|きょう}は{大切|たいせつ}なお{客|きゃく}さまとのオンライン{会議|かいぎ}があります。{相手|あいて}は{大|おお}きな{会社|かいしゃ}の{山本|やまもと}{部長|ぶちょう}です。マイは{会議|かいぎ}の{間|あいだ}、ドアを{閉|し}めておくことにしました。「モチ、{一時間|いちじかん}だけ{静|しず}かにしていてね」",
+    "en": "Today she had an important online meeting with a client: Mr. Yamamoto, a department head at a big company. Mai decided to keep the door closed during the meeting. \"Mochi, please be quiet for just one hour.\""
+   },
+   {
+    "jp": "{会議|かいぎ}が{始|はじ}まりました。「{本日|ほんじつ}はお{忙|いそが}しいところ、ありがとうございます。それでは、{資料|しりょう}をご{説明|せつめい}いたします」。そのとき、ドアの{外|そと}から「ニャー！ニャー！」と{大|おお}きな{声|こえ}が{聞|き}こえました。そして、なんと{自分|じぶん}でドアを{開|あ}けて、モチが{入|はい}ってきたのです。モチはキーボードの{上|うえ}に{座|すわ}って、カメラの{前|まえ}で{大|おお}きなあくびをしました。",
+    "en": "The meeting began. \"Thank you for taking time out of your busy schedule today. Now, let me explain the materials.\" Just then, a loud \"Meow! Meow!\" came from outside the door. And then, unbelievably, Mochi opened the door by himself and came in. Mochi sat on the keyboard and gave a big yawn in front of the camera."
+   },
+   {
+    "jp": "「{大変|たいへん}{失礼|しつれい}いたしました！」とマイは{顔|かお}を{真|ま}っ{赤|か}にして{謝|あやま}りました。ところが、{山本|やまもと}{部長|ぶちょう}は{笑|わら}いながら、{後|うし}ろから{太|ふと}った{茶色|ちゃいろ}のネコを{持|も}ち{上|あ}げました。「うちのトラです。{実|じつ}は、{私|わたし}も{家|いえ}で{仕事|しごと}をしているんですよ」。それから{十分|じゅっぷん}ぐらい、{二人|ふたり}はネコの{話|はなし}をしました。",
+    "en": "\"I'm terribly sorry!\" Mai apologized, her face bright red. But Mr. Yamamoto laughed and lifted a fat brown cat up from behind him. \"This is our Tora. Actually, I work from home too.\" For about ten minutes after that, the two of them talked about cats."
+   },
+   {
+    "jp": "{会議|かいぎ}はとてもうまくいって、{仕事|しごと}の{話|はなし}もすぐに{決|き}まりました。{次|つぎ}の{週|しゅう}、{山本|やまもと}{部長|ぶちょう}からメールが{来|き}ました。「{来週|らいしゅう}の{会議|かいぎ}には、モチさんもご{参加|さんか}いただけますか」。マイは{笑|わら}って、もうドアを{閉|し}めないことにしました。",
+    "en": "The meeting went very well, and the business deal was settled quickly. The next week, an email came from Mr. Yamamoto. \"Will Mr. Mochi also be joining next week's meeting?\" Mai laughed and decided not to close the door anymore."
+   }
+  ],
+  "questions": [
+   {
+    "q": "マイはどうしてドアを{閉|し}めておくことにしましたか。",
+    "q_en": "Why did Mai decide to keep the door closed?",
+    "options": [
+     "{大切|たいせつ}な{会議|かいぎ}にモチが{来|こ}ないように",
+     "{部屋|へや}が{寒|さむ}かったから",
+     "モチが{外|そと}に{出|で}ないように",
+     "{山本|やまもと}{部長|ぶちょう}がネコが{嫌|きら}いだから"
+    ],
+    "answer": 0,
+    "why": "She wanted to keep Mochi out of the important meeting."
+   },
+   {
+    "q": "{山本|やまもと}{部長|ぶちょう}はモチを{見|み}て、どうしましたか。",
+    "q_en": "What did Mr. Yamamoto do when he saw Mochi?",
+    "options": [
+     "{怒|おこ}って{会議|かいぎ}をやめた",
+     "{自分|じぶん}のネコを{見|み}せて、ネコの{話|はなし}をした",
+     "マイに{電話|でんわ}で{謝|あやま}らせた",
+     "{会議|かいぎ}を{来週|らいしゅう}にすることにした"
+    ],
+    "answer": 1,
+    "why": "He laughed, showed his own cat Tora, and they chatted about cats."
+   },
+   {
+    "q": "{最後|さいご}に、マイは{何|なに}をすることにしましたか。",
+    "q_en": "What did Mai decide at the end?",
+    "options": [
+     "モチを{友|とも}だちの{家|いえ}に{預|あず}けること",
+     "{会社|かいしゃ}で{働|はたら}くこと",
+     "{山本|やまもと}{部長|ぶちょう}にネコをあげること",
+     "{会議|かいぎ}のときもドアを{閉|し}めないこと"
+    ],
+    "answer": 3,
+    "why": "Since the client wants Mochi there, she will leave the door open."
+   }
+  ]
+ },
+ {
+  "id": "s4-081",
+  "level": 4,
+  "title": "リーダーになった{日|ひ}から",
+  "title_en": "From the Day I Became a Leader",
+  "genre_raw": "Work",
+  "paragraphs": [
+   {
+    "jp": "ある{金曜日|きんようび}の{夕方|ゆうがた}、ユウコは{部長|ぶちょう}に{呼|よ}ばれました。「{何|なに}か{失敗|しっぱい}をしたのかな」とどきどきしながら{部屋|へや}に{入|はい}ると、{部長|ぶちょう}はにっこりしておっしゃいました。「{来月|らいげつ}から、{君|きみ}にチームのリーダーをお{願|ねが}いしたい」。{入社|にゅうしゃ}して{五年|ごねん}、{初|はじ}めての{昇進|しょうしん}でした。",
+    "en": "One Friday evening, Yuko was called in by the department head. Wondering nervously if she had made some mistake, she entered the room, and he smiled and said, \"From next month, I'd like you to be the team leader.\" It was her first promotion in the five years since she joined the company."
+   },
+   {
+    "jp": "ユウコはとてもうれしくて、「いいリーダーにならなければならない」と{思|おも}いました。チームには{五人|ごにん}います。みんなに{迷惑|めいわく}をかけないように、{難|むずか}しい{仕事|しごと}は{全部|ぜんぶ}{自分|じぶん}でやることにしました。{毎晩|まいばん}{十時|じゅうじ}まで{会社|かいしゃ}に{残|のこ}って、{週末|しゅうまつ}もパソコンを{開|ひら}きました。",
+    "en": "Yuko was very happy and thought, \"I have to become a good leader.\" There were five people on the team. So as not to burden anyone, she decided to do all the difficult work herself. She stayed at the office until ten every night and opened her laptop on weekends, too."
+   },
+   {
+    "jp": "{二か月|にかげつ}{後|ご}、ユウコは{会議|かいぎ}の{途中|とちゅう}で{気分|きぶん}が{悪|わる}くなって、{三日|みっか}{会社|かいしゃ}を{休|やす}みました。「リーダーなのに……」と、{家|いえ}のベッドで{泣|な}きました。{仕事|しごと}がたくさん{残|のこ}っているはずです。",
+    "en": "Two months later, Yuko felt sick in the middle of a meeting and took three days off work. \"And I'm supposed to be the leader...\" she cried in her bed at home. There must be lots of work left undone."
+   },
+   {
+    "jp": "ところが、{会社|かいしゃ}に{戻|もど}ると、{仕事|しごと}は{全部|ぜんぶ}{終|お}わっていました。{一番|いちばん}{若|わか}いササキくんが{言|い}いました。「ユウコさん、{僕|ぼく}たちにもっと{仕事|しごと}を{頼|たの}んでください。{僕|ぼく}たちだって、ユウコさんの{役|やく}に{立|た}ちたいんです」。ほかのメンバーもうなずきました。",
+    "en": "But when she came back to the office, all the work was done. Sasaki, the youngest, said, \"Yuko, please ask us to do more. We want to be useful to you, too.\" The other members nodded."
+   },
+   {
+    "jp": "その{日|ひ}から、ユウコは{困|こま}ったときにはすぐ{相談|そうだん}するようにしました。{仕事|しごと}をみんなで{分|わ}けると、チームは{前|まえ}よりずっと{元気|げんき}になりました。{年末|ねんまつ}、{部長|ぶちょう}に「いいチームになったね」と{言|い}われたとき、ユウコは「みんなのおかげです」と{答|こた}えました。それは{本当|ほんとう}の{気持|きも}ちでした。",
+    "en": "From that day, Yuko made sure to talk to the team right away whenever she was in trouble. When they shared the work among everyone, the team became much livelier than before. At the end of the year, when the department head said, \"It's become a good team,\" Yuko answered, \"It's thanks to everyone.\" She truly meant it."
+   }
+  ],
+  "questions": [
+   {
+    "q": "リーダーになって、ユウコは{最初|さいしょ}どうしましたか。",
+    "q_en": "What did Yuko do at first after becoming leader?",
+    "options": [
+     "{仕事|しごと}をみんなで{分|わ}けた",
+     "{毎日|まいにち}{早|はや}く{家|いえ}に{帰|かえ}った",
+     "{難|むずか}しい{仕事|しごと}を{全部|ぜんぶ}{自分|じぶん}でやった",
+     "{部長|ぶちょう}に{仕事|しごと}を{頼|たの}んだ"
+    ],
+    "answer": 2,
+    "why": "She tried to do all the hard work herself so she wouldn't burden the team."
+   },
+   {
+    "q": "ユウコが{休|やす}んでいる{間|あいだ}、{何|なに}がありましたか。",
+    "q_en": "What happened while Yuko was off work?",
+    "options": [
+     "チームのメンバーが{仕事|しごと}を{全部|ぜんぶ}{終|お}わらせた",
+     "ササキくんが{会社|かいしゃ}を{辞|や}めた",
+     "{部長|ぶちょう}が{新|あたら}しいリーダーを{決|き}めた",
+     "{仕事|しごと}がたくさん{残|のこ}っていた"
+    ],
+    "answer": 0,
+    "why": "When she came back, the team had finished all the work."
+   }
+  ]
+ },
+ {
+  "id": "s4-082",
+  "level": 4,
+  "title": "サワディーカー",
+  "title_en": "Sawasdee Ka",
+  "genre_raw": "Slice of life",
+  "paragraphs": [
+   {
+    "jp": "タクヤは{会社|かいしゃ}から、タイのバンコクで{三年間|さんねんかん}{働|はたら}かないかと{言|い}われました。{前|まえ}から{海外|かいがい}で{働|はたら}きたいと{思|おも}っていたので、とてもうれしい{話|はなし}です。でも、{一|ひと}つ{心配|しんぱい}なことがありました。{去年|きょねん}{父|ちち}が{亡|な}くなってから、{母|はは}は{一人|ひとり}で{住|す}んでいるのです。",
+    "en": "Takuya's company asked him if he would work in Bangkok, Thailand for three years. He had wanted to work abroad for a long time, so it was very happy news. But there was one worry. Since his father passed away last year, his mother had been living alone."
+   },
+   {
+    "jp": "{母|はは}に{話|はな}すと、{母|はは}は「{行|い}きなさい。{私|わたし}は{大丈夫|だいじょうぶ}よ」とすぐに{言|い}いました。タクヤは{迷|まよ}いましたが、{行|い}くことにしました。そのかわり、{毎週|まいしゅう}{日曜日|にちようび}にビデオ{電話|でんわ}をするようにしようと{決|き}めました。",
+    "en": "When he told his mother, she immediately said, \"Go. I'll be fine.\" Takuya hesitated, but decided to go. In return, he resolved to make sure to video-call her every Sunday."
+   },
+   {
+    "jp": "バンコクの{生活|せいかつ}は{大変|たいへん}でした。{毎日|まいにち}とても{暑|あつ}くて、{料理|りょうり}は{辛|から}くて、タイ{語|ご}は{全然|ぜんぜん}わかりません。{会社|かいしゃ}では{英語|えいご}を{使|つか}わなければなりませんが、{英語|えいご}もあまり{上手|じょうず}ではありません。{日曜日|にちようび}の{電話|でんわ}では、いつも「{元気|げんき}だよ」と{言|い}っていましたが、{本当|ほんとう}は{少|すこ}し{寂|さび}しかったです。",
+    "en": "Life in Bangkok was hard. It was very hot every day, the food was spicy, and he didn't understand Thai at all. At work he had to use English, but his English wasn't very good either. On the Sunday calls he always said, \"I'm fine,\" but actually he was a little lonely."
+   },
+   {
+    "jp": "{三か月|さんかげつ}たったある{日曜日|にちようび}、{電話|でんわ}をかけると、{母|はは}が{手|て}を{合|あ}わせて{言|い}いました。「サワディーカー！」。タクヤはびっくりしました。{母|はは}は{町|まち}の{教室|きょうしつ}で、{毎週|まいしゅう}タイ{語|ご}を{習|なら}っていたのです。「お{正月|しょうがつ}に{遊|あそ}びに{行|い}くから、{案内|あんない}してね。{私|わたし}も{少|すこ}しは{話|はな}せるようになりたいの」",
+    "en": "One Sunday, three months later, when he called, his mother put her hands together and said, \"Sawasdee ka!\" Takuya was amazed. She had been taking Thai lessons every week at a class in town. \"I'm coming to visit at New Year, so show me around. I want to be able to speak at least a little too.\""
+   },
+   {
+    "jp": "{電話|でんわ}のあと、タクヤは{本屋|ほんや}に{行|い}って、タイ{語|ご}の{教科書|きょうかしょ}を{買|か}いました。{母|はは}に{負|ま}けたくありません。{次|つぎ}の{日|ひ}から、{会社|かいしゃ}の{人|ひと}や{市場|いちば}の{人|ひと}に、{下手|へた}なタイ{語|ご}で{話|はな}しかけるようにしました。バンコクの{町|まち}が、{少|すこ}しずつ{明|あか}るく{見|み}えてきました。",
+    "en": "After the call, Takuya went to a bookstore and bought a Thai textbook. He didn't want to lose to his mother. From the next day, he made a point of talking to people at work and at the market in his clumsy Thai. Little by little, the city of Bangkok began to look brighter."
+   }
+  ],
+  "questions": [
+   {
+    "q": "タクヤはどうして{海外|かいがい}に{行|い}くことを{迷|まよ}いましたか。",
+    "q_en": "Why did Takuya hesitate to go abroad?",
+    "options": [
+     "タイの{料理|りょうり}が{嫌|きら}いだったから",
+     "{英語|えいご}がまったく{話|はな}せなかったから",
+     "{会社|かいしゃ}を{辞|や}めたかったから",
+     "{母|はは}が{一人|ひとり}で{住|す}んでいるから"
+    ],
+    "answer": 3,
+    "why": "His mother has lived alone since his father died."
+   },
+   {
+    "q": "{母|はは}はタクヤに{内緒|ないしょ}で{何|なに}をしていましたか。",
+    "q_en": "What had his mother been doing without telling him?",
+    "options": [
+     "タイへ{引|ひ}っ{越|こ}す{準備|じゅんび}",
+     "タイ{語|ご}の{勉強|べんきょう}",
+     "{英語|えいご}の{勉強|べんきょう}",
+     "タイ{料理|りょうり}の{勉強|べんきょう}"
+    ],
+    "answer": 1,
+    "why": "She was learning Thai every week at a class in town."
+   }
+  ]
+ },
+ {
+  "id": "s4-083",
+  "level": 4,
+  "title": "{石井|いしい}{先生|せんせい}の{最後|さいご}の{日|ひ}",
+  "title_en": "Mr. Ishii's Last Day",
+  "genre_raw": "Slice of life",
+  "paragraphs": [
+   {
+    "jp": "{三月|さんがつ}、{小学校|しょうがっこう}の{石井|いしい}{先生|せんせい}が{学校|がっこう}を{辞|や}めることになりました。{先生|せんせい}はこの{学校|がっこう}で{三十年|さんじゅうねん}{教|おし}えてきました。{六年|ろくねん}{二組|にくみ}の{子|こ}どもたちは、{先生|せんせい}の{最後|さいご}の{日|ひ}に、{秘密|ひみつ}のパーティーをすることにしました。",
+    "en": "In March, Mr. Ishii, a teacher at the elementary school, was going to leave the school. He had taught there for thirty years. The children of class 6-2 decided to hold a secret party on his last day."
+   },
+   {
+    "jp": "{学級委員|がっきゅういいん}のアヤが{言|い}いました。「{先生|せんせい}に{気|き}づかれないようにしなければならないよ。{絶対|ぜったい}に{話|はな}さないこと！」。みんなは{休|やす}み{時間|じかん}に{歌|うた}の{練習|れんしゅう}をして、{一人|ひとり}ずつ{手紙|てがみ}を{書|か}きました。{先生|せんせい}が{教室|きょうしつ}に{来|く}ると、みんな{急|いそ}いで{紙|かみ}を{隠|かく}しました。",
+    "en": "Aya, the class representative, said, \"We have to make sure he doesn't notice. Absolutely no talking about it!\" Everyone practiced a song during breaks, and each of them wrote a letter. Whenever the teacher came into the classroom, they all hurried to hide the papers."
+   },
+   {
+    "jp": "{最後|さいご}の{日|ひ}、{石井|いしい}{先生|せんせい}が{教室|きょうしつ}のドアを{開|あ}けると、{三十人|さんじゅうにん}が{立|た}ち{上|あ}がって{歌|うた}い{始|はじ}めました。{先生|せんせい}は{目|め}を{大|おお}きくして、{黒板|こくばん}の「ありがとう、{石井|いしい}{先生|せんせい}」という{字|じ}を{見|み}ました。{歌|うた}が{終|お}わると、アヤが{三十枚|さんじゅうまい}の{手紙|てがみ}を{渡|わた}しました。",
+    "en": "On the last day, when Mr. Ishii opened the classroom door, thirty children stood up and began to sing. His eyes went wide as he looked at the words \"Thank you, Mr. Ishii\" on the blackboard. When the song finished, Aya handed him thirty letters."
+   },
+   {
+    "jp": "{先生|せんせい}は{少|すこ}し{黙|だま}っていましたが、それから{机|つくえ}の{引|ひ}き{出|だ}しを{開|あ}けて、{大|おお}きな{箱|はこ}を{出|だ}しました。{中|なか}には、{三十枚|さんじゅうまい}の{封筒|ふうとう}が{入|はい}っていました。「{実|じつ}は、{先生|せんせい}も{君|きみ}たちに{手紙|てがみ}を{書|か}いていたんだ。{一年間|いちねんかん}、{毎日|まいにち}{少|すこ}しずつね」",
+    "en": "The teacher was silent for a moment, but then he opened his desk drawer and took out a big box. Inside were thirty envelopes. \"Actually, I had been writing letters to all of you, too. A little bit every day, for a whole year.\""
+   },
+   {
+    "jp": "アヤの{手紙|てがみ}には、アヤがいつも{一番|いちばん}{早|はや}く{教室|きょうしつ}に{来|き}て、{花|はな}に{水|みず}をやっていたことが{書|か}いてありました。「{先生|せんせい}、{知|し}っていたんですね」とアヤが{言|い}うと、{先生|せんせい}は{笑|わら}いました。「{先生|せんせい}は、みんなのことをちゃんと{見|み}ているんだよ。パーティーの{練習|れんしゅう}も、{本当|ほんとう}は{全部|ぜんぶ}{知|し}っていたけどね」",
+    "en": "Aya's letter said that she always came to the classroom first and watered the flowers. When Aya said, \"Sir, you knew,\" the teacher laughed. \"A teacher watches everyone carefully. Actually, I knew all about the party practice too.\""
+   }
+  ],
+  "questions": [
+   {
+    "q": "{子|こ}どもたちは{先生|せんせい}のために{何|なに}を{準備|じゅんび}しましたか。",
+    "q_en": "What did the children prepare for the teacher?",
+    "options": [
+     "{花|はな}とケーキ",
+     "{歌|うた}と{手紙|てがみ}",
+     "{写真|しゃしん}と{本|ほん}",
+     "{手紙|てがみ}と{箱|はこ}"
+    ],
+    "answer": 1,
+    "why": "They practiced a song and each wrote a letter."
+   },
+   {
+    "q": "{話|はなし}の{最後|さいご}で、わかったことは{何|なん}ですか。",
+    "q_en": "What do we learn at the end of the story?",
+    "options": [
+     "{先生|せんせい}はパーティーのことを{全然|ぜんぜん}{知|し}らなかった",
+     "アヤは{花|はな}に{水|みず}をやるのを{忘|わす}れていた",
+     "{先生|せんせい}は{来年|らいねん}も{学校|がっこう}で{教|おし}える",
+     "{先生|せんせい}はパーティーの{秘密|ひみつ}を{知|し}っていた"
+    ],
+    "answer": 3,
+    "why": "He said he had known about the party practice all along."
+   }
+  ]
+ },
+ {
+  "id": "s4-084",
+  "level": 4,
+  "title": "{紙|かみ}のないスピーチ",
+  "title_en": "A Speech Without Paper",
+  "genre_raw": "Slice of life",
+  "paragraphs": [
+   {
+    "jp": "{大学|だいがく}の{卒業式|そつぎょうしき}で、ナナは{卒業生|そつぎょうせい}の{代表|だいひょう}としてスピーチをすることになりました。{人|ひと}の{前|まえ}で{話|はな}すのは{大嫌|だいきら}いです。それで、{一か月|いっかげつ}かけて{原稿|げんこう}を{書|か}いて、{毎晩|まいばん}{声|こえ}に{出|だ}して{読|よ}むようにしました。",
+    "en": "At her university graduation ceremony, Nana was chosen to give a speech as the representative of the graduates. She hated speaking in front of people. So she spent a month writing her script, and made sure to read it out loud every night."
+   },
+   {
+    "jp": "{卒業式|そつぎょうしき}の{朝|あさ}、ナナは{着物|きもの}と{袴|はかま}を{着|き}て、{会場|かいじょう}に{行|い}きました。ところが、{自分|じぶん}の{番|ばん}の{五分|ごふん}{前|まえ}に、{原稿|げんこう}がないことに{気|き}がつきました。かばんの{中|なか}を{全部|ぜんぶ}{探|さが}しましたが、ありません。{家|いえ}の{机|つくえ}の{上|うえ}に{忘|わす}れてきたのです。",
+    "en": "On the morning of the ceremony, Nana put on a kimono and hakama and went to the hall. But five minutes before her turn, she noticed that her script was missing. She searched everything in her bag, but it wasn't there. She had left it on her desk at home."
+   },
+   {
+    "jp": "「{次|つぎ}は、{卒業生|そつぎょうせい}{代表|だいひょう}のスピーチです」。ナナは{震|ふる}える{足|あし}で{前|まえ}に{出|で}ました。{会場|かいじょう}には{千人|せんにん}ぐらいいます。{頭|あたま}が{真|ま}っ{白|しろ}になって、{覚|おぼ}えたはずの{言葉|ことば}が{一|ひと}つも{出|で}てきません。そのとき、{一番|いちばん}{前|まえ}の{席|せき}で、{友|とも}だちのケイが{小|ちい}さく{手|て}を{振|ふ}っているのが{見|み}えました。",
+    "en": "\"Next is the speech by the graduates' representative.\" Nana walked to the front on shaking legs. There were about a thousand people in the hall. Her mind went blank, and not one of the words she should have memorized came out. Just then, she saw her friend Kei in the front row, giving her a small wave."
+   },
+   {
+    "jp": "ナナは{深|ふか}く{息|いき}をして、{原稿|げんこう}のことは{忘|わす}れることにしました。そして、{自分|じぶん}の{言葉|ことば}で{話|はな}し{始|はじ}めました。{一年生|いちねんせい}のとき、{友|とも}だちができなくて{毎日|まいにち}{一人|ひとり}で{昼|ひる}ご{飯|はん}を{食|た}べていたこと。ケイが{初|はじ}めて{話|はな}しかけてくれた{日|ひ}のこと。「{先生方|せんせいがた}、{本当|ほんとう}にお{世話|せわ}になりました。そして、みんな、ありがとう」",
+    "en": "Nana took a deep breath and decided to forget about the script. Then she began speaking in her own words. About how in her first year she couldn't make friends and ate lunch alone every day. About the day Kei first spoke to her. \"Professors, thank you so much for everything you've done for us. And everyone, thank you.\""
+   },
+   {
+    "jp": "{話|はな}し{終|お}わると、{会場|かいじょう}から{大|おお}きな{拍手|はくしゅ}が{聞|き}こえました。ケイは{泣|な}いていました。{式|しき}のあと、{学長|がくちょう}がナナのところへいらっしゃって、「{今|いま}まで{聞|き}いた{中|なか}で、いちばんいいスピーチでした」とおっしゃいました。{家|いえ}に{帰|かえ}ると、{机|つくえ}の{上|うえ}の{原稿|げんこう}を{見|み}て、ナナは{笑|わら}ってしまいました。",
+    "en": "When she finished, loud applause filled the hall. Kei was crying. After the ceremony, the university president came over to Nana and said, \"That was the best speech I've ever heard.\" When she got home and saw the script on her desk, Nana couldn't help laughing."
+   }
+  ],
+  "questions": [
+   {
+    "q": "ナナはどうして{原稿|げんこう}を{読|よ}めませんでしたか。",
+    "q_en": "Why couldn't Nana read her script?",
+    "options": [
+     "{家|いえ}に{忘|わす}れてきたから",
+     "ケイが{持|も}っていったから",
+     "{字|じ}が{小|ちい}さすぎたから",
+     "{会場|かいじょう}が{暗|くら}かったから"
+    ],
+    "answer": 0,
+    "why": "She left it on her desk at home."
+   },
+   {
+    "q": "ナナはスピーチで{何|なに}について{話|はな}しましたか。",
+    "q_en": "What did Nana talk about in her speech?",
+    "options": [
+     "{卒業|そつぎょう}してからの{仕事|しごと}のこと",
+     "{大学|だいがく}の{歴史|れきし}のこと",
+     "{一年生|いちねんせい}のときのことと、ケイのこと",
+     "{着物|きもの}と{袴|はかま}のこと"
+    ],
+    "answer": 2,
+    "why": "She spoke about being lonely in first year and Kei befriending her."
+   }
+  ]
+ }
+]

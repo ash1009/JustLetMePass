@@ -1,0 +1,6272 @@
+[
+ {
+  "id": "g3-001",
+  "level": 3,
+  "title_raw": "～ようにする",
+  "meaning": "to make an effort to ~; to make sure that ~",
+  "structure": "Verb dictionary form / ない form + ようにする",
+  "explain": "Use it for habits or efforts you try to keep, like \"I try to ~\". ようにしている shows an ongoing habit. Compare with ことにする, which is a single decision, not a continuing effort.",
+  "examples": [
+   {
+    "jp": "{毎日|まいにち}{野菜|やさい}を{食|た}べるようにしています。",
+    "en": "I try to eat vegetables every day."
+   },
+   {
+    "jp": "{夜|よる}{遅|おそ}くまでゲームをしないようにします。",
+    "en": "I will make sure not to play games until late at night."
+   },
+   {
+    "jp": "{忘|わす}れないように、メモを{書|か}くようにしています。",
+    "en": "I make a point of writing notes so I don't forget."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{健康|けんこう}のために、{毎朝|まいあさ}{歩|ある}く＿＿。",
+    "options": [
+     "ようにしています",
+     "ようになります",
+     "ばかりいます",
+     "ばかりです"
+    ],
+    "answer": 0,
+    "en": "For my health, I try to walk every morning."
+   },
+   {
+    "q": "{甘|あま}いものはあまり{食|た}べない＿＿しています。",
+    "options": [
+     "ために",
+     "ところ",
+     "ほどに",
+     "ように"
+    ],
+    "answer": 3,
+    "en": "I try not to eat many sweet things."
+   },
+   {
+    "q": "{授業|じゅぎょう}に{遅|おく}れない＿＿、{早|はや}く{家|いえ}を{出|で}るようにしている。",
+    "options": [
+     "ところで",
+     "ばかりで",
+     "ように",
+     "わけで"
+    ],
+    "answer": 2,
+    "en": "I try to leave home early so I am not late for class."
+   }
+  ]
+ },
+ {
+  "id": "g3-002",
+  "level": 3,
+  "title_raw": "～ようになる",
+  "meaning": "to come to ~; to become able to ~",
+  "structure": "Verb dictionary / potential / ない form + ようになる",
+  "explain": "Shows a change in ability or habit over time. With the potential form it means \"became able to\". Compare with ようにする, which is your own effort; ようになる is a natural change or result.",
+  "examples": [
+   {
+    "jp": "{日本|にほん}に{来|き}て、{納豆|なっとう}が{食|た}べられるようになりました。",
+    "en": "After coming to Japan, I became able to eat natto."
+   },
+   {
+    "jp": "{子|こ}どもは{一人|ひとり}で{服|ふく}を{着|き}るようになった。",
+    "en": "The child learned to put on clothes by himself."
+   },
+   {
+    "jp": "{最近|さいきん}、{彼|かれ}はあまり{遅刻|ちこく}しないようになりました。",
+    "en": "Recently, he has stopped being late so often."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{練習|れんしゅう}して、{漢字|かんじ}が{読|よ}める＿＿。",
+    "options": [
+     "ようにしました",
+     "ようになりました",
+     "ことにしました",
+     "はずでした"
+    ],
+    "answer": 1,
+    "en": "After practicing, I became able to read kanji."
+   },
+   {
+    "q": "{日本|にほん}に{住|す}んで、{毎日|まいにち}{温泉|おんせん}に{入|はい}る＿＿なった。",
+    "options": [
+     "わけに",
+     "ように",
+     "ばかりに",
+     "ために"
+    ],
+    "answer": 1,
+    "en": "Living in Japan, I came to go to hot springs every day."
+   },
+   {
+    "q": "{眼鏡|めがね}をかけたら、{黒板|こくばん}の{字|じ}がよく{見|み}える＿＿。",
+    "options": [
+     "ようになった",
+     "ようにした",
+     "ことにした",
+     "ところだった"
+    ],
+    "answer": 0,
+    "en": "When I put on glasses, I could see the writing on the board well."
+   }
+  ]
+ },
+ {
+  "id": "g3-003",
+  "level": 3,
+  "title_raw": "～ように (purpose)",
+  "meaning": "so that ~; in order that ~",
+  "structure": "Verb dictionary / potential / ない form + ように",
+  "explain": "Shows a goal, usually with a verb you cannot fully control (potential, ない form, なる, わかる). ために is used with verbs you control directly. Example: {聞|き}こえるように (so it can be heard) vs {聞|き}くために (in order to listen).",
+  "examples": [
+   {
+    "jp": "{後|うし}ろの{人|ひと}にも{聞|き}こえるように、{大|おお}きい{声|こえ}で{話|はな}してください。",
+    "en": "Please speak loudly so the people in the back can hear too."
+   },
+   {
+    "jp": "{風邪|かぜ}をひかないように、{暖|あたた}かくして{寝|ね}ます。",
+    "en": "I keep warm when I sleep so that I don't catch a cold."
+   },
+   {
+    "jp": "{子|こ}どもにもわかるように、やさしい{言葉|ことば}で{書|か}きました。",
+    "en": "I wrote it in simple words so that even children can understand."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{忘|わす}れない＿＿、カレンダーに{書|か}いておきます。",
+    "options": [
+     "ほどに",
+     "ところに",
+     "ばかりに",
+     "ように"
+    ],
+    "answer": 3,
+    "en": "I'll write it on the calendar so I don't forget."
+   },
+   {
+    "q": "{試験|しけん}に{合格|ごうかく}できる＿＿、{毎日|まいにち}{勉強|べんきょう}しています。",
+    "options": [
+     "ことに",
+     "わけに",
+     "ように",
+     "ほどに"
+    ],
+    "answer": 2,
+    "en": "I study every day so that I can pass the exam."
+   },
+   {
+    "q": "{電車|でんしゃ}に{間|ま}に{合|あ}う＿＿、タクシーに{乗|の}った。",
+    "options": [
+     "ばかり",
+     "ところ",
+     "ように",
+     "わけ"
+    ],
+    "answer": 2,
+    "en": "I took a taxi so that I would make the train."
+   }
+  ]
+ },
+ {
+  "id": "g3-004",
+  "level": 3,
+  "title_raw": "～ように言う",
+  "meaning": "to tell someone to ~",
+  "structure": "Verb dictionary / ない form + ように + {言|い}う／{頼|たの}む／{注意|ちゅうい}する",
+  "explain": "Reports an order or request indirectly. The person told comes with に. It is softer than quoting a command like「{来|こ}い」と{言|い}う.",
+  "examples": [
+   {
+    "jp": "{先生|せんせい}に{宿題|しゅくだい}を{出|だ}すように{言|い}われました。",
+    "en": "The teacher told me to hand in my homework."
+   },
+   {
+    "jp": "{母|はは}は{弟|おとうと}にゲームをしないように{言|い}った。",
+    "en": "My mother told my younger brother not to play games."
+   },
+   {
+    "jp": "{部長|ぶちょう}に{資料|しりょう}をコピーするように{頼|たの}まれた。",
+    "en": "The manager asked me to copy the documents."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{医者|いしゃ}にお{酒|さけ}を{飲|の}まない＿＿{言|い}われました。",
+    "options": [
+     "ために",
+     "ように",
+     "ことに",
+     "ほど"
+    ],
+    "answer": 1,
+    "en": "The doctor told me not to drink alcohol."
+   },
+   {
+    "q": "{友|とも}だちに{早|はや}く{来|く}る＿＿{伝|つた}えてください。",
+    "options": [
+     "ように",
+     "ばかり",
+     "わけ",
+     "ところ"
+    ],
+    "answer": 0,
+    "en": "Please tell my friend to come early."
+   },
+   {
+    "q": "{先生|せんせい}は{学生|がくせい}に{静|しず}かにする＿＿{注意|ちゅうい}した。",
+    "options": [
+     "ことに",
+     "ために",
+     "ほどに",
+     "ように"
+    ],
+    "answer": 3,
+    "en": "The teacher warned the students to be quiet."
+   }
+  ]
+ },
+ {
+  "id": "g3-005",
+  "level": 3,
+  "title_raw": "～ことにする",
+  "meaning": "to decide to ~",
+  "structure": "Verb dictionary / ない form + ことにする",
+  "explain": "Shows your own decision. ことにした is a decision you just made. Compare with ことになる, which is decided by others or by circumstances.",
+  "examples": [
+   {
+    "jp": "{来年|らいねん}、{日本|にほん}へ{留学|りゅうがく}することにしました。",
+    "en": "I decided to study abroad in Japan next year."
+   },
+   {
+    "jp": "{今日|きょう}は{雨|あめ}だから、{出|で}かけないことにする。",
+    "en": "It's raining today, so I've decided not to go out."
+   },
+   {
+    "jp": "{健康|けんこう}のために、タバコをやめることにしました。",
+    "en": "I decided to quit smoking for my health."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{疲|つか}れたので、{今日|きょう}は{早|はや}く{寝|ね}る＿＿。",
+    "options": [
+     "ところでした",
+     "ばかりでした",
+     "ようになりました",
+     "ことにしました"
+    ],
+    "answer": 3,
+    "en": "I was tired, so I decided to go to bed early today."
+   },
+   {
+    "q": "{高|たか}いから、その{車|くるま}は{買|か}わない＿＿にした。",
+    "options": [
+     "ため",
+     "はず",
+     "こと",
+     "わけ"
+    ],
+    "answer": 2,
+    "en": "It was expensive, so I decided not to buy that car."
+   },
+   {
+    "q": "{夏休|なつやす}みは{北海道|ほっかいどう}へ{行|い}く＿＿。",
+    "options": [
+     "ほどだ",
+     "ことにした",
+     "わけがない",
+     "ばかりだ"
+    ],
+    "answer": 1,
+    "en": "I decided to go to Hokkaido for summer vacation."
+   }
+  ]
+ },
+ {
+  "id": "g3-006",
+  "level": 3,
+  "title_raw": "～ことになる",
+  "meaning": "it has been decided that ~; it turns out that ~",
+  "structure": "Verb dictionary / ない form + ことになる",
+  "explain": "Shows a decision made by someone else or by the situation, not by you. It sounds humble and indirect, so it is common at work. Compare ことにする (my own decision).",
+  "examples": [
+   {
+    "jp": "{来月|らいげつ}から{大阪|おおさか}で{働|はたら}くことになりました。",
+    "en": "It's been decided that I will work in Osaka from next month."
+   },
+   {
+    "jp": "{雨|あめ}のため、{試合|しあい}は{中止|ちゅうし}することになった。",
+    "en": "Because of rain, it was decided to cancel the game."
+   },
+   {
+    "jp": "{結婚|けっこん}することになりました。",
+    "en": "I'm going to get married. (It has been arranged.)"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{会社|かいしゃ}の{命令|めいれい}で、アメリカに{行|い}く＿＿。",
+    "options": [
+     "ことになりました",
+     "ことにしました",
+     "ようにしました",
+     "はずがありません"
+    ],
+    "answer": 0,
+    "en": "By company order, I am going to America."
+   },
+   {
+    "q": "{会議|かいぎ}は{来週|らいしゅう}の{月曜日|げつようび}に{行|おこな}う＿＿なりました。",
+    "options": [
+     "ことに",
+     "わけに",
+     "ほどに",
+     "ために"
+    ],
+    "answer": 0,
+    "en": "It's been decided that the meeting will be held next Monday."
+   },
+   {
+    "q": "{部長|ぶちょう}が{決|き}めたので、{私|わたし}が{発表|はっぴょう}する＿＿。",
+    "options": [
+     "ばかりだ",
+     "ことにした",
+     "ようにした",
+     "ことになった"
+    ],
+    "answer": 3,
+    "en": "The manager decided, so I'm going to give the presentation."
+   }
+  ]
+ },
+ {
+  "id": "g3-007",
+  "level": 3,
+  "title_raw": "～ことにしている",
+  "meaning": "to make it a rule to ~",
+  "structure": "Verb dictionary / ない form + ことにしている",
+  "explain": "Shows a personal rule you decided and keep doing. It is stronger than ようにしている, which is only an effort. The rule comes from you, not from outside.",
+  "examples": [
+   {
+    "jp": "{毎晩|まいばん}{寝|ね}る{前|まえ}に{日記|にっき}を{書|か}くことにしています。",
+    "en": "I make it a rule to write a diary every night before bed."
+   },
+   {
+    "jp": "{週末|しゅうまつ}は{仕事|しごと}のメールを{見|み}ないことにしている。",
+    "en": "I make it a rule not to look at work email on weekends."
+   },
+   {
+    "jp": "{朝|あさ}ごはんは{必|かなら}ず{食|た}べることにしています。",
+    "en": "I make it a rule to always eat breakfast."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{私|わたし}は{毎朝|まいあさ}ジョギングをする＿＿。",
+    "options": [
+     "ところだ",
+     "ばかりだ",
+     "ことにしている",
+     "わけがない"
+    ],
+    "answer": 2,
+    "en": "I make it a rule to go jogging every morning."
+   },
+   {
+    "q": "{夜|よる}9{時|じ}{以降|いこう}は{何|なに}も{食|た}べない＿＿している。",
+    "options": [
+     "ために",
+     "ことに",
+     "ばかりに",
+     "ところに"
+    ],
+    "answer": 1,
+    "en": "I make it a rule not to eat anything after 9 p.m."
+   },
+   {
+    "q": "{借|か}りたお{金|かね}はすぐ{返|かえ}す＿＿しています。",
+    "options": [
+     "ほどに",
+     "ことに",
+     "はずに",
+     "わけに"
+    ],
+    "answer": 1,
+    "en": "I make it a rule to pay back borrowed money right away."
+   }
+  ]
+ },
+ {
+  "id": "g3-008",
+  "level": 3,
+  "title_raw": "～ことになっている",
+  "meaning": "it is a rule that ~; it is scheduled that ~",
+  "structure": "Verb dictionary / ない form + ことになっている",
+  "explain": "Shows a rule, custom, or plan set by others, such as a school or company. Compare ことにしている, which is your own personal rule.",
+  "examples": [
+   {
+    "jp": "この{寮|りょう}では、10{時|じ}までに{帰|かえ}ることになっています。",
+    "en": "In this dorm, the rule is that you must return by 10 o'clock."
+   },
+   {
+    "jp": "{教室|きょうしつ}で{物|もの}を{食|た}べてはいけないことになっている。",
+    "en": "It's a rule that you must not eat in the classroom."
+   },
+   {
+    "jp": "{明日|あした}、{社長|しゃちょう}と{会|あ}うことになっています。",
+    "en": "I'm scheduled to meet the company president tomorrow."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{日本|にほん}では、{家|いえ}に{入|はい}る{時|とき}{靴|くつ}を{脱|ぬ}ぐ＿＿。",
+    "options": [
+     "ことになっている",
+     "ばかりいる",
+     "はずがない",
+     "わけがない"
+    ],
+    "answer": 0,
+    "en": "In Japan, the custom is to take off your shoes when entering a house."
+   },
+   {
+    "q": "この{会社|かいしゃ}では、{休|やす}む{時|とき}は{前日|ぜんじつ}に{連絡|れんらく}する＿＿なっている。",
+    "options": [
+     "わけに",
+     "ばかりに",
+     "ために",
+     "ことに"
+    ],
+    "answer": 3,
+    "en": "At this company, the rule is to contact them the day before when taking time off."
+   },
+   {
+    "q": "{会議|かいぎ}は3{時|じ}に{始|はじ}まる＿＿。",
+    "options": [
+     "ことにしています",
+     "ようにしています",
+     "ことになっています",
+     "はずがありません"
+    ],
+    "answer": 2,
+    "en": "The meeting is scheduled to start at 3 o'clock."
+   }
+  ]
+ },
+ {
+  "id": "g3-009",
+  "level": 3,
+  "title_raw": "～ために (purpose)",
+  "meaning": "in order to ~; for ~",
+  "structure": "Verb dictionary form / Noun + の + ために",
+  "explain": "Shows a purpose with a verb you control. The subject of both parts is usually the same. Compare ように, used with potential, ない forms, or things you cannot control.",
+  "examples": [
+   {
+    "jp": "{日本|にほん}の{大学|だいがく}に{入|はい}るために、{日本語|にほんご}を{勉強|べんきょう}しています。",
+    "en": "I'm studying Japanese in order to enter a Japanese university."
+   },
+   {
+    "jp": "{家族|かぞく}のために{一生懸命|いっしょうけんめい}{働|はたら}いています。",
+    "en": "I work hard for my family."
+   },
+   {
+    "jp": "{車|くるま}を{買|か}うために、お{金|かね}をためています。",
+    "en": "I am saving money to buy a car."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{家|いえ}を{買|か}う＿＿、{毎月|まいつき}{貯金|ちょきん}しています。",
+    "options": [
+     "ほどに",
+     "ばかりに",
+     "ために",
+     "ところに"
+    ],
+    "answer": 2,
+    "en": "I save money every month in order to buy a house."
+   },
+   {
+    "q": "{健康|けんこう}の＿＿、{毎日|まいにち}{運動|うんどう}しています。",
+    "options": [
+     "ように",
+     "ために",
+     "せいで",
+     "おかげで"
+    ],
+    "answer": 1,
+    "en": "I exercise every day for my health."
+   },
+   {
+    "q": "{写真|しゃしん}を{撮|と}る＿＿、{京都|きょうと}へ{行|い}きました。",
+    "options": [
+     "ために",
+     "ことで",
+     "ようで",
+     "ほどに"
+    ],
+    "answer": 0,
+    "en": "I went to Kyoto in order to take photos."
+   }
+  ]
+ },
+ {
+  "id": "g3-010",
+  "level": 3,
+  "title_raw": "～ために (cause)",
+  "meaning": "because of ~; due to ~",
+  "structure": "Plain past form / Noun + の + ために",
+  "explain": "Gives a reason in a formal way, often in news or notices. It is neutral, unlike せいで (bad result, blame) or おかげで (good result, thanks).",
+  "examples": [
+   {
+    "jp": "{大雪|おおゆき}のために、{電車|でんしゃ}が{止|と}まりました。",
+    "en": "The trains stopped because of heavy snow."
+   },
+   {
+    "jp": "{事故|じこ}があったために、{道|みち}が{込|こ}んでいる。",
+    "en": "The road is crowded because there was an accident."
+   },
+   {
+    "jp": "{病気|びょうき}のために、{学校|がっこう}を{休|やす}みました。",
+    "en": "I was absent from school because of illness."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{台風|たいふう}の＿＿、{飛行機|ひこうき}が{飛|と}びませんでした。",
+    "options": [
+     "ところに",
+     "ように",
+     "ばかりに",
+     "ために"
+    ],
+    "answer": 3,
+    "en": "Because of the typhoon, the plane didn't fly."
+   },
+   {
+    "q": "{工事|こうじ}をしている＿＿、この{道|みち}は{通|とお}れません。",
+    "options": [
+     "ように",
+     "ほど",
+     "ばかり",
+     "ために"
+    ],
+    "answer": 3,
+    "en": "This road is closed because construction is going on."
+   },
+   {
+    "q": "{熱|ねつ}が{出|で}た＿＿、{会議|かいぎ}に{出|で}られなかった。",
+    "options": [
+     "ように",
+     "ことに",
+     "ために",
+     "わけに"
+    ],
+    "answer": 2,
+    "en": "I couldn't attend the meeting because I had a fever."
+   }
+  ]
+ },
+ {
+  "id": "g3-011",
+  "level": 3,
+  "title_raw": "～せいで",
+  "meaning": "because of ~ (bad result)",
+  "structure": "Plain form / なA-な / Noun + の + せいで",
+  "explain": "Gives a reason for a bad result and often blames someone or something. Compare おかげで (good result, thanks) and ために (neutral reason).",
+  "examples": [
+   {
+    "jp": "{寝坊|ねぼう}したせいで、{電車|でんしゃ}に{乗|の}り{遅|おく}れた。",
+    "en": "Because I overslept, I missed the train."
+   },
+   {
+    "jp": "{雨|あめ}のせいで、ピクニックが{中止|ちゅうし}になりました。",
+    "en": "The picnic was cancelled because of the rain."
+   },
+   {
+    "jp": "{風邪|かぜ}を{引|ひ}いたのは{君|きみ}のせいだよ。",
+    "en": "It's your fault I caught a cold."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{甘|あま}いものを{食|た}べすぎた＿＿、{太|ふと}ってしまった。",
+    "options": [
+     "おかげで",
+     "せいで",
+     "ように",
+     "ところで"
+    ],
+    "answer": 1,
+    "en": "I gained weight because I ate too many sweets."
+   },
+   {
+    "q": "{隣|となり}の{部屋|へや}がうるさい＿＿、{全然|ぜんぜん}{眠|ねむ}れなかった。",
+    "options": [
+     "せいで",
+     "ように",
+     "おかげで",
+     "ほど"
+    ],
+    "answer": 0,
+    "en": "I couldn't sleep at all because the next room was noisy."
+   },
+   {
+    "q": "{失敗|しっぱい}したのは{私|わたし}の＿＿です。すみません。",
+    "options": [
+     "せい",
+     "おかげ",
+     "ため",
+     "はず"
+    ],
+    "answer": 0,
+    "en": "The failure is my fault. I'm sorry."
+   }
+  ]
+ },
+ {
+  "id": "g3-012",
+  "level": 3,
+  "title_raw": "～おかげで",
+  "meaning": "thanks to ~ (good result)",
+  "structure": "Plain form / なA-な / Noun + の + おかげで",
+  "explain": "Gives a reason for a good result and shows thanks. Used with a bad result, it sounds sarcastic. Compare せいで, which is for bad results.",
+  "examples": [
+   {
+    "jp": "{先生|せんせい}のおかげで、{試験|しけん}に{合格|ごうかく}できました。",
+    "en": "Thanks to my teacher, I was able to pass the exam."
+   },
+   {
+    "jp": "{薬|くすり}を{飲|の}んだおかげで、{熱|ねつ}が{下|さ}がった。",
+    "en": "Thanks to taking the medicine, my fever went down."
+   },
+   {
+    "jp": "{駅|えき}が{近|ちか}いおかげで、{通勤|つうきん}が{楽|らく}です。",
+    "en": "Thanks to the station being close, commuting is easy."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{友|とも}だちが{手伝|てつだ}ってくれた＿＿、{早|はや}く{終|お}わりました。",
+    "options": [
+     "せいで",
+     "わりに",
+     "くせに",
+     "おかげで"
+    ],
+    "answer": 3,
+    "en": "Thanks to my friend helping me, I finished early."
+   },
+   {
+    "q": "{天気|てんき}がよかった＿＿、{富士山|ふじさん}がきれいに{見|み}えた。",
+    "options": [
+     "ように",
+     "せいで",
+     "おかげで",
+     "くせに"
+    ],
+    "answer": 2,
+    "en": "Thanks to the good weather, I could see Mt. Fuji clearly."
+   },
+   {
+    "q": "みなさんの＿＿、いいイベントになりました。",
+    "options": [
+     "せい",
+     "おかげ",
+     "はず",
+     "ばかり"
+    ],
+    "answer": 1,
+    "en": "Thanks to everyone, it became a good event."
+   }
+  ]
+ },
+ {
+  "id": "g3-013",
+  "level": 3,
+  "title_raw": "～によって／による",
+  "meaning": "depending on ~; by means of ~; caused by ~",
+  "structure": "Noun + によって (+ verb) ／ Noun + による + Noun",
+  "explain": "Has several uses: \"depends on\" ({人|ひと}によって), \"caused by\" ({事故|じこ}による), and the doer in passive sentences about creating things (この{絵|え}はピカソによって{描|か}かれた). It sounds a bit formal.",
+  "examples": [
+   {
+    "jp": "{人|ひと}によって{考|かんが}え{方|かた}が{違|ちが}います。",
+    "en": "Ways of thinking differ from person to person."
+   },
+   {
+    "jp": "{地震|じしん}による{被害|ひがい}が{大|おお}きかった。",
+    "en": "The damage caused by the earthquake was large."
+   },
+   {
+    "jp": "この{寺|てら}は{有名|ゆうめい}な{人|ひと}によって{建|た}てられました。",
+    "en": "This temple was built by a famous person."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{国|くに}＿＿、{文化|ぶんか}や{習慣|しゅうかん}が{違|ちが}う。",
+    "options": [
+     "について",
+     "によって",
+     "にとって",
+     "として"
+    ],
+    "answer": 1,
+    "en": "Culture and customs differ depending on the country."
+   },
+   {
+    "q": "{台風|たいふう}＿＿{被害|ひがい}が{出|で}ています。",
+    "options": [
+     "による",
+     "にとって",
+     "について",
+     "として"
+    ],
+    "answer": 0,
+    "en": "There is damage caused by the typhoon."
+   },
+   {
+    "q": "『{源氏物語|げんじものがたり}』は{紫式部|むらさきしきぶ}＿＿{書|か}かれた。",
+    "options": [
+     "にとって",
+     "について",
+     "に{対|たい}して",
+     "によって"
+    ],
+    "answer": 3,
+    "en": "The Tale of Genji was written by Murasaki Shikibu."
+   }
+  ]
+ },
+ {
+  "id": "g3-014",
+  "level": 3,
+  "title_raw": "～によると／によれば",
+  "meaning": "according to ~",
+  "structure": "Noun + によると、～そうだ／らしい／ということだ",
+  "explain": "Gives the source of information. The sentence usually ends with そうだ, らしい, or ということだ to show it is hearsay. Do not mix it up with によって (depending on / by).",
+  "examples": [
+   {
+    "jp": "{天気予報|てんきよほう}によると、{明日|あした}は{雨|あめ}だそうです。",
+    "en": "According to the weather forecast, it will rain tomorrow."
+   },
+   {
+    "jp": "ニュースによれば、{犯人|はんにん}はまだ{見|み}つかっていないらしい。",
+    "en": "According to the news, the criminal still hasn't been found."
+   },
+   {
+    "jp": "{田中|たなか}さんの{話|はなし}によると、{山田|やまだ}さんは{結婚|けっこん}するそうだ。",
+    "en": "According to Tanaka, Yamada is getting married."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{新聞|しんぶん}＿＿、{電車|でんしゃ}の{料金|りょうきん}が{上|あ}がるそうです。",
+    "options": [
+     "によって",
+     "にとって",
+     "によると",
+     "について"
+    ],
+    "answer": 2,
+    "en": "According to the newspaper, train fares are going up."
+   },
+   {
+    "q": "{友|とも}だちの{話|はなし}によると、あの{店|みせ}はおいしい＿＿。",
+    "options": [
+     "ことにする",
+     "ようにする",
+     "そうだ",
+     "わけがない"
+    ],
+    "answer": 2,
+    "en": "According to my friend, that restaurant is good."
+   },
+   {
+    "q": "{調査|ちょうさ}に＿＿、{若者|わかもの}の{読書|どくしょ}{時間|じかん}が{減|へ}っているそうだ。",
+    "options": [
+     "とって",
+     "よれば",
+     "ついて",
+     "{対|たい}して"
+    ],
+    "answer": 1,
+    "en": "According to the survey, young people's reading time is decreasing."
+   }
+  ]
+ },
+ {
+  "id": "g3-015",
+  "level": 3,
+  "title_raw": "～らしい (hearsay / guess)",
+  "meaning": "it seems that ~; I heard that ~",
+  "structure": "Plain form (なA / Noun: no だ) + らしい",
+  "explain": "Shows a guess based on what you heard or saw, so the speaker is not fully sure. It is more casual and less direct than そうだ (hearsay). Compare ようだ, which is based more on your own observation.",
+  "examples": [
+   {
+    "jp": "{山田|やまだ}さんは{会社|かいしゃ}を{辞|や}めるらしい。",
+    "en": "I heard that Yamada is quitting the company."
+   },
+   {
+    "jp": "{外|そと}は{寒|さむ}いらしいですよ。",
+    "en": "It seems it's cold outside."
+   },
+   {
+    "jp": "あの{店|みせ}は{来月|らいげつ}{閉店|へいてん}するらしいです。",
+    "en": "Apparently that shop is closing next month."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{噂|うわさ}では、{彼|かれ}は{来年|らいねん}{結婚|けっこん}する＿＿。",
+    "options": [
+     "らしい",
+     "っぽい",
+     "ように",
+     "ばかり"
+    ],
+    "answer": 0,
+    "en": "The rumor is that he's getting married next year."
+   },
+   {
+    "q": "{道|みち}が{濡|ぬ}れている。{夜|よる}、{雨|あめ}が{降|ふ}った＿＿。",
+    "options": [
+     "ように",
+     "ことに",
+     "ほど",
+     "らしい"
+    ],
+    "answer": 3,
+    "en": "The road is wet. It seems it rained at night."
+   },
+   {
+    "q": "{田中|たなか}さんは{病気|びょうき}＿＿よ。{今日|きょう}{休|やす}みだって。",
+    "options": [
+     "だらしい",
+     "のらしい",
+     "ならしい",
+     "らしい"
+    ],
+    "answer": 3,
+    "en": "Apparently Tanaka is sick. He's off today."
+   }
+  ]
+ },
+ {
+  "id": "g3-016",
+  "level": 3,
+  "title_raw": "Noun + らしい (typical)",
+  "meaning": "typical of ~; like a real ~",
+  "structure": "Noun + らしい (+ Noun)",
+  "explain": "Means something has the typical good qualities of that thing: {男|おとこ}らしい = manly. {子|こ}どもらしい = childlike in a good way. Compare っぽい, which means \"~ish\" and is often negative or casual.",
+  "examples": [
+   {
+    "jp": "{今日|きょう}は{春|はる}らしい{暖|あたた}かい{日|ひ}ですね。",
+    "en": "Today is a warm, spring-like day."
+   },
+   {
+    "jp": "そんなことを{言|い}うなんて、{君|きみ}らしくないね。",
+    "en": "Saying that kind of thing isn't like you."
+   },
+   {
+    "jp": "{彼女|かのじょ}はとても{女性|じょせい}らしい{人|ひと}です。",
+    "en": "She is a very feminine person."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{今日|きょう}は{本当|ほんとう}に{夏|なつ}＿＿{天気|てんき}ですね。",
+    "options": [
+     "っぽく",
+     "みたいに",
+     "らしい",
+     "ように"
+    ],
+    "answer": 2,
+    "en": "Today really is typical summer weather."
+   },
+   {
+    "q": "いつも{元気|げんき}な{彼|かれ}が{静|しず}かだ。{彼|かれ}＿＿。",
+    "options": [
+     "らしい",
+     "らしくない",
+     "っぽい",
+     "ようだ"
+    ],
+    "answer": 1,
+    "en": "He's usually energetic but he's quiet. That's not like him."
+   },
+   {
+    "q": "もっと{学生|がくせい}＿＿{服|ふく}を{着|き}なさい。",
+    "options": [
+     "らしい",
+     "みたい",
+     "っぽさ",
+     "ようで"
+    ],
+    "answer": 0,
+    "en": "Wear clothes more suitable for a student."
+   }
+  ]
+ },
+ {
+  "id": "g3-017",
+  "level": 3,
+  "title_raw": "～っぽい",
+  "meaning": "~ish; tends to ~; looks like ~",
+  "structure": "Noun / V-ます stem / いA stem + っぽい",
+  "explain": "Casual. It means \"has the feel of ~\" ({子|こ}どもっぽい = childish) or \"tends to ~\" ({忘|わす}れっぽい = forgetful). It often sounds negative. Compare Noun+らしい, which means a good, typical example.",
+  "examples": [
+   {
+    "jp": "{最近|さいきん}、{忘|わす}れっぽくなりました。",
+    "en": "I've become forgetful lately."
+   },
+   {
+    "jp": "{彼|かれ}は{大人|おとな}なのに、{子|こ}どもっぽい。",
+    "en": "He's an adult, but he's childish."
+   },
+   {
+    "jp": "この{服|ふく}、ちょっと{安|やす}っぽいね。",
+    "en": "These clothes look a bit cheap."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{兄|あに}は{怒|おこ}り＿＿{性格|せいかく}です。",
+    "options": [
+     "っぽい",
+     "らしい",
+     "みたい",
+     "ように"
+    ],
+    "answer": 0,
+    "en": "My older brother has a short temper."
+   },
+   {
+    "q": "{熱|ねつ}＿＿から、{今日|きょう}は{休|やす}みます。",
+    "options": [
+     "らしくない",
+     "はず",
+     "ばかり",
+     "っぽい"
+    ],
+    "answer": 3,
+    "en": "I feel a bit feverish, so I'll take today off."
+   },
+   {
+    "q": "その{黒|くろ}＿＿シャツ、かっこいいね。",
+    "options": [
+     "らしい",
+     "みたいに",
+     "っぽい",
+     "ように"
+    ],
+    "answer": 2,
+    "en": "That blackish shirt looks cool."
+   }
+  ]
+ },
+ {
+  "id": "g3-018",
+  "level": 3,
+  "title_raw": "～みたいだ／みたいな",
+  "meaning": "it seems ~; like ~",
+  "structure": "Plain form (なA / Noun: no だ) + みたいだ ／ Noun + みたいな + Noun",
+  "explain": "The casual form of ようだ. It shows a guess from what you see (It seems...) or a comparison (like ~). みたいに goes before verbs and adjectives.",
+  "examples": [
+   {
+    "jp": "{誰|だれ}もいないみたいです。",
+    "en": "It seems no one is here."
+   },
+   {
+    "jp": "{夢|ゆめ}みたいな{話|はなし}ですね。",
+    "en": "That sounds like a dream."
+   },
+   {
+    "jp": "{彼|かれ}は{日本人|にほんじん}みたいに{日本語|にほんご}を{話|はな}す。",
+    "en": "He speaks Japanese like a Japanese person."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{電気|でんき}が{消|き}えている。{留守|るす}＿＿。",
+    "options": [
+     "っぽいだ",
+     "みたいだ",
+     "ばかりだ",
+     "ことだ"
+    ],
+    "answer": 1,
+    "en": "The lights are off. It seems nobody is home."
+   },
+   {
+    "q": "{夢|ゆめ}＿＿{話|はなし}ですね。",
+    "options": [
+     "みたいに",
+     "みたいな",
+     "みたいだ",
+     "らしく"
+    ],
+    "answer": 1,
+    "en": "That sounds like a dream."
+   },
+   {
+    "q": "{彼女|かのじょ}は{子|こ}ども＿＿{笑|わら}った。",
+    "options": [
+     "みたいに",
+     "みたいな",
+     "みたいだ",
+     "らしい"
+    ],
+    "answer": 0,
+    "en": "She laughed like a child."
+   }
+  ]
+ },
+ {
+  "id": "g3-019",
+  "level": 3,
+  "title_raw": "～ように／ような (like)",
+  "meaning": "like ~; as ~",
+  "structure": "Noun + の + ように (+ verb/adjective) ／ Noun + の + ような + Noun ／ Verb + ように",
+  "explain": "Compares or gives an example, more formal than みたい. ように goes before verbs/adjectives; ような goes before nouns. Verb + ように can also mean \"as\": {言|い}ったように (as I said).",
+  "examples": [
+   {
+    "jp": "{彼女|かのじょ}は{花|はな}のようにきれいだ。",
+    "en": "She is as beautiful as a flower."
+   },
+   {
+    "jp": "{先生|せんせい}が{言|い}ったように、{練習|れんしゅう}が{大切|たいせつ}です。",
+    "en": "As the teacher said, practice is important."
+   },
+   {
+    "jp": "{天|てん}ぷらのような{揚|あ}げ{物|もの}が{好|す}きです。",
+    "en": "I like fried foods such as tempura."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{氷|こおり}の＿＿{冷|つめ}たい{手|て}ですね。",
+    "options": [
+     "みたい",
+     "ばかり",
+     "らしい",
+     "ように"
+    ],
+    "answer": 3,
+    "en": "Your hands are as cold as ice."
+   },
+   {
+    "q": "{前|まえ}にも{説明|せつめい}した＿＿、{明日|あした}は{休|やす}みです。",
+    "options": [
+     "ような",
+     "らしく",
+     "ように",
+     "みたいな"
+    ],
+    "answer": 2,
+    "en": "As I explained before, tomorrow is a holiday."
+   },
+   {
+    "q": "{東京|とうきょう}の＿＿{大|おお}きい{町|まち}に{住|す}みたい。",
+    "options": [
+     "らしく",
+     "ように",
+     "ような",
+     "っぽく"
+    ],
+    "answer": 2,
+    "en": "I want to live in a big city like Tokyo."
+   }
+  ]
+ },
+ {
+  "id": "g3-020",
+  "level": 3,
+  "title_raw": "～ばかり (only / all)",
+  "meaning": "nothing but ~; only ~",
+  "structure": "Noun + ばかり ／ Verb て-form + ばかりいる",
+  "explain": "Shows that something happens too much, often with a complaint. てばかりいる means \"does nothing but ~\". Compare だけ, which is neutral \"only\".",
+  "examples": [
+   {
+    "jp": "{弟|おとうと}はゲームばかりしています。",
+    "en": "My younger brother does nothing but play games."
+   },
+   {
+    "jp": "{彼|かれ}は{文句|もんく}を{言|い}ってばかりいる。",
+    "en": "He's always complaining."
+   },
+   {
+    "jp": "{最近|さいきん}、{雨|あめ}ばかりですね。",
+    "en": "It's been nothing but rain lately."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{寝|ね}て＿＿いないで、{勉強|べんきょう}しなさい。",
+    "options": [
+     "だけで",
+     "ばかり",
+     "ほど",
+     "しか"
+    ],
+    "answer": 1,
+    "en": "Stop just sleeping and study."
+   },
+   {
+    "q": "{彼|かれ}は{肉|にく}＿＿{食|た}べて、{野菜|やさい}を{食|た}べない。",
+    "options": [
+     "ばかり",
+     "ほど",
+     "くらい",
+     "さえ"
+    ],
+    "answer": 0,
+    "en": "He eats nothing but meat and doesn't eat vegetables."
+   },
+   {
+    "q": "{妹|いもうと}は{泣|な}いて＿＿。",
+    "options": [
+     "ばかりだ",
+     "ばかりある",
+     "ばかりなる",
+     "ばかりいる"
+    ],
+    "answer": 3,
+    "en": "My younger sister does nothing but cry."
+   }
+  ]
+ },
+ {
+  "id": "g3-021",
+  "level": 3,
+  "title_raw": "～たばかり",
+  "meaning": "just did ~",
+  "structure": "Verb た-form + ばかり",
+  "explain": "Means only a short time has passed since the action, in the speaker's feeling. It can be days or months. Compare たところ, which means literally just a moment ago.",
+  "examples": [
+   {
+    "jp": "{日本|にほん}に{来|き}たばかりなので、まだ{日本語|にほんご}が{下手|へた}です。",
+    "en": "I just came to Japan, so my Japanese is still poor."
+   },
+   {
+    "jp": "{買|か}ったばかりのスマホを{落|お}としてしまった。",
+    "en": "I dropped the smartphone I had just bought."
+   },
+   {
+    "jp": "{今|いま}{起|お}きたばかりです。",
+    "en": "I just got up."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "このパンは{焼|や}いた＿＿で、まだ{温|あたた}かい。",
+    "options": [
+     "まま",
+     "ところ",
+     "ほど",
+     "ばかり"
+    ],
+    "answer": 3,
+    "en": "This bread was just baked, so it's still warm."
+   },
+   {
+    "q": "{先月|せんげつ}{入社|にゅうしゃ}した＿＿なので、わからないことが{多|おお}い。",
+    "options": [
+     "ところ",
+     "うち",
+     "ばかり",
+     "まま"
+    ],
+    "answer": 2,
+    "en": "I just joined the company last month, so there's a lot I don't understand."
+   },
+   {
+    "q": "さっき{食|た}べた＿＿なのに、もうおなかがすいた。",
+    "options": [
+     "まま",
+     "ばかり",
+     "ほど",
+     "ため"
+    ],
+    "answer": 1,
+    "en": "I just ate a little while ago, but I'm already hungry."
+   }
+  ]
+ },
+ {
+  "id": "g3-022",
+  "level": 3,
+  "title_raw": "～るところだ",
+  "meaning": "to be about to ~",
+  "structure": "Verb dictionary form + ところだ",
+  "explain": "Shows that an action will start very soon. Often used with ちょうど or これから. Compare ているところ (in the middle of) and たところ (just finished).",
+  "examples": [
+   {
+    "jp": "これから{出|で}かけるところです。",
+    "en": "I'm just about to go out."
+   },
+   {
+    "jp": "ちょうど{電話|でんわ}しようと{思|おも}っていたところだ。",
+    "en": "I was just about to call you."
+   },
+   {
+    "jp": "{今|いま}から{晩|ばん}ごはんを{作|つく}るところです。",
+    "en": "I'm about to make dinner now."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{今|いま}から{家|いえ}を{出|で}る＿＿です。",
+    "options": [
+     "ところ",
+     "ばかり",
+     "はず",
+     "まま"
+    ],
+    "answer": 0,
+    "en": "I'm about to leave home now."
+   },
+   {
+    "q": "ちょうど{会議|かいぎ}が{始|はじ}まる＿＿だから、{後|あと}で{電話|でんわ}するね。",
+    "options": [
+     "ところ",
+     "うち",
+     "ばかり",
+     "とおり"
+    ],
+    "answer": 0,
+    "en": "The meeting is just about to start, so I'll call you later."
+   },
+   {
+    "q": "A：もう{寝|ね}た？　B：ううん、これから＿＿ところ。",
+    "options": [
+     "{寝|ね}た",
+     "{寝|ね}よう",
+     "{寝|ね}ている",
+     "{寝|ね}る"
+    ],
+    "answer": 3,
+    "en": "A: Did you go to bed already? B: No, I'm just about to."
+   }
+  ]
+ },
+ {
+  "id": "g3-023",
+  "level": 3,
+  "title_raw": "～ているところだ",
+  "meaning": "to be in the middle of ~",
+  "structure": "Verb て-form + いるところだ",
+  "explain": "Shows an action that is happening right now. It is stronger than plain ている because it stresses \"at this very moment\". Compare るところ (about to) and たところ (just did).",
+  "examples": [
+   {
+    "jp": "{今|いま}、{宿題|しゅくだい}をしているところです。",
+    "en": "I'm in the middle of doing my homework now."
+   },
+   {
+    "jp": "{母|はは}は{料理|りょうり}をしているところだ。",
+    "en": "My mother is cooking right now."
+   },
+   {
+    "jp": "{今|いま}{調|しら}べているところなので、もう{少|すこ}し{待|ま}ってください。",
+    "en": "I'm checking it right now, so please wait a little longer."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "すみません、{今|いま}{電話|でんわ}をしている＿＿なので、{後|あと}でいいですか。",
+    "options": [
+     "ばかり",
+     "まま",
+     "ところ",
+     "ため"
+    ],
+    "answer": 2,
+    "en": "Sorry, I'm on the phone right now, so can it wait?"
+   },
+   {
+    "q": "A：レポートは？　B：{今|いま}＿＿ところです。",
+    "options": [
+     "{書|か}く",
+     "{書|か}いている",
+     "{書|か}こう",
+     "{書|か}いた"
+    ],
+    "answer": 1,
+    "en": "A: How's the report? B: I'm writing it right now."
+   },
+   {
+    "q": "{犬|いぬ}が{寝|ね}ている＿＿だから、{静|しず}かにして。",
+    "options": [
+     "ばかり",
+     "ところ",
+     "うち",
+     "はず"
+    ],
+    "answer": 1,
+    "en": "The dog is sleeping right now, so be quiet."
+   }
+  ]
+ },
+ {
+  "id": "g3-024",
+  "level": 3,
+  "title_raw": "～たところだ",
+  "meaning": "just finished ~",
+  "structure": "Verb た-form + ところだ",
+  "explain": "Shows that an action ended a moment ago. It is about real, very recent time. Compare たばかり, which can be weeks or months ago if it feels recent.",
+  "examples": [
+   {
+    "jp": "{今|いま}、{駅|えき}に{着|つ}いたところです。",
+    "en": "I just arrived at the station."
+   },
+   {
+    "jp": "ちょうど{仕事|しごと}が{終|お}わったところだ。",
+    "en": "I just finished work."
+   },
+   {
+    "jp": "{今|いま}{帰|かえ}ってきたところです。",
+    "en": "I've just come home."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "A：もう{昼|ひる}ごはん{食|た}べた？　B：うん、{今|いま}{食|た}べた＿＿だよ。",
+    "options": [
+     "ところ",
+     "うち",
+     "まま",
+     "ほど"
+    ],
+    "answer": 0,
+    "en": "A: Did you eat lunch already? B: Yeah, I just ate."
+   },
+   {
+    "q": "{今|いま}{会議|かいぎ}が＿＿ところなので、{電話|でんわ}できます。",
+    "options": [
+     "{終|お}わる",
+     "{終|お}わろう",
+     "{終|お}わっている",
+     "{終|お}わった"
+    ],
+    "answer": 3,
+    "en": "The meeting just ended, so I can call."
+   },
+   {
+    "q": "バスはたった{今|いま}{出|で}た＿＿です。",
+    "options": [
+     "うち",
+     "まま",
+     "ところ",
+     "ため"
+    ],
+    "answer": 2,
+    "en": "The bus has just left."
+   }
+  ]
+ },
+ {
+  "id": "g3-025",
+  "level": 3,
+  "title_raw": "～ところに／ところへ",
+  "meaning": "just when ~ (something happened)",
+  "structure": "Verb (ている／た／る) + ところに／ところへ",
+  "explain": "Shows that something happened just at that moment, often interrupting. The second part is usually something that came or happened, like {来|く}る or {電話|でんわ}がある.",
+  "examples": [
+   {
+    "jp": "{出|で}かけようとしたところに、{友|とも}だちが{来|き}た。",
+    "en": "Just as I was about to go out, a friend came."
+   },
+   {
+    "jp": "{寝|ね}ているところへ{電話|でんわ}がかかってきた。",
+    "en": "The phone rang just while I was sleeping."
+   },
+   {
+    "jp": "{困|こま}っているところに、{先生|せんせい}が{助|たす}けに{来|き}てくれた。",
+    "en": "Just when I was in trouble, the teacher came to help."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{家|いえ}を{出|で}る＿＿、{雨|あめ}が{降|ふ}ってきた。",
+    "options": [
+     "ために",
+     "ばかりに",
+     "ところに",
+     "ように"
+    ],
+    "answer": 2,
+    "en": "Just as I was leaving home, it started to rain."
+   },
+   {
+    "q": "シャワーを{浴|あ}びている＿＿{宅配便|たくはいびん}が{来|き}た。",
+    "options": [
+     "ばかりへ",
+     "ところへ",
+     "うちへ",
+     "ためへ"
+    ],
+    "answer": 1,
+    "en": "The delivery came just while I was taking a shower."
+   },
+   {
+    "q": "{話|はな}している＿＿、{本人|ほんにん}が{入|はい}ってきた。",
+    "options": [
+     "ところに",
+     "わりに",
+     "ように",
+     "せいで"
+    ],
+    "answer": 0,
+    "en": "Just as we were talking about him, the man himself walked in."
+   }
+  ]
+ },
+ {
+  "id": "g3-026",
+  "level": 3,
+  "title_raw": "～うちに",
+  "meaning": "while ~; before ~ changes",
+  "structure": "Verb dictionary / ている form / いA / なA-な / Noun + の + うちに",
+  "explain": "Means do something during a time while a state lasts, because later it may be harder. ないうちに means \"before ~ happens\". Compare {間|あいだ}に, which is just a time period with no feeling of urgency.",
+  "examples": [
+   {
+    "jp": "{若|わか}いうちに、いろいろな{国|くに}へ{行|い}きたい。",
+    "en": "I want to go to various countries while I'm young."
+   },
+   {
+    "jp": "{温|あたた}かいうちに{食|た}べてください。",
+    "en": "Please eat it while it's hot."
+   },
+   {
+    "jp": "{日本|にほん}にいるうちに、{富士山|ふじさん}に{登|のぼ}りたい。",
+    "en": "I want to climb Mt. Fuji while I'm in Japan."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{明|あか}るい＿＿、{家|いえ}に{帰|かえ}りましょう。",
+    "options": [
+     "ところで",
+     "あとで",
+     "までに",
+     "うちに"
+    ],
+    "answer": 3,
+    "en": "Let's go home while it's still light."
+   },
+   {
+    "q": "{忘|わす}れない＿＿、メモしておこう。",
+    "options": [
+     "ばかりに",
+     "までに",
+     "ほどに",
+     "うちに"
+    ],
+    "answer": 3,
+    "en": "Let me write it down before I forget."
+   },
+   {
+    "q": "{独身|どくしん}の＿＿、{好|す}きなことをしたい。",
+    "options": [
+     "ほど",
+     "とおり",
+     "うちに",
+     "くせに"
+    ],
+    "answer": 2,
+    "en": "While I'm single, I want to do things I like."
+   }
+  ]
+ },
+ {
+  "id": "g3-027",
+  "level": 3,
+  "title_raw": "～ないうちに",
+  "meaning": "before ~ (happens)",
+  "structure": "Verb ない form + うちに",
+  "explain": "Means do something before a change happens, often a bad one: before it gets dark, before it rains. It is a common set phrase from うちに.",
+  "examples": [
+   {
+    "jp": "{暗|くら}くならないうちに{帰|かえ}りましょう。",
+    "en": "Let's go home before it gets dark."
+   },
+   {
+    "jp": "{雨|あめ}が{降|ふ}らないうちに、{洗濯物|せんたくもの}を{入|い}れて。",
+    "en": "Bring the laundry in before it rains."
+   },
+   {
+    "jp": "{知|し}らないうちに、{寝|ね}てしまった。",
+    "en": "I fell asleep without realizing it."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{冷|さ}め＿＿うちに、どうぞ。",
+    "options": [
+     "る",
+     "ない",
+     "た",
+     "て"
+    ],
+    "answer": 1,
+    "en": "Please have it before it gets cold."
+   },
+   {
+    "q": "{先生|せんせい}が{来|こ}ない＿＿、{教室|きょうしつ}を{片付|かたづ}けよう。",
+    "options": [
+     "うちに",
+     "あいだ",
+     "までに",
+     "あとで"
+    ],
+    "answer": 0,
+    "en": "Let's tidy the classroom before the teacher comes."
+   },
+   {
+    "q": "{気|き}がつかない＿＿、{夜|よる}になっていた。",
+    "options": [
+     "うちに",
+     "ために",
+     "くせに",
+     "ばかりに"
+    ],
+    "answer": 0,
+    "en": "Before I noticed, it had become night."
+   }
+  ]
+ },
+ {
+  "id": "g3-028",
+  "level": 3,
+  "title_raw": "～間／～間に",
+  "meaning": "during ~; while ~",
+  "structure": "Verb dictionary / ている form / Noun + の + {間|あいだ}（に）",
+  "explain": "{間|あいだ} means the action continues during the whole period. {間|あいだ}に means the action happens at some point within the period. Compare うちに, which adds a feeling of \"before it is too late\".",
+  "examples": [
+   {
+    "jp": "{夏休|なつやす}みの{間|あいだ}、ずっと{国|くに}に{帰|かえ}っていました。",
+    "en": "I was back in my country for the whole summer vacation."
+   },
+   {
+    "jp": "{私|わたし}が{寝|ね}ている{間|あいだ}に、{誰|だれ}かが{来|き}た。",
+    "en": "Someone came while I was sleeping."
+   },
+   {
+    "jp": "{電車|でんしゃ}に{乗|の}っている{間|あいだ}、{本|ほん}を{読|よ}んでいた。",
+    "en": "I read a book while I was on the train."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{留守|るす}の＿＿、{猫|ねこ}の{世話|せわ}をお{願|ねが}いします。",
+    "options": [
+     "ほど",
+     "うちで",
+     "まで",
+     "{間|あいだ}"
+    ],
+    "answer": 3,
+    "en": "Please look after the cat while I'm away."
+   },
+   {
+    "q": "{母|はは}が{買|か}い{物|もの}している＿＿、{部屋|へや}を{掃除|そうじ}した。",
+    "options": [
+     "{間|あいだ}で",
+     "{間|あいだ}を",
+     "{間|あいだ}に",
+     "{間|あいだ}の"
+    ],
+    "answer": 2,
+    "en": "I cleaned the room while my mother was shopping."
+   },
+   {
+    "q": "{授業|じゅぎょう}の＿＿ずっと{眠|ねむ}かった。",
+    "options": [
+     "{間|あいだ}に",
+     "{間|あいだ}",
+     "までに",
+     "うちに"
+    ],
+    "answer": 1,
+    "en": "I was sleepy all through the class."
+   }
+  ]
+ },
+ {
+  "id": "g3-029",
+  "level": 3,
+  "title_raw": "～最中に",
+  "meaning": "right in the middle of ~",
+  "structure": "Verb ている form / Noun + の + {最中|さいちゅう}に",
+  "explain": "Stresses that something (often unexpected) happened at the busiest point of an action. It is stronger than {間|あいだ}に or ているところに.",
+  "examples": [
+   {
+    "jp": "{会議|かいぎ}の{最中|さいちゅう}に、{電話|でんわ}が{鳴|な}った。",
+    "en": "My phone rang right in the middle of the meeting."
+   },
+   {
+    "jp": "{料理|りょうり}をしている{最中|さいちゅう}に、{停電|ていでん}した。",
+    "en": "The power went out right in the middle of cooking."
+   },
+   {
+    "jp": "{試合|しあい}の{最中|さいちゅう}に{雨|あめ}が{降|ふ}り{出|だ}した。",
+    "en": "It started to rain in the middle of the game."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{食事|しょくじ}の＿＿に、{地震|じしん}が{起|お}きた。",
+    "options": [
+     "{途中|とちゅう}で",
+     "{最中|さいちゅう}",
+     "うち",
+     "まで"
+    ],
+    "answer": 1,
+    "en": "An earthquake happened right in the middle of the meal."
+   },
+   {
+    "q": "{発表|はっぴょう}している{最中|さいちゅう}＿＿、パソコンが{止|と}まった。",
+    "options": [
+     "に",
+     "を",
+     "で",
+     "へ"
+    ],
+    "answer": 0,
+    "en": "The computer froze right in the middle of my presentation."
+   },
+   {
+    "q": "{今|いま}、{話|はな}し{合|あ}いの{最中|さいちゅう}＿＿から、{後|あと}にしてください。",
+    "options": [
+     "に",
+     "の",
+     "で",
+     "だ"
+    ],
+    "answer": 3,
+    "en": "We're in the middle of a discussion now, so please come back later."
+   }
+  ]
+ },
+ {
+  "id": "g3-030",
+  "level": 3,
+  "title_raw": "～たびに",
+  "meaning": "every time ~",
+  "structure": "Verb dictionary form / Noun + の + たびに",
+  "explain": "Means each time A happens, B also happens. B is often a feeling or a repeated result. It sounds a bit stronger than とき or と.",
+  "examples": [
+   {
+    "jp": "この{歌|うた}を{聞|き}くたびに、{国|くに}を{思|おも}い{出|だ}す。",
+    "en": "Every time I hear this song, I remember my home country."
+   },
+   {
+    "jp": "{旅行|りょこう}のたびに、お{土産|みやげ}を{買|か}います。",
+    "en": "I buy souvenirs every time I travel."
+   },
+   {
+    "jp": "{会|あ}うたびに、{彼|かれ}は{背|せ}が{高|たか}くなっている。",
+    "en": "Every time I see him, he's taller."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{写真|しゃしん}を{見|み}る＿＿、{楽|たの}しかった{日|ひ}を{思|おも}い{出|だ}す。",
+    "options": [
+     "うちに",
+     "までに",
+     "たびに",
+     "ばかりに"
+    ],
+    "answer": 2,
+    "en": "Every time I look at the photo, I remember the fun days."
+   },
+   {
+    "q": "{引|ひ}っ{越|こ}しの＿＿{物|もの}が{増|ふ}えている。",
+    "options": [
+     "ことに",
+     "ために",
+     "たびに",
+     "ほどに"
+    ],
+    "answer": 2,
+    "en": "Every time I move, I have more things."
+   },
+   {
+    "q": "{父|ちち}は{出張|しゅっちょう}に{行|い}く＿＿、お{菓子|かし}を{買|か}ってくる。",
+    "options": [
+     "うちに",
+     "たびに",
+     "ところに",
+     "あいだ"
+    ],
+    "answer": 1,
+    "en": "My father buys sweets every time he goes on a business trip."
+   }
+  ]
+ },
+ {
+  "id": "g3-031",
+  "level": 3,
+  "title_raw": "～とおり（に）",
+  "meaning": "as ~; in the same way as ~",
+  "structure": "Verb dictionary / た form + とおり（に） ／ Noun + の + とおり ／ Noun + どおり",
+  "explain": "Means doing something exactly the same way as something else: as I said, as planned. After a noun without の it becomes どおり: {予定|よてい}どおり.",
+  "examples": [
+   {
+    "jp": "{説明書|せつめいしょ}のとおりに{組|く}み{立|た}ててください。",
+    "en": "Please assemble it as the manual says."
+   },
+   {
+    "jp": "{私|わたし}が{言|い}ったとおりにやってみて。",
+    "en": "Try doing it the way I told you."
+   },
+   {
+    "jp": "{電車|でんしゃ}は{時間|じかん}どおりに{着|つ}きました。",
+    "en": "The train arrived on time."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{先生|せんせい}が{言|い}った＿＿、{書|か}いてください。",
+    "options": [
+     "とおりに",
+     "ために",
+     "ばかりに",
+     "ほどに"
+    ],
+    "answer": 0,
+    "en": "Please write it as the teacher said."
+   },
+   {
+    "q": "{計画|けいかく}＿＿に{進|すす}んでいます。",
+    "options": [
+     "とおり",
+     "まま",
+     "ばかり",
+     "どおり"
+    ],
+    "answer": 3,
+    "en": "It's going according to plan."
+   },
+   {
+    "q": "{地図|ちず}の＿＿{行|い}ったら、すぐ{着|つ}いた。",
+    "options": [
+     "せいで",
+     "ほど",
+     "まま",
+     "とおりに"
+    ],
+    "answer": 3,
+    "en": "When I went the way the map showed, I got there quickly."
+   }
+  ]
+ },
+ {
+  "id": "g3-032",
+  "level": 3,
+  "title_raw": "～まま",
+  "meaning": "as it is; leaving ~ unchanged",
+  "structure": "Verb た form / ない form / いA / なA-な / Noun + の + まま",
+  "explain": "Means a state continues without changing, often when it should have changed. Example: {電気|でんき}をつけたまま{寝|ね}た (slept with the light on).",
+  "examples": [
+   {
+    "jp": "{靴|くつ}を{履|は}いたまま{部屋|へや}に{入|はい}らないでください。",
+    "en": "Please don't enter the room with your shoes on."
+   },
+   {
+    "jp": "{窓|まど}を{開|あ}けたまま{出|で}かけてしまった。",
+    "en": "I went out leaving the window open."
+   },
+   {
+    "jp": "この{町|まち}は{昔|むかし}のままだ。",
+    "en": "This town is the same as it was long ago."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "テレビをつけた＿＿{寝|ね}てしまった。",
+    "options": [
+     "うち",
+     "ところ",
+     "まま",
+     "ばかり"
+    ],
+    "answer": 2,
+    "en": "I fell asleep with the TV on."
+   },
+   {
+    "q": "{野菜|やさい}を{切|き}らない＿＿{鍋|なべ}に{入|い}れた。",
+    "options": [
+     "ばかり",
+     "まま",
+     "うちに",
+     "ほど"
+    ],
+    "answer": 1,
+    "en": "I put the vegetables in the pot without cutting them."
+   },
+   {
+    "q": "{彼|かれ}は{子|こ}どもの{時|とき}の＿＿だ。",
+    "options": [
+     "まま",
+     "らしい",
+     "ような",
+     "みたいに"
+    ],
+    "answer": 0,
+    "en": "He's the same as when he was a child."
+   }
+  ]
+ },
+ {
+  "id": "g3-033",
+  "level": 3,
+  "title_raw": "～ながら（も）",
+  "meaning": "although ~; while ~",
+  "structure": "Verb ます stem / いA / なA / Noun + ながら（も）",
+  "explain": "Besides \"while doing\", ながら can mean \"although\": {残念|ざんねん}ながら (unfortunately), {知|し}っていながら (although I knew). It is like のに but more written. も makes it stronger.",
+  "examples": [
+   {
+    "jp": "{狭|せま}いながらも、{楽|たの}しい{我|わ}が{家|や}です。",
+    "en": "Although it's small, it's our happy home."
+   },
+   {
+    "jp": "{悪|わる}いと{知|し}りながら、うそをついてしまった。",
+    "en": "Although I knew it was wrong, I told a lie."
+   },
+   {
+    "jp": "{残念|ざんねん}ながら、{今回|こんかい}は{参加|さんか}できません。",
+    "en": "Unfortunately, I can't take part this time."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{彼|かれ}は{体|からだ}が{小|ちい}さい＿＿、とても{力|ちから}が{強|つよ}い。",
+    "options": [
+     "ながらも",
+     "ために",
+     "ように",
+     "ばかりに"
+    ],
+    "answer": 0,
+    "en": "Although he's small, he's very strong."
+   },
+   {
+    "q": "{危|あぶ}ないとわかってい＿＿、{行|い}ってしまった。",
+    "options": [
+     "まま",
+     "ために",
+     "うちに",
+     "ながら"
+    ],
+    "answer": 3,
+    "en": "Although I knew it was dangerous, I went."
+   },
+   {
+    "q": "{残念|ざんねん}＿＿、{明日|あした}のパーティーは{中止|ちゅうし}です。",
+    "options": [
+     "ために",
+     "なのに",
+     "ながら",
+     "くせに"
+    ],
+    "answer": 2,
+    "en": "Unfortunately, tomorrow's party is cancelled."
+   }
+  ]
+ },
+ {
+  "id": "g3-034",
+  "level": 3,
+  "title_raw": "～のに (although)",
+  "meaning": "even though ~; despite ~",
+  "structure": "Plain form (なA / Noun + な) + のに",
+  "explain": "Shows a result different from what you expected, often with surprise, disappointment, or complaint. Compare けど (neutral \"but\") and くせに (stronger blame of a person).",
+  "examples": [
+   {
+    "jp": "{一生懸命|いっしょうけんめい}{勉強|べんきょう}したのに、{試験|しけん}に{落|お}ちた。",
+    "en": "Even though I studied hard, I failed the exam."
+   },
+   {
+    "jp": "{日曜日|にちようび}なのに、{会社|かいしゃ}へ{行|い}かなければならない。",
+    "en": "Even though it's Sunday, I have to go to the office."
+   },
+   {
+    "jp": "{薬|くすり}を{飲|の}んだのに、まだ{頭|あたま}が{痛|いた}い。",
+    "en": "Even though I took medicine, my head still hurts."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{約束|やくそく}した＿＿、{彼|かれ}は{来|こ}なかった。",
+    "options": [
+     "ので",
+     "のに",
+     "ために",
+     "おかげで"
+    ],
+    "answer": 1,
+    "en": "Even though he promised, he didn't come."
+   },
+   {
+    "q": "{静|しず}か＿＿のに、{眠|ねむ}れない。",
+    "options": [
+     "だ",
+     "な",
+     "の",
+     "に"
+    ],
+    "answer": 1,
+    "en": "Even though it's quiet, I can't sleep."
+   },
+   {
+    "q": "{春|はる}な＿＿、まだ{寒|さむ}いですね。",
+    "options": [
+     "のに",
+     "から",
+     "ので",
+     "ため"
+    ],
+    "answer": 0,
+    "en": "Even though it's spring, it's still cold."
+   }
+  ]
+ },
+ {
+  "id": "g3-035",
+  "level": 3,
+  "title_raw": "～のに (purpose)",
+  "meaning": "for ~; in order to ~",
+  "structure": "Verb dictionary form + のに ／ Noun + に",
+  "explain": "Used with words like {使|つか}う, {便利|べんり}, {必要|ひつよう}, {時間|じかん}がかかる to show what something is used for. It describes usefulness or cost, not a goal like ために.",
+  "examples": [
+   {
+    "jp": "このはさみは{紙|かみ}を{切|き}るのに{便利|べんり}です。",
+    "en": "These scissors are handy for cutting paper."
+   },
+   {
+    "jp": "{家|いえ}を{建|た}てるのにお{金|かね}がたくさん{必要|ひつよう}だ。",
+    "en": "You need a lot of money to build a house."
+   },
+   {
+    "jp": "{駅|えき}まで{行|い}くのに30{分|ぷん}かかります。",
+    "en": "It takes 30 minutes to get to the station."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "この{鍋|なべ}はカレーを{作|つく}る＿＿ちょうどいい。",
+    "options": [
+     "ほど",
+     "ので",
+     "ように",
+     "のに"
+    ],
+    "answer": 3,
+    "en": "This pot is just right for making curry."
+   },
+   {
+    "q": "レポートを{書|か}く＿＿{三日|みっか}かかった。",
+    "options": [
+     "ために",
+     "ように",
+     "のに",
+     "ので"
+    ],
+    "answer": 2,
+    "en": "It took three days to write the report."
+   },
+   {
+    "q": "{漢字|かんじ}を{覚|おぼ}える＿＿、このアプリを{使|つか}っています。",
+    "options": [
+     "ばかりに",
+     "ほど",
+     "のに",
+     "わりに"
+    ],
+    "answer": 2,
+    "en": "I use this app for memorizing kanji."
+   }
+  ]
+ },
+ {
+  "id": "g3-036",
+  "level": 3,
+  "title_raw": "～くせに",
+  "meaning": "even though ~ (blame)",
+  "structure": "Plain form (なA / Noun + な／の) + くせに",
+  "explain": "Like のに but stronger, showing blame or disgust toward a person. The subject is usually a person, and both parts share it. It is casual and can sound rude.",
+  "examples": [
+   {
+    "jp": "{知|し}っているくせに、{教|おし}えてくれない。",
+    "en": "Even though he knows, he won't tell me."
+   },
+   {
+    "jp": "{子|こ}どものくせに、{生意気|なまいき}なことを{言|い}うな。",
+    "en": "Don't talk back, you're just a kid."
+   },
+   {
+    "jp": "{下手|へた}なくせに、いつも{歌|うた}いたがる。",
+    "en": "Even though he's bad at it, he always wants to sing."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{自分|じぶん}はやらない＿＿、{人|ひと}には{文句|もんく}を{言|い}う。",
+    "options": [
+     "おかげで",
+     "くせに",
+     "ために",
+     "ように"
+    ],
+    "answer": 1,
+    "en": "He doesn't do it himself, yet he complains about others."
+   },
+   {
+    "q": "お{金|かね}がない＿＿、{高|たか}い{服|ふく}ばかり{買|か}う。",
+    "options": [
+     "くせに",
+     "ので",
+     "ように",
+     "うちに"
+    ],
+    "answer": 0,
+    "en": "Even though she has no money, she buys only expensive clothes."
+   },
+   {
+    "q": "{男|おとこ}の＿＿、すぐ{泣|な}くなんて。",
+    "options": [
+     "ために",
+     "ように",
+     "はずに",
+     "くせに"
+    ],
+    "answer": 3,
+    "en": "Crying so easily, even though you're a man!"
+   }
+  ]
+ },
+ {
+  "id": "g3-037",
+  "level": 3,
+  "title_raw": "～わりに（は）",
+  "meaning": "considering ~; for ~",
+  "structure": "Plain form / なA-な / Noun + の + わりに",
+  "explain": "Means the result is different from what you would expect from A, either better or worse. Example: {値段|ねだん}のわりにおいしい (tasty for the price). It is less negative than のに.",
+  "examples": [
+   {
+    "jp": "この{店|みせ}は{安|やす}いわりに、おいしい。",
+    "en": "This restaurant is tasty considering it's cheap."
+   },
+   {
+    "jp": "{彼|かれ}は{年|とし}のわりに{若|わか}く{見|み}える。",
+    "en": "He looks young for his age."
+   },
+   {
+    "jp": "{勉強|べんきょう}したわりには、{点数|てんすう}が{悪|わる}かった。",
+    "en": "For how much I studied, my score was bad."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "この{部屋|へや}は{駅|えき}から{近|ちか}い＿＿{家賃|やちん}が{安|やす}い。",
+    "options": [
+     "とおり",
+     "ために",
+     "ように",
+     "わりに"
+    ],
+    "answer": 3,
+    "en": "This apartment is cheap considering it's close to the station."
+   },
+   {
+    "q": "{彼女|かのじょ}は{初心者|しょしんしゃ}の＿＿、{上手|じょうず}だ。",
+    "options": [
+     "くせに",
+     "おかげで",
+     "わりに",
+     "ように"
+    ],
+    "answer": 2,
+    "en": "She's good for a beginner."
+   },
+   {
+    "q": "{一生懸命|いっしょうけんめい}{作|つく}った＿＿は、あまり{売|う}れなかった。",
+    "options": [
+     "ために",
+     "わりに",
+     "うちに",
+     "とおり"
+    ],
+    "answer": 1,
+    "en": "For all the effort we put in, it didn't sell well."
+   }
+  ]
+ },
+ {
+  "id": "g3-038",
+  "level": 3,
+  "title_raw": "～にとって",
+  "meaning": "for ~; from ~'s point of view",
+  "structure": "Noun + にとって（は／の）",
+  "explain": "Shows whose point of view an opinion or value is from: important, difficult, necessary for someone. It is followed by a judgment. Compare に{対|たい}して, which shows the target of an action or feeling.",
+  "examples": [
+   {
+    "jp": "{私|わたし}にとって、{家族|かぞく}が{一番|いちばん}{大切|たいせつ}です。",
+    "en": "For me, my family is the most important."
+   },
+   {
+    "jp": "この{問題|もんだい}は{子|こ}どもにとって{難|むずか}しすぎる。",
+    "en": "This problem is too difficult for children."
+   },
+   {
+    "jp": "{日本人|にほんじん}にとって、お{米|こめ}は{大事|だいじ}な{食|た}べ{物|もの}だ。",
+    "en": "For Japanese people, rice is an important food."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{留学生|りゅうがくせい}＿＿、{漢字|かんじ}は{大変|たいへん}だ。",
+    "options": [
+     "にとって",
+     "に{対|たい}して",
+     "について",
+     "によって"
+    ],
+    "answer": 0,
+    "en": "For international students, kanji is tough."
+   },
+   {
+    "q": "この{写真|しゃしん}は{私|わたし}にとって{宝物|たからもの}＿＿。",
+    "options": [
+     "です",
+     "ようだ",
+     "らしく",
+     "ばかり"
+    ],
+    "answer": 0,
+    "en": "This photo is a treasure to me."
+   },
+   {
+    "q": "{社会人|しゃかいじん}＿＿、{時間|じかん}はお{金|かね}より{大切|たいせつ}だ。",
+    "options": [
+     "に{対|たい}して",
+     "によって",
+     "として",
+     "にとって"
+    ],
+    "answer": 3,
+    "en": "For working people, time is more important than money."
+   }
+  ]
+ },
+ {
+  "id": "g3-039",
+  "level": 3,
+  "title_raw": "～に対して",
+  "meaning": "toward ~; in contrast to ~",
+  "structure": "Noun + に{対|たい}して（は／も） ／ Noun + に{対|たい}する + Noun",
+  "explain": "Shows the target of an action, feeling, or attitude: {親|おや}に{対|たい}して{失礼|しつれい}. It can also contrast two things: A is ~, whereas B is ~. Compare にとって (from someone's viewpoint).",
+  "examples": [
+   {
+    "jp": "{先生|せんせい}に{対|たい}して、{丁寧|ていねい}な{言葉|ことば}を{使|つか}いましょう。",
+    "en": "Let's use polite language toward teachers."
+   },
+   {
+    "jp": "{質問|しつもん}に{対|たい}して、{答|こた}えてください。",
+    "en": "Please answer the question."
+   },
+   {
+    "jp": "{兄|あに}は{明|あか}るいのに{対|たい}して、{弟|おとうと}はおとなしい。",
+    "en": "The older brother is cheerful, whereas the younger is quiet."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{客|きゃく}＿＿、そんな{言|い}い{方|かた}は{失礼|しつれい}だ。",
+    "options": [
+     "にとって",
+     "によって",
+     "に{対|たい}して",
+     "について"
+    ],
+    "answer": 2,
+    "en": "Talking like that to a customer is rude."
+   },
+   {
+    "q": "{環境|かんきょう}{問題|もんだい}に＿＿{関心|かんしん}が{高|たか}まっている。",
+    "options": [
+     "とっての",
+     "{対|たい}する",
+     "よって",
+     "ついて"
+    ],
+    "answer": 1,
+    "en": "Interest in environmental issues is growing."
+   },
+   {
+    "q": "{都会|とかい}は{便利|べんり}なの＿＿、{田舎|いなか}は{静|しず}かだ。",
+    "options": [
+     "にとって",
+     "に{対|たい}して",
+     "によって",
+     "として"
+    ],
+    "answer": 1,
+    "en": "Cities are convenient, whereas the countryside is quiet."
+   }
+  ]
+ },
+ {
+  "id": "g3-040",
+  "level": 3,
+  "title_raw": "～について／についての",
+  "meaning": "about ~; concerning ~",
+  "structure": "Noun + について ／ Noun + についての + Noun",
+  "explain": "Shows the topic you talk, think, or write about. It is the most common \"about\". Before a noun use についての. Compare に{関|かん}して, which is more formal.",
+  "examples": [
+   {
+    "jp": "{日本|にほん}の{歴史|れきし}について{調|しら}べています。",
+    "en": "I'm researching Japanese history."
+   },
+   {
+    "jp": "{将来|しょうらい}について{両親|りょうしん}と{話|はな}しました。",
+    "en": "I talked with my parents about my future."
+   },
+   {
+    "jp": "{環境|かんきょう}についての{本|ほん}を{読|よ}んだ。",
+    "en": "I read a book about the environment."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{明日|あした}の{会議|かいぎ}では、{新|あたら}しい{商品|しょうひん}＿＿{話|はな}します。",
+    "options": [
+     "について",
+     "にとって",
+     "によって",
+     "に{対|たい}して"
+    ],
+    "answer": 0,
+    "en": "At tomorrow's meeting, we'll talk about the new product."
+   },
+   {
+    "q": "{日本|にほん}の{文化|ぶんか}＿＿レポートを{書|か}いた。",
+    "options": [
+     "にとっての",
+     "によるの",
+     "に{対|たい}しての",
+     "についての"
+    ],
+    "answer": 3,
+    "en": "I wrote a report about Japanese culture."
+   },
+   {
+    "q": "その{事件|じけん}に＿＿、{何|なに}か{知|し}っていますか。",
+    "options": [
+     "とって",
+     "よって",
+     "ついて",
+     "よると"
+    ],
+    "answer": 2,
+    "en": "Do you know anything about that incident?"
+   }
+  ]
+ },
+ {
+  "id": "g3-041",
+  "level": 3,
+  "title_raw": "～に関して／に関する",
+  "meaning": "regarding ~; about ~",
+  "structure": "Noun + に{関|かん}して ／ Noun + に{関|かん}する + Noun",
+  "explain": "A more formal version of について, common in business, news, and writing. Before a noun use に{関|かん}する.",
+  "examples": [
+   {
+    "jp": "この{件|けん}に{関|かん}して、{何|なに}か{質問|しつもん}はありますか。",
+    "en": "Do you have any questions regarding this matter?"
+   },
+   {
+    "jp": "{日本|にほん}の{経済|けいざい}に{関|かん}する{本|ほん}を{探|さが}しています。",
+    "en": "I'm looking for a book on the Japanese economy."
+   },
+   {
+    "jp": "{事故|じこ}に{関|かん}して、{警察|けいさつ}が{調|しら}べている。",
+    "en": "The police are investigating the accident."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{新|あたら}しいルール＿＿、{説明|せつめい}します。",
+    "options": [
+     "によって",
+     "にとって",
+     "に{関|かん}して",
+     "に{対|たい}して"
+    ],
+    "answer": 2,
+    "en": "I will explain about the new rules."
+   },
+   {
+    "q": "{個人|こじん}{情報|じょうほう}に＿＿{法律|ほうりつ}が{変|か}わった。",
+    "options": [
+     "とっての",
+     "{関|かん}する",
+     "よると",
+     "ついて"
+    ],
+    "answer": 1,
+    "en": "The law concerning personal information changed."
+   },
+   {
+    "q": "{料金|りょうきん}に{関|かん}して＿＿{質問|しつもん}は、{受付|うけつけ}へどうぞ。",
+    "options": [
+     "の",
+     "に",
+     "で",
+     "を"
+    ],
+    "answer": 0,
+    "en": "For questions about fees, please go to the reception."
+   }
+  ]
+ },
+ {
+  "id": "g3-042",
+  "level": 3,
+  "title_raw": "～として",
+  "meaning": "as ~ (role / status)",
+  "structure": "Noun + として（は／も／の）",
+  "explain": "Shows a role, position, or status: {教師|きょうし}として (as a teacher). としては can mean \"for a ~\" (as for). Compare にとって (point of view).",
+  "examples": [
+   {
+    "jp": "{彼|かれ}は{通訳|つうやく}として{働|はたら}いています。",
+    "en": "He works as an interpreter."
+   },
+   {
+    "jp": "{留学生|りゅうがくせい}として{日本|にほん}に{来|き}ました。",
+    "en": "I came to Japan as an international student."
+   },
+   {
+    "jp": "{親|おや}として、{子|こ}どもを{守|まも}りたい。",
+    "en": "As a parent, I want to protect my children."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{趣味|しゅみ}＿＿{写真|しゃしん}を{撮|と}っています。",
+    "options": [
+     "について",
+     "にとって",
+     "によって",
+     "として"
+    ],
+    "answer": 3,
+    "en": "I take photos as a hobby."
+   },
+   {
+    "q": "{代表|だいひょう}＿＿、{会議|かいぎ}に{出席|しゅっせき}した。",
+    "options": [
+     "に{対|たい}して",
+     "によって",
+     "についての",
+     "として"
+    ],
+    "answer": 3,
+    "en": "I attended the meeting as a representative."
+   },
+   {
+    "q": "{京都|きょうと}は{古|ふる}い{町|まち}＿＿{有名|ゆうめい}です。",
+    "options": [
+     "にとって",
+     "によって",
+     "として",
+     "に{関|かん}して"
+    ],
+    "answer": 2,
+    "en": "Kyoto is famous as an old city."
+   }
+  ]
+ },
+ {
+  "id": "g3-043",
+  "level": 3,
+  "title_raw": "～ば～ほど",
+  "meaning": "the more ~, the more ~",
+  "structure": "Verb ば form + same verb dictionary form + ほど ／ いA-ければ + いA + ほど ／ なA-なら + なA-な + ほど",
+  "explain": "Shows that as A increases, B also changes. Use the same word twice. Simple version: Verb + ほど ({考|かんが}えるほどわからない).",
+  "examples": [
+   {
+    "jp": "{練習|れんしゅう}すればするほど{上手|じょうず}になります。",
+    "en": "The more you practice, the better you get."
+   },
+   {
+    "jp": "{考|かんが}えれば{考|かんが}えるほど、わからなくなる。",
+    "en": "The more I think, the less I understand."
+   },
+   {
+    "jp": "{野菜|やさい}は{新|あたら}しければ{新|あたら}しいほどおいしい。",
+    "en": "The fresher vegetables are, the tastier they are."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{日本語|にほんご}は{勉強|べんきょう}すれば＿＿ほど{面白|おもしろ}くなる。",
+    "options": [
+     "した",
+     "する",
+     "して",
+     "しよう"
+    ],
+    "answer": 1,
+    "en": "The more you study Japanese, the more interesting it gets."
+   },
+   {
+    "q": "{部屋|へや}は{広|ひろ}ければ{広|ひろ}い＿＿いい。",
+    "options": [
+     "ほど",
+     "ばかり",
+     "まで",
+     "だけ"
+    ],
+    "answer": 0,
+    "en": "The bigger the room, the better."
+   },
+   {
+    "q": "{静|しず}かなら{静|しず}か＿＿ほどいい。",
+    "options": [
+     "な",
+     "の",
+     "だ",
+     "に"
+    ],
+    "answer": 0,
+    "en": "The quieter, the better."
+   }
+  ]
+ },
+ {
+  "id": "g3-044",
+  "level": 3,
+  "title_raw": "～ほど (degree)",
+  "meaning": "to the extent that ~; so ~ that ~",
+  "structure": "Verb / いA / なA-な / Noun + ほど",
+  "explain": "Shows a strong degree with an example: {泣|な}きたいほど (so much I want to cry). Negative ほど～ない means \"not as ~ as\". Compare くらい, which is similar but more casual and can be lighter.",
+  "examples": [
+   {
+    "jp": "{死|し}ぬほど{疲|つか}れた。",
+    "en": "I'm dead tired."
+   },
+   {
+    "jp": "{今日|きょう}は{昨日|きのう}ほど{寒|さむ}くない。",
+    "en": "Today isn't as cold as yesterday."
+   },
+   {
+    "jp": "{涙|なみだ}が{出|で}るほど{笑|わら}った。",
+    "en": "I laughed so hard I cried."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{歩|ある}けない＿＿{足|あし}が{痛|いた}い。",
+    "options": [
+     "まま",
+     "ばかり",
+     "うちに",
+     "ほど"
+    ],
+    "answer": 3,
+    "en": "My feet hurt so much I can't walk."
+   },
+   {
+    "q": "{東京|とうきょう}は{大阪|おおさか}＿＿{暑|あつ}くない。",
+    "options": [
+     "ばかり",
+     "まで",
+     "ほど",
+     "だけ"
+    ],
+    "answer": 2,
+    "en": "Tokyo is not as hot as Osaka."
+   },
+   {
+    "q": "{彼|かれ}＿＿{優|やさ}しい{人|ひと}はいない。",
+    "options": [
+     "ばかり",
+     "ほど",
+     "まで",
+     "さえ"
+    ],
+    "answer": 1,
+    "en": "There's no one as kind as him."
+   }
+  ]
+ },
+ {
+  "id": "g3-045",
+  "level": 3,
+  "title_raw": "～くらい／ぐらい (degree)",
+  "meaning": "about ~; so ~ that ~; at least ~",
+  "structure": "Plain form / Noun + くらい（ぐらい）",
+  "explain": "Besides \"about\" (an amount), it shows degree like ほど. It can also show a low level: これくらい{自分|じぶん}でやって (at least do this much yourself). It is more casual than ほど.",
+  "examples": [
+   {
+    "jp": "{立|た}っていられないくらい{眠|ねむ}い。",
+    "en": "I'm so sleepy I can't stay standing."
+   },
+   {
+    "jp": "{自分|じぶん}の{部屋|へや}ぐらい{自分|じぶん}で{掃除|そうじ}しなさい。",
+    "en": "At least clean your own room yourself."
+   },
+   {
+    "jp": "{声|こえ}が{出|で}なくなるくらい{歌|うた}った。",
+    "en": "I sang so much that I lost my voice."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{挨拶|あいさつ}＿＿、ちゃんとしなさい。",
+    "options": [
+     "ばかり",
+     "ぐらい",
+     "まで",
+     "ほか"
+    ],
+    "answer": 1,
+    "en": "At least say hello properly."
+   },
+   {
+    "q": "{信|しん}じられない＿＿{高|たか}い{値段|ねだん}だった。",
+    "options": [
+     "くらい",
+     "ために",
+     "ばかり",
+     "ように"
+    ],
+    "answer": 0,
+    "en": "The price was unbelievably high."
+   },
+   {
+    "q": "{名前|なまえ}＿＿{書|か}けるでしょう。",
+    "options": [
+     "しか",
+     "ばかり",
+     "だけで",
+     "くらい"
+    ],
+    "answer": 3,
+    "en": "Surely you can at least write your name."
+   }
+  ]
+ },
+ {
+  "id": "g3-046",
+  "level": 3,
+  "title_raw": "～ほど～ない",
+  "meaning": "not as ~ as ~",
+  "structure": "Noun + ほど + negative",
+  "explain": "Compares two things and says the first is less than the second. Example: {夏|なつ}ほど{暑|あつ}くない. It is the negative of より comparisons. ～ほど～はない means \"nothing is as ~ as\".",
+  "examples": [
+   {
+    "jp": "{今年|ことし}の{冬|ふゆ}は{去年|きょねん}ほど{寒|さむ}くない。",
+    "en": "This winter isn't as cold as last year."
+   },
+   {
+    "jp": "{日本語|にほんご}は{思|おも}ったほど{難|むずか}しくなかった。",
+    "en": "Japanese wasn't as hard as I thought."
+   },
+   {
+    "jp": "{健康|けんこう}ほど{大切|たいせつ}なものはない。",
+    "en": "Nothing is as important as health."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "この{映画|えいが}は{前|まえ}の{映画|えいが}＿＿{面白|おもしろ}くない。",
+    "options": [
+     "だけ",
+     "さえ",
+     "ほど",
+     "まで"
+    ],
+    "answer": 2,
+    "en": "This movie isn't as interesting as the previous one."
+   },
+   {
+    "q": "{試験|しけん}は{心配|しんぱい}した＿＿{難|むずか}しくなかった。",
+    "options": [
+     "ばかり",
+     "うち",
+     "ほど",
+     "まま"
+    ],
+    "answer": 2,
+    "en": "The test wasn't as difficult as I had worried."
+   },
+   {
+    "q": "{母|はは}の{料理|りょうり}ほどおいしいもの＿＿。",
+    "options": [
+     "がある",
+     "はない",
+     "でない",
+     "もある"
+    ],
+    "answer": 1,
+    "en": "Nothing is as delicious as my mother's cooking."
+   }
+  ]
+ },
+ {
+  "id": "g3-047",
+  "level": 3,
+  "title_raw": "～ほうがいい",
+  "meaning": "you should ~; it's better to ~",
+  "structure": "Verb た form / ない form + ほうがいい",
+  "explain": "Gives advice. Use the た form for \"should do\" and ない form for \"shouldn't\". It is stronger than たらどう?, which is a softer suggestion.",
+  "examples": [
+   {
+    "jp": "{熱|ねつ}があるなら、{早|はや}く{寝|ね}たほうがいいですよ。",
+    "en": "If you have a fever, you'd better go to bed early."
+   },
+   {
+    "jp": "{夜|よる}は{一人|ひとり}で{歩|ある}かないほうがいい。",
+    "en": "You shouldn't walk alone at night."
+   },
+   {
+    "jp": "{傘|かさ}を{持|も}っていったほうがいいと{思|おも}います。",
+    "en": "I think you should take an umbrella."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{疲|つか}れているなら、{少|すこ}し{休|やす}んだ＿＿いいですよ。",
+    "options": [
+     "ほう",
+     "ほど",
+     "まま",
+     "ため"
+    ],
+    "answer": 0,
+    "en": "If you're tired, you should rest a little."
+   },
+   {
+    "q": "{生|なま}の{肉|にく}は{食|た}べ＿＿ほうがいい。",
+    "options": [
+     "ず",
+     "よう",
+     "ます",
+     "ない"
+    ],
+    "answer": 3,
+    "en": "You shouldn't eat raw meat."
+   },
+   {
+    "q": "{顔色|かおいろ}が{悪|わる}いですよ。{病院|びょういん}に{行|い}った＿＿。",
+    "options": [
+     "ことです",
+     "ばかりです",
+     "ところです",
+     "ほうがいいですよ"
+    ],
+    "answer": 3,
+    "en": "You look pale. You should go to the hospital."
+   }
+  ]
+ },
+ {
+  "id": "g3-048",
+  "level": 3,
+  "title_raw": "～たらどう／ばいい",
+  "meaning": "why don't you ~; you just need to ~",
+  "structure": "Verb た form + らどう（ですか） ／ Verb ば form + いい",
+  "explain": "たらどう? is a soft suggestion. ばいい means \"you just need to ~\" and also asks for advice: どうすればいいですか. Compare ほうがいい, which is stronger advice.",
+  "examples": [
+   {
+    "jp": "{先生|せんせい}に{聞|き}いてみたらどうですか。",
+    "en": "Why don't you try asking the teacher?"
+   },
+   {
+    "jp": "{駅|えき}へはどう{行|い}けばいいですか。",
+    "en": "How should I get to the station?"
+   },
+   {
+    "jp": "わからなければ、{辞書|じしょ}で{調|しら}べればいい。",
+    "en": "If you don't know, you just need to look it up in a dictionary."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{少|すこ}し{休|やす}ん＿＿どう？",
+    "options": [
+     "だり",
+     "でば",
+     "だら",
+     "でも"
+    ],
+    "answer": 2,
+    "en": "Why don't you rest a little?"
+   },
+   {
+    "q": "{何|なに}を{持|も}っていけ＿＿いいですか。",
+    "options": [
+     "たら",
+     "ば",
+     "と",
+     "て"
+    ],
+    "answer": 1,
+    "en": "What should I bring?"
+   },
+   {
+    "q": "そんなに{好|す}きなら、{告白|こくはく}し＿＿どう？",
+    "options": [
+     "たら",
+     "たり",
+     "れば",
+     "ても"
+    ],
+    "answer": 0,
+    "en": "If you like her that much, why don't you confess?"
+   }
+  ]
+ },
+ {
+  "id": "g3-049",
+  "level": 3,
+  "title_raw": "～てほしい",
+  "meaning": "I want (someone) to ~",
+  "structure": "Person + に + Verb て-form + ほしい ／ ないでほしい",
+  "explain": "Shows that you want another person to do something. The person comes with に. Compare たい, which is for things you want to do yourself. Saying it directly to a superior can sound pushy.",
+  "examples": [
+   {
+    "jp": "{両親|りょうしん}に{元気|げんき}でいてほしい。",
+    "en": "I want my parents to stay healthy."
+   },
+   {
+    "jp": "{誰|だれ}にも{言|い}わないでほしい。",
+    "en": "I don't want you to tell anyone."
+   },
+   {
+    "jp": "{早|はや}く{春|はる}になってほしいです。",
+    "en": "I want spring to come soon."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{子|こ}どもには{好|す}きなことをし＿＿ほしい。",
+    "options": [
+     "て",
+     "た",
+     "に",
+     "たく"
+    ],
+    "answer": 0,
+    "en": "I want my children to do what they like."
+   },
+   {
+    "q": "{部屋|へや}に{勝手|かって}に{入|はい}ら＿＿ほしい。",
+    "options": [
+     "なくて",
+     "なく",
+     "ずに",
+     "ないで"
+    ],
+    "answer": 3,
+    "en": "I don't want you to come into my room without asking."
+   },
+   {
+    "q": "{友|とも}だち＿＿{手伝|てつだ}ってほしい。",
+    "options": [
+     "が",
+     "を",
+     "に",
+     "で"
+    ],
+    "answer": 2,
+    "en": "I want my friend to help me."
+   }
+  ]
+ },
+ {
+  "id": "g3-050",
+  "level": 3,
+  "title_raw": "～てもらいたい／ていただきたい",
+  "meaning": "I would like (someone) to ~",
+  "structure": "Person + に + Verb て-form + もらいたい ／ いただきたい",
+  "explain": "A request that says what you want someone to do. いただきたい is polite and common in business. It is similar to てほしい but sounds more polite.",
+  "examples": [
+   {
+    "jp": "この{書類|しょるい}をチェックしていただきたいのですが。",
+    "en": "I'd like you to check this document."
+   },
+   {
+    "jp": "もう{少|すこ}し{安|やす}くしてもらいたい。",
+    "en": "I'd like you to make it a bit cheaper."
+   },
+   {
+    "jp": "{明日|あした}までに{返事|へんじ}をしていただきたいです。",
+    "en": "I would like you to reply by tomorrow."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{先生|せんせい}にこの{作文|さくぶん}を{見|み}て＿＿のですが。",
+    "options": [
+     "くださりたい",
+     "いただきたい",
+     "あげたい",
+     "くれたい"
+    ],
+    "answer": 1,
+    "en": "I'd like you to look at this essay, teacher."
+   },
+   {
+    "q": "{友|とも}だちに{写真|しゃしん}を{撮|と}って＿＿。",
+    "options": [
+     "くれたい",
+     "もらいたい",
+     "くださりたい",
+     "させたい"
+    ],
+    "answer": 1,
+    "en": "I want my friend to take a photo."
+   },
+   {
+    "q": "すみません、{道|みち}を{教|おし}えて＿＿んですが。",
+    "options": [
+     "いただきたい",
+     "あげたい",
+     "くれたい",
+     "さしあげたい"
+    ],
+    "answer": 0,
+    "en": "Excuse me, I'd like you to tell me the way."
+   }
+  ]
+ },
+ {
+  "id": "g3-051",
+  "level": 3,
+  "title_raw": "～させてください",
+  "meaning": "please let me ~",
+  "structure": "Verb causative て-form + ください／もらえますか／いただけますか",
+  "explain": "A polite way to ask permission to do something yourself. させていただけますか is very polite. Compare てください, which asks the other person to do it.",
+  "examples": [
+   {
+    "jp": "{少|すこ}し{考|かんが}えさせてください。",
+    "en": "Please let me think about it a little."
+   },
+   {
+    "jp": "{今日|きょう}は{早|はや}く{帰|かえ}らせていただけますか。",
+    "en": "Could you let me go home early today?"
+   },
+   {
+    "jp": "{私|わたし}にも{手伝|てつだ}わせてください。",
+    "en": "Please let me help too."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{熱|ねつ}があるので、{今日|きょう}は{休|やす}ま＿＿ください。",
+    "options": [
+     "されて",
+     "れて",
+     "させられて",
+     "せて"
+    ],
+    "answer": 3,
+    "en": "I have a fever, so please let me take today off."
+   },
+   {
+    "q": "その{仕事|しごと}、{私|わたし}にやら＿＿いただけませんか。",
+    "options": [
+     "れて",
+     "されて",
+     "せて",
+     "させて"
+    ],
+    "answer": 2,
+    "en": "Could you let me do that job?"
+   },
+   {
+    "q": "{写真|しゃしん}を{撮|と}ら＿＿もらえますか。",
+    "options": [
+     "れて",
+     "させて",
+     "せて",
+     "されて"
+    ],
+    "answer": 2,
+    "en": "May I take a photo?"
+   }
+  ]
+ },
+ {
+  "id": "g3-052",
+  "level": 3,
+  "title_raw": "Causative ～させる",
+  "meaning": "to make / let someone ~",
+  "structure": "Group 1: V-a + せる ({書|か}かせる) ／ Group 2: V + させる ({食|た}べさせる) ／ する→させる, {来|く}る→{来|こ}させる",
+  "explain": "Means make someone do something, or let them do it. The person made to act takes を (intransitive verbs) or に (when there is an object). Compare passive られる, where something is done to you.",
+  "examples": [
+   {
+    "jp": "{母|はは}は{弟|おとうと}に{野菜|やさい}を{食|た}べさせた。",
+    "en": "My mother made my brother eat vegetables."
+   },
+   {
+    "jp": "{先生|せんせい}は{学生|がくせい}を{立|た}たせた。",
+    "en": "The teacher made the student stand up."
+   },
+   {
+    "jp": "{子|こ}どもを{自由|じゆう}に{遊|あそ}ばせています。",
+    "en": "I let my children play freely."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{部長|ぶちょう}は{部下|ぶか}に{報告書|ほうこくしょ}を{書|か}か＿＿。",
+    "options": [
+     "れた",
+     "せた",
+     "させられた",
+     "された"
+    ],
+    "answer": 1,
+    "en": "The manager made his staff write a report."
+   },
+   {
+    "q": "{犬|いぬ}を{公園|こうえん}で{走|はし}ら＿＿。",
+    "options": [
+     "せた",
+     "れた",
+     "された",
+     "られた"
+    ],
+    "answer": 0,
+    "en": "I let the dog run in the park."
+   },
+   {
+    "q": "{冗談|じょうだん}を{言|い}って、みんなを{笑|わら}＿＿。",
+    "options": [
+     "われた",
+     "わされた",
+     "った",
+     "わせた"
+    ],
+    "answer": 3,
+    "en": "I told a joke and made everyone laugh."
+   }
+  ]
+ },
+ {
+  "id": "g3-053",
+  "level": 3,
+  "title_raw": "Passive ～られる (suffering)",
+  "meaning": "to be ~ed; to have ~ done (and be troubled)",
+  "structure": "Group 1: V-a + れる ({降|ふ}られる) ／ Group 2: V + られる ／ する→される, {来|く}る→{来|こ}られる",
+  "explain": "Japanese often uses the passive to show you were troubled by someone's action: {雨|あめ}に{降|ふ}られた (got rained on). The person who acts takes に. It is used even with intransitive verbs.",
+  "examples": [
+   {
+    "jp": "{電車|でんしゃ}で{足|あし}を{踏|ふ}まれた。",
+    "en": "Someone stepped on my foot on the train."
+   },
+   {
+    "jp": "{帰|かえ}り{道|みち}で{雨|あめ}に{降|ふ}られました。",
+    "en": "I got caught in the rain on the way home."
+   },
+   {
+    "jp": "{夜中|よなか}に{子|こ}どもに{泣|な}かれて、{眠|ねむ}れなかった。",
+    "en": "My baby cried in the night and I couldn't sleep."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{弟|おとうと}に{私|わたし}のケーキを{食|た}べ＿＿、{悲|かな}しかった。",
+    "options": [
+     "たく",
+     "て",
+     "ようと",
+     "られて"
+    ],
+    "answer": 3,
+    "en": "My little brother ate my cake, and I was sad."
+   },
+   {
+    "q": "{泥棒|どろぼう}に{財布|さいふ}を{盗|ぬす}＿＿。",
+    "options": [
+     "ませた",
+     "ませられた",
+     "まれた",
+     "んだ"
+    ],
+    "answer": 2,
+    "en": "I had my wallet stolen by a thief."
+   },
+   {
+    "q": "{友|とも}だちに{急|きゅう}に{来|こ}＿＿、{困|こま}った。",
+    "options": [
+     "ようと",
+     "られて",
+     "ます",
+     "ないで"
+    ],
+    "answer": 1,
+    "en": "My friend came over suddenly, and I was troubled."
+   }
+  ]
+ },
+ {
+  "id": "g3-054",
+  "level": 3,
+  "title_raw": "Causative-passive ～させられる",
+  "meaning": "to be made to ~",
+  "structure": "Group 1: V-a + される／せられる ({飲|の}まされる) ／ Group 2: V + させられる ／ する→させられる, {来|く}る→{来|こ}させられる",
+  "explain": "Means you were forced to do something you did not want to do. The person who forced you takes に. For Group 1 the short form される is common: {待|ま}たされる.",
+  "examples": [
+   {
+    "jp": "{子|こ}どもの{頃|ころ}、{母|はは}にピアノを{習|なら}わされた。",
+    "en": "As a child, my mother made me take piano lessons."
+   },
+   {
+    "jp": "{駅|えき}で30{分|ぷん}も{待|ま}たされた。",
+    "en": "I was made to wait 30 minutes at the station."
+   },
+   {
+    "jp": "{先輩|せんぱい}にお{酒|さけ}をたくさん{飲|の}まされた。",
+    "en": "My senior made me drink a lot of alcohol."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{私|わたし}は{先生|せんせい}に{無理|むり}やり{掃除|そうじ}を＿＿。",
+    "options": [
+     "させられた",
+     "しよう",
+     "された",
+     "してあげた"
+    ],
+    "answer": 0,
+    "en": "I was forced by the teacher to do the cleaning."
+   },
+   {
+    "q": "{母|はは}に{嫌|きら}いな{野菜|やさい}を{食|た}べ＿＿。",
+    "options": [
+     "させられた",
+     "たい",
+     "よう",
+     "ている"
+    ],
+    "answer": 0,
+    "en": "I was made to eat vegetables I hate by my mother."
+   },
+   {
+    "q": "{歌|うた}が{下手|へた}なのに、みんなの{前|まえ}で{歌|うた}＿＿。",
+    "options": [
+     "わない",
+     "った",
+     "われた",
+     "わされた"
+    ],
+    "answer": 3,
+    "en": "Even though I'm bad at singing, I was made to sing in front of everyone."
+   }
+  ]
+ },
+ {
+  "id": "g3-055",
+  "level": 3,
+  "title_raw": "～てもらう／てくれる (favors)",
+  "meaning": "to have someone do ~ for me; someone does ~ for me",
+  "structure": "Person + に + Verb て-form + もらう ／ Person + が + Verb て-form + くれる",
+  "explain": "Both mean someone did something for you. With てもらう, you are the subject and the helper takes に. With てくれる, the helper is the subject. てあげる is when you do it for others.",
+  "examples": [
+   {
+    "jp": "{友|とも}だちに{宿題|しゅくだい}を{手伝|てつだ}ってもらった。",
+    "en": "I had my friend help me with my homework."
+   },
+   {
+    "jp": "{母|はは}がお{弁当|べんとう}を{作|つく}ってくれました。",
+    "en": "My mother made me a boxed lunch."
+   },
+   {
+    "jp": "{妹|いもうと}に{本|ほん}を{読|よ}んであげた。",
+    "en": "I read a book to my younger sister."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{田中|たなか}さん＿＿{駅|えき}まで{送|おく}ってもらった。",
+    "options": [
+     "を",
+     "へ",
+     "に",
+     "で"
+    ],
+    "answer": 2,
+    "en": "Tanaka gave me a ride to the station."
+   },
+   {
+    "q": "{知|し}らない{人|ひと}が{私|わたし}に{道|みち}を{教|おし}えて＿＿。",
+    "options": [
+     "あげた",
+     "くれた",
+     "もらった",
+     "やった"
+    ],
+    "answer": 1,
+    "en": "A stranger showed me the way."
+   },
+   {
+    "q": "{私|わたし}は{弟|おとうと}に{自転車|じてんしゃ}の{乗|の}り{方|かた}を{教|おし}えて＿＿。",
+    "options": [
+     "くれた",
+     "あげた",
+     "くださった",
+     "いらっしゃった"
+    ],
+    "answer": 1,
+    "en": "I taught my little brother how to ride a bike."
+   }
+  ]
+ },
+ {
+  "id": "g3-056",
+  "level": 3,
+  "title_raw": "～ようとする",
+  "meaning": "to try to ~; to be about to ~",
+  "structure": "Verb volitional form + とする",
+  "explain": "Shows an attempt, often one that did not succeed, or the moment just before an action: {寝|ね}ようとした{時|とき}. Compare てみる, which means actually trying something to see what happens.",
+  "examples": [
+   {
+    "jp": "{出|で}かけようとした{時|とき}、{電話|でんわ}が{鳴|な}った。",
+    "en": "Just as I was about to go out, the phone rang."
+   },
+   {
+    "jp": "{思|おも}い{出|だ}そうとしたが、{思|おも}い{出|だ}せなかった。",
+    "en": "I tried to remember, but I couldn't."
+   },
+   {
+    "jp": "{赤|あか}ちゃんが{立|た}とうとしている。",
+    "en": "The baby is trying to stand up."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "ドアを{開|あ}け＿＿としたが、{開|あ}かなかった。",
+    "options": [
+     "よう",
+     "る",
+     "て",
+     "た"
+    ],
+    "answer": 0,
+    "en": "I tried to open the door, but it wouldn't open."
+   },
+   {
+    "q": "{寝|ね}よう＿＿したら、{隣|となり}がうるさくなった。",
+    "options": [
+     "に",
+     "で",
+     "を",
+     "と"
+    ],
+    "answer": 3,
+    "en": "Just as I was going to sleep, the neighbors got noisy."
+   },
+   {
+    "q": "{電車|でんしゃ}に{乗|の}ろう＿＿{時|とき}、ドアが{閉|し}まった。",
+    "options": [
+     "をした",
+     "にした",
+     "とした",
+     "でした"
+    ],
+    "answer": 2,
+    "en": "The door closed just as I tried to get on the train."
+   }
+  ]
+ },
+ {
+  "id": "g3-057",
+  "level": 3,
+  "title_raw": "～ようと思う",
+  "meaning": "I'm thinking of ~",
+  "structure": "Verb volitional form + と{思|おも}う／{思|おも}っている",
+  "explain": "Shows your plan or intention. ようと{思|おも}っている shows a plan you have had for a while. Compare つもり, which is a firmer plan.",
+  "examples": [
+   {
+    "jp": "{夏休|なつやす}みに{沖縄|おきなわ}へ{行|い}こうと{思|おも}っています。",
+    "en": "I'm thinking of going to Okinawa for summer vacation."
+   },
+   {
+    "jp": "{今日|きょう}は{早|はや}く{寝|ね}ようと{思|おも}う。",
+    "en": "I think I'll go to bed early today."
+   },
+   {
+    "jp": "{来年|らいねん}、{仕事|しごと}を{変|か}えようと{思|おも}っている。",
+    "en": "I'm thinking of changing jobs next year."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{週末|しゅうまつ}は{部屋|へや}を{掃除|そうじ}＿＿と{思|おも}います。",
+    "options": [
+     "した",
+     "する",
+     "しよう",
+     "して"
+    ],
+    "answer": 2,
+    "en": "I think I'll clean my room this weekend."
+   },
+   {
+    "q": "{来月|らいげつ}から{毎日|まいにち}{走|はし}ろう＿＿{思|おも}っています。",
+    "options": [
+     "に",
+     "と",
+     "を",
+     "で"
+    ],
+    "answer": 1,
+    "en": "I'm thinking of running every day from next month."
+   },
+   {
+    "q": "{新|あたら}しいパソコンを{買|か}お＿＿と{思|おも}っている。",
+    "options": [
+     "う",
+     "て",
+     "る",
+     "た"
+    ],
+    "answer": 0,
+    "en": "I'm thinking of buying a new computer."
+   }
+  ]
+ },
+ {
+  "id": "g3-058",
+  "level": 3,
+  "title_raw": "～つもり",
+  "meaning": "to intend to ~; to believe that ~",
+  "structure": "Verb dictionary / ない form + つもりだ ／ Verb た form / Noun + の + つもり",
+  "explain": "Dictionary form + つもり is a firm plan. た form + つもり means \"I believe I did\" (but maybe not): {言|い}ったつもり = I thought I said it.",
+  "examples": [
+   {
+    "jp": "{来年|らいねん}{日本|にほん}の{大学|だいがく}に{入|はい}るつもりです。",
+    "en": "I intend to enter a Japanese university next year."
+   },
+   {
+    "jp": "もう{二度|にど}とうそはつかないつもりだ。",
+    "en": "I don't intend to ever lie again."
+   },
+   {
+    "jp": "{鍵|かぎ}をかけたつもりだったが、{開|あ}いていた。",
+    "en": "I thought I had locked it, but it was open."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{夏休|なつやす}みは{国|くに}に{帰|かえ}る＿＿です。",
+    "options": [
+     "ところ",
+     "はず",
+     "わけ",
+     "つもり"
+    ],
+    "answer": 3,
+    "en": "I plan to go back to my country over summer vacation."
+   },
+   {
+    "q": "{全部|ぜんぶ}{説明|せつめい}した＿＿だったが、{伝|つた}わっていなかった。",
+    "options": [
+     "わけ",
+     "まま",
+     "ばかり",
+     "つもり"
+    ],
+    "answer": 3,
+    "en": "I believed I had explained everything, but it didn't get across."
+   },
+   {
+    "q": "{今日|きょう}は{誰|だれ}にも{会|あ}わない＿＿だ。",
+    "options": [
+     "ところ",
+     "ばかり",
+     "つもり",
+     "うち"
+    ],
+    "answer": 2,
+    "en": "I don't intend to see anyone today."
+   }
+  ]
+ },
+ {
+  "id": "g3-059",
+  "level": 3,
+  "title_raw": "～はずだ",
+  "meaning": "should be ~; it is expected that ~",
+  "structure": "Plain form (なA-な / Noun + の) + はずだ",
+  "explain": "Shows a strong expectation based on facts or logic: {彼|かれ}は{来|く}るはずだ (he should come). Compare べきだ (should, as a duty), which is a different meaning.",
+  "examples": [
+   {
+    "jp": "{荷物|にもつ}は{明日|あした}{着|つ}くはずです。",
+    "en": "The package should arrive tomorrow."
+   },
+   {
+    "jp": "{彼|かれ}は{日本|にほん}に{十年|じゅうねん}いたから、{日本語|にほんご}が{上手|じょうず}なはずだ。",
+    "en": "He lived in Japan for ten years, so his Japanese should be good."
+   },
+   {
+    "jp": "{鍵|かぎ}はかばんに{入|い}れたはずなのに、ない。",
+    "en": "I'm sure I put the key in my bag, but it's not there."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{会議|かいぎ}は3{時|じ}に{終|お}わる＿＿です。",
+    "options": [
+     "べき",
+     "はず",
+     "つもり",
+     "ため"
+    ],
+    "answer": 1,
+    "en": "The meeting should end at 3."
+   },
+   {
+    "q": "{今日|きょう}は{日曜日|にちようび}だから、{銀行|ぎんこう}は{休|やす}み＿＿はずだ。",
+    "options": [
+     "の",
+     "な",
+     "だ",
+     "で"
+    ],
+    "answer": 0,
+    "en": "It's Sunday, so the bank should be closed."
+   },
+   {
+    "q": "{彼女|かのじょ}は{料理|りょうり}が{得意|とくい}だから、きっと{上手|じょうず}に{作|つく}れる＿＿。",
+    "options": [
+     "はずだ",
+     "ところだ",
+     "べきだ",
+     "ばかりだ"
+    ],
+    "answer": 0,
+    "en": "She's good at cooking, so she should be able to make it well."
+   }
+  ]
+ },
+ {
+  "id": "g3-060",
+  "level": 3,
+  "title_raw": "～はずがない",
+  "meaning": "there's no way ~; it can't be ~",
+  "structure": "Plain form (なA-な / Noun + の) + はずがない",
+  "explain": "Shows strong belief that something is impossible, based on logic. It is like わけがない, which is similar and a bit more emotional.",
+  "examples": [
+   {
+    "jp": "あんなに{練習|れんしゅう}したのだから、{負|ま}けるはずがない。",
+    "en": "We practiced so much, there's no way we'll lose."
+   },
+   {
+    "jp": "{彼|かれ}がそんなことを{言|い}うはずがない。",
+    "en": "There's no way he would say that."
+   },
+   {
+    "jp": "{子|こ}どもにこんな{難|むずか}しい{問題|もんだい}が{解|と}けるはずがない。",
+    "en": "There's no way a child could solve such a hard problem."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{正直|しょうじき}な{彼|かれ}がうそをつく＿＿。",
+    "options": [
+     "つもりだ",
+     "はずだ",
+     "べきだ",
+     "はずがない"
+    ],
+    "answer": 3,
+    "en": "There's no way honest him would lie."
+   },
+   {
+    "q": "{昨日|きのう}{会|あ}ったばかりだから、{忘|わす}れる＿＿ない。",
+    "options": [
+     "ほどが",
+     "ことが",
+     "はずが",
+     "ためが"
+    ],
+    "answer": 2,
+    "en": "I just met her yesterday, so there's no way I'd forget."
+   },
+   {
+    "q": "{冬|ふゆ}なのに、そんなに{暑|あつ}い＿＿。",
+    "options": [
+     "べきだ",
+     "はずがない",
+     "わけだ",
+     "ものだ"
+    ],
+    "answer": 1,
+    "en": "It's winter, so it can't be that hot."
+   }
+  ]
+ },
+ {
+  "id": "g3-061",
+  "level": 3,
+  "title_raw": "～わけだ",
+  "meaning": "no wonder ~; that's why ~; so it means ~",
+  "structure": "Plain form (なA-な / Noun + の／である) + わけだ",
+  "explain": "Shows a natural conclusion from facts you just learned: \"so that's why\". Often used with だから or それで. Compare はずだ, which is an expectation before you know the result.",
+  "examples": [
+   {
+    "jp": "{三年|さんねん}も{日本|にほん}にいたのか。{日本語|にほんご}が{上手|じょうず}なわけだ。",
+    "en": "You were in Japan for three years? No wonder your Japanese is good."
+   },
+   {
+    "jp": "{窓|まど}が{開|あ}いている。{寒|さむ}いわけだ。",
+    "en": "The window is open. That's why it's cold."
+   },
+   {
+    "jp": "{一日|いちにち}8{時間|じかん}{働|はたら}くから、{週|しゅう}に40{時間|じかん}{働|はたら}くわけです。",
+    "en": "You work 8 hours a day, so that means 40 hours a week."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{彼|かれ}は{毎日|まいにち}{練習|れんしゅう}している。{上手|じょうず}な＿＿。",
+    "options": [
+     "はずがない",
+     "わけだ",
+     "べきだ",
+     "ところだ"
+    ],
+    "answer": 1,
+    "en": "He practices every day. No wonder he's good."
+   },
+   {
+    "q": "エアコンが{壊|こわ}れている。{暑|あつ}い＿＿だ。",
+    "options": [
+     "わけ",
+     "はず",
+     "つもり",
+     "べき"
+    ],
+    "answer": 0,
+    "en": "The air conditioner is broken. That's why it's hot."
+   },
+   {
+    "q": "{父|ちち}はフランス{人|じん}なんです。それでフランス{語|ご}が{話|はな}せる＿＿ですね。",
+    "options": [
+     "ばかり",
+     "ところ",
+     "ため",
+     "わけ"
+    ],
+    "answer": 3,
+    "en": "My father is French. So that's why you can speak French."
+   }
+  ]
+ },
+ {
+  "id": "g3-062",
+  "level": 3,
+  "title_raw": "～わけではない",
+  "meaning": "it doesn't mean that ~; not necessarily ~",
+  "structure": "Plain form (なA-な / Noun + という) + わけではない",
+  "explain": "Partly denies an idea someone might have. Example: {嫌|きら}いなわけではない = It's not that I dislike it. Often used with だからといって or {全部|ぜんぶ}. Compare わけがない, which is a total denial.",
+  "examples": [
+   {
+    "jp": "{肉|にく}が{嫌|きら}いなわけではないが、あまり{食|た}べない。",
+    "en": "It's not that I dislike meat, but I don't eat it much."
+   },
+   {
+    "jp": "{日本人|にほんじん}がみんな{寿司|すし}が{好|す}きなわけではない。",
+    "en": "Not all Japanese people like sushi."
+   },
+   {
+    "jp": "{高|たか}いものがいつもいいわけではありません。",
+    "en": "Expensive things are not always good."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{行|い}きたくない＿＿が、{今日|きょう}は{忙|いそが}しい。",
+    "options": [
+     "はずだ",
+     "わけがない",
+     "わけではない",
+     "ことにする"
+    ],
+    "answer": 2,
+    "en": "It's not that I don't want to go, but I'm busy today."
+   },
+   {
+    "q": "お{金|かね}があれば{幸|しあわ}せという＿＿ではない。",
+    "options": [
+     "はず",
+     "こと",
+     "わけ",
+     "もの"
+    ],
+    "answer": 2,
+    "en": "It doesn't mean you'll be happy if you have money."
+   },
+   {
+    "q": "{全部|ぜんぶ}わかった＿＿が、だいたいわかった。",
+    "options": [
+     "わけがない",
+     "わけではない",
+     "はずだ",
+     "べきだ"
+    ],
+    "answer": 1,
+    "en": "It's not that I understood everything, but I understood most of it."
+   }
+  ]
+ },
+ {
+  "id": "g3-063",
+  "level": 3,
+  "title_raw": "～わけがない",
+  "meaning": "there's no way ~",
+  "structure": "Plain form (なA-な / Noun + の／な) + わけがない",
+  "explain": "Totally denies a possibility, with strong feeling. Similar to はずがない, but more emotional and conversational. Compare わけではない (partial denial).",
+  "examples": [
+   {
+    "jp": "こんな{難|むずか}しい{問題|もんだい}、わかるわけがない。",
+    "en": "There's no way I can understand such a hard question."
+   },
+   {
+    "jp": "あの{二人|ふたり}が{仲|なか}がいいわけがない。",
+    "en": "There's no way those two get along."
+   },
+   {
+    "jp": "{一日|いちにち}で{終|お}わるわけがないでしょう。",
+    "en": "There's no way it can be finished in one day."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{練習|れんしゅう}しないで{勝|か}てる＿＿。",
+    "options": [
+     "わけがない",
+     "わけではない",
+     "わけだ",
+     "べきだ"
+    ],
+    "answer": 0,
+    "en": "There's no way you can win without practicing."
+   },
+   {
+    "q": "あんなに{優|やさ}しい{人|ひと}が{怒|おこ}る＿＿がない。",
+    "options": [
+     "こと",
+     "ため",
+     "もの",
+     "わけ"
+    ],
+    "answer": 3,
+    "en": "There's no way such a kind person would get angry."
+   },
+   {
+    "q": "{今|いま}から{行|い}っても{間|ま}に{合|あ}う＿＿よ。",
+    "options": [
+     "わけだ",
+     "ことだ",
+     "ところだ",
+     "わけがない"
+    ],
+    "answer": 3,
+    "en": "There's no way we'll make it even if we go now."
+   }
+  ]
+ },
+ {
+  "id": "g3-064",
+  "level": 3,
+  "title_raw": "～わけにはいかない",
+  "meaning": "cannot (because of duty or social reasons)",
+  "structure": "Verb dictionary form + わけにはいかない ／ ない form + わけにはいかない (must)",
+  "explain": "Means you cannot do something because of morals, duty, or the situation, not ability. ないわけにはいかない means you have to do it. Compare られない, which is plain inability.",
+  "examples": [
+   {
+    "jp": "{明日|あした}は{試験|しけん}だから、{遊|あそ}びに{行|い}くわけにはいかない。",
+    "en": "I have an exam tomorrow, so I can't go out to play."
+   },
+   {
+    "jp": "{車|くるま}で{来|き}たので、お{酒|さけ}を{飲|の}むわけにはいかない。",
+    "en": "I came by car, so I can't drink."
+   },
+   {
+    "jp": "{上司|じょうし}の{頼|たの}みだから、{断|ことわ}るわけにはいかない。",
+    "en": "It's my boss's request, so I can't refuse."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{大切|たいせつ}な{会議|かいぎ}があるので、{休|やす}む＿＿。",
+    "options": [
+     "はずがない",
+     "ばかりだ",
+     "わけにはいかない",
+     "ことにしない"
+    ],
+    "answer": 2,
+    "en": "I have an important meeting, so I can't take a day off."
+   },
+   {
+    "q": "{友|とも}だちの{結婚式|けっこんしき}だから、{行|い}かない＿＿にはいかない。",
+    "options": [
+     "こと",
+     "わけ",
+     "はず",
+     "もの"
+    ],
+    "answer": 1,
+    "en": "It's my friend's wedding, so I have to go."
+   },
+   {
+    "q": "{約束|やくそく}したので、{今|いま}さらやめる＿＿。",
+    "options": [
+     "わけにはいかない",
+     "はずだ",
+     "わけだ",
+     "ことにする"
+    ],
+    "answer": 0,
+    "en": "I promised, so I can't quit now."
+   }
+  ]
+ },
+ {
+  "id": "g3-065",
+  "level": 3,
+  "title_raw": "～べきだ",
+  "meaning": "should ~; ought to ~",
+  "structure": "Verb dictionary form + べきだ (する→するべき／すべき) ／ べきではない",
+  "explain": "Shows what is right or a duty, a strong opinion. It is stronger than ほうがいい and is not used for asking or advising superiors. Compare はずだ (expectation).",
+  "examples": [
+   {
+    "jp": "{約束|やくそく}は{守|まも}るべきだ。",
+    "en": "You should keep your promises."
+   },
+   {
+    "jp": "{学生|がくせい}はもっと{勉強|べんきょう}すべきだ。",
+    "en": "Students should study more."
+   },
+   {
+    "jp": "{人|ひと}の{悪口|わるぐち}を{言|い}うべきではない。",
+    "en": "You shouldn't speak badly of others."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{悪|わる}いことをしたら、{謝|あやま}る＿＿だ。",
+    "options": [
+     "べき",
+     "はず",
+     "わけ",
+     "つもり"
+    ],
+    "answer": 0,
+    "en": "If you did something wrong, you should apologize."
+   },
+   {
+    "q": "{公共|こうきょう}の{場所|ばしょ}で{大声|おおごえ}を{出|だ}す＿＿ではない。",
+    "options": [
+     "はず",
+     "こと",
+     "わけ",
+     "べき"
+    ],
+    "answer": 3,
+    "en": "You shouldn't shout in public places."
+   },
+   {
+    "q": "{若|わか}いうちに{色々|いろいろ}な{経験|けいけん}を＿＿べきだ。",
+    "options": [
+     "した",
+     "しよう",
+     "す",
+     "して"
+    ],
+    "answer": 2,
+    "en": "You should have many experiences while you're young."
+   }
+  ]
+ },
+ {
+  "id": "g3-066",
+  "level": 3,
+  "title_raw": "～ことはない",
+  "meaning": "there's no need to ~",
+  "structure": "Verb dictionary form + ことはない",
+  "explain": "Tells someone they do not need to do something, often to comfort them. Like なくてもいい but with a stronger feeling of \"don't worry\".",
+  "examples": [
+   {
+    "jp": "{心配|しんぱい}することはないよ。",
+    "en": "There's no need to worry."
+   },
+   {
+    "jp": "{電話|でんわ}で{聞|き}けばいいから、わざわざ{行|い}くことはない。",
+    "en": "You can just ask by phone, so there's no need to go all the way there."
+   },
+   {
+    "jp": "そんなに{急|いそ}ぐことはありません。",
+    "en": "There's no need to hurry so much."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{簡単|かんたん}な{試験|しけん}だから、{緊張|きんちょう}する＿＿ないよ。",
+    "options": [
+     "ところは",
+     "ことは",
+     "ためは",
+     "ばかりは"
+    ],
+    "answer": 1,
+    "en": "It's an easy test, so there's no need to be nervous."
+   },
+   {
+    "q": "{小|ちい}さなミスだから、{謝|あやま}る＿＿。",
+    "options": [
+     "はずがある",
+     "ことはない",
+     "ばかりいる",
+     "ほどだ"
+    ],
+    "answer": 1,
+    "en": "It's a small mistake, so there's no need to apologize."
+   },
+   {
+    "q": "{君|きみ}が{泣|な}く＿＿よ。{悪|わる}いのは{彼|かれ}だ。",
+    "options": [
+     "ことはない",
+     "わけだ",
+     "ものだ",
+     "べきだ"
+    ],
+    "answer": 0,
+    "en": "There's no need for you to cry. He's the one at fault."
+   }
+  ]
+ },
+ {
+  "id": "g3-067",
+  "level": 3,
+  "title_raw": "～ことだ",
+  "meaning": "you should ~ (advice)",
+  "structure": "Verb dictionary / ない form + ことだ",
+  "explain": "Gives advice or a warning, often from an older or senior person. It sounds direct. It is used for advice in general situations, unlike ほうがいい which is more personal.",
+  "examples": [
+   {
+    "jp": "{上手|じょうず}になりたければ、{毎日|まいにち}{練習|れんしゅう}することだ。",
+    "en": "If you want to improve, you should practice every day."
+   },
+   {
+    "jp": "{風邪|かぜ}の{時|とき}は、よく{寝|ね}ることだ。",
+    "en": "When you have a cold, you should sleep well."
+   },
+   {
+    "jp": "{人|ひと}の{話|はなし}を{最後|さいご}まで{聞|き}くことだ。",
+    "en": "You should listen to people until they finish."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{試験|しけん}に{合格|ごうかく}したいなら、もっと{勉強|べんきょう}する＿＿。",
+    "options": [
+     "はずだ",
+     "ところだ",
+     "わけだ",
+     "ことだ"
+    ],
+    "answer": 3,
+    "en": "If you want to pass the exam, you should study more."
+   },
+   {
+    "q": "{痩|や}せたいなら、{夜|よる}{遅|おそ}く{食|た}べない＿＿だ。",
+    "options": [
+     "わけ",
+     "はず",
+     "こと",
+     "つもり"
+    ],
+    "answer": 2,
+    "en": "If you want to lose weight, don't eat late at night."
+   },
+   {
+    "q": "{失敗|しっぱい}を{恐|おそ}れずに、やってみる＿＿。",
+    "options": [
+     "ことはない",
+     "わけだ",
+     "ことだ",
+     "はずがない"
+    ],
+    "answer": 2,
+    "en": "Don't be afraid of failure; just try it."
+   }
+  ]
+ },
+ {
+  "id": "g3-068",
+  "level": 3,
+  "title_raw": "～ものだ (general truth / nostalgia)",
+  "meaning": "that's how ~ is; used to ~",
+  "structure": "Verb dictionary form + ものだ ／ Verb た form + ものだ",
+  "explain": "Dictionary form + ものだ states general truth or common sense: {人|ひと}は{変|か}わるものだ. た form + ものだ shows nostalgia: \"I often used to ~\". It can also give soft advice.",
+  "examples": [
+   {
+    "jp": "{時間|じかん}が{経|た}つのは{早|はや}いものだ。",
+    "en": "Time really flies."
+   },
+   {
+    "jp": "{子|こ}どもの{頃|ころ}、よくこの{川|かわ}で{泳|およ}いだものだ。",
+    "en": "When I was a child, I used to swim in this river a lot."
+   },
+   {
+    "jp": "{目上|めうえ}の{人|ひと}には{敬語|けいご}を{使|つか}うものです。",
+    "en": "You're supposed to use honorifics with superiors."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{学生|がくせい}の{頃|ころ}は、よく{徹夜|てつや}で{遊|あそ}んだ＿＿だ。",
+    "options": [
+     "こと",
+     "もの",
+     "わけ",
+     "はず"
+    ],
+    "answer": 1,
+    "en": "When I was a student, I often stayed up all night having fun."
+   },
+   {
+    "q": "{人|ひと}の{心|こころ}は{変|か}わる＿＿だ。",
+    "options": [
+     "もの",
+     "こと",
+     "わけ",
+     "べき"
+    ],
+    "answer": 0,
+    "en": "People's hearts change; that's just how it is."
+   },
+   {
+    "q": "{子|こ}どもは{外|そと}で{遊|あそ}ぶ＿＿。",
+    "options": [
+     "ことはない",
+     "わけがない",
+     "ものの",
+     "ものだ"
+    ],
+    "answer": 3,
+    "en": "Children naturally play outside."
+   }
+  ]
+ },
+ {
+  "id": "g3-069",
+  "level": 3,
+  "title_raw": "～ものの",
+  "meaning": "although ~; but ~",
+  "structure": "Plain form (なA-な／である, Noun + である) + ものの",
+  "explain": "Means \"although A is true, B didn't go as expected\". It is more formal and written than けど or のに.",
+  "examples": [
+   {
+    "jp": "{免許|めんきょ}は{取|と}ったものの、まだ{運転|うんてん}が{怖|こわ}い。",
+    "en": "Although I got my license, I'm still scared to drive."
+   },
+   {
+    "jp": "{日本語|にほんご}を{勉強|べんきょう}しているものの、なかなか{話|はな}せない。",
+    "en": "Although I study Japanese, I still can't really speak it."
+   },
+   {
+    "jp": "{安|やす}いものの、{品質|ひんしつ}はよくない。",
+    "en": "Although it's cheap, the quality isn't good."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{旅行|りょこう}に{行|い}きたい＿＿、{時間|じかん}がない。",
+    "options": [
+     "ために",
+     "ものだ",
+     "ことに",
+     "ものの"
+    ],
+    "answer": 3,
+    "en": "Although I want to go on a trip, I have no time."
+   },
+   {
+    "q": "{新|あたら}しいパソコンを{買|か}った＿＿、{使|つか}い{方|かた}がわからない。",
+    "options": [
+     "ためで",
+     "ことは",
+     "ものの",
+     "ほど"
+    ],
+    "answer": 2,
+    "en": "Although I bought a new computer, I don't know how to use it."
+   },
+   {
+    "q": "{頭|あたま}ではわかっている＿＿、なかなかやめられない。",
+    "options": [
+     "ために",
+     "ものの",
+     "ように",
+     "ばかりに"
+    ],
+    "answer": 1,
+    "en": "Although I know it in my head, I can't stop."
+   }
+  ]
+ },
+ {
+  "id": "g3-070",
+  "level": 3,
+  "title_raw": "～ことに",
+  "meaning": "what is ~ is that ~; to my ~",
+  "structure": "いA / なA-な / Verb た form + ことに",
+  "explain": "Shows the speaker's strong feeling before stating a fact: {驚|おどろ}いたことに (surprisingly), {残念|ざんねん}なことに (unfortunately). It is a bit formal.",
+  "examples": [
+   {
+    "jp": "{驚|おどろ}いたことに、{彼|かれ}は{十|じゅう}か{国語|こくご}が{話|はな}せる。",
+    "en": "Surprisingly, he can speak ten languages."
+   },
+   {
+    "jp": "{残念|ざんねん}なことに、{試合|しあい}は{中止|ちゅうし}になった。",
+    "en": "Unfortunately, the game was cancelled."
+   },
+   {
+    "jp": "うれしいことに、{友|とも}だちが{遊|あそ}びに{来|き}てくれた。",
+    "en": "To my joy, my friend came to visit."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{困|こま}った＿＿、{財布|さいふ}を{家|いえ}に{忘|わす}れてしまった。",
+    "options": [
+     "ことに",
+     "ものに",
+     "わけに",
+     "ために"
+    ],
+    "answer": 0,
+    "en": "To my dismay, I left my wallet at home."
+   },
+   {
+    "q": "{不思議|ふしぎ}な＿＿、{誰|だれ}もその{音|おと}を{聞|き}いていない。",
+    "options": [
+     "ことに",
+     "わけに",
+     "ために",
+     "ほどに"
+    ],
+    "answer": 0,
+    "en": "Strangely, no one heard that sound."
+   },
+   {
+    "q": "{幸|さいわ}いな＿＿、{怪我人|けがにん}はいなかった。",
+    "options": [
+     "ために",
+     "ように",
+     "ばかりに",
+     "ことに"
+    ],
+    "answer": 3,
+    "en": "Fortunately, no one was injured."
+   }
+  ]
+ },
+ {
+  "id": "g3-071",
+  "level": 3,
+  "title_raw": "～ということだ",
+  "meaning": "I heard that ~; that means ~",
+  "structure": "Plain form + ということだ",
+  "explain": "Reports what you heard, a bit more formal than そうだ. It can also give a conclusion: \"in other words\". Often used with によると.",
+  "examples": [
+   {
+    "jp": "{天気予報|てんきよほう}によると、{明日|あした}は{晴|は}れるということだ。",
+    "en": "According to the weather forecast, it will be sunny tomorrow."
+   },
+   {
+    "jp": "{山田|やまだ}さんは{来週|らいしゅう}{退院|たいいん}するということです。",
+    "en": "I hear Yamada will leave the hospital next week."
+   },
+   {
+    "jp": "{返事|へんじ}がないということは、{来|こ}ないということだろう。",
+    "en": "No reply probably means he isn't coming."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "ニュースによると、{犯人|はんにん}が{捕|つか}まった＿＿。",
+    "options": [
+     "ようにする",
+     "ことにする",
+     "ということだ",
+     "ばかりだ"
+    ],
+    "answer": 2,
+    "en": "According to the news, the criminal was caught."
+   },
+   {
+    "q": "{試験|しけん}は{来月|らいげつ}{行|おこな}われる＿＿です。",
+    "options": [
+     "というもの",
+     "ということ",
+     "というわけ",
+     "というほど"
+    ],
+    "answer": 1,
+    "en": "I hear the exam will be held next month."
+   },
+   {
+    "q": "{全員|ぜんいん}{賛成|さんせい}ということは、この{案|あん}に{決|き}まった＿＿ね。",
+    "options": [
+     "というものだ",
+     "ということだ",
+     "ばかりだ",
+     "ところだ"
+    ],
+    "answer": 1,
+    "en": "Everyone agreeing means this plan is decided, right?"
+   }
+  ]
+ },
+ {
+  "id": "g3-072",
+  "level": 3,
+  "title_raw": "～って (quote / topic)",
+  "meaning": "they say ~; (topic marker); called ~",
+  "structure": "Plain form / Noun + って",
+  "explain": "Casual speech. It replaces と (quote), という (called), and は (topic). Example: {明日|あした}{休|やす}みだって = I heard tomorrow is a day off.",
+  "examples": [
+   {
+    "jp": "{田中|たなか}さん、{今日|きょう}{来|こ}ないって。",
+    "en": "Tanaka says he's not coming today."
+   },
+   {
+    "jp": "「すき{焼|や}き」って{何|なん}ですか。",
+    "en": "What is \"sukiyaki\"?"
+   },
+   {
+    "jp": "{日本|にほん}の{夏|なつ}って、{本当|ほんとう}に{暑|あつ}いね。",
+    "en": "Summer in Japan is really hot, huh."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{先生|せんせい}が、{明日|あした}テストするんだ＿＿。",
+    "options": [
+     "って",
+     "ほど",
+     "ばかり",
+     "まで"
+    ],
+    "answer": 0,
+    "en": "The teacher says there's a test tomorrow."
+   },
+   {
+    "q": "「ハナミ」＿＿どういう{意味|いみ}？",
+    "options": [
+     "を",
+     "で",
+     "に",
+     "って"
+    ],
+    "answer": 3,
+    "en": "What does \"hanami\" mean?"
+   },
+   {
+    "q": "{彼女|かのじょ}、{結婚|けっこん}する＿＿よ。",
+    "options": [
+     "ので",
+     "から",
+     "んだって",
+     "ばかり"
+    ],
+    "answer": 2,
+    "en": "I heard she's getting married."
+   }
+  ]
+ },
+ {
+  "id": "g3-073",
+  "level": 3,
+  "title_raw": "～という (called / content)",
+  "meaning": "called ~; that ~",
+  "structure": "Noun + という + Noun ／ Plain form + という + Noun",
+  "explain": "Names something the listener may not know: 「さくら」という{店|みせ}. It also links content to nouns like {話|はなし}, {意見|いけん}, ニュース: ～というニュース.",
+  "examples": [
+   {
+    "jp": "「{山田|やまだ}」という{人|ひと}から{電話|でんわ}がありました。",
+    "en": "There was a call from a person called Yamada."
+   },
+   {
+    "jp": "{明日|あした}{雪|ゆき}が{降|ふ}るというニュースを{見|み}た。",
+    "en": "I saw news saying it will snow tomorrow."
+   },
+   {
+    "jp": "これは{何|なん}という{花|はな}ですか。",
+    "en": "What is this flower called?"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "「さくら」＿＿{店|みせ}を{知|し}っていますか。",
+    "options": [
+     "をいう",
+     "にする",
+     "という",
+     "でいう"
+    ],
+    "answer": 2,
+    "en": "Do you know a shop called Sakura?"
+   },
+   {
+    "q": "{彼|かれ}が{会社|かいしゃ}を{辞|や}める＿＿{噂|うわさ}を{聞|き}いた。",
+    "options": [
+     "として",
+     "という",
+     "ために",
+     "ように"
+    ],
+    "answer": 1,
+    "en": "I heard a rumor that he's quitting the company."
+   },
+   {
+    "q": "これは{日本語|にほんご}で{何|なん}＿＿いいますか。",
+    "options": [
+     "と",
+     "を",
+     "に",
+     "で"
+    ],
+    "answer": 0,
+    "en": "What is this called in Japanese?"
+   }
+  ]
+ },
+ {
+  "id": "g3-074",
+  "level": 3,
+  "title_raw": "～というより",
+  "meaning": "rather than ~",
+  "structure": "Plain form (なA / Noun: no だ) + というより（も）",
+  "explain": "Gives a more accurate description: \"It's not so much A as B\". A is acceptable, but B fits better. Often followed by むしろ.",
+  "examples": [
+   {
+    "jp": "{今日|きょう}は{暖|あたた}かいというより{暑|あつ}い。",
+    "en": "Today is hot rather than warm."
+   },
+   {
+    "jp": "{彼|かれ}は{友|とも}だちというより{家族|かぞく}のような{存在|そんざい}だ。",
+    "en": "He's more like family than a friend."
+   },
+   {
+    "jp": "{料理|りょうり}は{趣味|しゅみ}というより{仕事|しごと}です。",
+    "en": "Cooking is my job rather than my hobby."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "この{部屋|へや}は{涼|すず}しい＿＿、{寒|さむ}い。",
+    "options": [
+     "からには",
+     "というと",
+     "ばかりか",
+     "というより"
+    ],
+    "answer": 3,
+    "en": "This room is cold rather than cool."
+   },
+   {
+    "q": "{彼女|かのじょ}は{歌手|かしゅ}という＿＿、{女優|じょゆう}として{有名|ゆうめい}だ。",
+    "options": [
+     "と",
+     "まで",
+     "ほど",
+     "より"
+    ],
+    "answer": 3,
+    "en": "She's famous as an actress rather than a singer."
+   },
+   {
+    "q": "{休|やす}みたい＿＿、{寝|ね}たい。",
+    "options": [
+     "ところに",
+     "ために",
+     "というより",
+     "ばかりに"
+    ],
+    "answer": 2,
+    "en": "Rather than rest, I want to sleep."
+   }
+  ]
+ },
+ {
+  "id": "g3-075",
+  "level": 3,
+  "title_raw": "～とは限らない",
+  "meaning": "not necessarily ~; not always ~",
+  "structure": "Plain form + とは{限|かぎ}らない",
+  "explain": "Says something is not always true. Often used with いつも, {必|かなら}ず, or {全部|ぜんぶ}. Similar to わけではない, but it focuses on the general rule having exceptions.",
+  "examples": [
+   {
+    "jp": "{高|たか}い{物|もの}がいい{物|もの}だとは{限|かぎ}らない。",
+    "en": "Expensive things aren't necessarily good."
+   },
+   {
+    "jp": "{日本人|にほんじん}がみんな{敬語|けいご}が{上手|じょうず}だとは{限|かぎ}らない。",
+    "en": "Not all Japanese people are good at honorifics."
+   },
+   {
+    "jp": "{天気予報|てんきよほう}がいつも{正|ただ}しいとは{限|かぎ}りません。",
+    "en": "The weather forecast isn't always right."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{有名|ゆうめい}な{店|みせ}がおいしい＿＿。",
+    "options": [
+     "わけだ",
+     "とは{限|かぎ}らない",
+     "はずだ",
+     "ことだ"
+    ],
+    "answer": 1,
+    "en": "Famous restaurants aren't necessarily tasty."
+   },
+   {
+    "q": "{先生|せんせい}がいつも{正|ただ}しいとは＿＿。",
+    "options": [
+     "{限|かぎ}らない",
+     "{限|かぎ}る",
+     "{限|かぎ}った",
+     "{限|かぎ}って"
+    ],
+    "answer": 0,
+    "en": "Teachers aren't always right."
+   },
+   {
+    "q": "{勉強|べんきょう}したからといって、{必|かなら}ず{合格|ごうかく}する＿＿。",
+    "options": [
+     "とは{限|かぎ}らない",
+     "はずだ",
+     "わけだ",
+     "べきだ"
+    ],
+    "answer": 0,
+    "en": "Just because you studied doesn't mean you'll definitely pass."
+   }
+  ]
+ },
+ {
+  "id": "g3-076",
+  "level": 3,
+  "title_raw": "～からといって",
+  "meaning": "just because ~ (doesn't mean)",
+  "structure": "Plain form + からといって",
+  "explain": "Means a reason is not enough to lead to the result. It is usually followed by わけではない, とは{限|かぎ}らない, or a negative.",
+  "examples": [
+   {
+    "jp": "{日本人|にほんじん}だからといって、{漢字|かんじ}が{全部|ぜんぶ}{書|か}けるわけではない。",
+    "en": "Just because someone is Japanese doesn't mean they can write all kanji."
+   },
+   {
+    "jp": "{忙|いそが}しいからといって、{朝|あさ}ごはんを{抜|ぬ}くのはよくない。",
+    "en": "Being busy is no reason to skip breakfast."
+   },
+   {
+    "jp": "{安|やす}いからといって、{買|か}いすぎないでね。",
+    "en": "Don't buy too much just because it's cheap."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "お{金|かね}がある＿＿、{幸|しあわ}せだとは{限|かぎ}らない。",
+    "options": [
+     "うちに",
+     "おかげで",
+     "ために",
+     "からといって"
+    ],
+    "answer": 3,
+    "en": "Having money doesn't necessarily mean you're happy."
+   },
+   {
+    "q": "{好|す}きだからといって、{毎日|まいにち}{食|た}べる＿＿。",
+    "options": [
+     "わけだ",
+     "はずだ",
+     "わけではない",
+     "ことにする"
+    ],
+    "answer": 2,
+    "en": "Just because I like it doesn't mean I eat it every day."
+   },
+   {
+    "q": "{子|こ}どもだから＿＿、{何|なに}をしてもいいわけではない。",
+    "options": [
+     "といえば",
+     "といって",
+     "として",
+     "にとって"
+    ],
+    "answer": 1,
+    "en": "Being a child doesn't mean you can do anything."
+   }
+  ]
+ },
+ {
+  "id": "g3-077",
+  "level": 3,
+  "title_raw": "～ば／たら／なら (comparison)",
+  "meaning": "if ~ (choosing the right conditional)",
+  "structure": "ば: result follows naturally ／ たら: after A happens, B ／ なら: if that's the case (advice)",
+  "explain": "ば is for general conditions. たら is for a single event, \"when/if\" after A. なら picks up the listener's topic and gives advice: {京都|きょうと}へ{行|い}くなら… Only たら and なら work freely with requests.",
+  "examples": [
+   {
+    "jp": "{安|やす}ければ{買|か}います。",
+    "en": "If it's cheap, I'll buy it."
+   },
+   {
+    "jp": "{駅|えき}に{着|つ}いたら、{電話|でんわ}してください。",
+    "en": "Please call me when you get to the station."
+   },
+   {
+    "jp": "{北海道|ほっかいどう}へ{行|い}くなら、{冬|ふゆ}がいいですよ。",
+    "en": "If you're going to Hokkaido, winter is good."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "A：パソコンを{買|か}いたいんです。B：パソコン＿＿、あの{店|みせ}がいいですよ。",
+    "options": [
+     "たら",
+     "なら",
+     "ば",
+     "と"
+    ],
+    "answer": 1,
+    "en": "A: I want to buy a computer. B: If it's a computer, that shop is good."
+   },
+   {
+    "q": "{家|いえ}に{帰|かえ}っ＿＿、すぐシャワーを{浴|あ}びた。",
+    "options": [
+     "たら",
+     "なら",
+     "ば",
+     "とき"
+    ],
+    "answer": 0,
+    "en": "When I got home, I took a shower right away."
+   },
+   {
+    "q": "{雨|あめ}が{降|ふ}れ＿＿、{試合|しあい}は{中止|ちゅうし}です。",
+    "options": [
+     "たら",
+     "なら",
+     "と",
+     "ば"
+    ],
+    "answer": 3,
+    "en": "If it rains, the game will be cancelled."
+   }
+  ]
+ },
+ {
+  "id": "g3-078",
+  "level": 3,
+  "title_raw": "～ばよかった",
+  "meaning": "I should have ~",
+  "structure": "Verb ば form + よかった ／ なければよかった",
+  "explain": "Shows regret about the past: \"I wish I had ~\". The opposite is なければよかった (I shouldn't have). Also たらよかった.",
+  "examples": [
+   {
+    "jp": "もっと{早|はや}く{出|で}ればよかった。",
+    "en": "I should have left earlier."
+   },
+   {
+    "jp": "あんなこと、{言|い}わなければよかった。",
+    "en": "I shouldn't have said that."
+   },
+   {
+    "jp": "{傘|かさ}を{持|も}ってくればよかったです。",
+    "en": "I should have brought an umbrella."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{試験|しけん}の{前|まえ}に、もっと{勉強|べんきょう}すれ＿＿よかった。",
+    "options": [
+     "て",
+     "たら",
+     "ば",
+     "と"
+    ],
+    "answer": 2,
+    "en": "I should have studied more before the exam."
+   },
+   {
+    "q": "こんなに{高|たか}いなら、{買|か}わ＿＿よかった。",
+    "options": [
+     "なくて",
+     "ないで",
+     "なければ",
+     "ながら"
+    ],
+    "answer": 2,
+    "en": "If it's this expensive, I shouldn't have bought it."
+   },
+   {
+    "q": "{予約|よやく}して＿＿よかった。",
+    "options": [
+     "おいて",
+     "おけば",
+     "おくと",
+     "おこう"
+    ],
+    "answer": 1,
+    "en": "I should have made a reservation in advance."
+   }
+  ]
+ },
+ {
+  "id": "g3-079",
+  "level": 3,
+  "title_raw": "～ても (even if)",
+  "meaning": "even if ~; even though ~",
+  "structure": "Verb て form + も ／ いA-くても ／ なA / Noun + でも",
+  "explain": "Means the result does not change even if A happens. With question words it means \"no matter\": {何|なに}を{食|た}べても (no matter what I eat). Compare のに, which is about a fact that already happened.",
+  "examples": [
+   {
+    "jp": "{雨|あめ}が{降|ふ}っても、{試合|しあい}はあります。",
+    "en": "Even if it rains, the game will happen."
+   },
+   {
+    "jp": "いくら{食|た}べても{太|ふと}らない。",
+    "en": "No matter how much I eat, I don't gain weight."
+   },
+   {
+    "jp": "{高|たか}くても、{買|か}いたい。",
+    "en": "Even if it's expensive, I want to buy it."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{何回|なんかい}{聞|き}い＿＿、わからない。",
+    "options": [
+     "ても",
+     "たら",
+     "ので",
+     "のに"
+    ],
+    "answer": 0,
+    "en": "No matter how many times I hear it, I don't understand."
+   },
+   {
+    "q": "{明日|あした}は{雨|あめ}＿＿、{出|で}かけます。",
+    "options": [
+     "ても",
+     "なのに",
+     "だら",
+     "でも"
+    ],
+    "answer": 3,
+    "en": "Even if it rains tomorrow, I'll go out."
+   },
+   {
+    "q": "どんなに{忙|いそが}しく＿＿、{毎日|まいにち}{運動|うんどう}している。",
+    "options": [
+     "たら",
+     "なら",
+     "て",
+     "ても"
+    ],
+    "answer": 3,
+    "en": "No matter how busy I am, I exercise every day."
+   }
+  ]
+ },
+ {
+  "id": "g3-080",
+  "level": 3,
+  "title_raw": "～としても",
+  "meaning": "even if ~ (supposing)",
+  "structure": "Plain form + としても",
+  "explain": "Supposes something that may not be true and says the result will not change. It is more hypothetical and a bit more formal than ても.",
+  "examples": [
+   {
+    "jp": "{今|いま}から{急|いそ}いだとしても、{間|ま}に{合|あ}わないだろう。",
+    "en": "Even if we hurry now, we probably won't make it."
+   },
+   {
+    "jp": "{宝|たから}くじが{当|あ}たったとしても、{仕事|しごと}は{辞|や}めない。",
+    "en": "Even if I won the lottery, I wouldn't quit my job."
+   },
+   {
+    "jp": "{冗談|じょうだん}だとしても、それは{言|い}いすぎだ。",
+    "en": "Even if it was a joke, that went too far."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{反対|はんたい}された＿＿、{私|わたし}は{留学|りゅうがく}します。",
+    "options": [
+     "ために",
+     "おかげで",
+     "としても",
+     "うちに"
+    ],
+    "answer": 2,
+    "en": "Even if they oppose it, I will study abroad."
+   },
+   {
+    "q": "{本当|ほんとう}だ＿＿、{信|しん}じられない。",
+    "options": [
+     "として",
+     "としても",
+     "とする",
+     "ばかりに"
+    ],
+    "answer": 1,
+    "en": "Even if it's true, I can't believe it."
+   },
+   {
+    "q": "お{金|かね}があった＿＿、そんな{車|くるま}は{買|か}わない。",
+    "options": [
+     "としても",
+     "ばかりに",
+     "にしては",
+     "ために"
+    ],
+    "answer": 0,
+    "en": "Even if I had the money, I wouldn't buy that car."
+   }
+  ]
+ },
+ {
+  "id": "g3-081",
+  "level": 3,
+  "title_raw": "～とすると／としたら",
+  "meaning": "if we suppose ~; if that's the case",
+  "structure": "Plain form + とすると／としたら／とすれば",
+  "explain": "Supposes a situation and thinks about the result: \"if it were true that ~\". Common with もし. Compare としても (even if).",
+  "examples": [
+   {
+    "jp": "もし{一億円|いちおくえん}あったとしたら、{何|なに}をしますか。",
+    "en": "If you had 100 million yen, what would you do?"
+   },
+   {
+    "jp": "{電車|でんしゃ}で{行|い}くとすると、2{時間|じかん}かかります。",
+    "en": "If we go by train, it will take 2 hours."
+   },
+   {
+    "jp": "{彼|かれ}の{話|はなし}が{本当|ほんとう}だとすれば、{大変|たいへん}なことだ。",
+    "en": "If his story is true, it's a serious matter."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "もし{生|う}まれ{変|か}われる＿＿、{鳥|とり}になりたい。",
+    "options": [
+     "としたら",
+     "としても",
+     "からといって",
+     "ものの"
+    ],
+    "answer": 0,
+    "en": "If I could be reborn, I'd want to be a bird."
+   },
+   {
+    "q": "{今|いま}{出発|しゅっぱつ}する＿＿、{何時|なんじ}に{着|つ}きますか。",
+    "options": [
+     "としても",
+     "ものの",
+     "からには",
+     "とすると"
+    ],
+    "answer": 3,
+    "en": "If we leave now, what time will we arrive?"
+   },
+   {
+    "q": "{留学|りゅうがく}する＿＿、どこの{国|くに}がいいですか。",
+    "options": [
+     "ばかりに",
+     "としても",
+     "としたら",
+     "うちに"
+    ],
+    "answer": 2,
+    "en": "If you were to study abroad, which country would be good?"
+   }
+  ]
+ },
+ {
+  "id": "g3-082",
+  "level": 3,
+  "title_raw": "～さえ～ば",
+  "meaning": "if only ~; as long as ~",
+  "structure": "Noun + さえ + Verb ば ／ Verb ます stem + さえすれば ／ Verb て + さえいれば",
+  "explain": "Means one condition is enough for the result. Example: {薬|くすり}さえ{飲|の}めば{治|なお}る (as long as you take medicine, you'll get better).",
+  "examples": [
+   {
+    "jp": "お{金|かね}さえあれば、{旅行|りょこう}に{行|い}けるのに。",
+    "en": "If only I had money, I could go on a trip."
+   },
+   {
+    "jp": "この{薬|くすり}を{飲|の}みさえすれば、すぐ{治|なお}ります。",
+    "en": "As long as you take this medicine, you'll get better soon."
+   },
+   {
+    "jp": "{時間|じかん}さえあれば、{本|ほん}を{読|よ}んでいます。",
+    "en": "Whenever I have time, I read books."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{天気|てんき}＿＿よければ、{山|やま}に{登|のぼ}れる。",
+    "options": [
+     "まで",
+     "さえ",
+     "ばかり",
+     "しか"
+    ],
+    "answer": 1,
+    "en": "As long as the weather is good, we can climb the mountain."
+   },
+   {
+    "q": "ボタンを{押|お}し＿＿すれば、{動|うご}きます。",
+    "options": [
+     "だけ",
+     "さえ",
+     "まで",
+     "ほど"
+    ],
+    "answer": 1,
+    "en": "As long as you press the button, it will work."
+   },
+   {
+    "q": "{君|きみ}さえ＿＿、{私|わたし}は{幸|しあわ}せだ。",
+    "options": [
+     "いれば",
+     "いるのに",
+     "いても",
+     "いたのに"
+    ],
+    "answer": 0,
+    "en": "As long as I have you, I'm happy."
+   }
+  ]
+ },
+ {
+  "id": "g3-083",
+  "level": 3,
+  "title_raw": "～さえ (even)",
+  "meaning": "even ~",
+  "structure": "Noun (+ particle) + さえ",
+  "explain": "Gives an extreme example to show that other things are even more so: {名前|なまえ}さえ{書|か}けない (can't even write his name). Similar to でも／も but stronger. Compare すら, a more formal version.",
+  "examples": [
+   {
+    "jp": "{忙|いそが}しくて、{水|みず}を{飲|の}む{時間|じかん}さえない。",
+    "en": "I'm so busy I don't even have time to drink water."
+   },
+   {
+    "jp": "そんなこと、{子|こ}どもでさえ{知|し}っている。",
+    "en": "Even a child knows that."
+   },
+   {
+    "jp": "{彼|かれ}は{自分|じぶん}の{名前|なまえ}さえ{漢字|かんじ}で{書|か}けない。",
+    "en": "He can't even write his own name in kanji."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{疲|つか}れて、{立|た}つこと＿＿できない。",
+    "options": [
+     "ほど",
+     "ばかり",
+     "だけ",
+     "さえ"
+    ],
+    "answer": 3,
+    "en": "I'm so tired I can't even stand."
+   },
+   {
+    "q": "{親友|しんゆう}に＿＿{言|い}えない{秘密|ひみつ}がある。",
+    "options": [
+     "ばかり",
+     "ほど",
+     "さえ",
+     "くらい"
+    ],
+    "answer": 2,
+    "en": "I have a secret I can't even tell my best friend."
+   },
+   {
+    "q": "{先生|せんせい}＿＿{解|と}けない{問題|もんだい}だ。",
+    "options": [
+     "にしか",
+     "ばかり",
+     "でさえ",
+     "ほど"
+    ],
+    "answer": 2,
+    "en": "It's a problem even the teacher can't solve."
+   }
+  ]
+ },
+ {
+  "id": "g3-084",
+  "level": 3,
+  "title_raw": "～しか～ない",
+  "meaning": "only ~ (nothing but)",
+  "structure": "Noun (+ particle) + しか + negative",
+  "explain": "Means \"only\" but always with a negative verb, and shows the amount is small or not enough. Compare だけ, which is neutral and goes with positive verbs.",
+  "examples": [
+   {
+    "jp": "{財布|さいふ}に{百円|ひゃくえん}しかありません。",
+    "en": "I only have 100 yen in my wallet."
+   },
+   {
+    "jp": "{日本語|にほんご}は{少|すこ}ししか{話|はな}せない。",
+    "en": "I can speak only a little Japanese."
+   },
+   {
+    "jp": "{待|ま}つしかない。",
+    "en": "There's nothing to do but wait."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{昨日|きのう}は{三時間|さんじかん}＿＿{寝|ね}なかった。",
+    "options": [
+     "まで",
+     "しか",
+     "ばかり",
+     "さえ"
+    ],
+    "answer": 1,
+    "en": "I only slept three hours yesterday."
+   },
+   {
+    "q": "バスがないから、{歩|ある}いて{行|い}く＿＿ない。",
+    "options": [
+     "しか",
+     "だけ",
+     "ほど",
+     "まで"
+    ],
+    "answer": 0,
+    "en": "There's no bus, so I have no choice but to walk."
+   },
+   {
+    "q": "{冷蔵庫|れいぞうこ}に{卵|たまご}が{一|ひと}つしか＿＿。",
+    "options": [
+     "ある",
+     "あります",
+     "あった",
+     "ありません"
+    ],
+    "answer": 3,
+    "en": "There's only one egg in the fridge."
+   }
+  ]
+ },
+ {
+  "id": "g3-085",
+  "level": 3,
+  "title_raw": "～ばかりか／だけでなく",
+  "meaning": "not only ~ but also ~",
+  "structure": "Plain form / Noun + ばかりか／だけでなく + ～も",
+  "explain": "Adds something more: A, and also B. ばかりか is more written and B is often more surprising. だけでなく is common in speech. Also のみならず (formal).",
+  "examples": [
+   {
+    "jp": "{彼|かれ}は{英語|えいご}だけでなく、{中国語|ちゅうごくご}も{話|はな}せる。",
+    "en": "He can speak not only English but also Chinese."
+   },
+   {
+    "jp": "{雨|あめ}ばかりか、{風|かぜ}も{強|つよ}くなってきた。",
+    "en": "Not only rain, but the wind also got stronger."
+   },
+   {
+    "jp": "この{店|みせ}は{安|やす}いだけでなく、おいしい。",
+    "en": "This restaurant is not only cheap but also tasty."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{彼女|かのじょ}は{歌|うた}＿＿、ダンスも{上手|じょうず}だ。",
+    "options": [
+     "ほど",
+     "しか",
+     "さえ",
+     "だけでなく"
+    ],
+    "answer": 3,
+    "en": "She's good not only at singing but also at dancing."
+   },
+   {
+    "q": "{熱|ねつ}がある＿＿、{頭|あたま}も{痛|いた}い。",
+    "options": [
+     "しか",
+     "ほど",
+     "ばかりか",
+     "ように"
+    ],
+    "answer": 2,
+    "en": "Not only do I have a fever, my head also hurts."
+   },
+   {
+    "q": "{子|こ}どもだけでなく、{大人|おとな}＿＿{楽|たの}しめる{映画|えいが}だ。",
+    "options": [
+     "しか",
+     "も",
+     "ばかり",
+     "を"
+    ],
+    "answer": 1,
+    "en": "It's a movie not only children but also adults can enjoy."
+   }
+  ]
+ },
+ {
+  "id": "g3-086",
+  "level": 3,
+  "title_raw": "～に比べて",
+  "meaning": "compared with ~",
+  "structure": "Noun + に{比|くら}べて／{比|くら}べると",
+  "explain": "Compares two things. It is a bit more formal than より. Example: {去年|きょねん}に{比|くら}べて{暑|あつ}い.",
+  "examples": [
+   {
+    "jp": "{去年|きょねん}に{比|くら}べて、{今年|ことし}は{雪|ゆき}が{多|おお}い。",
+    "en": "Compared with last year, there's more snow this year."
+   },
+   {
+    "jp": "{兄|あに}に{比|くら}べると、{私|わたし}は{背|せ}が{低|ひく}い。",
+    "en": "Compared with my brother, I'm short."
+   },
+   {
+    "jp": "{東京|とうきょう}に{比|くら}べて、{大阪|おおさか}は{物価|ぶっか}が{安|やす}い。",
+    "en": "Compared with Tokyo, prices in Osaka are cheaper."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{都会|とかい}に＿＿、{田舎|いなか}は{空気|くうき}がきれいだ。",
+    "options": [
+     "{比|くら}べて",
+     "{対|たい}して",
+     "とって",
+     "よって"
+    ],
+    "answer": 0,
+    "en": "Compared with the city, the air in the countryside is clean."
+   },
+   {
+    "q": "{前|まえ}の{仕事|しごと}に＿＿、{今|いま}の{仕事|しごと}は{楽|らく}だ。",
+    "options": [
+     "{比|くら}べると",
+     "ついて",
+     "よると",
+     "{関|かん}して"
+    ],
+    "answer": 0,
+    "en": "Compared with my previous job, my current job is easy."
+   },
+   {
+    "q": "{兄弟|きょうだい}に＿＿、{私|わたし}は{勉強|べんきょう}が{苦手|にがて}だ。",
+    "options": [
+     "とって",
+     "よって",
+     "ついて",
+     "{比|くら}べて"
+    ],
+    "answer": 3,
+    "en": "Compared with my siblings, I'm bad at studying."
+   }
+  ]
+ },
+ {
+  "id": "g3-087",
+  "level": 3,
+  "title_raw": "～に従って／につれて",
+  "meaning": "as ~ (changes), ~",
+  "structure": "Verb dictionary form / Noun + に{従|したが}って／につれて",
+  "explain": "Shows that as one thing changes, another changes too: {年|とし}をとるにつれて. に{従|したが}って can also mean \"following\" a rule or instruction.",
+  "examples": [
+   {
+    "jp": "{年|とし}をとるにつれて、{体|からだ}が{弱|よわ}くなる。",
+    "en": "As you get older, your body gets weaker."
+   },
+   {
+    "jp": "{山|やま}を{登|のぼ}るに{従|したが}って、{寒|さむ}くなってきた。",
+    "en": "As we climbed the mountain, it got colder."
+   },
+   {
+    "jp": "{先生|せんせい}の{指示|しじ}に{従|したが}って、{行動|こうどう}してください。",
+    "en": "Please act according to the teacher's instructions."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{時間|じかん}がたつ＿＿、{悲|かな}しみも{小|ちい}さくなった。",
+    "options": [
+     "に{対|たい}して",
+     "にとって",
+     "につれて",
+     "について"
+    ],
+    "answer": 2,
+    "en": "As time passed, the sadness got smaller."
+   },
+   {
+    "q": "ルールに＿＿、ゴミを{出|だ}してください。",
+    "options": [
+     "{比|くら}べて",
+     "{従|したが}って",
+     "{対|たい}して",
+     "とって"
+    ],
+    "answer": 1,
+    "en": "Please put out the garbage according to the rules."
+   },
+   {
+    "q": "{日本語|にほんご}が{上手|じょうず}になる＿＿、{日本|にほん}の{生活|せいかつ}が{楽|たの}しくなった。",
+    "options": [
+     "によって",
+     "にしたがって",
+     "とおりに",
+     "ところに"
+    ],
+    "answer": 1,
+    "en": "As my Japanese got better, life in Japan became more fun."
+   }
+  ]
+ },
+ {
+  "id": "g3-088",
+  "level": 3,
+  "title_raw": "～ようとしない",
+  "meaning": "won't even try to ~; refuses to ~",
+  "structure": "Verb volitional form + としない",
+  "explain": "Used for other people who refuse or show no will to do something. It shows the speaker's frustration. It is not used for yourself.",
+  "examples": [
+   {
+    "jp": "{息子|むすこ}は{全然|ぜんぜん}{勉強|べんきょう}しようとしない。",
+    "en": "My son won't even try to study."
+   },
+   {
+    "jp": "{彼|かれ}は{自分|じぶん}の{間違|まちが}いを{認|みと}めようとしない。",
+    "en": "He refuses to admit his mistake."
+   },
+   {
+    "jp": "{猫|ねこ}は{薬|くすり}を{飲|の}もうとしない。",
+    "en": "The cat won't take its medicine."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{何度|なんど}{頼|たの}んでも、{彼|かれ}は{手伝|てつだ}おう＿＿。",
+    "options": [
+     "としない",
+     "とする",
+     "としよう",
+     "とした"
+    ],
+    "answer": 0,
+    "en": "No matter how many times I ask, he won't help."
+   },
+   {
+    "q": "{娘|むすめ}は{野菜|やさい}を{食|た}べ＿＿としない。",
+    "options": [
+     "る",
+     "ない",
+     "て",
+     "よう"
+    ],
+    "answer": 3,
+    "en": "My daughter won't even try to eat vegetables."
+   },
+   {
+    "q": "{彼女|かのじょ}は{話|はな}を{聞|き}こう＿＿。",
+    "options": [
+     "としている",
+     "とした",
+     "としない",
+     "とする"
+    ],
+    "answer": 2,
+    "en": "She won't even try to listen."
+   }
+  ]
+ },
+ {
+  "id": "g3-089",
+  "level": 3,
+  "title_raw": "～ことがある／こともある",
+  "meaning": "sometimes ~",
+  "structure": "Verb dictionary / ない form + ことがある",
+  "explain": "Means something happens sometimes, not often. Compare た form + ことがある, which means \"have done before\" (experience).",
+  "examples": [
+   {
+    "jp": "{忙|いそが}しい{時|とき}は、{昼|ひる}ごはんを{食|た}べないことがある。",
+    "en": "When I'm busy, I sometimes skip lunch."
+   },
+   {
+    "jp": "{電車|でんしゃ}が{遅|おく}れることもあります。",
+    "en": "Sometimes the train is late."
+   },
+   {
+    "jp": "{週末|しゅうまつ}は{料理|りょうり}をすることがあります。",
+    "en": "I sometimes cook on weekends."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{天気|てんき}がいい{日|ひ}は、{歩|ある}いて{帰|かえ}る＿＿。",
+    "options": [
+     "はずがある",
+     "わけがある",
+     "ことがある",
+     "ほどがある"
+    ],
+    "answer": 2,
+    "en": "On nice days, I sometimes walk home."
+   },
+   {
+    "q": "{夜|よる}、{眠|ねむ}れない＿＿があります。",
+    "options": [
+     "わけ",
+     "こと",
+     "もの",
+     "はず"
+    ],
+    "answer": 1,
+    "en": "Sometimes I can't sleep at night."
+   },
+   {
+    "q": "{私|わたし}でも{漢字|かんじ}を{間違|まちが}える＿＿ある。",
+    "options": [
+     "ことも",
+     "わけも",
+     "はずも",
+     "ものも"
+    ],
+    "answer": 0,
+    "en": "Even I sometimes make mistakes with kanji."
+   }
+  ]
+ },
+ {
+  "id": "g3-090",
+  "level": 3,
+  "title_raw": "～ず（に）",
+  "meaning": "without ~ing",
+  "structure": "Verb ない stem + ず（に） (する→せず)",
+  "explain": "A written, more formal version of ないで: {朝|あさ}ごはんを{食|た}べずに{出|で}かけた. It is very common in N3 reading.",
+  "examples": [
+   {
+    "jp": "{朝|あさ}ごはんを{食|た}べずに{学校|がっこう}へ{行|い}った。",
+    "en": "I went to school without eating breakfast."
+   },
+   {
+    "jp": "{辞書|じしょ}を{使|つか}わずに{読|よ}めました。",
+    "en": "I could read it without using a dictionary."
+   },
+   {
+    "jp": "{何|なに}も{言|い}わずに{帰|かえ}ってしまった。",
+    "en": "He went home without saying anything."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{傘|かさ}を{持|も}た＿＿{出|で}かけて、{雨|あめ}に{降|ふ}られた。",
+    "options": [
+     "ずで",
+     "ないに",
+     "なくに",
+     "ずに"
+    ],
+    "answer": 3,
+    "en": "I went out without an umbrella and got caught in the rain."
+   },
+   {
+    "q": "{勉強|べんきょう}＿＿に{試験|しけん}を{受|う}けた。",
+    "options": [
+     "しず",
+     "すず",
+     "さず",
+     "せず"
+    ],
+    "answer": 3,
+    "en": "I took the test without studying."
+   },
+   {
+    "q": "{誰|だれ}にも{相談|そうだん}せ＿＿、{決|き}めた。",
+    "options": [
+     "ないに",
+     "ないで",
+     "ず",
+     "ずで"
+    ],
+    "answer": 2,
+    "en": "I decided without consulting anyone."
+   }
+  ]
+ },
+ {
+  "id": "g3-091",
+  "level": 3,
+  "title_raw": "～たとたん（に）",
+  "meaning": "just as ~; the moment ~",
+  "structure": "Verb た form + とたん（に）",
+  "explain": "Something unexpected happens right after A. It shows surprise. The second part is not your own will (no requests or plans). Compare たらすぐ, which is neutral.",
+  "examples": [
+   {
+    "jp": "{立|た}ち{上|あ}がったとたん、{頭|あたま}が{痛|いた}くなった。",
+    "en": "The moment I stood up, I got a headache."
+   },
+   {
+    "jp": "{家|いえ}を{出|で}たとたんに、{雨|あめ}が{降|ふ}り{出|だ}した。",
+    "en": "Just as I left home, it started to rain."
+   },
+   {
+    "jp": "{窓|まど}を{開|あ}けたとたん、{猫|ねこ}が{入|はい}ってきた。",
+    "en": "The moment I opened the window, the cat came in."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{電車|でんしゃ}に{乗|の}った＿＿、ドアが{閉|し}まった。",
+    "options": [
+     "うちに",
+     "とたん",
+     "あいだ",
+     "までに"
+    ],
+    "answer": 1,
+    "en": "The moment I got on the train, the doors closed."
+   },
+   {
+    "q": "{横|よこ}になった＿＿に{寝|ね}てしまった。",
+    "options": [
+     "とたん",
+     "ところ",
+     "まま",
+     "ばかり"
+    ],
+    "answer": 0,
+    "en": "The moment I lay down, I fell asleep."
+   },
+   {
+    "q": "{顔|かお}を＿＿とたん、{彼女|かのじょ}は{泣|な}き{出|だ}した。",
+    "options": [
+     "{見|み}た",
+     "{見|み}て",
+     "{見|み}る",
+     "{見|み}よう"
+    ],
+    "answer": 0,
+    "en": "The moment she saw my face, she started to cry."
+   }
+  ]
+ },
+ {
+  "id": "g3-092",
+  "level": 3,
+  "title_raw": "～ついでに",
+  "meaning": "while you're at it; on the way",
+  "structure": "Verb dictionary / た form / Noun + の + ついでに",
+  "explain": "Means doing an extra thing B while doing main thing A, using the chance. A is the main purpose.",
+  "examples": [
+   {
+    "jp": "{買|か}い{物|もの}のついでに、{郵便局|ゆうびんきょく}に{寄|よ}った。",
+    "en": "I stopped by the post office while I was out shopping."
+   },
+   {
+    "jp": "コンビニに{行|い}くついでに、ゴミを{出|だ}してくれない？",
+    "en": "Could you take out the trash on your way to the convenience store?"
+   },
+   {
+    "jp": "{散歩|さんぽ}のついでに、パンを{買|か}ってきた。",
+    "en": "I bought some bread while out on a walk."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{駅|えき}へ{行|い}く＿＿、この{手紙|てがみ}を{出|だ}してください。",
+    "options": [
+     "くせに",
+     "かわりに",
+     "とたんに",
+     "ついでに"
+    ],
+    "answer": 3,
+    "en": "When you go to the station, please mail this letter."
+   },
+   {
+    "q": "{出張|しゅっちょう}の＿＿、{友|とも}だちに{会|あ}った。",
+    "options": [
+     "おかげで",
+     "とおりに",
+     "ついでに",
+     "ように"
+    ],
+    "answer": 2,
+    "en": "While on a business trip, I met a friend."
+   },
+   {
+    "q": "{部屋|へや}を{掃除|そうじ}した＿＿、{窓|まど}も{拭|ふ}いた。",
+    "options": [
+     "くせに",
+     "ついでに",
+     "とたんに",
+     "ばかりに"
+    ],
+    "answer": 1,
+    "en": "While I cleaned the room, I also wiped the windows."
+   }
+  ]
+ },
+ {
+  "id": "g3-093",
+  "level": 3,
+  "title_raw": "～かわりに",
+  "meaning": "instead of ~; in exchange for ~",
+  "structure": "Verb plain form / Noun + の + かわりに",
+  "explain": "Means doing B in place of A, or someone does something in place of another person. It can also mean \"in return for\": {英語|えいご}を{教|おし}えるかわりに{日本語|にほんご}を{教|おし}えてもらう.",
+  "examples": [
+   {
+    "jp": "{父|ちち}のかわりに、{私|わたし}が{会議|かいぎ}に{出|で}ました。",
+    "en": "I attended the meeting in place of my father."
+   },
+   {
+    "jp": "{料理|りょうり}を{作|つく}るかわりに、{皿|さら}を{洗|あら}ってね。",
+    "en": "I'll cook; in exchange, you wash the dishes."
+   },
+   {
+    "jp": "パンのかわりに、ご{飯|はん}を{食|た}べた。",
+    "en": "I ate rice instead of bread."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{電車|でんしゃ}の＿＿、バスで{行|い}った。",
+    "options": [
+     "ついでに",
+     "かわりに",
+     "おかげで",
+     "せいで"
+    ],
+    "answer": 1,
+    "en": "I went by bus instead of the train."
+   },
+   {
+    "q": "{宿題|しゅくだい}を{手伝|てつだ}う＿＿、ジュースをおごって。",
+    "options": [
+     "かわりに",
+     "ついでに",
+     "とたんに",
+     "うちに"
+    ],
+    "answer": 0,
+    "en": "I'll help you with homework; in return, buy me a juice."
+   },
+   {
+    "q": "{病気|びょうき}の{先生|せんせい}の＿＿、{校長|こうちょう}{先生|せんせい}が{教|おし}えた。",
+    "options": [
+     "くせに",
+     "ついでに",
+     "とおりに",
+     "かわりに"
+    ],
+    "answer": 3,
+    "en": "The principal taught in place of the sick teacher."
+   }
+  ]
+ },
+ {
+  "id": "g3-094",
+  "level": 3,
+  "title_raw": "～ふりをする",
+  "meaning": "to pretend to ~",
+  "structure": "Verb plain form / いA / なA-な / Noun + の + ふりをする",
+  "explain": "Means acting as if something is true when it isn't: {寝|ね}たふり (pretending to sleep). Compare ～ようだ, which is a real guess, not acting.",
+  "examples": [
+   {
+    "jp": "{彼|かれ}は{聞|き}こえないふりをした。",
+    "en": "He pretended not to hear."
+   },
+   {
+    "jp": "{弟|おとうと}は{寝|ね}ているふりをしている。",
+    "en": "My little brother is pretending to be asleep."
+   },
+   {
+    "jp": "{知|し}っているのに、{知|し}らないふりをした。",
+    "en": "I knew, but I pretended not to."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{母|はは}に{呼|よ}ばれたが、{寝|ね}ている＿＿。",
+    "options": [
+     "ようにした",
+     "ことにした",
+     "ふりをした",
+     "ばかりだ"
+    ],
+    "answer": 2,
+    "en": "My mother called me, but I pretended to be asleep."
+   },
+   {
+    "q": "{彼女|かのじょ}は{元気|げんき}な＿＿をしているが、{本当|ほんとう}は{悲|かな}しいのだ。",
+    "options": [
+     "こと",
+     "わけ",
+     "ふり",
+     "はず"
+    ],
+    "answer": 2,
+    "en": "She acts cheerful, but she's actually sad."
+   },
+   {
+    "q": "{学生|がくせい}の＿＿をして、{安|やす}く{入|はい}った。",
+    "options": [
+     "ため",
+     "ふり",
+     "わけ",
+     "はず"
+    ],
+    "answer": 1,
+    "en": "I pretended to be a student and got in cheaply."
+   }
+  ]
+ },
+ {
+  "id": "g3-095",
+  "level": 3,
+  "title_raw": "～がち",
+  "meaning": "tend to ~; prone to ~",
+  "structure": "Verb ます stem / Noun + がち（だ／の／な）",
+  "explain": "Shows a tendency to do something often, usually something bad: {忘|わす}れがち (often forget), {病気|びょうき}がち (often sick). Compare っぽい, which is casual and broader.",
+  "examples": [
+   {
+    "jp": "{冬|ふゆ}は{風邪|かぜ}をひきがちです。",
+    "en": "In winter, I tend to catch colds."
+   },
+   {
+    "jp": "{最近|さいきん}、{曇|くも}りがちの{天気|てんき}が{続|つづ}いている。",
+    "en": "Lately, the weather has tended to be cloudy."
+   },
+   {
+    "jp": "{一人|ひとり}{暮|ぐ}らしだと、{食事|しょくじ}が{偏|かたよ}りがちだ。",
+    "en": "When you live alone, your diet tends to become unbalanced."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{忙|いそが}しいと、{睡眠|すいみん}{不足|ぶそく}になり＿＿だ。",
+    "options": [
+     "がち",
+     "ぎみ",
+     "だらけ",
+     "っぽさ"
+    ],
+    "answer": 0,
+    "en": "When you're busy, you tend to lack sleep."
+   },
+   {
+    "q": "{彼|かれ}は{子|こ}どもの{頃|ころ}、{病気|びょうき}＿＿だった。",
+    "options": [
+     "だらけ",
+     "ばかりに",
+     "っぽく",
+     "がち"
+    ],
+    "answer": 3,
+    "en": "As a child, he was often sick."
+   },
+   {
+    "q": "{留守|るす}＿＿な{家|いえ}は{泥棒|どろぼう}に{狙|ねら}われやすい。",
+    "options": [
+     "っぽい",
+     "だらけ",
+     "みたい",
+     "がち"
+    ],
+    "answer": 3,
+    "en": "Houses that are often empty are easy targets for thieves."
+   }
+  ]
+ },
+ {
+  "id": "g3-096",
+  "level": 3,
+  "title_raw": "～気味",
+  "meaning": "a little ~; feeling slightly ~",
+  "structure": "Verb ます stem / Noun + {気味|ぎみ}（だ／の）",
+  "explain": "Shows a slight sign of a condition, often about health or mood: {風邪|かぜ}{気味|ぎみ} (a bit of a cold). Compare がち, which is about doing something often.",
+  "examples": [
+   {
+    "jp": "{今日|きょう}は{少|すこ}し{風邪|かぜ}{気味|ぎみ}です。",
+    "en": "I have a bit of a cold today."
+   },
+   {
+    "jp": "{最近|さいきん}、{疲|つか}れ{気味|ぎみ}だ。",
+    "en": "I've been feeling a little tired lately."
+   },
+   {
+    "jp": "{電車|でんしゃ}が{遅|おく}れ{気味|ぎみ}です。",
+    "en": "The trains are running a bit late."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{最近|さいきん}{運動|うんどう}していないので、{太|ふと}り＿＿だ。",
+    "options": [
+     "っぽさ",
+     "だらけ",
+     "{気味|ぎみ}",
+     "ばかり"
+    ],
+    "answer": 2,
+    "en": "I haven't exercised recently, so I've put on a bit of weight."
+   },
+   {
+    "q": "{熱|ねつ}はないが、{少|すこ}し{風邪|かぜ}＿＿だ。",
+    "options": [
+     "だらけ",
+     "{気味|ぎみ}",
+     "がちな",
+     "ほど"
+    ],
+    "answer": 1,
+    "en": "I don't have a fever, but I have a bit of a cold."
+   },
+   {
+    "q": "{仕事|しごと}が{多|おお}くて、ストレスがたまり＿＿です。",
+    "options": [
+     "{気味|ぎみ}",
+     "っぽい",
+     "だらけ",
+     "らしい"
+    ],
+    "answer": 0,
+    "en": "I have a lot of work and I'm getting a bit stressed."
+   }
+  ]
+ },
+ {
+  "id": "g3-097",
+  "level": 3,
+  "title_raw": "～だらけ",
+  "meaning": "full of ~; covered in ~",
+  "structure": "Noun + だらけ（だ／の）",
+  "explain": "Means something is covered with or full of something, usually bad: {間違|まちが}いだらけ (full of mistakes), {泥|どろ}だらけ (covered in mud). Compare でいっぱい, which is neutral.",
+  "examples": [
+   {
+    "jp": "{子|こ}どもたちは{泥|どろ}だらけになって{遊|あそ}んでいた。",
+    "en": "The kids were playing, covered in mud."
+   },
+   {
+    "jp": "この{作文|さくぶん}は{間違|まちが}いだらけだ。",
+    "en": "This essay is full of mistakes."
+   },
+   {
+    "jp": "{部屋|へや}がゴミだらけです。",
+    "en": "The room is full of trash."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{転|ころ}んで、{足|あし}が{傷|きず}＿＿になった。",
+    "options": [
+     "だらけ",
+     "がち",
+     "{気味|ぎみ}",
+     "っぽい"
+    ],
+    "answer": 0,
+    "en": "I fell and my legs got covered in cuts."
+   },
+   {
+    "q": "{彼|かれ}の{机|つくえ}の{上|うえ}はほこり＿＿だ。",
+    "options": [
+     "がち",
+     "らしい",
+     "{気味|ぎみ}",
+     "だらけ"
+    ],
+    "answer": 3,
+    "en": "His desk is covered in dust."
+   },
+   {
+    "q": "{借金|しゃっきん}＿＿の{生活|せいかつ}はもう{嫌|いや}だ。",
+    "options": [
+     "{気味|ぎみ}",
+     "がち",
+     "だらけ",
+     "みたい"
+    ],
+    "answer": 2,
+    "en": "I'm tired of a life full of debt."
+   }
+  ]
+ },
+ {
+  "id": "g3-098",
+  "level": 3,
+  "title_raw": "～かけ／かける",
+  "meaning": "half-done; to start ~ but not finish",
+  "structure": "Verb ます stem + かけ（の Noun）／かける",
+  "explain": "Shows an action started but not finished: {食|た}べかけのパン (half-eaten bread), {言|い}いかけてやめた (started to say and stopped).",
+  "examples": [
+   {
+    "jp": "{机|つくえ}の{上|うえ}に{飲|の}みかけのコーヒーがある。",
+    "en": "There's a half-drunk coffee on the desk."
+   },
+   {
+    "jp": "{彼|かれ}は{何|なに}か{言|い}いかけて、やめた。",
+    "en": "He started to say something and stopped."
+   },
+   {
+    "jp": "{読|よ}みかけの{本|ほん}がたくさんある。",
+    "en": "I have lots of books I've started but not finished."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{作|つく}り＿＿の{料理|りょうり}が{冷|さ}めてしまった。",
+    "options": [
+     "きり",
+     "かけ",
+     "だらけ",
+     "がち"
+    ],
+    "answer": 1,
+    "en": "The half-made dish got cold."
+   },
+   {
+    "q": "{書|か}き＿＿{手紙|てがみ}を{捨|す}てた。",
+    "options": [
+     "ずに",
+     "かけた",
+     "ぬいた",
+     "がちな"
+    ],
+    "answer": 1,
+    "en": "I threw away the letter I'd started writing."
+   },
+   {
+    "q": "{食|た}べかけ＿＿パンを{冷蔵庫|れいぞうこ}に{入|い}れた。",
+    "options": [
+     "の",
+     "に",
+     "な",
+     "を"
+    ],
+    "answer": 0,
+    "en": "I put the half-eaten bread in the fridge."
+   }
+  ]
+ },
+ {
+  "id": "g3-099",
+  "level": 3,
+  "title_raw": "～きる／きれない",
+  "meaning": "to do ~ completely; can't finish ~",
+  "structure": "Verb ます stem + きる／きれない",
+  "explain": "きる means doing something to the end: {使|つか}いきる (use up). きれない means you can't finish because there is too much: {食|た}べきれない.",
+  "examples": [
+   {
+    "jp": "{一日|いちにち}で{本|ほん}を{読|よ}みきった。",
+    "en": "I read the whole book in one day."
+   },
+   {
+    "jp": "こんなにたくさん、{食|た}べきれないよ。",
+    "en": "I can't eat this much."
+   },
+   {
+    "jp": "{給料|きゅうりょう}を{全部|ぜんぶ}{使|つか}いきってしまった。",
+    "en": "I used up my entire salary."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{量|りょう}が{多|おお}くて、{一人|ひとり}では{食|た}べ＿＿。",
+    "options": [
+     "だらけだ",
+     "かけない",
+     "がちだ",
+     "きれない"
+    ],
+    "answer": 3,
+    "en": "There's too much; I can't finish it alone."
+   },
+   {
+    "q": "マラソンで42キロを{走|はし}り＿＿。",
+    "options": [
+     "かけた",
+     "がちだ",
+     "きった",
+     "ぎみだ"
+    ],
+    "answer": 2,
+    "en": "I ran the full 42 km of the marathon."
+   },
+   {
+    "q": "{星|ほし}が{多|おお}すぎて、{数|かぞ}え＿＿。",
+    "options": [
+     "きった",
+     "かけた",
+     "きれない",
+     "がちだ"
+    ],
+    "answer": 2,
+    "en": "There are too many stars to count."
+   }
+  ]
+ },
+ {
+  "id": "g3-100",
+  "level": 3,
+  "title_raw": "～て以来",
+  "meaning": "since ~",
+  "structure": "Verb て form + {以来|いらい} ／ Noun + {以来|いらい}",
+  "explain": "Shows a state that has continued since a past event until now. Compare てから, which simply shows order. {以来|いらい} stresses that the state has lasted.",
+  "examples": [
+   {
+    "jp": "{日本|にほん}に{来|き}て{以来|いらい}、ずっと{寮|りょう}に{住|す}んでいる。",
+    "en": "Since coming to Japan, I've lived in the dorm."
+   },
+   {
+    "jp": "{卒業|そつぎょう}{以来|いらい}、{彼|かれ}に{会|あ}っていない。",
+    "en": "I haven't seen him since graduation."
+   },
+   {
+    "jp": "{結婚|けっこん}して{以来|いらい}、{料理|りょうり}をするようになった。",
+    "en": "Since getting married, I've started cooking."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{引|ひ}っ{越|こ}して＿＿、{一度|いちど}も{実家|じっか}に{帰|かえ}っていない。",
+    "options": [
+     "うちに",
+     "{以来|いらい}",
+     "までに",
+     "ところ"
+    ],
+    "answer": 1,
+    "en": "Since moving, I haven't gone home once."
+   },
+   {
+    "q": "{去年|きょねん}の{夏|なつ}＿＿、{雨|あめ}が{降|ふ}っていない。",
+    "options": [
+     "{以来|いらい}",
+     "までに",
+     "うちに",
+     "とたん"
+    ],
+    "answer": 0,
+    "en": "It hasn't rained since last summer."
+   },
+   {
+    "q": "{日本|にほん}に{来|き}＿＿{以来|いらい}、{毎日|まいにち}{日本語|にほんご}を{使|つか}っている。",
+    "options": [
+     "た",
+     "る",
+     "ない",
+     "て"
+    ],
+    "answer": 3,
+    "en": "Since coming to Japan, I've used Japanese every day."
+   }
+  ]
+ },
+ {
+  "id": "g3-101",
+  "level": 3,
+  "title_raw": "～てからでないと",
+  "meaning": "not until ~; unless you first ~",
+  "structure": "Verb て form + からでないと／からでなければ + negative or difficult result",
+  "explain": "Means B cannot happen unless A happens first: {宿題|しゅくだい}が{終|お}わってからでないと{遊|あそ}べない. The second part is negative or shows something is hard.",
+  "examples": [
+   {
+    "jp": "{親|おや}に{聞|き}いてからでないと、{返事|へんじ}できません。",
+    "en": "I can't answer until I've asked my parents."
+   },
+   {
+    "jp": "{実物|じつぶつ}を{見|み}てからでないと、{買|か}うかどうか{決|き}められない。",
+    "en": "I can't decide whether to buy it until I see the real thing."
+   },
+   {
+    "jp": "{手|て}を{洗|あら}ってからでないと、{食|た}べてはいけません。",
+    "en": "You can't eat until you wash your hands."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{宿題|しゅくだい}を{終|お}えて＿＿、テレビを{見|み}てはいけない。",
+    "options": [
+     "ばかりで",
+     "からには",
+     "からといって",
+     "からでないと"
+    ],
+    "answer": 3,
+    "en": "You can't watch TV until you finish your homework."
+   },
+   {
+    "q": "{予約|よやく}して＿＿でないと、{入|はい}れません。",
+    "options": [
+     "まで",
+     "ので",
+     "から",
+     "ほど"
+    ],
+    "answer": 2,
+    "en": "You can't enter unless you make a reservation first."
+   },
+   {
+    "q": "{先生|せんせい}に{確認|かくにん}してからでないと、{答|こた}え＿＿。",
+    "options": [
+     "られます",
+     "られません",
+     "ましょう",
+     "てください"
+    ],
+    "answer": 1,
+    "en": "I can't answer until I check with the teacher."
+   }
+  ]
+ },
+ {
+  "id": "g3-102",
+  "level": 3,
+  "title_raw": "～からには／以上（は）",
+  "meaning": "since ~ (naturally); now that ~",
+  "structure": "Plain form (なA / Noun + である) + からには／{以上|いじょう}（は）",
+  "explain": "Means because of A, you must or should do B. B is often a duty, a strong will, or advice: やるからには{最後|さいご}まで.",
+  "examples": [
+   {
+    "jp": "{約束|やくそく}したからには、{守|まも}らなければならない。",
+    "en": "Since I promised, I have to keep it."
+   },
+   {
+    "jp": "{試合|しあい}に{出|で}るからには、{勝|か}ちたい。",
+    "en": "Now that I'm in the match, I want to win."
+   },
+   {
+    "jp": "{学生|がくせい}である{以上|いじょう}、{勉強|べんきょう}するべきだ。",
+    "en": "As long as you're a student, you should study."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{日本|にほん}に{来|き}た＿＿、{日本語|にほんご}を{話|はな}せるようになりたい。",
+    "options": [
+     "からには",
+     "からといって",
+     "くせに",
+     "わりに"
+    ],
+    "answer": 0,
+    "en": "Now that I've come to Japan, I want to be able to speak Japanese."
+   },
+   {
+    "q": "{引|ひ}き{受|う}けた＿＿、{責任|せきにん}を{持|も}ってやります。",
+    "options": [
+     "{以上|いじょう}",
+     "うちに",
+     "とたん",
+     "ついでに"
+    ],
+    "answer": 0,
+    "en": "Since I've accepted it, I'll take responsibility."
+   },
+   {
+    "q": "やる＿＿、{一番|いちばん}を{目指|めざ}そう。",
+    "options": [
+     "くせに",
+     "ものの",
+     "ばかりに",
+     "からには"
+    ],
+    "answer": 3,
+    "en": "If we're going to do it, let's aim for first place."
+   }
+  ]
+ },
+ {
+  "id": "g3-103",
+  "level": 3,
+  "title_raw": "～ことから",
+  "meaning": "from the fact that ~; because ~",
+  "structure": "Plain form (なA-な／である, Noun + である) + ことから",
+  "explain": "Gives a reason or the origin of a name or judgment. It is formal and often used to explain why something is called a certain way.",
+  "examples": [
+   {
+    "jp": "{富士山|ふじさん}が{見|み}えることから、この{町|まち}は「{富士見|ふじみ}」と{呼|よ}ばれている。",
+    "en": "This town is called Fujimi because you can see Mt. Fuji from it."
+   },
+   {
+    "jp": "{指紋|しもん}が{見|み}つかったことから、{犯人|はんにん}がわかった。",
+    "en": "The criminal was identified from the fingerprints found."
+   },
+   {
+    "jp": "{顔|かお}が{似|に}ていることから、{兄弟|きょうだい}だとわかった。",
+    "en": "Since their faces are alike, I knew they were brothers."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{桜|さくら}が{多|おお}い＿＿、この{道|みち}は「{桜通|さくらどお}り」と{呼|よ}ばれる。",
+    "options": [
+     "ことには",
+     "ことに",
+     "ことから",
+     "ことで"
+    ],
+    "answer": 2,
+    "en": "This street is called Sakura Street because there are many cherry trees."
+   },
+   {
+    "q": "{部屋|へや}の{電気|でんき}がついていた＿＿、{家|いえ}にいると{思|おも}った。",
+    "options": [
+     "ことに",
+     "ことから",
+     "ことには",
+     "ことだ"
+    ],
+    "answer": 1,
+    "en": "Since the room's light was on, I thought he was home."
+   },
+   {
+    "q": "{足跡|あしあと}があった＿＿、{誰|だれ}かが{入|はい}ったとわかった。",
+    "options": [
+     "ものの",
+     "ことから",
+     "わりに",
+     "くせに"
+    ],
+    "answer": 1,
+    "en": "From the footprints, we knew someone had come in."
+   }
+  ]
+ },
+ {
+  "id": "g3-104",
+  "level": 3,
+  "title_raw": "～ように (wish / request)",
+  "meaning": "I hope ~; may ~",
+  "structure": "Verb ます／ません form + ように",
+  "explain": "At the end of a sentence it shows a wish or prayer: {合格|ごうかく}できますように. It is also used in polite notices: {忘|わす}れ{物|もの}をしないようにしてください.",
+  "examples": [
+   {
+    "jp": "{試験|しけん}に{合格|ごうかく}できますように。",
+    "en": "I hope I pass the exam."
+   },
+   {
+    "jp": "{明日|あした}{晴|は}れますように。",
+    "en": "I hope it's sunny tomorrow."
+   },
+   {
+    "jp": "{家族|かぞく}がみんな{元気|げんき}でいられますように。",
+    "en": "May my whole family stay healthy."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{早|はや}く{病気|びょうき}が{治|なお}り＿＿。",
+    "options": [
+     "ますように",
+     "ませんか",
+     "ましょう",
+     "ますから"
+    ],
+    "answer": 0,
+    "en": "I hope you get well soon."
+   },
+   {
+    "q": "{事故|じこ}が{起|お}きませ＿＿ように。",
+    "options": [
+     "ず",
+     "ない",
+     "んで",
+     "ん"
+    ],
+    "answer": 3,
+    "en": "I pray no accident happens."
+   },
+   {
+    "q": "{夢|ゆめ}が{叶|かな}います＿＿。",
+    "options": [
+     "ことに",
+     "ために",
+     "ように",
+     "ほどに"
+    ],
+    "answer": 2,
+    "en": "May your dream come true."
+   }
+  ]
+ },
+ {
+  "id": "g3-105",
+  "level": 3,
+  "title_raw": "～ようがない",
+  "meaning": "there's no way to ~",
+  "structure": "Verb ます stem + ようがない",
+  "explain": "Means it is impossible because there is no method: {連絡|れんらく}のしようがない (no way to contact). Compare わけがない (no way it's true), which is about likelihood, not method.",
+  "examples": [
+   {
+    "jp": "{住所|じゅうしょ}がわからないので、{連絡|れんらく}のしようがない。",
+    "en": "I don't know the address, so there's no way to contact him."
+   },
+   {
+    "jp": "こんなに{壊|こわ}れていたら、{直|なお}しようがない。",
+    "en": "If it's this broken, there's no way to fix it."
+   },
+   {
+    "jp": "{言|い}いようがないほど{美|うつく}しい{景色|けしき}だった。",
+    "en": "The view was so beautiful words can't describe it."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{材料|ざいりょう}がないので、{作|つく}り＿＿。",
+    "options": [
+     "はずがない",
+     "わけがない",
+     "ようがない",
+     "ことがない"
+    ],
+    "answer": 2,
+    "en": "There are no ingredients, so there's no way to make it."
+   },
+   {
+    "q": "{名前|なまえ}も{知|し}らないから、{探|さが}し＿＿。",
+    "options": [
+     "わけがない",
+     "ようがない",
+     "ことはない",
+     "はずだ"
+    ],
+    "answer": 1,
+    "en": "I don't even know the name, so there's no way to look for it."
+   },
+   {
+    "q": "もう{終|お}わったことだから、どうし＿＿。",
+    "options": [
+     "ようもない",
+     "はずもない",
+     "わけもない",
+     "こともない"
+    ],
+    "answer": 0,
+    "en": "It's already over, so nothing can be done."
+   }
+  ]
+ },
+ {
+  "id": "g3-106",
+  "level": 3,
+  "title_raw": "～やすい／にくい",
+  "meaning": "easy to ~ / hard to ~",
+  "structure": "Verb ます stem + やすい／にくい",
+  "explain": "やすい means easy to do or likely to happen: {壊|こわ}れやすい (breaks easily). にくい means hard to do. They change like い-adjectives. Compare づらい, which shows personal difficulty or discomfort.",
+  "examples": [
+   {
+    "jp": "このペンは{書|か}きやすいです。",
+    "en": "This pen is easy to write with."
+   },
+   {
+    "jp": "{彼|かれ}の{字|じ}は{読|よ}みにくい。",
+    "en": "His handwriting is hard to read."
+   },
+   {
+    "jp": "{冬|ふゆ}は{風邪|かぜ}をひきやすい。",
+    "en": "It's easy to catch a cold in winter."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "この{説明|せつめい}はわかり＿＿。",
+    "options": [
+     "だらけだ",
+     "がちだ",
+     "かけだ",
+     "やすい"
+    ],
+    "answer": 3,
+    "en": "This explanation is easy to understand."
+   },
+   {
+    "q": "この{靴|くつ}は{重|おも}くて{歩|ある}き＿＿。",
+    "options": [
+     "やすい",
+     "かける",
+     "きる",
+     "にくい"
+    ],
+    "answer": 3,
+    "en": "These shoes are heavy and hard to walk in."
+   },
+   {
+    "q": "ガラスは{割|わ}れ＿＿ので、{気|き}をつけてください。",
+    "options": [
+     "にくい",
+     "きれない",
+     "やすい",
+     "だらけ"
+    ],
+    "answer": 2,
+    "en": "Glass breaks easily, so please be careful."
+   }
+  ]
+ },
+ {
+  "id": "g3-107",
+  "level": 3,
+  "title_raw": "～づらい",
+  "meaning": "hard to ~ (personally)",
+  "structure": "Verb ます stem + づらい",
+  "explain": "Shows that something is hard to do for physical or emotional reasons: {言|い}いづらい (hard to say, awkward). Compare にくい, which is more objective.",
+  "examples": [
+   {
+    "jp": "{先生|せんせい}には{言|い}いづらいことがある。",
+    "en": "There are things that are hard to say to the teacher."
+   },
+   {
+    "jp": "{足|あし}が{痛|いた}くて、{歩|ある}きづらい。",
+    "en": "My leg hurts, so it's hard to walk."
+   },
+   {
+    "jp": "{字|じ}が{小|ちい}さくて{読|よ}みづらい。",
+    "en": "The letters are small and hard to read."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{彼|かれ}にお{金|かね}を{貸|か}してと{頼|たの}み＿＿。",
+    "options": [
+     "きれない",
+     "づらい",
+     "がちだ",
+     "ぎみだ"
+    ],
+    "answer": 1,
+    "en": "It's awkward to ask him to lend me money."
+   },
+   {
+    "q": "{喉|のど}が{痛|いた}くて、{食|た}べ{物|もの}が{飲|の}み{込|こ}み＿＿。",
+    "options": [
+     "づらい",
+     "やすい",
+     "かけだ",
+     "きる"
+    ],
+    "answer": 0,
+    "en": "My throat hurts, so food is hard to swallow."
+   },
+   {
+    "q": "{人|ひと}が{多|おお}くて{動|うご}き＿＿{電車|でんしゃ}だった。",
+    "options": [
+     "づらい",
+     "きれない",
+     "やすい",
+     "がちな"
+    ],
+    "answer": 0,
+    "en": "The train was crowded and hard to move in."
+   }
+  ]
+ },
+ {
+  "id": "g3-108",
+  "level": 3,
+  "title_raw": "～ようだ (guess)",
+  "meaning": "it seems ~; it looks like ~",
+  "structure": "Plain form (なA-な / Noun + の) + ようだ",
+  "explain": "Shows a guess based on what you see, hear, or feel yourself. It is more formal than みたいだ and more based on your own senses than らしい.",
+  "examples": [
+   {
+    "jp": "{誰|だれ}か{来|き}たようです。",
+    "en": "It seems someone has come."
+   },
+   {
+    "jp": "{彼|かれ}は{疲|つか}れているようだ。",
+    "en": "He seems tired."
+   },
+   {
+    "jp": "この{料理|りょうり}は{少|すこ}し{塩|しお}が{足|た}りないようです。",
+    "en": "This dish seems to need a little more salt."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{部屋|へや}の{電気|でんき}がついている。{誰|だれ}かいる＿＿。",
+    "options": [
+     "ようと",
+     "ように",
+     "ような",
+     "ようだ"
+    ],
+    "answer": 3,
+    "en": "The room's light is on. It seems someone is there."
+   },
+   {
+    "q": "{熱|ねつ}がある＿＿なので、{今日|きょう}は{早|はや}く{帰|かえ}ります。",
+    "options": [
+     "らしく",
+     "みたいに",
+     "よう",
+     "らしい"
+    ],
+    "answer": 2,
+    "en": "I seem to have a fever, so I'll go home early today."
+   },
+   {
+    "q": "{彼女|かのじょ}は{料理|りょうり}が{好|す}き＿＿ようだ。",
+    "options": [
+     "だ",
+     "な",
+     "の",
+     "で"
+    ],
+    "answer": 1,
+    "en": "She seems to like cooking."
+   }
+  ]
+ },
+ {
+  "id": "g3-109",
+  "level": 3,
+  "title_raw": "～そうだ (looks like)",
+  "meaning": "looks ~; seems about to ~",
+  "structure": "Verb ます stem / いA stem / なA + そうだ (いい→よさそう, ない→なさそう)",
+  "explain": "Shows how something looks right now, from your eyes: おいしそう (looks tasty), {雨|あめ}が{降|ふ}りそう (looks like rain). Do not mix it up with plain form + そうだ (hearsay).",
+  "examples": [
+   {
+    "jp": "このケーキはおいしそうですね。",
+    "en": "This cake looks delicious."
+   },
+   {
+    "jp": "{今|いま}にも{雨|あめ}が{降|ふ}りそうだ。",
+    "en": "It looks like it will rain any moment."
+   },
+   {
+    "jp": "{彼|かれ}は{元気|げんき}そうだった。",
+    "en": "He looked well."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "あの{人|ひと}は{優|やさ}し＿＿ですね。",
+    "options": [
+     "しそう",
+     "そう",
+     "いそう",
+     "くそう"
+    ],
+    "answer": 1,
+    "en": "That person looks kind."
+   },
+   {
+    "q": "この{本|ほん}は{面白|おもしろ}く＿＿だ。",
+    "options": [
+     "なさそう",
+     "そう",
+     "ないそう",
+     "なそう"
+    ],
+    "answer": 0,
+    "en": "This book doesn't look interesting."
+   },
+   {
+    "q": "{天気|てんき}が{良|よ}＿＿ですね。",
+    "options": [
+     "そう",
+     "いそう",
+     "くそう",
+     "さそう"
+    ],
+    "answer": 3,
+    "en": "The weather looks good."
+   }
+  ]
+ },
+ {
+  "id": "g3-110",
+  "level": 3,
+  "title_raw": "～そうだ (hearsay)",
+  "meaning": "I heard that ~; they say ~",
+  "structure": "Plain form + そうだ",
+  "explain": "Reports information you heard or read. Use the full plain form: {降|ふ}るそうだ (I heard it will rain). Compare stem + そうだ (looks like). Often with によると.",
+  "examples": [
+   {
+    "jp": "{天気予報|てんきよほう}によると、{明日|あした}は{雪|ゆき}だそうです。",
+    "en": "According to the forecast, it will snow tomorrow."
+   },
+   {
+    "jp": "{田中|たなか}さんは{来月|らいげつ}{結婚|けっこん}するそうだ。",
+    "en": "I heard Tanaka is getting married next month."
+   },
+   {
+    "jp": "あの{店|みせ}のラーメンはおいしいそうですよ。",
+    "en": "I heard the ramen at that shop is delicious."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "ニュースによると、{昨日|きのう}{地震|じしん}があった＿＿。",
+    "options": [
+     "ことにした",
+     "ようにした",
+     "そうだ",
+     "ばかりだ"
+    ],
+    "answer": 2,
+    "en": "According to the news, there was an earthquake yesterday."
+   },
+   {
+    "q": "{彼女|かのじょ}は{日本語|にほんご}が{上手|じょうず}＿＿そうだ。",
+    "options": [
+     "な",
+     "の",
+     "だ",
+     "に"
+    ],
+    "answer": 2,
+    "en": "I heard she's good at Japanese."
+   },
+   {
+    "q": "{山田|やまだ}さんの{話|はなし}では、あのレストランは{高|たか}い＿＿。",
+    "options": [
+     "らしく",
+     "そうだ",
+     "ようで",
+     "みたいな"
+    ],
+    "answer": 1,
+    "en": "According to Yamada, that restaurant is expensive."
+   }
+  ]
+ }
+]

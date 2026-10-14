@@ -1,0 +1,4904 @@
+[
+ {
+  "id": "g5-001",
+  "level": 5,
+  "title_raw": "～は～です",
+  "meaning": "X is Y",
+  "structure": "Noun は Noun です",
+  "explain": "The basic polite sentence. は (read \"wa\") marks the topic, and です makes it polite. It works like \"is/am/are\".",
+  "examples": [
+   {
+    "jp": "{私|わたし}は{学生|がくせい}です。",
+    "en": "I am a student."
+   },
+   {
+    "jp": "{田中|たなか}さんは{先生|せんせい}です。",
+    "en": "Mr. Tanaka is a teacher."
+   },
+   {
+    "jp": "{今日|きょう}は{日曜日|にちようび}です。",
+    "en": "Today is Sunday."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{私|わたし}＿＿アンナです。",
+    "options": [
+     "を",
+     "へ",
+     "で",
+     "は"
+    ],
+    "answer": 3,
+    "en": "I am Anna."
+   },
+   {
+    "q": "これは{本|ほん}＿＿。",
+    "options": [
+     "ます",
+     "です",
+     "います",
+     "あります"
+    ],
+    "answer": 1,
+    "en": "This is a book."
+   },
+   {
+    "q": "{山田|やまだ}さん＿＿{医者|いしゃ}です。",
+    "options": [
+     "に",
+     "を",
+     "から",
+     "は"
+    ],
+    "answer": 3,
+    "en": "Ms. Yamada is a doctor."
+   }
+  ]
+ },
+ {
+  "id": "g5-002",
+  "level": 5,
+  "title_raw": "～じゃありません",
+  "meaning": "is not ~",
+  "structure": "Noun じゃありません / ではありません",
+  "explain": "The negative of です for nouns. ではありません is a little more formal; じゃありません and じゃないです are common in speech.",
+  "examples": [
+   {
+    "jp": "{私|わたし}は{学生|がくせい}じゃありません。",
+    "en": "I am not a student."
+   },
+   {
+    "jp": "あれは{私|わたし}のかさではありません。",
+    "en": "That is not my umbrella."
+   },
+   {
+    "jp": "{明日|あした}は{休|やす}みじゃないです。",
+    "en": "Tomorrow is not a day off."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{私|わたし}は{先生|せんせい}＿＿。",
+    "options": [
+     "くないです",
+     "ません",
+     "じゃありません",
+     "ないです"
+    ],
+    "answer": 2,
+    "en": "I am not a teacher."
+   },
+   {
+    "q": "これはペン＿＿ありません。",
+    "options": [
+     "では",
+     "には",
+     "とは",
+     "へは"
+    ],
+    "answer": 0,
+    "en": "This is not a pen."
+   },
+   {
+    "q": "{今日|きょう}は{月曜日|げつようび}＿＿。{火曜日|かようび}です。",
+    "options": [
+     "ではます",
+     "じゃません",
+     "じゃありません",
+     "ありません"
+    ],
+    "answer": 2,
+    "en": "Today is not Monday. It is Tuesday."
+   }
+  ]
+ },
+ {
+  "id": "g5-003",
+  "level": 5,
+  "title_raw": "～か",
+  "meaning": "question marker",
+  "structure": "Sentence + か",
+  "explain": "Put か at the end of a polite sentence to make a question. In writing you can end with 。 or ？. Rising tone in speech.",
+  "examples": [
+   {
+    "jp": "{学生|がくせい}ですか。",
+    "en": "Are you a student?"
+   },
+   {
+    "jp": "これはいくらですか。",
+    "en": "How much is this?"
+   },
+   {
+    "jp": "{明日|あした}{来|き}ますか。",
+    "en": "Will you come tomorrow?"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "あの{人|ひと}は{先生|せんせい}です＿＿。",
+    "options": [
+     "を",
+     "か",
+     "に",
+     "で"
+    ],
+    "answer": 1,
+    "en": "Is that person a teacher?"
+   },
+   {
+    "q": "トイレはどこです＿＿。",
+    "options": [
+     "は",
+     "が",
+     "も",
+     "か"
+    ],
+    "answer": 3,
+    "en": "Where is the toilet?"
+   },
+   {
+    "q": "コーヒーを{飲|の}みます＿＿。",
+    "options": [
+     "の",
+     "か",
+     "へ",
+     "と"
+    ],
+    "answer": 1,
+    "en": "Will you drink coffee?"
+   }
+  ]
+ },
+ {
+  "id": "g5-004",
+  "level": 5,
+  "title_raw": "～の",
+  "meaning": "'s / of (linking nouns)",
+  "structure": "Noun の Noun",
+  "explain": "の links two nouns. The first noun describes the second: owner, place, type, and so on. Order is the opposite of English \"of\".",
+  "examples": [
+   {
+    "jp": "これは{私|わたし}の{本|ほん}です。",
+    "en": "This is my book."
+   },
+   {
+    "jp": "{日本|にほん}の{車|くるま}は{高|たか}いです。",
+    "en": "Japanese cars are expensive."
+   },
+   {
+    "jp": "{田中|たなか}さんはＡＢＣ{銀行|ぎんこう}の{人|ひと}です。",
+    "en": "Mr. Tanaka is from ABC Bank."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "それは{先生|せんせい}＿＿かばんです。",
+    "options": [
+     "の",
+     "に",
+     "を",
+     "が"
+    ],
+    "answer": 0,
+    "en": "That is the teacher's bag."
+   },
+   {
+    "q": "{日本語|にほんご}＿＿{本|ほん}を{読|よ}みます。",
+    "options": [
+     "で",
+     "へ",
+     "の",
+     "や"
+    ],
+    "answer": 2,
+    "en": "I read a Japanese book."
+   },
+   {
+    "q": "{私|わたし}＿＿{名前|なまえ}はキムです。",
+    "options": [
+     "の",
+     "は",
+     "と",
+     "も"
+    ],
+    "answer": 0,
+    "en": "My name is Kim."
+   }
+  ]
+ },
+ {
+  "id": "g5-005",
+  "level": 5,
+  "title_raw": "～も",
+  "meaning": "also / too",
+  "structure": "Noun も (replaces は, が, を)",
+  "explain": "も means \"also\" or \"too\". It replaces は, が or を. With a negative verb it means \"not ~ either\".",
+  "examples": [
+   {
+    "jp": "{私|わたし}も{学生|がくせい}です。",
+    "en": "I am a student too."
+   },
+   {
+    "jp": "{肉|にく}も{魚|さかな}も{食|た}べます。",
+    "en": "I eat both meat and fish."
+   },
+   {
+    "jp": "{私|わたし}もわかりません。",
+    "en": "I don't understand either."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{兄|あに}は{医者|いしゃ}です。{父|ちち}＿＿{医者|いしゃ}です。",
+    "options": [
+     "を",
+     "へ",
+     "や",
+     "も"
+    ],
+    "answer": 3,
+    "en": "My older brother is a doctor. My father is a doctor too."
+   },
+   {
+    "q": "{今日|きょう}は{休|やす}みです。{明日|あした}＿＿{休|やす}みです。",
+    "options": [
+     "に",
+     "も",
+     "で",
+     "の"
+    ],
+    "answer": 1,
+    "en": "Today is a day off. Tomorrow is a day off too."
+   },
+   {
+    "q": "お{茶|ちゃ}を{飲|の}みます。{水|みず}＿＿{飲|の}みます。",
+    "options": [
+     "へ",
+     "から",
+     "まで",
+     "も"
+    ],
+    "answer": 3,
+    "en": "I drink tea. I drink water too."
+   }
+  ]
+ },
+ {
+  "id": "g5-006",
+  "level": 5,
+  "title_raw": "これ・それ・あれ・どれ",
+  "meaning": "this / that / that over there / which",
+  "structure": "これ・それ・あれ・どれ (used alone, like a noun)",
+  "explain": "これ = near me, それ = near you, あれ = far from both of us. どれ asks \"which one\" (from three or more). They stand alone; do not put a noun after them.",
+  "examples": [
+   {
+    "jp": "これは{何|なん}ですか。",
+    "en": "What is this?"
+   },
+   {
+    "jp": "それは{私|わたし}のペンです。",
+    "en": "That is my pen."
+   },
+   {
+    "jp": "{田中|たなか}さんのかばんはどれですか。",
+    "en": "Which one is Mr. Tanaka's bag?"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "A：＿＿は{何|なん}ですか。B：それは{辞書|じしょ}です。",
+    "options": [
+     "この",
+     "ここ",
+     "これ",
+     "どの"
+    ],
+    "answer": 2,
+    "en": "A: What is this? B: That is a dictionary."
+   },
+   {
+    "q": "あなたの{傘|かさ}は＿＿ですか。",
+    "options": [
+     "どれ",
+     "どの",
+     "どこの",
+     "どう"
+    ],
+    "answer": 0,
+    "en": "Which one is your umbrella?"
+   },
+   {
+    "q": "（{遠|とお}くの{山|やま}を{見|み}て）＿＿は{富士山|ふじさん}です。",
+    "options": [
+     "あの",
+     "あそこの",
+     "あれ",
+     "あちらの"
+    ],
+    "answer": 2,
+    "en": "(Looking at a far mountain) That is Mt. Fuji."
+   }
+  ]
+ },
+ {
+  "id": "g5-007",
+  "level": 5,
+  "title_raw": "この・その・あの・どの",
+  "meaning": "this ~ / that ~ / that ~ over there / which ~",
+  "structure": "この・その・あの・どの + Noun",
+  "explain": "These always come before a noun: この{本|ほん} \"this book\". Don't use them alone. A common mistake is saying このは; use これは instead.",
+  "examples": [
+   {
+    "jp": "この{本|ほん}はおもしろいです。",
+    "en": "This book is interesting."
+   },
+   {
+    "jp": "あの{人|ひと}はだれですか。",
+    "en": "Who is that person?"
+   },
+   {
+    "jp": "どのかばんがいいですか。",
+    "en": "Which bag is good?"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "＿＿{人|ひと}は{私|わたし}の{母|はは}です。",
+    "options": [
+     "あれ",
+     "あの",
+     "あそこ",
+     "あちら"
+    ],
+    "answer": 1,
+    "en": "That person is my mother."
+   },
+   {
+    "q": "＿＿{電車|でんしゃ}に{乗|の}りますか。",
+    "options": [
+     "どれ",
+     "どこ",
+     "どちら",
+     "どの"
+    ],
+    "answer": 3,
+    "en": "Which train will you take?"
+   },
+   {
+    "q": "＿＿りんごをください。",
+    "options": [
+     "それ",
+     "その",
+     "そこ",
+     "そちら"
+    ],
+    "answer": 1,
+    "en": "Please give me that apple."
+   }
+  ]
+ },
+ {
+  "id": "g5-008",
+  "level": 5,
+  "title_raw": "ここ・そこ・あそこ・どこ",
+  "meaning": "here / there / over there / where",
+  "structure": "ここ・そこ・あそこ・どこ (places)",
+  "explain": "These are words for places. ここ = here (near me), そこ = there (near you), あそこ = over there, どこ = where.",
+  "examples": [
+   {
+    "jp": "ここは{教室|きょうしつ}です。",
+    "en": "This is the classroom."
+   },
+   {
+    "jp": "トイレはあそこです。",
+    "en": "The toilet is over there."
+   },
+   {
+    "jp": "{駅|えき}はどこですか。",
+    "en": "Where is the station?"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "すみません、{銀行|ぎんこう}は＿＿ですか。",
+    "options": [
+     "どこ",
+     "どれ",
+     "どの",
+     "だれ"
+    ],
+    "answer": 0,
+    "en": "Excuse me, where is the bank?"
+   },
+   {
+    "q": "A：{受付|うけつけ}はどこですか。B：＿＿です。（{遠|とお}くを{指|ゆび}さして）",
+    "options": [
+     "あれ",
+     "あの",
+     "あそこ",
+     "あちら"
+    ],
+    "answer": 2,
+    "en": "A: Where is reception? B: Over there. (pointing far away)"
+   },
+   {
+    "q": "＿＿は{私|わたし}の{部屋|へや}です。どうぞ。",
+    "options": [
+     "ここ",
+     "これ",
+     "この",
+     "どこ"
+    ],
+    "answer": 0,
+    "en": "This is my room. Come in."
+   }
+  ]
+ },
+ {
+  "id": "g5-009",
+  "level": 5,
+  "title_raw": "こちら・そちら・あちら・どちら",
+  "meaning": "this way / that way / which (polite)",
+  "structure": "こちら・そちら・あちら・どちら",
+  "explain": "The polite versions of ここ/そこ/あそこ/どこ, used in shops and with people you respect. どちら also means \"which (of two)\". こちらは～さんです is used to introduce someone.",
+  "examples": [
+   {
+    "jp": "こちらは{山田|やまだ}さんです。",
+    "en": "This is Mr. Yamada."
+   },
+   {
+    "jp": "エレベーターはあちらです。",
+    "en": "The elevator is that way."
+   },
+   {
+    "jp": "コーヒーと{紅茶|こうちゃ}と、どちらがいいですか。",
+    "en": "Which would you like, coffee or tea?"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "（{紹介|しょうかい}）＿＿は{田中|たなか}さんです。",
+    "options": [
+     "この",
+     "これの",
+     "ここの",
+     "こちら"
+    ],
+    "answer": 3,
+    "en": "(Introducing) This is Ms. Tanaka."
+   },
+   {
+    "q": "お{国|くに}は＿＿ですか。",
+    "options": [
+     "どの",
+     "どちら",
+     "どれの",
+     "どなたの"
+    ],
+    "answer": 1,
+    "en": "Which country are you from?"
+   },
+   {
+    "q": "{出口|でぐち}は＿＿でございます。",
+    "options": [
+     "あの",
+     "あれの",
+     "あのう",
+     "あちら"
+    ],
+    "answer": 3,
+    "en": "The exit is that way, sir."
+   }
+  ]
+ },
+ {
+  "id": "g5-010",
+  "level": 5,
+  "title_raw": "何・だれ・いつ・いくら",
+  "meaning": "what / who / when / how much",
+  "structure": "Question word + です か / Question word + が ...",
+  "explain": "Put the question word where the answer will go and end with か. Use なん before です and counters (なんですか), なに before を/が. Question words take が, not は: だれが{来|き}ましたか.",
+  "examples": [
+   {
+    "jp": "あの{人|ひと}はだれですか。",
+    "en": "Who is that person?"
+   },
+   {
+    "jp": "{誕生日|たんじょうび}はいつですか。",
+    "en": "When is your birthday?"
+   },
+   {
+    "jp": "このかばんはいくらですか。",
+    "en": "How much is this bag?"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "A：これは＿＿ですか。B：1000{円|えん}です。",
+    "options": [
+     "いつ",
+     "だれ",
+     "いくら",
+     "どこ"
+    ],
+    "answer": 2,
+    "en": "A: How much is this? B: It is 1000 yen."
+   },
+   {
+    "q": "A：{夏休|なつやす}みは＿＿からですか。B：{七月|しちがつ}からです。",
+    "options": [
+     "いつ",
+     "いくら",
+     "だれ",
+     "なに"
+    ],
+    "answer": 0,
+    "en": "A: When does summer vacation start? B: From July."
+   },
+   {
+    "q": "A：＿＿が{来|き}ましたか。B：{田中|たなか}さんが{来|き}ました。",
+    "options": [
+     "なに",
+     "いつ",
+     "だれ",
+     "どこ"
+    ],
+    "answer": 2,
+    "en": "A: Who came? B: Mr. Tanaka came."
+   }
+  ]
+ },
+ {
+  "id": "g5-011",
+  "level": 5,
+  "title_raw": "何か・何も",
+  "meaning": "something / nothing",
+  "structure": "Question word + か (some~) / Question word + も + negative (no~)",
+  "explain": "Question word + か = \"some~\": {何|なに}か (something), だれか (someone), どこか (somewhere). Question word + も + negative = \"no~\": {何|なに}も{食|た}べません (eat nothing).",
+  "examples": [
+   {
+    "jp": "{何|なに}か{飲|の}みますか。",
+    "en": "Will you drink something?"
+   },
+   {
+    "jp": "{昨日|きのう}はどこも{行|い}きませんでした。",
+    "en": "I didn't go anywhere yesterday."
+   },
+   {
+    "jp": "{部屋|へや}にだれかいますか。",
+    "en": "Is someone in the room?"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "A：{何|なに}か{食|た}べましたか。B：いいえ、{何|なに}＿＿{食|た}べませんでした。",
+    "options": [
+     "か",
+     "も",
+     "が",
+     "を"
+    ],
+    "answer": 1,
+    "en": "A: Did you eat something? B: No, I didn't eat anything."
+   },
+   {
+    "q": "{夏休|なつやす}みはどこ＿＿{行|い}きたいです。",
+    "options": [
+     "も",
+     "が",
+     "を",
+     "か"
+    ],
+    "answer": 3,
+    "en": "I want to go somewhere for summer vacation."
+   },
+   {
+    "q": "{教室|きょうしつ}には＿＿いません。",
+    "options": [
+     "だれか",
+     "だれも",
+     "だれが",
+     "だれを"
+    ],
+    "answer": 1,
+    "en": "There is nobody in the classroom."
+   }
+  ]
+ },
+ {
+  "id": "g5-012",
+  "level": 5,
+  "title_raw": "～でした・～じゃありませんでした",
+  "meaning": "was ~ / was not ~",
+  "structure": "Noun / な-adj + でした・じゃありませんでした",
+  "explain": "Past forms of です. でした = was. じゃありませんでした (or じゃなかったです) = was not. Do not use でした after い-adjectives (not {高|たか}いでした).",
+  "examples": [
+   {
+    "jp": "{昨日|きのう}は{雨|あめ}でした。",
+    "en": "It was rainy yesterday."
+   },
+   {
+    "jp": "{先週|せんしゅう}は{休|やす}みじゃありませんでした。",
+    "en": "Last week was not a holiday."
+   },
+   {
+    "jp": "{子|こ}どものとき、{私|わたし}は{元気|げんき}な{子|こ}でした。",
+    "en": "When I was a child, I was an energetic kid."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{昨日|きのう}は{日曜日|にちようび}＿＿。",
+    "options": [
+     "でした",
+     "です",
+     "ました",
+     "かった"
+    ],
+    "answer": 0,
+    "en": "Yesterday was Sunday."
+   },
+   {
+    "q": "{昨日|きのう}のテストは{簡単|かんたん}＿＿。",
+    "options": [
+     "くなかったです",
+     "ませんでした",
+     "じゃありませんでした",
+     "じゃないでした"
+    ],
+    "answer": 2,
+    "en": "Yesterday's test was not easy."
+   },
+   {
+    "q": "{去年|きょねん}、{私|わたし}は{大学生|だいがくせい}＿＿。",
+    "options": [
+     "でした",
+     "ました",
+     "かったです",
+     "います"
+    ],
+    "answer": 0,
+    "en": "Last year, I was a university student."
+   }
+  ]
+ },
+ {
+  "id": "g5-013",
+  "level": 5,
+  "title_raw": "～ます",
+  "meaning": "polite verb (do / will do)",
+  "structure": "Verb ます-stem + ます",
+  "explain": "The polite present form of verbs. It covers habits (\"I do\") and the future (\"I will do\"). Use it with people you don't know well.",
+  "examples": [
+   {
+    "jp": "{毎朝|まいあさ}{七時|しちじ}に{起|お}きます。",
+    "en": "I get up at seven every morning."
+   },
+   {
+    "jp": "{明日|あした}{東京|とうきょう}へ{行|い}きます。",
+    "en": "I will go to Tokyo tomorrow."
+   },
+   {
+    "jp": "{私|わたし}はよく{本|ほん}を{読|よ}みます。",
+    "en": "I often read books."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{毎日|まいにち}{日本語|にほんご}を{勉強|べんきょう}し＿＿。",
+    "options": [
+     "です",
+     "ません",
+     "でした",
+     "ます"
+    ],
+    "answer": 3,
+    "en": "I study Japanese every day."
+   },
+   {
+    "q": "{明日|あした}、{友|とも}だちに＿＿。",
+    "options": [
+     "{会|あ}うます",
+     "{会|あ}います",
+     "{会|あ}えます",
+     "{会|あ}いです"
+    ],
+    "answer": 1,
+    "en": "I will meet a friend tomorrow."
+   },
+   {
+    "q": "{夜|よる}、テレビを＿＿。",
+    "options": [
+     "{見|み}るます",
+     "{見|み}ります",
+     "{見|み}です",
+     "{見|み}ます"
+    ],
+    "answer": 3,
+    "en": "I watch TV at night."
+   }
+  ]
+ },
+ {
+  "id": "g5-014",
+  "level": 5,
+  "title_raw": "～ません",
+  "meaning": "do not / will not",
+  "structure": "Verb ます-stem + ません",
+  "explain": "The polite negative of verbs. Change ます to ません. It means \"don't\" or \"won't\".",
+  "examples": [
+   {
+    "jp": "{私|わたし}はお{酒|さけ}を{飲|の}みません。",
+    "en": "I don't drink alcohol."
+   },
+   {
+    "jp": "{明日|あした}は{学校|がっこう}へ{行|い}きません。",
+    "en": "I won't go to school tomorrow."
+   },
+   {
+    "jp": "{肉|にく}は{食|た}べません。",
+    "en": "I don't eat meat."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{私|わたし}はたばこを＿＿。",
+    "options": [
+     "{吸|す}わないます",
+     "{吸|す}いないです",
+     "{吸|す}いません",
+     "{吸|す}うません"
+    ],
+    "answer": 2,
+    "en": "I don't smoke."
+   },
+   {
+    "q": "{日曜日|にちようび}は{会社|かいしゃ}へ{行|い}き＿＿。",
+    "options": [
+     "ません",
+     "じゃありません",
+     "くないです",
+     "ないです"
+    ],
+    "answer": 0,
+    "en": "I don't go to work on Sundays."
+   },
+   {
+    "q": "{朝|あさ}ごはんを{食|た}べ＿＿。{時間|じかん}がありません。",
+    "options": [
+     "ます",
+     "ました",
+     "ません",
+     "ましょう"
+    ],
+    "answer": 2,
+    "en": "I don't eat breakfast. I have no time."
+   }
+  ]
+ },
+ {
+  "id": "g5-015",
+  "level": 5,
+  "title_raw": "～ました",
+  "meaning": "did",
+  "structure": "Verb ます-stem + ました",
+  "explain": "The polite past form of verbs. Change ます to ました.",
+  "examples": [
+   {
+    "jp": "{昨日|きのう}{映画|えいが}を{見|み}ました。",
+    "en": "I watched a movie yesterday."
+   },
+   {
+    "jp": "{先週|せんしゅう}{京都|きょうと}へ{行|い}きました。",
+    "en": "I went to Kyoto last week."
+   },
+   {
+    "jp": "もう{宿題|しゅくだい}をしました。",
+    "en": "I already did my homework."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{昨日|きのう}、{友|とも}だちと{昼|ひる}ごはんを＿＿。",
+    "options": [
+     "{食|た}べます",
+     "{食|た}べました",
+     "{食|た}べましょう",
+     "{食|た}べません"
+    ],
+    "answer": 1,
+    "en": "I ate lunch with a friend yesterday."
+   },
+   {
+    "q": "{先月|せんげつ}、{新|あたら}しい{靴|くつ}を{買|か}い＿＿。",
+    "options": [
+     "ます",
+     "でした",
+     "ません",
+     "ました"
+    ],
+    "answer": 3,
+    "en": "I bought new shoes last month."
+   },
+   {
+    "q": "{昨日|きのう}の{夜|よる}、{十一時|じゅういちじ}に＿＿。",
+    "options": [
+     "{寝|ね}ます",
+     "{寝|ね}ました",
+     "{寝|ね}るました",
+     "{寝|ね}でした"
+    ],
+    "answer": 1,
+    "en": "I went to bed at eleven last night."
+   }
+  ]
+ },
+ {
+  "id": "g5-016",
+  "level": 5,
+  "title_raw": "～ませんでした",
+  "meaning": "did not",
+  "structure": "Verb ます-stem + ませんでした",
+  "explain": "The polite past negative of verbs. Change ます to ませんでした. Don't say ～ないでした.",
+  "examples": [
+   {
+    "jp": "{昨日|きのう}は{何|なに}も{食|た}べませんでした。",
+    "en": "I didn't eat anything yesterday."
+   },
+   {
+    "jp": "{先週|せんしゅう}は{学校|がっこう}へ{行|い}きませんでした。",
+    "en": "I didn't go to school last week."
+   },
+   {
+    "jp": "{雨|あめ}でしたから、{出|で}かけませんでした。",
+    "en": "It was raining, so I didn't go out."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{昨日|きのう}、テレビを{見|み}＿＿。",
+    "options": [
+     "ませんでした",
+     "ないでした",
+     "じゃありませんでした",
+     "くなかったです"
+    ],
+    "answer": 0,
+    "en": "I didn't watch TV yesterday."
+   },
+   {
+    "q": "{今朝|けさ}はコーヒーを＿＿。",
+    "options": [
+     "{飲|の}まないでした",
+     "{飲|の}みないでした",
+     "{飲|の}みませんでした",
+     "{飲|の}むませんでした"
+    ],
+    "answer": 2,
+    "en": "I didn't drink coffee this morning."
+   },
+   {
+    "q": "{先週|せんしゅう}の{土曜日|どようび}は{友|とも}だちに{会|あ}い＿＿。",
+    "options": [
+     "ませんでした",
+     "ませんです",
+     "ないでした",
+     "ましたない"
+    ],
+    "answer": 0,
+    "en": "I didn't meet my friends last Saturday."
+   }
+  ]
+ },
+ {
+  "id": "g5-017",
+  "level": 5,
+  "title_raw": "～を",
+  "meaning": "object marker",
+  "structure": "Noun を + Verb",
+  "explain": "を (read \"o\") marks the thing that the action is done to. 「パンを{食|た}べます」 = eat bread.",
+  "examples": [
+   {
+    "jp": "{水|みず}を{飲|の}みます。",
+    "en": "I drink water."
+   },
+   {
+    "jp": "{毎晩|まいばん}{日本語|にほんご}を{勉強|べんきょう}します。",
+    "en": "I study Japanese every night."
+   },
+   {
+    "jp": "{手紙|てがみ}を{書|か}きました。",
+    "en": "I wrote a letter."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{新聞|しんぶん}＿＿{読|よ}みます。",
+    "options": [
+     "に",
+     "へ",
+     "で",
+     "を"
+    ],
+    "answer": 3,
+    "en": "I read the newspaper."
+   },
+   {
+    "q": "{写真|しゃしん}＿＿{撮|と}りました。",
+    "options": [
+     "が",
+     "を",
+     "に",
+     "へ"
+    ],
+    "answer": 1,
+    "en": "I took a photo."
+   },
+   {
+    "q": "{毎朝|まいあさ}シャワー＿＿{浴|あ}びます。",
+    "options": [
+     "で",
+     "と",
+     "の",
+     "を"
+    ],
+    "answer": 3,
+    "en": "I take a shower every morning."
+   }
+  ]
+ },
+ {
+  "id": "g5-018",
+  "level": 5,
+  "title_raw": "～へ",
+  "meaning": "to (direction)",
+  "structure": "Place へ + {行|い}きます / {来|き}ます / {帰|かえ}ります",
+  "explain": "へ (read \"e\") shows the direction of movement. It is used with {行|い}きます, {来|き}ます and {帰|かえ}ります. に can also be used here.",
+  "examples": [
+   {
+    "jp": "{明日|あした}{大阪|おおさか}へ{行|い}きます。",
+    "en": "I will go to Osaka tomorrow."
+   },
+   {
+    "jp": "{来年|らいねん}{日本|にほん}へ{来|き}ます。",
+    "en": "I will come to Japan next year."
+   },
+   {
+    "jp": "{七時|しちじ}に{家|うち}へ{帰|かえ}りました。",
+    "en": "I went home at seven."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{来週|らいしゅう}、{北海道|ほっかいどう}＿＿{行|い}きます。",
+    "options": [
+     "を",
+     "で",
+     "へ",
+     "が"
+    ],
+    "answer": 2,
+    "en": "I will go to Hokkaido next week."
+   },
+   {
+    "q": "{何時|なんじ}に{国|くに}＿＿{帰|かえ}りますか。",
+    "options": [
+     "へ",
+     "で",
+     "を",
+     "の"
+    ],
+    "answer": 0,
+    "en": "What time are you going back to your country?"
+   },
+   {
+    "q": "{友|とも}だちが{私|わたし}の{家|いえ}＿＿{来|き}ました。",
+    "options": [
+     "で",
+     "を",
+     "へ",
+     "と"
+    ],
+    "answer": 2,
+    "en": "My friend came to my house."
+   }
+  ]
+ },
+ {
+  "id": "g5-019",
+  "level": 5,
+  "title_raw": "～に (time)",
+  "meaning": "at / on / in (time)",
+  "structure": "Time に + Verb",
+  "explain": "に marks a specific time: clock times, dates, days of the week. Do not use に with relative words like {今日|きょう}, {明日|あした}, {毎朝|まいあさ}.",
+  "examples": [
+   {
+    "jp": "{六時|ろくじ}に{起|お}きます。",
+    "en": "I get up at six."
+   },
+   {
+    "jp": "{日曜日|にちようび}に{買|か}い{物|もの}をします。",
+    "en": "I go shopping on Sunday."
+   },
+   {
+    "jp": "{三月|さんがつ}に{日本|にほん}へ{行|い}きます。",
+    "en": "I'll go to Japan in March."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{毎日|まいにち}{九時|くじ}＿＿{寝|ね}ます。",
+    "options": [
+     "で",
+     "に",
+     "を",
+     "へ"
+    ],
+    "answer": 1,
+    "en": "I go to bed at nine every day."
+   },
+   {
+    "q": "{土曜日|どようび}＿＿テニスをします。",
+    "options": [
+     "を",
+     "が",
+     "へ",
+     "に"
+    ],
+    "answer": 3,
+    "en": "I play tennis on Saturday."
+   },
+   {
+    "q": "{授業|じゅぎょう}は{十時|じゅうじ}＿＿{始|はじ}まります。",
+    "options": [
+     "で",
+     "に",
+     "と",
+     "の"
+    ],
+    "answer": 1,
+    "en": "Class starts at ten."
+   }
+  ]
+ },
+ {
+  "id": "g5-020",
+  "level": 5,
+  "title_raw": "～に (place / person)",
+  "meaning": "to / at (destination, target)",
+  "structure": "Place に + {行|い}きます / Person に + {会|あ}います・あげます",
+  "explain": "に shows where you go or arrive, and the person you meet, give to, or call. 「{友|とも}だちに{会|あ}います」 = meet a friend (not を).",
+  "examples": [
+   {
+    "jp": "{学校|がっこう}に{行|い}きます。",
+    "en": "I go to school."
+   },
+   {
+    "jp": "{駅|えき}で{先生|せんせい}に{会|あ}いました。",
+    "en": "I met my teacher at the station."
+   },
+   {
+    "jp": "{母|はは}に{花|はな}をあげました。",
+    "en": "I gave flowers to my mother."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{昨日|きのう}、{友|とも}だち＿＿{会|あ}いました。",
+    "options": [
+     "に",
+     "を",
+     "で",
+     "が"
+    ],
+    "answer": 0,
+    "en": "I met a friend yesterday."
+   },
+   {
+    "q": "{毎朝|まいあさ}{電車|でんしゃ}＿＿{乗|の}ります。",
+    "options": [
+     "を",
+     "へ",
+     "に",
+     "の"
+    ],
+    "answer": 2,
+    "en": "I get on the train every morning."
+   },
+   {
+    "q": "{妹|いもうと}＿＿{電話|でんわ}をかけます。",
+    "options": [
+     "に",
+     "で",
+     "の",
+     "から"
+    ],
+    "answer": 0,
+    "en": "I'll call my younger sister."
+   }
+  ]
+ },
+ {
+  "id": "g5-021",
+  "level": 5,
+  "title_raw": "～で (place)",
+  "meaning": "at / in (place of action)",
+  "structure": "Place で + Action verb",
+  "explain": "で marks the place where an action happens. For where something simply exists (あります/います), use に instead.",
+  "examples": [
+   {
+    "jp": "{図書館|としょかん}で{勉強|べんきょう}します。",
+    "en": "I study at the library."
+   },
+   {
+    "jp": "{駅|えき}の{前|まえ}で{待|ま}ちます。",
+    "en": "I'll wait in front of the station."
+   },
+   {
+    "jp": "{公園|こうえん}で{子|こ}どもが{遊|あそ}んでいます。",
+    "en": "Children are playing in the park."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "レストラン＿＿{晩|ばん}ごはんを{食|た}べました。",
+    "options": [
+     "に",
+     "を",
+     "へ",
+     "で"
+    ],
+    "answer": 3,
+    "en": "I ate dinner at a restaurant."
+   },
+   {
+    "q": "{家|いえ}＿＿{映画|えいが}を{見|み}ます。",
+    "options": [
+     "を",
+     "で",
+     "が",
+     "や"
+    ],
+    "answer": 1,
+    "en": "I watch movies at home."
+   },
+   {
+    "q": "デパート＿＿シャツを{買|か}いました。",
+    "options": [
+     "を",
+     "の",
+     "と",
+     "で"
+    ],
+    "answer": 3,
+    "en": "I bought a shirt at the department store."
+   }
+  ]
+ },
+ {
+  "id": "g5-022",
+  "level": 5,
+  "title_raw": "～で (means)",
+  "meaning": "by / with / in (tool, method, language)",
+  "structure": "Noun で + Verb",
+  "explain": "で also shows how you do something: by bus, with chopsticks, in Japanese.",
+  "examples": [
+   {
+    "jp": "バスで{学校|がっこう}へ{行|い}きます。",
+    "en": "I go to school by bus."
+   },
+   {
+    "jp": "はしでごはんを{食|た}べます。",
+    "en": "I eat rice with chopsticks."
+   },
+   {
+    "jp": "{日本語|にほんご}で{話|はな}してください。",
+    "en": "Please speak in Japanese."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "ペン＿＿{名前|なまえ}を{書|か}いてください。",
+    "options": [
+     "を",
+     "に",
+     "で",
+     "へ"
+    ],
+    "answer": 2,
+    "en": "Please write your name with a pen."
+   },
+   {
+    "q": "{自転車|じてんしゃ}＿＿{駅|えき}へ{行|い}きます。",
+    "options": [
+     "で",
+     "を",
+     "が",
+     "の"
+    ],
+    "answer": 0,
+    "en": "I go to the station by bicycle."
+   },
+   {
+    "q": "{英語|えいご}＿＿メールを{書|か}きました。",
+    "options": [
+     "に",
+     "を",
+     "で",
+     "や"
+    ],
+    "answer": 2,
+    "en": "I wrote an email in English."
+   }
+  ]
+ },
+ {
+  "id": "g5-023",
+  "level": 5,
+  "title_raw": "～と (with)",
+  "meaning": "with (a person)",
+  "structure": "Person と + Verb",
+  "explain": "と after a person means \"together with\". {一人|ひとり}で means \"alone\".",
+  "examples": [
+   {
+    "jp": "{友|とも}だちと{映画|えいが}を{見|み}ました。",
+    "en": "I watched a movie with a friend."
+   },
+   {
+    "jp": "{家族|かぞく}と{旅行|りょこう}します。",
+    "en": "I will travel with my family."
+   },
+   {
+    "jp": "{誰|だれ}と{行|い}きますか。",
+    "en": "Who are you going with?"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{昨日|きのう}、{母|はは}＿＿{買|か}い{物|もの}に{行|い}きました。",
+    "options": [
+     "を",
+     "と",
+     "へ",
+     "が"
+    ],
+    "answer": 1,
+    "en": "Yesterday I went shopping with my mother."
+   },
+   {
+    "q": "{週末|しゅうまつ}は{彼女|かのじょ}＿＿{会|あ}います。",
+    "options": [
+     "で",
+     "の",
+     "へ",
+     "と"
+    ],
+    "answer": 3,
+    "en": "I'll meet up with my girlfriend this weekend."
+   },
+   {
+    "q": "{田中|たなか}さん＿＿テニスをしました。",
+    "options": [
+     "を",
+     "と",
+     "で",
+     "や"
+    ],
+    "answer": 1,
+    "en": "I played tennis with Mr. Tanaka."
+   }
+  ]
+ },
+ {
+  "id": "g5-024",
+  "level": 5,
+  "title_raw": "～と (and)",
+  "meaning": "and (complete list)",
+  "structure": "Noun と Noun",
+  "explain": "と joins nouns and means the list is complete: \"A and B (only)\". Use it only between nouns, not to join sentences or verbs.",
+  "examples": [
+   {
+    "jp": "パンと{卵|たまご}を{買|か}いました。",
+    "en": "I bought bread and eggs."
+   },
+   {
+    "jp": "{父|ちち}と{母|はは}は{東京|とうきょう}にいます。",
+    "en": "My father and mother are in Tokyo."
+   },
+   {
+    "jp": "{机|つくえ}の{上|うえ}にペンとノートがあります。",
+    "en": "There is a pen and a notebook on the desk."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "りんご＿＿バナナをください。",
+    "options": [
+     "と",
+     "を",
+     "で",
+     "が"
+    ],
+    "answer": 0,
+    "en": "Apples and bananas, please."
+   },
+   {
+    "q": "{私|わたし}の{家族|かぞく}は{父|ちち}と{母|はは}＿＿{私|わたし}です。",
+    "options": [
+     "を",
+     "へ",
+     "と",
+     "で"
+    ],
+    "answer": 2,
+    "en": "My family is my father, my mother and me."
+   },
+   {
+    "q": "{月曜日|げつようび}＿＿{水曜日|すいようび}にアルバイトをします。",
+    "options": [
+     "と",
+     "へ",
+     "を",
+     "から"
+    ],
+    "answer": 0,
+    "en": "I work part-time on Monday and Wednesday."
+   }
+  ]
+ },
+ {
+  "id": "g5-025",
+  "level": 5,
+  "title_raw": "～や～など",
+  "meaning": "A, B and so on",
+  "structure": "Noun や Noun (など)",
+  "explain": "や lists some examples, not all of them: \"things like A and B\". など at the end means \"etc.\" Use と when the list is complete.",
+  "examples": [
+   {
+    "jp": "{机|つくえ}の{上|うえ}に{本|ほん}やペンなどがあります。",
+    "en": "There are books, pens and other things on the desk."
+   },
+   {
+    "jp": "{週末|しゅうまつ}は{掃除|そうじ}や{洗濯|せんたく}をします。",
+    "en": "On weekends I do things like cleaning and laundry."
+   },
+   {
+    "jp": "{京都|きょうと}や{奈良|なら}へ{行|い}きました。",
+    "en": "I went to places like Kyoto and Nara."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "かばんの{中|なか}に{財布|さいふ}＿＿{鍵|かぎ}などがあります。",
+    "options": [
+     "を",
+     "へ",
+     "で",
+     "や"
+    ],
+    "answer": 3,
+    "en": "There are things like a wallet and keys in the bag."
+   },
+   {
+    "q": "スーパーで{肉|にく}や{野菜|やさい}＿＿を{買|か}いました。",
+    "options": [
+     "まで",
+     "など",
+     "より",
+     "だけ"
+    ],
+    "answer": 1,
+    "en": "I bought meat, vegetables and other things at the supermarket."
+   },
+   {
+    "q": "{果物|くだもの}はりんご＿＿みかんが{好|す}きです。",
+    "options": [
+     "で",
+     "に",
+     "へ",
+     "や"
+    ],
+    "answer": 3,
+    "en": "Among fruits, I like things like apples and mandarins."
+   }
+  ]
+ },
+ {
+  "id": "g5-026",
+  "level": 5,
+  "title_raw": "～から～まで",
+  "meaning": "from ~ to / until ~",
+  "structure": "Time/Place から Time/Place まで",
+  "explain": "から = from (start) and まで = to/until (end). They work for both time and place. You can use one without the other.",
+  "examples": [
+   {
+    "jp": "{銀行|ぎんこう}は{九時|くじ}から{三時|さんじ}までです。",
+    "en": "The bank is open from nine to three."
+   },
+   {
+    "jp": "{家|いえ}から{駅|えき}まで{歩|ある}きます。",
+    "en": "I walk from home to the station."
+   },
+   {
+    "jp": "{夏休|なつやす}みは{来週|らいしゅう}からです。",
+    "en": "Summer vacation starts next week."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{授業|じゅぎょう}は{月曜日|げつようび}＿＿{金曜日|きんようび}までです。",
+    "options": [
+     "まで",
+     "に",
+     "から",
+     "で"
+    ],
+    "answer": 2,
+    "en": "Classes are from Monday to Friday."
+   },
+   {
+    "q": "{東京|とうきょう}から{大阪|おおさか}＿＿{新幹線|しんかんせん}で{行|い}きます。",
+    "options": [
+     "まで",
+     "から",
+     "を",
+     "が"
+    ],
+    "answer": 0,
+    "en": "I'll go from Tokyo to Osaka by bullet train."
+   },
+   {
+    "q": "{昨日|きのう}は{夜|よる}{十二時|じゅうにじ}＿＿{勉強|べんきょう}しました。",
+    "options": [
+     "から",
+     "より",
+     "まで",
+     "で"
+    ],
+    "answer": 2,
+    "en": "Yesterday I studied until midnight."
+   }
+  ]
+ },
+ {
+  "id": "g5-027",
+  "level": 5,
+  "title_raw": "～が (subject)",
+  "meaning": "subject marker",
+  "structure": "Noun が + Verb / Adjective",
+  "explain": "が marks the subject, often new information or the answer to a question. Question words like だれ and {何|なに} take が, not は. It is also used in descriptions like 「{雨|あめ}が{降|ふ}っています」.",
+  "examples": [
+   {
+    "jp": "だれが{来|き}ましたか。",
+    "en": "Who came?"
+   },
+   {
+    "jp": "{雨|あめ}が{降|ふ}っています。",
+    "en": "It is raining."
+   },
+   {
+    "jp": "{象|ぞう}は{鼻|はな}が{長|なが}いです。",
+    "en": "Elephants have long trunks."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "A：だれ＿＿{窓|まど}を{開|あ}けましたか。B：{私|わたし}です。",
+    "options": [
+     "は",
+     "が",
+     "を",
+     "で"
+    ],
+    "answer": 1,
+    "en": "A: Who opened the window? B: I did."
+   },
+   {
+    "q": "あっ、バス＿＿{来|き}ました。",
+    "options": [
+     "を",
+     "へ",
+     "で",
+     "が"
+    ],
+    "answer": 3,
+    "en": "Oh, the bus has come."
+   },
+   {
+    "q": "この{部屋|へや}は{窓|まど}＿＿{大|おお}きいです。",
+    "options": [
+     "を",
+     "が",
+     "へ",
+     "と"
+    ],
+    "answer": 1,
+    "en": "This room has big windows."
+   }
+  ]
+ },
+ {
+  "id": "g5-028",
+  "level": 5,
+  "title_raw": "あります・います",
+  "meaning": "there is / have",
+  "structure": "Noun が あります (things) / Noun が います (people, animals)",
+  "explain": "Both mean \"there is\" or \"have\". Use あります for things and plants; use います for people and animals. Negative: ありません / いません.",
+  "examples": [
+   {
+    "jp": "{机|つくえ}の{上|うえ}に{本|ほん}があります。",
+    "en": "There is a book on the desk."
+   },
+   {
+    "jp": "{公園|こうえん}に{子|こ}どもがいます。",
+    "en": "There are children in the park."
+   },
+   {
+    "jp": "{私|わたし}は{兄弟|きょうだい}がいません。",
+    "en": "I don't have any brothers or sisters."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{庭|にわ}に{猫|ねこ}が＿＿。",
+    "options": [
+     "います",
+     "あります",
+     "です",
+     "します"
+    ],
+    "answer": 0,
+    "en": "There is a cat in the garden."
+   },
+   {
+    "q": "{明日|あした}、テストが＿＿。",
+    "options": [
+     "います",
+     "です",
+     "あります",
+     "なります"
+    ],
+    "answer": 2,
+    "en": "There is a test tomorrow."
+   },
+   {
+    "q": "{教室|きょうしつ}に{先生|せんせい}が＿＿。",
+    "options": [
+     "いません",
+     "ありません",
+     "じゃありません",
+     "しません"
+    ],
+    "answer": 0,
+    "en": "The teacher is not in the classroom."
+   }
+  ]
+ },
+ {
+  "id": "g5-029",
+  "level": 5,
+  "title_raw": "～に～があります",
+  "meaning": "there is ~ in/at (place)",
+  "structure": "Place に Noun が あります・います",
+  "explain": "Use this to say what exists in a place. The place takes に, not で. The thing takes が.",
+  "examples": [
+   {
+    "jp": "{駅|えき}の{近|ちか}くにコンビニがあります。",
+    "en": "There is a convenience store near the station."
+   },
+   {
+    "jp": "{部屋|へや}に{犬|いぬ}がいます。",
+    "en": "There is a dog in the room."
+   },
+   {
+    "jp": "{冷蔵庫|れいぞうこ}に{何|なに}がありますか。",
+    "en": "What is in the fridge?"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{机|つくえ}の{下|した}＿＿かばんがあります。",
+    "options": [
+     "で",
+     "を",
+     "へ",
+     "に"
+    ],
+    "answer": 3,
+    "en": "There is a bag under the desk."
+   },
+   {
+    "q": "{木|き}の{上|うえ}に{鳥|とり}＿＿います。",
+    "options": [
+     "を",
+     "が",
+     "で",
+     "へ"
+    ],
+    "answer": 1,
+    "en": "There is a bird in the tree."
+   },
+   {
+    "q": "この{町|まち}＿＿{大|おお}きい{病院|びょういん}があります。",
+    "options": [
+     "で",
+     "を",
+     "が",
+     "に"
+    ],
+    "answer": 3,
+    "en": "There is a big hospital in this town."
+   }
+  ]
+ },
+ {
+  "id": "g5-030",
+  "level": 5,
+  "title_raw": "～は～にあります",
+  "meaning": "~ is in/at (place)",
+  "structure": "Noun は Place に あります・います",
+  "explain": "Use this when you talk about where a known thing or person is. The thing takes は and the place takes に. Often shortened to 「～は～です」.",
+  "examples": [
+   {
+    "jp": "トイレはあそこにあります。",
+    "en": "The toilet is over there."
+   },
+   {
+    "jp": "{田中|たなか}さんは{会議室|かいぎしつ}にいます。",
+    "en": "Mr. Tanaka is in the meeting room."
+   },
+   {
+    "jp": "{私|わたし}の{家|いえ}は{駅|えき}の{近|ちか}くです。",
+    "en": "My house is near the station."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{郵便局|ゆうびんきょく}は{銀行|ぎんこう}の{隣|となり}＿＿あります。",
+    "options": [
+     "で",
+     "を",
+     "に",
+     "が"
+    ],
+    "answer": 2,
+    "en": "The post office is next to the bank."
+   },
+   {
+    "q": "{母|はは}は{台所|だいどころ}に＿＿。",
+    "options": [
+     "います",
+     "あります",
+     "です",
+     "します"
+    ],
+    "answer": 0,
+    "en": "My mother is in the kitchen."
+   },
+   {
+    "q": "A：{私|わたし}の{眼鏡|めがね}はどこ＿＿ありますか。B：テーブルの{上|うえ}です。",
+    "options": [
+     "で",
+     "を",
+     "に",
+     "へ"
+    ],
+    "answer": 2,
+    "en": "A: Where are my glasses? B: On the table."
+   }
+  ]
+ },
+ {
+  "id": "g5-031",
+  "level": 5,
+  "title_raw": "上・下・中・前・後ろ・隣",
+  "meaning": "position words",
+  "structure": "Noun の {上|うえ}・{下|した}・{中|なか}・{前|まえ}・{後|うし}ろ・{隣|となり}・{近|ちか}く + に/で",
+  "explain": "Position words follow a noun with の: {机|つくえ}の{上|うえ} \"on the desk\". Then add に (exists) or で (action).",
+  "examples": [
+   {
+    "jp": "{箱|はこ}の{中|なか}にケーキがあります。",
+    "en": "There is a cake in the box."
+   },
+   {
+    "jp": "{駅|えき}の{前|まえ}で{会|あ}いましょう。",
+    "en": "Let's meet in front of the station."
+   },
+   {
+    "jp": "{銀行|ぎんこう}の{隣|となり}に{花屋|はなや}があります。",
+    "en": "There is a flower shop next to the bank."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{猫|ねこ}はいすの＿＿にいます。",
+    "options": [
+     "{下|した}の",
+     "{下|した}",
+     "{下|した}で",
+     "{下|した}を"
+    ],
+    "answer": 1,
+    "en": "The cat is under the chair."
+   },
+   {
+    "q": "{学校|がっこう}＿＿{後|うし}ろに{山|やま}があります。",
+    "options": [
+     "に",
+     "で",
+     "を",
+     "の"
+    ],
+    "answer": 3,
+    "en": "There is a mountain behind the school."
+   },
+   {
+    "q": "{本屋|ほんや}は{駅|えき}の＿＿にあります。{歩|ある}いて{一分|いっぷん}です。",
+    "options": [
+     "{近|ちか}い",
+     "{近|ちか}く",
+     "{近|ちか}くて",
+     "{近|ちか}"
+    ],
+    "answer": 1,
+    "en": "The bookstore is near the station. It's a one-minute walk."
+   }
+  ]
+ },
+ {
+  "id": "g5-032",
+  "level": 5,
+  "title_raw": "Counters (～つ・～人・～枚・～本・～個)",
+  "meaning": "counting things and people",
+  "structure": "Noun が/を + Number + Counter + Verb",
+  "explain": "Japanese uses counters. ～つ for general things (ひとつ, ふたつ...), ～{人|にん} for people ({一人|ひとり}, {二人|ふたり}), ～{枚|まい} for flat things, ～{本|ほん} for long things. The number usually comes after the particle: りんごを{三|みっ}つ{買|か}います.",
+  "examples": [
+   {
+    "jp": "りんごを{三|みっ}つください。",
+    "en": "Three apples, please."
+   },
+   {
+    "jp": "{教室|きょうしつ}に{学生|がくせい}が{五人|ごにん}います。",
+    "en": "There are five students in the classroom."
+   },
+   {
+    "jp": "{切手|きって}を{二枚|にまい}{買|か}いました。",
+    "en": "I bought two stamps."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "ビールを＿＿ください。",
+    "options": [
+     "{二本|にほん}",
+     "{二人|ふたり}",
+     "{二枚|にまい}",
+     "{二台|にだい}"
+    ],
+    "answer": 0,
+    "en": "Two bottles of beer, please."
+   },
+   {
+    "q": "{私|わたし}は{兄|あに}が＿＿います。",
+    "options": [
+     "{二|ふた}つ",
+     "{二本|にほん}",
+     "{二人|ふたり}",
+     "{二枚|にまい}"
+    ],
+    "answer": 2,
+    "en": "I have two older brothers."
+   },
+   {
+    "q": "シャツを＿＿{買|か}いました。",
+    "options": [
+     "{三枚|さんまい}",
+     "{三本|さんぼん}",
+     "{三人|さんにん}",
+     "{三冊|さんさつ}"
+    ],
+    "answer": 0,
+    "en": "I bought three shirts."
+   }
+  ]
+ },
+ {
+  "id": "g5-033",
+  "level": 5,
+  "title_raw": "～時・～分・～時間",
+  "meaning": "time: o'clock, minutes, hours",
+  "structure": "Number + {時|じ} / {分|ふん} / {時間|じかん}",
+  "explain": "～{時|じ} is the clock time; ～{時間|じかん} is a length of time. ～{分|ふん} changes sound: {一分|いっぷん}, {三分|さんぷん}, {十分|じゅっぷん}. {半|はん} = half past.",
+  "examples": [
+   {
+    "jp": "{今|いま}、{三時|さんじ}{十分|じゅっぷん}です。",
+    "en": "It is 3:10 now."
+   },
+   {
+    "jp": "{毎日|まいにち}{二時間|にじかん}{勉強|べんきょう}します。",
+    "en": "I study for two hours every day."
+   },
+   {
+    "jp": "{会議|かいぎ}は{十時半|じゅうじはん}からです。",
+    "en": "The meeting is from 10:30."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{駅|えき}まで{歩|ある}いて＿＿かかります。",
+    "options": [
+     "{十時|じゅうじ}",
+     "{十日|とおか}",
+     "{十回|じゅっかい}",
+     "{十分|じゅっぷん}"
+    ],
+    "answer": 3,
+    "en": "It takes ten minutes to walk to the station."
+   },
+   {
+    "q": "{昨日|きのう}は{八|はち}＿＿{寝|ね}ました。",
+    "options": [
+     "{時|じ}に",
+     "{時間|じかん}",
+     "{分|ふん}に",
+     "{日|にち}"
+    ],
+    "answer": 1,
+    "en": "I slept eight hours yesterday."
+   },
+   {
+    "q": "{今|いま}{何|なん}＿＿ですか。",
+    "options": [
+     "{時間|じかん}",
+     "{分間|ふんかん}",
+     "{回|かい}",
+     "{時|じ}"
+    ],
+    "answer": 3,
+    "en": "What time is it now?"
+   }
+  ]
+ },
+ {
+  "id": "g5-034",
+  "level": 5,
+  "title_raw": "～ごろ・～ぐらい",
+  "meaning": "about (time / amount)",
+  "structure": "Time + ごろ / Amount + ぐらい (くらい)",
+  "explain": "ごろ = about a point in time ({三時|さんじ}ごろ). ぐらい = about an amount or length ({一時間|いちじかん}ぐらい). Don't mix them up.",
+  "examples": [
+   {
+    "jp": "{七時|しちじ}ごろ{家|いえ}に{帰|かえ}ります。",
+    "en": "I'll get home around seven."
+   },
+   {
+    "jp": "{駅|えき}まで{十分|じゅっぷん}ぐらいかかります。",
+    "en": "It takes about ten minutes to the station."
+   },
+   {
+    "jp": "{毎日|まいにち}{一時間|いちじかん}ぐらい{歩|ある}きます。",
+    "en": "I walk for about an hour every day."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{昨日|きのう}は{十一時|じゅういちじ}＿＿{寝|ね}ました。",
+    "options": [
+     "ぐらい",
+     "まで",
+     "ごろ",
+     "より"
+    ],
+    "answer": 2,
+    "en": "I went to bed around eleven last night."
+   },
+   {
+    "q": "この{本|ほん}は{千円|せんえん}＿＿でした。",
+    "options": [
+     "ぐらい",
+     "ごろ",
+     "ころに",
+     "まで"
+    ],
+    "answer": 0,
+    "en": "This book was about 1000 yen."
+   },
+   {
+    "q": "{日本|にほん}に{三年|さんねん}＿＿{住|す}んでいました。",
+    "options": [
+     "ごろ",
+     "ごろに",
+     "ぐらい",
+     "ころ"
+    ],
+    "answer": 2,
+    "en": "I lived in Japan for about three years."
+   }
+  ]
+ },
+ {
+  "id": "g5-035",
+  "level": 5,
+  "title_raw": "～だけ",
+  "meaning": "only / just",
+  "structure": "Noun / Number + だけ",
+  "explain": "だけ means \"only\" or \"just\". It follows the noun or amount. It can replace が and を.",
+  "examples": [
+   {
+    "jp": "{日本語|にほんご}は{少|すこ}しだけわかります。",
+    "en": "I understand just a little Japanese."
+   },
+   {
+    "jp": "{朝|あさ}はコーヒーだけ{飲|の}みます。",
+    "en": "I only drink coffee in the morning."
+   },
+   {
+    "jp": "{教室|きょうしつ}に{学生|がくせい}が{一人|ひとり}だけいます。",
+    "en": "There is only one student in the classroom."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{財布|さいふ}に{千円|せんえん}＿＿あります。",
+    "options": [
+     "ごろ",
+     "だけ",
+     "など",
+     "より"
+    ],
+    "answer": 1,
+    "en": "I only have 1000 yen in my wallet."
+   },
+   {
+    "q": "{昼|ひる}ごはんはパン＿＿{食|た}べました。",
+    "options": [
+     "まで",
+     "から",
+     "ほう",
+     "だけ"
+    ],
+    "answer": 3,
+    "en": "I only ate bread for lunch."
+   },
+   {
+    "q": "ちょっと＿＿{待|ま}ってください。",
+    "options": [
+     "ごろ",
+     "だけ",
+     "など",
+     "しか"
+    ],
+    "answer": 1,
+    "en": "Please wait just a moment."
+   }
+  ]
+ },
+ {
+  "id": "g5-036",
+  "level": 5,
+  "title_raw": "い-adjectives",
+  "meaning": "i-adjectives (big, hot, fun...)",
+  "structure": "い-adj + です / い-adj + Noun",
+  "explain": "い-adjectives end in い: {高|たか}い, {大|おお}きい, おもしろい. Put です after them to be polite. Put them straight before a noun with nothing in between (no な, no の).",
+  "examples": [
+   {
+    "jp": "この{本|ほん}はおもしろいです。",
+    "en": "This book is interesting."
+   },
+   {
+    "jp": "{大|おお}きい{家|いえ}に{住|す}みたいです。",
+    "en": "I want to live in a big house."
+   },
+   {
+    "jp": "{今日|きょう}は{寒|さむ}いですね。",
+    "en": "It's cold today, isn't it?"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{東京|とうきょう}は＿＿{町|まち}です。",
+    "options": [
+     "{大|おお}きい",
+     "{大|おお}きいな",
+     "{大|おお}きいの",
+     "{大|おお}きくて"
+    ],
+    "answer": 0,
+    "en": "Tokyo is a big city."
+   },
+   {
+    "q": "このラーメンは＿＿です。",
+    "options": [
+     "おいしいな",
+     "おいしいだ",
+     "おいしい",
+     "おいしく"
+    ],
+    "answer": 2,
+    "en": "This ramen is delicious."
+   },
+   {
+    "q": "＿＿{車|くるま}がほしいです。",
+    "options": [
+     "{新|あたら}しい",
+     "{新|あたら}しいな",
+     "{新|あたら}しいの",
+     "{新|あたら}しく"
+    ],
+    "answer": 0,
+    "en": "I want a new car."
+   }
+  ]
+ },
+ {
+  "id": "g5-037",
+  "level": 5,
+  "title_raw": "な-adjectives",
+  "meaning": "na-adjectives (quiet, famous, kind...)",
+  "structure": "な-adj + です / な-adj + な + Noun",
+  "explain": "な-adjectives take な before a noun: {静|しず}かな{町|まち}. Before です there is no な: {静|しず}かです. Watch out: きれい and {有名|ゆうめい} look like い-adjectives but are な-adjectives.",
+  "examples": [
+   {
+    "jp": "この{町|まち}は{静|しず}かです。",
+    "en": "This town is quiet."
+   },
+   {
+    "jp": "{富士山|ふじさん}は{有名|ゆうめい}な{山|やま}です。",
+    "en": "Mt. Fuji is a famous mountain."
+   },
+   {
+    "jp": "{田中|たなか}さんは{親切|しんせつ}な{人|ひと}です。",
+    "en": "Mr. Tanaka is a kind person."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "ここは＿＿{公園|こうえん}ですね。",
+    "options": [
+     "きれい",
+     "きれいの",
+     "きれいい",
+     "きれいな"
+    ],
+    "answer": 3,
+    "en": "This is a pretty park, isn't it?"
+   },
+   {
+    "q": "{京都|きょうと}は{有名|ゆうめい}＿＿{町|まち}です。",
+    "options": [
+     "の",
+     "な",
+     "い",
+     "に"
+    ],
+    "answer": 1,
+    "en": "Kyoto is a famous city."
+   },
+   {
+    "q": "{図書館|としょかん}はいつも＿＿です。",
+    "options": [
+     "{静|しず}かな",
+     "{静|しず}かい",
+     "{静|しず}かの",
+     "{静|しず}か"
+    ],
+    "answer": 3,
+    "en": "The library is always quiet."
+   }
+  ]
+ },
+ {
+  "id": "g5-038",
+  "level": 5,
+  "title_raw": "Adjective negative (～くないです・～じゃありません)",
+  "meaning": "is not (adjective)",
+  "structure": "い-adj: ～い → ～くないです / な-adj: ～じゃありません",
+  "explain": "い-adjectives: drop い, add くないです ({高|たか}くないです). な-adjectives: add じゃありません. Special: いい → よくないです.",
+  "examples": [
+   {
+    "jp": "この{店|みせ}は{高|たか}くないです。",
+    "en": "This shop is not expensive."
+   },
+   {
+    "jp": "{今日|きょう}は{暇|ひま}じゃありません。",
+    "en": "I'm not free today."
+   },
+   {
+    "jp": "{天気|てんき}はあまりよくないです。",
+    "en": "The weather is not very good."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "このカレーはあまり＿＿。",
+    "options": [
+     "{辛|から}いじゃないです",
+     "{辛|から}いくないです",
+     "{辛|から}くないです",
+     "{辛|から}じゃありません"
+    ],
+    "answer": 2,
+    "en": "This curry is not very spicy."
+   },
+   {
+    "q": "{私|わたし}の{部屋|へや}は＿＿。",
+    "options": [
+     "きれいじゃありません",
+     "きれくないです",
+     "きれいくないです",
+     "きれいないです"
+    ],
+    "answer": 0,
+    "en": "My room is not clean."
+   },
+   {
+    "q": "{今日|きょう}は{体|からだ}の{調子|ちょうし}が＿＿。",
+    "options": [
+     "いくないです",
+     "いいじゃないです",
+     "よくないです",
+     "よいないです"
+    ],
+    "answer": 2,
+    "en": "I'm not feeling well today."
+   }
+  ]
+ },
+ {
+  "id": "g5-039",
+  "level": 5,
+  "title_raw": "Adjective past (～かったです・～でした)",
+  "meaning": "was (adjective)",
+  "structure": "い-adj: ～い → ～かったです / な-adj: ～でした",
+  "explain": "い-adjectives: drop い, add かったです ({楽|たの}しかったです). Don't say {楽|たの}しいでした. な-adjectives use でした. Past negative: ～くなかったです / ～じゃありませんでした. いい → よかったです.",
+  "examples": [
+   {
+    "jp": "{旅行|りょこう}は{楽|たの}しかったです。",
+    "en": "The trip was fun."
+   },
+   {
+    "jp": "{昨日|きのう}は{暇|ひま}でした。",
+    "en": "I was free yesterday."
+   },
+   {
+    "jp": "テストは{難|むずか}しくなかったです。",
+    "en": "The test was not difficult."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{昨日|きのう}はとても＿＿。",
+    "options": [
+     "{暑|あつ}いでした",
+     "{暑|あつ}かったです",
+     "{暑|あつ}いかったです",
+     "{暑|あつ}でした"
+    ],
+    "answer": 1,
+    "en": "It was very hot yesterday."
+   },
+   {
+    "q": "{子|こ}どものころ、{町|まち}は{静|しず}か＿＿。",
+    "options": [
+     "かったです",
+     "くでした",
+     "なでした",
+     "でした"
+    ],
+    "answer": 3,
+    "en": "When I was a child, the town was quiet."
+   },
+   {
+    "q": "{映画|えいが}はあまり＿＿。",
+    "options": [
+     "いくなかったです",
+     "よくなかったです",
+     "よくないでした",
+     "いいじゃなかったです"
+    ],
+    "answer": 1,
+    "en": "The movie was not very good."
+   }
+  ]
+ },
+ {
+  "id": "g5-040",
+  "level": 5,
+  "title_raw": "～くて・～で (joining adjectives)",
+  "meaning": "and (adjective + adjective)",
+  "structure": "い-adj: ～い → ～くて / な-adj・Noun + で",
+  "explain": "Use the て-form to join two adjectives: {安|やす}くておいしい \"cheap and tasty\". い → くて, な-adj → で. いい → よくて.",
+  "examples": [
+   {
+    "jp": "この{店|みせ}は{安|やす}くておいしいです。",
+    "en": "This shop is cheap and delicious."
+   },
+   {
+    "jp": "{山田|やまだ}さんはきれいで{優|やさ}しい{人|ひと}です。",
+    "en": "Ms. Yamada is a pretty and kind person."
+   },
+   {
+    "jp": "{私|わたし}の{部屋|へや}は{広|ひろ}くて{明|あか}るいです。",
+    "en": "My room is big and bright."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "この{公園|こうえん}は＿＿きれいです。",
+    "options": [
+     "{広|ひろ}くて",
+     "{広|ひろ}いで",
+     "{広|ひろ}いと",
+     "{広|ひろ}くで"
+    ],
+    "answer": 0,
+    "en": "This park is spacious and pretty."
+   },
+   {
+    "q": "{田中|たなか}さんは{親切|しんせつ}＿＿おもしろい{人|ひと}です。",
+    "options": [
+     "な",
+     "くて",
+     "で",
+     "と"
+    ],
+    "answer": 2,
+    "en": "Mr. Tanaka is a kind and funny person."
+   },
+   {
+    "q": "このかばんは＿＿{軽|かる}いです。",
+    "options": [
+     "{小|ちい}さくて",
+     "{小|ちい}さいで",
+     "{小|ちい}さいくて",
+     "{小|ちい}さいな"
+    ],
+    "answer": 0,
+    "en": "This bag is small and light."
+   }
+  ]
+ },
+ {
+  "id": "g5-041",
+  "level": 5,
+  "title_raw": "～が好きです・～が嫌いです",
+  "meaning": "like / dislike",
+  "structure": "Noun が {好|す}きです・{嫌|きら}いです",
+  "explain": "The thing you like takes が, not を. {好|す}き and {嫌|きら}い are な-adjectives. {大好|だいす}き = love.",
+  "examples": [
+   {
+    "jp": "{私|わたし}は{猫|ねこ}が{好|す}きです。",
+    "en": "I like cats."
+   },
+   {
+    "jp": "{兄|あに}は{野菜|やさい}が{嫌|きら}いです。",
+    "en": "My older brother dislikes vegetables."
+   },
+   {
+    "jp": "どんな{音楽|おんがく}が{好|す}きですか。",
+    "en": "What kind of music do you like?"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{私|わたし}はサッカー＿＿{好|す}きです。",
+    "options": [
+     "を",
+     "に",
+     "で",
+     "が"
+    ],
+    "answer": 3,
+    "en": "I like soccer."
+   },
+   {
+    "q": "{妹|いもうと}は{犬|いぬ}が＿＿です。",
+    "options": [
+     "{大好|だいす}きな",
+     "{大好|だいす}き",
+     "{大好|だいす}きい",
+     "{大好|だいす}きの"
+    ],
+    "answer": 1,
+    "en": "My younger sister loves dogs."
+   },
+   {
+    "q": "{私|わたし}は{魚|さかな}があまり{好|す}き＿＿。",
+    "options": [
+     "くないです",
+     "ません",
+     "ないです",
+     "じゃありません"
+    ],
+    "answer": 3,
+    "en": "I don't really like fish."
+   }
+  ]
+ },
+ {
+  "id": "g5-042",
+  "level": 5,
+  "title_raw": "～が上手です・～が下手です",
+  "meaning": "good at / bad at",
+  "structure": "Noun が {上手|じょうず}です・{下手|へた}です",
+  "explain": "The skill takes が. {上手|じょうず} is used about other people; for yourself, {得意|とくい} or 「あまり{上手|じょうず}じゃありません」 sounds more modest.",
+  "examples": [
+   {
+    "jp": "マリアさんは{料理|りょうり}が{上手|じょうず}です。",
+    "en": "Maria is good at cooking."
+   },
+   {
+    "jp": "{私|わたし}は{歌|うた}が{下手|へた}です。",
+    "en": "I'm bad at singing."
+   },
+   {
+    "jp": "{日本語|にほんご}が{上手|じょうず}ですね。",
+    "en": "Your Japanese is good!"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{父|ちち}はゴルフ＿＿{上手|じょうず}です。",
+    "options": [
+     "を",
+     "で",
+     "が",
+     "に"
+    ],
+    "answer": 2,
+    "en": "My father is good at golf."
+   },
+   {
+    "q": "{私|わたし}は{絵|え}が＿＿です。",
+    "options": [
+     "{下手|へた}",
+     "{下手|へた}な",
+     "{下手|へた}い",
+     "{下手|へた}く"
+    ],
+    "answer": 0,
+    "en": "I'm bad at drawing."
+   },
+   {
+    "q": "ジョンさんは{漢字|かんじ}を{書|か}くのが＿＿です。",
+    "options": [
+     "{上手|じょうず}な",
+     "{上手|じょうず}に",
+     "{上手|じょうず}",
+     "{上手|じょうず}く"
+    ],
+    "answer": 2,
+    "en": "John is good at writing kanji."
+   }
+  ]
+ },
+ {
+  "id": "g5-043",
+  "level": 5,
+  "title_raw": "～がわかります・～ができます",
+  "meaning": "understand / can do",
+  "structure": "Noun が わかります・できます",
+  "explain": "With わかります (understand) and できます (can do), the object takes が, not を.",
+  "examples": [
+   {
+    "jp": "{日本語|にほんご}が{少|すこ}しわかります。",
+    "en": "I understand a little Japanese."
+   },
+   {
+    "jp": "{私|わたし}は{水泳|すいえい}ができません。",
+    "en": "I can't swim."
+   },
+   {
+    "jp": "{答|こた}えがわかりましたか。",
+    "en": "Did you understand the answer?"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{英語|えいご}＿＿わかりますか。",
+    "options": [
+     "を",
+     "が",
+     "で",
+     "に"
+    ],
+    "answer": 1,
+    "en": "Do you understand English?"
+   },
+   {
+    "q": "{弟|おとうと}はピアノ＿＿できます。",
+    "options": [
+     "を",
+     "で",
+     "へ",
+     "が"
+    ],
+    "answer": 3,
+    "en": "My younger brother can play the piano."
+   },
+   {
+    "q": "すみません、{意味|いみ}が＿＿。",
+    "options": [
+     "できません",
+     "わかりません",
+     "いません",
+     "しません"
+    ],
+    "answer": 1,
+    "en": "Sorry, I don't understand the meaning."
+   }
+  ]
+ },
+ {
+  "id": "g5-044",
+  "level": 5,
+  "title_raw": "～がほしいです",
+  "meaning": "want (a thing)",
+  "structure": "Noun が ほしいです",
+  "explain": "ほしい means \"want\" for things. The thing takes が. It is an い-adjective. It is used for yourself (or asking \"you\"), not for other people.",
+  "examples": [
+   {
+    "jp": "{新|あたら}しいパソコンがほしいです。",
+    "en": "I want a new computer."
+   },
+   {
+    "jp": "{今|いま}、{何|なに}がいちばんほしいですか。",
+    "en": "What do you want most now?"
+   },
+   {
+    "jp": "{時間|じかん}がほしいです。",
+    "en": "I want (more) time."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{私|わたし}は{車|くるま}＿＿ほしいです。",
+    "options": [
+     "が",
+     "を",
+     "に",
+     "で"
+    ],
+    "answer": 0,
+    "en": "I want a car."
+   },
+   {
+    "q": "{誕生日|たんじょうび}に{何|なに}が＿＿ですか。",
+    "options": [
+     "ほしいな",
+     "ほしく",
+     "ほしい",
+     "ほしくて"
+    ],
+    "answer": 2,
+    "en": "What do you want for your birthday?"
+   },
+   {
+    "q": "{子|こ}どものころ、{犬|いぬ}が＿＿です。",
+    "options": [
+     "ほしかった",
+     "ほしいでした",
+     "ほしいだった",
+     "ほしくった"
+    ],
+    "answer": 0,
+    "en": "When I was a child, I wanted a dog."
+   }
+  ]
+ },
+ {
+  "id": "g5-045",
+  "level": 5,
+  "title_raw": "～ね",
+  "meaning": "right? / isn't it?",
+  "structure": "Sentence + ね",
+  "explain": "ね at the end asks the listener to agree, or shows you share a feeling: \"isn't it?\" Very common in friendly conversation.",
+  "examples": [
+   {
+    "jp": "{今日|きょう}は{暑|あつ}いですね。",
+    "en": "It's hot today, isn't it?"
+   },
+   {
+    "jp": "このケーキ、おいしいですね。",
+    "en": "This cake is delicious, isn't it?"
+   },
+   {
+    "jp": "{明日|あした}は{十時|じゅうじ}ですね。",
+    "en": "Tomorrow is at ten, right?"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "A：いい{天気|てんき}です＿＿。B：そうですね。",
+    "options": [
+     "よ",
+     "か",
+     "の",
+     "ね"
+    ],
+    "answer": 3,
+    "en": "A: Nice weather, isn't it? B: Yes, it is."
+   },
+   {
+    "q": "A：きれいな{花|はな}です＿＿。B：ええ、{本当|ほんとう}に。",
+    "options": [
+     "を",
+     "ね",
+     "に",
+     "へ"
+    ],
+    "answer": 1,
+    "en": "A: Pretty flowers, aren't they? B: Yes, really."
+   },
+   {
+    "q": "{会議|かいぎ}は{三時|さんじ}からです＿＿。{確認|かくにん}します。",
+    "options": [
+     "を",
+     "で",
+     "や",
+     "ね"
+    ],
+    "answer": 3,
+    "en": "The meeting is from three, right? Just checking."
+   }
+  ]
+ },
+ {
+  "id": "g5-046",
+  "level": 5,
+  "title_raw": "～よ",
+  "meaning": "I tell you / you know",
+  "structure": "Sentence + よ",
+  "explain": "よ gives the listener new information or a gentle warning: \"you know\", \"I tell you\". Too many よ can sound pushy.",
+  "examples": [
+   {
+    "jp": "この{映画|えいが}はおもしろいですよ。",
+    "en": "This movie is interesting, you know."
+   },
+   {
+    "jp": "もう{九時|くじ}ですよ。",
+    "en": "It's already nine o'clock!"
+   },
+   {
+    "jp": "{財布|さいふ}が{落|お}ちましたよ。",
+    "en": "You dropped your wallet."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "A：あの{店|みせ}は{安|やす}いですか。B：ええ、とても{安|やす}いです＿＿。",
+    "options": [
+     "か",
+     "を",
+     "よ",
+     "へ"
+    ],
+    "answer": 2,
+    "en": "A: Is that shop cheap? B: Yes, it's very cheap, I tell you."
+   },
+   {
+    "q": "{危|あぶ}ないです＿＿！",
+    "options": [
+     "よ",
+     "か",
+     "の",
+     "を"
+    ],
+    "answer": 0,
+    "en": "Watch out, it's dangerous!"
+   },
+   {
+    "q": "{電車|でんしゃ}が{来|き}ました＿＿。{急|いそ}ぎましょう。",
+    "options": [
+     "か",
+     "を",
+     "よ",
+     "で"
+    ],
+    "answer": 2,
+    "en": "The train has come! Let's hurry."
+   }
+  ]
+ },
+ {
+  "id": "g5-047",
+  "level": 5,
+  "title_raw": "～をください",
+  "meaning": "please give me ~",
+  "structure": "Noun を ください / Noun を Number + ください",
+  "explain": "Use this to ask for things in shops and restaurants. Polite and simple. For actions, use ～てください instead.",
+  "examples": [
+   {
+    "jp": "コーヒーをください。",
+    "en": "A coffee, please."
+   },
+   {
+    "jp": "この{赤|あか}いシャツをください。",
+    "en": "I'll take this red shirt, please."
+   },
+   {
+    "jp": "{切手|きって}を{五枚|ごまい}ください。",
+    "en": "Five stamps, please."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "すみません、{水|みず}＿＿ください。",
+    "options": [
+     "が",
+     "を",
+     "で",
+     "に"
+    ],
+    "answer": 1,
+    "en": "Excuse me, water please."
+   },
+   {
+    "q": "このりんごを{二|ふた}つ＿＿。",
+    "options": [
+     "くださいます",
+     "してください",
+     "あげます",
+     "ください"
+    ],
+    "answer": 3,
+    "en": "Two of these apples, please."
+   },
+   {
+    "q": "メニュー＿＿ください。",
+    "options": [
+     "へ",
+     "を",
+     "で",
+     "と"
+    ],
+    "answer": 1,
+    "en": "The menu, please."
+   }
+  ]
+ },
+ {
+  "id": "g5-048",
+  "level": 5,
+  "title_raw": "Dictionary form (plain present)",
+  "meaning": "plain form of verbs",
+  "structure": "Group 1: ～う / Group 2: ～る / する・くる",
+  "explain": "The dictionary form is the basic, casual form ({食|た}べる, {行|い}く, する). It is used with friends and before many patterns (～ことができる, ～{前|まえ}に). Group 1 verbs end in -u sounds; group 2 end in -iru/-eru; する and くる are irregular.",
+  "examples": [
+   {
+    "jp": "{毎朝|まいあさ}パンを{食|た}べる。",
+    "en": "I eat bread every morning."
+   },
+   {
+    "jp": "{明日|あした}{学校|がっこう}に{行|い}く？",
+    "en": "Are you going to school tomorrow?"
+   },
+   {
+    "jp": "{寝|ね}る{前|まえ}に{歯|は}を{磨|みが}きます。",
+    "en": "I brush my teeth before I go to bed."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "「{飲|の}みます」の{辞書形|じしょけい}は＿＿です。",
+    "options": [
+     "{飲|の}む",
+     "{飲|の}みる",
+     "{飲|の}る",
+     "{飲|の}みむ"
+    ],
+    "answer": 0,
+    "en": "The dictionary form of 「{飲|の}みます」 is ＿＿."
+   },
+   {
+    "q": "「{起|お}きます」の{辞書形|じしょけい}は＿＿です。",
+    "options": [
+     "{起|お}く",
+     "{起|お}きく",
+     "{起|お}きる",
+     "{起|お}きむ"
+    ],
+    "answer": 2,
+    "en": "The dictionary form of 「{起|お}きます」 is ＿＿."
+   },
+   {
+    "q": "「{来|き}ます」の{辞書形|じしょけい}は＿＿です。",
+    "options": [
+     "{来|く}る",
+     "{来|き}る",
+     "{来|き}く",
+     "{来|く}む"
+    ],
+    "answer": 0,
+    "en": "The dictionary form of 「{来|き}ます」 is ＿＿."
+   }
+  ]
+ },
+ {
+  "id": "g5-049",
+  "level": 5,
+  "title_raw": "ない-form (plain negative)",
+  "meaning": "plain negative of verbs",
+  "structure": "Group 1: ～a + ない / Group 2: ～る → ない / する → しない, くる → こない",
+  "explain": "The casual way to say \"don't\". Group 1: change the last -u to -a and add ない ({書|か}く → {書|か}かない; う → わない). Group 2: drop る, add ない. Special: ある → ない.",
+  "examples": [
+   {
+    "jp": "{今日|きょう}は{行|い}かない。",
+    "en": "I'm not going today."
+   },
+   {
+    "jp": "{私|わたし}はお{酒|さけ}を{飲|の}まない。",
+    "en": "I don't drink alcohol."
+   },
+   {
+    "jp": "{時間|じかん}がない。",
+    "en": "I don't have time."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{明日|あした}は{学校|がっこう}へ＿＿。",
+    "options": [
+     "{行|い}きない",
+     "{行|い}くない",
+     "{行|い}けない",
+     "{行|い}かない"
+    ],
+    "answer": 3,
+    "en": "I'm not going to school tomorrow."
+   },
+   {
+    "q": "{私|わたし}は{肉|にく}を＿＿。",
+    "options": [
+     "{食|た}べらない",
+     "{食|た}べない",
+     "{食|た}べかない",
+     "{食|た}べくない"
+    ],
+    "answer": 1,
+    "en": "I don't eat meat."
+   },
+   {
+    "q": "{友|とも}だちに＿＿。",
+    "options": [
+     "{会|あ}あない",
+     "{会|あ}いない",
+     "{会|あ}うない",
+     "{会|あ}わない"
+    ],
+    "answer": 3,
+    "en": "I won't meet my friend."
+   }
+  ]
+ },
+ {
+  "id": "g5-050",
+  "level": 5,
+  "title_raw": "た-form (plain past)",
+  "meaning": "plain past of verbs",
+  "structure": "Same pattern as て-form, with た/だ",
+  "explain": "The casual way to say \"did\". Make it like the て-form but use た/だ: {食|た}べて → {食|た}べた, {飲|の}んで → {飲|の}んだ. Past negative: ～なかった.",
+  "examples": [
+   {
+    "jp": "{昨日|きのう}、{映画|えいが}を{見|み}た。",
+    "en": "I watched a movie yesterday."
+   },
+   {
+    "jp": "もう{宿題|しゅくだい}をした？",
+    "en": "Did you do your homework already?"
+   },
+   {
+    "jp": "{朝|あさ}ごはんは{食|た}べなかった。",
+    "en": "I didn't eat breakfast."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{昨日|きのう}、{本|ほん}を＿＿。",
+    "options": [
+     "{読|よ}みた",
+     "{読|よ}った",
+     "{読|よ}んだ",
+     "{読|よ}いた"
+    ],
+    "answer": 2,
+    "en": "I read a book yesterday."
+   },
+   {
+    "q": "{先週|せんしゅう}、{京都|きょうと}へ＿＿。",
+    "options": [
+     "{行|い}った",
+     "{行|い}いた",
+     "{行|い}きた",
+     "{行|い}んだ"
+    ],
+    "answer": 0,
+    "en": "I went to Kyoto last week."
+   },
+   {
+    "q": "{昨日|きのう}はどこにも＿＿。",
+    "options": [
+     "{行|い}かないた",
+     "{行|い}かないだった",
+     "{行|い}かなかった",
+     "{行|い}きなかった"
+    ],
+    "answer": 2,
+    "en": "I didn't go anywhere yesterday."
+   }
+  ]
+ },
+ {
+  "id": "g5-051",
+  "level": 5,
+  "title_raw": "だ (plain です)",
+  "meaning": "is (casual)",
+  "structure": "Noun / な-adj + だ",
+  "explain": "だ is the casual form of です. Past: だった. Negative: じゃない. Past negative: じゃなかった. Don't use だ after い-adjectives ({高|たか}いだ is wrong).",
+  "examples": [
+   {
+    "jp": "{今日|きょう}は{休|やす}みだ。",
+    "en": "Today is a day off."
+   },
+   {
+    "jp": "あの{人|ひと}は{先生|せんせい}じゃない。",
+    "en": "That person isn't a teacher."
+   },
+   {
+    "jp": "{昨日|きのう}は{雨|あめ}だった。",
+    "en": "It was rainy yesterday."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{明日|あした}は{日曜日|にちようび}＿＿。",
+    "options": [
+     "です",
+     "だ",
+     "だった",
+     "い"
+    ],
+    "answer": 1,
+    "en": "Tomorrow is Sunday."
+   },
+   {
+    "q": "{昨日|きのう}はすごく{暇|ひま}＿＿。",
+    "options": [
+     "かった",
+     "だ",
+     "でしたた",
+     "だった"
+    ],
+    "answer": 3,
+    "en": "I was really free yesterday."
+   },
+   {
+    "q": "このテストは＿＿。",
+    "options": [
+     "{難|むずか}しいだ",
+     "{難|むずか}しい",
+     "{難|むずか}しだ",
+     "{難|むずか}しいだった"
+    ],
+    "answer": 1,
+    "en": "This test is hard."
+   }
+  ]
+ },
+ {
+  "id": "g5-052",
+  "level": 5,
+  "title_raw": "～て-form (making it)",
+  "meaning": "te-form of verbs",
+  "structure": "う・つ・る → って / む・ぶ・ぬ → んで / く → いて / ぐ → いで / す → して / Group 2: る → て",
+  "explain": "The て-form is used in many patterns. Group 1 changes by the last sound: {買|か}う → {買|か}って, {飲|の}む → {飲|の}んで, {書|か}く → {書|か}いて, {話|はな}す → {話|はな}して. Exception: {行|い}く → {行|い}って. Group 2: drop る, add て.",
+  "examples": [
+   {
+    "jp": "{窓|まど}を{開|あ}けて、{空気|くうき}を{入|い}れます。",
+    "en": "I open the window and let in air."
+   },
+   {
+    "jp": "{手紙|てがみ}を{書|か}いて{送|おく}りました。",
+    "en": "I wrote a letter and sent it."
+   },
+   {
+    "jp": "{駅|えき}まで{走|はし}って{行|い}きました。",
+    "en": "I ran to the station."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "「{待|ま}つ」のて{形|けい}は＿＿です。",
+    "options": [
+     "{待|ま}って",
+     "{待|ま}んで",
+     "{待|ま}ちて",
+     "{待|ま}いて"
+    ],
+    "answer": 0,
+    "en": "The te-form of 「{待|ま}つ」 is ＿＿."
+   },
+   {
+    "q": "「{泳|およ}ぐ」のて{形|けい}は＿＿です。",
+    "options": [
+     "{泳|およ}いて",
+     "{泳|およ}って",
+     "{泳|およ}いで",
+     "{泳|およ}んで"
+    ],
+    "answer": 2,
+    "en": "The te-form of 「{泳|およ}ぐ」 is ＿＿."
+   },
+   {
+    "q": "「{遊|あそ}ぶ」のて{形|けい}は＿＿です。",
+    "options": [
+     "{遊|あそ}んで",
+     "{遊|あそ}って",
+     "{遊|あそ}びて",
+     "{遊|あそ}いで"
+    ],
+    "answer": 0,
+    "en": "The te-form of 「{遊|あそ}ぶ」 is ＿＿."
+   }
+  ]
+ },
+ {
+  "id": "g5-053",
+  "level": 5,
+  "title_raw": "～て、～ (sequence)",
+  "meaning": "do A, then B",
+  "structure": "Verb て-form, Verb",
+  "explain": "Join actions in time order with the て-form: \"A and then B\". The tense comes from the last verb only.",
+  "examples": [
+   {
+    "jp": "{朝|あさ}{起|お}きて、シャワーを{浴|あ}びます。",
+    "en": "I get up and take a shower in the morning."
+   },
+   {
+    "jp": "{家|いえ}に{帰|かえ}って、{晩|ばん}ごはんを{作|つく}りました。",
+    "en": "I went home and made dinner."
+   },
+   {
+    "jp": "{駅|えき}で{降|お}りて、バスに{乗|の}ってください。",
+    "en": "Get off at the station, then take a bus."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{昨日|きのう}は{本屋|ほんや}へ＿＿、{本|ほん}を{買|か}いました。",
+    "options": [
+     "{行|い}きて",
+     "{行|い}いて",
+     "{行|い}んで",
+     "{行|い}って"
+    ],
+    "answer": 3,
+    "en": "Yesterday I went to the bookstore and bought a book."
+   },
+   {
+    "q": "{手|て}を＿＿、ごはんを{食|た}べます。",
+    "options": [
+     "{洗|あら}いて",
+     "{洗|あら}って",
+     "{洗|あら}んで",
+     "{洗|あら}して"
+    ],
+    "answer": 1,
+    "en": "I wash my hands and then eat."
+   },
+   {
+    "q": "{友|とも}だちに＿＿、{映画|えいが}を{見|み}ました。",
+    "options": [
+     "{会|あ}いて",
+     "{会|あ}んで",
+     "{会|あ}えて",
+     "{会|あ}って"
+    ],
+    "answer": 3,
+    "en": "I met a friend and watched a movie."
+   }
+  ]
+ },
+ {
+  "id": "g5-054",
+  "level": 5,
+  "title_raw": "～てから",
+  "meaning": "after doing ~",
+  "structure": "Verb て-form + から, Verb",
+  "explain": "～てから means \"after A, (then) B\". It makes the order clearer than the plain て-form: A must finish first.",
+  "examples": [
+   {
+    "jp": "{宿題|しゅくだい}をしてから、{遊|あそ}びます。",
+    "en": "I'll play after doing my homework."
+   },
+   {
+    "jp": "{手|て}を{洗|あら}ってから{食|た}べてください。",
+    "en": "Please wash your hands before you eat."
+   },
+   {
+    "jp": "{日本|にほん}に{来|き}てから、{日本語|にほんご}を{勉強|べんきょう}しました。",
+    "en": "I studied Japanese after coming to Japan."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "ごはんを{食|た}べて＿＿、{薬|くすり}を{飲|の}みます。",
+    "options": [
+     "まで",
+     "より",
+     "から",
+     "ので"
+    ],
+    "answer": 2,
+    "en": "I take medicine after eating."
+   },
+   {
+    "q": "お{金|かね}を＿＿から、{切符|きっぷ}を{買|か}ってください。",
+    "options": [
+     "{入|い}れて",
+     "{入|い}れる",
+     "{入|い}れた",
+     "{入|い}れ"
+    ],
+    "answer": 0,
+    "en": "Put money in, then buy the ticket."
+   },
+   {
+    "q": "{仕事|しごと}が＿＿から、{飲|の}みに{行|い}きましょう。",
+    "options": [
+     "{終|お}わる",
+     "{終|お}わった",
+     "{終|お}わって",
+     "{終|お}わり"
+    ],
+    "answer": 2,
+    "en": "Let's go for a drink after work ends."
+   }
+  ]
+ },
+ {
+  "id": "g5-055",
+  "level": 5,
+  "title_raw": "～ながら",
+  "meaning": "while doing ~",
+  "structure": "Verb ます-stem + ながら, Verb",
+  "explain": "Two actions at the same time by the same person. The main action is the second verb. Use the ます-stem: {聞|き}きながら.",
+  "examples": [
+   {
+    "jp": "{音楽|おんがく}を{聞|き}きながら{勉強|べんきょう}します。",
+    "en": "I study while listening to music."
+   },
+   {
+    "jp": "{歩|ある}きながら{電話|でんわ}をしないでください。",
+    "en": "Please don't talk on the phone while walking."
+   },
+   {
+    "jp": "コーヒーを{飲|の}みながら{話|はな}しましょう。",
+    "en": "Let's talk over coffee."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "テレビを＿＿ながら、ごはんを{食|た}べます。",
+    "options": [
+     "{見|み}る",
+     "{見|み}",
+     "{見|み}て",
+     "{見|み}た"
+    ],
+    "answer": 1,
+    "en": "I eat while watching TV."
+   },
+   {
+    "q": "{歌|うた}を{歌|うた}い＿＿{料理|りょうり}をしました。",
+    "options": [
+     "たり",
+     "てから",
+     "まえに",
+     "ながら"
+    ],
+    "answer": 3,
+    "en": "I cooked while singing a song."
+   },
+   {
+    "q": "{働|はたら}き＿＿、{大学|だいがく}で{勉強|べんきょう}しています。",
+    "options": [
+     "から",
+     "ながら",
+     "まで",
+     "より"
+    ],
+    "answer": 1,
+    "en": "I'm studying at university while working."
+   }
+  ]
+ },
+ {
+  "id": "g5-056",
+  "level": 5,
+  "title_raw": "～てください",
+  "meaning": "please do ~",
+  "structure": "Verb て-form + ください",
+  "explain": "A polite request: \"please do ~\". Teachers and staff use it a lot. To sound softer to a superior, use ～てくださいませんか (N4).",
+  "examples": [
+   {
+    "jp": "ちょっと{待|ま}ってください。",
+    "en": "Please wait a moment."
+   },
+   {
+    "jp": "ここに{名前|なまえ}を{書|か}いてください。",
+    "en": "Please write your name here."
+   },
+   {
+    "jp": "もう{一度|いちど}{言|い}ってください。",
+    "en": "Please say it one more time."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{窓|まど}を＿＿ください。",
+    "options": [
+     "{開|あ}けて",
+     "{開|あ}ける",
+     "{開|あ}けた",
+     "{開|あ}け"
+    ],
+    "answer": 0,
+    "en": "Please open the window."
+   },
+   {
+    "q": "ゆっくり{話|はな}して＿＿。",
+    "options": [
+     "ほしいです",
+     "たいです",
+     "ください",
+     "あります"
+    ],
+    "answer": 2,
+    "en": "Please speak slowly."
+   },
+   {
+    "q": "{教科書|きょうかしょ}の{十|じゅう}ページを＿＿ください。",
+    "options": [
+     "{見|み}て",
+     "{見|み}って",
+     "{見|み}んで",
+     "{見|み}いて"
+    ],
+    "answer": 0,
+    "en": "Please look at page 10 of the textbook."
+   }
+  ]
+ },
+ {
+  "id": "g5-057",
+  "level": 5,
+  "title_raw": "～ています (in progress)",
+  "meaning": "is doing ~",
+  "structure": "Verb て-form + います",
+  "explain": "～ています shows an action happening now: \"is ~ing\". In casual speech the い often drops: {食|た}べてる.",
+  "examples": [
+   {
+    "jp": "{今|いま}、{雨|あめ}が{降|ふ}っています。",
+    "en": "It is raining now."
+   },
+   {
+    "jp": "{母|はは}は{台所|だいどころ}で{料理|りょうり}をしています。",
+    "en": "My mother is cooking in the kitchen."
+   },
+   {
+    "jp": "{何|なに}をしていますか。",
+    "en": "What are you doing?"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{弟|おとうと}は{今|いま}、{部屋|へや}でゲームを＿＿。",
+    "options": [
+     "します",
+     "しました",
+     "しません",
+     "しています"
+    ],
+    "answer": 3,
+    "en": "My younger brother is playing a game in his room now."
+   },
+   {
+    "q": "A：{田中|たなか}さんは？B：あそこでコーヒーを{飲|の}んで＿＿。",
+    "options": [
+     "あります",
+     "います",
+     "です",
+     "ください"
+    ],
+    "answer": 1,
+    "en": "A: Where is Mr. Tanaka? B: He's drinking coffee over there."
+   },
+   {
+    "q": "{子|こ}どもたちが{公園|こうえん}で＿＿います。",
+    "options": [
+     "{遊|あそ}って",
+     "{遊|あそ}びて",
+     "{遊|あそ}ぶ",
+     "{遊|あそ}んで"
+    ],
+    "answer": 3,
+    "en": "The children are playing in the park."
+   }
+  ]
+ },
+ {
+  "id": "g5-058",
+  "level": 5,
+  "title_raw": "～ています (state / habit)",
+  "meaning": "state or regular action",
+  "structure": "Verb て-form + います",
+  "explain": "～ています also shows a state that continues (lives, is married, knows) or a habit or job. Note: {知|し}っています = know, but \"don't know\" is {知|し}りません.",
+  "examples": [
+   {
+    "jp": "{私|わたし}は{東京|とうきょう}に{住|す}んでいます。",
+    "en": "I live in Tokyo."
+   },
+   {
+    "jp": "{姉|あね}は{結婚|けっこん}しています。",
+    "en": "My older sister is married."
+   },
+   {
+    "jp": "{父|ちち}は{銀行|ぎんこう}で{働|はたら}いています。",
+    "en": "My father works at a bank."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{山田|やまだ}さんの{電話番号|でんわばんごう}を＿＿か。",
+    "options": [
+     "{知|し}ります",
+     "{知|し}りています",
+     "{知|し}っています",
+     "{知|し}るです"
+    ],
+    "answer": 2,
+    "en": "Do you know Ms. Yamada's phone number?"
+   },
+   {
+    "q": "A：{山田|やまだ}さんを{知|し}っていますか。B：いいえ、＿＿。",
+    "options": [
+     "{知|し}りません",
+     "{知|し}っていません",
+     "{知|し}りないです",
+     "{知|し}っていないです"
+    ],
+    "answer": 0,
+    "en": "A: Do you know Ms. Yamada? B: No, I don't."
+   },
+   {
+    "q": "{兄|あに}は{大阪|おおさか}に＿＿います。",
+    "options": [
+     "{住|す}みて",
+     "{住|す}って",
+     "{住|す}んで",
+     "{住|す}む"
+    ],
+    "answer": 2,
+    "en": "My older brother lives in Osaka."
+   }
+  ]
+ },
+ {
+  "id": "g5-059",
+  "level": 5,
+  "title_raw": "～てもいいです",
+  "meaning": "may / it's OK to ~",
+  "structure": "Verb て-form + も いいです",
+  "explain": "Gives or asks for permission. Question form ～てもいいですか = \"May I ~?\". Answers: はい、どうぞ / すみません、ちょっと…",
+  "examples": [
+   {
+    "jp": "ここに{座|すわ}ってもいいですか。",
+    "en": "May I sit here?"
+   },
+   {
+    "jp": "{写真|しゃしん}を{撮|と}ってもいいですよ。",
+    "en": "You can take photos."
+   },
+   {
+    "jp": "{明日|あした}は{来|こ}なくてもいいです。",
+    "en": "You don't have to come tomorrow."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "この{本|ほん}を{借|か}りて＿＿いいですか。",
+    "options": [
+     "は",
+     "も",
+     "で",
+     "が"
+    ],
+    "answer": 1,
+    "en": "May I borrow this book?"
+   },
+   {
+    "q": "{窓|まど}を＿＿もいいですか。",
+    "options": [
+     "{開|あ}ける",
+     "{開|あ}けた",
+     "{開|あ}けない",
+     "{開|あ}けて"
+    ],
+    "answer": 3,
+    "en": "May I open the window?"
+   },
+   {
+    "q": "A：ここでたばこを{吸|す}ってもいいですか。B：すみません、＿＿。",
+    "options": [
+     "はい、どうぞ",
+     "ちょっと…",
+     "いいですよ",
+     "{吸|す}ってください"
+    ],
+    "answer": 1,
+    "en": "A: May I smoke here? B: Sorry, that's a bit..."
+   }
+  ]
+ },
+ {
+  "id": "g5-060",
+  "level": 5,
+  "title_raw": "～てはいけません",
+  "meaning": "must not ~",
+  "structure": "Verb て-form + は いけません",
+  "explain": "A strong \"must not\". Used for rules and by people with authority (teachers, signs). It can sound strict when said to a superior. Casual: ～ちゃだめ.",
+  "examples": [
+   {
+    "jp": "ここで{写真|しゃしん}を{撮|と}ってはいけません。",
+    "en": "You must not take photos here."
+   },
+   {
+    "jp": "{授業中|じゅぎょうちゅう}に{電話|でんわ}をしてはいけません。",
+    "en": "You must not make phone calls during class."
+   },
+   {
+    "jp": "この{水|みず}を{飲|の}んではいけません。",
+    "en": "You must not drink this water."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{図書館|としょかん}で{話|はな}して＿＿いけません。",
+    "options": [
+     "は",
+     "も",
+     "が",
+     "を"
+    ],
+    "answer": 0,
+    "en": "You must not talk in the library."
+   },
+   {
+    "q": "テストのとき、{辞書|じしょ}を＿＿はいけません。",
+    "options": [
+     "{使|つか}う",
+     "{使|つか}った",
+     "{使|つか}って",
+     "{使|つか}わない"
+    ],
+    "answer": 2,
+    "en": "You must not use a dictionary during the test."
+   },
+   {
+    "q": "{子|こ}どもはお{酒|さけ}を{飲|の}んでは＿＿。",
+    "options": [
+     "いけません",
+     "いいです",
+     "ください",
+     "います"
+    ],
+    "answer": 0,
+    "en": "Children must not drink alcohol."
+   }
+  ]
+ },
+ {
+  "id": "g5-061",
+  "level": 5,
+  "title_raw": "～ないでください",
+  "meaning": "please don't ~",
+  "structure": "Verb ない-form + でください",
+  "explain": "A polite way to ask someone not to do something. Softer than ～てはいけません.",
+  "examples": [
+   {
+    "jp": "ここに{車|くるま}を{止|と}めないでください。",
+    "en": "Please don't park your car here."
+   },
+   {
+    "jp": "{心配|しんぱい}しないでください。",
+    "en": "Please don't worry."
+   },
+   {
+    "jp": "{授業|じゅぎょう}に{遅|おく}れないでください。",
+    "en": "Please don't be late for class."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{美術館|びじゅつかん}の{中|なか}で{写真|しゃしん}を＿＿でください。",
+    "options": [
+     "{撮|と}って",
+     "{撮|と}りない",
+     "{撮|と}るない",
+     "{撮|と}らない"
+    ],
+    "answer": 3,
+    "en": "Please don't take photos inside the museum."
+   },
+   {
+    "q": "{危|あぶ}ないですから、{触|さわ}らない＿＿。",
+    "options": [
+     "てください",
+     "でください",
+     "ください",
+     "でいます"
+    ],
+    "answer": 1,
+    "en": "It's dangerous, so please don't touch it."
+   },
+   {
+    "q": "{夜|よる}{遅|おそ}く{電話|でんわ}を＿＿でください。",
+    "options": [
+     "しなくて",
+     "すない",
+     "しません",
+     "しない"
+    ],
+    "answer": 3,
+    "en": "Please don't call late at night."
+   }
+  ]
+ },
+ {
+  "id": "g5-062",
+  "level": 5,
+  "title_raw": "～なければなりません",
+  "meaning": "must / have to",
+  "structure": "Verb ない-form (drop い) + ければなりません",
+  "explain": "Means \"must\" or \"have to\". ～なければいけません means the same. In speech it is often shortened to ～なきゃ.",
+  "examples": [
+   {
+    "jp": "{明日|あした}は{早|はや}く{起|お}きなければなりません。",
+    "en": "I have to get up early tomorrow."
+   },
+   {
+    "jp": "{薬|くすり}を{飲|の}まなければなりません。",
+    "en": "I have to take medicine."
+   },
+   {
+    "jp": "レポートを{出|だ}さなければいけません。",
+    "en": "I have to hand in a report."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{明日|あした}までに{宿題|しゅくだい}を＿＿なりません。",
+    "options": [
+     "しないで",
+     "しなくて",
+     "しなければ",
+     "すなければ"
+    ],
+    "answer": 2,
+    "en": "I have to do my homework by tomorrow."
+   },
+   {
+    "q": "{九時|くじ}に{会社|かいしゃ}へ{行|い}か＿＿。",
+    "options": [
+     "なければなりません",
+     "ないでください",
+     "なくてもいいです",
+     "ないです"
+    ],
+    "answer": 0,
+    "en": "I have to go to the office at nine."
+   },
+   {
+    "q": "{病院|びょういん}へ＿＿なければなりません。",
+    "options": [
+     "{行|い}き",
+     "{行|い}く",
+     "{行|い}か",
+     "{行|い}って"
+    ],
+    "answer": 2,
+    "en": "I have to go to the hospital."
+   }
+  ]
+ },
+ {
+  "id": "g5-063",
+  "level": 5,
+  "title_raw": "～なくてもいいです",
+  "meaning": "don't have to ~",
+  "structure": "Verb ない-form (drop い) + くても いいです",
+  "explain": "Means \"you don't have to\" (no need). It is the opposite of ～なければなりません.",
+  "examples": [
+   {
+    "jp": "{明日|あした}は{来|こ}なくてもいいです。",
+    "en": "You don't have to come tomorrow."
+   },
+   {
+    "jp": "{靴|くつ}を{脱|ぬ}がなくてもいいですよ。",
+    "en": "You don't need to take your shoes off."
+   },
+   {
+    "jp": "{全部|ぜんぶ}{食|た}べなくてもいいです。",
+    "en": "You don't have to eat it all."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "A：{名前|なまえ}を{書|か}かなければなりませんか。B：いいえ、＿＿もいいです。",
+    "options": [
+     "{書|か}かないで",
+     "{書|か}かなくて",
+     "{書|か}かなければ",
+     "{書|か}いて"
+    ],
+    "answer": 1,
+    "en": "A: Do I have to write my name? B: No, you don't have to."
+   },
+   {
+    "q": "{今日|きょう}は{土曜日|どようび}ですから、{早|はや}く{起|お}きなくても＿＿。",
+    "options": [
+     "いけません",
+     "なりません",
+     "ください",
+     "いいです"
+    ],
+    "answer": 3,
+    "en": "It's Saturday today, so you don't have to get up early."
+   },
+   {
+    "q": "お{金|かね}は＿＿もいいです。{無料|むりょう}ですから。",
+    "options": [
+     "{払|はら}わないで",
+     "{払|はら}わなくて",
+     "{払|はら}いなくて",
+     "{払|はら}わなければ"
+    ],
+    "answer": 1,
+    "en": "You don't have to pay. It's free."
+   }
+  ]
+ },
+ {
+  "id": "g5-064",
+  "level": 5,
+  "title_raw": "～たいです",
+  "meaning": "want to do ~",
+  "structure": "Verb ます-stem + たいです",
+  "explain": "Shows what you want to do. The object can take を or が. It works like an い-adjective: ～たくないです (don't want to), ～たかったです (wanted to). Don't use it to ask a superior directly what they want.",
+  "examples": [
+   {
+    "jp": "{日本|にほん}へ{行|い}きたいです。",
+    "en": "I want to go to Japan."
+   },
+   {
+    "jp": "{冷|つめ}たい{水|みず}が{飲|の}みたいです。",
+    "en": "I want to drink cold water."
+   },
+   {
+    "jp": "{今日|きょう}は{何|なに}も{食|た}べたくないです。",
+    "en": "I don't want to eat anything today."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{夏休|なつやす}みに{沖縄|おきなわ}へ{行|い}き＿＿です。",
+    "options": [
+     "たい",
+     "ほしい",
+     "たく",
+     "ます"
+    ],
+    "answer": 0,
+    "en": "I want to go to Okinawa for summer vacation."
+   },
+   {
+    "q": "{疲|つか}れましたから、{早|はや}く＿＿たいです。",
+    "options": [
+     "{寝|ね}る",
+     "{寝|ね}て",
+     "{寝|ね}",
+     "{寝|ね}ない"
+    ],
+    "answer": 2,
+    "en": "I'm tired, so I want to go to bed early."
+   },
+   {
+    "q": "{雨|あめ}ですから、{今日|きょう}は{出|で}かけ＿＿です。",
+    "options": [
+     "たくない",
+     "たいない",
+     "たいじゃない",
+     "ないたい"
+    ],
+    "answer": 0,
+    "en": "It's raining, so I don't want to go out today."
+   }
+  ]
+ },
+ {
+  "id": "g5-065",
+  "level": 5,
+  "title_raw": "～ましょう",
+  "meaning": "let's ~",
+  "structure": "Verb ます-stem + ましょう",
+  "explain": "Suggests doing something together: \"let's ~\". Used when you expect the other person to agree. Casual form: ～よう ({行|い}こう).",
+  "examples": [
+   {
+    "jp": "{一緒|いっしょ}に{帰|かえ}りましょう。",
+    "en": "Let's go home together."
+   },
+   {
+    "jp": "ちょっと{休|やす}みましょう。",
+    "en": "Let's take a little break."
+   },
+   {
+    "jp": "{駅|えき}で{会|あ}いましょう。",
+    "en": "Let's meet at the station."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{時間|じかん}ですね。じゃ、{始|はじ}め＿＿。",
+    "options": [
+     "ません",
+     "ました",
+     "たい",
+     "ましょう"
+    ],
+    "answer": 3,
+    "en": "It's time. OK, let's begin."
+   },
+   {
+    "q": "{暑|あつ}いですね。{何|なに}か＿＿ましょう。",
+    "options": [
+     "{飲|の}む",
+     "{飲|の}み",
+     "{飲|の}んで",
+     "{飲|の}ま"
+    ],
+    "answer": 1,
+    "en": "It's hot, isn't it. Let's drink something."
+   },
+   {
+    "q": "A：{明日|あした}テニスをしませんか。B：いいですね。＿＿。",
+    "options": [
+     "しません",
+     "しました",
+     "しています",
+     "しましょう"
+    ],
+    "answer": 3,
+    "en": "A: Won't you play tennis tomorrow? B: Sounds good. Let's play."
+   }
+  ]
+ },
+ {
+  "id": "g5-066",
+  "level": 5,
+  "title_raw": "～ませんか",
+  "meaning": "won't you ~? (invitation)",
+  "structure": "Verb ます-stem + ませんか",
+  "explain": "A polite invitation: \"won't you ~ (with me)?\". It is softer than ～ましょう because it lets the other person decide.",
+  "examples": [
+   {
+    "jp": "{一緒|いっしょ}に{昼|ひる}ごはんを{食|た}べませんか。",
+    "en": "Won't you have lunch with me?"
+   },
+   {
+    "jp": "{週末|しゅうまつ}、{映画|えいが}を{見|み}に{行|い}きませんか。",
+    "en": "Would you like to go see a movie this weekend?"
+   },
+   {
+    "jp": "お{茶|ちゃ}を{飲|の}みませんか。",
+    "en": "Would you like some tea?"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{今晩|こんばん}、{一緒|いっしょ}に{飲|の}みに{行|い}き＿＿。",
+    "options": [
+     "ましたか",
+     "ますね",
+     "ませんか",
+     "ませんでした"
+    ],
+    "answer": 2,
+    "en": "Would you like to go for a drink together tonight?"
+   },
+   {
+    "q": "A：{日曜日|にちようび}、{公園|こうえん}へ{行|い}きませんか。B：ええ、＿＿。",
+    "options": [
+     "{行|い}きましょう",
+     "{行|い}きません",
+     "{行|い}きませんか",
+     "{行|い}きたくないです"
+    ],
+    "answer": 0,
+    "en": "A: Won't you go to the park on Sunday? B: Yes, let's go."
+   },
+   {
+    "q": "A：{明日|あした}、{買|か}い{物|もの}をしませんか。B：すみません、{明日|あした}は＿＿。",
+    "options": [
+     "いいですね",
+     "しましょう",
+     "ちょっと…",
+     "どうぞ"
+    ],
+    "answer": 2,
+    "en": "A: Shall we go shopping tomorrow? B: Sorry, tomorrow is a bit..."
+   }
+  ]
+ },
+ {
+  "id": "g5-067",
+  "level": 5,
+  "title_raw": "～ましょうか",
+  "meaning": "shall I ~? / shall we ~?",
+  "structure": "Verb ます-stem + ましょうか",
+  "explain": "Offers help (\"shall I ~?\") or asks for an opinion on doing something together (\"shall we ~?\").",
+  "examples": [
+   {
+    "jp": "{荷物|にもつ}を{持|も}ちましょうか。",
+    "en": "Shall I carry your bags?"
+   },
+   {
+    "jp": "{窓|まど}を{閉|し}めましょうか。",
+    "en": "Shall I close the window?"
+   },
+   {
+    "jp": "どこで{会|あ}いましょうか。",
+    "en": "Where shall we meet?"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{暗|くら}いですね。{電気|でんき}をつけ＿＿。",
+    "options": [
+     "ませんか",
+     "ましょうか",
+     "ましたか",
+     "ますか"
+    ],
+    "answer": 1,
+    "en": "It's dark, isn't it. Shall I turn on the light?"
+   },
+   {
+    "q": "A：{何時|なんじ}に＿＿か。B：{六時|ろくじ}はどうですか。",
+    "options": [
+     "{会|あ}いました",
+     "{会|あ}います",
+     "{会|あ}いたい",
+     "{会|あ}いましょう"
+    ],
+    "answer": 3,
+    "en": "A: What time shall we meet? B: How about six?"
+   },
+   {
+    "q": "A：{手伝|てつだ}い＿＿。B：ありがとうございます。",
+    "options": [
+     "ませんでした",
+     "ましょうか",
+     "ませんか",
+     "ました"
+    ],
+    "answer": 1,
+    "en": "A: Shall I help you? B: Thank you."
+   }
+  ]
+ },
+ {
+  "id": "g5-068",
+  "level": 5,
+  "title_raw": "～に行きます (purpose)",
+  "meaning": "go (somewhere) to do ~",
+  "structure": "Verb ます-stem / する-Noun + に {行|い}きます・{来|き}ます・{帰|かえ}ります",
+  "explain": "Shows the purpose of going or coming. Use the ます-stem before に: {買|か}いに{行|い}きます. With する nouns you can drop します: {買|か}い{物|もの}に{行|い}きます.",
+  "examples": [
+   {
+    "jp": "デパートへ{服|ふく}を{買|か}いに{行|い}きます。",
+    "en": "I'm going to the department store to buy clothes."
+   },
+   {
+    "jp": "{日本|にほん}へ{日本語|にほんご}の{勉強|べんきょう}に{来|き}ました。",
+    "en": "I came to Japan to study Japanese."
+   },
+   {
+    "jp": "{家|いえ}へ{昼|ひる}ごはんを{食|た}べに{帰|かえ}ります。",
+    "en": "I go home to eat lunch."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{図書館|としょかん}へ{本|ほん}を＿＿に{行|い}きます。",
+    "options": [
+     "{借|か}り",
+     "{借|か}りる",
+     "{借|か}りて",
+     "{借|か}りた"
+    ],
+    "answer": 0,
+    "en": "I'm going to the library to borrow books."
+   },
+   {
+    "q": "{友|とも}だちが{家|いえ}へ{遊|あそ}び＿＿{来|き}ました。",
+    "options": [
+     "で",
+     "を",
+     "に",
+     "と"
+    ],
+    "answer": 2,
+    "en": "My friend came over to my house to hang out."
+   },
+   {
+    "q": "{週末|しゅうまつ}、{海|うみ}へ＿＿に{行|い}きます。",
+    "options": [
+     "{泳|およ}ぎ",
+     "{泳|およ}ぐ",
+     "{泳|およ}いで",
+     "{泳|およ}が"
+    ],
+    "answer": 0,
+    "en": "I'm going to the sea to swim this weekend."
+   }
+  ]
+ },
+ {
+  "id": "g5-069",
+  "level": 5,
+  "title_raw": "～から (reason)",
+  "meaning": "because / so",
+  "structure": "Sentence + から, Sentence",
+  "explain": "から after a sentence gives the reason: \"A から B\" = \"because A, B\". The reason comes first, the opposite of English \"B because A\". Polite: ～ですから / ～ますから.",
+  "examples": [
+   {
+    "jp": "{時間|じかん}がありませんから、タクシーで{行|い}きます。",
+    "en": "I don't have time, so I'll go by taxi."
+   },
+   {
+    "jp": "{寒|さむ}いですから、{窓|まど}を{閉|し}めてください。",
+    "en": "It's cold, so please close the window."
+   },
+   {
+    "jp": "{明日|あした}はテストだから、{勉強|べんきょう}する。",
+    "en": "There's a test tomorrow, so I'll study."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{頭|あたま}が{痛|いた}いです＿＿、{今日|きょう}は{休|やす}みます。",
+    "options": [
+     "まで",
+     "が",
+     "より",
+     "から"
+    ],
+    "answer": 3,
+    "en": "I have a headache, so I'll take today off."
+   },
+   {
+    "q": "A：どうして{食|た}べませんか。B：おなかがいっぱいです＿＿。",
+    "options": [
+     "まで",
+     "から",
+     "ので",
+     "より"
+    ],
+    "answer": 1,
+    "en": "A: Why aren't you eating? B: Because I'm full."
+   },
+   {
+    "q": "{雨|あめ}＿＿から、{傘|かさ}を{持|も}って{行|い}きます。",
+    "options": [
+     "でした",
+     "い",
+     "な",
+     "です"
+    ],
+    "answer": 3,
+    "en": "It's raining, so I'll take an umbrella."
+   }
+  ]
+ },
+ {
+  "id": "g5-070",
+  "level": 5,
+  "title_raw": "～が (but)",
+  "meaning": "but / and (soft link)",
+  "structure": "Sentence + が, Sentence",
+  "explain": "が after a sentence means \"but\". It is a little more formal than けど. It is also used to soften an opening: 「すみませんが、…」.",
+  "examples": [
+   {
+    "jp": "この{店|みせ}は{高|たか}いですが、おいしいです。",
+    "en": "This shop is expensive, but tasty."
+   },
+   {
+    "jp": "{日本語|にほんご}は{難|むずか}しいですが、おもしろいです。",
+    "en": "Japanese is hard, but interesting."
+   },
+   {
+    "jp": "すみませんが、ちょっと{手伝|てつだ}ってください。",
+    "en": "Sorry, but could you help me a little?"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{部屋|へや}は{狭|せま}いです＿＿、{便利|べんり}です。",
+    "options": [
+     "から",
+     "と",
+     "が",
+     "や"
+    ],
+    "answer": 2,
+    "en": "The room is small, but convenient."
+   },
+   {
+    "q": "{昨日|きのう}{電話|でんわ}しました＿＿、{誰|だれ}もいませんでした。",
+    "options": [
+     "が",
+     "から",
+     "を",
+     "で"
+    ],
+    "answer": 0,
+    "en": "I called yesterday, but no one was there."
+   },
+   {
+    "q": "{行|い}きたいです＿＿、{時間|じかん}がありません。",
+    "options": [
+     "から",
+     "まで",
+     "が",
+     "の"
+    ],
+    "answer": 2,
+    "en": "I want to go, but I don't have time."
+   }
+  ]
+ },
+ {
+  "id": "g5-071",
+  "level": 5,
+  "title_raw": "～か～ (or)",
+  "meaning": "A or B",
+  "structure": "Noun か Noun",
+  "explain": "か between nouns means \"or\". In questions, ～か、～か lists choices.",
+  "examples": [
+   {
+    "jp": "{月曜日|げつようび}か{火曜日|かようび}に{行|い}きます。",
+    "en": "I'll go on Monday or Tuesday."
+   },
+   {
+    "jp": "ペンか{鉛筆|えんぴつ}で{書|か}いてください。",
+    "en": "Please write with a pen or a pencil."
+   },
+   {
+    "jp": "コーヒーか{紅茶|こうちゃ}、どちらがいいですか。",
+    "en": "Coffee or tea, which do you prefer?"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{電車|でんしゃ}＿＿バスで{来|き}てください。",
+    "options": [
+     "と",
+     "か",
+     "も",
+     "の"
+    ],
+    "answer": 1,
+    "en": "Please come by train or bus."
+   },
+   {
+    "q": "{夏休|なつやす}みは{海|うみ}＿＿{山|やま}へ{行|い}きたいです。",
+    "options": [
+     "を",
+     "で",
+     "より",
+     "か"
+    ],
+    "answer": 3,
+    "en": "I want to go to the sea or the mountains in summer vacation."
+   },
+   {
+    "q": "{土曜日|どようび}か{日曜日|にちようび}＿＿{会|あ}いましょう。",
+    "options": [
+     "を",
+     "に",
+     "が",
+     "と"
+    ],
+    "answer": 1,
+    "en": "Let's meet on Saturday or Sunday."
+   }
+  ]
+ },
+ {
+  "id": "g5-072",
+  "level": 5,
+  "title_raw": "～けど",
+  "meaning": "but (casual)",
+  "structure": "Sentence + けど, Sentence",
+  "explain": "けど is the casual \"but\", very common in speech. It can also end a sentence softly, leaving the rest unsaid.",
+  "examples": [
+   {
+    "jp": "{行|い}きたいけど、お{金|かね}がない。",
+    "en": "I want to go, but I have no money."
+   },
+   {
+    "jp": "{高|たか}いけど、いいかばんだね。",
+    "en": "It's expensive, but it's a nice bag."
+   },
+   {
+    "jp": "すみません、{駅|えき}へ{行|い}きたいんですけど…",
+    "en": "Excuse me, I'd like to go to the station..."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "この{料理|りょうり}は{辛|から}い＿＿、おいしい。",
+    "options": [
+     "けど",
+     "から",
+     "まで",
+     "より"
+    ],
+    "answer": 0,
+    "en": "This dish is spicy, but tasty."
+   },
+   {
+    "q": "{勉強|べんきょう}した＿＿、わからなかった。",
+    "options": [
+     "から",
+     "ので",
+     "けど",
+     "まで"
+    ],
+    "answer": 2,
+    "en": "I studied, but I didn't understand."
+   },
+   {
+    "q": "{昨日|きのう}は{雨|あめ}だった＿＿、{今日|きょう}は{晴|は}れだ。",
+    "options": [
+     "けど",
+     "から",
+     "と",
+     "や"
+    ],
+    "answer": 0,
+    "en": "It rained yesterday, but today it's sunny."
+   }
+  ]
+ },
+ {
+  "id": "g5-073",
+  "level": 5,
+  "title_raw": "～とき",
+  "meaning": "when ~",
+  "structure": "Verb (plain) / い-adj / な-adj + な / Noun + の + とき",
+  "explain": "～とき means \"when (at the time)\". Before とき: plain verb, い-adjective, な-adj + な, noun + の.",
+  "examples": [
+   {
+    "jp": "{子|こ}どものとき、{大阪|おおさか}に{住|す}んでいました。",
+    "en": "When I was a child, I lived in Osaka."
+   },
+   {
+    "jp": "{暇|ひま}なとき、{本|ほん}を{読|よ}みます。",
+    "en": "I read books when I'm free."
+   },
+   {
+    "jp": "{寝|ね}るとき、{電気|でんき}を{消|け}します。",
+    "en": "I turn off the lights when I go to bed."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{学生|がくせい}＿＿とき、よく{旅行|りょこう}しました。",
+    "options": [
+     "な",
+     "だ",
+     "に",
+     "の"
+    ],
+    "answer": 3,
+    "en": "When I was a student, I often traveled."
+   },
+   {
+    "q": "{寒|さむ}い＿＿、コートを{着|き}ます。",
+    "options": [
+     "ときの",
+     "とき",
+     "なとき",
+     "のとき"
+    ],
+    "answer": 1,
+    "en": "When it's cold, I wear a coat."
+   },
+   {
+    "q": "{道|みち}が＿＿とき、{人|ひと}に{聞|き}きます。",
+    "options": [
+     "わからなくて",
+     "わからないの",
+     "わかりません",
+     "わからない"
+    ],
+    "answer": 3,
+    "en": "When I don't know the way, I ask someone."
+   }
+  ]
+ },
+ {
+  "id": "g5-074",
+  "level": 5,
+  "title_raw": "Noun-modifying clauses",
+  "meaning": "the ~ that (describing a noun with a verb)",
+  "structure": "Verb (plain form) + Noun",
+  "explain": "Put a plain-form verb sentence directly before a noun to describe it: {昨日|きのう}{買|か}った{本|ほん} \"the book I bought yesterday\". No relative word like \"that/which\" is needed. The subject inside takes が (or の), not は.",
+  "examples": [
+   {
+    "jp": "これは{昨日|きのう}{買|か}った{本|ほん}です。",
+    "en": "This is the book I bought yesterday."
+   },
+   {
+    "jp": "{眼鏡|めがね}をかけている{人|ひと}は{田中|たなか}さんです。",
+    "en": "The person wearing glasses is Mr. Tanaka."
+   },
+   {
+    "jp": "{母|はは}が{作|つく}った{料理|りょうり}はおいしいです。",
+    "en": "The food my mother made is delicious."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "あそこで{本|ほん}を＿＿{人|ひと}は{私|わたし}の{兄|あに}です。",
+    "options": [
+     "{読|よ}んでいます",
+     "{読|よ}みます",
+     "{読|よ}んでいる",
+     "{読|よ}んでいるの"
+    ],
+    "answer": 2,
+    "en": "The person reading a book over there is my older brother."
+   },
+   {
+    "q": "{私|わたし}＿＿{書|か}いた{手紙|てがみ}を{読|よ}んでください。",
+    "options": [
+     "が",
+     "は",
+     "を",
+     "で"
+    ],
+    "answer": 0,
+    "en": "Please read the letter I wrote."
+   },
+   {
+    "q": "{先週|せんしゅう}＿＿{映画|えいが}はおもしろかったです。",
+    "options": [
+     "{見|み}ました",
+     "{見|み}たの",
+     "{見|み}た",
+     "{見|み}て"
+    ],
+    "answer": 2,
+    "en": "The movie I saw last week was interesting."
+   }
+  ]
+ },
+ {
+  "id": "g5-075",
+  "level": 5,
+  "title_raw": "～前に",
+  "meaning": "before ~",
+  "structure": "Verb (dictionary form) + {前|まえ}に / Noun + の + {前|まえ}に",
+  "explain": "Means \"before doing ~\". The verb before {前|まえ}に is always the dictionary form, even when talking about the past.",
+  "examples": [
+   {
+    "jp": "{寝|ね}る{前|まえ}に{歯|は}を{磨|みが}きます。",
+    "en": "I brush my teeth before going to bed."
+   },
+   {
+    "jp": "{食事|しょくじ}の{前|まえ}に{手|て}を{洗|あら}います。",
+    "en": "I wash my hands before meals."
+   },
+   {
+    "jp": "{日本|にほん}へ{来|く}る{前|まえ}に、{少|すこ}し{日本語|にほんご}を{勉強|べんきょう}しました。",
+    "en": "I studied a little Japanese before coming to Japan."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{家|いえ}を＿＿{前|まえ}に、{天気|てんき}を{見|み}ます。",
+    "options": [
+     "{出|で}た",
+     "{出|で}る",
+     "{出|で}て",
+     "{出|で}ます"
+    ],
+    "answer": 1,
+    "en": "I check the weather before leaving home."
+   },
+   {
+    "q": "{授業|じゅぎょう}＿＿{前|まえ}に、{予習|よしゅう}をしてください。",
+    "options": [
+     "な",
+     "に",
+     "で",
+     "の"
+    ],
+    "answer": 3,
+    "en": "Please prepare before class."
+   },
+   {
+    "q": "{昨日|きのう}、{寝|ね}る＿＿シャワーを{浴|あ}びました。",
+    "options": [
+     "{後|あと}で",
+     "{前|まえ}に",
+     "とき",
+     "から"
+    ],
+    "answer": 1,
+    "en": "Yesterday I took a shower before going to bed."
+   }
+  ]
+ },
+ {
+  "id": "g5-076",
+  "level": 5,
+  "title_raw": "～た後で",
+  "meaning": "after ~",
+  "structure": "Verb (た-form) + {後|あと}で / Noun + の + {後|あと}で",
+  "explain": "Means \"after doing ~\". The verb before {後|あと}で is the た-form, even for future actions.",
+  "examples": [
+   {
+    "jp": "{仕事|しごと}が{終|お}わった{後|あと}で、{飲|の}みに{行|い}きます。",
+    "en": "After work ends, I'll go for a drink."
+   },
+   {
+    "jp": "{授業|じゅぎょう}の{後|あと}で、{図書館|としょかん}へ{行|い}きます。",
+    "en": "I'll go to the library after class."
+   },
+   {
+    "jp": "ごはんを{食|た}べた{後|あと}で、{散歩|さんぽ}しました。",
+    "en": "I took a walk after eating."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{宿題|しゅくだい}を＿＿{後|あと}で、テレビを{見|み}ます。",
+    "options": [
+     "した",
+     "する",
+     "して",
+     "しない"
+    ],
+    "answer": 0,
+    "en": "I'll watch TV after doing my homework."
+   },
+   {
+    "q": "{映画|えいが}＿＿{後|あと}で、{食事|しょくじ}をしましょう。",
+    "options": [
+     "な",
+     "を",
+     "の",
+     "で"
+    ],
+    "answer": 2,
+    "en": "Let's eat after the movie."
+   },
+   {
+    "q": "{運動|うんどう}した＿＿、シャワーを{浴|あ}びます。",
+    "options": [
+     "{後|あと}で",
+     "{前|まえ}に",
+     "ながら",
+     "まで"
+    ],
+    "answer": 0,
+    "en": "I take a shower after exercising."
+   }
+  ]
+ },
+ {
+  "id": "g5-077",
+  "level": 5,
+  "title_raw": "～たり～たりします",
+  "meaning": "do things like A and B",
+  "structure": "Verb た-form + り, Verb た-form + り + します",
+  "explain": "Lists some example actions, not all of them: \"do things like A and B\". The tense goes on the last します.",
+  "examples": [
+   {
+    "jp": "{日曜日|にちようび}は{掃除|そうじ}をしたり{洗濯|せんたく}をしたりします。",
+    "en": "On Sundays I do things like cleaning and laundry."
+   },
+   {
+    "jp": "{休|やす}みの{日|ひ}は{本|ほん}を{読|よ}んだり、{映画|えいが}を{見|み}たりしました。",
+    "en": "On my day off I read books, watched movies and so on."
+   },
+   {
+    "jp": "{京都|きょうと}でお{寺|てら}を{見|み}たり、{写真|しゃしん}を{撮|と}ったりしたいです。",
+    "en": "In Kyoto I want to see temples, take photos and so on."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{週末|しゅうまつ}は{買|か}い{物|もの}をしたり、{友|とも}だちに{会|あ}ったり＿＿。",
+    "options": [
+     "です",
+     "います",
+     "あります",
+     "します"
+    ],
+    "answer": 3,
+    "en": "On weekends I do things like shopping and meeting friends."
+   },
+   {
+    "q": "{夏休|なつやす}みは{海|うみ}で＿＿、{山|やま}に{登|のぼ}ったりしました。",
+    "options": [
+     "{泳|およ}ぎたり",
+     "{泳|およ}いだり",
+     "{泳|およ}いたり",
+     "{泳|およ}んだり"
+    ],
+    "answer": 1,
+    "en": "During summer vacation I swam in the sea, climbed mountains and so on."
+   },
+   {
+    "q": "パーティーで{歌|うた}を{歌|うた}ったり、＿＿しました。",
+    "options": [
+     "{踊|おど}りたり",
+     "{踊|おど}んだり",
+     "{踊|おど}って",
+     "{踊|おど}ったり"
+    ],
+    "answer": 3,
+    "en": "At the party we sang songs, danced and so on."
+   }
+  ]
+ },
+ {
+  "id": "g5-078",
+  "level": 5,
+  "title_raw": "～でしょう",
+  "meaning": "probably / right?",
+  "structure": "Verb・い-adj (plain) / Noun・な-adj + でしょう",
+  "explain": "でしょう means \"probably\", often in weather forecasts. With a rising tone it asks for agreement: \"right?\". Casual: だろう / でしょ.",
+  "examples": [
+   {
+    "jp": "{明日|あした}は{雨|あめ}が{降|ふ}るでしょう。",
+    "en": "It will probably rain tomorrow."
+   },
+   {
+    "jp": "{山田|やまだ}さんはもう{来|こ}ないでしょう。",
+    "en": "Mr. Yamada probably won't come now."
+   },
+   {
+    "jp": "このかばん、{高|たか}かったでしょう？",
+    "en": "This bag was expensive, wasn't it?"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{明日|あした}は{晴|は}れる＿＿。",
+    "options": [
+     "ましょう",
+     "ませんか",
+     "でしょう",
+     "てください"
+    ],
+    "answer": 2,
+    "en": "It will probably be sunny tomorrow."
+   },
+   {
+    "q": "{北海道|ほっかいどう}は{今|いま}、{寒|さむ}い＿＿。",
+    "options": [
+     "でしょう",
+     "だでしょう",
+     "なでしょう",
+     "ましょう"
+    ],
+    "answer": 0,
+    "en": "Hokkaido is probably cold now."
+   },
+   {
+    "q": "{田中|たなか}さんは{明日|あした}も＿＿でしょう。",
+    "options": [
+     "{元気|げんき}な",
+     "{元気|げんき}だ",
+     "{元気|げんき}",
+     "{元気|げんき}の"
+    ],
+    "answer": 2,
+    "en": "Mr. Tanaka will probably be fine tomorrow too."
+   }
+  ]
+ },
+ {
+  "id": "g5-079",
+  "level": 5,
+  "title_raw": "～つもりです",
+  "meaning": "plan to / intend to",
+  "structure": "Verb (dictionary form / ない-form) + つもりです",
+  "explain": "Talks about your plans or decisions: \"I plan to ~\". ～ないつもりです = \"I plan not to ~\".",
+  "examples": [
+   {
+    "jp": "{来年|らいねん}、{日本|にほん}へ{留学|りゅうがく}するつもりです。",
+    "en": "I plan to study in Japan next year."
+   },
+   {
+    "jp": "{今晩|こんばん}は{早|はや}く{寝|ね}るつもりです。",
+    "en": "I intend to go to bed early tonight."
+   },
+   {
+    "jp": "もうたばこは{吸|す}わないつもりです。",
+    "en": "I don't plan to smoke anymore."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{夏休|なつやす}みに{国|くに}へ＿＿つもりです。",
+    "options": [
+     "{帰|かえ}り",
+     "{帰|かえ}る",
+     "{帰|かえ}って",
+     "{帰|かえ}りたい"
+    ],
+    "answer": 1,
+    "en": "I plan to go back to my country in summer vacation."
+   },
+   {
+    "q": "{週末|しゅうまつ}は{家|いえ}で{休|やす}む＿＿です。",
+    "options": [
+     "ため",
+     "ほう",
+     "こと",
+     "つもり"
+    ],
+    "answer": 3,
+    "en": "I plan to rest at home this weekend."
+   },
+   {
+    "q": "{高|たか}いですから、{買|か}わない＿＿です。",
+    "options": [
+     "でしょう",
+     "つもり",
+     "ましょう",
+     "ください"
+    ],
+    "answer": 1,
+    "en": "It's expensive, so I don't plan to buy it."
+   }
+  ]
+ },
+ {
+  "id": "g5-080",
+  "level": 5,
+  "title_raw": "～より～のほうが",
+  "meaning": "B is more ~ than A",
+  "structure": "A より B のほうが Adjective",
+  "explain": "Compares two things. より = \"than\". ～のほうが marks the one that is \"more\". Question: AとBとどちらが～ですか.",
+  "examples": [
+   {
+    "jp": "{東京|とうきょう}は{大阪|おおさか}より{大|おお}きいです。",
+    "en": "Tokyo is bigger than Osaka."
+   },
+   {
+    "jp": "バスより{電車|でんしゃ}のほうが{速|はや}いです。",
+    "en": "The train is faster than the bus."
+   },
+   {
+    "jp": "{肉|にく}と{魚|さかな}と、どちらが{好|す}きですか。",
+    "en": "Which do you like more, meat or fish?"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{今日|きょう}は{昨日|きのう}＿＿{暑|あつ}いです。",
+    "options": [
+     "より",
+     "ほう",
+     "から",
+     "まで"
+    ],
+    "answer": 0,
+    "en": "Today is hotter than yesterday."
+   },
+   {
+    "q": "A：{夏|なつ}と{冬|ふゆ}と、どちらが{好|す}きですか。B：{冬|ふゆ}の＿＿が{好|す}きです。",
+    "options": [
+     "より",
+     "とき",
+     "ほう",
+     "ころ"
+    ],
+    "answer": 2,
+    "en": "A: Which do you like better, summer or winter? B: I like winter better."
+   },
+   {
+    "q": "コーヒーと{紅茶|こうちゃ}と、＿＿がいいですか。",
+    "options": [
+     "どちら",
+     "どれ",
+     "どこ",
+     "だれ"
+    ],
+    "answer": 0,
+    "en": "Which would you prefer, coffee or tea?"
+   }
+  ]
+ },
+ {
+  "id": "g5-081",
+  "level": 5,
+  "title_raw": "～の中で～がいちばん",
+  "meaning": "the most ~ (of all)",
+  "structure": "Group の{中|なか}で Noun が いちばん Adjective",
+  "explain": "Used for the best or most in a group of three or more. Use なに/だれ/どこ/いつ in questions, not どちら.",
+  "examples": [
+   {
+    "jp": "{果物|くだもの}の{中|なか}でいちごがいちばん{好|す}きです。",
+    "en": "Of all fruits, I like strawberries the most."
+   },
+   {
+    "jp": "クラスの{中|なか}でだれがいちばん{背|せ}が{高|たか}いですか。",
+    "en": "Who is the tallest in the class?"
+   },
+   {
+    "jp": "{一年|いちねん}でいつがいちばん{寒|さむ}いですか。",
+    "en": "When is the coldest time of the year?"
+   }
+  ],
+  "quiz": [
+   {
+    "q": "スポーツの{中|なか}で＿＿がいちばん{好|す}きですか。",
+    "options": [
+     "どちら",
+     "どれの",
+     "どなた",
+     "{何|なに}"
+    ],
+    "answer": 3,
+    "en": "Which sport do you like the most?"
+   },
+   {
+    "q": "{家族|かぞく}の{中|なか}で{父|ちち}が＿＿{早|はや}く{起|お}きます。",
+    "options": [
+     "もっと",
+     "いちばん",
+     "より",
+     "ほう"
+    ],
+    "answer": 1,
+    "en": "My father gets up earliest in my family."
+   },
+   {
+    "q": "{日本|にほん}の{山|やま}の＿＿で{富士山|ふじさん}がいちばん{高|たか}いです。",
+    "options": [
+     "{上|うえ}",
+     "{前|まえ}",
+     "{後|あと}",
+     "{中|なか}"
+    ],
+    "answer": 3,
+    "en": "Among Japan's mountains, Mt. Fuji is the highest."
+   }
+  ]
+ },
+ {
+  "id": "g5-082",
+  "level": 5,
+  "title_raw": "～くなります・～になります",
+  "meaning": "become ~",
+  "structure": "い-adj: ～い → ～くなります / な-adj・Noun + になります",
+  "explain": "Shows change: \"become ~\". い-adjectives change い to く. な-adjectives and nouns add に.",
+  "examples": [
+   {
+    "jp": "{春|はる}になりました。",
+    "en": "Spring has come."
+   },
+   {
+    "jp": "{日本語|にほんご}が{上手|じょうず}になりました。",
+    "en": "My Japanese has gotten better."
+   },
+   {
+    "jp": "{夜|よる}は{寒|さむ}くなります。",
+    "en": "It gets cold at night."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{部屋|へや}が＿＿なりました。",
+    "options": [
+     "{暗|くら}い",
+     "{暗|くら}に",
+     "{暗|くら}く",
+     "{暗|くら}いに"
+    ],
+    "answer": 2,
+    "en": "The room got dark."
+   },
+   {
+    "q": "{弟|おとうと}は{来年|らいねん}{二十歳|はたち}＿＿なります。",
+    "options": [
+     "に",
+     "く",
+     "が",
+     "を"
+    ],
+    "answer": 0,
+    "en": "My younger brother will turn twenty next year."
+   },
+   {
+    "q": "{掃除|そうじ}して、{部屋|へや}が＿＿なりました。",
+    "options": [
+     "きれく",
+     "きれいく",
+     "きれいに",
+     "きれいで"
+    ],
+    "answer": 2,
+    "en": "I cleaned, and the room became clean."
+   }
+  ]
+ },
+ {
+  "id": "g5-083",
+  "level": 5,
+  "title_raw": "Adverbs from adjectives (～く・～に)",
+  "meaning": "-ly (how something is done)",
+  "structure": "い-adj: ～い → ～く + Verb / な-adj + に + Verb",
+  "explain": "Turn adjectives into adverbs to describe how you do something: {早|はや}く{起|お}きます \"get up early\", {静|しず}かに{話|はな}します \"speak quietly\".",
+  "examples": [
+   {
+    "jp": "{毎朝|まいあさ}{早|はや}く{起|お}きます。",
+    "en": "I get up early every morning."
+   },
+   {
+    "jp": "{図書館|としょかん}では{静|しず}かに{話|はな}してください。",
+    "en": "Please speak quietly in the library."
+   },
+   {
+    "jp": "{字|じ}をきれいに{書|か}きましょう。",
+    "en": "Let's write neatly."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "もう{少|すこ}し＿＿{話|はな}してください。",
+    "options": [
+     "ゆっくりな",
+     "ゆっくり",
+     "ゆっくりで",
+     "ゆっくりの"
+    ],
+    "answer": 1,
+    "en": "Please speak a little more slowly."
+   },
+   {
+    "q": "{子|こ}どもたちが＿＿{遊|あそ}んでいます。",
+    "options": [
+     "{元気|げんき}な",
+     "{元気|げんき}く",
+     "{元気|げんき}で",
+     "{元気|げんき}に"
+    ],
+    "answer": 3,
+    "en": "The children are playing energetically."
+   },
+   {
+    "q": "{遅|おそ}れますから、＿＿{歩|ある}きましょう。",
+    "options": [
+     "{速|はや}い",
+     "{速|はや}く",
+     "{速|はや}いに",
+     "{速|はや}くて"
+    ],
+    "answer": 1,
+    "en": "We'll be late, so let's walk fast."
+   }
+  ]
+ },
+ {
+  "id": "g5-084",
+  "level": 5,
+  "title_raw": "～ことができます",
+  "meaning": "can ~",
+  "structure": "Verb (dictionary form) + ことができます / Noun + ができます",
+  "explain": "Shows ability or possibility: \"can ~\". Use the dictionary form before こと. (The shorter potential form like {話|はな}せる is N4.)",
+  "examples": [
+   {
+    "jp": "{私|わたし}は{漢字|かんじ}を{読|よ}むことができます。",
+    "en": "I can read kanji."
+   },
+   {
+    "jp": "このカードで{買|か}い{物|もの}をすることができます。",
+    "en": "You can shop with this card."
+   },
+   {
+    "jp": "{妹|いもうと}はピアノを{弾|ひ}くことができません。",
+    "en": "My younger sister can't play the piano."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{私|わたし}は{泳|およ}ぐ＿＿ができます。",
+    "options": [
+     "こと",
+     "の",
+     "もの",
+     "ほう"
+    ],
+    "answer": 0,
+    "en": "I can swim."
+   },
+   {
+    "q": "ここで{切符|きっぷ}を＿＿ことができます。",
+    "options": [
+     "{買|か}い",
+     "{買|か}って",
+     "{買|か}う",
+     "{買|か}った"
+    ],
+    "answer": 2,
+    "en": "You can buy tickets here."
+   },
+   {
+    "q": "{日本語|にほんご}で{電話|でんわ}を＿＿ことができますか。",
+    "options": [
+     "かける",
+     "かけ",
+     "かけて",
+     "かけた"
+    ],
+    "answer": 0,
+    "en": "Can you make phone calls in Japanese?"
+   }
+  ]
+ },
+ {
+  "id": "g5-085",
+  "level": 5,
+  "title_raw": "もう～ました・まだ～ていません",
+  "meaning": "already did / not yet",
+  "structure": "もう + Verb ました / まだ + Verb て-form + いません",
+  "explain": "もう～ました = already done. The answer for \"not yet\" is まだ～ていません (not まだ～ませんでした). Short answer: いいえ、まだです.",
+  "examples": [
+   {
+    "jp": "もう{昼|ひる}ごはんを{食|た}べました。",
+    "en": "I already ate lunch."
+   },
+   {
+    "jp": "まだ{宿題|しゅくだい}をしていません。",
+    "en": "I haven't done my homework yet."
+   },
+   {
+    "jp": "A：もう{読|よ}みましたか。B：いいえ、まだです。",
+    "en": "A: Have you read it already? B: No, not yet."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "A：もうレポートを{出|だ}しましたか。B：いいえ、まだ＿＿。",
+    "options": [
+     "{出|だ}しませんでした",
+     "{出|だ}しました",
+     "{出|だ}しません",
+     "{出|だ}していません"
+    ],
+    "answer": 3,
+    "en": "A: Have you handed in the report? B: No, not yet."
+   },
+   {
+    "q": "＿＿{切符|きっぷ}を{買|か}いました。",
+    "options": [
+     "まだ",
+     "もう",
+     "あまり",
+     "ぜんぜん"
+    ],
+    "answer": 1,
+    "en": "I've already bought the ticket."
+   },
+   {
+    "q": "{映画|えいが}は＿＿{始|はじ}まっていません。",
+    "options": [
+     "もう",
+     "よく",
+     "いつも",
+     "まだ"
+    ],
+    "answer": 3,
+    "en": "The movie hasn't started yet."
+   }
+  ]
+ },
+ {
+  "id": "g5-086",
+  "level": 5,
+  "title_raw": "あまり・ぜんぜん～ない",
+  "meaning": "not very / not at all",
+  "structure": "あまり / ぜんぜん + negative",
+  "explain": "あまり + negative = \"not very / not much\". ぜんぜん + negative = \"not at all\". Both need a negative at the end.",
+  "examples": [
+   {
+    "jp": "この{映画|えいが}はあまりおもしろくないです。",
+    "en": "This movie is not very interesting."
+   },
+   {
+    "jp": "{私|わたし}はお{酒|さけ}をぜんぜん{飲|の}みません。",
+    "en": "I don't drink alcohol at all."
+   },
+   {
+    "jp": "テレビはあまり{見|み}ません。",
+    "en": "I don't watch TV much."
+   }
+  ],
+  "quiz": [
+   {
+    "q": "{日本語|にほんご}は{少|すこ}しわかりますが、{韓国語|かんこくご}は＿＿わかりません。",
+    "options": [
+     "とても",
+     "よく",
+     "ぜんぜん",
+     "たくさん"
+    ],
+    "answer": 2,
+    "en": "I understand a little Japanese, but I don't understand Korean at all."
+   },
+   {
+    "q": "{今日|きょう}はあまり＿＿。",
+    "options": [
+     "{寒|さむ}くないです",
+     "{寒|さむ}いです",
+     "{寒|さむ}かったです",
+     "{寒|さむ}くなります"
+    ],
+    "answer": 0,
+    "en": "It's not very cold today."
+   },
+   {
+    "q": "{肉|にく}はあまり{食|た}べ＿＿。",
+    "options": [
+     "ます",
+     "ました",
+     "ません",
+     "ましょう"
+    ],
+    "answer": 2,
+    "en": "I don't eat meat much."
+   }
+  ]
+ }
+]

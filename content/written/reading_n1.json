@@ -1,0 +1,354 @@
+[
+ {
+  "id": "r1-01",
+  "level": 1,
+  "title_raw": "Convenience and Thinking",
+  "kind": "short",
+  "text": "{検索|けんさく}すれば{瞬時|しゅんじ}に{答|こた}えが{得|え}られる{時代|じだい}になった。だが、{答|こた}えに{至|いた}るまでの{試行錯誤|しこうさくご}こそが{思考|しこう}を{鍛|きた}えるのだとすれば、この{便利|べんり}さは{両刃|もろは}の{剣|つるぎ}と{言|い}わざるを{得|え}ない。{調|しら}べることと{考|かんが}えることは、{似|に}て{非|ひ}なるものである。{前者|ぜんしゃ}は{既|すで}にある{情報|じょうほう}を{集|あつ}める{行為|こうい}にすぎないが、{後者|こうしゃ}は{情報|じょうほう}{同士|どうし}を{結|むす}びつけ、{新|あら}たな{意味|いみ}を{生|う}み{出|だ}す{営|いとな}みだ。{手軽|てがる}に{得|え}た{知識|ちしき}は{手軽|てがる}に{失|うしな}われる。{遠回|とおまわ}りに{見|み}えても、{自|みずか}ら{問|と}いを{立|た}て、{迷|まよ}いながら{答|こた}えを{探|さが}す{経験|けいけん}を{手放|てばな}してはなるまい。",
+  "en": "We now live in an age where you can get an answer instantly by searching. But if it is precisely the trial and error before reaching an answer that trains thinking, then this convenience must be called a double-edged sword. Looking things up and thinking are things that look alike but are different. The former is merely collecting information that already exists, while the latter is the work of connecting pieces of information and creating new meaning. Knowledge gained easily is lost easily. Even if it looks like a detour, we must not give up the experience of asking our own questions and searching for answers while unsure.",
+  "questions": [
+   {
+    "q": "{筆者|ひっしゃ}の{主張|しゅちょう}として{最|もっと}も{適切|てきせつ}なものはどれか。",
+    "q_en": "Which best states the writer's claim?",
+    "options": [
+     "{検索|けんさく}は{思考力|しこうりょく}を{高|たか}めるので{積極的|せっきょくてき}に{使|つか}うべきだ。",
+     "{自分|じぶん}で{考|かんが}えて{答|こた}えを{探|さが}す{過程|かてい}を{大切|たいせつ}にすべきだ。",
+     "{知識|ちしき}は{多|おお}ければ{多|おお}いほどよい。",
+     "{便利|べんり}な{道具|どうぐ}はすべて{使|つか}わないほうがよい。"
+    ],
+    "answer": 1,
+    "why": "The writer says we must not give up searching for answers ourselves."
+   }
+  ]
+ },
+ {
+  "id": "r1-02",
+  "level": 1,
+  "title_raw": "Notice on Overtime Rules",
+  "kind": "short",
+  "text": "{各部署|かくぶしょ}{責任者|せきにんしゃ}{殿|どの}\n{働|はたら}き{方|かた}{改革|かいかく}の{一環|いっかん}として、{来期|らいき}より{時間外|じかんがい}{労働|ろうどう}の{事前|じぜん}{申請|しんせい}を{義務化|ぎむか}いたします。{部下|ぶか}が{残業|ざんぎょう}を{要|よう}する{場合|ばあい}、{責任者|せきにんしゃ}は{当日|とうじつ}17{時|じ}までに{申請|しんせい}{内容|ないよう}を{確認|かくにん}し、{承認|しょうにん}の{可否|かひ}を{判断|はんだん}してください。なお、{顧客|こきゃく}{対応|たいおう}など{予見|よけん}し{得|え}ない{事情|じじょう}による{場合|ばあい}に{限|かぎ}り、{翌営業日|よくえいぎょうび}までの{事後|じご}{申請|しんせい}を{認|みと}めます。{月|つき}45{時間|じかん}を{超|こ}える{見込|みこ}みがある{者|もの}については、{速|すみ}やかに{人事部|じんじぶ}へ{報告|ほうこく}すること。\n{人事部|じんじぶ}",
+  "en": "To the managers of each department\nAs part of our work-style reform, from next term prior applications for overtime work will be mandatory. When a subordinate needs to work overtime, the manager must check the application by 5 p.m. that day and decide whether to approve it. However, only in cases caused by circumstances that cannot be foreseen, such as customer handling, applications made afterwards will be accepted until the next business day. Anyone expected to exceed 45 hours a month must be reported to the HR Department promptly.\nHR Department",
+  "questions": [
+   {
+    "q": "この{文書|ぶんしょ}の{内容|ないよう}と{合|あ}っているものはどれか。",
+    "q_en": "Which matches the content of this document?",
+    "options": [
+     "{残業|ざんぎょう}はすべて{翌営業日|よくえいぎょうび}に{申請|しんせい}すればよい。",
+     "{残業|ざんぎょう}の{承認|しょうにん}は{人事部|じんじぶ}が{行|おこな}う。",
+     "{急|きゅう}な{顧客|こきゃく}{対応|たいおう}による{残業|ざんぎょう}は、{後|あと}から{申請|しんせい}してもよい。",
+     "{月|つき}45{時間|じかん}を{超|こ}える{残業|ざんぎょう}は{禁止|きんし}される。"
+    ],
+    "answer": 2,
+    "why": "Unforeseeable cases like customer handling may be applied for afterwards."
+   }
+  ]
+ },
+ {
+  "id": "r1-03",
+  "level": 1,
+  "title_raw": "The Meaning of 'Ma'",
+  "kind": "medium",
+  "text": "{日本|にほん}の{芸術|げいじゅつ}を{語|かた}る{際|さい}、しばしば「{間|ま}」という{言葉|ことば}が{持|も}ち{出|だ}される。{音楽|おんがく}における{音|おと}と{音|おと}の{間|あいだ}の{沈黙|ちんもく}、{絵画|かいが}における{余白|よはく}、{会話|かいわ}における{一瞬|いっしゅん}の{間合|まあ}い。いずれも、{何|なに}もないように{見|み}えて、{実|じつ}は{表現|ひょうげん}の{重要|じゅうよう}な{一部|いちぶ}を{担|にな}っている。\n{西洋|せいよう}の{美学|びがく}が{空間|くうかん}を{満|み}たすことに{価値|かち}を{見出|みいだ}してきたとすれば、{日本|にほん}のそれは{空白|くうはく}に{意味|いみ}を{託|たく}してきたと{言|い}えよう。もっとも、こうした{対比|たいひ}は{単純化|たんじゅんか}にすぎるきらいがある。{肝心|かんじん}なのは、{余白|よはく}が{受|う}け{手|て}の{想像力|そうぞうりょく}を{呼|よ}び{込|こ}む{装置|そうち}として{機能|きのう}している{点|てん}だ。すべてを{語|かた}り{尽|つ}くさないことで、{作品|さくひん}は{見|み}る{者|もの}との{対話|たいわ}を{始|はじ}めるのである。",
+  "en": "When people discuss Japanese art, the word 'ma' often comes up: the silence between notes in music, the empty space in painting, the brief pause in conversation. All of these seem to contain nothing, but in fact play an important part in the expression.\nIf Western aesthetics has found value in filling space, Japanese aesthetics could be said to have entrusted meaning to emptiness. That said, this contrast tends to be an oversimplification. What really matters is that empty space works as a device that draws in the imagination of the audience. By not saying everything, a work begins a dialogue with the person viewing it.",
+  "questions": [
+   {
+    "q": "{筆者|ひっしゃ}によれば、「{間|ま}」や{余白|よはく}の{重要|じゅうよう}な{働|はたら}きは{何|なに}か。",
+    "q_en": "According to the writer, what is the important role of 'ma' and empty space?",
+    "options": [
+     "{作品|さくひん}を{見|み}やすく{整理|せいり}すること",
+     "{西洋|せいよう}の{芸術|げいじゅつ}との{違|ちが}いを{示|しめ}すこと",
+     "{受|う}け{手|て}の{想像力|そうぞうりょく}を{引|ひ}き{出|だ}すこと",
+     "{作者|さくしゃ}の{技術|ぎじゅつ}の{高|たか}さを{表|あらわ}すこと"
+    ],
+    "answer": 2,
+    "why": "The writer says empty space draws in the audience's imagination."
+   },
+   {
+    "q": "{西洋|せいよう}と{日本|にほん}の{美学|びがく}の{対比|たいひ}について、{筆者|ひっしゃ}はどう{考|かんが}えているか。",
+    "q_en": "What does the writer think about contrasting Western and Japanese aesthetics?",
+    "options": [
+     "{単純|たんじゅん}すぎる{面|めん}があると{考|かんが}えている。",
+     "{完全|かんぜん}に{正|ただ}しいと{考|かんが}えている。",
+     "{日本|にほん}の{美学|びがく}のほうが{優|すぐ}れていると{考|かんが}えている。",
+     "まったく{意味|いみ}がないと{考|かんが}えている。"
+    ],
+    "answer": 0,
+    "why": "The writer says the contrast tends to be an oversimplification."
+   }
+  ]
+ },
+ {
+  "id": "r1-04",
+  "level": 1,
+  "title_raw": "Expertise and Trust",
+  "kind": "medium",
+  "text": "{専門家|せんもんか}の{発言|はつげん}が{以前|いぜん}ほど{信頼|しんらい}されなくなったと{言|い}われて{久|ひさ}しい。インターネットの{普及|ふきゅう}により、{誰|だれ}もが{情報|じょうほう}を{発信|はっしん}できるようになった{結果|けっか}、{専門家|せんもんか}の{意見|いけん}も{数|かず}ある{意見|いけん}の{一|ひと}つにすぎないと{見|み}なされがちだ。\nとはいえ、{専門家|せんもんか}の{側|がわ}に{非|ひ}がないわけではない。{不確実|ふかくじつ}なことを{断定的|だんていてき}に{語|かた}り、{後|あと}で{訂正|ていせい}を{余儀|よぎ}なくされれば、{信頼|しんらい}が{揺|ゆ}らぐのは{当然|とうぜん}である。むしろ{求|もと}められているのは、「ここまでは{分|わ}かっているが、ここから{先|さき}は{分|わ}からない」と{率直|そっちょく}に{示|しめ}す{姿勢|しせい}ではないか。{知|し}らないことを{認|みと}める{誠実|せいじつ}さこそが、{長|なが}い{目|め}で{見|み}れば{信頼|しんらい}の{礎|いしずえ}となるはずだ。",
+  "en": "It has long been said that experts' statements are no longer trusted as much as before. Because of the spread of the internet, anyone can send out information, and as a result experts' opinions tend to be seen as just one of many.\nThat said, experts are not entirely blameless. If they speak with certainty about uncertain matters and later are forced to correct themselves, it is natural that trust is shaken. Perhaps what is really wanted is an attitude of openly showing 'we know this much, but beyond this we don't know'. The honesty to admit what one does not know should, in the long run, become the foundation of trust.",
+  "questions": [
+   {
+    "q": "{筆者|ひっしゃ}によると、{専門家|せんもんか}が{信頼|しんらい}を{失|うしな}う{原因|げんいん}の{一|ひと}つは{何|なに}か。",
+    "q_en": "According to the writer, what is one reason experts lose trust?",
+    "options": [
+     "{発信|はっしん}する{情報|じょうほう}が{少|すく}なすぎること",
+     "{不確|ふたし}かなことを{言|い}い{切|き}ってしまうこと",
+     "インターネットを{使|つか}わないこと",
+     "{一般|いっぱん}の{人|ひと}の{意見|いけん}を{聞|き}かないこと"
+    ],
+    "answer": 1,
+    "why": "Speaking with certainty about uncertain things and then correcting it shakes trust."
+   },
+   {
+    "q": "{筆者|ひっしゃ}が{専門家|せんもんか}に{求|もと}めていることは{何|なに}か。",
+    "q_en": "What does the writer want from experts?",
+    "options": [
+     "{常|つね}に{正|ただ}しい{答|こた}えを{示|しめ}すこと",
+     "{発言|はつげん}を{控|ひか}えること",
+     "{分|わ}からないことは{分|わ}からないと{正直|しょうじき}に{言|い}うこと",
+     "インターネットで{積極的|せっきょくてき}に{発信|はっしん}すること"
+    ],
+    "answer": 2,
+    "why": "The writer values the honesty to admit what one does not know."
+   }
+  ]
+ },
+ {
+  "id": "r1-05",
+  "level": 1,
+  "title_raw": "On Translation",
+  "kind": "long",
+  "text": "{翻訳|ほんやく}とは、ある{言語|げんご}で{書|か}かれたものを{別|べつ}の{言語|げんご}に{置|お}き{換|か}える{作業|さぎょう}だと{一般|いっぱん}には{考|かんが}えられている。しかし、{実際|じっさい}に{翻訳|ほんやく}に{携|たずさ}わってみると、{言葉|ことば}を{一対一|いったいいち}で{対応|たいおう}させることなど{到底|とうてい}できないと{思|おも}い{知|し}らされる。\n{例|たと}えば「{木漏|こも}れ{日|び}」という{語|ご}を{訳|やく}そうとすれば、{説明|せつめい}は{可能|かのう}でも、その{語|ご}が{喚起|かんき}する{情景|じょうけい}までは{伝|つた}えきれない。{訳者|やくしゃ}は、{意味|いみ}を{取|と}るか{響|ひび}きを{取|と}るか、{絶|た}えず{選択|せんたく}を{迫|せま}られる。\nそれゆえ、{翻訳|ほんやく}は{原文|げんぶん}の{不完全|ふかんぜん}な{写|うつ}しだと{見|み}なされがちだ。だが{私|わたし}は、{翻訳|ほんやく}を{一種|いっしゅ}の{創作|そうさく}と{捉|とら}えたい。{訳者|やくしゃ}は{原文|げんぶん}を{深|ふか}く{読|よ}み{込|こ}み、{別|べつ}の{言語|げんご}の{中|なか}にその{精神|せいしん}を{生|い}き{直|なお}させる。{失|うしな}われるものがある{一方|いっぽう}で、{新|あら}たに{生|う}まれるものもあるのだ。",
+  "en": "Translation is generally thought of as the work of replacing something written in one language with another language. But when you actually do translation, you are made to realize that matching words one to one is completely impossible.\nFor example, if you try to translate the word 'komorebi' (sunlight through leaves), you can explain it, but you cannot fully convey the scene the word calls up. Translators are constantly forced to choose between meaning and sound.\nFor that reason, translation tends to be seen as an incomplete copy of the original. But I want to see translation as a kind of creative work. Translators read the original deeply and let its spirit live again inside another language. While some things are lost, other things are newly born.",
+  "questions": [
+   {
+    "q": "「{木漏|こも}れ{日|び}」の{例|れい}で{筆者|ひっしゃ}が{言|い}いたいことは{何|なに}か。",
+    "q_en": "What does the writer want to show with the example of 'komorebi'?",
+    "options": [
+     "{日本語|にほんご}には{訳|やく}せない{言葉|ことば}が{一|ひと}つもないこと",
+     "{言葉|ことば}の{意味|いみ}は{説明|せつめい}できても、それが{呼|よ}び{起|お}こす{情景|じょうけい}は{伝|つた}えにくいこと",
+     "{翻訳|ほんやく}では{響|ひび}きより{意味|いみ}を{優先|ゆうせん}すべきこと",
+     "{訳者|やくしゃ}は{説明|せつめい}を{加|くわ}えてはいけないこと"
+    ],
+    "answer": 1,
+    "why": "The writer says the meaning can be explained but not the scene it evokes."
+   },
+   {
+    "q": "{翻訳|ほんやく}について、{筆者|ひっしゃ}はどのように{考|かんが}えているか。",
+    "q_en": "How does the writer think about translation?",
+    "options": [
+     "{原文|げんぶん}の{不完全|ふかんぜん}な{写|うつ}しにすぎない。",
+     "{言葉|ことば}を{一対一|いったいいち}で{置|お}き{換|か}える{作業|さぎょう}だ。",
+     "{原文|げんぶん}を{読|よ}まなくてもできる{作業|さぎょう}だ。",
+     "{原文|げんぶん}の{精神|せいしん}を{別|べつ}の{言語|げんご}で{新|あら}たに{生|い}かす{創作|そうさく}だ。"
+    ],
+    "answer": 3,
+    "why": "The writer sees translation as creative work that lets the original's spirit live again."
+   },
+   {
+    "q": "{本文|ほんぶん}の{内容|ないよう}と{合|あ}わないものはどれか。",
+    "q_en": "Which does NOT match the text?",
+    "options": [
+     "{翻訳|ほんやく}では{失|うしな}われるものしかない。",
+     "{訳者|やくしゃ}は{常|つね}に{選択|せんたく}を{迫|せま}られる。",
+     "{一般|いっぱん}に{翻訳|ほんやく}は{言葉|ことば}の{置|お}き{換|か}えだと{思|おも}われている。",
+     "{翻訳|ほんやく}によって{生|う}まれるものもある。"
+    ],
+    "answer": 0,
+    "why": "The writer says new things are also born, not only lost."
+   }
+  ]
+ },
+ {
+  "id": "r1-06",
+  "level": 1,
+  "title_raw": "Research Grant Guidelines",
+  "kind": "info",
+  "text": "{若手|わかて}{研究者|けんきゅうしゃ}{支援|しえん}{助成金|じょせいきん}　{募集|ぼしゅう}{要項|ようこう}\n1．{対象|たいしょう}：{申請|しんせい}{時点|じてん}で{満|まん}40{歳|さい}{未満|みまん}の{研究者|けんきゅうしゃ}。ただし、{大学院生|だいがくいんせい}は{指導|しどう}{教員|きょういん}の{推薦|すいせん}がある{場合|ばあい}に{限|かぎ}る。\n2．{助成額|じょせいがく}：1{件|けん}につき{上限|じょうげん}200{万円|まんえん}。{共同|きょうどう}{研究|けんきゅう}の{場合|ばあい}は{上限|じょうげん}300{万円|まんえん}とする。\n3．{助成|じょせい}{期間|きかん}：{採択|さいたく}{決定|けってい}{後|ご}1{年間|ねんかん}。\n4．{提出|ていしゅつ}{書類|しょるい}：{申請書|しんせいしょ}、{研究|けんきゅう}{計画書|けいかくしょ}、{業績|ぎょうせき}{一覧|いちらん}。{大学院生|だいがくいんせい}は{推薦書|すいせんしょ}を{併|あわ}せて{提出|ていしゅつ}すること。\n5．{留意|りゅうい}{事項|じこう}：{他|た}の{助成金|じょせいきん}との{重複|ちょうふく}{申請|しんせい}は{妨|さまた}げないが、{同一|どういつ}{内容|ないよう}で{両方|りょうほう}に{採択|さいたく}された{場合|ばあい}は、いずれか{一方|いっぽう}を{辞退|じたい}しなければならない。{締切|しめきり}{後|ご}の{書類|しょるい}の{差|さ}し{替|か}えには{一切|いっさい}{応|おう}じない。",
+  "en": "Young Researcher Support Grant: Application Guidelines\n1. Eligibility: researchers under 40 at the time of application. However, graduate students are eligible only with a recommendation from their supervisor.\n2. Amount: up to 2 million yen per project. For joint research, up to 3 million yen.\n3. Period: one year after the decision to accept.\n4. Documents: application form, research plan, list of achievements. Graduate students must also submit a recommendation letter.\n5. Notes: applying to other grants at the same time is allowed, but if the same project is accepted by both, you must decline one of them. No replacement of documents will be accepted after the deadline.",
+  "questions": [
+   {
+    "q": "{大学院生|だいがくいんせい}のリーさん（28{歳|さい}）が{一人|ひとり}で{申請|しんせい}する{場合|ばあい}、{提出|ていしゅつ}{書類|しょるい}は{何点|なんてん}か。",
+    "q_en": "Lee, a 28-year-old graduate student, applies alone. How many documents must be submitted?",
+    "options": [
+     "2{点|てん}",
+     "3{点|てん}",
+     "4{点|てん}",
+     "5{点|てん}"
+    ],
+    "answer": 2,
+    "why": "Three standard documents plus the recommendation letter make four."
+   },
+   {
+    "q": "この{要項|ようこう}の{内容|ないよう}と{合|あ}っているものはどれか。",
+    "q_en": "Which matches these guidelines?",
+    "options": [
+     "{他|た}の{助成金|じょせいきん}に{申請|しんせい}している{人|ひと}は{応募|おうぼ}できない。",
+     "{締切|しめきり}{後|ご}でも{書類|しょるい}を{直|なお}すことができる。",
+     "{共同|きょうどう}{研究|けんきゅう}なら{最大|さいだい}300{万円|まんえん}まで{受|う}けられる。",
+     "{助成|じょせい}{期間|きかん}は{申請|しんせい}した{日|ひ}から1{年間|ねんかん}だ。"
+    ],
+    "answer": 2,
+    "why": "Joint research can receive up to 3 million yen."
+   }
+  ]
+ },
+ {
+  "id": "r1-07",
+  "level": 1,
+  "title_raw": "Two Views on AI in Schools",
+  "kind": "compare",
+  "text": "A\n{生成|せいせい}AIの{教育|きょういく}{現場|げんば}への{導入|どうにゅう}には{慎重|しんちょう}であるべきだ。{学習|がくしゅう}の{本質|ほんしつ}は、{分|わ}からないことに{向|む}き{合|あ}い、{自力|じりき}で{理解|りかい}に{至|いた}る{過程|かてい}にある。AIが{即座|そくざ}に{答|こた}えを{示|しめ}してしまえば、その{過程|かてい}は{省|はぶ}かれ、{学|まな}ぶ{力|ちから}そのものが{損|そこ}なわれかねない。\nB\nAIを{教室|きょうしつ}から{締|し}め{出|だ}したところで、{生徒|せいと}は{家|いえ}で{使|つか}うだけだ。ならば、{使|つか}い{方|かた}を{教|おし}えるほうが{理|り}にかなっている。AIの{答|こた}えを{鵜呑|うの}みにせず、{根拠|こんきょ}を{確|たし}かめ、{批判的|ひはんてき}に{検討|けんとう}する。そうした{姿勢|しせい}を{身|み}につけさせることこそ、これからの{教育|きょういく}の{役割|やくわり}ではないか。",
+  "en": "A\nWe should be careful about bringing generative AI into schools. The essence of learning lies in the process of facing what you do not understand and reaching understanding by yourself. If AI shows the answer instantly, that process is skipped, and the very ability to learn could be damaged.\nB\nEven if AI is shut out of the classroom, students will just use it at home. In that case, it makes more sense to teach how to use it: not to swallow AI's answers whole, but to check the evidence and examine them critically. Isn't teaching that attitude exactly the role of education from now on?",
+  "questions": [
+   {
+    "q": "AとBの{意見|いけん}について{正|ただ}しいものはどれか。",
+    "q_en": "Which is correct about the opinions of A and B?",
+    "options": [
+     "AはAIの{導入|どうにゅう}に{慎重|しんちょう}で、BはAIの{使|つか}い{方|かた}を{教|おし}えるべきだと{考|かんが}えている。",
+     "AもBも、AIを{教室|きょうしつ}で{禁止|きんし}すべきだと{考|かんが}えている。",
+     "AはAIを{積極的|せっきょくてき}に{使|つか}うべきだと{考|かんが}え、Bは{反対|はんたい}している。",
+     "AもBも、AIの{答|こた}えは{信頼|しんらい}できると{考|かんが}えている。"
+    ],
+    "answer": 0,
+    "why": "A is cautious and B wants schools to teach how to use AI."
+   },
+   {
+    "q": "Bが{教育|きょういく}の{役割|やくわり}として{挙|あ}げているものは{何|なに}か。",
+    "q_en": "What does B give as the role of education?",
+    "options": [
+     "AIを{使|つか}わずに{答|こた}えを{出|だ}す{力|ちから}を{育|そだ}てること",
+     "AIの{答|こた}えを{批判的|ひはんてき}に{検討|けんとう}する{姿勢|しせい}を{身|み}につけさせること",
+     "{家|いえ}でのAIの{使用|しよう}を{禁止|きんし}すること",
+     "AIの{仕組|しく}みを{技術的|ぎじゅつてき}に{教|おし}えること"
+    ],
+    "answer": 1,
+    "why": "B says education should teach students to check AI answers critically."
+   }
+  ]
+ },
+ {
+  "id": "r1-08",
+  "level": 1,
+  "title_raw": "Two Views on Lifetime Employment",
+  "kind": "compare",
+  "text": "A\n{終身雇用|しゅうしんこよう}は、もはや{時代|じだい}に{合|あ}わない。{技術|ぎじゅつ}の{変化|へんか}が{激|はげ}しい{今日|こんにち}、{一|ひと}つの{会社|かいしゃ}で{培|つちか}った{技能|ぎのう}がいつまでも{通用|つうよう}する{保証|ほしょう}はない。{個人|こじん}が{自|みずか}らのキャリアを{主体的|しゅたいてき}に{築|きず}き、{必要|ひつよう}に{応|おう}じて{転職|てんしょく}できる{社会|しゃかい}のほうが{健全|けんぜん}だ。\nB\n{終身雇用|しゅうしんこよう}の{弊害|へいがい}は{否定|ひてい}しない。しかし、{長期|ちょうき}の{雇用|こよう}が{保障|ほしょう}されているからこそ、{企業|きぎょう}は{時間|じかん}をかけて{人材|じんざい}を{育|そだ}て、{社員|しゃいん}は{安心|あんしん}して{技能|ぎのう}を{磨|みが}けるという{面|めん}もある。{制度|せいど}を{一気|いっき}に{捨|す}て{去|さ}るのではなく、その{長所|ちょうしょ}を{生|い}かしつつ{柔軟性|じゅうなんせい}を{高|たか}める{道|みち}を{探|さぐ}るべきだ。",
+  "en": "A\nLifetime employment no longer fits the times. Today, when technology changes rapidly, there is no guarantee that skills built at one company will remain useful forever. A society where individuals build their own careers actively and can change jobs when needed is healthier.\nB\nI do not deny the harms of lifetime employment. But because long-term employment is guaranteed, companies can take time to develop people, and employees can improve their skills with peace of mind. Rather than throwing the system away all at once, we should look for a way to make it more flexible while keeping its strengths.",
+  "questions": [
+   {
+    "q": "Bは{終身雇用|しゅうしんこよう}についてどう{考|かんが}えているか。",
+    "q_en": "What does B think about lifetime employment?",
+    "options": [
+     "{問題|もんだい}はまったくないので、このまま{続|つづ}けるべきだ。",
+     "すぐに{廃止|はいし}すべきだ。",
+     "{良|よ}い{点|てん}を{残|のこ}しながら、より{柔軟|じゅうなん}にすべきだ。",
+     "{転職|てんしょく}を{禁止|きんし}すべきだ。"
+    ],
+    "answer": 2,
+    "why": "B wants to keep its strengths while making it more flexible."
+   },
+   {
+    "q": "AとBの{共通|きょうつう}{点|てん}は{何|なに}か。",
+    "q_en": "What do A and B have in common?",
+    "options": [
+     "{終身雇用|しゅうしんこよう}を{完全|かんぜん}に{支持|しじ}している。",
+     "{社員|しゃいん}の{技能|ぎのう}について{触|ふ}れている。",
+     "{企業|きぎょう}が{人材|じんざい}を{育|そだ}てるべきではないと{述|の}べている。",
+     "{技術|ぎじゅつ}の{変化|へんか}は{遅|おそ}いと{述|の}べている。"
+    ],
+    "answer": 1,
+    "why": "Both A and B talk about employees' skills."
+   }
+  ]
+ },
+ {
+  "id": "r1-09",
+  "level": 1,
+  "title_raw": "The Courage to Be Bored",
+  "kind": "long",
+  "text": "{退屈|たいくつ}を{恐|おそ}れる{時代|じだい}である。{電車|でんしゃ}を{待|ま}つ{数分|すうふん}でさえ、{我々|われわれ}は{反射的|はんしゃてき}に{画面|がめん}に{手|て}を{伸|の}ばす。{暇|ひま}な{時間|じかん}は{埋|う}めるべき{空白|くうはく}とみなされ、{何|なに}もしないことは{無駄|むだ}だとさえ{思|おも}われている。\nだが、{退屈|たいくつ}は{本当|ほんとう}に{無益|むえき}なのだろうか。{心理学|しんりがく}の{研究|けんきゅう}には、{退屈|たいくつ}な{作業|さぎょう}の{後|あと}に{創造的|そうぞうてき}な{発想|はっそう}が{生|う}まれやすくなるという{報告|ほうこく}もある。{外|そと}からの{刺激|しげき}が{途絶|とだ}えたとき、{心|こころ}は{内側|うちがわ}へと{向|む}かい、{記憶|きおく}や{思考|しこう}を{自由|じゆう}に{結|むす}びつけ{始|はじ}める。{思|おも}いがけない{着想|ちゃくそう}は、そうした{余白|よはく}から{生|う}まれるのだろう。\n{常|つね}に{何|なに}かで{気|き}を{紛|まぎ}らわせている{限|かぎ}り、{我々|われわれ}はこの{内|うち}なる{営|いとな}みの{機会|きかい}を{逃|のが}し{続|つづ}ける。{退屈|たいくつ}に{耐|た}えることは、{現代|げんだい}においては{一種|いっしゅ}の{勇気|ゆうき}を{要|よう}するのかもしれない。",
+  "en": "This is an age that fears boredom. Even in the few minutes waiting for a train, we reach for a screen by reflex. Free time is seen as a blank to be filled, and doing nothing is even thought of as a waste.\nBut is boredom really useless? Some psychology research reports that creative ideas come more easily after a boring task. When outside stimulation stops, the mind turns inward and begins to freely connect memories and thoughts. Unexpected ideas are probably born from such empty space.\nAs long as we are always distracting ourselves with something, we keep missing the chance for this inner activity. In modern times, putting up with boredom may require a kind of courage.",
+  "questions": [
+   {
+    "q": "{筆者|ひっしゃ}によると、{退屈|たいくつ}なときに{心|こころ}はどうなるか。",
+    "q_en": "According to the writer, what happens to the mind when bored?",
+    "options": [
+     "{何|なに}も{考|かんが}えなくなる。",
+     "{外|そと}からの{刺激|しげき}を{強|つよ}く{求|もと}めるだけになる。",
+     "{疲|つか}れて{集中|しゅうちゅう}できなくなる。",
+     "{内側|うちがわ}に{向|む}かい、{記憶|きおく}や{思考|しこう}を{結|むす}びつけ{始|はじ}める。"
+    ],
+    "answer": 3,
+    "why": "The writer says the mind turns inward and connects memories and thoughts."
+   },
+   {
+    "q": "「{一種|いっしゅ}の{勇気|ゆうき}を{要|よう}する」とあるが、なぜか。",
+    "q_en": "Why does the writer say it 'requires a kind of courage'?",
+    "options": [
+     "{退屈|たいくつ}な{作業|さぎょう}は{危険|きけん}だから",
+     "{現代人|げんだいじん}は{退屈|たいくつ}を{恐|おそ}れ、すぐに{気|き}を{紛|まぎ}らわせようとするから",
+     "{退屈|たいくつ}すると{周|まわ}りの{人|ひと}に{笑|わら}われるから",
+     "{創造的|そうぞうてき}な{仕事|しごと}は{難|むずか}しいから"
+    ],
+    "answer": 1,
+    "why": "People today fear boredom and reach for distractions by reflex."
+   },
+   {
+    "q": "{筆者|ひっしゃ}の{考|かんが}えに{最|もっと}も{近|ちか}いものはどれか。",
+    "q_en": "Which is closest to the writer's view?",
+    "options": [
+     "{暇|ひま}な{時間|じかん}は{有効|ゆうこう}に{埋|う}めるべきだ。",
+     "スマートフォンは{完全|かんぜん}にやめるべきだ。",
+     "{退屈|たいくつ}な{時間|じかん}にも{価値|かち}がある。",
+     "{心理学|しんりがく}の{研究|けんきゅう}は{信用|しんよう}できない。"
+    ],
+    "answer": 2,
+    "why": "The writer argues boredom can lead to creative ideas."
+   }
+  ]
+ },
+ {
+  "id": "r1-10",
+  "level": 1,
+  "title_raw": "Convenience Stores and Society",
+  "kind": "long",
+  "text": "コンビニエンスストアは、{今|いま}や{日本|にほん}の{社会|しゃかい}{基盤|きばん}の{一|ひと}つと{言|い}っても{過言|かごん}ではない。{食品|しょくひん}や{日用品|にちようひん}の{販売|はんばい}にとどまらず、{公共|こうきょう}{料金|りょうきん}の{支払|しはら}い、{荷物|にもつ}の{受|う}け{取|と}り、{行政|ぎょうせい}{書類|しょるい}の{発行|はっこう}まで{担|にな}い、{災害|さいがい}{時|じ}には{物資|ぶっし}{供給|きょうきゅう}の{拠点|きょてん}ともなる。\nしかし、その{利便性|りべんせい}は{誰|だれ}かの{負担|ふたん}の{上|うえ}に{成|な}り{立|た}っている。{二十四時間|にじゅうよじかん}{営業|えいぎょう}を{支|ささ}える{人手|ひとで}は{慢性的|まんせいてき}に{不足|ふそく}し、{加盟店|かめいてん}のオーナーが{長時間|ちょうじかん}{労働|ろうどう}を{強|し}いられる{例|れい}も{少|すく}なくない。{近年|きんねん}、{深夜|しんや}{営業|えいぎょう}を{取|と}りやめる{店舗|てんぽ}が{現|あらわ}れ{始|はじ}めたのは、その{表|あらわ}れだろう。\n{我々|われわれ}は「いつでも{開|あ}いている」ことを{当然|とうぜん}と{考|かんが}えすぎてはいなかったか。{便利|べんり}さを{享受|きょうじゅ}するのであれば、それを{支|ささ}える{人々|ひとびと}の{働|はたら}き{方|かた}にも{目|め}を{向|む}ける{必要|ひつよう}がある。",
+  "en": "It is no exaggeration to say that convenience stores are now part of Japan's social infrastructure. They do not stop at selling food and daily goods; they handle utility payments, package pickups and even the issuing of government documents, and in disasters they become bases for supplying goods.\nHowever, that convenience rests on someone's burden. The staff needed to run 24 hours are always in short supply, and there are many cases of franchise owners forced to work long hours. The fact that in recent years some stores have started to stop late-night opening is probably a sign of this.\nHaven't we taken 'always open' too much for granted? If we enjoy convenience, we also need to look at the working conditions of the people who support it.",
+  "questions": [
+   {
+    "q": "{本文|ほんぶん}で{述|の}べられているコンビニの{役割|やくわり}でないものはどれか。",
+    "q_en": "Which is NOT a role of convenience stores described in the text?",
+    "options": [
+     "{公共|こうきょう}{料金|りょうきん}の{支払|しはら}い",
+     "{災害|さいがい}{時|じ}の{物資|ぶっし}{供給|きょうきゅう}",
+     "{医療|いりょう}{相談|そうだん}",
+     "{行政|ぎょうせい}{書類|しょるい}の{発行|はっこう}"
+    ],
+    "answer": 2,
+    "why": "Medical consultation is not mentioned in the text."
+   },
+   {
+    "q": "「その{表|あらわ}れ」とは{何|なに}の{表|あらわ}れか。",
+    "q_en": "'A sign of this': a sign of what?",
+    "options": [
+     "コンビニの{利便性|りべんせい}が{高|たか}まっていること",
+     "{働|はたら}く{人|ひと}の{負担|ふたん}が{大|おお}きくなっていること",
+     "{客|きゃく}が{深夜|しんや}に{来|こ}なくなったこと",
+     "{災害|さいがい}が{増|ふ}えていること"
+    ],
+    "answer": 1,
+    "why": "Stores stopping late-night hours reflects staff shortages and long hours."
+   },
+   {
+    "q": "{筆者|ひっしゃ}が{最|もっと}も{言|い}いたいことは{何|なに}か。",
+    "q_en": "What does the writer most want to say?",
+    "options": [
+     "コンビニは{二十四時間|にじゅうよじかん}{営業|えいぎょう}を{続|つづ}けるべきだ。",
+     "コンビニの{数|かず}を{減|へ}らすべきだ。",
+     "コンビニの{役割|やくわり}をもっと{増|ふ}やすべきだ。",
+     "{便利|べんり}さを{支|ささ}える{人|ひと}の{働|はたら}き{方|かた}にも{目|め}を{向|む}けるべきだ。"
+    ],
+    "answer": 3,
+    "why": "The writer ends by saying we must look at the workers' conditions."
+   }
+  ]
+ }
+]

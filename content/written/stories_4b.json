@@ -1,0 +1,698 @@
+[
+ {
+  "id": "s4-013",
+  "level": 4,
+  "title": "{冷蔵庫|れいぞうこ}のプリン",
+  "title_en": "The Pudding in the Fridge",
+  "genre_raw": "Mystery",
+  "paragraphs": [
+   {
+    "jp": "{会社|かいしゃ}の{冷蔵庫|れいぞうこ}に、わたしはプリンを{入|い}れておきました。{駅前|えきまえ}の{有名|ゆうめい}な{店|みせ}のプリンで、{一|ひと}つ{五百円|ごひゃくえん}もします。ふたには「たなか」と{書|か}いた{小|ちい}さい{紙|かみ}をはっておきました。{午後|ごご}{三時|さんじ}に{食|た}べようと{思|おも}っていたのです。",
+    "en": "I put a pudding in the office fridge. It was from a famous shop in front of the station and cost as much as 500 yen. I had stuck a small piece of paper with \"Tanaka\" written on it to the lid. I was planning to eat it at 3 p.m."
+   },
+   {
+    "jp": "でも、{三時|さんじ}に{冷蔵庫|れいぞうこ}を{開|あ}けると、プリンがありませんでした。ごみ{箱|ばこ}には、からのカップが{捨|す}ててありました。「だれが{食|た}べたの？」わたしは{同|おな}じ{部屋|へや}の{三人|さんにん}に{聞|き}いてみました。",
+    "en": "But when I opened the fridge at three, the pudding was gone. An empty cup had been thrown in the bin. \"Who ate it?\" I asked the three people in my room."
+   },
+   {
+    "jp": "{鈴木|すずき}さんは「ぼくは{甘|あま}いものが{好|す}きじゃないから、{食|た}べないよ」と{言|い}いました。{木村|きむら}さんは「{今日|きょう}は{朝|あさ}からずっと{外|そと}で{仕事|しごと}をしていて、さっき{帰|かえ}ってきたばかりです」と{言|い}いました。{山田|やまだ}さんは「{昼|ひる}ごはんのあとで、{自分|じぶん}のプリンを{食|た}べました。とてもおいしかったですよ」と{笑|わら}いました。",
+    "en": "Suzuki said, \"I don't like sweet things, so I wouldn't eat it.\" Kimura said, \"I've been working outside since this morning and only just got back.\" Yamada smiled and said, \"After lunch I ate my own pudding. It was really good.\""
+   },
+   {
+    "jp": "わたしはもう{一度|いちど}{冷蔵庫|れいぞうこ}の{中|なか}をよく{見|み}ました。すると、{一番|いちばん}{奥|おく}に、{同|おな}じ{店|みせ}のプリンが{一|ひと}つありました。ふたには「やまだ」と{書|か}いてあります。そして{冷蔵庫|れいぞうこ}の{前|まえ}の{床|ゆか}には、「たなか」と{書|か}いた{小|ちい}さい{紙|かみ}が{落|お}ちていました。",
+    "en": "I looked carefully inside the fridge once more. At the very back there was one pudding from the same shop. \"Yamada\" was written on its lid. And on the floor in front of the fridge lay the small piece of paper that said \"Tanaka\"."
+   },
+   {
+    "jp": "「{山田|やまだ}さん、ちょっと{来|き}てください」わたしが{奥|おく}のプリンを{見|み}せると、{山田|やまだ}さんの{顔|かお}が{赤|あか}くなりました。「すみません！{名前|なまえ}がなかったから、{自分|じぶん}のだと{思|おも}って……」{次|つぎ}の{日|ひ}、{山田|やまだ}さんはおわびにプリンを{二|ふた}つ{買|か}ってきてくれました。",
+    "en": "\"Yamada, could you come here for a moment?\" When I showed him the pudding at the back, Yamada's face went red. \"I'm sorry! There was no name on it, so I thought it was mine...\" The next day, Yamada bought me two puddings to say sorry."
+   }
+  ],
+  "questions": [
+   {
+    "q": "わたしのプリンを{食|た}べたのはだれですか。",
+    "q_en": "Who ate my pudding?",
+    "options": [
+     "{鈴木|すずき}さん",
+     "{木村|きむら}さん",
+     "{山田|やまだ}さん",
+     "{部長|ぶちょう}"
+    ],
+    "answer": 2,
+    "why": "Yamada ate it, and his own pudding was still at the back of the fridge."
+   },
+   {
+    "q": "どうして{山田|やまだ}さんはまちがえましたか。",
+    "q_en": "Why did Yamada make a mistake?",
+    "options": [
+     "{冷蔵庫|れいぞうこ}が{暗|くら}かったから",
+     "{名前|なまえ}の{紙|かみ}が{落|お}ちていたから",
+     "{甘|あま}いものが{大好|だいす}きだから",
+     "{田中|たなか}さんに{頼|たの}まれたから"
+    ],
+    "answer": 1,
+    "why": "The name paper had fallen off, so he thought it was his pudding."
+   }
+  ]
+ },
+ {
+  "id": "s4-014",
+  "level": 4,
+  "title": "{消|き}えた{切符|きっぷ}",
+  "title_en": "The Missing Ticket",
+  "genre_raw": "Mystery",
+  "paragraphs": [
+   {
+    "jp": "{日曜日|にちようび}、ケンさんはおばあさんの{家|いえ}へ{行|い}くために、{電車|でんしゃ}に{乗|の}りました。{一時間|いちじかん}ぐらいかかるので、{駅|えき}の{本屋|ほんや}でミステリーの{本|ほん}を{一冊|いっさつ}{買|か}いました。{電車|でんしゃ}の{中|なか}で、ケンさんはずっとその{本|ほん}を{読|よ}んでいました。",
+    "en": "On Sunday, Ken got on a train to go to his grandmother's house. The trip takes about an hour, so he bought a mystery novel at the station bookshop. On the train, Ken read the book the whole time."
+   },
+   {
+    "jp": "{途中|とちゅう}で、{友|とも}だちから{電話|でんわ}がかかってきました。ケンさんは{急|いそ}いで{本|ほん}を{閉|と}じましたが、{読|よ}んでいたページがわからなくならないように、{手|て}に{持|も}っていた{小|ちい}さい{紙|かみ}をはさみました。それから{本|ほん}をかばんに{入|い}れて、ドアの{近|ちか}くで{話|はな}しました。",
+    "en": "Partway through, a friend called him. Ken quickly closed the book, but so that he wouldn't lose his page, he slipped in a small piece of paper he had in his hand. Then he put the book in his bag and talked near the door."
+   },
+   {
+    "jp": "{駅|えき}に{着|つ}いて、{改札|かいさつ}の{前|まえ}でケンさんは{困|こま}ってしまいました。{切符|きっぷ}がないのです。ズボンのポケットにも、シャツのポケットにも、{財布|さいふ}の{中|なか}にもありません。「{確|たし}かに{買|か}ったのに……{落|お}としてしまったのかな」",
+    "en": "When he arrived at the station, Ken got into trouble in front of the ticket gate. His ticket was gone. It wasn't in his trouser pockets, his shirt pocket, or his wallet. \"I definitely bought one... Did I drop it?\""
+   },
+   {
+    "jp": "{駅員|えきいん}さんが「どうしましたか」と{聞|き}きました。ケンさんが{説明|せつめい}すると、{駅員|えきいん}さんは「{電車|でんしゃ}の{中|なか}で{何|なに}をしていましたか」と{聞|き}きました。「ずっと{本|ほん}を{読|よ}んでいました。あ、{途中|とちゅう}で{電話|でんわ}もしました」",
+    "en": "A station worker asked, \"What's the matter?\" When Ken explained, the worker asked, \"What were you doing on the train?\" \"I was reading a book the whole time. Oh, and I took a phone call partway through.\""
+   },
+   {
+    "jp": "そのとき、ケンさんは{思|おも}い{出|だ}しました。かばんから{本|ほん}を{出|だ}して{開|ひら}くと、ページの{間|あいだ}から{切符|きっぷ}が{出|で}てきました。「しおりの{代|か}わりに{使|つか}っていたんだ！」{駅員|えきいん}さんは{笑|わら}って、「{今度|こんど}は、ちゃんとしおりを{買|か}ってくださいね」と{言|い}いました。",
+    "en": "Just then, Ken remembered. He took the book out of his bag and opened it, and the ticket came out from between the pages. \"I was using it as a bookmark!\" The station worker laughed and said, \"Next time, please buy a proper bookmark.\""
+   }
+  ],
+  "questions": [
+   {
+    "q": "{切符|きっぷ}はどこにありましたか。",
+    "q_en": "Where was the ticket?",
+    "options": [
+     "{財布|さいふ}の{中|なか}",
+     "ズボンのポケット",
+     "{電車|でんしゃ}の{床|ゆか}",
+     "{本|ほん}のページの{間|あいだ}"
+    ],
+    "answer": 3,
+    "why": "Ken had put the ticket between the pages of his book."
+   },
+   {
+    "q": "ケンさんはどうして{本|ほん}に{紙|かみ}をはさみましたか。",
+    "q_en": "Why did Ken put a piece of paper in his book?",
+    "options": [
+     "{電話|でんわ}がかかってきて、{本|ほん}を{閉|と}じたから",
+     "{本|ほん}がつまらなかったから",
+     "{駅員|えきいん}さんに{言|い}われたから",
+     "{切符|きっぷ}を{隠|かく}したかったから"
+    ],
+    "answer": 0,
+    "why": "He closed the book to answer the phone and didn't want to lose his page."
+   }
+  ]
+ },
+ {
+  "id": "s4-015",
+  "level": 4,
+  "title": "{夜|よる}の{変|へん}な{音|おと}",
+  "title_en": "The Strange Noise at Night",
+  "genre_raw": "Mystery",
+  "paragraphs": [
+   {
+    "jp": "{先月|せんげつ}、わたしは{新|あたら}しいアパートに{引|ひ}っ{越|こ}しました。{駅|えき}から{近|ちか}くて、{部屋|へや}も{明|あか}るくて、とても{気|き}に{入|い}っています。でも、{一|ひと}つだけ{問題|もんだい}がありました。{夜|よる}になると、どこかから「ポン、ポン」という{変|へん}な{音|おと}が{聞|き}こえるのです。",
+    "en": "Last month I moved into a new apartment. It's close to the station and the rooms are bright, so I really like it. But there was one problem. At night, I could hear a strange \"pon, pon\" sound coming from somewhere."
+   },
+   {
+    "jp": "{最初|さいしょ}は{隣|となり}の{人|ひと}だと{思|おも}いました。でも、{隣|となり}の{部屋|へや}にはまだだれも{住|す}んでいません。{上|うえ}の{階|かい}のおばあさんに{聞|き}いてみると、「わたしは{毎晩|まいばん}{九時|くじ}に{寝|ね}ますよ」と{言|い}われました。{音|おと}は{十一時|じゅういちじ}ごろから{始|はじ}まるので、おばあさんでもありません。",
+    "en": "At first I thought it was my neighbour. But nobody lives in the room next door yet. When I asked the old lady upstairs, she said, \"I go to bed at nine every night.\" The sound starts around eleven, so it wasn't her either."
+   },
+   {
+    "jp": "わたしは{音|おと}が{聞|き}こえた{日|ひ}をノートに{書|か}いておくことにしました。{月曜日|げつようび}は{雨|あめ}で、{音|おと}がしました。{火曜日|かようび}と{水曜日|すいようび}は{晴|は}れていて、{音|おと}はしませんでした。{木曜日|もくようび}はまた{雨|あめ}が{降|ふ}って、{音|おと}がしました。{金曜日|きんようび}の{夜|よる}、{雨|あめ}の{音|おと}を{聞|き}きながら、わたしは「あっ」と{思|おも}いました。",
+    "en": "I decided to write down in a notebook the days I heard the sound. Monday was rainy, and there was the sound. Tuesday and Wednesday were sunny, and there was no sound. On Thursday it rained again, and there was the sound. On Friday night, while listening to the rain, I suddenly realised something."
+   },
+   {
+    "jp": "{窓|まど}を{開|あ}けて、ベランダを{見|み}てみました。{上|うえ}のベランダから{水|みず}が{落|お}ちてきて、エアコンの{外|そと}の{機械|きかい}に{当|あ}たっていました。「ポン、ポン」。{音|おと}の{正体|しょうたい}はこれだったのです。",
+    "en": "I opened the window and looked at the balcony. Water was falling from the balcony above and hitting the outdoor unit of my air conditioner. \"Pon, pon.\" That was what the sound really was."
+   },
+   {
+    "jp": "{次|つぎ}の{日|ひ}、{大家|おおや}さんに{話|はな}すと、すぐにパイプを{直|なお}してくれました。それから、{夜|よる}は{静|しず}かになりました。でも、{雨|あめ}の{夜|よる}にあの{音|おと}が{聞|き}こえないと、{少|すこ}しさびしい{気|き}もします。",
+    "en": "The next day I told the landlord, and he fixed the pipe right away. After that, the nights became quiet. But on rainy nights, when I don't hear that sound, I feel a little lonely."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{音|おと}が{聞|き}こえたのは、どんな{夜|よる}でしたか。",
+    "q_en": "On what kind of nights could the sound be heard?",
+    "options": [
+     "{晴|は}れた{夜|よる}",
+     "{雨|あめ}の{夜|よる}",
+     "{風|かぜ}が{強|つよ}い{夜|よる}",
+     "{月曜日|げつようび}の{夜|よる}だけ"
+    ],
+    "answer": 1,
+    "why": "The notebook showed the sound only came on rainy days."
+   },
+   {
+    "q": "{音|おと}の{原因|げんいん}は{何|なん}でしたか。",
+    "q_en": "What was causing the sound?",
+    "options": [
+     "{隣|となり}の{部屋|へや}の{人|ひと}",
+     "{上|うえ}の{階|かい}のおばあさん",
+     "エアコンの{機械|きかい}に{落|お}ちる{水|みず}",
+     "{冷蔵庫|れいぞうこ}の{音|おと}"
+    ],
+    "answer": 2,
+    "why": "Water from the balcony above was hitting the air-conditioner unit."
+   }
+  ]
+ },
+ {
+  "id": "s4-016",
+  "level": 4,
+  "title": "まちがえた{傘|かさ}",
+  "title_en": "The Wrong Umbrella",
+  "genre_raw": "Mystery",
+  "paragraphs": [
+   {
+    "jp": "{雨|あめ}の{日|ひ}の{夕方|ゆうがた}、ミカさんは{仕事|しごと}が{終|お}わって、{会社|かいしゃ}の{入|い}り{口|ぐち}の{傘立|かさた}てから{黒|くろ}い{傘|かさ}を{取|と}りました。{家|いえ}に{帰|かえ}って、{傘|かさ}を{乾|かわ}かそうと{開|ひら}いたとき、ミカさんは「あれ？」と{言|い}いました。",
+    "en": "One rainy evening, Mika finished work and took a black umbrella from the stand at the office entrance. When she got home and opened it to dry, she said, \"Huh?\""
+   },
+   {
+    "jp": "ミカさんの{傘|かさ}は、{先週|せんしゅう}の{強|つよ}い{風|かぜ}で{骨|ほね}が{一本|いっぽん}{折|お}れていました。でも、この{傘|かさ}はどこも{壊|こわ}れていません。それに、{持|も}つところに{小|ちい}さいねこのシールがはってあります。「まちがえて、ほかの{人|ひと}の{傘|かさ}を{持|も}ってきてしまった……」",
+    "en": "One of the ribs of Mika's umbrella had broken in the strong wind last week. But this umbrella wasn't broken anywhere. And there was a small cat sticker on the handle. \"I've taken someone else's umbrella by mistake...\""
+   },
+   {
+    "jp": "だれの{傘|かさ}でしょうか。ミカさんは{会社|かいしゃ}の{人|ひと}たちのことを{考|かんが}えました。{部長|ぶちょう}はいつも{車|くるま}で{来|く}るので、{傘|かさ}を{使|つか}いません。{新|あたら}しく{入|はい}った{西川|にしかわ}さんは、{青|あお}い{傘|かさ}を{持|も}っています。{隣|となり}の{席|せき}の{森|もり}さんは、ねこが{大好|だいす}きで、{机|つくえ}の{上|うえ}にもねこのカップやペンがあります。",
+    "en": "Whose umbrella could it be? Mika thought about the people at work. The manager always comes by car, so he doesn't use an umbrella. Nishikawa, who just joined, has a blue umbrella. Mori, who sits next to her, loves cats, and even has a cat cup and cat pens on her desk."
+   },
+   {
+    "jp": "{次|つぎ}の{朝|あさ}、ミカさんが{会社|かいしゃ}に{着|つ}くと、{森|もり}さんが{困|こま}った{顔|かお}で{話|はな}しかけてきました。「ねえ、{聞|き}いて。{昨日|きのう}、{傘|かさ}を{開|ひら}いたら{骨|ほね}が{折|お}れていて、{雨|あめ}にぬれちゃったの。わたしの{傘|かさ}、{壊|こわ}れてなかったはずなのに」",
+    "en": "The next morning, when Mika arrived at work, Mori came to talk to her looking troubled. \"Hey, listen. Yesterday when I opened my umbrella, a rib was broken and I got soaked in the rain. My umbrella shouldn't have been broken.\""
+   },
+   {
+    "jp": "ミカさんは{笑|わら}いながら、ねこのシールの{傘|かさ}を{見|み}せました。「{森|もり}さん、ごめんなさい。{実|じつ}は……」{二人|ふたり}は{傘|かさ}を{取|と}り{替|か}えました。そしてその{日|ひ}の{昼休|ひるやす}み、ミカさんは{森|もり}さんにお{弁当|べんとう}をごちそうして、{自分|じぶん}の{新|あたら}しい{傘|かさ}も{買|か}いに{行|い}きました。",
+    "en": "Laughing, Mika showed her the umbrella with the cat sticker. \"Mori, I'm sorry. Actually...\" The two of them swapped umbrellas. And at lunchtime that day, Mika treated Mori to a bento and also went to buy a new umbrella for herself."
+   }
+  ],
+  "questions": [
+   {
+    "q": "ミカさんが{持|も}って{帰|かえ}った{傘|かさ}は、だれのですか。",
+    "q_en": "Whose umbrella did Mika take home?",
+    "options": [
+     "{部長|ぶちょう}",
+     "{西川|にしかわ}さん",
+     "ミカさん",
+     "{森|もり}さん"
+    ],
+    "answer": 3,
+    "why": "It had a cat sticker, and Mori, who loves cats, got Mika's broken umbrella."
+   },
+   {
+    "q": "ミカさんは、どうしてまちがいに{気|き}がつきましたか。",
+    "q_en": "How did Mika notice her mistake?",
+    "options": [
+     "{傘|かさ}の{色|いろ}がちがったから",
+     "{骨|ほね}が{折|お}れていなかったから",
+     "{傘|かさ}が{大|おお}きすぎたから",
+     "{名前|なまえ}が{書|か}いてあったから"
+    ],
+    "answer": 1,
+    "why": "Her own umbrella had a broken rib, but this one was not broken."
+   }
+  ]
+ },
+ {
+  "id": "s4-017",
+  "level": 4,
+  "title": "{忘|わす}れたパスワード",
+  "title_en": "The Forgotten Password",
+  "genre_raw": "Mystery",
+  "paragraphs": [
+   {
+    "jp": "{父|ちち}は{先月|せんげつ}、{新|あたら}しいパソコンを{買|か}いました。そのとき、「{安全|あんぜん}のために、{難|むずか}しいパスワードにしよう」と{言|い}って、だれにも{教|おし}えませんでした。ヒントだけをメモに{書|か}いて、{机|つくえ}の{引|ひ}き{出|だ}しに{入|い}れておきました。",
+    "en": "Last month my father bought a new computer. At the time he said, \"For safety, I'll make it a difficult password,\" and he didn't tell anyone. He only wrote a hint on a note and put it in his desk drawer."
+   },
+   {
+    "jp": "ところが{昨日|きのう}、{父|ちち}が{困|こま}った{顔|かお}でわたしを{呼|よ}びました。「パスワードを{忘|わす}れてしまったんだ」メモを{見|み}ると、「{初|はじ}めて{会|あ}った{日|ひ}」と{書|か}いてあります。{父|ちち}は{母|はは}と{初|はじ}めて{会|あ}った{日|ひ}を{入|い}れてみましたが、だめでした。わたしが{生|う}まれた{日|ひ}も、だめでした。",
+    "en": "But yesterday my father called me with a troubled look. \"I've forgotten my password.\" The note said, \"The day we first met.\" My father tried the day he first met my mother, but it didn't work. The day I was born didn't work either."
+   },
+   {
+    "jp": "わたしは{考|かんが}えました。パスワードを{作|つく}ったのは{先月|せんげつ}です。{先月|せんげつ}、{父|ちち}が{一番|いちばん}{喜|よろこ}んでいたことは{何|なん}でしょうか。そのとき、{足|あし}もとで{小|ちい}さい{犬|いぬ}が「ワン」と{鳴|な}きました。{先月|せんげつ}から{家族|かぞく}になった、コロです。",
+    "en": "I thought about it. He made the password last month. What made my father happiest last month? Just then, a small dog at my feet barked, \"Woof.\" It was Koro, who became part of our family last month."
+   },
+   {
+    "jp": "「お{父|とう}さん、コロが{家|いえ}に{来|き}た{日|ひ}を{入|い}れてみて」{父|ちち}は「まさか」と{言|い}いながら、コロの{名前|なまえ}と{日|ひ}にちを{入|い}れました。すると、{画面|がめん}がぱっと{明|あか}るくなりました。",
+    "en": "\"Dad, try the day Koro came to our house.\" Saying \"No way,\" my father typed in Koro's name and the date. Then the screen suddenly lit up."
+   },
+   {
+    "jp": "{父|ちち}は{恥|は}ずかしそうに{笑|わら}いました。「{毎日|まいにち}{散歩|さんぽ}に{行|い}っているのに、{忘|わす}れるなんてね」すると、{後|うし}ろで{聞|き}いていた{母|はは}が「わたしと{会|あ}った{日|ひ}じゃなかったのね」と{言|い}ったので、{父|ちち}はとてもあわてていました。",
+    "en": "My father laughed, embarrassed. \"I walk him every day, and I still forgot.\" Then my mother, who had been listening behind us, said, \"So it wasn't the day you met me,\" and my father got very flustered."
+   }
+  ],
+  "questions": [
+   {
+    "q": "パスワードは{何|なん}でしたか。",
+    "q_en": "What was the password?",
+    "options": [
+     "コロが{家|いえ}に{来|き}た{日|ひ}",
+     "{母|はは}と{初|はじ}めて{会|あ}った{日|ひ}",
+     "わたしが{生|う}まれた{日|ひ}",
+     "パソコンを{買|か}った{日|ひ}"
+    ],
+    "answer": 0,
+    "why": "The screen opened when Dad typed Koro's name and the day Koro came home."
+   },
+   {
+    "q": "わたしは、どうしてコロだとわかりましたか。",
+    "q_en": "How did I figure out it was about Koro?",
+    "options": [
+     "{父|ちち}が{教|おし}えてくれたから",
+     "パスワードを{作|つく}ったのも、コロが{来|き}たのも{先月|せんげつ}だったから",
+     "{母|はは}が{言|い}ったから",
+     "メモにコロと{書|か}いてあったから"
+    ],
+    "answer": 1,
+    "why": "The password was made last month, and Koro joined the family last month."
+   },
+   {
+    "q": "{最後|さいご}に{父|ちち}は、どうしてあわてましたか。",
+    "q_en": "Why did Dad get flustered at the end?",
+    "options": [
+     "パソコンが{壊|こわ}れたから",
+     "コロが{逃|に}げたから",
+     "{仕事|しごと}に{遅|おく}れたから",
+     "{母|はは}に「わたしと{会|あ}った{日|ひ}じゃなかったのね」と{言|い}われたから"
+    ],
+    "answer": 3,
+    "why": "Mom noticed the password was about the dog, not about her."
+   }
+  ]
+ },
+ {
+  "id": "s4-018",
+  "level": 4,
+  "title": "だれもいない{教室|きょうしつ}",
+  "title_en": "The Empty Classroom",
+  "genre_raw": "Mystery",
+  "paragraphs": [
+   {
+    "jp": "その{日|ひ}、レオくんは{電車|でんしゃ}が{遅|おく}れたので、{学校|がっこう}に{着|つ}いたのは{九時|くじ}{十分|じゅっぷん}でした。{急|いそ}いで{階段|かいだん}を{上|あ}がって、{教室|きょうしつ}のドアを{開|あ}けました。「すみません、{遅|おく}れました！」でも、{教室|きょうしつ}にはだれもいませんでした。",
+    "en": "That day Leo's train was late, so he got to school at ten past nine. He hurried up the stairs and opened the classroom door. \"Sorry, I'm late!\" But there was no one in the classroom."
+   },
+   {
+    "jp": "{机|つくえ}の{上|うえ}には、みんなのかばんが{置|お}いてあります。{先生|せんせい}の{机|つくえ}には、まだ{温|あたた}かいお{茶|ちゃ}がありました。{黒板|こくばん}には{今日|きょう}の{日|ひ}にちが{書|か}いてあります。みんな、さっきまでここにいたようです。「どこへ{行|い}ったんだろう。{何|なに}かあったのかな」レオくんは{少|すこ}し{怖|こわ}くなりました。",
+    "en": "Everyone's bags were on the desks. On the teacher's desk there was tea that was still warm. Today's date was written on the blackboard. It looked like everyone had been here until a moment ago. \"Where did they go? Did something happen?\" Leo started to feel a little scared."
+   },
+   {
+    "jp": "レオくんは{昨日|きのう}のことを{思|おも}い{出|だ}そうとしました。{昨日|きのう}、{先生|せんせい}は{帰|かえ}る{前|まえ}に{何|なに}か{言|い}っていました。「{明日|あした}はクラスの{写真|しゃしん}を{撮|と}りますから、きれいな{服|ふく}を{着|き}てきてくださいね」だから、{今朝|けさ}{母|はは}が{新|あたら}しいシャツを{出|だ}してくれたのです。",
+    "en": "Leo tried to remember yesterday. Before they went home, the teacher had said something. \"Tomorrow we'll take the class photo, so please wear nice clothes.\" That was why his mother had put out a new shirt for him this morning."
+   },
+   {
+    "jp": "そのとき、{外|そと}から{笑|わら}い{声|ごえ}が{聞|き}こえました。{窓|まど}から{下|した}を{見|み}ると、{校庭|こうてい}にクラスのみんなが{並|なら}んでいました。{前|まえ}には{大|おお}きいカメラを{持|も}った{人|ひと}が{立|た}っています。",
+    "en": "Just then he heard laughter from outside. When he looked down from the window, the whole class was lined up in the schoolyard. In front of them stood a person holding a big camera."
+   },
+   {
+    "jp": "レオくんは{階段|かいだん}を{走|はし}って{下|お}りました。「レオくん、{間|ま}に{合|あ}ってよかった！」と{先生|せんせい}が{手|て}を{振|ふ}りました。レオくんは{一番|いちばん}{後|うし}ろの{列|れつ}の{真|ま}ん{中|なか}に{立|た}ちました。でも、できた{写真|しゃしん}を{見|み}ると、レオくんだけ{顔|かお}が{真|ま}っ{赤|か}で、とても{苦|くる}しそうでした。",
+    "en": "Leo ran down the stairs. \"Leo, I'm glad you made it in time!\" the teacher said, waving. Leo stood in the middle of the back row. But when he saw the finished photo, he was the only one whose face was bright red and who looked out of breath."
+   }
+  ],
+  "questions": [
+   {
+    "q": "クラスのみんなは、どこにいましたか。",
+    "q_en": "Where was everyone in the class?",
+    "options": [
+     "{図書館|としょかん}",
+     "{校庭|こうてい}",
+     "{体育館|たいいくかん}",
+     "{駅|えき}"
+    ],
+    "answer": 1,
+    "why": "Leo saw them lined up in the schoolyard from the window."
+   },
+   {
+    "q": "どうしてみんなは{教室|きょうしつ}にいませんでしたか。",
+    "q_en": "Why wasn't anyone in the classroom?",
+    "options": [
+     "テストがあったから",
+     "{先生|せんせい}が{休|やす}みだったから",
+     "{電車|でんしゃ}が{遅|おく}れたから",
+     "クラスの{写真|しゃしん}を{撮|と}っていたから"
+    ],
+    "answer": 3,
+    "why": "The teacher had said the class photo would be taken that day."
+   }
+  ]
+ },
+ {
+  "id": "s4-019",
+  "level": 4,
+  "title": "{駅|えき}で{待|ま}つ{犬|いぬ}",
+  "title_en": "The Dog Who Waits at the Station",
+  "genre_raw": "Mystery",
+  "paragraphs": [
+   {
+    "jp": "{毎日|まいにち}{夕方|ゆうがた}、わたしが{使|つか}っている{駅|えき}の{前|まえ}に、{茶色|ちゃいろ}い{犬|いぬ}が{座|すわ}っています。{首|くび}に{赤|あか}いリボンをつけているので、{飼|か}い{主|ぬし}がいるようです。{雨|あめ}の{日|ひ}も{風|かぜ}の{日|ひ}も、{犬|いぬ}は{改札|かいさつ}のほうをじっと{見|み}ています。",
+    "en": "Every evening, a brown dog sits in front of the station I use. It wears a red ribbon around its neck, so it seems to have an owner. On rainy days and windy days, the dog stares at the ticket gates."
+   },
+   {
+    "jp": "ある{日|ひ}、わたしは{犬|いぬ}をしばらく{見|み}ていることにしました。{五時|ごじ}の{電車|でんしゃ}が{着|つ}いても、{犬|いぬ}は{動|うご}きません。でも、{五時半|ごじはん}の{電車|でんしゃ}が{着|つ}くと、{犬|いぬ}は{急|きゅう}に{立|た}ち{上|あ}がって、しっぽを{振|ふ}りました。そして、{出|で}てくる{人|ひと}を{一人|ひとり}ずつ{見|み}ました。{最後|さいご}の{人|ひと}が{出|で}ると、{犬|いぬ}は{下|した}を{向|む}いて、ゆっくり{歩|ある}きはじめました。",
+    "en": "One day I decided to watch the dog for a while. Even when the five o'clock train arrived, the dog didn't move. But when the 5:30 train arrived, the dog suddenly stood up and wagged its tail. Then it looked at each person coming out, one by one. When the last person had come out, the dog looked down and slowly started to walk away."
+   },
+   {
+    "jp": "わたしは{犬|いぬ}について{行|い}きました。{犬|いぬ}は{古|ふる}い{家|いえ}に{入|はい}っていきました。{庭|にわ}にいたおじいさんが、わたしに{気|き}がついて{話|はな}してくれました。「この{子|こ}はハナといいます。{息子|むすこ}が{毎日|まいにち}{五時半|ごじはん}の{電車|でんしゃ}で{帰|かえ}ってきたので、いつも{駅|えき}まで{迎|むか}えに{行|い}っていたんです。でも、{息子|むすこ}は{今年|ことし}の{春|はる}から{遠|とお}い{町|まち}で{働|はたら}いているんですよ」",
+    "en": "I followed the dog. It went into an old house. An old man in the garden noticed me and told me, \"Her name is Hana. My son used to come home on the 5:30 train every day, so she always went to the station to meet him. But since this spring, my son has been working in a faraway town.\""
+   },
+   {
+    "jp": "ハナは、もう{帰|かえ}ってこない{人|ひと}を{待|ま}っていたのです。わたしはおじいさんに{言|い}いました。「{息子|むすこ}さんに、このことを{知|し}らせてあげたらどうですか」おじいさんは「そうだね。{手紙|てがみ}を{書|か}いてみるよ」と{言|い}いました。",
+    "en": "Hana had been waiting for someone who no longer came home. I said to the old man, \"Why don't you let your son know about this?\" The old man said, \"You're right. I'll try writing him a letter.\""
+   },
+   {
+    "jp": "{一|いっ}か{月|げつ}{後|ご}の{日曜日|にちようび}、{駅|えき}の{前|まえ}で、ハナがうれしそうに{跳|と}びはねていました。{五時半|ごじはん}の{電車|でんしゃ}から{降|お}りてきた{若|わか}い{男|おとこ}の{人|ひと}が、ハナを{強|つよ}く{抱|だ}きしめていました。",
+    "en": "One Sunday a month later, Hana was happily jumping around in front of the station. A young man who had got off the 5:30 train was hugging her tightly."
+   }
+  ],
+  "questions": [
+   {
+    "q": "ハナは、どうして{駅|えき}にいましたか。",
+    "q_en": "Why was Hana at the station?",
+    "options": [
+     "{食|た}べ{物|もの}をもらうため",
+     "{息子|むすこ}さんを{迎|むか}えるため",
+     "{電車|でんしゃ}が{好|す}きだから",
+     "{道|みち}がわからなくなったから"
+    ],
+    "answer": 1,
+    "why": "She was waiting to meet the old man's son, as she always used to."
+   },
+   {
+    "q": "どうしてハナは{五時半|ごじはん}の{電車|でんしゃ}のときだけ{立|た}ち{上|あ}がりましたか。",
+    "q_en": "Why did Hana stand up only for the 5:30 train?",
+    "options": [
+     "{駅員|えきいん}さんが{呼|よ}んだから",
+     "おじいさんがその{電車|でんしゃ}で{来|く}るから",
+     "{息子|むすこ}さんがいつもその{電車|でんしゃ}で{帰|かえ}ってきたから",
+     "{一番|いちばん}{人|ひと}が{多|おお}いから"
+    ],
+    "answer": 2,
+    "why": "The son always came home on the 5:30 train."
+   }
+  ]
+ },
+ {
+  "id": "s4-020",
+  "level": 4,
+  "title": "{名前|なまえ}のない{手紙|てがみ}",
+  "title_en": "A Letter with No Name",
+  "genre_raw": "Mystery",
+  "paragraphs": [
+   {
+    "jp": "ある{朝|あさ}、アパートの{郵便受|ゆうびんう}けに{白|しろ}い{封筒|ふうとう}が{入|はい}っていました。{切手|きって}も{住所|じゅうしょ}もなくて、「{二階|にかい}の{方|かた}へ」とだけ{書|か}いてあります。だれかが{直接|ちょくせつ}{入|い}れたようです。{中|なか}には{手紙|てがみ}と、{押|お}し{花|ばな}にした{小|ちい}さい{赤|あか}い{花|はな}が{入|はい}っていました。",
+    "en": "One morning there was a white envelope in my apartment mailbox. It had no stamp and no address; it only said \"To the person on the second floor.\" It seemed someone had put it in by hand. Inside were a letter and a small pressed red flower."
+   },
+   {
+    "jp": "{手紙|てがみ}にはこう{書|か}いてありました。「{毎朝|まいあさ}、{窓|まど}からあなたを{見|み}ていました。あなたが{手|て}を{振|ふ}ってくれるのが、{一日|いちにち}で{一番|いちばん}の{楽|たの}しみでした。{明日|あした}、{娘|むすめ}の{家|いえ}へ{引|ひ}っ{越|こ}します。どうぞお{元気|げんき}で」{名前|なまえ}はどこにもありませんでした。",
+    "en": "The letter said: \"Every morning I watched you from my window. You waving to me was the best part of my day. Tomorrow I'm moving to my daughter's house. Please take care.\" There was no name anywhere."
+   },
+   {
+    "jp": "わたしは{毎朝|まいあさ}{七時|しちじ}に{家|いえ}を{出|で}ます。そのとき{会|あ}う{人|ひと}を{考|かんが}えてみました。{入|い}り{口|ぐち}を{掃除|そうじ}している{管理人|かんりにん}さんには、「おはようございます」とあいさつします。{犬|いぬ}の{散歩|さんぽ}をしている{男|おとこ}の{子|こ}にもあいさつします。それから、{一階|いっかい}の{窓|まど}で{赤|あか}い{花|はな}に{水|みず}をやっているおばあさんには、いつも{手|て}を{振|ふ}っていました。",
+    "en": "I leave home at seven every morning. I thought about the people I meet then. I say \"Good morning\" to the building manager who sweeps the entrance. I also greet a boy who walks his dog. And I always waved to an old lady watering red flowers at a first-floor window."
+   },
+   {
+    "jp": "「あのおばあさんだ！」わたしは{急|いそ}いで{一階|いっかい}へ{行|い}きました。でも、{窓|まど}にはもう{花|はな}がありませんでした。{管理人|かんりにん}さんが「{山本|やまもと}さんなら、{今朝|けさ}{早|はや}く{引|ひ}っ{越|こ}しましたよ」と{教|おし}えてくれました。{話|はな}したことは{一度|いちど}もなかったのに、おばあさんはわたしを{覚|おぼ}えていてくれたのです。",
+    "en": "\"It's that old lady!\" I hurried down to the first floor. But there were no flowers in the window anymore. The manager told me, \"Mrs Yamamoto? She moved out early this morning.\" We had never once spoken, but she had remembered me."
+   },
+   {
+    "jp": "わたしは{管理人|かんりにん}さんに{新|あたら}しい{住所|じゅうしょ}を{聞|き}いて、{返事|へんじ}を{書|か}きました。そして、{赤|あか}い{花|はな}の{押|お}し{花|ばな}を、{手帳|てちょう}に{大切|たいせつ}にはさんでいます。",
+    "en": "I asked the manager for her new address and wrote her a reply. And I keep the pressed red flower carefully tucked inside my planner."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{手紙|てがみ}を{書|か}いたのは、だれですか。",
+    "q_en": "Who wrote the letter?",
+    "options": [
+     "{管理人|かんりにん}さん",
+     "{犬|いぬ}の{散歩|さんぽ}をしている{男|おとこ}の{子|こ}",
+     "{一階|いっかい}のおばあさん",
+     "{郵便局|ゆうびんきょく}の{人|ひと}"
+    ],
+    "answer": 2,
+    "why": "The writer watched from a window and was waved to, which matches the old lady on the first floor."
+   },
+   {
+    "q": "{封筒|ふうとう}に{切手|きって}がなかったのは、どうしてですか。",
+    "q_en": "Why was there no stamp on the envelope?",
+    "options": [
+     "{同|おな}じアパートの{人|ひと}が{直接|ちょくせつ}{入|い}れたから",
+     "{切手|きって}がはがれたから",
+     "{郵便局|ゆうびんきょく}が{休|やす}みだったから",
+     "お{金|かね}がなかったから"
+    ],
+    "answer": 0,
+    "why": "Someone in the same building put it in the mailbox by hand."
+   }
+  ]
+ },
+ {
+  "id": "s4-021",
+  "level": 4,
+  "title": "かぎはどこ？",
+  "title_en": "Where Is the Key?",
+  "genre_raw": "Mystery",
+  "paragraphs": [
+   {
+    "jp": "{土曜日|どようび}の{昼|ひる}、わたしはスーパーで{買|か}い{物|もの}をして{帰|かえ}ってきました。{左手|ひだりて}には{重|おも}い{袋|ふくろ}、{右手|みぎて}にはかぎと、{袋|ふくろ}に{入|はい}らなかったアイスクリームを{持|も}っていました。ドアを{開|あ}けたとき、ちょうど{電話|でんわ}が{鳴|な}りました。",
+    "en": "At noon on Saturday, I came home from shopping at the supermarket. In my left hand I had a heavy bag, and in my right hand I had my key and some ice cream that didn't fit in the bag. Just as I opened the door, the phone rang."
+   },
+   {
+    "jp": "{電話|でんわ}は{母|はは}からでした。わたしは{話|はな}しながら、{買|か}ってきた{物|もの}を{片付|かたづ}けました。{牛乳|ぎゅうにゅう}と{野菜|やさい}は{冷蔵庫|れいぞうこ}に、アイスクリームは{冷凍庫|れいとうこ}に{入|い}れました。{電話|でんわ}は{三十分|さんじゅっぷん}も{続|つづ}きました。",
+    "en": "The call was from my mother. While talking, I put away the things I had bought. I put the milk and vegetables in the fridge and the ice cream in the freezer. The call went on for thirty whole minutes."
+   },
+   {
+    "jp": "{夕方|ゆうがた}、{友|とも}だちと{会|あ}う{約束|やくそく}があったので、{出|で}かけようとしました。でも、かぎがありません。いつもかぎを{置|お}く{玄関|げんかん}の{棚|たな}にもないし、かばんの{中|なか}にも、コートのポケットにもありません。ソファの{下|した}も、ごみ{箱|ばこ}の{中|なか}も{見|み}ましたが、{見|み}つかりませんでした。",
+    "en": "In the evening I had plans to meet a friend, so I got ready to go out. But my key was gone. It wasn't on the shelf by the front door where I always put it, and it wasn't in my bag or my coat pocket. I looked under the sofa and even in the bin, but I couldn't find it."
+   },
+   {
+    "jp": "「{落|お}ち{着|つ}いて{考|かんが}えよう」わたしは{昼|ひる}に{帰|かえ}ってきたときのことを、{一|ひと}つずつ{思|おも}い{出|だ}しました。ドアを{開|あ}けたとき、かぎは{右手|みぎて}にありました。{右手|みぎて}には、ほかに{何|なに}を{持|も}っていたでしょうか。",
+    "en": "\"Let's calm down and think.\" I went back over coming home at noon, one step at a time. When I opened the door, the key was in my right hand. What else was I holding in my right hand?"
+   },
+   {
+    "jp": "わたしは{冷凍庫|れいとうこ}を{開|あ}けました。アイスクリームの{横|よこ}に、{冷|つめ}たくなったかぎがありました。{電話|でんわ}をしながら、{両方|りょうほう}いっしょに{入|い}れてしまったのです。{友|とも}だちにこの{話|はなし}をすると、「{今度|こんど}からアイスはかぎと{同|おな}じ{手|て}で{持|も}たないでね」と{笑|わら}われました。",
+    "en": "I opened the freezer. Next to the ice cream was my ice-cold key. While on the phone, I had put both of them in together. When I told my friend this story, she laughed and said, \"From now on, don't hold your ice cream in the same hand as your key.\""
+   }
+  ],
+  "questions": [
+   {
+    "q": "かぎはどこにありましたか。",
+    "q_en": "Where was the key?",
+    "options": [
+     "{玄関|げんかん}の{棚|たな}",
+     "ソファの{下|した}",
+     "コートのポケット",
+     "{冷凍庫|れいとうこ}"
+    ],
+    "answer": 3,
+    "why": "It was in the freezer next to the ice cream."
+   },
+   {
+    "q": "どうしてそこにかぎがありましたか。",
+    "q_en": "Why was the key there?",
+    "options": [
+     "{母|はは}が{入|い}れたから",
+     "{電話|でんわ}をしながら、アイスクリームといっしょに{入|い}れたから",
+     "かぎを{冷|ひ}やしたかったから",
+     "{友|とも}だちが{隠|かく}したから"
+    ],
+    "answer": 1,
+    "why": "She was holding the key and ice cream in the same hand and put both away while talking."
+   }
+  ]
+ },
+ {
+  "id": "s4-022",
+  "level": 4,
+  "title": "1980{年|ねん}の{写真|しゃしん}",
+  "title_en": "The Photo from 1980",
+  "genre_raw": "Mystery",
+  "paragraphs": [
+   {
+    "jp": "{夏休|なつやす}みに、わたしは{祖母|そぼ}の{家|いえ}で{古|ふる}いアルバムを{見|み}つけました。その{中|なか}に、{喫茶店|きっさてん}の{前|まえ}で{若|わか}い{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{並|なら}んで{立|た}っている{写真|しゃしん}がありました。{裏|うら}には「1980{年|ねん} {夏|なつ}」と{書|か}いてあります。{女|おんな}の{人|ひと}はすぐにわかりました。{若|わか}いころの{祖母|そぼ}です。",
+    "en": "During the summer holidays I found an old album at my grandmother's house. In it was a photo of a young woman and a man standing side by side in front of a coffee shop. On the back was written \"Summer 1980.\" I recognised the woman right away. It was my grandmother when she was young."
+   },
+   {
+    "jp": "でも、{男|おとこ}の{人|ひと}はだれでしょうか。{髪|かみ}が{長|なが}くて、やせていて、{大|おお}きいめがねをかけています。{今|いま}の{祖父|そふ}は、{髪|かみ}がほとんどなくて、{少|すこ}し{太|ふと}っています。{全然|ぜんぜん}{似|に}ていません。{男|おとこ}の{人|ひと}は、{左手|ひだりて}に{四角|しかく}い{金色|きんいろ}の{時計|とけい}をしていました。",
+    "en": "But who was the man? He had long hair, was thin, and wore big glasses. My grandfather today has almost no hair and is a little chubby. They didn't look alike at all. The man was wearing a square gold watch on his left wrist."
+   },
+   {
+    "jp": "{居間|いま}で{新聞|しんぶん}を{読|よ}んでいる{祖父|そふ}に{写真|しゃしん}を{見|み}せて、「この{人|ひと}、だれか{知|し}ってる？」と{聞|き}きました。{祖父|そふ}は{写真|しゃしん}をちらっと{見|み}て、「さあ、{知|し}らないなあ」と{言|い}って、また{新聞|しんぶん}を{読|よ}みはじめました。でも、{耳|みみ}が{少|すこ}し{赤|あか}くなっていました。",
+    "en": "I showed the photo to my grandfather, who was reading the newspaper in the living room, and asked, \"Do you know who this is?\" He glanced at it, said, \"Hmm, no idea,\" and went back to his newspaper. But his ears had turned a little red."
+   },
+   {
+    "jp": "そのとき、わたしは{気|き}がつきました。{新聞|しんぶん}を{持|も}っている{祖父|そふ}の{左手|ひだりて}に、{四角|しかく}い{金色|きんいろ}の{時計|とけい}があったのです。{写真|しゃしん}の{時計|とけい}と{同|おな}じでした。",
+    "en": "That's when I noticed. On the left wrist of my grandfather, as he held the newspaper, was a square gold watch. It was the same as the watch in the photo."
+   },
+   {
+    "jp": "{台所|だいどころ}から{来|き}た{祖母|そぼ}が、{写真|しゃしん}を{見|み}て{笑|わら}いました。「それはね、おじいさんと{初|はじ}めてデートした{日|ひ}の{写真|しゃしん}よ。あの{時計|とけい}、{今|いま}もずっとしているのよね」{祖父|そふ}は{何|なに}も{言|い}いませんでしたが、{新聞|しんぶん}の{後|うし}ろで、うれしそうに{笑|わら}っていました。",
+    "en": "My grandmother came in from the kitchen, saw the photo and laughed. \"That's from the day of our first date. He still wears that watch, doesn't he?\" My grandfather didn't say anything, but behind his newspaper he was smiling happily."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{写真|しゃしん}の{男|おとこ}の{人|ひと}は、だれでしたか。",
+    "q_en": "Who was the man in the photo?",
+    "options": [
+     "{祖父|そふ}",
+     "{祖母|そぼ}の{兄|あに}",
+     "{喫茶店|きっさてん}の{人|ひと}",
+     "{知|し}らない{人|ひと}"
+    ],
+    "answer": 0,
+    "why": "It was the grandfather, on his first date with the grandmother."
+   },
+   {
+    "q": "わたしは{何|なに}を{見|み}て、わかりましたか。",
+    "q_en": "What did I see that helped me work it out?",
+    "options": [
+     "{髪|かみ}",
+     "めがね",
+     "{時計|とけい}",
+     "{新聞|しんぶん}"
+    ],
+    "answer": 2,
+    "why": "Grandpa still wears the same square gold watch as the man in the photo."
+   },
+   {
+    "q": "{祖父|そふ}が「{知|し}らない」と{言|い}ったのは、どうしてだと{思|おも}いますか。",
+    "q_en": "Why do you think Grandpa said he didn't know?",
+    "options": [
+     "{本当|ほんとう}に{知|し}らなかったから",
+     "{恥|は}ずかしかったから",
+     "{怒|おこ}っていたから",
+     "{目|め}が{悪|わる}いから"
+    ],
+    "answer": 1,
+    "why": "His ears went red, so he was embarrassed."
+   }
+  ]
+ },
+ {
+  "id": "s4-023",
+  "level": 4,
+  "title": "{火曜日|かようび}だけの{店|みせ}",
+  "title_en": "The Tuesday-Only Shop",
+  "genre_raw": "Mystery",
+  "paragraphs": [
+   {
+    "jp": "{家|いえ}の{近|ちか}くに、{小|ちい}さいケーキ{屋|や}があります。とてもおいしいのですが、{店|みせ}が{開|あ}いているのは{火曜日|かようび}だけです。ドアには「{火曜日|かようび}だけ{開|あ}けています」という{紙|かみ}がはってあります。{店|みせ}の{人|ひと}は、ひげのある{優|やさ}しそうなおじさんです。",
+    "en": "There is a small cake shop near my house. The cakes are delicious, but the shop is only open on Tuesdays. A sign on the door says, \"Open on Tuesdays only.\" The owner is a kind-looking man with a beard."
+   },
+   {
+    "jp": "「どうして{火曜日|かようび}だけなんですか」とわたしが{聞|き}くと、おじさんは「どうしてだと{思|おも}いますか」と{笑|わら}うだけで、{答|こた}えてくれませんでした。{不思議|ふしぎ}なのは、おじさんの「いらっしゃいませ」です。{最後|さいご}の「せ」を、{歌|うた}うように{長|なが}くのばすのです。どこかで{聞|き}いたことがある{声|こえ}でした。",
+    "en": "When I asked, \"Why only Tuesdays?\" he just smiled and said, \"Why do you think?\" and didn't answer. The strange thing was the way he said \"Welcome.\" He stretched out the last sound, almost like singing. It was a voice I had heard somewhere before."
+   },
+   {
+    "jp": "わたしは{毎朝|まいあさ}、バスで{会社|かいしゃ}に{行|い}きます。そのバスの{運転手|うんてんしゅ}さんは、マスクと{帽子|ぼうし}をしているので、{顔|かお}はよく{見|み}えません。でも、「{次|つぎ}は{駅前|えきまえ}です」の「す」を、いつも{歌|うた}うように{長|なが}くのばします。そういえば、{火曜日|かようび}だけは、{別|べつ}の{運転手|うんてんしゅ}さんでした。",
+    "en": "Every morning I go to work by bus. The bus driver wears a mask and a cap, so I can't see his face well. But he always stretches out the last sound of \"Next stop, Station Front,\" as if singing. Come to think of it, on Tuesdays only, there was a different driver."
+   },
+   {
+    "jp": "{次|つぎ}の{火曜日|かようび}、わたしはケーキ{屋|や}に{行|い}って、{言|い}ってみました。「おじさん、{本当|ほんとう}はバスの{運転手|うんてんしゅ}さんでしょう。{火曜日|かようび}はお{休|やす}みの{日|ひ}ですよね」おじさんはびっくりした{顔|かお}をして、それから{大|おお}きな{声|こえ}で{笑|わら}いました。",
+    "en": "The next Tuesday I went to the cake shop and tried saying, \"You're really a bus driver, aren't you? Tuesday is your day off, right?\" He looked surprised, and then laughed out loud."
+   },
+   {
+    "jp": "「{当|あ}たりです。{子|こ}どものころから、ケーキ{屋|や}になるのが{夢|ゆめ}だったんですよ。だから、{休|やす}みの{日|ひ}だけ{店|みせ}を{開|ひら}いているんです」その{日|ひ}、おじさんは「{名探偵|めいたんてい}さんにプレゼントです」と{言|い}って、イチゴのケーキを{一|ひと}つおまけしてくれました。",
+    "en": "\"You got it. Ever since I was a child, my dream was to run a cake shop. So I open the shop only on my days off.\" That day he said, \"A present for the great detective,\" and gave me a strawberry cake for free."
+   }
+  ],
+  "questions": [
+   {
+    "q": "おじさんの{毎日|まいにち}の{仕事|しごと}は{何|なん}ですか。",
+    "q_en": "What is the man's everyday job?",
+    "options": [
+     "{駅員|えきいん}",
+     "バスの{運転手|うんてんしゅ}",
+     "{歌手|かしゅ}",
+     "{会社員|かいしゃいん}"
+    ],
+    "answer": 1,
+    "why": "He drives the bus and opens the cake shop on his day off."
+   },
+   {
+    "q": "わたしは、どうしてわかりましたか。",
+    "q_en": "How did I figure it out?",
+    "options": [
+     "おじさんが{教|おし}えてくれたから",
+     "バスの{中|なか}にケーキがあったから",
+     "{言|い}い{方|かた}が{同|おな}じで、{火曜日|かようび}だけ{運転手|うんてんしゅ}がちがったから",
+     "{会社|かいしゃ}の{人|ひと}に{聞|き}いたから"
+    ],
+    "answer": 2,
+    "why": "Both stretched their words the same way, and the driver was different only on Tuesdays."
+   }
+  ]
+ },
+ {
+  "id": "s4-024",
+  "level": 4,
+  "title": "{隣|となり}の{庭|にわ}",
+  "title_en": "The Neighbour's Garden",
+  "genre_raw": "Mystery",
+  "paragraphs": [
+   {
+    "jp": "{隣|となり}の{石田|いしだ}さんは、{七十歳|ななじゅっさい}ぐらいのおじいさんです。{去年|きょねん}の{秋|あき}、{石田|いしだ}さんは{毎日|まいにち}{庭|にわ}で{何|なに}かをしていました。{土|つち}に{細|ほそ}い{線|せん}を{何本|なんぼん}も{引|ひ}いて、その{線|せん}の{上|うえ}に、チューリップを{一|ひと}つずつ{植|う}えていたのです。",
+    "en": "Mr Ishida next door is an old man of about seventy. Last autumn, he was doing something in his garden every day. He drew many thin lines in the soil and planted tulip bulbs one by one along those lines."
+   },
+   {
+    "jp": "「{何|なに}を{作|つく}っているんですか」とわたしが{聞|き}くと、{石田|いしだ}さんは「{春|はる}になったらわかりますよ。{二階|にかい}の{窓|まど}から{見|み}てくださいね」と{言|い}いました。そういえば、{最近|さいきん}、{石田|いしだ}さんの{奥|おく}さんを{見|み}ていません。{母|はは}の{話|はなし}では、{奥|おく}さんは{夏|なつ}から{病気|びょうき}で{入院|にゅういん}しているそうです。",
+    "en": "When I asked, \"What are you making?\" Mr Ishida said, \"You'll see in spring. Look from your second-floor window.\" Come to think of it, I hadn't seen his wife recently. According to my mother, she had been in hospital since summer because of an illness."
+   },
+   {
+    "jp": "{冬|ふゆ}の{間|あいだ}、{庭|にわ}には{何|なに}もありませんでした。でも、{三月|さんがつ}の{終|お}わりごろ、{土|つち}から{緑|みどり}の{葉|は}が{出|で}てきて、{四月|しがつ}の{初|はじ}めには、{赤|あか}や{黄色|きいろ}のチューリップがたくさん{咲|さ}きました。{道|みち}から{見|み}ると、ただのきれいな{花|はな}の{庭|にわ}です。",
+    "en": "During the winter there was nothing in the garden. But around the end of March, green leaves came up from the soil, and by early April lots of red and yellow tulips had bloomed. From the street, it just looked like a pretty flower garden."
+   },
+   {
+    "jp": "{約束|やくそく}を{思|おも}い{出|だ}して、わたしは{二階|にかい}の{窓|まど}から{石田|いしだ}さんの{庭|にわ}を{見|み}てみました。そして、びっくりしました。{黄色|きいろ}いチューリップの{中|なか}で、{赤|あか}いチューリップが{字|じ}になっていたのです。「おかえり」と{読|よ}めました。",
+    "en": "Remembering what he'd said, I looked at Mr Ishida's garden from my second-floor window. And I was amazed. Among the yellow tulips, the red tulips formed letters. They read \"Welcome home.\""
+   },
+   {
+    "jp": "その{日|ひ}の{午後|ごご}、{隣|となり}の{家|いえ}の{前|まえ}にタクシーが{止|と}まりました。{降|お}りてきたのは、{少|すこ}しやせた{石田|いしだ}さんの{奥|おく}さんでした。{石田|いしだ}さんは{奥|おく}さんの{手|て}を{引|ひ}いて、{家|いえ}の{二階|にかい}へ{上|あ}がっていきました。しばらくして、{窓|まど}から{奥|おく}さんの{泣|な}きながら{笑|わら}う{声|こえ}が{聞|き}こえてきました。",
+    "en": "That afternoon, a taxi stopped in front of the house next door. Out stepped Mr Ishida's wife, a little thinner than before. Mr Ishida took her by the hand and led her up to the second floor of their house. After a while, from the window came the sound of his wife laughing and crying at the same time."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{石田|いしだ}さんは{秋|あき}に{何|なに}をしていましたか。",
+    "q_en": "What was Mr Ishida doing in autumn?",
+    "options": [
+     "{木|き}を{切|き}っていた",
+     "{家|いえ}を{直|なお}していた",
+     "{野菜|やさい}を{作|つく}っていた",
+     "チューリップを{植|う}えていた"
+    ],
+    "answer": 3,
+    "why": "He was planting tulips along lines in the soil."
+   },
+   {
+    "q": "「おかえり」は、だれのためでしたか。",
+    "q_en": "Who was the \"Welcome home\" for?",
+    "options": [
+     "{石田|いしだ}さんの{奥|おく}さん",
+     "わたし",
+     "わたしの{母|はは}",
+     "{近所|きんじょ}の{子|こ}ども"
+    ],
+    "answer": 0,
+    "why": "His wife was coming home from hospital that day."
+   },
+   {
+    "q": "どうして{二階|にかい}から{見|み}なければなりませんでしたか。",
+    "q_en": "Why did you have to look from the second floor?",
+    "options": [
+     "{道|みち}からは{花|はな}が{見|み}えないから",
+     "{一階|いっかい}の{窓|まど}が{壊|こわ}れていたから",
+     "{上|うえ}から{見|み}ないと{字|じ}が{読|よ}めないから",
+     "{石田|いしだ}さんが{庭|にわ}に{入|はい}らせないから"
+    ],
+    "answer": 2,
+    "why": "From the street it looked like just flowers; the letters showed only from above."
+   }
+  ]
+ }
+]

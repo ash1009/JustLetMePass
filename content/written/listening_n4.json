@@ -1,0 +1,1204 @@
+[
+ {
+  "id": "l4-01",
+  "level": 4,
+  "title_raw": "What to buy for the party",
+  "kind": "task",
+  "setup": "{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}は{何|なに}を{買|か}いますか。",
+  "lines": [
+   {
+    "s": "F",
+    "jp": "{明日|あした}のパーティーの{準備|じゅんび}、もうできた？"
+   },
+   {
+    "s": "M",
+    "jp": "うん、{飲|の}み{物|もの}はもう{買|か}ったよ。ジュースとお{茶|ちゃ}。"
+   },
+   {
+    "s": "F",
+    "jp": "ありがとう。ケーキは{私|わたし}が{作|つく}るから、{大丈夫|だいじょうぶ}。"
+   },
+   {
+    "s": "M",
+    "jp": "じゃあ、{僕|ぼく}は{果物|くだもの}を{買|か}ってこようか。"
+   },
+   {
+    "s": "F",
+    "jp": "{果物|くだもの}は{田中|たなか}さんが{持|も}ってきてくれるって。それより、{紙|かみ}のお{皿|さら}が{足|た}りないの。"
+   },
+   {
+    "s": "M",
+    "jp": "わかった。じゃ、それを{買|か}ってくるね。"
+   }
+  ],
+  "question": "{男|おとこ}の{人|ひと}は{何|なに}を{買|か}いますか。",
+  "q_en": "What will the man buy?",
+  "options": [
+   "ジュースとお{茶|ちゃ}",
+   "{果物|くだもの}",
+   "{紙|かみ}のお{皿|さら}",
+   "ケーキ"
+  ],
+  "answer": 2,
+  "en": "F: Are the preparations for tomorrow's party done?\nM: Yeah, I already bought the drinks. Juice and tea.\nF: Thanks. I'll make the cake, so that's fine.\nM: Then shall I go buy some fruit?\nF: Tanaka says she'll bring fruit. More importantly, we don't have enough paper plates.\nM: Got it. I'll go buy those then.",
+  "why": "The woman says paper plates are short, and the man agrees to buy them."
+ },
+ {
+  "id": "l4-02",
+  "level": 4,
+  "title_raw": "Which bus to take",
+  "kind": "task",
+  "setup": "{駅|えき}で{女|おんな}の{人|ひと}と{駅員|えきいん}が{話|はな}しています。{女|おんな}の{人|ひと}はこれからどうしますか。",
+  "lines": [
+   {
+    "s": "F",
+    "jp": "すみません、{市民|しみん}{病院|びょういん}に{行|い}きたいんですが、どうやって{行|い}けばいいですか。"
+   },
+   {
+    "s": "M",
+    "jp": "{市民|しみん}{病院|びょういん}ですね。{歩|ある}くと30{分|ぷん}ぐらいかかりますよ。"
+   },
+   {
+    "s": "F",
+    "jp": "30{分|ぷん}ですか。ちょっと{遠|とお}いですね。"
+   },
+   {
+    "s": "M",
+    "jp": "タクシーなら10{分|ぷん}ですが、バスもありますよ。3{番|ばん}のバスに{乗|の}れば、15{分|ふん}です。"
+   },
+   {
+    "s": "F",
+    "jp": "バスは{何|なん}{分|ぷん}おきに{来|き}ますか。"
+   },
+   {
+    "s": "M",
+    "jp": "{今|いま}の{時間|じかん}は20{分|ぷん}に1{本|ぽん}ですね。あ、{次|つぎ}のバスは2{分|ふん}{後|ご}に{出|で}ますよ。"
+   },
+   {
+    "s": "F",
+    "jp": "じゃあ、それに{乗|の}ります。ありがとうございました。"
+   }
+  ],
+  "question": "{女|おんな}の{人|ひと}はこれからどうしますか。",
+  "q_en": "What will the woman do now?",
+  "options": [
+   "20{分|ぷん}{待|ま}ってバスに{乗|の}る",
+   "タクシーに{乗|の}る",
+   "{病院|びょういん}まで{歩|ある}いて{行|い}く",
+   "3{番|ばん}のバスに{乗|の}る"
+  ],
+  "answer": 3,
+  "en": "F: Excuse me, I want to go to the City Hospital. How should I get there?\nM: The City Hospital. Walking takes about 30 minutes.\nF: 30 minutes? That's a bit far.\nM: By taxi it's 10 minutes, but there's also a bus. If you take bus number 3, it's 15 minutes.\nF: How often does the bus come?\nM: At this time it's one every 20 minutes. Oh, the next bus leaves in 2 minutes.\nF: Then I'll take that. Thank you.",
+  "why": "The next number 3 bus leaves in 2 minutes and she says she'll take it."
+ },
+ {
+  "id": "l4-03",
+  "level": 4,
+  "title_raw": "First day at the convenience store",
+  "kind": "task",
+  "setup": "コンビニで{店長|てんちょう}とアルバイトの{学生|がくせい}が{話|はな}しています。{学生|がくせい}は{最初|さいしょ}に{何|なに}をしますか。",
+  "lines": [
+   {
+    "s": "M",
+    "jp": "{今日|きょう}からよろしくね。じゃあ、まず{制服|せいふく}に{着替|きが}えて。"
+   },
+   {
+    "s": "F",
+    "jp": "はい。もう{着替|きが}えました。"
+   },
+   {
+    "s": "M",
+    "jp": "あ、そうか。じゃあ、{次|つぎ}は{手|て}を{洗|あら}ってね。{食|た}べ{物|もの}を{触|さわ}るから。"
+   },
+   {
+    "s": "F",
+    "jp": "わかりました。そのあとはレジですか。"
+   },
+   {
+    "s": "M",
+    "jp": "レジは{午後|ごご}から{教|おし}えるよ。{手|て}を{洗|あら}ったら、{飲|の}み{物|もの}を{冷蔵庫|れいぞうこ}に{並|なら}べてくれる？"
+   },
+   {
+    "s": "F",
+    "jp": "はい、わかりました。"
+   }
+  ],
+  "question": "{学生|がくせい}は{最初|さいしょ}に{何|なに}をしますか。",
+  "q_en": "What will the student do first?",
+  "options": [
+   "{手|て}を{洗|あら}う",
+   "{飲|の}み{物|もの}を{並|なら}べる",
+   "レジの{練習|れんしゅう}をする",
+   "{制服|せいふく}に{着替|きが}える"
+  ],
+  "answer": 0,
+  "en": "M: Nice to have you from today. First, change into the uniform.\nF: Yes. I've already changed.\nM: Oh, right. Then next, wash your hands, because you'll touch food.\nF: Okay. After that, the register?\nM: I'll teach you the register in the afternoon. After washing your hands, can you line up the drinks in the fridge?\nF: Yes, understood.",
+  "why": "She has already changed, so the first thing now is washing her hands."
+ },
+ {
+  "id": "l4-04",
+  "level": 4,
+  "title_raw": "Meeting time",
+  "kind": "task",
+  "setup": "{会社|かいしゃ}で{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{二人|ふたり}は{何時|なんじ}に{会|あ}いますか。",
+  "lines": [
+   {
+    "s": "M",
+    "jp": "{木村|きむら}さん、{明日|あした}の{打|う}ち{合|あ}わせ、{何時|なんじ}がいいですか。"
+   },
+   {
+    "s": "F",
+    "jp": "{午前|ごぜん}10{時|じ}はどうですか。"
+   },
+   {
+    "s": "M",
+    "jp": "すみません、10{時|じ}から11{時|じ}までお{客|きゃく}さんが{来|く}るんです。"
+   },
+   {
+    "s": "F",
+    "jp": "そうですか。じゃあ、{午後|ごご}1{時|じ}は？"
+   },
+   {
+    "s": "M",
+    "jp": "1{時|じ}はちょっと…。{昼|ひる}ご{飯|はん}のあとすぐなので、1{時|じ}{半|はん}でもいいですか。"
+   },
+   {
+    "s": "F",
+    "jp": "いいですよ。じゃあ、{明日|あした}の1{時|じ}{半|はん}に。"
+   }
+  ],
+  "question": "{二人|ふたり}は{何時|なんじ}に{会|あ}いますか。",
+  "q_en": "What time will the two meet?",
+  "options": [
+   "{午前|ごぜん}10{時|じ}",
+   "{午前|ごぜん}11{時|じ}",
+   "{午後|ごご}1{時|じ}",
+   "{午後|ごご}1{時|じ}{半|はん}"
+  ],
+  "answer": 3,
+  "en": "M: Ms. Kimura, what time is good for tomorrow's meeting?\nF: How about 10 a.m.?\nM: Sorry, a client is coming from 10 to 11.\nF: I see. Then how about 1 p.m.?\nM: 1 is a bit... It's right after lunch, so would 1:30 be okay?\nF: Sure. Then tomorrow at 1:30.",
+  "why": "They agree on 1:30 in the afternoon."
+ },
+ {
+  "id": "l4-05",
+  "level": 4,
+  "title_raw": "Getting ready for the trip",
+  "kind": "task",
+  "setup": "{家|いえ}で{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はこのあと{何|なに}をしますか。",
+  "lines": [
+   {
+    "s": "F",
+    "jp": "{明日|あした}の{旅行|りょこう}の{荷物|にもつ}、もう{準備|じゅんび}した？"
+   },
+   {
+    "s": "M",
+    "jp": "うん、{服|ふく}はかばんに{入|い}れたよ。"
+   },
+   {
+    "s": "F",
+    "jp": "カメラの{電池|でんち}は？{充電|じゅうでん}した？"
+   },
+   {
+    "s": "M",
+    "jp": "あ、まだだ。でも、それは{寝|ね}る{前|まえ}にするよ。"
+   },
+   {
+    "s": "F",
+    "jp": "{新幹線|しんかんせん}の{切符|きっぷ}は？"
+   },
+   {
+    "s": "M",
+    "jp": "あれ、{切符|きっぷ}、どこに{置|お}いたかな…。"
+   },
+   {
+    "s": "F",
+    "jp": "もう、{今|いま}すぐ{探|さが}して。{切符|きっぷ}がないと{行|い}けないよ。"
+   },
+   {
+    "s": "M",
+    "jp": "わかった、すぐ{探|さが}すよ。"
+   }
+  ],
+  "question": "{男|おとこ}の{人|ひと}はこのあと{何|なに}をしますか。",
+  "q_en": "What will the man do next?",
+  "options": [
+   "{服|ふく}をかばんに{入|い}れる",
+   "{切符|きっぷ}を{探|さが}す",
+   "カメラの{電池|でんち}を{充電|じゅうでん}する",
+   "{寝|ね}る"
+  ],
+  "answer": 1,
+  "en": "F: Have you packed for tomorrow's trip?\nM: Yeah, I put my clothes in the bag.\nF: What about the camera battery? Did you charge it?\nM: Oh, not yet. But I'll do that before bed.\nF: And the bullet train tickets?\nM: Huh, where did I put the tickets...\nF: Come on, look for them right now. We can't go without tickets.\nM: Okay, I'll look right away.",
+  "why": "The battery waits until bedtime; he will look for the tickets right away."
+ },
+ {
+  "id": "l4-06",
+  "level": 4,
+  "title_raw": "Homework for next class",
+  "kind": "task",
+  "setup": "{教室|きょうしつ}で{先生|せんせい}が{話|はな}しています。{学生|がくせい}は{来週|らいしゅう}までに{何|なに}をしなければなりませんか。",
+  "lines": [
+   {
+    "s": "F",
+    "jp": "みなさん、{今日|きょう}の{授業|じゅぎょう}はここまでです。{来週|らいしゅう}の{宿題|しゅくだい}について{話|はな}します。"
+   },
+   {
+    "s": "F",
+    "jp": "{教科書|きょうかしょ}の45ページの{問題|もんだい}は、{授業|じゅぎょう}でもうやりましたから、しなくてもいいです。"
+   },
+   {
+    "s": "F",
+    "jp": "46ページの{文|ぶん}を{読|よ}んで、{自分|じぶん}の{町|まち}について{作文|さくぶん}を{書|か}いてきてください。"
+   },
+   {
+    "s": "F",
+    "jp": "それから、{来週|らいしゅう}は{漢字|かんじ}のテストをしようと{思|おも}っていましたが、{再来週|さらいしゅう}にします。"
+   }
+  ],
+  "question": "{学生|がくせい}は{来週|らいしゅう}までに{何|なに}をしなければなりませんか。",
+  "q_en": "What must the students do by next week?",
+  "options": [
+   "45ページの{問題|もんだい}をする",
+   "{漢字|かんじ}のテストの{勉強|べんきょう}をする",
+   "{町|まち}についての{作文|さくぶん}を{書|か}く",
+   "{教科書|きょうかしょ}を{全部|ぜんぶ}{読|よ}む"
+  ],
+  "answer": 2,
+  "en": "F: Everyone, that's all for today's class. Let me talk about homework for next week.\nF: The problems on page 45 we already did in class, so you don't need to do them.\nF: Read the text on page 46 and write an essay about your own town.\nF: Also, I was planning a kanji test next week, but I'll do it the week after next.",
+  "why": "Only the essay about their town is due next week."
+ },
+ {
+  "id": "l4-07",
+  "level": 4,
+  "title_raw": "Ordering at a restaurant",
+  "kind": "task",
+  "setup": "レストランで{男|おとこ}の{人|ひと}と{店員|てんいん}が{話|はな}しています。{男|おとこ}の{人|ひと}は{何|なに}を{注文|ちゅうもん}しますか。",
+  "lines": [
+   {
+    "s": "F",
+    "jp": "ご{注文|ちゅうもん}はお{決|き}まりですか。"
+   },
+   {
+    "s": "M",
+    "jp": "このハンバーグのセットをお{願|ねが}いします。"
+   },
+   {
+    "s": "F",
+    "jp": "すみません、ハンバーグは{今日|きょう}はもう{終|お}わってしまいました。"
+   },
+   {
+    "s": "M",
+    "jp": "そうですか。じゃあ、カレーとスパゲッティ、どちらがおすすめですか。"
+   },
+   {
+    "s": "F",
+    "jp": "カレーが{人気|にんき}ですよ。でも、ちょっと{辛|から}いです。"
+   },
+   {
+    "s": "M",
+    "jp": "{辛|から}いのは{苦手|にがて}なので、スパゲッティにします。それと、コーヒーも。"
+   },
+   {
+    "s": "F",
+    "jp": "コーヒーは{食後|しょくご}でよろしいですか。"
+   },
+   {
+    "s": "M",
+    "jp": "はい、お{願|ねが}いします。"
+   }
+  ],
+  "question": "{男|おとこ}の{人|ひと}は{何|なに}を{注文|ちゅうもん}しますか。",
+  "q_en": "What will the man order?",
+  "options": [
+   "スパゲッティだけ",
+   "カレーとコーヒー",
+   "ハンバーグとコーヒー",
+   "スパゲッティとコーヒー"
+  ],
+  "answer": 3,
+  "en": "F: Are you ready to order?\nM: I'd like this hamburger steak set.\nF: Sorry, the hamburger steak is sold out today.\nM: I see. Then which do you recommend, the curry or the spaghetti?\nF: The curry is popular. But it's a little spicy.\nM: I'm not good with spicy food, so I'll have the spaghetti. And a coffee too.\nF: Would you like the coffee after the meal?\nM: Yes, please.",
+  "why": "The hamburger is sold out and he avoids spicy curry, so he orders spaghetti and coffee."
+ },
+ {
+  "id": "l4-08",
+  "level": 4,
+  "title_raw": "Taking medicine",
+  "kind": "task",
+  "setup": "{病院|びょういん}で{医者|いしゃ}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}は{薬|くすり}をいつ{飲|の}みますか。",
+  "lines": [
+   {
+    "s": "F",
+    "jp": "{風邪|かぜ}ですね。{薬|くすり}を{出|だ}しておきます。"
+   },
+   {
+    "s": "M",
+    "jp": "{毎食|まいしょく}{後|ご}に{飲|の}むんですか。"
+   },
+   {
+    "s": "F",
+    "jp": "いいえ、この{薬|くすり}は{一日|いちにち}2{回|かい}です。{朝|あさ}ご{飯|はん}と{晩|ばん}ご{飯|はん}のあとに{飲|の}んでください。"
+   },
+   {
+    "s": "M",
+    "jp": "{昼|ひる}は{飲|の}まなくてもいいんですね。"
+   },
+   {
+    "s": "F",
+    "jp": "ええ。それから、{熱|ねつ}が38{度|ど}{以上|いじょう}になったら、この{白|しろ}い{薬|くすり}も{飲|の}んでください。"
+   },
+   {
+    "s": "M",
+    "jp": "わかりました。{今|いま}は37{度|ど}ぐらいなので、{大丈夫|だいじょうぶ}ですね。"
+   }
+  ],
+  "question": "{男|おとこ}の{人|ひと}は{薬|くすり}をいつ{飲|の}みますか。",
+  "q_en": "When will the man take the medicine?",
+  "options": [
+   "{朝|あさ}ご{飯|はん}と{晩|ばん}ご{飯|はん}のあと",
+   "{熱|ねつ}が{高|たか}いときだけ",
+   "{昼|ひる}ご{飯|はん}のあとだけ",
+   "{朝|あさ}と{昼|ひる}と{晩|ばん}のご{飯|はん}のあと"
+  ],
+  "answer": 0,
+  "en": "F: It's a cold. I'll give you some medicine.\nM: Do I take it after every meal?\nF: No, this medicine is twice a day. Please take it after breakfast and dinner.\nM: So I don't need to take it at lunch.\nF: Right. Also, if your fever goes over 38 degrees, take this white medicine too.\nM: Understood. It's about 37 now, so I'm fine.",
+  "why": "The doctor says twice a day, after breakfast and dinner."
+ },
+ {
+  "id": "l4-09",
+  "level": 4,
+  "title_raw": "Where to put the boxes",
+  "kind": "task",
+  "setup": "{会社|かいしゃ}で{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}は{箱|はこ}をどこに{置|お}きますか。",
+  "lines": [
+   {
+    "s": "M",
+    "jp": "{課長|かちょう}、この{箱|はこ}、どこに{置|お}きましょうか。{会議室|かいぎしつ}ですか。"
+   },
+   {
+    "s": "F",
+    "jp": "{会議室|かいぎしつ}は{午後|ごご}から{使|つか}うから、だめなの。"
+   },
+   {
+    "s": "M",
+    "jp": "じゃあ、{課長|かちょう}の{机|つくえ}の{横|よこ}はどうですか。"
+   },
+   {
+    "s": "F",
+    "jp": "そこは{狭|せま}いから…。{入口|いりぐち}の{近|ちか}くの{棚|たな}の{上|うえ}に{置|お}いてくれる？"
+   },
+   {
+    "s": "M",
+    "jp": "{棚|たな}の{上|うえ}は、もういっぱいですよ。"
+   },
+   {
+    "s": "F",
+    "jp": "あ、そう。じゃあ、{棚|たな}の{下|した}に{置|お}いておいて。"
+   },
+   {
+    "s": "M",
+    "jp": "はい、わかりました。"
+   }
+  ],
+  "question": "{男|おとこ}の{人|ひと}は{箱|はこ}をどこに{置|お}きますか。",
+  "q_en": "Where will the man put the box?",
+  "options": [
+   "{会議室|かいぎしつ}",
+   "{棚|たな}の{下|した}",
+   "{課長|かちょう}の{机|つくえ}の{横|よこ}",
+   "{棚|たな}の{上|うえ}"
+  ],
+  "answer": 1,
+  "en": "M: Section chief, where should I put this box? The meeting room?\nF: The meeting room will be used from the afternoon, so no.\nM: Then how about next to your desk?\nF: That's narrow... Could you put it on the shelf near the entrance?\nM: The top of the shelf is already full.\nF: Oh, really. Then put it under the shelf.\nM: Yes, understood.",
+  "why": "The top of the shelf is full, so she says to put it under the shelf."
+ },
+ {
+  "id": "l4-10",
+  "level": 4,
+  "title_raw": "Why she was late",
+  "kind": "point",
+  "setup": "{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}はどうして{遅|おく}れましたか。",
+  "lines": [
+   {
+    "s": "M",
+    "jp": "どうしたの？30{分|ぷん}も{遅|おく}れて。{電車|でんしゃ}が{止|と}まったの？"
+   },
+   {
+    "s": "F",
+    "jp": "ううん、{電車|でんしゃ}は{大丈夫|だいじょうぶ}だった。"
+   },
+   {
+    "s": "M",
+    "jp": "じゃあ、{寝坊|ねぼう}？"
+   },
+   {
+    "s": "F",
+    "jp": "{朝|あさ}はちゃんと{起|お}きたよ。でも、{家|いえ}を{出|で}たあとで、{財布|さいふ}を{忘|わす}れたことに{気|き}がついて、{取|と}りに{帰|かえ}ったの。"
+   },
+   {
+    "s": "M",
+    "jp": "そうだったんだ。"
+   },
+   {
+    "s": "F",
+    "jp": "ごめんね。お{昼|ひる}は{私|わたし}がおごるよ。"
+   }
+  ],
+  "question": "{女|おんな}の{人|ひと}はどうして{遅|おく}れましたか。",
+  "q_en": "Why was the woman late?",
+  "options": [
+   "{電車|でんしゃ}が{止|と}まったから",
+   "{朝|あさ}{起|お}きられなかったから",
+   "{財布|さいふ}を{取|と}りに{帰|かえ}ったから",
+   "{道|みち}が{分|わ}からなかったから"
+  ],
+  "answer": 2,
+  "en": "M: What happened? You're 30 minutes late. Did the train stop?\nF: No, the train was fine.\nM: Then did you oversleep?\nF: I got up fine. But after I left home, I noticed I forgot my wallet and went back to get it.\nM: Oh, I see.\nF: Sorry. I'll treat you to lunch.",
+  "why": "She went back home to get her wallet."
+ },
+ {
+  "id": "l4-11",
+  "level": 4,
+  "title_raw": "Favorite season",
+  "kind": "point",
+  "setup": "{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はどうして{冬|ふゆ}が{好|す}きですか。",
+  "lines": [
+   {
+    "s": "F",
+    "jp": "もうすぐ{冬|ふゆ}だね。{私|わたし}は{寒|さむ}いのが{嫌|きら}いだから、{冬|ふゆ}はちょっと…。"
+   },
+   {
+    "s": "M",
+    "jp": "{僕|ぼく}は{冬|ふゆ}がいちばん{好|す}きだよ。"
+   },
+   {
+    "s": "F",
+    "jp": "どうして？スキーが{好|す}きなの？"
+   },
+   {
+    "s": "M",
+    "jp": "スキーはしたことがないんだ。{雪|ゆき}もあまり{好|す}きじゃないし。"
+   },
+   {
+    "s": "F",
+    "jp": "じゃあ、どうして？"
+   },
+   {
+    "s": "M",
+    "jp": "{冬|ふゆ}は{空気|くうき}がきれいで、{星|ほし}がよく{見|み}えるんだ。{夜|よる}、{星|ほし}を{見|み}るのが{好|す}きなんだよ。"
+   }
+  ],
+  "question": "{男|おとこ}の{人|ひと}はどうして{冬|ふゆ}が{好|す}きですか。",
+  "q_en": "Why does the man like winter?",
+  "options": [
+   "スキーができるから",
+   "{雪|ゆき}が{好|す}きだから",
+   "{寒|さむ}いのが{好|す}きだから",
+   "{星|ほし}がよく{見|み}えるから"
+  ],
+  "answer": 3,
+  "en": "F: It'll be winter soon. I hate the cold, so winter is not for me.\nM: I like winter the most.\nF: Why? Do you like skiing?\nM: I've never skied. And I don't really like snow either.\nF: Then why?\nM: In winter the air is clear and you can see the stars well. I like looking at the stars at night.",
+  "why": "He likes winter because the stars are easy to see."
+ },
+ {
+  "id": "l4-12",
+  "level": 4,
+  "title_raw": "Choosing an apartment",
+  "kind": "point",
+  "setup": "{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}はどうしてこのアパートに{決|き}めましたか。",
+  "lines": [
+   {
+    "s": "M",
+    "jp": "{新|あたら}しいアパート、{決|き}まったんだって？"
+   },
+   {
+    "s": "F",
+    "jp": "うん。{駅|えき}からはちょっと{遠|とお}いんだけどね。{歩|ある}いて20{分|ぷん}。"
+   },
+   {
+    "s": "M",
+    "jp": "{家賃|やちん}が{安|やす}いの？"
+   },
+   {
+    "s": "F",
+    "jp": "ううん、{前|まえ}のアパートとあまり{変|か}わらないよ。{部屋|へや}も{広|ひろ}くないし。"
+   },
+   {
+    "s": "M",
+    "jp": "じゃあ、どうして？"
+   },
+   {
+    "s": "F",
+    "jp": "{窓|まど}から{海|うみ}が{見|み}えるの。{毎朝|まいあさ}{海|うみ}を{見|み}ながらコーヒーを{飲|の}むのが{夢|ゆめ}だったんだ。"
+   }
+  ],
+  "question": "{女|おんな}の{人|ひと}はどうしてこのアパートに{決|き}めましたか。",
+  "q_en": "Why did the woman choose this apartment?",
+  "options": [
+   "{窓|まど}から{海|うみ}が{見|み}えるから",
+   "{家賃|やちん}が{安|やす}いから",
+   "{部屋|へや}が{広|ひろ}いから",
+   "{駅|えき}から{近|ちか}いから"
+  ],
+  "answer": 0,
+  "en": "M: I heard you decided on a new apartment?\nF: Yeah. It's a little far from the station though. 20 minutes on foot.\nM: Is the rent cheap?\nF: No, it's not much different from my old place. And the room isn't big.\nM: Then why?\nF: You can see the sea from the window. Drinking coffee while looking at the sea every morning was my dream.",
+  "why": "She chose it because she can see the sea from the window."
+ },
+ {
+  "id": "l4-13",
+  "level": 4,
+  "title_raw": "Weekend plans",
+  "kind": "point",
+  "setup": "{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}は{日曜日|にちようび}に{何|なに}をしますか。",
+  "lines": [
+   {
+    "s": "F",
+    "jp": "{週末|しゅうまつ}は{何|なに}をするんですか。"
+   },
+   {
+    "s": "M",
+    "jp": "{土曜日|どようび}は{友達|ともだち}とサッカーを{見|み}に{行|い}きます。"
+   },
+   {
+    "s": "F",
+    "jp": "いいですね。{日曜日|にちようび}は？"
+   },
+   {
+    "s": "M",
+    "jp": "{本当|ほんとう}は{山|やま}に{行|い}きたかったんですが、{雨|あめ}が{降|ふ}るそうなので…。"
+   },
+   {
+    "s": "F",
+    "jp": "じゃあ、{家|いえ}でゆっくりするんですか。"
+   },
+   {
+    "s": "M",
+    "jp": "いいえ、{来週|らいしゅう}{日本語|にほんご}の{試験|しけん}があるので、{図書館|としょかん}で{勉強|べんきょう}します。"
+   }
+  ],
+  "question": "{男|おとこ}の{人|ひと}は{日曜日|にちようび}に{何|なに}をしますか。",
+  "q_en": "What will the man do on Sunday?",
+  "options": [
+   "サッカーを{見|み}に{行|い}く",
+   "{図書館|としょかん}で{勉強|べんきょう}する",
+   "{山|やま}に{行|い}く",
+   "{家|いえ}でゆっくりする"
+  ],
+  "answer": 1,
+  "en": "F: What are you doing this weekend?\nM: On Saturday I'm going to watch soccer with friends.\nF: Nice. And Sunday?\nM: I actually wanted to go to the mountains, but it's supposed to rain...\nF: So you'll relax at home?\nM: No, I have a Japanese exam next week, so I'll study at the library.",
+  "why": "He will study at the library on Sunday."
+ },
+ {
+  "id": "l4-14",
+  "level": 4,
+  "title_raw": "Why he changed jobs",
+  "kind": "point",
+  "setup": "{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はどうして{仕事|しごと}を{変|か}えましたか。",
+  "lines": [
+   {
+    "s": "F",
+    "jp": "{会社|かいしゃ}を{変|か}わったそうですね。{前|まえ}の{会社|かいしゃ}は{給料|きゅうりょう}が{安|やす}かったんですか。"
+   },
+   {
+    "s": "M",
+    "jp": "いいえ、{給料|きゅうりょう}は{悪|わる}くなかったですよ。"
+   },
+   {
+    "s": "F",
+    "jp": "じゃあ、{残業|ざんぎょう}が{多|おお}かったとか？"
+   },
+   {
+    "s": "M",
+    "jp": "{残業|ざんぎょう}も{少|すく}なかったです。{実|じつ}は、{子|こ}どもが{生|う}まれたので、{家|いえ}の{近|ちか}くで{働|はたら}きたかったんです。{前|まえ}の{会社|かいしゃ}は{片道|かたみち}2{時間|じかん}もかかったので。"
+   },
+   {
+    "s": "F",
+    "jp": "そうだったんですか。"
+   }
+  ],
+  "question": "{男|おとこ}の{人|ひと}はどうして{仕事|しごと}を{変|か}えましたか。",
+  "q_en": "Why did the man change jobs?",
+  "options": [
+   "{給料|きゅうりょう}が{安|やす}かったから",
+   "{残業|ざんぎょう}が{多|おお}かったから",
+   "{家|いえ}の{近|ちか}くで{働|はたら}きたかったから",
+   "{仕事|しごと}がつまらなかったから"
+  ],
+  "answer": 2,
+  "en": "F: I heard you changed companies. Was the pay low at your old company?\nM: No, the pay wasn't bad.\nF: Then lots of overtime?\nM: There wasn't much overtime either. Actually, my child was born, so I wanted to work near home. My old company took two hours one way.\nF: I see.",
+  "why": "After his child was born he wanted to work near home."
+ },
+ {
+  "id": "l4-15",
+  "level": 4,
+  "title_raw": "What was good about the trip",
+  "kind": "point",
+  "setup": "{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}は{旅行|りょこう}で{何|なに}がいちばんよかったと{言|い}っていますか。",
+  "lines": [
+   {
+    "s": "M",
+    "jp": "{北海道|ほっかいどう}{旅行|りょこう}、どうだった？"
+   },
+   {
+    "s": "F",
+    "jp": "よかったよ。{食|た}べ{物|もの}もおいしかったし。"
+   },
+   {
+    "s": "M",
+    "jp": "やっぱり{魚|さかな}？"
+   },
+   {
+    "s": "F",
+    "jp": "うん、{魚|さかな}もおいしかったけど、いちばんよかったのは{牧場|ぼくじょう}で{馬|うま}に{乗|の}ったことかな。{初|はじ}めてだったから、すごく{楽|たの}しかった。"
+   },
+   {
+    "s": "M",
+    "jp": "へえ、{温泉|おんせん}には{行|い}かなかったの？"
+   },
+   {
+    "s": "F",
+    "jp": "{行|い}ったけど、{人|ひと}が{多|おお}くてゆっくりできなかったんだ。"
+   }
+  ],
+  "question": "{女|おんな}の{人|ひと}は{旅行|りょこう}で{何|なに}がいちばんよかったと{言|い}っていますか。",
+  "q_en": "What does the woman say was the best part of the trip?",
+  "options": [
+   "{雪|ゆき}を{見|み}たこと",
+   "おいしい{魚|さかな}を{食|た}べたこと",
+   "{温泉|おんせん}に{入|はい}ったこと",
+   "{馬|うま}に{乗|の}ったこと"
+  ],
+  "answer": 3,
+  "en": "M: How was your Hokkaido trip?\nF: It was great. The food was delicious too.\nM: The fish, right?\nF: Yeah, the fish was good, but the best part was riding a horse at a ranch. It was my first time, so it was really fun.\nM: Huh, didn't you go to a hot spring?\nF: I went, but it was crowded and I couldn't relax.",
+  "why": "She says riding a horse at the ranch was the best."
+ },
+ {
+  "id": "l4-16",
+  "level": 4,
+  "title_raw": "Problem with the new phone",
+  "kind": "point",
+  "setup": "{店|みせ}で{女|おんな}の{人|ひと}と{店員|てんいん}が{話|はな}しています。{女|おんな}の{人|ひと}のスマートフォンは{何|なに}が{問題|もんだい}ですか。",
+  "lines": [
+   {
+    "s": "M",
+    "jp": "いらっしゃいませ。どうなさいましたか。"
+   },
+   {
+    "s": "F",
+    "jp": "{先週|せんしゅう}ここで{買|か}ったスマートフォンなんですが、ちょっと{調子|ちょうし}が{悪|わる}くて。"
+   },
+   {
+    "s": "M",
+    "jp": "{電源|でんげん}が{入|はい}らないんですか。"
+   },
+   {
+    "s": "F",
+    "jp": "いいえ、{電源|でんげん}は{入|はい}りますし、{電話|でんわ}もできます。でも、{写真|しゃしん}をとろうとすると、{画面|がめん}が{黒|くろ}くなってしまうんです。"
+   },
+   {
+    "s": "M",
+    "jp": "そうですか。ちょっと{見|み}せていただけますか。"
+   }
+  ],
+  "question": "{女|おんな}の{人|ひと}のスマートフォンは{何|なに}が{問題|もんだい}ですか。",
+  "q_en": "What is the problem with the woman's smartphone?",
+  "options": [
+   "{写真|しゃしん}がとれない",
+   "{電話|でんわ}ができない",
+   "{画面|がめん}が{割|わ}れている",
+   "{電源|でんげん}が{入|はい}らない"
+  ],
+  "answer": 0,
+  "en": "M: Welcome. What can I do for you?\nF: It's a smartphone I bought here last week, but it's not working well.\nM: It won't turn on?\nF: No, it turns on and I can make calls. But when I try to take a photo, the screen goes black.\nM: I see. Could you show it to me?",
+  "why": "The screen goes black when she tries to take a photo."
+ },
+ {
+  "id": "l4-17",
+  "level": 4,
+  "title_raw": "Gift for a colleague",
+  "kind": "point",
+  "setup": "{会社|かいしゃ}で{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{二人|ふたり}は{山本|やまもと}さんに{何|なに}をあげますか。",
+  "lines": [
+   {
+    "s": "F",
+    "jp": "{山本|やまもと}さん、{来月|らいげつ}{会社|かいしゃ}をやめるでしょう。みんなで{何|なに}かプレゼントしない？"
+   },
+   {
+    "s": "M",
+    "jp": "いいね。{花|はな}はどう？"
+   },
+   {
+    "s": "F",
+    "jp": "{花|はな}は{持|も}って{帰|かえ}るのが{大変|たいへん}だと{思|おも}う。{電車|でんしゃ}で{帰|かえ}るから。"
+   },
+   {
+    "s": "M",
+    "jp": "そうか。じゃあ、ネクタイは？"
+   },
+   {
+    "s": "F",
+    "jp": "{山本|やまもと}さん、{来月|らいげつ}からは{田舎|いなか}でカフェを{始|はじ}めるんだって。だから、コーヒーカップはどうかな。"
+   },
+   {
+    "s": "M",
+    "jp": "それ、いいね。そうしよう。"
+   }
+  ],
+  "question": "{二人|ふたり}は{山本|やまもと}さんに{何|なに}をあげますか。",
+  "q_en": "What will the two give Yamamoto?",
+  "options": [
+   "{花|はな}",
+   "コーヒーカップ",
+   "ネクタイ",
+   "コーヒー{豆|まめ}"
+  ],
+  "answer": 1,
+  "en": "F: Yamamoto is leaving the company next month, right? Shall we all give her a present?\nM: Good idea. How about flowers?\nF: I think flowers would be hard to carry home. She goes home by train.\nM: I see. Then a tie?\nF: I heard Yamamoto is starting a cafe in the countryside from next month. So how about coffee cups?\nM: That's good. Let's do that.",
+  "why": "They agree on coffee cups because Yamamoto will open a cafe."
+ },
+ {
+  "id": "l4-18",
+  "level": 4,
+  "title_raw": "Why she is studying Japanese",
+  "kind": "point",
+  "setup": "{男|おとこ}の{人|ひと}と{女|おんな}の{留学生|りゅうがくせい}が{話|はな}しています。{女|おんな}の{留学生|りゅうがくせい}はどうして{日本語|にほんご}を{勉強|べんきょう}していますか。",
+  "lines": [
+   {
+    "s": "M",
+    "jp": "アンナさんはどうして{日本語|にほんご}を{勉強|べんきょう}しているんですか。アニメが{好|す}きだからですか。"
+   },
+   {
+    "s": "F",
+    "jp": "アニメも{好|す}きですけど、それが{理由|りゆう}じゃないんです。"
+   },
+   {
+    "s": "M",
+    "jp": "じゃあ、{日本|にほん}の{会社|かいしゃ}で{働|はたら}きたいんですか。"
+   },
+   {
+    "s": "F",
+    "jp": "それもいいですけど…。{実|じつ}は、{祖母|そぼ}が{日本人|にほんじん}なんです。{祖母|そぼ}と{日本語|にほんご}で{話|はな}したいと{思|おも}って{始|はじ}めました。"
+   },
+   {
+    "s": "M",
+    "jp": "そうだったんですか。"
+   }
+  ],
+  "question": "{女|おんな}の{留学生|りゅうがくせい}はどうして{日本語|にほんご}を{勉強|べんきょう}していますか。",
+  "q_en": "Why is the female student studying Japanese?",
+  "options": [
+   "アニメが{好|す}きだから",
+   "{日本|にほん}の{会社|かいしゃ}で{働|はたら}きたいから",
+   "おばあさんと{日本語|にほんご}で{話|はな}したいから",
+   "{日本|にほん}に{住|す}みたいから"
+  ],
+  "answer": 2,
+  "en": "M: Anna, why are you studying Japanese? Because you like anime?\nF: I like anime too, but that's not the reason.\nM: Then do you want to work at a Japanese company?\nF: That would be nice too, but... actually, my grandmother is Japanese. I started because I wanted to talk with her in Japanese.\nM: Oh, I see.",
+  "why": "She wants to talk with her Japanese grandmother in Japanese."
+ },
+ {
+  "id": "l4-19",
+  "level": 4,
+  "title_raw": "Helping the manager",
+  "kind": "utterance",
+  "setup": "{絵|え}を{見|み}ながら{質問|しつもん}を{聞|き}いてください。やじるし（→）の{人|ひと}は{何|なん}と{言|い}いますか。",
+  "lines": [
+   {
+    "s": "N",
+    "jp": "{会社|かいしゃ}にいます。"
+   },
+   {
+    "s": "N",
+    "jp": "{部長|ぶちょう}が{重|おも}そうな{箱|はこ}を{持|も}っています。"
+   },
+   {
+    "s": "N",
+    "jp": "あなたは{部長|ぶちょう}を{手伝|てつだ}いたいです。"
+   },
+   {
+    "s": "N",
+    "jp": "{何|なん}と{言|い}いますか。"
+   }
+  ],
+  "question": "{何|なん}と{言|い}いますか。",
+  "q_en": "What do you say?",
+  "options": [
+   "{持|も}ちましょうか。",
+   "{持|も}ってくださいませんか。",
+   "{持|も}ってもいいですか。"
+  ],
+  "answer": 0,
+  "en": "N: You are at the office. The department manager is carrying a box that looks heavy. You want to help. What do you say?",
+  "why": "~ましょうか is how you offer to do something for someone."
+ },
+ {
+  "id": "l4-20",
+  "level": 4,
+  "title_raw": "Borrowing a pen",
+  "kind": "utterance",
+  "setup": "{絵|え}を{見|み}ながら{質問|しつもん}を{聞|き}いてください。やじるし（→）の{人|ひと}は{何|なん}と{言|い}いますか。",
+  "lines": [
+   {
+    "s": "N",
+    "jp": "{郵便局|ゆうびんきょく}にいます。"
+   },
+   {
+    "s": "N",
+    "jp": "{書類|しょるい}に{名前|なまえ}を{書|か}かなければなりません。"
+   },
+   {
+    "s": "N",
+    "jp": "でも、ペンを{忘|わす}れました。{隣|となり}の{人|ひと}に{借|か}りたいです。"
+   },
+   {
+    "s": "N",
+    "jp": "{何|なん}と{言|い}いますか。"
+   }
+  ],
+  "question": "{何|なん}と{言|い}いますか。",
+  "q_en": "What do you say?",
+  "options": [
+   "ペンを{貸|か}しましょうか。",
+   "ペンを{借|か}りてもらえませんか。",
+   "すみません、ペンを{貸|か}していただけませんか。"
+  ],
+  "answer": 2,
+  "en": "N: You are at the post office. You have to write your name on a form. But you forgot your pen. You want to borrow one from the person next to you. What do you say?",
+  "why": "~ていただけませんか is a polite request for the other person to lend it."
+ },
+ {
+  "id": "l4-21",
+  "level": 4,
+  "title_raw": "Leaving work early",
+  "kind": "utterance",
+  "setup": "{絵|え}を{見|み}ながら{質問|しつもん}を{聞|き}いてください。やじるし（→）の{人|ひと}は{何|なん}と{言|い}いますか。",
+  "lines": [
+   {
+    "s": "N",
+    "jp": "{会社|かいしゃ}にいます。"
+   },
+   {
+    "s": "N",
+    "jp": "{今日|きょう}は{子|こ}どもが{病気|びょうき}です。"
+   },
+   {
+    "s": "N",
+    "jp": "{早|はや}く{帰|かえ}りたいので、{課長|かちょう}に{聞|き}きます。"
+   },
+   {
+    "s": "N",
+    "jp": "{何|なん}と{言|い}いますか。"
+   }
+  ],
+  "question": "{何|なん}と{言|い}いますか。",
+  "q_en": "What do you say?",
+  "options": [
+   "{早|はや}く{帰|かえ}ったほうがいいですよ。",
+   "{早|はや}く{帰|かえ}らせていただけませんか。",
+   "{早|はや}く{帰|かえ}ってもらえますか。"
+  ],
+  "answer": 1,
+  "en": "N: You are at the office. Your child is sick today. You want to go home early, so you ask the section chief. What do you say?",
+  "why": "~させていただけませんか politely asks permission for yourself to do something."
+ },
+ {
+  "id": "l4-22",
+  "level": 4,
+  "title_raw": "Recommending a restaurant",
+  "kind": "utterance",
+  "setup": "{絵|え}を{見|み}ながら{質問|しつもん}を{聞|き}いてください。やじるし（→）の{人|ひと}は{何|なん}と{言|い}いますか。",
+  "lines": [
+   {
+    "s": "N",
+    "jp": "{友達|ともだち}が「おいしいラーメン{屋|や}を{知|し}らない？」と{聞|き}きました。"
+   },
+   {
+    "s": "N",
+    "jp": "あなたは{駅|えき}の{前|まえ}のラーメン{屋|や}が{好|す}きです。"
+   },
+   {
+    "s": "N",
+    "jp": "{友達|ともだち}にすすめたいです。"
+   },
+   {
+    "s": "N",
+    "jp": "{何|なん}と{言|い}いますか。"
+   }
+  ],
+  "question": "{何|なん}と{言|い}いますか。",
+  "q_en": "What do you say?",
+  "options": [
+   "{駅|えき}の{前|まえ}の{店|みせ}に{行|い}ってみたら？",
+   "{駅|えき}の{前|まえ}の{店|みせ}に{行|い}ったことがある？",
+   "{駅|えき}の{前|まえ}の{店|みせ}に{行|い}かないで。"
+  ],
+  "answer": 0,
+  "en": "N: Your friend asked, \"Do you know a good ramen shop?\" You like the ramen shop in front of the station. You want to recommend it. What do you say?",
+  "why": "~てみたら？ is a casual way to suggest trying something."
+ },
+ {
+  "id": "l4-23",
+  "level": 4,
+  "title_raw": "Phone call for a coworker",
+  "kind": "utterance",
+  "setup": "{絵|え}を{見|み}ながら{質問|しつもん}を{聞|き}いてください。やじるし（→）の{人|ひと}は{何|なん}と{言|い}いますか。",
+  "lines": [
+   {
+    "s": "N",
+    "jp": "{会社|かいしゃ}で{電話|でんわ}に{出|で}ました。"
+   },
+   {
+    "s": "N",
+    "jp": "{相手|あいて}は{田中|たなか}さんと{話|はな}したいです。"
+   },
+   {
+    "s": "N",
+    "jp": "でも、{田中|たなか}さんは{今|いま}、{会議|かいぎ}{中|ちゅう}です。"
+   },
+   {
+    "s": "N",
+    "jp": "{何|なん}と{言|い}いますか。"
+   }
+  ],
+  "question": "{何|なん}と{言|い}いますか。",
+  "q_en": "What do you say?",
+  "options": [
+   "{田中|たなか}は{今|いま}、{会議|かいぎ}に{出|で}てください。",
+   "{田中|たなか}さんは{会議|かいぎ}をしましょうか。",
+   "{申|もう}し{訳|わけ}ありません。{田中|たなか}は{今|いま}、{会議|かいぎ}{中|ちゅう}です。"
+  ],
+  "answer": 2,
+  "en": "N: You answered the phone at the office. The caller wants to talk to Tanaka. But Tanaka is in a meeting now. What do you say?",
+  "why": "You apologize and say Tanaka is in a meeting, without さん for your own coworker."
+ },
+ {
+  "id": "l4-24",
+  "level": 4,
+  "title_raw": "Asking the way",
+  "kind": "utterance",
+  "setup": "{絵|え}を{見|み}ながら{質問|しつもん}を{聞|き}いてください。やじるし（→）の{人|ひと}は{何|なん}と{言|い}いますか。",
+  "lines": [
+   {
+    "s": "N",
+    "jp": "{知|し}らない{町|まち}にいます。"
+   },
+   {
+    "s": "N",
+    "jp": "{駅|えき}に{行|い}きたいですが、{道|みち}が{分|わ}かりません。"
+   },
+   {
+    "s": "N",
+    "jp": "{道|みち}を{歩|ある}いている{人|ひと}に{聞|き}きます。"
+   },
+   {
+    "s": "N",
+    "jp": "{何|なん}と{言|い}いますか。"
+   }
+  ],
+  "question": "{何|なん}と{言|い}いますか。",
+  "q_en": "What do you say?",
+  "options": [
+   "すみません、{駅|えき}まで{案内|あんない}しましょうか。",
+   "すみません、{駅|えき}はどう{行|い}けばいいですか。",
+   "すみません、{駅|えき}に{行|い}ったことがありますか。"
+  ],
+  "answer": 1,
+  "en": "N: You are in a town you don't know. You want to go to the station but don't know the way. You ask someone walking on the street. What do you say?",
+  "why": "どう{行|い}けばいいですか asks how to get somewhere."
+ },
+ {
+  "id": "l4-25",
+  "level": 4,
+  "title_raw": "Before eating at a friend's house",
+  "kind": "utterance",
+  "setup": "{絵|え}を{見|み}ながら{質問|しつもん}を{聞|き}いてください。やじるし（→）の{人|ひと}は{何|なん}と{言|い}いますか。",
+  "lines": [
+   {
+    "s": "N",
+    "jp": "{友達|ともだち}の{家|いえ}にいます。"
+   },
+   {
+    "s": "N",
+    "jp": "{友達|ともだち}のお{母|かあ}さんが{晩|ばん}ご{飯|はん}を{作|つく}ってくれました。"
+   },
+   {
+    "s": "N",
+    "jp": "これから{食|た}べます。"
+   },
+   {
+    "s": "N",
+    "jp": "{何|なん}と{言|い}いますか。"
+   }
+  ],
+  "question": "{何|なん}と{言|い}いますか。",
+  "q_en": "What do you say?",
+  "options": [
+   "いただきます。",
+   "ごちそうさまでした。",
+   "お{待|ま}たせしました。"
+  ],
+  "answer": 0,
+  "en": "N: You are at a friend's house. Your friend's mother made dinner for you. You are about to eat. What do you say?",
+  "why": "いただきます is said before eating; ごちそうさま is after."
+ },
+ {
+  "id": "l4-26",
+  "level": 4,
+  "title_raw": "Offer of tea",
+  "kind": "response",
+  "setup": "{文|ぶん}を{聞|き}いて、{正|ただ}しい{答|こた}えを{選|えら}んでください。",
+  "lines": [
+   {
+    "s": "F",
+    "jp": "お{茶|ちゃ}でも{飲|の}みませんか。"
+   }
+  ],
+  "question": "{返事|へんじ}として{正|ただ}しいのはどれですか。",
+  "q_en": "Which is the correct reply?",
+  "options": [
+   "はい、{飲|の}みませんでした。",
+   "どうぞ{飲|の}んでください。",
+   "ええ、いただきます。"
+  ],
+  "answer": 2,
+  "en": "F: Would you like some tea or something?",
+  "why": "ええ、いただきます accepts the offer politely."
+ },
+ {
+  "id": "l4-27",
+  "level": 4,
+  "title_raw": "Long time no see",
+  "kind": "response",
+  "setup": "{文|ぶん}を{聞|き}いて、{正|ただ}しい{答|こた}えを{選|えら}んでください。",
+  "lines": [
+   {
+    "s": "M",
+    "jp": "{久|ひさ}しぶりですね。お{元気|げんき}でしたか。"
+   }
+  ],
+  "question": "{返事|へんじ}として{正|ただ}しいのはどれですか。",
+  "q_en": "Which is the correct reply?",
+  "options": [
+   "はい、はじめまして。",
+   "ええ、おかげさまで。",
+   "いいえ、{元気|げんき}にしてください。"
+  ],
+  "answer": 1,
+  "en": "M: It's been a long time. Have you been well?",
+  "why": "おかげさまで is the natural reply meaning \"yes, thanks.\""
+ },
+ {
+  "id": "l4-28",
+  "level": 4,
+  "title_raw": "Leaving the office first",
+  "kind": "response",
+  "setup": "{文|ぶん}を{聞|き}いて、{正|ただ}しい{答|こた}えを{選|えら}んでください。",
+  "lines": [
+   {
+    "s": "F",
+    "jp": "すみません、お{先|さき}に{失礼|しつれい}します。"
+   }
+  ],
+  "question": "{返事|へんじ}として{正|ただ}しいのはどれですか。",
+  "q_en": "Which is the correct reply?",
+  "options": [
+   "お{疲|つか}れさまでした。",
+   "いってらっしゃい。",
+   "{失礼|しつれい}しました。"
+  ],
+  "answer": 0,
+  "en": "F: Excuse me, I'll be leaving before you.",
+  "why": "お{疲|つか}れさまでした is said to a coworker who is going home."
+ },
+ {
+  "id": "l4-29",
+  "level": 4,
+  "title_raw": "Window open",
+  "kind": "response",
+  "setup": "{文|ぶん}を{聞|き}いて、{正|ただ}しい{答|こた}えを{選|えら}んでください。",
+  "lines": [
+   {
+    "s": "M",
+    "jp": "{寒|さむ}いですね。{窓|まど}を{閉|し}めてもいいですか。"
+   }
+  ],
+  "question": "{返事|へんじ}として{正|ただ}しいのはどれですか。",
+  "q_en": "Which is the correct reply?",
+  "options": [
+   "はい、{閉|し}めてください。{寒|さむ}くないです。",
+   "いいえ、{開|あ}けましょうか。",
+   "ええ、どうぞ。"
+  ],
+  "answer": 2,
+  "en": "M: It's cold, isn't it? May I close the window?",
+  "why": "ええ、どうぞ gives permission."
+ },
+ {
+  "id": "l4-30",
+  "level": 4,
+  "title_raw": "Cooking compliment",
+  "kind": "response",
+  "setup": "{文|ぶん}を{聞|き}いて、{正|ただ}しい{答|こた}えを{選|えら}んでください。",
+  "lines": [
+   {
+    "s": "F",
+    "jp": "これ、{私|わたし}が{作|つく}ったんだけど、{味|あじ}はどう？"
+   }
+  ],
+  "question": "{返事|へんじ}として{正|ただ}しいのはどれですか。",
+  "q_en": "Which is the correct reply?",
+  "options": [
+   "うん、{作|つく}ってみる。",
+   "すごくおいしいよ。",
+   "ごめん、{作|つく}れないよ。"
+  ],
+  "answer": 1,
+  "en": "F: I made this. How does it taste?",
+  "why": "She asks about the taste, so you comment on it."
+ },
+ {
+  "id": "l4-31",
+  "level": 4,
+  "title_raw": "Borrowing a book",
+  "kind": "response",
+  "setup": "{文|ぶん}を{聞|き}いて、{正|ただ}しい{答|こた}えを{選|えら}んでください。",
+  "lines": [
+   {
+    "s": "M",
+    "jp": "この{本|ほん}、{来週|らいしゅう}まで{借|か}りてもいい？"
+   }
+  ],
+  "question": "{返事|へんじ}として{正|ただ}しいのはどれですか。",
+  "q_en": "Which is the correct reply?",
+  "options": [
+   "うん、いいよ。ゆっくり{読|よ}んで。",
+   "うん、{貸|か}してくれてありがとう。",
+   "{来週|らいしゅう}、{借|か}りに{行|い}くね。"
+  ],
+  "answer": 0,
+  "en": "M: Can I borrow this book until next week?",
+  "why": "You give permission and tell him to take his time."
+ },
+ {
+  "id": "l4-32",
+  "level": 4,
+  "title_raw": "Late for class",
+  "kind": "response",
+  "setup": "{文|ぶん}を{聞|き}いて、{正|ただ}しい{答|こた}えを{選|えら}んでください。",
+  "lines": [
+   {
+    "s": "F",
+    "jp": "{遅|おく}れてすみません。{電車|でんしゃ}が{遅|おく}れてしまって。"
+   }
+  ],
+  "question": "{返事|へんじ}として{正|ただ}しいのはどれですか。",
+  "q_en": "Which is the correct reply?",
+  "options": [
+   "{電車|でんしゃ}で{来|き}てください。",
+   "{早|はや}く{遅|おく}れてください。",
+   "それは{大変|たいへん}でしたね。{座|すわ}ってください。"
+  ],
+  "answer": 2,
+  "en": "F: Sorry I'm late. The train was delayed.",
+  "why": "You show sympathy and ask her to sit down."
+ }
+]

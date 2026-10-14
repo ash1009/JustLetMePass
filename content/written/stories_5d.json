@@ -1,0 +1,698 @@
+[
+ {
+  "id": "s5-039",
+  "level": 5,
+  "title": "{佐藤|さとう}さんの{家|いえ}の{日曜日|にちようび}の{朝|あさ}",
+  "title_en": "Sunday Morning at the Satos'",
+  "genre_raw": "Slice of life",
+  "paragraphs": [
+   {
+    "jp": "わたしは{佐藤|さとう}ゆいです。{十二歳|じゅうにさい}です。{家族|かぞく}は{四人|よにん}です。{父|ちち}と{母|はは}と{弟|おとうと}のけんたとわたしです。それから、ポチという{犬|いぬ}もいます。ポチはとてもよく{寝|ね}ます。",
+    "en": "I am Yui Sato. I am twelve. There are four people in my family: my dad, my mum, my little brother Kenta and me. We also have a dog called Pochi. Pochi sleeps a lot."
+   },
+   {
+    "jp": "{日曜日|にちようび}の{朝|あさ}、{家|いえ}はとても{静|しず}かです。{父|ちち}は{十時|じゅうじ}まで{寝|ね}ています。{母|はは}はコーヒーを{飲|の}みながら、{新聞|しんぶん}を{読|よ}みます。けんたはテレビでアニメを{見|み}ます。",
+    "en": "On Sunday mornings our house is very quiet. Dad sleeps until ten. Mum reads the newspaper while drinking coffee. Kenta watches cartoons on TV."
+   },
+   {
+    "jp": "でも、この{日曜日|にちようび}はちがいました。{朝|あさ}{六時|ろくじ}に、「ワン！ワン！」と{大|おお}きい{声|こえ}が{聞|き}こえました。ポチです。いつも{寝|ね}ているポチが、げんかんで{何回|なんかい}も{鳴|な}いています。",
+    "en": "But this Sunday was different. At six in the morning we heard a loud \"Woof! Woof!\" It was Pochi. Pochi, who is always asleep, was barking again and again at the front door."
+   },
+   {
+    "jp": "{家族|かぞく}は{全員|ぜんいん}{起|お}きて、げんかんに{行|い}きました。{父|ちち}がドアを{開|あ}けました。そこには、{大|おお}きいねこがいました。ねこはポチを{見|み}て、ゆっくり{歩|ある}いて{行|い}きました。",
+    "en": "The whole family got up and went to the front door. Dad opened the door. There was a big cat there. The cat looked at Pochi and slowly walked away."
+   },
+   {
+    "jp": "ポチはまんぞくして、すぐにソファで{寝|ね}ました。でも、わたしたちはもう{眠|ねむ}くありません。{母|はは}は「じゃあ、みんなで{朝|あさ}ごはんを{食|た}べましょう」と{言|い}いました。とても{早|はや}い{日曜日|にちようび}でした。",
+    "en": "Pochi was satisfied and fell asleep on the sofa right away. But we were not sleepy any more. Mum said, \"Well then, let's all eat breakfast.\" It was a very early Sunday."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{朝|あさ}{六時|ろくじ}に{何|なに}がありましたか。",
+    "q_en": "What happened at six in the morning?",
+    "options": [
+     "{父|ちち}がアニメを{見|み}ました",
+     "ポチがげんかんで{鳴|な}きました",
+     "ねこが{家|いえ}に{入|はい}りました",
+     "{母|はは}がコーヒーを{作|つく}りました"
+    ],
+    "answer": 1,
+    "why": "Pochi barked loudly at the front door at six."
+   },
+   {
+    "q": "ポチはどうして{鳴|な}きましたか。",
+    "q_en": "Why did Pochi bark?",
+    "options": [
+     "おなかがすいたから",
+     "{散歩|さんぽ}に{行|い}きたかったから",
+     "{父|ちち}が{起|お}きなかったから",
+     "ドアの{外|そと}にねこがいたから"
+    ],
+    "answer": 3,
+    "why": "There was a big cat outside the front door."
+   }
+  ]
+ },
+ {
+  "id": "s5-040",
+  "level": 5,
+  "title": "{父|ちち}のカレー",
+  "title_en": "Dad's Curry",
+  "genre_raw": "Food",
+  "paragraphs": [
+   {
+    "jp": "{土曜日|どようび}の{夕方|ゆうがた}、{父|ちち}が「{今日|きょう}は{僕|ぼく}が{晩|ばん}ごはんを{作|つく}ります」と{言|い}いました。{母|はは}とわたしとけんたは、{少|すこ}しびっくりしました。{父|ちち}はあまり{料理|りょうり}をしません。",
+    "en": "On Saturday evening, Dad said, \"Today I'll make dinner.\" Mum, Kenta and I were a little surprised. Dad doesn't cook much."
+   },
+   {
+    "jp": "{父|ちち}はカレーを{作|つく}りました。{肉|にく}とじゃがいもとにんじんを{切|き}りました。でも、{玉|たま}ねぎを{切|き}るとき、{父|ちち}はたくさん{泣|な}きました。けんたは「お{父|とう}さん、{悲|かな}しいの？」と{聞|き}きました。",
+    "en": "Dad made curry. He cut meat, potatoes and carrots. But when he cut the onions, he cried a lot. Kenta asked, \"Dad, are you sad?\""
+   },
+   {
+    "jp": "{一時間|いちじかん}{後|ご}、カレーができました。いいにおいです。ポチも{台所|だいどころ}に{来|き}ました。わたしたちは「いただきます」と{言|い}って、{食|た}べました。",
+    "en": "An hour later, the curry was ready. It smelled good. Even Pochi came to the kitchen. We said \"Itadakimasu\" and started eating."
+   },
+   {
+    "jp": "{一口|ひとくち}{食|た}べて、みんな{水|みず}を{飲|の}みました。とても{辛|から}いです！{父|ちち}はカレーのルーを{全部|ぜんぶ}{入|い}れました。そして、とうがらしも{入|い}れました。{父|ちち}は「{辛|から}いほうがおいしいでしょう」と{笑|わら}いました。",
+    "en": "After one bite, everyone drank water. It was very spicy! Dad had put in all the curry roux. And he added chilli peppers too. Dad laughed and said, \"Spicy is tastier, right?\""
+   },
+   {
+    "jp": "{母|はは}は{冷蔵庫|れいぞうこ}から{牛乳|ぎゅうにゅう}とたまごを{出|だ}しました。カレーに{牛乳|ぎゅうにゅう}を{入|い}れると、{少|すこ}し{甘|あま}くなりました。{最後|さいご}は、みんな{全部|ぜんぶ}{食|た}べました。{父|ちち}は「{来週|らいしゅう}も{作|つく}ります」と{言|い}いました。みんな{少|すこ}しこわかったです。",
+    "en": "Mum took milk and eggs out of the fridge. When she added milk to the curry, it became a little milder. In the end, everyone ate it all. Dad said, \"I'll make it again next week.\" Everyone was a little scared."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{父|ちち}はどうして{泣|な}きましたか。",
+    "q_en": "Why did Dad cry?",
+    "options": [
+     "カレーが{辛|から}かったから",
+     "{玉|たま}ねぎを{切|き}ったから",
+     "けんたが{笑|わら}ったから",
+     "{料理|りょうり}が{下手|へた}だったから"
+    ],
+    "answer": 1,
+    "why": "He cried while cutting the onions."
+   },
+   {
+    "q": "カレーはどうでしたか。",
+    "q_en": "What was the curry like?",
+    "options": [
+     "とても{辛|から}かったです",
+     "とても{甘|あま}かったです",
+     "{冷|つめ}たかったです",
+     "{肉|にく}がありませんでした"
+    ],
+    "answer": 0,
+    "why": "Everyone drank water because it was very spicy."
+   },
+   {
+    "q": "{最後|さいご}に、みんなはどう{思|おも}いましたか。",
+    "q_en": "How did everyone feel at the end?",
+    "options": [
+     "{来週|らいしゅう}も{楽|たの}しみです",
+     "{母|はは}のカレーがきらいです",
+     "{来週|らいしゅう}のカレーが{少|すこ}しこわいです",
+     "もう{何|なに}も{食|た}べません"
+    ],
+    "answer": 2,
+    "why": "When Dad said he would cook again next week, everyone felt a little scared."
+   }
+  ]
+ },
+ {
+  "id": "s5-041",
+  "level": 5,
+  "title": "ゆいのテスト",
+  "title_en": "Yui's Test",
+  "genre_raw": "Daily life",
+  "paragraphs": [
+   {
+    "jp": "{来週|らいしゅう}の{月曜日|げつようび}、{学校|がっこう}で{漢字|かんじ}のテストがあります。わたしは{漢字|かんじ}があまり{好|す}きじゃありません。でも、{今度|こんど}はいい{点|てん}を{取|と}りたいです。",
+    "en": "Next Monday there is a kanji test at school. I don't like kanji very much. But this time I want to get a good score."
+   },
+   {
+    "jp": "{毎晩|まいばん}、わたしは{自分|じぶん}の{部屋|へや}で{勉強|べんきょう}しました。{父|ちち}は「がんばって」と{言|い}って、お{茶|ちゃ}を{持|も}って{来|き}ました。{母|はは}はチョコレートをくれました。けんたは{静|しず}かにしてくれました。",
+    "en": "Every night I studied in my room. Dad said \"Good luck\" and brought me tea. Mum gave me chocolate. Kenta stayed quiet for me."
+   },
+   {
+    "jp": "ポチも{毎晩|まいばん}わたしの{部屋|へや}に{来|き}ました。そして、わたしの{足|あし}の{上|うえ}で{寝|ね}ました。ポチはあたたかくて、とても{重|おも}かったです。",
+    "en": "Pochi also came to my room every night. And he slept on my feet. Pochi was warm and very heavy."
+   },
+   {
+    "jp": "{月曜日|げつようび}、テストはむずかしくありませんでした。{金曜日|きんようび}に{先生|せんせい}がテストを{返|かえ}しました。{九十五点|きゅうじゅうごてん}でした！わたしはとてもうれしかったです。",
+    "en": "On Monday, the test was not difficult. On Friday the teacher gave the tests back. I got ninety-five points! I was very happy."
+   },
+   {
+    "jp": "{家|いえ}に{帰|かえ}って、{家族|かぞく}にテストを{見|み}せました。みんな「すごい！」と{言|い}いました。でも、ポチはテストを{見|み}ないで、わたしの{足|あし}の{上|うえ}でまた{寝|ね}ました。たぶん、ポチもいっしょに{勉強|べんきょう}したと{思|おも}っています。",
+    "en": "I went home and showed my family the test. Everyone said, \"Amazing!\" But Pochi didn't look at the test and fell asleep on my feet again. Maybe Pochi thinks he studied with me too."
+   }
+  ],
+  "questions": [
+   {
+    "q": "ゆいのテストは{何点|なんてん}でしたか。",
+    "q_en": "What score did Yui get on the test?",
+    "options": [
+     "{五十点|ごじゅってん}",
+     "{九十点|きゅうじゅってん}",
+     "{百点|ひゃくてん}",
+     "{九十五点|きゅうじゅうごてん}"
+    ],
+    "answer": 3,
+    "why": "Yui got ninety-five points."
+   },
+   {
+    "q": "ゆいが{勉強|べんきょう}しているとき、ポチは{何|なに}をしましたか。",
+    "q_en": "What did Pochi do while Yui was studying?",
+    "options": [
+     "ゆいの{足|あし}の{上|うえ}で{寝|ね}ました",
+     "チョコレートを{食|た}べました",
+     "{大|おお}きい{声|こえ}で{鳴|な}きました",
+     "けんたと{遊|あそ}びました"
+    ],
+    "answer": 0,
+    "why": "Pochi slept on Yui's feet every night."
+   }
+  ]
+ },
+ {
+  "id": "s5-042",
+  "level": 5,
+  "title": "{母|はは}の{新|あたら}しいしゅみ",
+  "title_en": "Mum's New Hobby",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "{先月|せんげつ}から、{母|はは}は{絵|え}をかいています。{毎週|まいしゅう}{水曜日|すいようび}に、{駅|えき}の{近|ちか}くの{教室|きょうしつ}に{行|い}きます。{母|はは}は「{絵|え}はとても{楽|たの}しいです」と{言|い}います。",
+    "en": "Since last month, Mum has been painting. Every Wednesday she goes to a class near the station. Mum says, \"Painting is a lot of fun.\""
+   },
+   {
+    "jp": "ある{日|ひ}、{母|はは}は{家|いえ}で{絵|え}をかきました。{父|ちち}とけんたとわたしは、{母|はは}の{絵|え}を{見|み}ました。{茶色|ちゃいろ}の{丸|まる}いものがあります。{耳|みみ}が{二|ふた}つあります。",
+    "en": "One day, Mum painted at home. Dad, Kenta and I looked at her picture. There was a round brown thing. It had two ears."
+   },
+   {
+    "jp": "{父|ちち}は「いいパンですね」と{言|い}いました。けんたは「くまでしょう？」と{言|い}いました。わたしは「{山|やま}？」と{聞|き}きました。{母|はは}は{何|なに}も{言|い}いませんでした。",
+    "en": "Dad said, \"Nice bread.\" Kenta said, \"It's a bear, right?\" I asked, \"A mountain?\" Mum didn't say anything."
+   },
+   {
+    "jp": "そのとき、ポチが{来|き}ました。ポチは{絵|え}の{前|まえ}にすわって、しっぽを{振|ふ}りました。{母|はは}はにっこり{笑|わら}って、「ポチはわかりますね。これはポチです」と{言|い}いました。",
+    "en": "Just then, Pochi came. Pochi sat in front of the picture and wagged his tail. Mum smiled and said, \"Pochi understands. This is Pochi.\""
+   },
+   {
+    "jp": "{今|いま}、その{絵|え}は{居間|いま}のかべにあります。ポチはときどき{絵|え}の{下|した}で{寝|ね}ます。{二|ふた}つのポチは、とてもよく{似|に}ています。",
+    "en": "Now that picture is on the living room wall. Pochi sometimes sleeps under it. The two Pochis look very much alike."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{母|はは}の{絵|え}は{何|なん}の{絵|え}でしたか。",
+    "q_en": "What was Mum's picture of?",
+    "options": [
+     "パン",
+     "くま",
+     "ポチ",
+     "{山|やま}"
+    ],
+    "answer": 2,
+    "why": "Mum said the picture was of Pochi."
+   },
+   {
+    "q": "{母|はは}はいつ{絵|え}の{教室|きょうしつ}に{行|い}きますか。",
+    "q_en": "When does Mum go to her painting class?",
+    "options": [
+     "{毎週|まいしゅう}{月曜日|げつようび}",
+     "{毎週|まいしゅう}{水曜日|すいようび}",
+     "{毎週|まいしゅう}{土曜日|どようび}",
+     "{毎日|まいにち}"
+    ],
+    "answer": 1,
+    "why": "She goes every Wednesday to a class near the station."
+   }
+  ]
+ },
+ {
+  "id": "s5-043",
+  "level": 5,
+  "title": "{動物園|どうぶつえん}に{行|い}きました",
+  "title_en": "A Trip to the Zoo",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "{五月|ごがつ}の{休|やす}みに、{家族|かぞく}で{動物園|どうぶつえん}に{行|い}きました。ポチは{動物園|どうぶつえん}に{入|はい}ることができませんから、となりの{田中|たなか}さんの{家|いえ}にいました。",
+    "en": "During the May holidays, my family went to the zoo. Pochi can't go into the zoo, so he stayed at the Tanakas' house next door."
+   },
+   {
+    "jp": "{動物園|どうぶつえん}にはいろいろな{動物|どうぶつ}がいました。けんたはゾウが{大好|だいす}きです。ゾウの{前|まえ}で{三十分|さんじゅっぷん}も{見|み}ていました。わたしはパンダを{見|み}たかったです。でも、パンダの{前|まえ}は{人|ひと}がとても{多|おお}かったです。",
+    "en": "There were all kinds of animals at the zoo. Kenta loves elephants. He watched them for a whole thirty minutes. I wanted to see the panda. But there were lots of people in front of the panda."
+   },
+   {
+    "jp": "やっとパンダの{前|まえ}に{行|い}きました。でも、パンダは{木|き}の{下|した}で{寝|ね}ていました。{全然|ぜんぜん}{動|うご}きません。けんたは「ポチとおなじだね」と{言|い}いました。みんな{笑|わら}いました。",
+    "en": "Finally we got to the front of the panda. But the panda was sleeping under a tree. It didn't move at all. Kenta said, \"It's just like Pochi.\" Everyone laughed."
+   },
+   {
+    "jp": "{次|つぎ}に、サルを{見|み}ました。サルはとても{元気|げんき}でした。{一匹|いっぴき}のサルが{父|ちち}の{帽子|ぼうし}を{見|み}て、{手|て}を{伸|の}ばしました。{父|ちち}はびっくりして、{後|うし}ろに{下|さ}がりました。",
+    "en": "Next we saw the monkeys. The monkeys were very lively. One monkey looked at Dad's hat and reached out its hand. Dad was startled and stepped back."
+   },
+   {
+    "jp": "{夕方|ゆうがた}、{家|いえ}に{帰|かえ}って、ポチを{迎|むか}えに{行|い}きました。ポチは{田中|たなか}さんの{家|いえ}のソファで{寝|ね}ていました。{田中|たなか}さんは「ポチは{一日中|いちにちじゅう}{寝|ね}ていましたよ」と{言|い}いました。やっぱりパンダとおなじです。",
+    "en": "In the evening we got home and went to pick up Pochi. Pochi was sleeping on the sofa at the Tanakas' house. Mrs Tanaka said, \"Pochi slept all day.\" Just like the panda, after all."
+   }
+  ],
+  "questions": [
+   {
+    "q": "ポチは{動物園|どうぶつえん}の{日|ひ}、どこにいましたか。",
+    "q_en": "Where was Pochi on the day of the zoo trip?",
+    "options": [
+     "{動物園|どうぶつえん}",
+     "{車|くるま}の{中|なか}",
+     "{田中|たなか}さんの{家|いえ}",
+     "{佐藤|さとう}さんの{家|いえ}の{庭|にわ}"
+    ],
+    "answer": 2,
+    "why": "Dogs can't enter the zoo, so Pochi stayed at the Tanakas' next door."
+   },
+   {
+    "q": "けんたはどうして「ポチとおなじ」と{言|い}いましたか。",
+    "q_en": "Why did Kenta say \"just like Pochi\"?",
+    "options": [
+     "パンダが{寝|ね}ていたから",
+     "パンダが{茶色|ちゃいろ}だったから",
+     "パンダがよく{食|た}べたから",
+     "パンダが{鳴|な}いたから"
+    ],
+    "answer": 0,
+    "why": "The panda was asleep and didn't move, just like lazy Pochi."
+   }
+  ]
+ },
+ {
+  "id": "s5-044",
+  "level": 5,
+  "title": "けんたのくつ",
+  "title_en": "Kenta's Shoe",
+  "genre_raw": "Mystery",
+  "paragraphs": [
+   {
+    "jp": "{月曜日|げつようび}の{朝|あさ}、けんたが{大|おお}きい{声|こえ}で「くつがない！」と{言|い}いました。{青|あお}いくつが{一|ひと}つしかありません。けんたは{八時|はちじ}に{学校|がっこう}に{行|い}かなければなりません。",
+    "en": "On Monday morning, Kenta shouted, \"My shoe is gone!\" There was only one of his blue shoes. Kenta has to leave for school at eight."
+   },
+   {
+    "jp": "{家族|かぞく}みんなでさがしました。{母|はは}はげんかんを{見|み}ました。{父|ちち}は{車|くるま}の{中|なか}を{見|み}ました。わたしはけんたの{部屋|へや}を{見|み}ました。でも、くつはどこにもありません。",
+    "en": "The whole family searched. Mum looked in the entrance. Dad looked in the car. I looked in Kenta's room. But the shoe was nowhere."
+   },
+   {
+    "jp": "もう{七時|しちじ}{五十分|ごじゅっぷん}です。けんたは{泣|な}きそうな{顔|かお}をしています。そのとき、わたしはポチを{見|み}ました。ポチはいつもの{場所|ばしょ}で{寝|ね}ていました。でも、ポチの{頭|あたま}の{下|した}に、{何|なに}か{青|あお}いものがあります。",
+    "en": "It was already 7:50. Kenta looked like he was about to cry. Just then, I looked at Pochi. Pochi was sleeping in his usual spot. But under Pochi's head, there was something blue."
+   },
+   {
+    "jp": "それはけんたのくつでした！ポチはくつをまくらにしていました。けんたは「ポチ、ぼくのくつを{返|かえ}して！」と{言|い}いました。ポチはゆっくり{起|お}きて、あくびをしました。",
+    "en": "It was Kenta's shoe! Pochi was using it as a pillow. Kenta said, \"Pochi, give me back my shoe!\" Pochi slowly got up and yawned."
+   },
+   {
+    "jp": "けんたは{走|はし}って{学校|がっこう}に{行|い}きました。{間|ま}に{合|あ}いました。その{日|ひ}の{夕方|ゆうがた}、{母|はは}はポチに{新|あたら}しいまくらを{買|か}いました。でも、ポチは{今|いま}も{父|ちち}のスリッパの{上|うえ}で{寝|ね}ます。",
+    "en": "Kenta ran to school. He made it in time. That evening, Mum bought Pochi a new pillow. But Pochi still sleeps on Dad's slippers."
+   }
+  ],
+  "questions": [
+   {
+    "q": "けんたのくつはどこにありましたか。",
+    "q_en": "Where was Kenta's shoe?",
+    "options": [
+     "{車|くるま}の{中|なか}",
+     "けんたの{部屋|へや}",
+     "げんかん",
+     "ポチの{頭|あたま}の{下|した}"
+    ],
+    "answer": 3,
+    "why": "Pochi was using the shoe as a pillow."
+   },
+   {
+    "q": "けんたは{学校|がっこう}に{間|ま}に{合|あ}いましたか。",
+    "q_en": "Did Kenta get to school on time?",
+    "options": [
+     "いいえ、{遅|おく}れました",
+     "はい、{間|ま}に{合|あ}いました",
+     "{学校|がっこう}に{行|い}きませんでした",
+     "{父|ちち}の{車|くるま}で{行|い}きました"
+    ],
+    "answer": 1,
+    "why": "He ran to school and made it in time."
+   },
+   {
+    "q": "ポチは{今|いま}、どこで{寝|ね}ますか。",
+    "q_en": "Where does Pochi sleep now?",
+    "options": [
+     "{新|あたら}しいまくらの{上|うえ}",
+     "けんたのくつの{上|うえ}",
+     "{父|ちち}のスリッパの{上|うえ}",
+     "ソファの{下|した}"
+    ],
+    "answer": 2,
+    "why": "He ignores the new pillow and sleeps on Dad's slippers."
+   }
+  ]
+ },
+ {
+  "id": "s5-045",
+  "level": 5,
+  "title": "おじいさんが{来|き}ました",
+  "title_en": "Grandpa Visits",
+  "genre_raw": "Slice of life",
+  "paragraphs": [
+   {
+    "jp": "{土曜日|どようび}に、{父|ちち}のお{父|とう}さんが{田舎|いなか}から{来|き}ました。わたしたちのおじいさんです。{七十五歳|ななじゅうごさい}ですが、とても{元気|げんき}です。{毎朝|まいあさ}{五時|ごじ}に{起|お}きて、{一時間|いちじかん}{散歩|さんぽ}します。",
+    "en": "On Saturday, Dad's father came from the countryside. He is our grandpa. He is seventy-five, but very energetic. Every morning he gets up at five and goes for a one-hour walk."
+   },
+   {
+    "jp": "{日曜日|にちようび}の{朝|あさ}{五時|ごじ}、おじいさんは「ポチ、{散歩|さんぽ}に{行|い}こう」と{言|い}いました。ポチは{目|め}を{少|すこ}し{開|あ}けて、また{閉|と}じました。でも、おじいさんはポチをつれて{出|で}かけました。",
+    "en": "At five on Sunday morning, Grandpa said, \"Pochi, let's go for a walk.\" Pochi opened his eyes a little and closed them again. But Grandpa took Pochi out anyway."
+   },
+   {
+    "jp": "{七時|しちじ}に、{二人|ふたり}は{帰|かえ}って{来|き}ました。おじいさんは{元気|げんき}でしたが、ポチはとても{疲|つか}れていました。ポチはげんかんで{寝|ね}て、{昼|ひる}まで{起|お}きませんでした。",
+    "en": "At seven, the two of them came back. Grandpa was full of energy, but Pochi was very tired. Pochi lay down at the front door and didn't get up until noon."
+   },
+   {
+    "jp": "{午後|ごご}、おじいさんはけんたとサッカーをしました。わたしとはトランプをしました。{夜|よる}は{父|ちち}とお{酒|さけ}を{飲|の}みました。おじいさんは{一日中|いちにちじゅう}{元気|げんき}でした。",
+    "en": "In the afternoon, Grandpa played football with Kenta. He played cards with me. At night he drank sake with Dad. Grandpa was full of energy all day."
+   },
+   {
+    "jp": "{月曜日|げつようび}の{朝|あさ}、おじいさんは{田舎|いなか}に{帰|かえ}りました。{駅|えき}で「また{来月|らいげつ}{来|き}ますよ」と{言|い}いました。{家|いえ}に{帰|かえ}ると、ポチがソファの{下|した}にかくれていました。",
+    "en": "On Monday morning, Grandpa went back to the countryside. At the station he said, \"I'll come again next month.\" When we got home, Pochi was hiding under the sofa."
+   }
+  ],
+  "questions": [
+   {
+    "q": "おじいさんは{毎朝|まいあさ}{何|なに}をしますか。",
+    "q_en": "What does Grandpa do every morning?",
+    "options": [
+     "{一時間|いちじかん}{散歩|さんぽ}します",
+     "サッカーをします",
+     "{昼|ひる}まで{寝|ね}ます",
+     "お{酒|さけ}を{飲|の}みます"
+    ],
+    "answer": 0,
+    "why": "He gets up at five and walks for an hour."
+   },
+   {
+    "q": "ポチはどうしてソファの{下|した}にかくれましたか。",
+    "q_en": "Why did Pochi hide under the sofa?",
+    "options": [
+     "{雨|あめ}がこわかったから",
+     "おじいさんがまた{来|く}ると{聞|き}いたから",
+     "おなかがいたかったから",
+     "けんたとサッカーをしたかったから"
+    ],
+    "answer": 1,
+    "why": "Grandpa said he would come again, and Pochi didn't want another early walk."
+   }
+  ]
+ },
+ {
+  "id": "s5-046",
+  "level": 5,
+  "title": "{暗|くら}い{夜|よる}",
+  "title_en": "A Dark Night",
+  "genre_raw": "Daily life",
+  "paragraphs": [
+   {
+    "jp": "{冬|ふゆ}のある{夜|よる}、{家族|かぞく}で{晩|ばん}ごはんを{食|た}べていました。{外|そと}は{強|つよ}い{風|かぜ}がふいていました。すると、{急|きゅう}に{電気|でんき}が{消|き}えました。{家|いえ}の{中|なか}が{真|ま}っ{暗|くら}になりました。",
+    "en": "One winter night, my family was eating dinner. Outside, a strong wind was blowing. Then suddenly the lights went out. The house became pitch dark."
+   },
+   {
+    "jp": "けんたは「こわい！」と{言|い}って、{母|はは}の{手|て}を{持|も}ちました。{父|ちち}は「だいじょうぶ。ろうそくがあります」と{言|い}って、{立|た}ちました。でも、{暗|くら}くて、{父|ちち}はいすに{足|あし}をぶつけました。「いたい！」",
+    "en": "Kenta said, \"I'm scared!\" and held Mum's hand. Dad said, \"It's OK. We have candles,\" and stood up. But it was dark, and Dad banged his foot on a chair. \"Ouch!\""
+   },
+   {
+    "jp": "{母|はは}がろうそくに{火|ひ}をつけました。{部屋|へや}が{少|すこ}し{明|あか}るくなりました。テレビもゲームもできません。だから、わたしたちはテーブルで{話|はな}しました。{父|ちち}は{子|こ}どものときの{話|はなし}をしました。とてもおもしろかったです。",
+    "en": "Mum lit the candles. The room became a little brighter. We couldn't watch TV or play games. So we talked at the table. Dad told stories from when he was a child. They were very funny."
+   },
+   {
+    "jp": "ところで、ポチはどこでしょう。{電気|でんき}が{消|き}えたとき、ポチはこわくなかったでしょうか。ろうそくを{持|も}って{見|み}に{行|い}きました。ポチはいつものクッションで、{気持|きも}ちよさそうに{寝|ね}ていました。",
+    "en": "By the way, where was Pochi? Wasn't he scared when the lights went out? We took a candle and went to look. Pochi was sleeping comfortably on his usual cushion."
+   },
+   {
+    "jp": "{二時間|にじかん}{後|ご}、{電気|でんき}がつきました。けんたは「もう{少|すこ}し{暗|くら}いほうがよかった」と{言|い}いました。わたしもそう{思|おも}いました。",
+    "en": "Two hours later, the lights came back on. Kenta said, \"I wish it had stayed dark a bit longer.\" I thought so too."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{電気|でんき}が{消|き}えたあと、{家族|かぞく}は{何|なに}をしましたか。",
+    "q_en": "What did the family do after the lights went out?",
+    "options": [
+     "テレビを{見|み}ました",
+     "すぐに{寝|ね}ました",
+     "ゲームをしました",
+     "ろうそくをつけて{話|はな}しました"
+    ],
+    "answer": 3,
+    "why": "They lit candles and talked at the table."
+   },
+   {
+    "q": "ポチはどうでしたか。",
+    "q_en": "How was Pochi?",
+    "options": [
+     "こわくて{鳴|な}いていました",
+     "{父|ちち}の{足|あし}をかみました",
+     "クッションで{寝|ね}ていました",
+     "{外|そと}に{出|で}ていました"
+    ],
+    "answer": 2,
+    "why": "Pochi was sleeping comfortably on his cushion the whole time."
+   }
+  ]
+ },
+ {
+  "id": "s5-047",
+  "level": 5,
+  "title": "ポチの{誕生日|たんじょうび}",
+  "title_en": "Pochi's Birthday",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "{三月|さんがつ}{十日|とおか}はポチの{誕生日|たんじょうび}です。ポチは{今年|ことし}{八歳|はっさい}になります。{家族|かぞく}みんなで、ポチのためにパーティーをしました。",
+    "en": "March tenth is Pochi's birthday. This year Pochi turns eight. The whole family had a party for Pochi."
+   },
+   {
+    "jp": "{母|はは}は{犬|いぬ}のケーキを{作|つく}りました。{肉|にく}とさつまいものケーキです。けんたは{新|あたら}しいボールを{買|か}いました。わたしはポチの{絵|え}をかきました。{父|ちち}は{赤|あか}いぼうしを{買|か}って{来|き}ました。",
+    "en": "Mum made a dog cake. It was a cake of meat and sweet potato. Kenta bought a new ball. I drew a picture of Pochi. Dad bought a red party hat."
+   },
+   {
+    "jp": "{夜|よる}、パーティーが{始|はじ}まりました。{父|ちち}はポチに{赤|あか}いぼうしをかぶせました。みんなで「ハッピーバースデー」の{歌|うた}を{歌|うた}いました。でも、ポチは{歌|うた}の{途中|とちゅう}で{寝|ね}てしまいました。",
+    "en": "In the evening, the party started. Dad put the red hat on Pochi. We all sang the birthday song. But Pochi fell asleep in the middle of the song."
+   },
+   {
+    "jp": "けんたは「ポチ、{起|お}きて！ケーキだよ！」と{言|い}いました。「ケーキ」という{言葉|ことば}を{聞|き}いて、ポチはすぐに{起|お}きました。そして、{五分|ごふん}でケーキを{全部|ぜんぶ}{食|た}べました。",
+    "en": "Kenta said, \"Pochi, wake up! It's cake!\" Hearing the word \"cake\", Pochi got up at once. And he ate the whole cake in five minutes."
+   },
+   {
+    "jp": "そのあと、ポチはまた{寝|ね}ました。{新|あたら}しいボールは{使|つか}いませんでした。でも、{赤|あか}いぼうしをかぶったまま、とても{幸|しあわ}せそうな{顔|かお}でした。{父|ちち}はその{顔|かお}の{写真|しゃしん}を{撮|と}りました。",
+    "en": "After that, Pochi went back to sleep. He didn't use the new ball. But still wearing the red hat, he had a very happy face. Dad took a photo of that face."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{母|はは}はポチに{何|なに}をあげましたか。",
+    "q_en": "What did Mum give Pochi?",
+    "options": [
+     "{新|あたら}しいボール",
+     "{犬|いぬ}のケーキ",
+     "{赤|あか}いぼうし",
+     "ポチの{絵|え}"
+    ],
+    "answer": 1,
+    "why": "Mum made a dog cake of meat and sweet potato."
+   },
+   {
+    "q": "ポチはどうしてすぐに{起|お}きましたか。",
+    "q_en": "Why did Pochi wake up right away?",
+    "options": [
+     "{歌|うた}がうるさかったから",
+     "ボールで{遊|あそ}びたかったから",
+     "「ケーキ」と{聞|き}いたから",
+     "{写真|しゃしん}を{撮|と}りたかったから"
+    ],
+    "answer": 2,
+    "why": "He woke up when he heard the word \"cake\"."
+   }
+  ]
+ },
+ {
+  "id": "s5-048",
+  "level": 5,
+  "title": "{雨|あめ}の{週末|しゅうまつ}",
+  "title_en": "A Rainy Weekend",
+  "genre_raw": "Slice of life",
+  "paragraphs": [
+   {
+    "jp": "この{週末|しゅうまつ}、{家族|かぞく}で{海|うみ}に{行|い}くつもりでした。でも、{土曜日|どようび}の{朝|あさ}から{雨|あめ}がたくさん{降|ふ}っていました。{日曜日|にちようび}も{雨|あめ}です。けんたはとても{残念|ざんねん}そうでした。",
+    "en": "This weekend, our family was planning to go to the sea. But from Saturday morning it rained a lot. Sunday was rainy too. Kenta looked very disappointed."
+   },
+   {
+    "jp": "{母|はは}は「じゃあ、{家|いえ}で{海|うみ}をしましょう」と{言|い}いました。みんな「え？」と{思|おも}いました。{母|はは}は{居間|いま}に{青|あお}いシーツを{広|ひろ}げました。「これは{海|うみ}です」。",
+    "en": "Mum said, \"Well then, let's do the sea at home.\" Everyone thought, \"Huh?\" Mum spread a blue sheet out in the living room. \"This is the sea.\""
+   },
+   {
+    "jp": "{父|ちち}は{水着|みずぎ}を{着|き}て、サングラスをかけました。けんたは{魚|さかな}の{絵|え}をたくさんかいて、シーツの{上|うえ}に{置|お}きました。わたしはジュースとおかしを{持|も}って{来|き}ました。",
+    "en": "Dad put on his swimsuit and sunglasses. Kenta drew lots of pictures of fish and put them on the sheet. I brought juice and snacks."
+   },
+   {
+    "jp": "わたしたちはシーツの{上|うえ}で{魚|さかな}つりのゲームをしたり、ジュースを{飲|の}んだりしました。{父|ちち}は{水着|みずぎ}で{寝|ね}ころんで、「ああ、いい{天気|てんき}だ」と{言|い}いました。{窓|まど}の{外|そと}は{大雨|おおあめ}です。みんな{大|おお}きい{声|こえ}で{笑|わら}いました。",
+    "en": "We played a fishing game on the sheet and drank juice. Dad lay down in his swimsuit and said, \"Ah, what nice weather.\" Outside the window it was pouring. Everyone laughed loudly."
+   },
+   {
+    "jp": "ポチはシーツの{真|ま}ん{中|なか}で{寝|ね}ていました。けんたは「ポチは{島|しま}だね」と{言|い}いました。{本当|ほんとう}の{海|うみ}じゃありませんでしたが、とても{楽|たの}しい{週末|しゅうまつ}でした。",
+    "en": "Pochi was sleeping in the middle of the sheet. Kenta said, \"Pochi is an island.\" It wasn't the real sea, but it was a really fun weekend."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{家族|かぞく}はどうして{海|うみ}に{行|い}きませんでしたか。",
+    "q_en": "Why didn't the family go to the sea?",
+    "options": [
+     "{雨|あめ}が{降|ふ}っていたから",
+     "{父|ちち}が{病気|びょうき}だったから",
+     "{車|くるま}がなかったから",
+     "ポチが{行|い}きたくなかったから"
+    ],
+    "answer": 0,
+    "why": "It rained all weekend."
+   },
+   {
+    "q": "{青|あお}いシーツは{何|なに}でしたか。",
+    "q_en": "What was the blue sheet?",
+    "options": [
+     "ポチのベッド",
+     "{海|うみ}",
+     "{空|そら}",
+     "テーブル"
+    ],
+    "answer": 1,
+    "why": "Mum spread it out and said it was the sea."
+   },
+   {
+    "q": "けんたはポチを{何|なん}と{言|い}いましたか。",
+    "q_en": "What did Kenta say Pochi was?",
+    "options": [
+     "{魚|さかな}",
+     "{船|ふね}",
+     "{島|しま}",
+     "{山|やま}"
+    ],
+    "answer": 2,
+    "why": "Pochi was sleeping in the middle of the 'sea', so Kenta called him an island."
+   }
+  ]
+ },
+ {
+  "id": "s5-049",
+  "level": 5,
+  "title": "{新|あたら}しいおとなり",
+  "title_en": "The New Neighbour",
+  "genre_raw": "Daily life",
+  "paragraphs": [
+   {
+    "jp": "{先週|せんしゅう}、となりの{家|いえ}に{新|あたら}しい{人|ひと}が{引|ひ}っ{越|こ}して{来|き}ました。{山本|やまもと}さんという{女|おんな}の{人|ひと}です。{山本|やまもと}さんはおかしを{持|も}って、あいさつに{来|き}ました。",
+    "en": "Last week, a new person moved into the house next door. She is a woman called Ms Yamamoto. Ms Yamamoto came to say hello, bringing some sweets."
+   },
+   {
+    "jp": "{山本|やまもと}さんは{白|しろ}い{小|ちい}さい{犬|いぬ}をつれていました。{名前|なまえ}はハナです。ハナはとても{元気|げんき}で、ずっと{走|はし}っています。ポチとは{全然|ぜんぜん}ちがいます。",
+    "en": "Ms Yamamoto had a small white dog with her. Her name is Hana. Hana is very lively and runs around all the time. She is completely different from Pochi."
+   },
+   {
+    "jp": "ハナはポチを{見|み}て、うれしそうに{走|はし}って{来|き}ました。ポチの{周|まわ}りを{何回|なんかい}も{回|まわ}りました。ポチは{少|すこ}し{困|こま}った{顔|かお}をしました。でも、{寝|ね}ませんでした。",
+    "en": "Hana saw Pochi and came running happily. She ran around Pochi again and again. Pochi looked a little troubled. But he didn't fall asleep."
+   },
+   {
+    "jp": "その{日|ひ}から、ポチは{少|すこ}し{変|か}わりました。{毎朝|まいあさ}、{窓|まど}から{山本|やまもと}さんの{家|いえ}を{見|み}ています。そして、{夕方|ゆうがた}の{散歩|さんぽ}が{好|す}きになりました。ハナも{同|おな}じ{時間|じかん}に{散歩|さんぽ}するからです。",
+    "en": "From that day, Pochi changed a little. Every morning he looks out of the window at Ms Yamamoto's house. And he started to like his evening walk. That's because Hana also goes for a walk at the same time."
+   },
+   {
+    "jp": "{母|はは}は「ポチは{元気|げんき}になりましたね」と{言|い}いました。{父|ちち}は「ハナちゃんのおかげですね」と{笑|わら}いました。でも、{散歩|さんぽ}から{帰|かえ}ると、ポチはやっぱりすぐ{寝|ね}ます。",
+    "en": "Mum said, \"Pochi has got livelier, hasn't he?\" Dad laughed and said, \"It's thanks to Hana.\" But when he comes back from his walk, Pochi still falls asleep right away."
+   }
+  ],
+  "questions": [
+   {
+    "q": "ハナはどんな{犬|いぬ}ですか。",
+    "q_en": "What kind of dog is Hana?",
+    "options": [
+     "{大|おお}きくて{静|しず}かな{犬|いぬ}",
+     "よく{寝|ね}る{茶色|ちゃいろ}の{犬|いぬ}",
+     "{年|とし}を{取|と}った{黒|くろ}い{犬|いぬ}",
+     "{小|ちい}さくて{元気|げんき}な{白|しろ}い{犬|いぬ}"
+    ],
+    "answer": 3,
+    "why": "Hana is a small, white, very lively dog."
+   },
+   {
+    "q": "ポチはどうして{夕方|ゆうがた}の{散歩|さんぽ}が{好|す}きになりましたか。",
+    "q_en": "Why did Pochi start to like his evening walk?",
+    "options": [
+     "ハナも{同|おな}じ{時間|じかん}に{散歩|さんぽ}するから",
+     "{山本|やまもと}さんがおかしをくれるから",
+     "{夕方|ゆうがた}はすずしいから",
+     "{父|ちち}といっしょに{行|い}くから"
+    ],
+    "answer": 0,
+    "why": "Hana goes for a walk at the same time."
+   }
+  ]
+ },
+ {
+  "id": "s5-050",
+  "level": 5,
+  "title": "{家族|かぞく}の{写真|しゃしん}",
+  "title_en": "The Family Photo",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "{十二月|じゅうにがつ}、{母|はは}が「{今年|ことし}は{家族|かぞく}の{写真|しゃしん}を{撮|と}りましょう」と{言|い}いました。{新年|しんねん}のカードに{使|つか}いたいです。みんなでいちばんいい{服|ふく}を{着|き}て、{庭|にわ}に{出|で}ました。",
+    "en": "In December, Mum said, \"Let's take a family photo this year.\" She wants to use it for the New Year cards. We all put on our best clothes and went out into the garden."
+   },
+   {
+    "jp": "{父|ちち}はカメラを{木|き}の{前|まえ}に{置|お}いて、タイマーをセットしました。そして、{走|はし}ってみんなのところに{来|き}ました。「はい、チーズ！」。でも、{一枚目|いちまいめ}の{写真|しゃしん}では、ポチが{寝|ね}ていました。",
+    "en": "Dad put the camera in front of a tree and set the timer. Then he ran over to join everyone. \"Say cheese!\" But in the first photo, Pochi was asleep."
+   },
+   {
+    "jp": "{二枚目|にまいめ}では、けんたが{目|め}を{閉|と}じていました。{三枚目|さんまいめ}では、{父|ちち}が{間|ま}に{合|あ}いませんでした。{父|ちち}の{背中|せなか}しかありません。{四枚目|よんまいめ}では、{風|かぜ}で{母|はは}の{帽子|ぼうし}がとびました。",
+    "en": "In the second one, Kenta had his eyes closed. In the third, Dad didn't make it in time. There was only Dad's back. In the fourth, the wind blew Mum's hat away."
+   },
+   {
+    "jp": "{十枚|じゅうまい}{撮|と}りましたが、いい{写真|しゃしん}は{一枚|いちまい}もありません。みんな{疲|つか}れて、{庭|にわ}にすわって{笑|わら}いました。そのとき、となりの{山本|やまもと}さんが「{撮|と}りましょうか」と{言|い}ってくれました。",
+    "en": "We took ten, but there wasn't a single good photo. Everyone got tired, sat down in the garden and laughed. Just then, Ms Yamamoto from next door kindly said, \"Shall I take it for you?\""
+   },
+   {
+    "jp": "{山本|やまもと}さんの{写真|しゃしん}では、みんな{大|おお}きく{笑|わら}っていました。ポチも{起|お}きていました。{目|め}は{半分|はんぶん}だけ{開|あ}いていましたが。{母|はは}は「これがいちばんいいです」と{言|い}って、その{写真|しゃしん}をカードにしました。",
+    "en": "In Ms Yamamoto's photo, everyone was laughing big laughs. Pochi was awake too. Though his eyes were only half open. Mum said, \"This is the best one,\" and used that photo for the cards."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{三枚目|さんまいめ}の{写真|しゃしん}は、どうしてだめでしたか。",
+    "q_en": "Why was the third photo no good?",
+    "options": [
+     "ポチが{寝|ね}ていたから",
+     "{父|ちち}が{間|ま}に{合|あ}わなかったから",
+     "けんたが{目|め}を{閉|と}じていたから",
+     "{母|はは}の{帽子|ぼうし}がとんだから"
+    ],
+    "answer": 1,
+    "why": "Dad didn't get there in time, so only his back was in it."
+   },
+   {
+    "q": "いちばんいい{写真|しゃしん}はだれが{撮|と}りましたか。",
+    "q_en": "Who took the best photo?",
+    "options": [
+     "{父|ちち}",
+     "{母|はは}",
+     "けんた",
+     "{山本|やまもと}さん"
+    ],
+    "answer": 3,
+    "why": "The neighbour Ms Yamamoto took the photo in which everyone was laughing."
+   }
+  ]
+ }
+]

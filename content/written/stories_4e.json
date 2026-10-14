@@ -1,0 +1,686 @@
+[
+ {
+  "id": "s4-049",
+  "level": 4,
+  "title": "{家|いえ}のルール",
+  "title_en": "House Rules",
+  "genre_raw": "Daily life",
+  "paragraphs": [
+   {
+    "jp": "{四月|しがつ}、ドイツから{来|き}たレナは、{大阪|おおさか}のシェアハウスに{引|ひ}っ{越|こ}しました。{古|ふる}くて{大|おお}きい{木|き}の{家|いえ}で、{大家|おおや}さんの{木村|きむら}さんと、インドのラジ、ブラジルのアナ、{日本人|にほんじん}の{空|そら}が{住|す}んでいます。{玄関|げんかん}で{木村|きむら}さんが{笑顔|えがお}で{言|い}いました。「ようこそ。まず、この{家|いえ}のルールを{読|よ}んでおいてね。」",
+    "en": "In April, Lena, who had come from Germany, moved into a share house in Osaka. It is a big old wooden house, and the landlady Mrs. Kimura, Raj from India, Ana from Brazil and Sora, who is Japanese, live there. At the entrance, Mrs. Kimura smiled and said, 'Welcome. First, please read the rules of this house.'"
+   },
+   {
+    "jp": "{紙|かみ}には、ルールが{十|とお}も{書|か}いてありました。「{家|いえ}の{中|なか}では{靴|くつ}を{脱|ぬ}ぐこと。」「{夜|よる}{十時|じゅうじ}より{後|あと}は{大|おお}きい{声|こえ}で{話|はな}さないこと。」「お{風呂|ふろ}に{入|はい}る{前|まえ}に、{体|からだ}を{洗|あら}うこと。」「ゴミは{決|き}められた{日|ひ}に{出|だ}すこと。」レナは{読|よ}みながら、だんだん{心配|しんぱい}になってきました。「こんなにたくさん{覚|おぼ}えられるかな。{間違|まちが}えたら、{怒|おこ}られるかもしれない。」",
+    "en": "There were as many as ten rules written on the paper. 'Take off your shoes inside the house.' 'Do not talk loudly after 10 p.m.' 'Wash your body before getting into the bath.' 'Put the rubbish out on the set days.' As Lena read, she slowly began to worry. 'Can I remember so many? If I make a mistake, I might get told off.'"
+   },
+   {
+    "jp": "その{夜|よる}、レナは{部屋|へや}で{一人|ひとり}、ルールを{何度|なんど}も{読|よ}み{直|なお}していました。すると、ドアをノックする{音|おと}がしました。ラジでした。「レナさん、{大丈夫|だいじょうぶ}？{僕|ぼく}も{来|き}たばかりのとき、あの{紙|かみ}を{見|み}てびっくりしたよ。でも、{最後|さいご}のルールをよく{読|よ}んでみて。」",
+    "en": "That night, Lena was alone in her room, reading the rules again and again. Then there was a knock at the door. It was Raj. 'Lena, are you OK? When I had just arrived, that paper surprised me too. But try reading the last rule carefully.'"
+   },
+   {
+    "jp": "レナは{紙|かみ}の{一番|いちばん}{下|した}を{見|み}ました。{小|ちい}さい{字|じ}で、こう{書|か}いてありました。「{十|じゅう}、{金曜日|きんようび}の{夜|よる}は、みんなでいっしょに{晩|ばん}ごはんを{食|た}べること。わからないことは、{何|なん}でも{聞|き}いていい。」レナは{思|おも}わず{笑|わら}ってしまいました。",
+    "en": "Lena looked at the very bottom of the paper. In small letters, it said: '10. On Friday nights, everyone eats dinner together. You may ask about anything you don't understand.' Lena couldn't help laughing."
+   },
+   {
+    "jp": "{次|つぎ}の{金曜日|きんようび}、{台所|だいどころ}のテーブルに{五人|ごにん}が{集|あつ}まりました。レナが{質問|しつもん}を{一|ひと}つずつすると、みんなが{親切|しんせつ}に{教|おし}えてくれました。{木村|きむら}さんは「ルールは{多|おお}いけど、{一番|いちばん}{大切|たいせつ}なのは{十番|じゅうばん}よ」と{言|い}いました。レナは、この{家|いえ}なら{楽|たの}しく{暮|く}らせそうだと{思|おも}いました。",
+    "en": "The next Friday, the five of them gathered at the kitchen table. As Lena asked her questions one by one, everyone kindly explained. Mrs. Kimura said, 'There are a lot of rules, but the most important one is number ten.' Lena felt that she could live happily in this house."
+   }
+  ],
+  "questions": [
+   {
+    "q": "レナは、どうして{心配|しんぱい}になりましたか。",
+    "q_en": "Why did Lena start to worry?",
+    "options": [
+     "{木村|きむら}さんが{怒|おこ}っていたから",
+     "ルールが{多|おお}くて、{覚|おぼ}えられないと{思|おも}ったから",
+     "{部屋|へや}がとても{小|ちい}さかったから",
+     "ラジの{声|こえ}がうるさかったから"
+    ],
+    "answer": 1,
+    "why": "She worried she could not remember ten rules and might make mistakes."
+   },
+   {
+    "q": "{十番|じゅうばん}のルールは{何|なん}ですか。",
+    "q_en": "What is rule number ten?",
+    "options": [
+     "{夜|よる}は{静|しず}かにすること",
+     "{靴|くつ}を{脱|ぬ}ぐこと",
+     "{金曜日|きんようび}の{夜|よる}にみんなで{晩|ばん}ごはんを{食|た}べること",
+     "ゴミを{決|き}められた{日|ひ}に{出|だ}すこと"
+    ],
+    "answer": 2,
+    "why": "Rule ten says everyone eats dinner together on Friday nights."
+   }
+  ]
+ },
+ {
+  "id": "s4-050",
+  "level": 4,
+  "title": "ゴミの{日|ひ}",
+  "title_en": "Rubbish Day",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "シェアハウスに{住|す}み{始|はじ}めて{一|いっ}か{月|げつ}、ラジはゴミを{出|だ}す{係|かかり}になりました。{大阪|おおさか}では、ゴミを{燃|も}えるゴミ、プラスチック、びんや{缶|かん}などに{分|わ}けなければなりません。{出|だ}す{曜日|ようび}もそれぞれ{違|ちが}います。「{簡単|かんたん}だよ。まかせて」とラジは{言|い}いました。",
+    "en": "One month after he started living in the share house, Raj became the one in charge of putting out the rubbish. In Osaka, you must separate rubbish into burnable rubbish, plastic, bottles and cans, and so on. Each kind goes out on a different day. 'It's easy. Leave it to me,' said Raj."
+   },
+   {
+    "jp": "ところが、{次|つぎ}の{月曜日|げつようび}の{朝|あさ}、ゴミ{置|お}き{場|ば}に{行|い}くと、ラジが{出|だ}した{袋|ふくろ}だけが{残|のこ}っていました。{袋|ふくろ}には{黄色|きいろ}い{紙|かみ}が{貼|は}ってあって、「{今日|きょう}は{集|あつ}めません」と{書|か}いてありました。{中|なか}にはペットボトルやお{菓子|かし}の{袋|ふくろ}がたくさん{入|はい}っていました。{月曜日|げつようび}は{燃|も}えるゴミの{日|ひ}だったのです。",
+    "en": "However, the next Monday morning, when he went to the rubbish collection point, only the bag Raj had put out was left. A yellow paper was stuck on it that said, 'Not collected today.' Inside were lots of plastic bottles and snack bags. Monday was the day for burnable rubbish."
+   },
+   {
+    "jp": "ラジが{袋|ふくろ}を{持|も}って{帰|かえ}ろうとしたとき、となりの{家|いえ}のおばあさんが{出|で}てきました。{近所|きんじょ}で{一番|いちばん}{厳|きび}しいと{言|い}われている{人|ひと}です。ラジは{怒|おこ}られると{思|おも}って、「すみません！」と{何度|なんど}も{頭|あたま}を{下|さ}げました。",
+    "en": "As Raj was about to carry the bag home, the old woman from the house next door came out. People say she is the strictest person in the neighbourhood. Raj thought he would be scolded, so he bowed again and again, saying, 'I'm sorry!'"
+   },
+   {
+    "jp": "でも、おばあさんは{怒|おこ}りませんでした。「{外国|がいこく}から{来|き}た{人|ひと}には{難|むずか}しいでしょう。{私|わたし}の{孫|まご}も、{最初|さいしょ}はよく{間違|まちが}えていましたよ。」そう{言|い}って、ポケットから{一枚|いちまい}の{紙|かみ}を{出|だ}しました。ゴミの{分|わ}け{方|かた}が{絵|え}で{描|か}いてあるカレンダーでした。「これを{冷蔵庫|れいぞうこ}に{貼|は}っておきなさい。」",
+    "en": "But the old woman didn't get angry. 'It must be hard for people who come from abroad. My grandson often made mistakes at first, too.' Saying this, she took a sheet of paper out of her pocket. It was a calendar that showed how to sort the rubbish with pictures. 'Stick this on your fridge.'"
+   },
+   {
+    "jp": "その{日|ひ}から、カレンダーは{台所|だいどころ}の{冷蔵庫|れいぞうこ}に{貼|は}ってあります。ラジはお{礼|れい}にカレーを{作|つく}って、おばあさんに{持|も}っていきました。{今|いま}では、おばあさんは{家|いえ}の{前|まえ}を{通|とお}るたびに、「{明日|あした}はびんの{日|ひ}よ」と{教|おし}えてくれます。",
+    "en": "Since that day, the calendar has been on the kitchen fridge. To thank her, Raj made curry and took it to the old woman. Now, every time she walks past the house, she tells them, 'Tomorrow is bottle day.'"
+   }
+  ],
+  "questions": [
+   {
+    "q": "ラジのゴミは、どうして{集|あつ}められませんでしたか。",
+    "q_en": "Why wasn't Raj's rubbish collected?",
+    "options": [
+     "{燃|も}えるゴミの{日|ひ}に、プラスチックを{出|だ}したから",
+     "{袋|ふくろ}が{破|やぶ}れていたから",
+     "{出|だ}す{時間|じかん}が{遅|おそ}すぎたから",
+     "{袋|ふくろ}に{名前|なまえ}を{書|か}かなかったから"
+    ],
+    "answer": 0,
+    "why": "He put out plastic bottles and bags on burnable rubbish day."
+   },
+   {
+    "q": "となりのおばあさんは、ラジに{何|なに}をくれましたか。",
+    "q_en": "What did the old woman next door give Raj?",
+    "options": [
+     "カレー",
+     "{黄色|きいろ}い{紙|かみ}",
+     "{新|あたら}しいゴミ{袋|ぶくろ}",
+     "{絵|え}のあるゴミのカレンダー"
+    ],
+    "answer": 3,
+    "why": "She gave him a calendar showing how to sort rubbish with pictures."
+   }
+  ]
+ },
+ {
+  "id": "s4-051",
+  "level": 4,
+  "title": "{料理|りょうり}コンテスト",
+  "title_en": "The Cooking Contest",
+  "genre_raw": "Food",
+  "paragraphs": [
+   {
+    "jp": "ある{日曜日|にちようび}、アナが{台所|だいどころ}で{大|おお}きい{声|こえ}で{言|い}いました。「ねえ、みんなで{料理|りょうり}コンテストをしようよ！{自分|じぶん}の{国|くに}の{料理|りょうり}を{作|つく}って、{木村|きむら}さんに{一番|いちばん}おいしいのを{選|えら}んでもらうの。」みんなは{賛成|さんせい}しましたが、{空|そら}だけは{困|こま}った{顔|かお}をしていました。{空|そら}は{料理|りょうり}がほとんどできないのです。",
+    "en": "One Sunday, Ana said loudly in the kitchen, 'Hey, let's have a cooking contest! We each make a dish from our own country, and Mrs. Kimura chooses the tastiest one.' Everyone agreed, but only Sora looked troubled. Sora can hardly cook at all."
+   },
+   {
+    "jp": "{午後|ごご}になると、{台所|だいどころ}はとてもにぎやかになりました。ラジはスパイスをたくさん{使|つか}って、カレーを{作|つく}りました。レナはドイツのじゃがいもサラダを、アナはブラジルの{豆|まめ}の{料理|りょうり}、フェイジョアーダを{作|つく}りました。いいにおいが{家中|いえじゅう}に{広|ひろ}がりました。{空|そら}はみんなの{料理|りょうり}を{見|み}ながら、ずっと{何|なに}かを{考|かんが}えていました。",
+    "en": "In the afternoon, the kitchen became very lively. Raj used lots of spices to make curry. Lena made German potato salad, and Ana made feijoada, a Brazilian bean dish. A lovely smell spread through the whole house. Sora watched everyone's cooking and kept thinking about something."
+   },
+   {
+    "jp": "{夕方|ゆうがた}、テーブルに{料理|りょうり}が{並|なら}びました。{空|そら}の{皿|さら}には、おにぎりが{三|みっ}つだけのっていました。「えっ、それだけ？」とアナが{笑|わら}いました。{木村|きむら}さんは{一|ひと}つずつ{味見|あじみ}をしました。カレーは{少|すこ}し{辛|から}すぎて、{木村|きむら}さんは{水|みず}を{二杯|にはい}も{飲|の}みました。",
+    "en": "In the evening, the dishes were lined up on the table. On Sora's plate there were just three rice balls. 'What, is that all?' Ana laughed. Mrs. Kimura tasted the dishes one by one. The curry was a little too spicy, and she drank two whole glasses of water."
+   },
+   {
+    "jp": "{最後|さいご}に{木村|きむら}さんがおにぎりを{食|た}べると、{目|め}が{大|おお}きくなりました。{中|なか}にカレーが{入|はい}っていたのです。{二|ふた}つ{目|め}にはじゃがいもサラダ、{三|みっ}つ{目|め}には{豆|まめ}の{料理|りょうり}が{入|はい}っていました。「みんなの{料理|りょうり}を{少|すこ}しずつもらって、おにぎりにしてみたんです」と{空|そら}は{恥|は}ずかしそうに{言|い}いました。ご{飯|はん}といっしょに{食|た}べると、カレーもちょうどいい{辛|から}さになっていました。",
+    "en": "Finally, when Mrs. Kimura ate a rice ball, her eyes went wide. There was curry inside. The second one had potato salad, and the third had the bean dish. 'I took a little of everyone's food and tried making rice balls,' Sora said shyly. Eaten with rice, even the curry was just the right spiciness."
+   },
+   {
+    "jp": "{木村|きむら}さんは{笑|わら}って{言|い}いました。「{優勝|ゆうしょう}は{空|そら}くん。でも、みんなの{料理|りょうり}がなかったら、このおにぎりは{作|つく}れなかったわね。」その{夜|よる}、{五人|ごにん}は{残|のこ}ったご{飯|はん}で、もっとたくさんの「{世界|せかい}のおにぎり」を{作|つく}って{食|た}べました。",
+    "en": "Mrs. Kimura laughed and said, 'The winner is Sora. But without everyone's food, he couldn't have made these rice balls.' That night, the five of them used the leftover rice to make and eat many more 'rice balls of the world'."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{空|そら}は、どうして{困|こま}った{顔|かお}をしていましたか。",
+    "q_en": "Why did Sora look troubled?",
+    "options": [
+     "コンテストが{嫌|きら}いだったから",
+     "{辛|から}い{料理|りょうり}が{苦手|にがて}だったから",
+     "{料理|りょうり}がほとんどできないから",
+     "{日曜日|にちようび}に{仕事|しごと}があったから"
+    ],
+    "answer": 2,
+    "why": "The story says Sora can hardly cook."
+   },
+   {
+    "q": "{空|そら}のおにぎりの{中|なか}には、{何|なに}が{入|はい}っていましたか。",
+    "q_en": "What was inside Sora's rice balls?",
+    "options": [
+     "{梅干|うめぼ}しと{魚|さかな}",
+     "みんなが{作|つく}った{料理|りょうり}",
+     "{何|なに}も{入|はい}っていなかった",
+     "{木村|きむら}さんの{料理|りょうり}"
+    ],
+    "answer": 1,
+    "why": "He filled them with the curry, potato salad and bean dish the others made."
+   }
+  ]
+ },
+ {
+  "id": "s4-052",
+  "level": 4,
+  "title": "{止|と}まった{洗濯機|せんたくき}",
+  "title_en": "The Washing Machine That Stopped",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "ある{朝|あさ}、{洗濯機|せんたくき}から「ガタガタ、ガタン！」という{大|おお}きな{音|おと}がして、{急|きゅう}に{止|と}まってしまいました。{中|なか}にはレナの{服|ふく}が{入|はい}ったままです。ボタンを{押|お}しても、{何|なに}も{起|お}こりません。{床|ゆか}には{水|みず}が{少|すこ}し{出|で}ていました。",
+    "en": "One morning, the washing machine made a loud clatter and a bang, and suddenly stopped. Lena's clothes were still inside. Even when she pressed the buttons, nothing happened. A little water had leaked onto the floor."
+   },
+   {
+    "jp": "{木村|きむら}さんが{修理|しゅうり}の{店|みせ}に{電話|でんわ}をかけると、「{来週|らいしゅう}の{木曜日|もくようび}まで{行|い}けません」と{言|い}われました。「{一週間|いっしゅうかん}も{洗濯|せんたく}できないの？」とアナは{悲|かな}しそうな{声|こえ}を{出|だ}しました。しかたがないので、その{夜|よる}は{四人|よにん}で{近|ちか}くのコインランドリーへ{行|い}きました。{待|ま}っている{間|あいだ}、アイスを{食|た}べたり、トランプをしたりして、{思|おも}ったより{楽|たの}しい{時間|じかん}になりました。",
+    "en": "When Mrs. Kimura phoned the repair shop, she was told, 'We can't come until next Thursday.' 'We can't do laundry for a whole week?' Ana said sadly. There was nothing they could do, so that night the four young people went to a nearby laundromat. While they waited, they ate ice cream and played cards, and it turned out to be more fun than they expected."
+   },
+   {
+    "jp": "でも、レナは{諦|あきら}めていませんでした。{次|つぎ}の{日|ひ}、{辞書|じしょ}を{使|つか}いながら{洗濯機|せんたくき}の{説明書|せつめいしょ}を{読|よ}みました。「{変|へん}な{音|おと}がするときは、ここを{調|しら}べてください」と{書|か}いてあるところを{見|み}つけて、{洗濯機|せんたくき}の{下|した}にある{小|ちい}さいふたを{開|あ}けてみました。",
+    "en": "But Lena had not given up. The next day, she read the washing machine's manual using a dictionary. She found a part that said, 'If you hear a strange noise, check here,' and she tried opening a small cover at the bottom of the machine."
+   },
+   {
+    "jp": "{中|なか}から{出|で}てきたのは、{五百円玉|ごひゃくえんだま}が{二枚|にまい}と、{小|ちい}さい{鍵|かぎ}でした。それを{見|み}た{空|そら}が「あっ！」と{叫|さけ}びました。「それ、{僕|ぼく}の{自転車|じてんしゃ}の{鍵|かぎ}だ！{先週|せんしゅう}からずっと{探|さが}していたんだよ。」{空|そら}はズボンのポケットを{確|たし}かめないで、{洗濯機|せんたくき}に{入|い}れてしまったのです。",
+    "en": "What came out were two 500-yen coins and a small key. When Sora saw them, he shouted, 'Ah! That's my bike key! I've been looking for it since last week.' Sora had put his trousers in the washing machine without checking the pockets."
+   },
+   {
+    "jp": "ふたを{閉|し}めてボタンを{押|お}すと、{洗濯機|せんたくき}はまた{静|しず}かに{回|まわ}り{始|はじ}めました。{木村|きむら}さんは{修理|しゅうり}の{予約|よやく}をキャンセルしました。その{日|ひ}から、{洗濯機|せんたくき}の{前|まえ}に{新|あたら}しいルールが{貼|は}ってあります。「{入|い}れる{前|まえ}に、ポケットを{見|み}ること。」{空|そら}は{恥|は}ずかしそうでしたが、その{五百円玉|ごひゃくえんだま}でみんなにアイスをごちそうしました。",
+    "en": "When she closed the cover and pressed the button, the machine began turning quietly again. Mrs. Kimura cancelled the repair booking. Since that day, a new rule has been posted in front of the washing machine: 'Check pockets before putting clothes in.' Sora looked embarrassed, but he used those 500-yen coins to treat everyone to ice cream."
+   }
+  ],
+  "questions": [
+   {
+    "q": "レナは{洗濯機|せんたくき}を{直|なお}すために{何|なに}をしましたか。",
+    "q_en": "What did Lena do to fix the washing machine?",
+    "options": [
+     "{説明書|せつめいしょ}を{読|よ}んで、{下|した}のふたを{開|あ}けた",
+     "{修理|しゅうり}の{店|みせ}に{電話|でんわ}した",
+     "{新|あたら}しい{洗濯機|せんたくき}を{買|か}った",
+     "コインランドリーの{人|ひと}に{聞|き}いた"
+    ],
+    "answer": 0,
+    "why": "She read the manual with a dictionary and opened the small cover."
+   },
+   {
+    "q": "{洗濯機|せんたくき}は、どうして{止|と}まりましたか。",
+    "q_en": "Why did the washing machine stop?",
+    "options": [
+     "{古|ふる}すぎたから",
+     "{水|みず}が{出|で}なかったから",
+     "レナの{服|ふく}が{多|おお}すぎたから",
+     "ポケットのお{金|かね}と{鍵|かぎ}が{中|なか}に{入|はい}ったから"
+    ],
+    "answer": 3,
+    "why": "Coins and a key from Sora's pocket got stuck inside."
+   }
+  ]
+ },
+ {
+  "id": "s4-053",
+  "level": 4,
+  "title": "{日本語|にほんご}の{勉強会|べんきょうかい}",
+  "title_en": "The Japanese Study Group",
+  "genre_raw": "Funny",
+  "paragraphs": [
+   {
+    "jp": "{毎週|まいしゅう}{火曜日|かようび}の{夜|よる}、{居間|いま}で{日本語|にほんご}の{勉強会|べんきょうかい}があります。{先生|せんせい}は{東京|とうきょう}{出身|しゅっしん}の{空|そら}です。{空|そら}は{教科書|きょうかしょ}を{使|つか}って、ていねいな{日本語|にほんご}を{教|おし}えています。その{日|ひ}は{買|か}い{物|もの}の{言葉|ことば}を{練習|れんしゅう}しました。「これはいくらですか。」「{少|すこ}し{安|やす}くしてもらえませんか。」",
+    "en": "Every Tuesday night there is a Japanese study group in the living room. The teacher is Sora, who is from Tokyo. Sora uses a textbook and teaches polite Japanese. That day they practised shopping phrases: 'How much is this?' 'Could you make it a little cheaper?'"
+   },
+   {
+    "jp": "{次|つぎ}の{日|ひ}、アナはさっそく{近|ちか}くの{商店街|しょうてんがい}の{八百屋|やおや}で{使|つか}ってみました。「このトマトはいくらですか。」すると、{店|みせ}のおじさんは{元気|げんき}な{声|こえ}で{言|い}いました。「{三百円|さんびゃくえん}や。でも、{二百円|にひゃくえん}にまけとくわ！」アナには、{半分|はんぶん}もわかりませんでした。",
+    "en": "The next day, Ana tried it straight away at the greengrocer's in the local shopping street. 'How much are these tomatoes?' The shopkeeper answered in a cheerful voice, 'Three hundred yen. But I'll knock it down to two hundred for ya!' Ana couldn't understand even half of it."
+   },
+   {
+    "jp": "{家|いえ}に{帰|かえ}って、アナはその{話|はなし}をしました。{空|そら}も{首|くび}をかしげました。「『まけとく』って、どういう{意味|いみ}だろう。」それを{聞|き}いていた{木村|きむら}さんが{笑|わら}いました。「{安|やす}くしてあげる、という{意味|いみ}よ。{大阪|おおさか}に{住|す}むなら、{大阪|おおさか}の{言葉|ことば}も{知|し}っておいたほうがいいわね。」",
+    "en": "Back home, Ana told everyone what had happened. Even Sora tilted his head. 'I wonder what maketoku means.' Mrs. Kimura, who had been listening, laughed. 'It means \"I'll make it cheaper for you\". If you live in Osaka, you'd better know Osaka words too.'"
+   },
+   {
+    "jp": "その{日|ひ}から、{勉強会|べんきょうかい}の{先生|せんせい}は{二人|ふたり}になりました。{前半|ぜんはん}は{空|そら}の{教科書|きょうかしょ}の{日本語|にほんご}、{後半|こうはん}は{木村|きむら}さんの{大阪弁|おおさかべん}です。「ありがとう」は「おおきに」、「とても」は「めっちゃ」、「だめだ」は「あかん」。みんなは{楽|たの}しそうにノートに{書|か}きました。",
+    "en": "From that day, the study group had two teachers. The first half was Sora's textbook Japanese, and the second half was Mrs. Kimura's Osaka dialect. 'Thank you' is ookini, 'very' is meccha, and 'no good' is akan. Everyone happily wrote them in their notebooks."
+   },
+   {
+    "jp": "{三|さん}か{月|げつ}{後|ご}、ラジとアナとレナは、{商店街|しょうてんがい}で{大阪弁|おおさかべん}を{上手|じょうず}に{使|つか}えるようになりました。お{店|みせ}の{人|ひと}もよくおまけをしてくれます。ところが、{空|そら}だけはまだうまく{話|はな}せません。「{先生|せんせい}なのに、{一番|いちばん}{下手|へた}だね」とアナに{言|い}われて、{空|そら}は「あかん……」と{小|ちい}さい{声|こえ}で{言|い}いました。",
+    "en": "Three months later, Raj, Ana and Lena could use Osaka dialect well in the shopping street. The shopkeepers often give them a little extra. But only Sora still can't speak it well. When Ana said, 'You're the teacher, but you're the worst at it,' Sora said in a small voice, 'Akan...'"
+   }
+  ],
+  "questions": [
+   {
+    "q": "「まけとく」は、どういう{意味|いみ}ですか。",
+    "q_en": "What does maketoku mean?",
+    "options": [
+     "また{来|き}てください",
+     "{売|う}りません",
+     "{安|やす}くしてあげる",
+     "ありがとう"
+    ],
+    "answer": 2,
+    "why": "Mrs. Kimura explains that it means 'I'll make it cheaper for you'."
+   },
+   {
+    "q": "{三|さん}か{月|げつ}{後|ご}、{大阪弁|おおさかべん}が{一番|いちばん}{下手|へた}だったのはだれですか。",
+    "q_en": "Three months later, who was worst at Osaka dialect?",
+    "options": [
+     "アナ",
+     "{空|そら}",
+     "ラジ",
+     "レナ"
+    ],
+    "answer": 1,
+    "why": "Sora, the teacher from Tokyo, still couldn't speak it well."
+   }
+  ]
+ },
+ {
+  "id": "s4-054",
+  "level": 4,
+  "title": "「いいです」の{意味|いみ}",
+  "title_en": "What 'Ii desu' Means",
+  "genre_raw": "Slice of life",
+  "paragraphs": [
+   {
+    "jp": "ある{夜|よる}、{木村|きむら}さんがお{好|この}み{焼|や}きを{焼|や}いていました。ソースのいいにおいがして、レナのおなかが{鳴|な}りました。{木村|きむら}さんが{聞|き}きました。「レナちゃんも{食|た}べる？」レナは{大|おお}きくうなずいて、{笑顔|えがお}で{答|こた}えました。「はい、いいです！」",
+    "en": "One night, Mrs. Kimura was cooking okonomiyaki. There was a lovely smell of sauce, and Lena's stomach growled. Mrs. Kimura asked, 'Lena, will you have some too?' Lena nodded hard and answered with a smile, 'Yes, ii desu!'"
+   },
+   {
+    "jp": "ところが、{木村|きむら}さんは「そう、わかったわ」と{言|い}って、お{好|この}み{焼|や}きをラジとアナの{皿|さら}に{分|わ}けてしまいました。レナの{前|まえ}には{何|なに}もありません。レナはどうしてかわかりませんでした。「{私|わたし}、{何|なに}か{悪|わる}いことを{言|い}ったのかな。」{部屋|へや}に{戻|もど}って、{空|そら}に{相談|そうだん}しました。",
+    "en": "But Mrs. Kimura said, 'I see, all right,' and divided the okonomiyaki between Raj's and Ana's plates. There was nothing in front of Lena. She didn't understand why. 'Did I say something bad?' She went back to her room and asked Sora for advice."
+   },
+   {
+    "jp": "{話|はなし}を{聞|き}いた{空|そら}は、{少|すこ}し{考|かんが}えてから{言|い}いました。「ああ、それは『いいです』のせいだよ。{日本語|にほんご}の『いいです』は、『いりません』という{意味|いみ}になることがあるんだ。{特|とく}に、{何|なに}かをすすめられたときはね。{欲|ほ}しいときは、『お{願|ねが}いします』と{言|い}ったほうがいいよ。」",
+    "en": "After hearing the story, Sora thought for a moment and said, 'Ah, that's because of ii desu. In Japanese, ii desu can mean \"I don't need it\". Especially when someone offers you something. When you want it, it's better to say onegai shimasu.'"
+   },
+   {
+    "jp": "「えっ、{反対|はんたい}の{意味|いみ}になるの？」レナはびっくりしました。{空|そら}は{笑|わら}って、「『{大丈夫|だいじょうぶ}です』も{同|おな}じだよ。{僕|ぼく}も{外国|がいこく}の{友達|ともだち}によく{誤解|ごかい}されるんだ」と{言|い}いました。{日本語|にほんご}は{本当|ほんとう}に{難|むずか}しい、とレナは{思|おも}いました。",
+    "en": "'What, it can mean the opposite?' Lena was surprised. Sora laughed and said, 'Daijoubu desu is the same. My foreign friends often misunderstand me too.' Lena thought that Japanese really is difficult."
+   },
+   {
+    "jp": "レナは{台所|だいどころ}に{戻|もど}って、{木村|きむら}さんに{言|い}いました。「すみません、さっきの『いいです』は、『{食|た}べたいです』という{意味|いみ}でした。」{木村|きむら}さんは「あら、ごめんね！」と{笑|わら}って、{一番|いちばん}{大|おお}きいお{好|この}み{焼|や}きを{焼|や}いてくれました。レナは{元気|げんき}な{声|こえ}で{言|い}いました。「いただきます！」",
+    "en": "Lena went back to the kitchen and said to Mrs. Kimura, 'Sorry, when I said ii desu earlier, I meant \"I want to eat some\".' Mrs. Kimura laughed, 'Oh, I'm sorry!' and cooked her the biggest okonomiyaki of all. Lena said cheerfully, 'Itadakimasu!'"
+   }
+  ],
+  "questions": [
+   {
+    "q": "{木村|きむら}さんは、どうしてレナにお{好|この}み{焼|や}きをあげませんでしたか。",
+    "q_en": "Why didn't Mrs. Kimura give Lena any okonomiyaki?",
+    "options": [
+     "レナが「いらない」と{言|い}ったと{思|おも}ったから",
+     "お{好|この}み{焼|や}きが{足|た}りなかったから",
+     "レナが{遅|おそ}く{帰|かえ}ってきたから",
+     "レナに{怒|おこ}っていたから"
+    ],
+    "answer": 0,
+    "why": "She understood 'ii desu' as 'no thank you'."
+   },
+   {
+    "q": "{何|なに}かが{欲|ほ}しいとき、{何|なん}と{言|い}ったほうがいいですか。",
+    "q_en": "What is better to say when you want something?",
+    "options": [
+     "「いいです」",
+     "「{大丈夫|だいじょうぶ}です」",
+     "「わかりました」",
+     "「お{願|ねが}いします」"
+    ],
+    "answer": 3,
+    "why": "Sora says 'onegai shimasu' is clearer when you want something."
+   }
+  ]
+ },
+ {
+  "id": "s4-055",
+  "level": 4,
+  "title": "{夏祭|なつまつ}りの{夜|よる}",
+  "title_en": "Summer Festival Night",
+  "genre_raw": "Slice of life",
+  "paragraphs": [
+   {
+    "jp": "{七月|しちがつ}の{終|お}わり、{近|ちか}くの{神社|じんじゃ}で{夏祭|なつまつ}りがありました。{木村|きむら}さんは{押|お}し{入|い}れから{古|ふる}い{浴衣|ゆかた}を{出|だ}して、アナとレナに{着|き}せてくれました。ラジと{空|そら}も{浴衣|ゆかた}を{着|き}ました。「みんな、よく{似合|にあ}うわね」と{言|い}われて、{四人|よにん}はうれしくなりました。",
+    "en": "At the end of July, there was a summer festival at a nearby shrine. Mrs. Kimura took some old yukata out of the closet and dressed Ana and Lena in them. Raj and Sora wore yukata too. When she said, 'They all suit you,' the four of them felt happy."
+   },
+   {
+    "jp": "{神社|じんじゃ}には{人|ひと}がたくさんいて、{屋台|やたい}がずらりと{並|なら}んでいました。たこ{焼|や}きやかき{氷|ごおり}を{食|た}べたり、{金魚|きんぎょ}すくいをしたりしました。レナは{金魚|きんぎょ}を{三匹|さんびき}もすくって、{子|こ}どもたちに「すごい！」と{言|い}われました。",
+    "en": "The shrine was full of people, and food stalls stood in a long row. They ate takoyaki and shaved ice and tried goldfish scooping. Lena caught as many as three goldfish, and the children said, 'Amazing!'"
+   },
+   {
+    "jp": "ところが、{花火|はなび}が{始|はじ}まる{少|すこ}し{前|まえ}、ラジがいないことに{気|き}がつきました。{電話|でんわ}をかけても{出|で}ません。「{人|ひと}が{多|おお}いから、{迷子|まいご}になったのかもしれない」と{空|そら}が{心配|しんぱい}しました。{三人|さんにん}は{分|わ}かれて{探|さが}すことにしました。",
+    "en": "However, a little before the fireworks started, they noticed that Raj was missing. He didn't answer his phone. 'There are so many people, maybe he got lost,' Sora worried. The three of them decided to split up and search."
+   },
+   {
+    "jp": "そのとき、{太鼓|たいこ}の{音|おと}が{聞|き}こえてきました。{神社|じんじゃ}の{真|ま}ん{中|なか}で、たくさんの{人|ひと}が{輪|わ}になって{盆踊|ぼんおど}りを{踊|おど}っています。よく{見|み}ると、その{一番|いちばん}{前|まえ}で{楽|たの}しそうに{踊|おど}っているのはラジでした。{近所|きんじょ}のおばあさんたちに{誘|さそ}われて、{踊|おど}りを{習|なら}っているうちに、{止|と}まらなくなったそうです。",
+    "en": "Just then, they heard the sound of drums. In the middle of the shrine, lots of people were dancing the Bon dance in a circle. Looking closely, they saw that the person dancing happily right at the front was Raj. The old women from the neighbourhood had invited him, and while he was learning the dance, he couldn't stop."
+   },
+   {
+    "jp": "「みんなもおいでよ！」とラジが{手|て}を{振|ふ}りました。{三人|さんにん}も{輪|わ}に{入|はい}って、ラジのまねをして{踊|おど}りました。{踊|おど}っていると、{夜空|よぞら}に{大|おお}きな{花火|はなび}が{上|あ}がりました。「{来年|らいねん}もまた、みんなで{来|こ}ようね」とアナが{言|い}いました。",
+    "en": "'Come and join us!' Raj waved. The other three joined the circle too and danced by copying Raj. As they danced, big fireworks went up into the night sky. 'Let's all come again next year,' Ana said."
+   }
+  ],
+  "questions": [
+   {
+    "q": "レナは{屋台|やたい}で{何|なに}をしましたか。",
+    "q_en": "What did Lena do at the stalls?",
+    "options": [
+     "{浴衣|ゆかた}を{買|か}った",
+     "{金魚|きんぎょ}を{三匹|さんびき}すくった",
+     "たこ{焼|や}きを{作|つく}った",
+     "{迷子|まいご}になった"
+    ],
+    "answer": 1,
+    "why": "She caught three goldfish and the children were impressed."
+   },
+   {
+    "q": "いなくなったラジは、どこにいましたか。",
+    "q_en": "Where was the missing Raj?",
+    "options": [
+     "{家|いえ}に{帰|かえ}っていた",
+     "{花火|はなび}を{見|み}に{行|い}っていた",
+     "{盆踊|ぼんおど}りの{輪|わ}の{一番|いちばん}{前|まえ}で{踊|おど}っていた",
+     "{屋台|やたい}でかき{氷|ごおり}を{食|た}べていた"
+    ],
+    "answer": 2,
+    "why": "He was dancing at the front of the Bon dance circle."
+   }
+  ]
+ },
+ {
+  "id": "s4-056",
+  "level": 4,
+  "title": "{木村|きむら}さんの{風邪|かぜ}",
+  "title_en": "Mrs. Kimura's Cold",
+  "genre_raw": "Daily life",
+  "paragraphs": [
+   {
+    "jp": "ある{朝|あさ}、いつも{一番|いちばん}{早|はや}く{起|お}きる{木村|きむら}さんが、{台所|だいどころ}にいませんでした。{心配|しんぱい}になったアナが{部屋|へや}をのぞくと、{木村|きむら}さんは{布団|ふとん}の{中|なか}で{苦|くる}しそうにしていました。{熱|ねつ}が{三十九度|さんじゅうきゅうど}もあったのです。",
+    "en": "One morning, Mrs. Kimura, who is always the first to get up, wasn't in the kitchen. Ana got worried and looked into her room, and found Mrs. Kimura in her futon, looking unwell. She had a fever of 39 degrees."
+   },
+   {
+    "jp": "{空|そら}がすぐに{近|ちか}くの{病院|びょういん}へ{連|つ}れていきました。お{医者|いしゃ}さんは「{風邪|かぜ}ですね。{薬|くすり}を{飲|の}んで、{三日|みっか}ぐらいゆっくり{休|やす}んでください」と{言|い}いました。{家|いえ}に{帰|かえ}ると、{木村|きむら}さんは「みんなのご{飯|はん}を{作|つく}らなきゃ」と{言|い}って、{起|お}きようとしました。「だめですよ！{今日|きょう}は{私|わたし}たちに{任|まか}せてください」とレナが{止|と}めました。",
+    "en": "Sora took her to a nearby clinic right away. The doctor said, 'It's a cold. Take this medicine and rest well for about three days.' When they got home, Mrs. Kimura said, 'I have to make everyone's dinner,' and tried to get up. 'No, you mustn't! Leave it to us today,' Lena said, stopping her."
+   },
+   {
+    "jp": "その{日|ひ}、{四人|よにん}は{台所|だいどころ}で{相談|そうだん}しました。「{風邪|かぜ}のときは、{何|なに}を{食|た}べるの？」{国|くに}によって、{答|こた}えは{全然|ぜんぜん}{違|ちが}いました。アナはブラジルの{鶏肉|とりにく}のスープ、ラジはしょうがの{入|はい}った{温|あたた}かいミルクティー、レナはカモミールのお{茶|ちゃ}を{作|つく}りました。{空|そら}は{母|はは}に{電話|でんわ}で{聞|き}きながら、{初|はじ}めておかゆを{作|つく}りました。",
+    "en": "That day, the four of them talked it over in the kitchen. 'What do you eat when you have a cold?' The answers were completely different depending on the country. Ana made a Brazilian chicken soup, Raj made hot milk tea with ginger, and Lena made chamomile tea. Sora made rice porridge for the first time, asking his mother how on the phone."
+   },
+   {
+    "jp": "{料理|りょうり}を{持|も}っていくと、{木村|きむら}さんはびっくりした{顔|かお}をしました。「こんなにたくさん、{食|た}べられないわよ。」そう{言|い}いながらも、{一|ひと}つずつゆっくり{味|あじ}わいました。おかゆは{少|すこ}し{塩|しお}が{多|おお}すぎましたが、{木村|きむら}さんは「{一番|いちばん}{温|あたた}かい{味|あじ}がするわ」と{言|い}って、{全部|ぜんぶ}{食|た}べてくれました。",
+    "en": "When they brought the food in, Mrs. Kimura looked surprised. 'I can't eat this much!' But even while saying that, she slowly enjoyed each one. The porridge had a little too much salt, but she said, 'This one tastes the warmest,' and ate all of it."
+   },
+   {
+    "jp": "{三日|みっか}{後|ご}、{木村|きむら}さんはすっかり{元気|げんき}になりました。{朝|あさ}、{台所|だいどころ}に{立|た}った{木村|きむら}さんは、{笑|わら}って{言|い}いました。「{一人|ひとり}で{住|す}んでいたころは、{病気|びょうき}になると{寂|さび}しかったの。でも{今|いま}は{家族|かぞく}がたくさんいるから、たまには{風邪|かぜ}をひくのも{悪|わる}くないわね。」",
+    "en": "Three days later, Mrs. Kimura was completely better. Standing in the kitchen in the morning, she laughed and said, 'When I lived alone, being ill was lonely. But now I have lots of family, so catching a cold once in a while isn't so bad.'"
+   }
+  ],
+  "questions": [
+   {
+    "q": "{空|そら}は{木村|きむら}さんのために{何|なに}を{作|つく}りましたか。",
+    "q_en": "What did Sora make for Mrs. Kimura?",
+    "options": [
+     "おかゆ",
+     "{鶏肉|とりにく}のスープ",
+     "ミルクティー",
+     "カモミールのお{茶|ちゃ}"
+    ],
+    "answer": 0,
+    "why": "Sora made rice porridge with his mother's help on the phone."
+   },
+   {
+    "q": "{木村|きむら}さんが{起|お}きようとしたとき、レナは{何|なん}と{言|い}いましたか。",
+    "q_en": "What did Lena say when Mrs. Kimura tried to get up?",
+    "options": [
+     "{病院|びょういん}へ{行|い}きましょう",
+     "{薬|くすり}を{飲|の}んでください",
+     "{一緒|いっしょ}に{作|つく}りましょう",
+     "{自分|じぶん}たちに{任|まか}せてください"
+    ],
+    "answer": 3,
+    "why": "Lena told her to leave the cooking to them."
+   },
+   {
+    "q": "{最後|さいご}に、{木村|きむら}さんはどう{思|おも}いましたか。",
+    "q_en": "How did Mrs. Kimura feel at the end?",
+    "options": [
+     "もう{料理|りょうり}をしたくない",
+     "おかゆがしょっぱくて{嫌|いや}だった",
+     "みんながいるから、{風邪|かぜ}をひくのも{悪|わる}くない",
+     "{一人|ひとり}で{住|す}みたい"
+    ],
+    "answer": 2,
+    "why": "She said that with her new family around, a cold isn't so bad."
+   }
+  ]
+ },
+ {
+  "id": "s4-057",
+  "level": 4,
+  "title": "{名前|なまえ}のない{手紙|てがみ}",
+  "title_en": "The Letter Without a Name",
+  "genre_raw": "Romance",
+  "paragraphs": [
+   {
+    "jp": "ラジには{秘密|ひみつ}がありました。アナのことが{好|す}きなのです。いつも{明|あか}るくて、{歌|うた}を{歌|うた}いながら{料理|りょうり}をするアナを{見|み}ると、{胸|むね}がどきどきします。でも、{直接|ちょくせつ}{言|い}うのは{恥|は}ずかしいので、{日本語|にほんご}で{手紙|てがみ}を{書|か}くことにしました。",
+    "en": "Raj had a secret. He liked Ana. When he saw Ana, always cheerful and singing while she cooked, his heart pounded. But he was too shy to tell her directly, so he decided to write her a letter in Japanese."
+   },
+   {
+    "jp": "{空|そら}に{手伝|てつだ}ってもらって、{何度|なんど}も{書|か}き{直|なお}しました。「アナさんへ。アナさんの{笑顔|えがお}を{見|み}ると、{元気|げんき}になります。{今度|こんど}、{二人|ふたり}で{映画|えいが}を{見|み}に{行|い}きませんか。」ところが、{緊張|きんちょう}していたので、{自分|じぶん}の{名前|なまえ}を{書|か}くのを{忘|わす}れてしまいました。そして{朝|あさ}{早|はや}く、{玄関|げんかん}の{靴箱|くつばこ}の{中|なか}にそっと{入|い}れておきました。",
+    "en": "With Sora's help, he rewrote it many times. 'Dear Ana, when I see your smile, it cheers me up. Would you like to go and see a film with me sometime?' But because he was nervous, he forgot to write his own name. Then, early in the morning, he quietly left it in a shoe cubby by the front door."
+   },
+   {
+    "jp": "ところが、その{靴箱|くつばこ}はアナのではなく、レナのでした。{手紙|てがみ}を{見|み}つけたレナは{困|こま}ってしまいました。「アナさんへ」と{書|か}いてあるのに、どうして{私|わたし}の{靴箱|くつばこ}にあるんだろう。だれが{書|か}いたのかもわかりません。レナはしかたなく、その{手紙|てがみ}をアナに{渡|わた}しました。",
+    "en": "However, that cubby wasn't Ana's; it was Lena's. Lena found the letter and didn't know what to do. It says 'Dear Ana', so why is it in my cubby? She couldn't tell who had written it, either. In the end, Lena gave the letter to Ana."
+   },
+   {
+    "jp": "{手紙|てがみ}を{読|よ}んだアナは、{字|じ}を{見|み}てすぐにわかりました。{冷蔵庫|れいぞうこ}のメモでいつも{見|み}ている、{少|すこ}し{大|おお}きくて{丸|まる}い{字|じ}です。アナはラジの{部屋|へや}のドアをノックしました。「この{手紙|てがみ}、レナの{靴箱|くつばこ}に{入|はい}っていたよ。」ラジの{顔|かお}は、トマトのように{赤|あか}くなりました。",
+    "en": "When Ana read the letter, she knew at once from the handwriting. It was the slightly large, round writing she always saw on the notes on the fridge. Ana knocked on Raj's door. 'This letter was in Lena's shoe cubby.' Raj's face turned as red as a tomato."
+   },
+   {
+    "jp": "「ごめん、{間違|まちが}えた……」と{下|した}を{向|む}くラジに、アナはにっこり{笑|わら}って{言|い}いました。「{名前|なまえ}がなくても、すぐにわかったよ。{映画|えいが}、{日曜日|にちようび}はどう？」その{夜|よる}、ラジは{空|そら}に{何度|なんど}もお{礼|れい}を{言|い}いました。レナは「{次|つぎ}は{靴箱|くつばこ}を{間違|まちが}えないでね」と{笑|わら}いました。",
+    "en": "'Sorry, I got it wrong...' Raj said, looking down. Ana smiled brightly and said, 'Even without a name, I knew right away. How about the film on Sunday?' That night, Raj thanked Sora again and again. Lena laughed, 'Next time, don't get the shoe cubby wrong.'"
+   }
+  ],
+  "questions": [
+   {
+    "q": "ラジの{手紙|てがみ}は、どこに{入|はい}っていましたか。",
+    "q_en": "Where did Raj's letter end up?",
+    "options": [
+     "アナの{部屋|へや}",
+     "レナの{靴箱|くつばこ}",
+     "{冷蔵庫|れいぞうこ}の{中|なか}",
+     "{空|そら}のかばん"
+    ],
+    "answer": 1,
+    "why": "He put it in the wrong cubby, which was Lena's."
+   },
+   {
+    "q": "アナは、どうして{手紙|てがみ}を{書|か}いた{人|ひと}がわかりましたか。",
+    "q_en": "How did Ana know who wrote the letter?",
+    "options": [
+     "{手紙|てがみ}に{名前|なまえ}があったから",
+     "レナが{教|おし}えたから",
+     "{字|じ}を{見|み}たから",
+     "{空|そら}が{話|はな}したから"
+    ],
+    "answer": 2,
+    "why": "She recognised Raj's handwriting from the fridge notes."
+   }
+  ]
+ },
+ {
+  "id": "s4-058",
+  "level": 4,
+  "title": "{停電|ていでん}の{夜|よる}",
+  "title_en": "The Night of the Power Cut",
+  "genre_raw": "Slice of life",
+  "paragraphs": [
+   {
+    "jp": "{九月|くがつ}のある{夜|よる}、{大|おお}きな{台風|たいふう}が{大阪|おおさか}に{来|き}ました。{窓|まど}がガタガタ{揺|ゆ}れて、{雨|あめ}の{音|おと}がとてもうるさかったです。{夜|よる}{八時|はちじ}ごろ、{急|きゅう}に「パチン」と{音|おと}がして、{家中|いえじゅう}の{電気|でんき}が{消|き}えてしまいました。{停電|ていでん}です。",
+    "en": "One night in September, a big typhoon hit Osaka. The windows rattled and the sound of the rain was very loud. At about 8 p.m., there was a sudden snap and every light in the house went out. It was a power cut."
+   },
+   {
+    "jp": "「{見|み}えない！」「どこにいるの？」{暗|くら}い{中|なか}で、みんなが{大|おお}きい{声|こえ}を{出|だ}しました。{木村|きむら}さんは{落|お}ち{着|つ}いて、{引|ひ}き{出|だ}しからろうそくと{懐中電灯|かいちゅうでんとう}を{出|だ}しました。「{台風|たいふう}の{季節|きせつ}は、いつも{準備|じゅんび}しておくのよ。」{五人|ごにん}は{居間|いま}に{集|あつ}まって、ろうそくの{周|まわ}りに{座|すわ}りました。",
+    "en": "'I can't see!' 'Where are you?' Everyone shouted in the dark. Mrs. Kimura stayed calm and took candles and a torch out of a drawer. 'In typhoon season, I always keep these ready.' The five of them gathered in the living room and sat around the candles."
+   },
+   {
+    "jp": "スマホの{電池|でんち}も{少|すく}なくなってきたので、{話|はなし}をするしかありません。アナはブラジルの{家族|かぞく}の{話|はなし}を、ラジは{子|こ}どものころに{見|み}た{大雨|おおあめ}の{話|はなし}をしました。レナは、{日本|にほん}に{来|く}る{前|まえ}は{少|すこ}し{怖|こわ}かったと{話|はな}しました。いつもは{静|しず}かな{空|そら}も、{将来|しょうらい}の{夢|ゆめ}について{話|はな}してくれました。",
+    "en": "Their phone batteries were running low, so there was nothing to do but talk. Ana talked about her family in Brazil, and Raj talked about a heavy rain he saw as a child. Lena said that before coming to Japan she had been a little scared. Even Sora, who is usually quiet, talked about his dreams for the future."
+   },
+   {
+    "jp": "{最後|さいご}に、{木村|きむら}さんがこの{家|いえ}の{話|はなし}をしました。「この{家|いえ}は、{亡|な}くなった{主人|しゅじん}と{一緒|いっしょ}に{建|た}てたの。{子|こ}どもがいなかったから、{一人|ひとり}になってからはとても{静|しず}かでね。だから、いろいろな{国|くに}の{人|ひと}に{住|す}んでもらうことにしたのよ。」みんなは{黙|だま}って{聞|き}いていました。",
+    "en": "Last of all, Mrs. Kimura told them about the house. 'I built this house with my late husband. We had no children, so after I was left alone, it was very quiet. That's why I decided to let people from all sorts of countries live here.' Everyone listened in silence."
+   },
+   {
+    "jp": "{夜中|よなか}の{十二時|じゅうにじ}ごろ、{電気|でんき}が{急|きゅう}につきました。{部屋|へや}が{明|あか}るくなると、みんなは{少|すこ}しまぶしそうな{顔|かお}をしました。「{電気|でんき}、また{消|け}してもいい？」とアナが{言|い}いました。だれも{反対|はんたい}しませんでした。{五人|ごにん}はもう{少|すこ}しだけ、ろうそくの{光|ひかり}の{中|なか}で{話|はなし}を{続|つづ}けました。",
+    "en": "Around midnight, the power suddenly came back on. When the room got bright, everyone squinted a little. 'Can we turn the lights off again?' Ana asked. Nobody disagreed. The five of them kept talking a little longer in the candlelight."
+   }
+  ],
+  "questions": [
+   {
+    "q": "どうして{停電|ていでん}になりましたか。",
+    "q_en": "Why was there a power cut?",
+    "options": [
+     "{大|おお}きな{台風|たいふう}が{来|き}たから",
+     "{電気|でんき}を{使|つか}いすぎたから",
+     "{電気代|でんきだい}を{払|はら}わなかったから",
+     "{木村|きむら}さんが{電気|でんき}を{消|け}したから"
+    ],
+    "answer": 0,
+    "why": "The lights went out during a big typhoon."
+   },
+   {
+    "q": "{木村|きむら}さんは、どうしていろいろな{国|くに}の{人|ひと}に{住|す}んでもらうことにしましたか。",
+    "q_en": "Why did Mrs. Kimura decide to let people from many countries live in her house?",
+    "options": [
+     "お{金|かね}が{必要|ひつよう}だったから",
+     "{外国語|がいこくご}を{勉強|べんきょう}したかったから",
+     "{家|いえ}が{大|おお}きすぎたから",
+     "{一人|ひとり}になって、{家|いえ}がとても{静|しず}かだったから"
+    ],
+    "answer": 3,
+    "why": "After her husband died she was alone and the house was very quiet."
+   },
+   {
+    "q": "{電気|でんき}がついた{後|あと}、みんなはどうしましたか。",
+    "q_en": "What did everyone do after the power came back?",
+    "options": [
+     "すぐに{寝|ね}た",
+     "{電気|でんき}を{消|け}して、もう{少|すこ}し{話|はな}した",
+     "スマホを{充電|じゅうでん}した",
+     "テレビを{見|み}た"
+    ],
+    "answer": 1,
+    "why": "They turned the lights off again and talked a little longer by candlelight."
+   }
+  ]
+ },
+ {
+  "id": "s4-059",
+  "level": 4,
+  "title": "びっくりパーティー",
+  "title_en": "The Surprise Party",
+  "genre_raw": "Slice of life",
+  "paragraphs": [
+   {
+    "jp": "{十月|じゅうがつ}の{終|お}わりは、{木村|きむら}さんの{七十歳|ななじゅっさい}の{誕生日|たんじょうび}です。{四人|よにん}は{木村|きむら}さんに{内緒|ないしょ}で、びっくりパーティーをすることにしました。アナはケーキ、ラジはカレー、レナは{部屋|へや}の{飾|かざ}り、{空|そら}は{木村|きむら}さんを{外|そと}に{連|つ}れ{出|だ}す{係|かかり}です。",
+    "en": "At the end of October it is Mrs. Kimura's 70th birthday. The four of them decided to throw her a surprise party without telling her. Ana was in charge of the cake, Raj the curry, Lena the decorations, and Sora the job of taking Mrs. Kimura out of the house."
+   },
+   {
+    "jp": "でも、{秘密|ひみつ}にするのは{簡単|かんたん}ではありませんでした。{木村|きむら}さんが{居間|いま}に{入|はい}ると、みんなは{急|きゅう}に{話|はなし}をやめたり、{紙|かみ}を{隠|かく}したりします。{木村|きむら}さんは{少|すこ}し{寂|さび}しくなりました。「みんな、{私|わたし}に{何|なに}か{隠|かく}しているみたい。もしかしたら、この{家|いえ}を{出|で}ていくつもりなのかしら。」",
+    "en": "But keeping it secret was not easy. Whenever Mrs. Kimura came into the living room, everyone suddenly stopped talking or hid pieces of paper. Mrs. Kimura began to feel a little lonely. 'It seems everyone is hiding something from me. Maybe they are planning to leave this house.'"
+   },
+   {
+    "jp": "{誕生日|たんじょうび}の{日|ひ}、{空|そら}が{木村|きむら}さんを{誘|さそ}いました。「{新|あたら}しい{靴|くつ}を{買|か}いたいんですけど、{一緒|いっしょ}に{選|えら}んでもらえませんか。」{二人|ふたり}が{出|で}かけている{間|あいだ}に、{三人|さんにん}は{急|いそ}いで{準備|じゅんび}をしました。ところが、アナはオーブンの{温度|おんど}を{間違|まちが}えて、ケーキが{少|すこ}し{焦|こ}げてしまいました。",
+    "en": "On her birthday, Sora asked Mrs. Kimura, 'I'd like to buy some new shoes. Could you help me choose?' While the two of them were out, the other three hurried to get ready. But Ana set the oven to the wrong temperature, and the cake got a little burnt."
+   },
+   {
+    "jp": "{夕方|ゆうがた}、{木村|きむら}さんが{玄関|げんかん}のドアを{開|あ}けると、「お{誕生日|たんじょうび}おめでとうございます！」という{大|おお}きな{声|こえ}が{聞|き}こえました。{居間|いま}には{色紙|いろがみ}の{飾|かざ}りがたくさんあって、テーブルにはごちそうと、{少|すこ}し{黒|くろ}いケーキが{並|なら}んでいました。{木村|きむら}さんは、しばらく{何|なに}も{言|い}えませんでした。",
+    "en": "In the evening, when Mrs. Kimura opened the front door, she heard a loud 'Happy birthday!' The living room was full of coloured-paper decorations, and on the table there was a feast and a slightly black cake. For a while, Mrs. Kimura couldn't say anything."
+   },
+   {
+    "jp": "プレゼントは、この{一年|いちねん}の{写真|しゃしん}をはったアルバムでした。{最後|さいご}のページには、{四人|よにん}の{字|じ}でこう{書|か}いてありました。「{家|いえ}のルール{十一|じゅういち}、{木村|きむら}さんの{誕生日|たんじょうび}は、{毎年|まいとし}みんなでお{祝|いわ}いすること。」{木村|きむら}さんは{涙|なみだ}をふきながら、{焦|こ}げたケーキを「{世界|せかい}で{一番|いちばん}おいしいわ」と{言|い}って{食|た}べました。",
+    "en": "The present was an album filled with photos from the past year. On the last page, in all four of their handwriting, it said: 'House rule 11: every year, everyone celebrates Mrs. Kimura's birthday together.' Wiping her tears, Mrs. Kimura ate the burnt cake, saying, 'It's the most delicious in the world.'"
+   }
+  ],
+  "questions": [
+   {
+    "q": "{空|そら}の{係|かかり}は{何|なん}でしたか。",
+    "q_en": "What was Sora's job?",
+    "options": [
+     "{木村|きむら}さんを{外|そと}に{連|つ}れ{出|だ}すこと",
+     "ケーキを{作|つく}ること",
+     "カレーを{作|つく}ること",
+     "{部屋|へや}を{飾|かざ}ること"
+    ],
+    "answer": 0,
+    "why": "Sora's job was to take Mrs. Kimura out of the house."
+   },
+   {
+    "q": "{木村|きむら}さんは、どうして{寂|さび}しくなりましたか。",
+    "q_en": "Why did Mrs. Kimura feel lonely?",
+    "options": [
+     "{誕生日|たんじょうび}を{忘|わす}れられたと{思|おも}ったから",
+     "{靴|くつ}が{買|か}えなかったから",
+     "みんなが{何|なに}かを{隠|かく}しているように{見|み}えたから",
+     "ケーキが{焦|こ}げていたから"
+    ],
+    "answer": 2,
+    "why": "Everyone stopped talking and hid papers when she came in."
+   }
+  ]
+ },
+ {
+  "id": "s4-060",
+  "level": 4,
+  "title": "さよならと{鍵|かぎ}",
+  "title_en": "A Goodbye and a Key",
+  "genre_raw": "Slice of life",
+  "paragraphs": [
+   {
+    "jp": "{三月|さんがつ}、レナがドイツに{帰|かえ}る{日|ひ}が{近|ちか}づいてきました。この{一年|いちねん}は、あっという{間|ま}でした。{初|はじ}めてこの{家|いえ}に{来|き}た{日|ひ}、{十|とお}もあるルールを{見|み}て{心配|しんぱい}したことを、レナは{今|いま}でもよく{覚|おぼ}えています。",
+    "en": "In March, the day for Lena to go back to Germany was getting close. The year had gone by in a flash. Lena still clearly remembers how, on the day she first came to this house, she saw all ten rules and worried."
+   },
+   {
+    "jp": "{最後|さいご}の{金曜日|きんようび}、{五人|ごにん}はいつものように{台所|だいどころ}のテーブルで{晩|ばん}ごはんを{食|た}べました。ラジはお{守|まも}りを、アナは{手作|てづく}りのブレスレットを、{空|そら}は{大阪弁|おおさかべん}の{辞書|じしょ}をくれました。「ドイツでも{大阪弁|おおさかべん}を{忘|わす}れないでね」と{空|そら}が{言|い}うと、「{空|そら}くんに{言|い}われたくないわ」とアナが{言|い}って、みんなが{笑|わら}いました。",
+    "en": "On the last Friday, the five of them ate dinner at the kitchen table as usual. Raj gave her a good-luck charm, Ana a handmade bracelet, and Sora a dictionary of Osaka dialect. When Sora said, 'Don't forget your Osaka dialect in Germany,' Ana said, 'You're the last person who should say that, Sora,' and everyone laughed."
+   },
+   {
+    "jp": "レナは{泣|な}かないと{決|き}めていました。でも、{木村|きむら}さんが{小|ちい}さい{箱|はこ}を{渡|わた}したとき、{我慢|がまん}できなくなりました。{中|なか}には、この{家|いえ}の{玄関|げんかん}の{鍵|かぎ}が{入|はい}っていました。「これはレナちゃんの{鍵|かぎ}よ。いつでも{帰|かえ}ってきていいからね。」",
+    "en": "Lena had decided she would not cry. But when Mrs. Kimura handed her a small box, she couldn't hold back. Inside was a key to the front door of this house. 'This is your key, Lena. You can come home any time.'"
+   },
+   {
+    "jp": "{次|つぎ}の{朝|あさ}、{玄関|げんかん}で{靴|くつ}をはいていると、{大|おお}きなスーツケースを{持|も}った{女|おんな}の{人|ひと}がドアの{前|まえ}に{立|た}っていました。{今日|きょう}からレナの{部屋|へや}に{住|す}む、ベトナムから{来|き}たリンさんです。リンさんは{不安|ふあん}そうな{顔|かお}で、ルールの{紙|かみ}を{持|も}っていました。",
+    "en": "The next morning, as Lena was putting on her shoes at the entrance, a woman with a big suitcase was standing at the door. It was Linh from Vietnam, who would live in Lena's room from today. Linh looked nervous and was holding the paper with the rules."
+   },
+   {
+    "jp": "レナはその{紙|かみ}を{見|み}て、にっこり{笑|わら}いました。そして、{一年前|いちねんまえ}にラジが{言|い}ってくれたことを、{今度|こんど}は{自分|じぶん}が{言|い}いました。「{大丈夫|だいじょうぶ}。{十番|じゅうばん}のルールをよく{読|よ}んでみて。」それから{手|て}を{振|ふ}って、{駅|えき}へ{歩|ある}いていきました。ポケットの{中|なか}には、あの{鍵|かぎ}が{入|はい}っていました。",
+    "en": "Lena looked at the paper and smiled. Then she said what Raj had told her a year ago, this time herself: 'Don't worry. Read rule number ten carefully.' After that, she waved and walked off to the station. In her pocket was that key."
+   }
+  ],
+  "questions": [
+   {
+    "q": "{木村|きむら}さんは、レナに{何|なに}をあげましたか。",
+    "q_en": "What did Mrs. Kimura give Lena?",
+    "options": [
+     "お{守|まも}り",
+     "ブレスレット",
+     "{大阪弁|おおさかべん}の{辞書|じしょ}",
+     "{家|いえ}の{玄関|げんかん}の{鍵|かぎ}"
+    ],
+    "answer": 3,
+    "why": "She gave Lena a front-door key so she could come back any time."
+   },
+   {
+    "q": "レナはリンさんに{何|なに}をしましたか。",
+    "q_en": "What did Lena do for Linh?",
+    "options": [
+     "{部屋|へや}を{案内|あんない}した",
+     "{十番|じゅうばん}のルールを{読|よ}むように{言|い}った",
+     "{鍵|かぎ}をあげた",
+     "{駅|えき}まで{一緒|いっしょ}に{行|い}った"
+    ],
+    "answer": 1,
+    "why": "She repeated Raj's advice to read rule ten carefully."
+   }
+  ]
+ }
+]
