@@ -46,7 +46,7 @@ A Python pipeline builds it all into the app's files:
 ## How it's built
 
 - **Kotlin** and **Jetpack Compose** (Material 3), one activity
-- **Room** for study progress, **WorkManager** for the evening reminder
+- **Room** for study progress, AlarmManager for the evening reminder
 - **Claude API** for chat, explanations and new readings
 - Android text-to-speech for audio
 - **GitHub Actions**: unit tests, the content check and a build on every push
