@@ -179,7 +179,7 @@ fun WordsScreen(startLevel: Int, nav: (Screen) -> Unit, onBack: () -> Unit) {
                 ) {
                     StageDot(states[w.id]?.stage ?: 0)
                     HGap(12.dp)
-                    Box(Modifier.weight(0.45f)) { Ruby(w.markup, size = 20.sp, show = true) }
+                    Box(Modifier.weight(0.45f)) { Ruby(w.markup, size = 20.sp, show = if ((states[w.id]?.stage ?: 0) > 0) null else true) }
                     HGap(8.dp)
                     Text(w.meaning, Modifier.weight(0.55f), style = MaterialTheme.typography.bodyMedium, maxLines = 2)
                 }

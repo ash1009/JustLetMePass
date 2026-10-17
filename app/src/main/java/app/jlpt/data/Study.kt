@@ -234,15 +234,19 @@ class Study(private val content: Content, private val dao: StudyDao, private val
 
     // ---- what the furigana can leave out ----
 
-    /** Kanji and words known well enough to read without help. */
+    /** Kanji and words already met at least once: their furigana stays hidden (tap to see). */
     fun knownForFurigana(): Known {
         val chars = HashSet<Char>()
         val words = HashSet<String>()
         for (s in _states.value.values) {
-            if (s.stage < Srs.KNOWN) continue
+            if (s.stage <= 0) continue
             when {
                 s.id.startsWith("c:") -> s.id.getOrNull(2)?.let { chars += it }
-                s.id.startsWith("v") -> content.wordById[s.id]?.let { words += it.word }
+                s.id.startsWith("v") -> content.wordById[s.id]?.let {
+                    words += it.word
+                    // Also the kanji part on its own, as written before an ending: 食べる → 食.
+                    words += it.word.trimEnd { c -> Furigana.isKana(c) }
+                }
             }
         }
         return Known(chars, words)

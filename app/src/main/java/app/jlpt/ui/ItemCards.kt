@@ -89,7 +89,7 @@ private fun WordCard(id: String, modifier: Modifier) {
     Column(modifier.fillMaxWidth(), horizontalAlignment = Alignment.CenterHorizontally) {
         Label("Word · ${lvl(w.level)}")
         Gap()
-        Ruby(w.markup, size = 44.sp, show = true, center = true, family = JpBig)
+        Ruby(w.markup, size = 44.sp, show = if (a.study.stage(id) > 0) null else true, center = true, family = JpBig)
         Gap()
         Row(verticalAlignment = Alignment.CenterVertically) {
             Text(w.meaning, style = MaterialTheme.typography.titleLarge, modifier = Modifier.weight(1f, fill = false))
@@ -148,7 +148,7 @@ private fun KanjiCard(id: String, modifier: Modifier) {
                 Gap(6.dp)
                 for (w in examples) {
                     Row(verticalAlignment = Alignment.CenterVertically, modifier = Modifier.padding(vertical = 4.dp)) {
-                        Ruby(w.markup, size = 20.sp, show = true)
+                        Ruby(w.markup, size = 20.sp)
                         HGap()
                         Text(w.meaning, style = MaterialTheme.typography.bodyMedium, modifier = Modifier.weight(1f), maxLines = 2)
                     }
@@ -208,7 +208,7 @@ private fun PhraseCard(id: String, modifier: Modifier) {
     Column(modifier.fillMaxWidth(), horizontalAlignment = Alignment.CenterHorizontally) {
         Label("Daily life · ${set?.title ?: ""}")
         Gap()
-        Ruby(p.jp, size = 28.sp, center = true, show = true)
+        Ruby(p.jp, size = 28.sp, center = true, show = if (a.study.stage(id) > 0) null else true)
         Gap()
         Row(verticalAlignment = Alignment.CenterVertically) {
             Text(p.en, style = MaterialTheme.typography.titleLarge, modifier = Modifier.weight(1f, fill = false))

@@ -43,7 +43,16 @@ for lvl in [5, 4, 3, 2, 1]:
         ex = examples.get(vid, ('', ''))
         # Trim very long meaning lists to the first few senses.
         m = r['meaning'].strip()
-        parts = [p.strip() for p in re.split(r'[;,]', m) if p.strip()]
+        parts, depth, cur = [], 0, ''
+        for ch in m:
+            depth += ch == '('
+            depth -= ch == ')'
+            if ch in ';,' and depth == 0:
+                if cur.strip(): parts.append(cur.strip())
+                cur = ''
+            else:
+                cur += ch
+        if cur.strip(): parts.append(cur.strip())
         if len(parts) > 4:
             m = ', '.join(parts[:4])
         vocab.append([vid, w, rd, m, lvl, ex[0], ex[1]])

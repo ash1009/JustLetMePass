@@ -228,8 +228,8 @@ private fun MoreSettings(onReset: () -> Unit) {
     val theme by a.prefs.dark.state.collectAsState()
 
     Column(Modifier.fillMaxWidth()) {
-        SettingTitle("Furigana", "Readings over kanji. \"Fade\" hides them once you know the kanji or word; tap any word to peek.")
-        ChoiceRow(listOf("auto" to "Fade as I learn", "always" to "Always show", "never" to "Hide"), furigana) { a.prefs.furigana.value = it }
+        SettingTitle("Furigana", "Readings over kanji. \"Hide once seen\" shows them only the first time you meet a word or kanji; tap any word to see it again.")
+        ChoiceRow(listOf("auto" to "Hide once seen", "always" to "Always show", "never" to "Hide"), furigana) { a.prefs.furigana.value = it }
         Gap(20.dp)
         SettingTitle("New items a day", "Auto works it out from your exam date and daily time.")
         ChoiceRow(listOf(0 to "Auto", 10 to "10", 20 to "20", 30 to "30", 40 to "40", 50 to "50"), newPerDay) { a.prefs.newPerDay.value = it }

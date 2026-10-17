@@ -231,11 +231,17 @@ fun ReadingView(r: Reading, save: Boolean, explainInChat: (String) -> Unit, onNe
 
 /** A question with its options; shows right and wrong after a pick. */
 @Composable
-fun QuizBlock(q: Quiz, chosen: Int?, showEnglishQuestion: Boolean = true, onPick: (Int) -> Unit) {
+fun QuizBlock(q: Quiz, chosen: Int?, onPick: (Int) -> Unit) {
     val ex = LocalExtra.current
+    var english by remember(q.q) { mutableStateOf(false) }
     Column(Modifier.fillMaxWidth()) {
-        Ruby(q.q, size = 18.sp)
-        if (showEnglishQuestion && q.qEn.isNotBlank()) {
+        Row(verticalAlignment = Alignment.Top) {
+            Ruby(q.q, size = 18.sp, modifier = Modifier.weight(1f))
+            if (q.qEn.isNotBlank() && q.q.isNotBlank()) {
+                TextButton(onClick = { english = !english }) { Text(if (english) "Hide" else "EN", style = MaterialTheme.typography.labelMedium) }
+            }
+        }
+        if (english && q.qEn.isNotBlank()) {
             Text(q.qEn, style = MaterialTheme.typography.bodySmall, color = ex.muted)
         }
         Gap(8.dp)
@@ -355,7 +361,7 @@ fun ListeningView(l: Listening, save: Boolean, explainInChat: (String) -> Unit =
                 style = MaterialTheme.typography.bodySmall)
         }
         Gap(16.dp)
-        QuizBlock(l.quiz.copy(q = if (played || chosen != null) l.quiz.q else ""), chosen, showEnglishQuestion = chosen != null) { pick ->
+        QuizBlock(l.quiz.copy(q = if (played || chosen != null) l.quiz.q else ""), chosen) { pick ->
             lastTouch = System.currentTimeMillis()
             chosen = pick
             onAnswer(pick)
