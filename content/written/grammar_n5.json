@@ -443,15 +443,15 @@
     "en": "A: Where is reception? B: Over there. (pointing far away)"
    },
    {
-    "q": "＿＿は{私|わたし}の{部屋|へや}です。どうぞ。",
+    "q": "（{部屋|へや}の{中|なか}で）＿＿は{私|わたし}の{部屋|へや}です。どうぞ、{座|すわ}ってください。",
     "options": [
      "ここ",
-     "これ",
+     "それ",
      "この",
      "どこ"
     ],
     "answer": 0,
-    "en": "This is my room. Come in."
+    "en": "(Inside the room) This is my room. Please, have a seat."
    }
   ]
  },
