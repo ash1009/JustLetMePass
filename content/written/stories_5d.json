@@ -399,12 +399,12 @@
     "q_en": "Why did Pochi hide under the sofa?",
     "options": [
      "{雨|あめ}がこわかったから",
-     "おじいさんがまた{来|く}ると{聞|き}いたから",
+     "おじいさんとの{朝|あさ}の{散歩|さんぽ}がたいへんだったから",
      "おなかがいたかったから",
      "けんたとサッカーをしたかったから"
     ],
     "answer": 1,
-    "why": "Grandpa said he would come again, and Pochi didn't want another early walk."
+    "why": "Grandpa's 5 a.m. walk wore Pochi out, and Grandpa said he would come back next month."
    }
   ]
  },

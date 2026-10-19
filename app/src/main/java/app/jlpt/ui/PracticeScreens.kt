@@ -463,7 +463,8 @@ fun AiReadingScreen(onBack: () -> Unit, explainInChat: (String) -> Unit) {
 Try to use some of these words the learner knows: $known
 Reply with JSON exactly like:
 {"title":"English title","text":"passage with furigana markup","en":"English translation","questions":[{"q":"question in Japanese with markup","q_en":"English question","options":["...","...","...","..."],"answer":0,"why":"one short sentence"}]}
-Give 2 or 3 questions. Vary the position of the right answer.""",
+Give 2 or 3 questions. Vary the position of the right answer.
+Like the real JLPT, exactly one option must be right: no wrong option may also fit the passage, and no option may be a polite or casual variant of the right one.""",
             smart = true, maxTokens = 2500,
         )
         when (r) {
