@@ -439,7 +439,7 @@
    },
    {
     "q": "どうして{湖|みずうみ}の{中|なか}の{星|ほし}は{空|そら}より{一|ひと}つ{多|おお}いのですか。",
-    "q_en": "Why are there one more stars in the lake than in the sky?",
+    "q_en": "Why is there one more star in the lake than in the sky?",
     "options": [
      "カメが{星|ほし}を{作|つく}ったから",
      "{落|お}ちた{星|ほし}が{湖|みずうみ}の{中|なか}にいるから",

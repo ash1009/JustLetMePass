@@ -215,13 +215,13 @@
     "q": "{働|はたら}き{始|はじ}めて2{週間目|しゅうかんめ}の{土曜日|どようび}に{働|はたら}いた。{時給|じきゅう}はいくらか。",
     "q_en": "You work on a Saturday in your second week. What is the hourly pay?",
     "options": [
+     "1,000{円|えん}",
      "1,100{円|えん}",
-     "1,200{円|えん}",
      "1,300{円|えん}",
      "1,400{円|えん}"
     ],
-    "answer": 0,
-    "why": "The first month is training, so the pay is 1,100 yen."
+    "answer": 1,
+    "why": "The first month is training, so the pay is 1,100 yen, even on a Saturday."
    }
   ]
  },

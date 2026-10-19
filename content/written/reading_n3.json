@@ -478,7 +478,7 @@
      "{机|つくえ}の{下|した}の{荷物|にもつ}を{片付|かたづ}ける",
      "パソコンの{電源|でんげん}を{切|き}る",
      "{会議室|かいぎしつ}を{予約|よやく}する",
-     "{荷物|にもつ}をロッカーに{入|い}れる"
+     "{机|つくえ}の{下|した}に{何|なに}も{置|お}かないようにする"
     ],
     "answer": 2,
     "why": "The notice asks you to move items and turn off the computer, but not to book the meeting room."

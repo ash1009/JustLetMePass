@@ -230,8 +230,8 @@
     "why": "He doesn't have much money and the bus was less than half the price."
    },
    {
-    "q": "{隣|となり}の{男|おとこ}の{人|ひと}はトムさんに{何|なに}をくれましたか。",
-    "q_en": "What did the man next to Tom give him?",
+    "q": "バスの{中|なか}で、{隣|となり}の{男|おとこ}の{人|ひと}はトムさんに{何|なに}をくれましたか。",
+    "q_en": "On the bus, what did the man next to Tom give him?",
     "options": [
      "{耳|みみ}せん",
      "{温|あたた}かいコーヒー",
@@ -569,7 +569,7 @@
      "{番号|ばんごう}を{知|し}らなかったから"
     ],
     "answer": 2,
-    "why": "The signal was bad because of the crowd."
+    "why": "The signal was bad, so the call didn't connect."
    },
    {
     "q": "{二人|ふたり}はどこで{会|あ}えましたか。",
