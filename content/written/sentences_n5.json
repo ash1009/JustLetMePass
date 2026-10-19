@@ -1,0 +1,1682 @@
+[
+ {
+  "id": "sb5-001",
+  "level": 5,
+  "before": "{駅|えき}の{前|まえ}に",
+  "after": "よ。",
+  "pieces": [
+   "{大|おお}きい",
+   "{本屋|ほんや}",
+   "あります",
+   "が"
+  ],
+  "order": [
+   0,
+   1,
+   3,
+   2
+  ],
+  "star": 3,
+  "en": "There is a big bookstore in front of the station.",
+  "why": "An adjective comes before its noun, and が follows the noun."
+ },
+ {
+  "id": "sb5-002",
+  "level": 5,
+  "before": "{私|わたし}は",
+  "after": "{好|す}きです。",
+  "pieces": [
+   "{聞|き}く",
+   "のが",
+   "{歌|うた}を",
+   "{日本|にほん}の"
+  ],
+  "order": [
+   3,
+   2,
+   0,
+   1
+  ],
+  "star": 2,
+  "en": "I like listening to Japanese songs.",
+  "why": "The verb comes before のが, and its object comes before the verb."
+ },
+ {
+  "id": "sb5-003",
+  "level": 5,
+  "before": "",
+  "after": "とてもおもしろかったです。",
+  "pieces": [
+   "{見|み}た",
+   "{映画|えいが}",
+   "は",
+   "{昨日|きのう}"
+  ],
+  "order": [
+   3,
+   0,
+   1,
+   2
+  ],
+  "star": 1,
+  "en": "The movie I saw yesterday was very interesting.",
+  "why": "{昨日|きのう}{見|み}た describes {映画|えいが}, and は marks the topic after it."
+ },
+ {
+  "id": "sb5-004",
+  "level": 5,
+  "before": "{田中|たなか}さんは{今|いま}、",
+  "after": "います。",
+  "pieces": [
+   "{読|よ}んで",
+   "{新|あたら}しい",
+   "{本|ほん}",
+   "を"
+  ],
+  "order": [
+   1,
+   2,
+   3,
+   0
+  ],
+  "star": 1,
+  "en": "Mr. Tanaka is reading a new book now.",
+  "why": "を comes after the noun, and the て-form comes right before います."
+ },
+ {
+  "id": "sb5-005",
+  "level": 5,
+  "before": "{私|わたし}はコーヒー",
+  "after": "{好|す}きです。",
+  "pieces": [
+   "{紅茶|こうちゃ}",
+   "より",
+   "の",
+   "ほうが"
+  ],
+  "order": [
+   1,
+   0,
+   2,
+   3
+  ],
+  "star": 0,
+  "en": "I like tea more than coffee.",
+  "why": "The pattern is AよりBのほうが."
+ },
+ {
+  "id": "sb5-006",
+  "level": 5,
+  "before": "あしたは{雨|あめ}が",
+  "after": "{持|も}っていってください。",
+  "pieces": [
+   "かさを",
+   "から",
+   "{降|ふ}る",
+   "でしょう"
+  ],
+  "order": [
+   2,
+   3,
+   1,
+   0
+  ],
+  "star": 3,
+  "en": "It will probably rain tomorrow, so please take an umbrella.",
+  "why": "でしょう follows the verb, then から gives the reason."
+ },
+ {
+  "id": "sb5-007",
+  "level": 5,
+  "before": "{私|わたし}は",
+  "after": "{歯|は}をみがきます。",
+  "pieces": [
+   "{食|た}べた",
+   "ごはん",
+   "を",
+   "{後|あと}で"
+  ],
+  "order": [
+   1,
+   2,
+   0,
+   3
+  ],
+  "star": 2,
+  "en": "I brush my teeth after eating.",
+  "why": "The pattern is past verb + {後|あと}で."
+ },
+ {
+  "id": "sb5-008",
+  "level": 5,
+  "before": "{寝|ね}る",
+  "after": "ます。",
+  "pieces": [
+   "シャワー",
+   "を",
+   "{前|まえ}に",
+   "{浴|あ}び"
+  ],
+  "order": [
+   2,
+   0,
+   1,
+   3
+  ],
+  "star": 2,
+  "en": "I take a shower before going to bed.",
+  "why": "{前|まえ}に follows the dictionary form, and ます needs the verb stem."
+ },
+ {
+  "id": "sb5-009",
+  "level": 5,
+  "before": "ここで",
+  "after": "いけません。",
+  "pieces": [
+   "たばこ",
+   "は",
+   "すって",
+   "を"
+  ],
+  "order": [
+   0,
+   3,
+   2,
+   1
+  ],
+  "star": 1,
+  "en": "You must not smoke here.",
+  "why": "The pattern is て-form + はいけません."
+ },
+ {
+  "id": "sb5-010",
+  "level": 5,
+  "before": "この{部屋|へや}に",
+  "after": "か。",
+  "pieces": [
+   "です",
+   "いい",
+   "{入|はい}って",
+   "も"
+  ],
+  "order": [
+   2,
+   3,
+   1,
+   0
+  ],
+  "star": 0,
+  "en": "May I enter this room?",
+  "why": "The pattern is て-form + もいいですか."
+ },
+ {
+  "id": "sb5-011",
+  "level": 5,
+  "before": "{日曜日|にちようび}は{映画|えいが}を{見|み}たり、",
+  "after": "します。",
+  "pieces": [
+   "の",
+   "{公園|こうえん}を",
+   "{散歩|さんぽ}したり",
+   "{近|ちか}く"
+  ],
+  "order": [
+   3,
+   0,
+   1,
+   2
+  ],
+  "star": 3,
+  "en": "On Sundays I do things like watch movies and walk in the nearby park.",
+  "why": "{近|ちか}くの describes {公園|こうえん}, and the たり verb comes last before します."
+ },
+ {
+  "id": "sb5-012",
+  "level": 5,
+  "before": "{私|わたし}は",
+  "after": "です。",
+  "pieces": [
+   "が",
+   "ほしい",
+   "{新|あたら}しい",
+   "くつ"
+  ],
+  "order": [
+   2,
+   3,
+   0,
+   1
+  ],
+  "star": 3,
+  "en": "I want new shoes.",
+  "why": "The adjective comes before the noun, and が comes before ほしい."
+ },
+ {
+  "id": "sb5-013",
+  "level": 5,
+  "before": "この{店|みせ}の",
+  "after": "です。",
+  "pieces": [
+   "は",
+   "おいしい",
+   "ラーメン",
+   "{安|やす}くて"
+  ],
+  "order": [
+   2,
+   0,
+   3,
+   1
+  ],
+  "star": 2,
+  "en": "The ramen at this shop is cheap and tasty.",
+  "why": "The て-form adjective links to the next adjective, which ends before です."
+ },
+ {
+  "id": "sb5-014",
+  "level": 5,
+  "before": "{駅|えき}まで",
+  "after": "か。",
+  "pieces": [
+   "かかります",
+   "{歩|ある}いて",
+   "ぐらい",
+   "{何分|なんぷん}"
+  ],
+  "order": [
+   1,
+   3,
+   2,
+   0
+  ],
+  "star": 1,
+  "en": "About how many minutes does it take to walk to the station?",
+  "why": "ぐらい follows the amount, and かかります ends the question."
+ },
+ {
+  "id": "sb5-015",
+  "level": 5,
+  "before": "{私|わたし}の{家|いえ}は",
+  "after": "よ。",
+  "pieces": [
+   "{遠|とお}く",
+   "{駅|えき}",
+   "から",
+   "ありません"
+  ],
+  "order": [
+   1,
+   2,
+   0,
+   3
+  ],
+  "star": 0,
+  "en": "My house is not far from the station.",
+  "why": "から follows the place, and {遠|とお}く comes before ありません."
+ },
+ {
+  "id": "sb5-016",
+  "level": 5,
+  "before": "",
+  "after": "ですよ。",
+  "pieces": [
+   "いい",
+   "{先生|せんせい}に",
+   "{聞|き}いた",
+   "ほうが"
+  ],
+  "order": [
+   1,
+   2,
+   3,
+   0
+  ],
+  "star": 0,
+  "en": "You should ask the teacher.",
+  "why": "The pattern is past verb + ほうがいい."
+ },
+ {
+  "id": "sb5-017",
+  "level": 5,
+  "before": "あの{白|しろ}い",
+  "after": "か。",
+  "pieces": [
+   "{何|なん}",
+   "ビル",
+   "です",
+   "は"
+  ],
+  "order": [
+   1,
+   3,
+   0,
+   2
+  ],
+  "star": 3,
+  "en": "What is that white building?",
+  "why": "{白|しろ}い describes ビル, and the question word comes before です."
+ },
+ {
+  "id": "sb5-018",
+  "level": 5,
+  "before": "{机|つくえ}の",
+  "after": "{三本|さんぼん}あります。",
+  "pieces": [
+   "が",
+   "{上|うえ}",
+   "に",
+   "ペン"
+  ],
+  "order": [
+   1,
+   2,
+   3,
+   0
+  ],
+  "star": 2,
+  "en": "There are three pens on the desk.",
+  "why": "{机|つくえ}の{上|うえ} is one place phrase, so に comes after {上|うえ}."
+ },
+ {
+  "id": "sb5-019",
+  "level": 5,
+  "before": "{山田|やまだ}さんは",
+  "after": "{人|ひと}です。",
+  "pieces": [
+   "いる",
+   "を",
+   "めがね",
+   "かけて"
+  ],
+  "order": [
+   2,
+   1,
+   3,
+   0
+  ],
+  "star": 1,
+  "en": "Ms. Yamada is the person wearing glasses.",
+  "why": "めがねをかけている describes {人|ひと}."
+ },
+ {
+  "id": "sb5-020",
+  "level": 5,
+  "before": "{電車|でんしゃ}の{中|なか}で",
+  "after": "ないでください。",
+  "pieces": [
+   "{大|おお}きい",
+   "{話|はな}さ",
+   "{声|こえ}",
+   "で"
+  ],
+  "order": [
+   0,
+   2,
+   3,
+   1
+  ],
+  "star": 1,
+  "en": "Please don't talk loudly on the train.",
+  "why": "{大|おお}きい describes {声|こえ}, and ないでください needs the ない stem."
+ },
+ {
+  "id": "sb5-021",
+  "level": 5,
+  "before": "{去年|きょねん}の{夏|なつ}、{家族|かぞく}と",
+  "after": "よ。",
+  "pieces": [
+   "{行|い}きました",
+   "{海|うみ}",
+   "きれいな",
+   "へ"
+  ],
+  "order": [
+   2,
+   1,
+   3,
+   0
+  ],
+  "star": 0,
+  "en": "Last summer I went to a beautiful beach with my family.",
+  "why": "きれいな describes {海|うみ}, and へ marks where you go."
+ },
+ {
+  "id": "sb5-022",
+  "level": 5,
+  "before": "{母|はは}は",
+  "after": "{上手|じょうず}です。",
+  "pieces": [
+   "を",
+   "{料理|りょうり}",
+   "{作|つく}る",
+   "のが"
+  ],
+  "order": [
+   1,
+   0,
+   2,
+   3
+  ],
+  "star": 3,
+  "en": "My mother is good at cooking.",
+  "why": "The pattern is verb + のが{上手|じょうず}です."
+ },
+ {
+  "id": "sb5-023",
+  "level": 5,
+  "before": "これは",
+  "after": "です。",
+  "pieces": [
+   "もらった",
+   "{時計|とけい}",
+   "に",
+   "{父|ちち}"
+  ],
+  "order": [
+   3,
+   2,
+   0,
+   1
+  ],
+  "star": 2,
+  "en": "This is a watch I got from my father.",
+  "why": "{父|ちち}にもらった describes {時計|とけい}."
+ },
+ {
+  "id": "sb5-024",
+  "level": 5,
+  "before": "どこで",
+  "after": "ましたか。",
+  "pieces": [
+   "{買|か}い",
+   "その",
+   "かばん",
+   "を"
+  ],
+  "order": [
+   1,
+   2,
+   3,
+   0
+  ],
+  "star": 2,
+  "en": "Where did you buy that bag?",
+  "why": "その comes before the noun, and ました needs the verb stem."
+ },
+ {
+  "id": "sb5-025",
+  "level": 5,
+  "before": "",
+  "after": "たいです。",
+  "pieces": [
+   "{冷|つめ}たい",
+   "が",
+   "{水|みず}",
+   "{飲|の}み"
+  ],
+  "order": [
+   0,
+   2,
+   1,
+   3
+  ],
+  "star": 1,
+  "en": "I want to drink cold water.",
+  "why": "たい follows the verb stem, and が marks what you want."
+ },
+ {
+  "id": "sb5-026",
+  "level": 5,
+  "before": "{私|わたし}は{毎日|まいにち}",
+  "after": "へ{行|い}きます。",
+  "pieces": [
+   "{起|お}きて",
+   "{会社|かいしゃ}",
+   "に",
+   "{七時|しちじ}"
+  ],
+  "order": [
+   3,
+   2,
+   0,
+   1
+  ],
+  "star": 0,
+  "en": "Every day I get up at seven and go to the office.",
+  "why": "The time takes に, then the て-form links to the next action."
+ },
+ {
+  "id": "sb5-027",
+  "level": 5,
+  "before": "{雨|あめ}が",
+  "after": "で{帰|かえ}りましょう。",
+  "pieces": [
+   "タクシー",
+   "{降|ふ}って",
+   "から",
+   "いる"
+  ],
+  "order": [
+   1,
+   3,
+   2,
+   0
+  ],
+  "star": 3,
+  "en": "It's raining, so let's go home by taxi.",
+  "why": "{降|ふ}っている is the reason before から, and タクシー comes before で."
+ },
+ {
+  "id": "sb5-028",
+  "level": 5,
+  "before": "テストの",
+  "after": "ないでください。",
+  "pieces": [
+   "{辞書|じしょ}を",
+   "は",
+   "{使|つか}わ",
+   "{時|とき}"
+  ],
+  "order": [
+   3,
+   1,
+   0,
+   2
+  ],
+  "star": 3,
+  "en": "Please don't use a dictionary during the test.",
+  "why": "テストの{時|とき} is one phrase, and ないでください needs the ない stem."
+ },
+ {
+  "id": "sb5-029",
+  "level": 5,
+  "before": "{山田|やまだ}さん、いっしょに",
+  "after": "か。",
+  "pieces": [
+   "{昼|ひる}ごはん",
+   "を",
+   "ません",
+   "{食|た}べ"
+  ],
+  "order": [
+   0,
+   1,
+   3,
+   2
+  ],
+  "star": 2,
+  "en": "Ms. Yamada, would you like to eat lunch together?",
+  "why": "The pattern is verb stem + ませんか."
+ },
+ {
+  "id": "sb5-030",
+  "level": 5,
+  "before": "{弟|おとうと}は{今|いま}",
+  "after": "{寝|ね}ています。",
+  "pieces": [
+   "で",
+   "{自分|じぶん}",
+   "の",
+   "{部屋|へや}"
+  ],
+  "order": [
+   1,
+   2,
+   3,
+   0
+  ],
+  "star": 1,
+  "en": "My younger brother is sleeping in his room now.",
+  "why": "{自分|じぶん}の describes {部屋|へや}, and で marks the place."
+ },
+ {
+  "id": "sb5-031",
+  "level": 5,
+  "before": "",
+  "after": "ですか。",
+  "pieces": [
+   "だれ",
+   "あの",
+   "{人|ひと}",
+   "は"
+  ],
+  "order": [
+   1,
+   2,
+   3,
+   0
+  ],
+  "star": 0,
+  "en": "Who is that person?",
+  "why": "あの comes before the noun, and だれ comes before ですか."
+ },
+ {
+  "id": "sb5-032",
+  "level": 5,
+  "before": "{日本語|にほんご}の",
+  "after": "が、おもしろいです。",
+  "pieces": [
+   "は",
+   "{難|むずか}しい",
+   "{勉強|べんきょう}",
+   "です"
+  ],
+  "order": [
+   2,
+   0,
+   1,
+   3
+  ],
+  "star": 0,
+  "en": "Studying Japanese is hard, but it is interesting.",
+  "why": "{日本語|にほんご}の describes {勉強|べんきょう}, and the adjective comes before です."
+ },
+ {
+  "id": "sb5-033",
+  "level": 5,
+  "before": "{私|わたし}は",
+  "after": "ありません。",
+  "pieces": [
+   "{歌|うた}",
+   "が",
+   "では",
+   "{上手|じょうず}"
+  ],
+  "order": [
+   0,
+   1,
+   3,
+   2
+  ],
+  "star": 3,
+  "en": "I am not good at singing.",
+  "why": "The pattern is Nが{上手|じょうず}ではありません."
+ },
+ {
+  "id": "sb5-034",
+  "level": 5,
+  "before": "",
+  "after": "いいですか。",
+  "pieces": [
+   "{窓|まど}",
+   "{開|あ}けて",
+   "も",
+   "を"
+  ],
+  "order": [
+   0,
+   3,
+   1,
+   2
+  ],
+  "star": 2,
+  "en": "May I open the window?",
+  "why": "The pattern is Nを + て-form + もいいですか."
+ },
+ {
+  "id": "sb5-035",
+  "level": 5,
+  "before": "この{本|ほん}は",
+  "after": "です。",
+  "pieces": [
+   "もの",
+   "{借|か}りた",
+   "で",
+   "{図書館|としょかん}"
+  ],
+  "order": [
+   3,
+   2,
+   1,
+   0
+  ],
+  "star": 1,
+  "en": "This book is one I borrowed from the library.",
+  "why": "{図書館|としょかん}で{借|か}りた describes もの."
+ },
+ {
+  "id": "sb5-036",
+  "level": 5,
+  "before": "{今日|きょう}は",
+  "after": "{散歩|さんぽ}しましょう。",
+  "pieces": [
+   "が",
+   "から",
+   "{天気|てんき}",
+   "いい"
+  ],
+  "order": [
+   2,
+   0,
+   3,
+   1
+  ],
+  "star": 1,
+  "en": "The weather is nice today, so let's take a walk.",
+  "why": "{天気|てんき}がいい is the reason before から."
+ },
+ {
+  "id": "sb5-037",
+  "level": 5,
+  "before": "{妹|いもうと}は",
+  "after": "{着|き}ています。",
+  "pieces": [
+   "{先週|せんしゅう}",
+   "を",
+   "スカート",
+   "{買|か}った"
+  ],
+  "order": [
+   0,
+   3,
+   2,
+   1
+  ],
+  "star": 0,
+  "en": "My younger sister is wearing the skirt she bought last week.",
+  "why": "{先週|せんしゅう}{買|か}った describes スカート, and を follows it."
+ },
+ {
+  "id": "sb5-038",
+  "level": 5,
+  "before": "",
+  "after": "{飲|の}みたいです。",
+  "pieces": [
+   "{温|あたた}かい",
+   "もの",
+   "{何|なに}か",
+   "を"
+  ],
+  "order": [
+   2,
+   0,
+   1,
+   3
+  ],
+  "star": 3,
+  "en": "I want to drink something warm.",
+  "why": "The pattern is {何|なに}か + adjective + もの."
+ },
+ {
+  "id": "sb5-039",
+  "level": 5,
+  "before": "{駅|えき}へ",
+  "after": "ください。",
+  "pieces": [
+   "{教|おし}えて",
+   "{道|みち}",
+   "を",
+   "{行|い}く"
+  ],
+  "order": [
+   3,
+   1,
+   2,
+   0
+  ],
+  "star": 2,
+  "en": "Please tell me the way to the station.",
+  "why": "{駅|えき}へ{行|い}く describes {道|みち}, and てください needs the て-form."
+ },
+ {
+  "id": "sb5-040",
+  "level": 5,
+  "before": "{日本|にほん}では",
+  "after": "くつをぬぎます。",
+  "pieces": [
+   "{入|はい}る",
+   "に",
+   "{前|まえ}に",
+   "{家|いえ}"
+  ],
+  "order": [
+   3,
+   1,
+   0,
+   2
+  ],
+  "star": 2,
+  "en": "In Japan, people take off their shoes before entering a house.",
+  "why": "The pattern is dictionary form + {前|まえ}に."
+ },
+ {
+  "id": "sb5-041",
+  "level": 5,
+  "before": "{私|わたし}は{音楽|おんがく}を",
+  "after": "します。",
+  "pieces": [
+   "{聞|き}き",
+   "を",
+   "ながら",
+   "{宿題|しゅくだい}"
+  ],
+  "order": [
+   0,
+   2,
+   3,
+   1
+  ],
+  "star": 1,
+  "en": "I do my homework while listening to music.",
+  "why": "ながら follows the verb stem."
+ },
+ {
+  "id": "sb5-042",
+  "level": 5,
+  "before": "あしたの",
+  "after": "{来|き}ますか。",
+  "pieces": [
+   "が",
+   "だれ",
+   "パーティー",
+   "に"
+  ],
+  "order": [
+   2,
+   3,
+   1,
+   0
+  ],
+  "star": 0,
+  "en": "Who is coming to tomorrow's party?",
+  "why": "あしたの describes パーティー, and だれが comes before the verb."
+ },
+ {
+  "id": "sb5-043",
+  "level": 5,
+  "before": "この",
+  "after": "ですか。",
+  "pieces": [
+   "{一|ひと}つ",
+   "りんご",
+   "は",
+   "いくら"
+  ],
+  "order": [
+   1,
+   2,
+   0,
+   3
+  ],
+  "star": 3,
+  "en": "How much is one of these apples?",
+  "why": "この comes before the noun, and いくら comes before ですか."
+ },
+ {
+  "id": "sb5-044",
+  "level": 5,
+  "before": "{少|すこ}し",
+  "after": "{飲|の}みましょう。",
+  "pieces": [
+   "を",
+   "{疲|つか}れた",
+   "お{茶|ちゃ}",
+   "から"
+  ],
+  "order": [
+   1,
+   3,
+   2,
+   0
+  ],
+  "star": 3,
+  "en": "I'm a little tired, so let's drink some tea.",
+  "why": "The reason comes before から, and を comes after お{茶|ちゃ}."
+ },
+ {
+  "id": "sb5-045",
+  "level": 5,
+  "before": "{私|わたし}は{夏休|なつやす}みに",
+  "after": "です。",
+  "pieces": [
+   "へ",
+   "{帰|かえ}る",
+   "{国|くに}",
+   "つもり"
+  ],
+  "order": [
+   2,
+   0,
+   1,
+   3
+  ],
+  "star": 2,
+  "en": "I plan to go back to my country during summer vacation.",
+  "why": "The pattern is dictionary form + つもりです."
+ },
+ {
+  "id": "sb5-046",
+  "level": 5,
+  "before": "{風邪|かぜ}を",
+  "after": "ました。",
+  "pieces": [
+   "{学校|がっこう}を",
+   "ひいた",
+   "から",
+   "{休|やす}み"
+  ],
+  "order": [
+   1,
+   2,
+   0,
+   3
+  ],
+  "star": 1,
+  "en": "I caught a cold, so I stayed home from school.",
+  "why": "{風邪|かぜ}をひいた is the reason before から, and ました needs the stem."
+ },
+ {
+  "id": "sb5-047",
+  "level": 5,
+  "before": "{父|ちち}は{毎朝|まいあさ}",
+  "after": "コーヒーを{飲|の}みます。",
+  "pieces": [
+   "ながら",
+   "{読|よ}み",
+   "を",
+   "{新聞|しんぶん}"
+  ],
+  "order": [
+   3,
+   2,
+   1,
+   0
+  ],
+  "star": 0,
+  "en": "Every morning my father drinks coffee while reading the newspaper.",
+  "why": "ながら follows the verb stem."
+ },
+ {
+  "id": "sb5-048",
+  "level": 5,
+  "before": "",
+  "after": "は{私|わたし}の{妹|いもうと}です。",
+  "pieces": [
+   "いる",
+   "あそこ",
+   "{女|おんな}の{子|こ}",
+   "に"
+  ],
+  "order": [
+   1,
+   3,
+   0,
+   2
+  ],
+  "star": 0,
+  "en": "The girl over there is my younger sister.",
+  "why": "あそこにいる describes {女|おんな}の{子|こ}."
+ },
+ {
+  "id": "sb5-049",
+  "level": 5,
+  "before": "この{漢字|かんじ}は",
+  "after": "か。",
+  "pieces": [
+   "{何|なん}",
+   "{読|よ}み",
+   "と",
+   "ます"
+  ],
+  "order": [
+   0,
+   2,
+   1,
+   3
+  ],
+  "star": 3,
+  "en": "How do you read this kanji?",
+  "why": "The pattern is {何|なん}と + verb."
+ },
+ {
+  "id": "sb5-050",
+  "level": 5,
+  "before": "{東京|とうきょう}は",
+  "after": "{町|まち}です。",
+  "pieces": [
+   "{人|ひと}",
+   "{多|おお}くて",
+   "が",
+   "にぎやかな"
+  ],
+  "order": [
+   0,
+   2,
+   1,
+   3
+  ],
+  "star": 2,
+  "en": "Tokyo is a lively city with many people.",
+  "why": "にぎやかな must come right before {町|まち}."
+ },
+ {
+  "id": "sb5-051",
+  "level": 5,
+  "before": "",
+  "after": "よく{聞|き}いてください。",
+  "pieces": [
+   "{話|はなし}",
+   "{先生|せんせい}",
+   "の",
+   "を"
+  ],
+  "order": [
+   1,
+   2,
+   0,
+   3
+  ],
+  "star": 1,
+  "en": "Please listen carefully to what the teacher says.",
+  "why": "{先生|せんせい}の describes {話|はなし}, and を comes after it."
+ },
+ {
+  "id": "sb5-052",
+  "level": 5,
+  "before": "{私|わたし}は{昨日|きのう}",
+  "after": "でした。",
+  "pieces": [
+   "も",
+   "{行|い}きません",
+   "へ",
+   "どこ"
+  ],
+  "order": [
+   3,
+   2,
+   0,
+   1
+  ],
+  "star": 1,
+  "en": "I didn't go anywhere yesterday.",
+  "why": "The pattern is どこへも + negative verb."
+ },
+ {
+  "id": "sb5-053",
+  "level": 5,
+  "before": "{部屋|へや}には",
+  "after": "よ。",
+  "pieces": [
+   "いません",
+   "だれ",
+   "も",
+   "でした"
+  ],
+  "order": [
+   1,
+   2,
+   0,
+   3
+  ],
+  "star": 0,
+  "en": "There was nobody in the room.",
+  "why": "The pattern is だれも + negative verb."
+ },
+ {
+  "id": "sb5-054",
+  "level": 5,
+  "before": "{山田|やまだ}さんの",
+  "after": "ですか。",
+  "pieces": [
+   "{何日|なんにち}",
+   "{何月|なんがつ}",
+   "は",
+   "{誕生日|たんじょうび}"
+  ],
+  "order": [
+   3,
+   2,
+   1,
+   0
+  ],
+  "star": 3,
+  "en": "When is Mr. Yamada's birthday?",
+  "why": "The month comes before the day."
+ },
+ {
+  "id": "sb5-055",
+  "level": 5,
+  "before": "{晩|ばん}ごはんの{後|あと}で、いっしょに",
+  "after": "ませんか。",
+  "pieces": [
+   "{見|み}",
+   "テレビ",
+   "おもしろい",
+   "を"
+  ],
+  "order": [
+   2,
+   1,
+   3,
+   0
+  ],
+  "star": 2,
+  "en": "After dinner, shall we watch something fun on TV together?",
+  "why": "The adjective comes before the noun, and ませんか needs the verb stem."
+ },
+ {
+  "id": "sb5-056",
+  "level": 5,
+  "before": "{電車|でんしゃ}とバスと",
+  "after": "か。",
+  "pieces": [
+   "です",
+   "{速|はや}い",
+   "が",
+   "どちら"
+  ],
+  "order": [
+   3,
+   2,
+   1,
+   0
+  ],
+  "star": 2,
+  "en": "Which is faster, the train or the bus?",
+  "why": "The pattern is AとBとどちらが～ですか."
+ },
+ {
+  "id": "sb5-057",
+  "level": 5,
+  "before": "{果物|くだもの}の{中|なか}で",
+  "after": "か。",
+  "pieces": [
+   "{何|なに}",
+   "です",
+   "が",
+   "{一番|いちばん}{好|す}き"
+  ],
+  "order": [
+   0,
+   2,
+   3,
+   1
+  ],
+  "star": 1,
+  "en": "What fruit do you like best?",
+  "why": "The pattern is ～の{中|なか}で{何|なに}が{一番|いちばん}～ですか."
+ },
+ {
+  "id": "sb5-058",
+  "level": 5,
+  "before": "{妹|いもうと}は",
+  "after": "が{大|おお}きいです。",
+  "pieces": [
+   "{目|め}",
+   "{髪|かみ}",
+   "が",
+   "{長|なが}くて"
+  ],
+  "order": [
+   1,
+   2,
+   3,
+   0
+  ],
+  "star": 0,
+  "en": "My younger sister has long hair and big eyes.",
+  "why": "{長|なが}くて links the first part, and {目|め} must come before が{大|おお}きい."
+ },
+ {
+  "id": "sb5-059",
+  "level": 5,
+  "before": "{家|いえ}に",
+  "after": "{洗|あら}います。",
+  "pieces": [
+   "を",
+   "{手|て}",
+   "から",
+   "{帰|かえ}って"
+  ],
+  "order": [
+   3,
+   2,
+   1,
+   0
+  ],
+  "star": 3,
+  "en": "I wash my hands after I get home.",
+  "why": "The pattern is て-form + から."
+ },
+ {
+  "id": "sb5-060",
+  "level": 5,
+  "before": "{次|つぎ}の",
+  "after": "{曲|ま}がってください。",
+  "pieces": [
+   "{角|かど}",
+   "を",
+   "に",
+   "{右|みぎ}"
+  ],
+  "order": [
+   0,
+   1,
+   3,
+   2
+  ],
+  "star": 3,
+  "en": "Please turn right at the next corner.",
+  "why": "The pattern is {角|かど}を{右|みぎ}に{曲|ま}がる."
+ },
+ {
+  "id": "sb5-061",
+  "level": 5,
+  "before": "{私|わたし}の",
+  "after": "です。",
+  "pieces": [
+   "{好|す}きな",
+   "は",
+   "スポーツ",
+   "テニス"
+  ],
+  "order": [
+   0,
+   2,
+   1,
+   3
+  ],
+  "star": 2,
+  "en": "My favorite sport is tennis.",
+  "why": "{好|す}きな describes スポーツ, which is the topic with は."
+ },
+ {
+  "id": "sb5-062",
+  "level": 5,
+  "before": "",
+  "after": "{三年|さんねん}になります。",
+  "pieces": [
+   "{日本|にほん}",
+   "から",
+   "に",
+   "{来|き}て"
+  ],
+  "order": [
+   0,
+   2,
+   3,
+   1
+  ],
+  "star": 1,
+  "en": "It has been three years since I came to Japan.",
+  "why": "The pattern is て-form + から."
+ },
+ {
+  "id": "sb5-063",
+  "level": 5,
+  "before": "{今朝|けさ}は{時間|じかん}が",
+  "after": "{食|た}べませんでした。",
+  "pieces": [
+   "{朝|あさ}ごはん",
+   "なかった",
+   "から",
+   "を"
+  ],
+  "order": [
+   1,
+   2,
+   0,
+   3
+  ],
+  "star": 0,
+  "en": "I had no time this morning, so I didn't eat breakfast.",
+  "why": "{時間|じかん}がなかった is the reason before から."
+ },
+ {
+  "id": "sb5-064",
+  "level": 5,
+  "before": "その",
+  "after": "ですか。",
+  "pieces": [
+   "{赤|あか}い",
+   "は",
+   "セーター",
+   "いくら"
+  ],
+  "order": [
+   0,
+   2,
+   1,
+   3
+  ],
+  "star": 0,
+  "en": "How much is that red sweater?",
+  "why": "The adjective comes before the noun, and いくら comes before ですか."
+ },
+ {
+  "id": "sb5-065",
+  "level": 5,
+  "before": "{私|わたし}は",
+  "after": "で{泳|およ}ぎます。",
+  "pieces": [
+   "プール",
+   "{週|しゅう}",
+   "{二回|にかい}",
+   "に"
+  ],
+  "order": [
+   1,
+   3,
+   2,
+   0
+  ],
+  "star": 3,
+  "en": "I swim in the pool twice a week.",
+  "why": "The pattern is {週|しゅう}に + number of times."
+ },
+ {
+  "id": "sb5-066",
+  "level": 5,
+  "before": "",
+  "after": "の{下|した}で{寝|ね}ています。",
+  "pieces": [
+   "{黒|くろ}い",
+   "が",
+   "いす",
+   "{猫|ねこ}"
+  ],
+  "order": [
+   0,
+   3,
+   1,
+   2
+  ],
+  "star": 2,
+  "en": "A black cat is sleeping under the chair.",
+  "why": "The adjective comes before the noun, and いす comes before の{下|した}."
+ },
+ {
+  "id": "sb5-067",
+  "level": 5,
+  "before": "{先生|せんせい}、",
+  "after": "を{教|おし}えてください。",
+  "pieces": [
+   "ことば",
+   "この",
+   "{意味|いみ}",
+   "の"
+  ],
+  "order": [
+   1,
+   0,
+   3,
+   2
+  ],
+  "star": 1,
+  "en": "Teacher, please tell me the meaning of this word.",
+  "why": "このことばの describes {意味|いみ}."
+ },
+ {
+  "id": "sb5-068",
+  "level": 5,
+  "before": "{兄|あに}は",
+  "after": "。",
+  "pieces": [
+   "{働|はたら}いて",
+   "で",
+   "{銀行|ぎんこう}",
+   "います"
+  ],
+  "order": [
+   2,
+   1,
+   0,
+   3
+  ],
+  "star": 1,
+  "en": "My older brother works at a bank.",
+  "why": "で marks the place, and the て-form comes before います."
+ },
+ {
+  "id": "sb5-069",
+  "level": 5,
+  "before": "",
+  "after": "つけましょう。",
+  "pieces": [
+   "{暗|くら}く",
+   "なった",
+   "{電気|でんき}を",
+   "から"
+  ],
+  "order": [
+   0,
+   1,
+   3,
+   2
+  ],
+  "star": 0,
+  "en": "It got dark, so let's turn on the light.",
+  "why": "The pattern is adjective く + なる."
+ },
+ {
+  "id": "sb5-070",
+  "level": 5,
+  "before": "{私|わたし}は{毎晩|まいばん}",
+  "after": "{本|ほん}を{読|よ}みます。",
+  "pieces": [
+   "{前|まえ}に",
+   "{日本語|にほんご}",
+   "の",
+   "{寝|ね}る"
+  ],
+  "order": [
+   3,
+   0,
+   1,
+   2
+  ],
+  "star": 3,
+  "en": "Every night before bed I read a Japanese book.",
+  "why": "The pattern is dictionary form + {前|まえ}に, and {日本語|にほんご}の describes {本|ほん}."
+ },
+ {
+  "id": "sb5-071",
+  "level": 5,
+  "before": "このケーキは",
+  "after": "ね。",
+  "pieces": [
+   "なくて",
+   "{甘|あま}く",
+   "おいしい",
+   "です"
+  ],
+  "order": [
+   1,
+   0,
+   2,
+   3
+  ],
+  "star": 2,
+  "en": "This cake isn't too sweet, and it's tasty.",
+  "why": "The negative of {甘|あま}い is {甘|あま}くない, and its て-form links to the next adjective."
+ },
+ {
+  "id": "sb5-072",
+  "level": 5,
+  "before": "あしたは",
+  "after": "から、{遊|あそ}びに{行|い}きませんか。",
+  "pieces": [
+   "です",
+   "{学校|がっこう}",
+   "{休|やす}み",
+   "が"
+  ],
+  "order": [
+   1,
+   3,
+   2,
+   0
+  ],
+  "star": 2,
+  "en": "There's no school tomorrow, so shall we go out and have fun?",
+  "why": "{学校|がっこう}が{休|やす}みです is the reason before から."
+ },
+ {
+  "id": "sb5-073",
+  "level": 5,
+  "before": "",
+  "after": "{大|おお}きい{木|き}があります。",
+  "pieces": [
+   "{近|ちか}く",
+   "に",
+   "の",
+   "{窓|まど}"
+  ],
+  "order": [
+   3,
+   2,
+   0,
+   1
+  ],
+  "star": 1,
+  "en": "There is a big tree near the window.",
+  "why": "The pattern is Nの{近|ちか}くに."
+ },
+ {
+  "id": "sb5-074",
+  "level": 5,
+  "before": "{私|わたし}は",
+  "after": "{下手|へた}です。",
+  "pieces": [
+   "のが",
+   "{書|か}く",
+   "{漢字|かんじ}",
+   "を"
+  ],
+  "order": [
+   2,
+   3,
+   1,
+   0
+  ],
+  "star": 0,
+  "en": "I am bad at writing kanji.",
+  "why": "The pattern is verb + のが{下手|へた}です."
+ },
+ {
+  "id": "sb5-075",
+  "level": 5,
+  "before": "",
+  "after": "{日|ひ}は、{外|そと}へ{出|で}ません。",
+  "pieces": [
+   "{降|ふ}って",
+   "いる",
+   "が",
+   "{雪|ゆき}"
+  ],
+  "order": [
+   3,
+   2,
+   0,
+   1
+  ],
+  "star": 3,
+  "en": "On snowy days, I don't go outside.",
+  "why": "{雪|ゆき}が{降|ふ}っている describes {日|ひ}."
+ },
+ {
+  "id": "sb5-076",
+  "level": 5,
+  "before": "{田中|たなか}さんは",
+  "after": "{人|ひと}です。",
+  "pieces": [
+   "が",
+   "{高|たか}くて",
+   "{背|せ}",
+   "やさしい"
+  ],
+  "order": [
+   2,
+   0,
+   1,
+   3
+  ],
+  "star": 3,
+  "en": "Mr. Tanaka is a tall, kind person.",
+  "why": "The pattern is {背|せ}が{高|たか}い, and やさしい must come right before {人|ひと}."
+ },
+ {
+  "id": "sb5-077",
+  "level": 5,
+  "before": "すみません、",
+  "after": "ありますか。",
+  "pieces": [
+   "トイレ",
+   "どこ",
+   "は",
+   "に"
+  ],
+  "order": [
+   0,
+   2,
+   1,
+   3
+  ],
+  "star": 2,
+  "en": "Excuse me, where is the restroom?",
+  "why": "The pattern is Nはどこにありますか."
+ },
+ {
+  "id": "sb5-078",
+  "level": 5,
+  "before": "これは{誕生日|たんじょうび}に",
+  "after": "です。",
+  "pieces": [
+   "に",
+   "{友|とも}だち",
+   "もらった",
+   "{花|はな}"
+  ],
+  "order": [
+   1,
+   0,
+   2,
+   3
+  ],
+  "star": 1,
+  "en": "These are flowers I got from a friend on my birthday.",
+  "why": "{友|とも}だちにもらった describes {花|はな}."
+ },
+ {
+  "id": "sb5-079",
+  "level": 5,
+  "before": "",
+  "after": "{休|やす}みです。",
+  "pieces": [
+   "{月曜日|げつようび}",
+   "は",
+   "{来週|らいしゅう}",
+   "の"
+  ],
+  "order": [
+   2,
+   3,
+   0,
+   1
+  ],
+  "star": 0,
+  "en": "Next Monday is a holiday.",
+  "why": "{来週|らいしゅう}の describes {月曜日|げつようび}."
+ },
+ {
+  "id": "sb5-080",
+  "level": 5,
+  "before": "{私|わたし}は{毎朝|まいあさ}、{家|いえ}から{駅|えき}",
+  "after": "。",
+  "pieces": [
+   "{行|い}きます",
+   "で",
+   "{自転車|じてんしゃ}",
+   "まで"
+  ],
+  "order": [
+   3,
+   2,
+   1,
+   0
+  ],
+  "star": 0,
+  "en": "Every morning I go from my house to the station by bike.",
+  "why": "The pattern is AからBまで, then {自転車|じてんしゃ}で before the verb."
+ }
+]

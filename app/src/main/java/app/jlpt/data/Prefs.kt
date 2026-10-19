@@ -57,6 +57,10 @@ class Prefs(context: Context) {
     val showRomaji = BoolPref("show_romaji", true)
     val includeDaily = BoolPref("include_daily", true)
     val dark = StrPref("theme", "system")
+    val speedBest = IntPref("speed_best", 0)
+    /** Audio playlist: what to play and how long to pause between parts. */
+    val listenKind = StrPref("listen_kind", "words")
+    val listenGap = IntPref("listen_gap", 1500)
 
     // ---- Claude ----
     val claudeKey = StrPref("claude_key", "", secret)

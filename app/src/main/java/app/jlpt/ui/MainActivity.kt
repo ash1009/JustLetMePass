@@ -41,7 +41,11 @@ sealed interface Screen {
     data object Learn : Screen
     data object Practice : Screen
     data object Chat : Screen
-    data class Study(val extra: Int) : Screen
+    data class Study(val extra: Int, val weak: Boolean = false) : Screen
+    data object Speed : Screen
+    data class Sentences(val level: Int) : Screen
+    data object Listen : Screen
+    data class LookUp(val text: String) : Screen
     data object Settings : Screen
     data object Progress : Screen
     data class KanaList(val katakana: Boolean) : Screen
@@ -66,6 +70,30 @@ sealed interface Screen {
 private val tabs = listOf(Screen.Today, Screen.Learn, Screen.Practice, Screen.Chat)
 
 class MainActivity : ComponentActivity() {
+    companion object {
+        /** A page to open from outside: shared text, or the playlist from its control. */
+        val incoming = kotlinx.coroutines.flow.MutableStateFlow<Screen?>(null)
+    }
+
+    override fun onNewIntent(intent: android.content.Intent) {
+        super.onNewIntent(intent)
+        setIntent(intent)
+        handle(intent, first = false)
+    }
+
+    private fun handle(intent: android.content.Intent?, first: Boolean) {
+        intent ?: return
+        val text = when (intent.action) {
+            android.content.Intent.ACTION_SEND -> intent.getStringExtra(android.content.Intent.EXTRA_TEXT)
+            android.content.Intent.ACTION_PROCESS_TEXT -> intent.getCharSequenceExtra(android.content.Intent.EXTRA_PROCESS_TEXT)?.toString()
+            else -> null
+        }
+        when {
+            !text.isNullOrBlank() -> incoming.value = Screen.LookUp(text.take(3000))
+            !first && intent.getStringExtra("route") == "listen" -> incoming.value = Screen.Listen
+        }
+    }
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
@@ -78,6 +106,7 @@ class MainActivity : ComponentActivity() {
             app.prefs.hiraganaKnown.value = true
         }
         val start = intent?.getStringExtra("route")
+        handle(intent, first = true)
         setContent {
             val theme by app.prefs.dark.state.collectAsState()
             JlptTheme(theme) { Root(start) }
@@ -123,6 +152,11 @@ private fun routeScreen(route: String?): Screen? = when (route) {
     "furigana" -> Screen.FuriganaPractice
     "test" -> Screen.MockTest(4)
     "katawords" -> Screen.KataWords
+    "listen" -> Screen.Listen
+    "speed" -> Screen.Speed
+    "sentences" -> Screen.Sentences(4)
+    "weak" -> Screen.Study(0, weak = true)
+    "lookup" -> Screen.LookUp("昨日、友達と新しいラーメン屋に行きました。とてもおいしかったです。")
     "stories" -> Screen.Stories(4)
     "story" -> Screen.StoryOne("s4-001")
     else -> null
@@ -133,6 +167,7 @@ private fun Main(start: String?) {
     var tab by rememberSaveable {
         androidx.compose.runtime.mutableIntStateOf(routeScreen(start)?.let { tabs.indexOf(it) }?.takeIf { it >= 0 } ?: 0)
     }
+    val incoming by MainActivity.incoming.collectAsState()
     val stack = remember {
         mutableStateListOf<Screen>().apply {
             when (val s = routeScreen(start)) {
@@ -141,6 +176,9 @@ private fun Main(start: String?) {
                 else -> add(s)
             }
         }
+    }
+    androidx.compose.runtime.LaunchedEffect(incoming) {
+        incoming?.let { stack.add(it); MainActivity.incoming.value = null }
     }
     var chatSeed by remember { androidx.compose.runtime.mutableStateOf<String?>(null) }
 
@@ -199,7 +237,11 @@ private fun Main(start: String?) {
 @Composable
 private fun Page(s: Screen, nav: (Screen) -> Unit, back: () -> Unit, explainInChat: (String) -> Unit, replace: (Screen) -> Unit) {
     when (s) {
-        is Screen.Study -> StudyScreen(s.extra, onClose = back, onExplainInChat = explainInChat)
+        is Screen.Study -> StudyScreen(s.extra, onClose = back, onExplainInChat = explainInChat, weak = s.weak)
+        Screen.Speed -> SpeedScreen(back)
+        is Screen.Sentences -> SentencesScreen(s.level, back)
+        Screen.Listen -> ListenScreen(back)
+        is Screen.LookUp -> LookUpScreen(s.text, back)
         Screen.Settings -> SettingsScreen(back)
         Screen.Progress -> ProgressScreen(back)
         is Screen.KanaList -> KanaListScreen(s.katakana, nav, back)

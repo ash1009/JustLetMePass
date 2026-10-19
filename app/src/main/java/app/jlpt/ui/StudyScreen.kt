@@ -83,7 +83,7 @@ fun StudyClock(lastTouch: Long, capSeconds: Int = 60) {
 }
 
 @Composable
-fun StudyScreen(extraNew: Int, onClose: () -> Unit, onExplainInChat: (String) -> Unit) {
+fun StudyScreen(extraNew: Int, onClose: () -> Unit, onExplainInChat: (String) -> Unit, weak: Boolean = false) {
     val a = app()
     val scope = rememberCoroutineScope()
     val steps = remember { mutableStateListOf<Step>() }
@@ -95,13 +95,15 @@ fun StudyScreen(extraNew: Int, onClose: () -> Unit, onExplainInChat: (String) ->
     val retried = remember { HashSet<String>() }
     val countedNew = remember { HashSet<String>() }
     var lastTouch by remember { mutableLongStateOf(System.currentTimeMillis()) }
+    val seenWeak = remember { HashSet<String>() }
     var round by remember { mutableIntStateOf(0) }
 
     StudyClock(lastTouch, 60)
 
     LaunchedEffect(round) {
         loading = true
-        val list = a.study.buildRound(if (round == 0) extraNew else 5)
+        val list = if (weak) a.study.buildWeakRound(seenWeak) else a.study.buildRound(if (round == 0) extraNew else 5)
+        if (weak) seenWeak += list.map { it.id }
         steps.clear(); steps.addAll(list)
         index = 0
         loading = false
@@ -118,6 +120,7 @@ fun StudyScreen(extraNew: Int, onClose: () -> Unit, onExplainInChat: (String) ->
         }
         when {
             loading -> Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) { CircularProgressIndicator() }
+            steps.isEmpty() && weak -> WeakEmpty(onClose)
             steps.isEmpty() -> NothingDue(onMore = { round++ }, onClose = onClose)
             index >= steps.size -> RoundDone(asked, right, met.size, onMore = { round++ }, onClose = onClose)
             else -> {
@@ -367,6 +370,23 @@ private fun explainPrompt(q: Question, chosen: Int): String = buildString {
     append("I chose: ${Furigana.plain(q.options.getOrElse(chosen) { "" })}\n")
     append("Right answer: ${Furigana.plain(q.options[q.answer])}\n")
     append("Full answer: ${Furigana.plain(q.revealJp)} = ${q.revealEn}")
+}
+
+@Composable
+private fun WeakEmpty(onClose: () -> Unit) {
+    Column(
+        Modifier.fillMaxSize().padding(24.dp),
+        horizontalAlignment = Alignment.CenterHorizontally,
+        verticalArrangement = Arrangement.Center,
+    ) {
+        Text("💪", fontSize = 56.sp)
+        Gap()
+        Text("No weak spots right now", style = MaterialTheme.typography.headlineSmall)
+        Gap(8.dp)
+        Text("Things you get wrong show up here, so you can drill them.", textAlign = TextAlign.Center, color = LocalExtra.current.muted)
+        Gap(24.dp)
+        Button(onClick = onClose, modifier = Modifier.fillMaxWidth().heightIn(min = 52.dp)) { Text("Back") }
+    }
 }
 
 @Composable

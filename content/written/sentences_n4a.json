@@ -1,0 +1,1682 @@
+[
+ {
+  "id": "sb4-001",
+  "level": 4,
+  "before": "{私|わたし}は{一度|いちど}も",
+  "after": "ありません。",
+  "pieces": [
+   "{食|た}べた",
+   "すし",
+   "ことが",
+   "を"
+  ],
+  "order": [
+   1,
+   3,
+   0,
+   2
+  ],
+  "star": 2,
+  "en": "I have never eaten sushi.",
+  "why": "を follows the noun, and the plain past {食|た}べた comes right before ことが."
+ },
+ {
+  "id": "sb4-002",
+  "level": 4,
+  "before": "{田中|たなか}さんは{前|まえ}に",
+  "after": "あるそうです。",
+  "pieces": [
+   "{行|い}った",
+   "{北海道|ほっかいどう}",
+   "へ",
+   "ことが"
+  ],
+  "order": [
+   1,
+   2,
+   0,
+   3
+  ],
+  "star": 3,
+  "en": "I hear Tanaka-san has been to Hokkaido before.",
+  "why": "Place + へ + plain past {行|い}った + ことが + ある."
+ },
+ {
+  "id": "sb4-003",
+  "level": 4,
+  "before": "この{部屋|へや}で",
+  "after": "ですか。",
+  "pieces": [
+   "すって",
+   "も",
+   "いい",
+   "たばこを"
+  ],
+  "order": [
+   3,
+   0,
+   1,
+   2
+  ],
+  "star": 0,
+  "en": "May I smoke in this room?",
+  "why": "The pattern is te-form + も + いい."
+ },
+ {
+  "id": "sb4-004",
+  "level": 4,
+  "before": "{明日|あした}は{休|やす}みだから、",
+  "after": "よ。",
+  "pieces": [
+   "いい",
+   "{起|お}きなくても",
+   "です",
+   "{早|はや}く"
+  ],
+  "order": [
+   3,
+   1,
+   0,
+   2
+  ],
+  "star": 0,
+  "en": "Tomorrow is a day off, so you don't have to get up early.",
+  "why": "{早|はや}く describes {起|お}きる, and なくても is followed by いいです."
+ },
+ {
+  "id": "sb4-005",
+  "level": 4,
+  "before": "{病院|びょういん}へ{行|い}く{前|まえ}に、{予約|よやく}",
+  "after": "。",
+  "pieces": [
+   "し",
+   "なりません",
+   "を",
+   "なければ"
+  ],
+  "order": [
+   2,
+   0,
+   3,
+   1
+  ],
+  "star": 2,
+  "en": "You have to make a reservation before going to the hospital.",
+  "why": "{予約|よやく}をし + なければ + なりません is a fixed pattern."
+ },
+ {
+  "id": "sb4-006",
+  "level": 4,
+  "before": "{私|わたし}は{漢字|かんじ}が",
+  "after": "。",
+  "pieces": [
+   "しか",
+   "ません",
+   "{少|すこ}し",
+   "{読|よ}め"
+  ],
+  "order": [
+   2,
+   0,
+   3,
+   1
+  ],
+  "star": 3,
+  "en": "I can only read a little kanji.",
+  "why": "しか comes after {少|すこ}し and needs a negative verb after it."
+ },
+ {
+  "id": "sb4-007",
+  "level": 4,
+  "before": "{兄|あに}は",
+  "after": "。",
+  "pieces": [
+   "{話|はな}せます",
+   "{英語|えいご}と",
+   "フランス{語|ご}",
+   "が"
+  ],
+  "order": [
+   1,
+   2,
+   3,
+   0
+  ],
+  "star": 2,
+  "en": "My older brother can speak English and French.",
+  "why": "AとB + が + potential verb; と joins the first noun to the second."
+ },
+ {
+  "id": "sb4-008",
+  "level": 4,
+  "before": "{週末|しゅうまつ}、{友達|ともだち}と{映画|えいが}",
+  "after": "{思|おも}っています。",
+  "pieces": [
+   "を",
+   "{行|い}こう",
+   "と",
+   "{見|み}に"
+  ],
+  "order": [
+   0,
+   3,
+   1,
+   2
+  ],
+  "star": 1,
+  "en": "I'm thinking of going to see a movie with friends this weekend.",
+  "why": "{見|み}に comes before {行|い}く, and the volitional {行|い}こう takes と{思|おも}う."
+ },
+ {
+  "id": "sb4-009",
+  "level": 4,
+  "before": "{来年|らいねん}、{日本|にほん}の{大学|だいがく}",
+  "after": "です。",
+  "pieces": [
+   "つもり",
+   "{勉強|べんきょう}",
+   "で",
+   "する"
+  ],
+  "order": [
+   2,
+   1,
+   3,
+   0
+  ],
+  "star": 3,
+  "en": "Next year I plan to study at a Japanese university.",
+  "why": "Place + で, then the dictionary form する before つもりです."
+ },
+ {
+  "id": "sb4-010",
+  "level": 4,
+  "before": "{今年|ことし}の{夏|なつ}は{忙|いそが}しいので、",
+  "after": "。",
+  "pieces": [
+   "{行|い}かない",
+   "どこにも",
+   "つもり",
+   "です"
+  ],
+  "order": [
+   1,
+   0,
+   2,
+   3
+  ],
+  "star": 0,
+  "en": "I'm busy this summer, so I don't plan to go anywhere.",
+  "why": "どこにも needs a negative verb, and {行|い}かない comes before つもりです."
+ },
+ {
+  "id": "sb4-011",
+  "level": 4,
+  "before": "{明日|あした}は",
+  "after": "よ。",
+  "pieces": [
+   "と",
+   "{思|おも}います",
+   "{雨|あめ}が",
+   "{降|ふ}る"
+  ],
+  "order": [
+   2,
+   3,
+   0,
+   1
+  ],
+  "star": 2,
+  "en": "I think it will rain tomorrow.",
+  "why": "The plain-form clause {雨|あめ}が{降|ふ}る comes before と{思|おも}います."
+ },
+ {
+  "id": "sb4-012",
+  "level": 4,
+  "before": "この{薬|くすり}を",
+  "after": "。",
+  "pieces": [
+   "でしょう",
+   "{熱|ねつ}が",
+   "{飲|の}めば",
+   "{下|さ}がる"
+  ],
+  "order": [
+   2,
+   1,
+   3,
+   0
+  ],
+  "star": 0,
+  "en": "If you take this medicine, your fever will go down.",
+  "why": "{薬|くすり}を needs the verb {飲|の}めば, then the result {熱|ねつ}が{下|さ}がるでしょう."
+ },
+ {
+  "id": "sb4-013",
+  "level": 4,
+  "before": "{駅|えき}に",
+  "after": "。",
+  "pieces": [
+   "ください",
+   "{電話|でんわ}を",
+   "たら",
+   "{着|つ}い"
+  ],
+  "order": [
+   3,
+   2,
+   1,
+   0
+  ],
+  "star": 1,
+  "en": "Please call me when you get to the station.",
+  "why": "{着|つ}い + たら makes the condition, then {電話|でんわ}をください."
+ },
+ {
+  "id": "sb4-014",
+  "level": 4,
+  "before": "この{道|みち}を{右|みぎ}へ",
+  "after": "。",
+  "pieces": [
+   "{曲|ま}がる",
+   "{銀行|ぎんこう}が",
+   "あります",
+   "と"
+  ],
+  "order": [
+   0,
+   3,
+   1,
+   2
+  ],
+  "star": 3,
+  "en": "If you turn right on this road, there is a bank.",
+  "why": "Dictionary form + と, then what you find: {銀行|ぎんこう}があります."
+ },
+ {
+  "id": "sb4-015",
+  "level": 4,
+  "before": "{京都|きょうと}へ",
+  "after": "ですよ。",
+  "pieces": [
+   "{行|い}く",
+   "いい",
+   "なら",
+   "{新幹線|しんかんせん}が"
+  ],
+  "order": [
+   0,
+   2,
+   3,
+   1
+  ],
+  "star": 3,
+  "en": "If you're going to Kyoto, the shinkansen is best.",
+  "why": "{行|い}く + なら gives the topic, then the advice {新幹線|しんかんせん}がいいです."
+ },
+ {
+  "id": "sb4-016",
+  "level": 4,
+  "before": "{弟|おとうと}はいつも{音楽|おんがく}を",
+  "after": "います。",
+  "pieces": [
+   "{宿題|しゅくだい}を",
+   "して",
+   "{聞|き}き",
+   "ながら"
+  ],
+  "order": [
+   2,
+   3,
+   0,
+   1
+  ],
+  "star": 1,
+  "en": "My younger brother always does his homework while listening to music.",
+  "why": "ながら joins to the verb stem {聞|き}き, and して comes before います."
+ },
+ {
+  "id": "sb4-017",
+  "level": 4,
+  "before": "このアパートは{駅|えき}から{近|ちか}い",
+  "after": "{好|す}きです。",
+  "pieces": [
+   "{部屋|へや}も",
+   "ので",
+   "し",
+   "{広|ひろ}い"
+  ],
+  "order": [
+   2,
+   0,
+   3,
+   1
+  ],
+  "star": 0,
+  "en": "This apartment is close to the station and the rooms are big, so I like it.",
+  "why": "し lists the first reason after {近|ちか}い; {部屋|へや}も{広|ひろ}い is the second reason before ので."
+ },
+ {
+  "id": "sb4-018",
+  "level": 4,
+  "before": "{母|はは}が{作|つく}ったケーキは",
+  "after": "ね。",
+  "pieces": [
+   "です",
+   "そう",
+   "おいし",
+   "とても"
+  ],
+  "order": [
+   3,
+   2,
+   1,
+   0
+  ],
+  "star": 0,
+  "en": "The cake my mother made looks very tasty.",
+  "why": "For \"looks ~\", drop the い of おいしい and add そうです."
+ },
+ {
+  "id": "sb4-019",
+  "level": 4,
+  "before": "{天気予報|てんきよほう}によると、{明日|あした}は",
+  "after": "です。",
+  "pieces": [
+   "そう",
+   "{雪|ゆき}",
+   "{降|ふ}る",
+   "が"
+  ],
+  "order": [
+   1,
+   3,
+   2,
+   0
+  ],
+  "star": 3,
+  "en": "According to the weather forecast, it will snow tomorrow.",
+  "why": "Hearsay そうです follows the plain form {降|ふ}る."
+ },
+ {
+  "id": "sb4-020",
+  "level": 4,
+  "before": "{外|そと}は",
+  "after": "ようです。",
+  "pieces": [
+   "{降|ふ}って",
+   "いる",
+   "が",
+   "{雨|あめ}"
+  ],
+  "order": [
+   3,
+   2,
+   0,
+   1
+  ],
+  "star": 2,
+  "en": "It seems to be raining outside.",
+  "why": "{雨|あめ}が comes before {降|ふ}っている, and the plain form comes before ようです."
+ },
+ {
+  "id": "sb4-021",
+  "level": 4,
+  "before": "{山田|やまだ}さんは",
+  "after": "ね。",
+  "pieces": [
+   "みたい",
+   "{風邪|かぜ}を",
+   "ひいた",
+   "です"
+  ],
+  "order": [
+   1,
+   2,
+   0,
+   3
+  ],
+  "star": 3,
+  "en": "It seems Yamada-san has caught a cold.",
+  "why": "{風邪|かぜ}をひく is a set phrase, and the plain past comes before みたいです."
+ },
+ {
+  "id": "sb4-022",
+  "level": 4,
+  "before": "{来週|らいしゅう}のテストは",
+  "after": "よ。",
+  "pieces": [
+   "とても",
+   "です",
+   "{難|むずか}しい",
+   "らしい"
+  ],
+  "order": [
+   0,
+   2,
+   3,
+   1
+  ],
+  "star": 2,
+  "en": "I hear next week's test is very difficult.",
+  "why": "とても comes before the adjective, and らしい follows the plain form {難|むずか}しい."
+ },
+ {
+  "id": "sb4-023",
+  "level": 4,
+  "before": "{子|こ}どものころ、{犬|いぬ}",
+  "after": "。",
+  "pieces": [
+   "ことが",
+   "を",
+   "あります",
+   "{飼|か}った"
+  ],
+  "order": [
+   1,
+   3,
+   0,
+   2
+  ],
+  "star": 1,
+  "en": "I had a dog when I was a child.",
+  "why": "{犬|いぬ} + を + plain past {飼|か}った + ことがあります."
+ },
+ {
+  "id": "sb4-024",
+  "level": 4,
+  "before": "{富士山|ふじさん}に",
+  "after": "？",
+  "pieces": [
+   "ことが",
+   "か",
+   "あります",
+   "{登|のぼ}った"
+  ],
+  "order": [
+   3,
+   0,
+   2,
+   1
+  ],
+  "star": 0,
+  "en": "Have you ever climbed Mt. Fuji?",
+  "why": "{山|やま}に{登|のぼ}る, then ことがありますか."
+ },
+ {
+  "id": "sb4-025",
+  "level": 4,
+  "before": "{私|わたし}は{今|いま}まで{一度|いちど}も{病気|びょうき}",
+  "after": "ありません。",
+  "pieces": [
+   "{学校|がっこう}を",
+   "で",
+   "ことが",
+   "{休|やす}んだ"
+  ],
+  "order": [
+   1,
+   0,
+   3,
+   2
+  ],
+  "star": 3,
+  "en": "I have never missed school because of illness.",
+  "why": "{病気|びょうき} + で gives the reason, then {学校|がっこう}を{休|やす}んだことがありません."
+ },
+ {
+  "id": "sb4-026",
+  "level": 4,
+  "before": "テストのとき、{辞書|じしょ}を",
+  "after": "。",
+  "pieces": [
+   "いい",
+   "ですか",
+   "も",
+   "{使|つか}って"
+  ],
+  "order": [
+   3,
+   2,
+   0,
+   1
+  ],
+  "star": 0,
+  "en": "May I use a dictionary during the test?",
+  "why": "{辞書|じしょ}を needs the verb {使|つか}って, then もいいですか."
+ },
+ {
+  "id": "sb4-027",
+  "level": 4,
+  "before": "{疲|つか}れたら、",
+  "after": "ですよ。",
+  "pieces": [
+   "いい",
+   "{少|すこ}し",
+   "{休|やす}んで",
+   "も"
+  ],
+  "order": [
+   1,
+   2,
+   3,
+   0
+  ],
+  "star": 0,
+  "en": "If you get tired, you can rest a little.",
+  "why": "{少|すこ}し comes before the verb, then te-form + も + いい."
+ },
+ {
+  "id": "sb4-028",
+  "level": 4,
+  "before": "{図書館|としょかん}の{中|なか}で",
+  "after": "。",
+  "pieces": [
+   "は",
+   "いけません",
+   "{食|た}べて",
+   "{物|もの}を"
+  ],
+  "order": [
+   3,
+   2,
+   0,
+   1
+  ],
+  "star": 2,
+  "en": "You must not eat in the library.",
+  "why": "Te-form + は + いけません means \"must not\"."
+ },
+ {
+  "id": "sb4-029",
+  "level": 4,
+  "before": "{雨|あめ}が{降|ふ}らなければ、{傘|かさ}を",
+  "after": "。",
+  "pieces": [
+   "{持|も}って",
+   "いかなくても",
+   "です",
+   "いい"
+  ],
+  "order": [
+   0,
+   1,
+   3,
+   2
+  ],
+  "star": 1,
+  "en": "If it doesn't rain, you don't need to take an umbrella.",
+  "why": "{持|も}っていく is one verb, and なくても is followed by いいです."
+ },
+ {
+  "id": "sb4-030",
+  "level": 4,
+  "before": "{日本|にほん}では{家|いえ}に{入|はい}る{前|まえ}に、{靴|くつ}を",
+  "after": "。",
+  "pieces": [
+   "ません",
+   "なり",
+   "なければ",
+   "{脱|ぬ}が"
+  ],
+  "order": [
+   3,
+   2,
+   1,
+   0
+  ],
+  "star": 3,
+  "en": "In Japan you have to take off your shoes before entering a house.",
+  "why": "{脱|ぬ}が + なければ + なりません is a fixed pattern."
+ },
+ {
+  "id": "sb4-031",
+  "level": 4,
+  "before": "{今日|きょう}は{母|はは}の{誕生日|たんじょうび}なので、{早|はや}く",
+  "after": "。",
+  "pieces": [
+   "いけません",
+   "{帰|かえ}ら",
+   "{家|いえ}に",
+   "なくては"
+  ],
+  "order": [
+   2,
+   1,
+   3,
+   0
+  ],
+  "star": 2,
+  "en": "It's my mother's birthday today, so I have to go home early.",
+  "why": "{家|いえ}に comes before {帰|かえ}る, and {帰|かえ}ら + なくては + いけません."
+ },
+ {
+  "id": "sb4-032",
+  "level": 4,
+  "before": "{毎日|まいにち}",
+  "after": "{大変|たいへん}です。",
+  "pieces": [
+   "ならない",
+   "のは",
+   "{飲|の}まなければ",
+   "{薬|くすり}を"
+  ],
+  "order": [
+   3,
+   2,
+   0,
+   1
+  ],
+  "star": 3,
+  "en": "Having to take medicine every day is hard.",
+  "why": "なければならない is one pattern, and の turns the clause into the subject before は."
+ },
+ {
+  "id": "sb4-033",
+  "level": 4,
+  "before": "{私|わたし}は{一人|ひとり}で",
+  "after": "。",
+  "pieces": [
+   "ことが",
+   "{着物|きもの}を",
+   "{着|き}る",
+   "できます"
+  ],
+  "order": [
+   1,
+   2,
+   0,
+   3
+  ],
+  "star": 0,
+  "en": "I can put on a kimono by myself.",
+  "why": "Dictionary form + ことができます means \"can\"."
+ },
+ {
+  "id": "sb4-034",
+  "level": 4,
+  "before": "{弟|おとうと}はまだ{三歳|さんさい}なので、{一人|ひとり}で",
+  "after": "。",
+  "pieces": [
+   "ません",
+   "{服|ふく}",
+   "が",
+   "{着|き}られ"
+  ],
+  "order": [
+   1,
+   2,
+   3,
+   0
+  ],
+  "star": 2,
+  "en": "My little brother is only three, so he can't dress himself.",
+  "why": "A potential verb takes が, and {着|き}られ + ません is the negative."
+ },
+ {
+  "id": "sb4-035",
+  "level": 4,
+  "before": "ここから{富士山|ふじさん}",
+  "after": "。",
+  "pieces": [
+   "よく",
+   "が",
+   "ます",
+   "{見|み}え"
+  ],
+  "order": [
+   1,
+   0,
+   3,
+   2
+  ],
+  "star": 1,
+  "en": "You can see Mt. Fuji well from here.",
+  "why": "が must follow {富士山|ふじさん}, and よく comes before the verb {見|み}えます."
+ },
+ {
+  "id": "sb4-036",
+  "level": 4,
+  "before": "{田中|たなか}さんは{料理|りょうり}が{上手|じょうず}で、{何|なん}",
+  "after": "。",
+  "pieces": [
+   "です",
+   "{作|つく}れる",
+   "でも",
+   "そう"
+  ],
+  "order": [
+   2,
+   1,
+   3,
+   0
+  ],
+  "star": 3,
+  "en": "I hear Tanaka-san is a good cook and can make anything.",
+  "why": "{何|なん}でも is a set word, and hearsay そう follows the plain potential {作|つく}れる."
+ },
+ {
+  "id": "sb4-037",
+  "level": 4,
+  "before": "{私|わたし}は{泳|およ}ぐ",
+  "after": "{行|い}きません。",
+  "pieces": [
+   "ことが",
+   "ので",
+   "{海|うみ}には",
+   "できない"
+  ],
+  "order": [
+   0,
+   3,
+   1,
+   2
+  ],
+  "star": 2,
+  "en": "I can't swim, so I don't go to the sea.",
+  "why": "{泳|およ}ぐことができない is the reason before ので, then {海|うみ}には{行|い}きません."
+ },
+ {
+  "id": "sb4-038",
+  "level": 4,
+  "before": "{漢字|かんじ}が",
+  "after": "。",
+  "pieces": [
+   "ように",
+   "{読|よ}める",
+   "ました",
+   "なり"
+  ],
+  "order": [
+   1,
+   0,
+   3,
+   2
+  ],
+  "star": 1,
+  "en": "I have become able to read kanji.",
+  "why": "Potential form + ように + なりました means \"became able to\"."
+ },
+ {
+  "id": "sb4-039",
+  "level": 4,
+  "before": "{明日|あした}から{毎朝|まいあさ}",
+  "after": "{思|おも}います。",
+  "pieces": [
+   "しよう",
+   "を",
+   "ジョギング",
+   "と"
+  ],
+  "order": [
+   2,
+   1,
+   0,
+   3
+  ],
+  "star": 0,
+  "en": "I'm going to start jogging every morning from tomorrow.",
+  "why": "ジョギングをする, in volitional form しよう, then と{思|おも}います."
+ },
+ {
+  "id": "sb4-040",
+  "level": 4,
+  "before": "{寝|ね}よう",
+  "after": "{鳴|な}りました。",
+  "pieces": [
+   "{電話|でんわ}が",
+   "とき",
+   "と",
+   "した"
+  ],
+  "order": [
+   2,
+   3,
+   1,
+   0
+  ],
+  "star": 2,
+  "en": "Just as I was about to go to sleep, the phone rang.",
+  "why": "Volitional + とした means \"was about to\", then とき, then what happened."
+ },
+ {
+  "id": "sb4-041",
+  "level": 4,
+  "before": "{夏休|なつやす}みに{国|くに}へ",
+  "after": "。",
+  "pieces": [
+   "と",
+   "{思|おも}って",
+   "います",
+   "{帰|かえ}ろう"
+  ],
+  "order": [
+   3,
+   0,
+   1,
+   2
+  ],
+  "star": 0,
+  "en": "I'm thinking of going back to my country in the summer vacation.",
+  "why": "Volitional {帰|かえ}ろう + と + {思|おも}っています."
+ },
+ {
+  "id": "sb4-042",
+  "level": 4,
+  "before": "{一緒|いっしょ}に",
+  "after": "。",
+  "pieces": [
+   "か",
+   "{昼|ひる}ご{飯|はん}を",
+   "{行|い}こう",
+   "{食|た}べに"
+  ],
+  "order": [
+   1,
+   3,
+   2,
+   0
+  ],
+  "star": 3,
+  "en": "Shall we go and eat lunch together?",
+  "why": "Object を, then {食|た}べに before {行|い}く, and volitional {行|い}こう + か."
+ },
+ {
+  "id": "sb4-043",
+  "level": 4,
+  "before": "{田中|たなか}さんは",
+  "after": "。",
+  "pieces": [
+   "{来|こ}ない",
+   "{今日|きょう}",
+   "と",
+   "{思|おも}います"
+  ],
+  "order": [
+   1,
+   0,
+   2,
+   3
+  ],
+  "star": 2,
+  "en": "I think Tanaka-san won't come today.",
+  "why": "The plain-form clause {今日|きょう}{来|こ}ない comes before と{思|おも}います."
+ },
+ {
+  "id": "sb4-044",
+  "level": 4,
+  "before": "この{本|ほん}は{子|こ}どもには",
+  "after": "。",
+  "pieces": [
+   "{難|むずか}しい",
+   "{思|おも}う",
+   "{少|すこ}し",
+   "と"
+  ],
+  "order": [
+   2,
+   0,
+   3,
+   1
+  ],
+  "star": 3,
+  "en": "I think this book is a little difficult for children.",
+  "why": "{少|すこ}し comes before the adjective, and the plain-form clause comes before と{思|おも}う."
+ },
+ {
+  "id": "sb4-045",
+  "level": 4,
+  "before": "{山田|やまだ}さんは{来月|らいげつ}",
+  "after": "よ。",
+  "pieces": [
+   "いました",
+   "{結婚|けっこん}する",
+   "と",
+   "{言|い}って"
+  ],
+  "order": [
+   1,
+   2,
+   3,
+   0
+  ],
+  "star": 0,
+  "en": "Yamada-san said she is getting married next month.",
+  "why": "The plain-form quote comes before と{言|い}っていました."
+ },
+ {
+  "id": "sb4-046",
+  "level": 4,
+  "before": "{今晩|こんばん}は{早|はや}く",
+  "after": "、{遅|おそ}くまでゲームをしてしまいました。",
+  "pieces": [
+   "つもり",
+   "だった",
+   "{寝|ね}る",
+   "のに"
+  ],
+  "order": [
+   2,
+   0,
+   1,
+   3
+  ],
+  "star": 2,
+  "en": "I meant to go to bed early tonight, but I ended up playing games until late.",
+  "why": "Dictionary form + つもり + だった, then のに for \"but\"."
+ },
+ {
+  "id": "sb4-047",
+  "level": 4,
+  "before": "{来年|らいねん}",
+  "after": "ためています。",
+  "pieces": [
+   "{車|くるま}を",
+   "つもりで",
+   "{買|か}う",
+   "お{金|かね}を"
+  ],
+  "order": [
+   0,
+   2,
+   1,
+   3
+  ],
+  "star": 2,
+  "en": "I'm saving money because I plan to buy a car next year.",
+  "why": "{車|くるま}を{買|か}うつもりで is the plan, and お{金|かね}を goes before ためています."
+ },
+ {
+  "id": "sb4-048",
+  "level": 4,
+  "before": "{私|わたし}は{大学|だいがく}を{出|で}たら、",
+  "after": "。",
+  "pieces": [
+   "つもり",
+   "{働|はたら}く",
+   "です",
+   "{日本|にほん}で"
+  ],
+  "order": [
+   3,
+   1,
+   0,
+   2
+  ],
+  "star": 3,
+  "en": "I plan to work in Japan after I graduate from university.",
+  "why": "Place + で, then dictionary form {働|はたら}く before つもりです."
+ },
+ {
+  "id": "sb4-049",
+  "level": 4,
+  "before": "もう{少|すこ}し",
+  "after": "のですが。",
+  "pieces": [
+   "かばんを",
+   "この",
+   "{安|やす}ければ",
+   "{買|か}う"
+  ],
+  "order": [
+   2,
+   1,
+   0,
+   3
+  ],
+  "star": 2,
+  "en": "If it were a little cheaper, I would buy this bag.",
+  "why": "もう{少|すこ}し goes with {安|やす}ければ, and この comes before the noun かばん."
+ },
+ {
+  "id": "sb4-050",
+  "level": 4,
+  "before": "{時間|じかん}が",
+  "after": "です。",
+  "pieces": [
+   "{行|い}き",
+   "あれば",
+   "たい",
+   "{一緒|いっしょ}に"
+  ],
+  "order": [
+   1,
+   3,
+   0,
+   2
+  ],
+  "star": 1,
+  "en": "If I have time, I'd like to go with you.",
+  "why": "{時間|じかん}が needs あれば, and the stem {行|い}き comes before たい."
+ },
+ {
+  "id": "sb4-051",
+  "level": 4,
+  "before": "{分|わ}からない{言葉|ことば}は、{辞書|じしょ}",
+  "after": "よ。",
+  "pieces": [
+   "{意味|いみ}が",
+   "{調|しら}べれば",
+   "{分|わ}かります",
+   "を"
+  ],
+  "order": [
+   3,
+   1,
+   0,
+   2
+  ],
+  "star": 0,
+  "en": "If you look up words you don't know in a dictionary, you'll understand the meaning.",
+  "why": "{辞書|じしょ}を needs a verb {調|しら}べれば, then the result {意味|いみ}が{分|わ}かります."
+ },
+ {
+  "id": "sb4-052",
+  "level": 4,
+  "before": "{仕事|しごと}が",
+  "after": "。",
+  "pieces": [
+   "たら",
+   "{行|い}きましょう",
+   "{終|お}わっ",
+   "{飲|の}みに"
+  ],
+  "order": [
+   2,
+   0,
+   3,
+   1
+  ],
+  "star": 2,
+  "en": "When work is over, let's go for a drink.",
+  "why": "{終|お}わっ + たら is the condition, and {飲|の}みに comes before {行|い}きましょう."
+ },
+ {
+  "id": "sb4-053",
+  "level": 4,
+  "before": "{大人|おとな}に",
+  "after": "です。",
+  "pieces": [
+   "なったら",
+   "なり",
+   "たい",
+   "{医者|いしゃ}に"
+  ],
+  "order": [
+   0,
+   3,
+   1,
+   2
+  ],
+  "star": 1,
+  "en": "When I grow up, I want to be a doctor.",
+  "why": "{大人|おとな}になったら is the time, then {医者|いしゃ}になり + たい."
+ },
+ {
+  "id": "sb4-054",
+  "level": 4,
+  "before": "このボタンを",
+  "after": "。",
+  "pieces": [
+   "お{茶|ちゃ}が",
+   "{押|お}す",
+   "{出|で}ます",
+   "と"
+  ],
+  "order": [
+   1,
+   3,
+   0,
+   2
+  ],
+  "star": 3,
+  "en": "When you press this button, tea comes out.",
+  "why": "Dictionary form + と, then the result お{茶|ちゃ}が{出|で}ます."
+ },
+ {
+  "id": "sb4-055",
+  "level": 4,
+  "before": "{春|はる}に",
+  "after": "。",
+  "pieces": [
+   "と",
+   "なる",
+   "{咲|さ}きます",
+   "{桜|さくら}が"
+  ],
+  "order": [
+   1,
+   0,
+   3,
+   2
+  ],
+  "star": 1,
+  "en": "When spring comes, the cherry blossoms bloom.",
+  "why": "{春|はる}になる + と, then the natural result {桜|さくら}が{咲|さ}きます."
+ },
+ {
+  "id": "sb4-056",
+  "level": 4,
+  "before": "パソコンを{買|か}う",
+  "after": "ですよ。",
+  "pieces": [
+   "{駅前|えきまえ}の",
+   "なら",
+   "{店|みせ}が",
+   "いい"
+  ],
+  "order": [
+   1,
+   0,
+   2,
+   3
+  ],
+  "star": 2,
+  "en": "If you're buying a computer, the shop in front of the station is good.",
+  "why": "なら follows {買|か}う, and {駅前|えきまえ}の must come before the noun {店|みせ}."
+ },
+ {
+  "id": "sb4-057",
+  "level": 4,
+  "before": "{日曜日|にちようび}",
+  "after": "{手伝|てつだ}えますよ。",
+  "pieces": [
+   "ある",
+   "なら",
+   "{時間|じかん}が",
+   "ので"
+  ],
+  "order": [
+   1,
+   2,
+   0,
+   3
+  ],
+  "star": 0,
+  "en": "If it's Sunday, I have time, so I can help.",
+  "why": "なら follows the noun {日曜日|にちようび}, and {時間|じかん}がある is the reason before ので."
+ },
+ {
+  "id": "sb4-058",
+  "level": 4,
+  "before": "{歩|ある}き",
+  "after": "よ。",
+  "pieces": [
+   "スマホを",
+   "{見|み}ては",
+   "ながら",
+   "いけません"
+  ],
+  "order": [
+   2,
+   0,
+   1,
+   3
+  ],
+  "star": 1,
+  "en": "You must not look at your phone while walking.",
+  "why": "ながら joins to the stem {歩|ある}き, and {見|み}ては comes before いけません."
+ },
+ {
+  "id": "sb4-059",
+  "level": 4,
+  "before": "{父|ちち}はいつも{新聞|しんぶん}を",
+  "after": "ます。",
+  "pieces": [
+   "{読|よ}み",
+   "{食|た}べ",
+   "ながら",
+   "{朝|あさ}ご{飯|はん}を"
+  ],
+  "order": [
+   0,
+   2,
+   3,
+   1
+  ],
+  "star": 2,
+  "en": "My father always eats breakfast while reading the newspaper.",
+  "why": "{新聞|しんぶん}を needs the stem {読|よ}み + ながら, and {食|た}べ comes before ます."
+ },
+ {
+  "id": "sb4-060",
+  "level": 4,
+  "before": "{私|わたし}は",
+  "after": "しています。",
+  "pieces": [
+   "アルバイトを",
+   "{大学|だいがく}に",
+   "{通|かよ}い",
+   "ながら"
+  ],
+  "order": [
+   1,
+   2,
+   3,
+   0
+  ],
+  "star": 0,
+  "en": "I work a part-time job while going to university.",
+  "why": "{大学|だいがく}に{通|かよ}う, its stem {通|かよ}い + ながら, then アルバイトをしています."
+ },
+ {
+  "id": "sb4-061",
+  "level": 4,
+  "before": "{今日|きょう}は{雨|あめ}も{降|ふ}っている",
+  "after": "、{出|で}かけません。",
+  "pieces": [
+   "し",
+   "から",
+   "{時間|じかん}も",
+   "ない"
+  ],
+  "order": [
+   0,
+   2,
+   3,
+   1
+  ],
+  "star": 1,
+  "en": "It's raining and I don't have time, so I won't go out today.",
+  "why": "し follows the first reason, then {時間|じかん}もない + から."
+ },
+ {
+  "id": "sb4-062",
+  "level": 4,
+  "before": "あのレストランは{高|たか}い",
+  "after": "もう{行|い}きません。",
+  "pieces": [
+   "{親切|しんせつ}じゃない",
+   "{店員|てんいん}も",
+   "し",
+   "から"
+  ],
+  "order": [
+   2,
+   1,
+   0,
+   3
+  ],
+  "star": 3,
+  "en": "That restaurant is expensive and the staff aren't kind, so I won't go again.",
+  "why": "し follows {高|たか}い, and the second reason ends with から."
+ },
+ {
+  "id": "sb4-063",
+  "level": 4,
+  "before": "{山田|やまだ}さんは{頭|あたま}も",
+  "after": "し、すごい{人|ひと}です。",
+  "pieces": [
+   "スポーツも",
+   "できる",
+   "いい",
+   "し"
+  ],
+  "order": [
+   2,
+   3,
+   0,
+   1
+  ],
+  "star": 3,
+  "en": "Yamada-san is smart and good at sports; she is amazing.",
+  "why": "{頭|あたま}もいい + し, then the second item スポーツもできる + し."
+ },
+ {
+  "id": "sb4-064",
+  "level": 4,
+  "before": "{空|そら}が{暗|くら}くて、",
+  "after": "{天気|てんき}です。",
+  "pieces": [
+   "そう",
+   "{雨|あめ}が",
+   "な",
+   "{降|ふ}り"
+  ],
+  "order": [
+   1,
+   3,
+   0,
+   2
+  ],
+  "star": 2,
+  "en": "The sky is dark; it looks like it's going to rain.",
+  "why": "Verb stem {降|ふ}り + そう + な comes before the noun {天気|てんき}."
+ },
+ {
+  "id": "sb4-065",
+  "level": 4,
+  "before": "{田中|たなか}さんは",
+  "after": "していました。",
+  "pieces": [
+   "{元気|げんき}",
+   "{顔|かお}を",
+   "な",
+   "そう"
+  ],
+  "order": [
+   0,
+   3,
+   2,
+   1
+  ],
+  "star": 1,
+  "en": "Tanaka-san looked well.",
+  "why": "{元気|げんき} + そう + な comes before the noun {顔|かお}."
+ },
+ {
+  "id": "sb4-066",
+  "level": 4,
+  "before": "{子|こ}どもたちが",
+  "after": "。",
+  "pieces": [
+   "そうに",
+   "{遊|あそ}んで",
+   "{楽|たの}し",
+   "います"
+  ],
+  "order": [
+   2,
+   0,
+   1,
+   3
+  ],
+  "star": 0,
+  "en": "The children are playing happily.",
+  "why": "{楽|たの}しい drops い to make {楽|たの}しそうに, which describes the verb {遊|あそ}んでいます."
+ },
+ {
+  "id": "sb4-067",
+  "level": 4,
+  "before": "この{机|つくえ}は{古|ふる}くて、",
+  "after": "。",
+  "pieces": [
+   "です",
+   "そう",
+   "{今|いま}にも",
+   "{壊|こわ}れ"
+  ],
+  "order": [
+   2,
+   3,
+   1,
+   0
+  ],
+  "star": 2,
+  "en": "This desk is old and looks like it could break at any moment.",
+  "why": "{今|いま}にも goes with そう, and そう follows the stem {壊|こわ}れ."
+ },
+ {
+  "id": "sb4-068",
+  "level": 4,
+  "before": "ニュースに",
+  "after": "そうです。",
+  "pieces": [
+   "いる",
+   "{電車|でんしゃ}が",
+   "よると",
+   "{止|と}まって"
+  ],
+  "order": [
+   2,
+   1,
+   3,
+   0
+  ],
+  "star": 1,
+  "en": "According to the news, the trains have stopped.",
+  "why": "ニュースによると is a set phrase, and the plain form {止|と}まっている comes before そうです."
+ },
+ {
+  "id": "sb4-069",
+  "level": 4,
+  "before": "{先生|せんせい}の{話|はなし}では、{来週|らいしゅう}",
+  "after": "よ。",
+  "pieces": [
+   "ある",
+   "そう",
+   "テストが",
+   "です"
+  ],
+  "order": [
+   2,
+   0,
+   1,
+   3
+  ],
+  "star": 0,
+  "en": "According to the teacher, there's a test next week.",
+  "why": "テストが comes before ある, and hearsay そうです follows the plain form."
+ },
+ {
+  "id": "sb4-070",
+  "level": 4,
+  "before": "{田中|たなか}さんの{話|はなし}では、{駅前|えきまえ}の",
+  "after": "そうです。",
+  "pieces": [
+   "とても",
+   "おいしい",
+   "{店|みせ}の",
+   "ラーメンは"
+  ],
+  "order": [
+   2,
+   3,
+   0,
+   1
+  ],
+  "star": 1,
+  "en": "According to Tanaka-san, the ramen at the shop in front of the station is very good.",
+  "why": "{駅前|えきまえ}の must be followed by a noun {店|みせ}, and とても comes right before おいしい."
+ },
+ {
+  "id": "sb4-071",
+  "level": 4,
+  "before": "{誰|だれ}も{電話|でんわ}に{出|で}ません。{家|いえ}",
+  "after": "です。",
+  "pieces": [
+   "{誰|だれ}も",
+   "いない",
+   "よう",
+   "に"
+  ],
+  "order": [
+   3,
+   0,
+   1,
+   2
+  ],
+  "star": 2,
+  "en": "Nobody answers the phone. It seems nobody is home.",
+  "why": "{家|いえ} + に, {誰|だれ}も needs the negative いない, then ようです."
+ },
+ {
+  "id": "sb4-072",
+  "level": 4,
+  "before": "{部屋|へや}の{電気|でんき}が{消|き}えていますね。{山田|やまだ}さんは",
+  "after": "ね。",
+  "pieces": [
+   "です",
+   "よう",
+   "{寝|ね}た",
+   "もう"
+  ],
+  "order": [
+   3,
+   2,
+   1,
+   0
+  ],
+  "star": 3,
+  "en": "The room light is off. It seems Yamada-san has already gone to bed.",
+  "why": "もう comes before the verb, and the plain past {寝|ね}た comes before ようです."
+ },
+ {
+  "id": "sb4-073",
+  "level": 4,
+  "before": "{先生|せんせい}が{言|い}った",
+  "after": "。",
+  "pieces": [
+   "みて",
+   "ください",
+   "ように",
+   "{書|か}いて"
+  ],
+  "order": [
+   2,
+   3,
+   0,
+   1
+  ],
+  "star": 0,
+  "en": "Please try writing it the way the teacher said.",
+  "why": "{言|い}ったように means \"as (someone) said\", then {書|か}いてみてください."
+ },
+ {
+  "id": "sb4-074",
+  "level": 4,
+  "before": "あの{人|ひと}は",
+  "after": "です。",
+  "pieces": [
+   "みたいに",
+   "{上手|じょうず}",
+   "{日本語|にほんご}が",
+   "{日本人|にほんじん}"
+  ],
+  "order": [
+   3,
+   0,
+   2,
+   1
+  ],
+  "star": 1,
+  "en": "That person is as good at Japanese as a Japanese person.",
+  "why": "Noun + みたいに describes how, then {日本語|にほんご}が{上手|じょうず}です."
+ },
+ {
+  "id": "sb4-075",
+  "level": 4,
+  "before": "{道|みち}が{込|こ}んでいますね。",
+  "after": "ね。",
+  "pieces": [
+   "です",
+   "{事故|じこ}が",
+   "あった",
+   "みたい"
+  ],
+  "order": [
+   1,
+   2,
+   3,
+   0
+  ],
+  "star": 0,
+  "en": "The road is crowded. It looks like there was an accident.",
+  "why": "{事故|じこ}があった is the plain-form clause before みたいです."
+ },
+ {
+  "id": "sb4-076",
+  "level": 4,
+  "before": "{今日|きょう}は{夏|なつ}",
+  "after": "ね。",
+  "pieces": [
+   "です",
+   "{暑|あつ}い",
+   "{日|ひ}",
+   "みたいに"
+  ],
+  "order": [
+   3,
+   1,
+   2,
+   0
+  ],
+  "star": 2,
+  "en": "Today is a hot day, like summer.",
+  "why": "{夏|なつ}みたいに describes {暑|あつ}い, which comes before the noun {日|ひ}."
+ },
+ {
+  "id": "sb4-077",
+  "level": 4,
+  "before": "{山田|やまだ}さんは{来月|らいげつ}",
+  "after": "よ。",
+  "pieces": [
+   "らしい",
+   "やめる",
+   "{会社|かいしゃ}を",
+   "です"
+  ],
+  "order": [
+   2,
+   1,
+   0,
+   3
+  ],
+  "star": 1,
+  "en": "I hear Yamada-san is quitting the company next month.",
+  "why": "{会社|かいしゃ}をやめる is the plain-form clause before らしいです."
+ },
+ {
+  "id": "sb4-078",
+  "level": 4,
+  "before": "{今日|きょう}は",
+  "after": "ですね。",
+  "pieces": [
+   "らしい",
+   "{春|はる}",
+   "{本当|ほんとう}に",
+   "{天気|てんき}"
+  ],
+  "order": [
+   2,
+   1,
+   0,
+   3
+  ],
+  "star": 3,
+  "en": "Today is really spring-like weather.",
+  "why": "Noun + らしい makes \"typical of spring\", and it comes before the noun {天気|てんき}."
+ },
+ {
+  "id": "sb4-079",
+  "level": 4,
+  "before": "{昨日|きのう}{駅|えき}で",
+  "after": "です。",
+  "pieces": [
+   "{人|ひと}は",
+   "{私|わたし}の",
+   "{会|あ}った",
+   "{先生|せんせい}"
+  ],
+  "order": [
+   2,
+   0,
+   1,
+   3
+  ],
+  "star": 3,
+  "en": "The person I met at the station yesterday is my teacher.",
+  "why": "The plain past {会|あ}った comes before {人|ひと}, and {私|わたし}の comes before {先生|せんせい}."
+ },
+ {
+  "id": "sb4-080",
+  "level": 4,
+  "before": "これは{母|はは}が",
+  "after": "{服|ふく}です。",
+  "pieces": [
+   "いた",
+   "ころ",
+   "{着|き}て",
+   "{若|わか}い"
+  ],
+  "order": [
+   3,
+   1,
+   2,
+   0
+  ],
+  "star": 1,
+  "en": "These are clothes my mother wore when she was young.",
+  "why": "{若|わか}い comes before ころ, and the clause {着|き}ていた comes before the noun {服|ふく}."
+ }
+]

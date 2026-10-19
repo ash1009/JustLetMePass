@@ -21,6 +21,10 @@ import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.rounded.MenuBook
 import androidx.compose.material.icons.rounded.AutoAwesome
+import androidx.compose.material.icons.rounded.Bolt
+import androidx.compose.material.icons.rounded.ContentPaste
+import androidx.compose.material.icons.rounded.Healing
+import androidx.compose.material.icons.rounded.Reorder
 import androidx.compose.material.icons.rounded.AutoStories
 import androidx.compose.material.icons.rounded.CheckCircle
 import androidx.compose.material.icons.rounded.Headphones
@@ -76,8 +80,30 @@ fun PracticeScreen(nav: (Screen) -> Unit) {
 
     Column(Modifier.fillMaxSize().verticalScroll(rememberScrollState()).padding(horizontal = 16.dp)) {
         TitleBar("Practice")
+        val states by a.study.states.collectAsState()
+        val weak = remember(states) { a.study.weakCount() }
+        val clipboard = androidx.compose.ui.platform.LocalClipboardManager.current
+        Label("Review")
+        Gap(8.dp)
+        TaskRow(Icons.Rounded.Healing, "Weak spots", if (weak == 0) "Nothing yet: things you get wrong land here" else "$weak things you often get wrong") {
+            nav(Screen.Study(0, weak = true))
+        }
+        Gap(8.dp)
+        TaskRow(Icons.Rounded.Bolt, "Speed round", "60 seconds, as many as you can · best ${a.prefs.speedBest.value}") { nav(Screen.Speed) }
+        Gap(8.dp)
+        TaskRow(Icons.Rounded.Headphones, "Listen", "Japanese audio in the background, screen off") { nav(Screen.Listen) }
+        Gap(8.dp)
+        TaskRow(Icons.Rounded.ContentPaste, "Read anything", "Paste Japanese (or share it here from any app) for furigana and meanings") {
+            val t = clipboard.getText()?.text.orEmpty()
+            nav(Screen.LookUp(t))
+        }
+        Gap(20.dp)
+        Label("By level")
+        Gap(8.dp)
         ChoiceRow((5 downTo 1).map { it to lvl(it) }, level) { level = it }
-        Gap(16.dp)
+        Gap(12.dp)
+        TaskRow(Icons.Rounded.Reorder, "Sentence building ★", "Put the words in order, like the real test, at ${lvl(level)}") { nav(Screen.Sentences(level)) }
+        Gap(12.dp)
         Panel(color = MaterialTheme.colorScheme.primaryContainer) {
             Label("Mock test", color = MaterialTheme.colorScheme.onPrimaryContainer)
             Gap(4.dp)

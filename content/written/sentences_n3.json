@@ -1,0 +1,1682 @@
+[
+ {
+  "id": "sb3-001",
+  "level": 3,
+  "before": "{健康|けんこう}の",
+  "after": "ようにしています。",
+  "pieces": [
+   "{食|た}べない",
+   "ために",
+   "を",
+   "{甘|あま}いもの"
+  ],
+  "order": [
+   1,
+   3,
+   2,
+   0
+  ],
+  "star": 1,
+  "en": "For my health, I try not to eat sweet things.",
+  "why": "Only ために can follow の, and を must sit between the noun and the verb before ようにする."
+ },
+ {
+  "id": "sb3-002",
+  "level": 3,
+  "before": "{来年|らいねん}から",
+  "after": "にしました。",
+  "pieces": [
+   "{日本|にほん}",
+   "に",
+   "こと",
+   "{住|す}む"
+  ],
+  "order": [
+   0,
+   1,
+   3,
+   2
+  ],
+  "star": 0,
+  "en": "From next year, I decided to live in Japan.",
+  "why": "The place takes に, the verb comes next, and こと comes right before にしました."
+ },
+ {
+  "id": "sb3-003",
+  "level": 3,
+  "before": "{弟|おとうと}は",
+  "after": "いて、{全然|ぜんぜん}{勉強|べんきょう}しません。",
+  "pieces": [
+   "を",
+   "ばかり",
+   "して",
+   "ゲーム"
+  ],
+  "order": [
+   3,
+   0,
+   2,
+   1
+  ],
+  "star": 2,
+  "en": "My little brother does nothing but play games and doesn't study at all.",
+  "why": "The pattern is ～てばかりいる, so して comes right before ばかり."
+ },
+ {
+  "id": "sb3-004",
+  "level": 3,
+  "before": "ちょうど{今|いま}、",
+  "after": "です。",
+  "pieces": [
+   "{食|た}べた",
+   "{昼|ひる}ごはん",
+   "を",
+   "ところ"
+  ],
+  "order": [
+   1,
+   2,
+   0,
+   3
+  ],
+  "star": 3,
+  "en": "I have just now finished eating lunch.",
+  "why": "The pattern is た-form + ところです, with the object and を first."
+ },
+ {
+  "id": "sb3-005",
+  "level": 3,
+  "before": "{肉|にく}が",
+  "after": "ですが、あまり{食|た}べません。",
+  "pieces": [
+   "{嫌|きら}いな",
+   "ない",
+   "では",
+   "わけ"
+  ],
+  "order": [
+   0,
+   3,
+   2,
+   1
+  ],
+  "star": 1,
+  "en": "It's not that I dislike meat, but I don't eat it much.",
+  "why": "The set pattern is な-adjective + なわけではない."
+ },
+ {
+  "id": "sb3-006",
+  "level": 3,
+  "before": "この{歌|うた}を",
+  "after": "を{思|おも}い{出|だ}します。",
+  "pieces": [
+   "{子|こ}どもの",
+   "{聞|き}く",
+   "たびに",
+   "ころ"
+  ],
+  "order": [
+   1,
+   2,
+   0,
+   3
+  ],
+  "star": 2,
+  "en": "Every time I hear this song, I remember my childhood.",
+  "why": "The verb must follow を, then たびに, and {子|こ}どもの must come before ころ."
+ },
+ {
+  "id": "sb3-007",
+  "level": 3,
+  "before": "{若|わか}い",
+  "after": "ほうがいいですよ。",
+  "pieces": [
+   "{行|い}った",
+   "うちに",
+   "{国|くに}へ",
+   "いろいろな"
+  ],
+  "order": [
+   1,
+   3,
+   2,
+   0
+  ],
+  "star": 1,
+  "en": "You should go to many countries while you are young.",
+  "why": "{若|わか}いうちに is a set pattern, いろいろな goes before the noun, and た-form comes before ほうがいい."
+ },
+ {
+  "id": "sb3-008",
+  "level": 3,
+  "before": "{国|くに}",
+  "after": "が{違|ちが}います。",
+  "pieces": [
+   "よって",
+   "に",
+   "{食事|しょくじ}の",
+   "マナー"
+  ],
+  "order": [
+   1,
+   0,
+   2,
+   3
+  ],
+  "star": 0,
+  "en": "Table manners differ from country to country.",
+  "why": "によって is one pattern, and {食事|しょくじ}の must come before マナー."
+ },
+ {
+  "id": "sb3-009",
+  "level": 3,
+  "before": "{明日|あした}の{会議|かいぎ}では、",
+  "after": "{話|はな}し{合|あ}います。",
+  "pieces": [
+   "{商品|しょうひん}",
+   "に",
+   "ついて",
+   "{新|あたら}しい"
+  ],
+  "order": [
+   3,
+   0,
+   1,
+   2
+  ],
+  "star": 2,
+  "en": "At tomorrow's meeting, we will discuss the new product.",
+  "why": "The adjective goes before the noun, and について follows the noun."
+ },
+ {
+  "id": "sb3-010",
+  "level": 3,
+  "before": "{留学|りゅうがく}する",
+  "after": "。",
+  "pieces": [
+   "います",
+   "お{金|かね}を",
+   "ために",
+   "ためて"
+  ],
+  "order": [
+   2,
+   1,
+   3,
+   0
+  ],
+  "star": 2,
+  "en": "I am saving money in order to study abroad.",
+  "why": "ために follows the verb, then object, then the て-form and います."
+ },
+ {
+  "id": "sb3-011",
+  "level": 3,
+  "before": "{後|うし}ろの{席|せき}の{人|ひと}にも",
+  "after": "。",
+  "pieces": [
+   "{聞|き}こえる",
+   "{話|はな}して",
+   "ように",
+   "ください"
+  ],
+  "order": [
+   0,
+   2,
+   1,
+   3
+  ],
+  "star": 1,
+  "en": "Please speak so that people in the back seats can hear too.",
+  "why": "ように follows the plain verb, and ～てください ends the sentence."
+ },
+ {
+  "id": "sb3-012",
+  "level": 3,
+  "before": "{荷物|にもつ}は{昨日|きのう}{送|おく}ったので、",
+  "after": "です。",
+  "pieces": [
+   "{着|つ}く",
+   "{明日|あした}",
+   "はず",
+   "には"
+  ],
+  "order": [
+   1,
+   3,
+   0,
+   2
+  ],
+  "star": 1,
+  "en": "I sent the package yesterday, so it should arrive by tomorrow.",
+  "why": "には follows the time word, and the plain verb comes before はずです."
+ },
+ {
+  "id": "sb3-013",
+  "level": 3,
+  "before": "{天気予報|てんきよほう}に",
+  "after": "らしいです。",
+  "pieces": [
+   "{雪|ゆき}に",
+   "{明日|あした}は",
+   "なる",
+   "よると"
+  ],
+  "order": [
+   3,
+   1,
+   0,
+   2
+  ],
+  "star": 2,
+  "en": "According to the weather forecast, it will snow tomorrow.",
+  "why": "によると is a set phrase, and ～になる comes right before らしい."
+ },
+ {
+  "id": "sb3-014",
+  "level": 3,
+  "before": "{部屋|へや}の{電気|でんき}が{消|き}えているから、",
+  "after": "です。",
+  "pieces": [
+   "もう",
+   "いる",
+   "みたい",
+   "{寝|ね}て"
+  ],
+  "order": [
+   0,
+   3,
+   1,
+   2
+  ],
+  "star": 1,
+  "en": "The room's light is off, so it seems he is already asleep.",
+  "why": "もう comes first, {寝|ね}ている is one verb form, and みたい follows it."
+ },
+ {
+  "id": "sb3-015",
+  "level": 3,
+  "before": "{昨日|きのう}",
+  "after": "、{頭|あたま}が{痛|いた}いです。",
+  "pieces": [
+   "{遅|おそ}くまで",
+   "せいで",
+   "{起|お}きて",
+   "いた"
+  ],
+  "order": [
+   0,
+   2,
+   3,
+   1
+  ],
+  "star": 2,
+  "en": "Because I stayed up late last night, I have a headache.",
+  "why": "{遅|おそ}くまで modifies the verb {起|お}きていた, and せいで follows it."
+ },
+ {
+  "id": "sb3-016",
+  "level": 3,
+  "before": "{先生|せんせい}が{教|おし}えてくれた",
+  "after": "{合格|ごうかく}できました。",
+  "pieces": [
+   "おかげで",
+   "{難|むずか}しい",
+   "に",
+   "{試験|しけん}"
+  ],
+  "order": [
+   0,
+   1,
+   3,
+   2
+  ],
+  "star": 1,
+  "en": "Thanks to my teacher's help, I was able to pass a difficult exam.",
+  "why": "おかげで follows the verb, the adjective goes before {試験|しけん}, and に goes before {合格|ごうかく}."
+ },
+ {
+  "id": "sb3-017",
+  "level": 3,
+  "before": "{来月|らいげつ}から",
+  "after": "なりました。",
+  "pieces": [
+   "{働|はたら}く",
+   "{大阪|おおさか}の",
+   "ことに",
+   "{支店|してん}で"
+  ],
+  "order": [
+   1,
+   3,
+   0,
+   2
+  ],
+  "star": 0,
+  "en": "From next month, I will work at the Osaka branch.",
+  "why": "{大阪|おおさか}の must come before {支店|してん}, and the verb comes before ことになる."
+ },
+ {
+  "id": "sb3-018",
+  "level": 3,
+  "before": "{今日|きょう}は{母|はは}の",
+  "after": "を{作|つく}りました。",
+  "pieces": [
+   "わたし",
+   "かわりに",
+   "{夕食|ゆうしょく}",
+   "が"
+  ],
+  "order": [
+   1,
+   0,
+   3,
+   2
+  ],
+  "star": 1,
+  "en": "Today I made dinner instead of my mother.",
+  "why": "の is followed by かわりに, the subject takes が, and {夕食|ゆうしょく} takes を."
+ },
+ {
+  "id": "sb3-019",
+  "level": 3,
+  "before": "{説明書|せつめいしょ}に",
+  "after": "、うまく{動|うご}きません。",
+  "pieces": [
+   "ある",
+   "{書|か}いて",
+   "やっても",
+   "とおりに"
+  ],
+  "order": [
+   1,
+   0,
+   3,
+   2
+  ],
+  "star": 2,
+  "en": "Even when I do it exactly as the manual says, it doesn't work well.",
+  "why": "{書|か}いてある is one form, とおりに follows it, and やっても comes last."
+ },
+ {
+  "id": "sb3-020",
+  "level": 3,
+  "before": "{音楽|おんがく}を",
+  "after": "のが{好|す}きです。",
+  "pieces": [
+   "{聞|き}き",
+   "する",
+   "{料理|りょうり}を",
+   "ながら"
+  ],
+  "order": [
+   0,
+   3,
+   2,
+   1
+  ],
+  "star": 3,
+  "en": "I like cooking while listening to music.",
+  "why": "ながら follows the ます-stem, and する must come before のが."
+ },
+ {
+  "id": "sb3-021",
+  "level": 3,
+  "before": "この{本|ほん}は",
+  "after": "なります。",
+  "pieces": [
+   "{読|よ}む",
+   "おもしろく",
+   "{読|よ}めば",
+   "ほど"
+  ],
+  "order": [
+   2,
+   0,
+   3,
+   1
+  ],
+  "star": 2,
+  "en": "The more you read this book, the more interesting it gets.",
+  "why": "The pattern is ～ば～ほど, and the adjective comes before なります."
+ },
+ {
+  "id": "sb3-022",
+  "level": 3,
+  "before": "{今朝|けさ}は",
+  "after": "{家|いえ}を{出|で}ました。",
+  "pieces": [
+   "{食|た}べ",
+   "ずに",
+   "を",
+   "{朝|あさ}ごはん"
+  ],
+  "order": [
+   3,
+   2,
+   0,
+   1
+  ],
+  "star": 3,
+  "en": "This morning I left home without eating breakfast.",
+  "why": "ずに follows the stem {食|た}べ, and を links the noun and the verb."
+ },
+ {
+  "id": "sb3-023",
+  "level": 3,
+  "before": "{明日|あした}は{大切|たいせつ}な{試験|しけん}なので、",
+  "after": "いきません。",
+  "pieces": [
+   "わけ",
+   "に",
+   "{休|やす}む",
+   "は"
+  ],
+  "order": [
+   2,
+   0,
+   1,
+   3
+  ],
+  "star": 0,
+  "en": "Tomorrow is an important exam, so I can't take the day off.",
+  "why": "The set pattern is verb + わけにはいかない."
+ },
+ {
+  "id": "sb3-024",
+  "level": 3,
+  "before": "{終電|しゅうでん}が{行|い}ってしまったので、",
+  "after": "ありません。",
+  "pieces": [
+   "タクシー",
+   "しか",
+   "で",
+   "{帰|かえ}る"
+  ],
+  "order": [
+   0,
+   2,
+   3,
+   1
+  ],
+  "star": 2,
+  "en": "The last train has gone, so I have no choice but to go home by taxi.",
+  "why": "で follows タクシー, and しか comes after the verb, before ありません."
+ },
+ {
+  "id": "sb3-025",
+  "level": 3,
+  "before": "{今年|ことし}の{夏|なつ}は",
+  "after": "ずっと{暑|あつ}いです。",
+  "pieces": [
+   "{夏|なつ}",
+   "に",
+   "{比|くら}べて",
+   "{去年|きょねん}の"
+  ],
+  "order": [
+   3,
+   0,
+   1,
+   2
+  ],
+  "star": 1,
+  "en": "This summer is much hotter than last summer.",
+  "why": "{去年|きょねん}の goes before {夏|なつ}, then に{比|くら}べて."
+ },
+ {
+  "id": "sb3-026",
+  "level": 3,
+  "before": "わたし",
+  "after": "{家族|かぞく}です。",
+  "pieces": [
+   "とって",
+   "に",
+   "{大切|たいせつ}なのは",
+   "いちばん"
+  ],
+  "order": [
+   1,
+   0,
+   3,
+   2
+  ],
+  "star": 2,
+  "en": "For me, the most important thing is my family.",
+  "why": "にとって follows わたし, and いちばん must come before {大切|たいせつ}."
+ },
+ {
+  "id": "sb3-027",
+  "level": 3,
+  "before": "{山田|やまだ}さんは",
+  "after": "やさしいです。",
+  "pieces": [
+   "{対|たい}して",
+   "も",
+   "に",
+   "だれ"
+  ],
+  "order": [
+   3,
+   2,
+   0,
+   1
+  ],
+  "star": 1,
+  "en": "Mr. Yamada is kind to everyone.",
+  "why": "The pattern is だれに{対|たい}しても."
+ },
+ {
+  "id": "sb3-028",
+  "level": 3,
+  "before": "{兄|あに}は",
+  "after": "{働|はたら}いています。",
+  "pieces": [
+   "{先生|せんせい}",
+   "と",
+   "して",
+   "{小学校|しょうがっこう}の"
+  ],
+  "order": [
+   3,
+   0,
+   1,
+   2
+  ],
+  "star": 3,
+  "en": "My older brother works as an elementary school teacher.",
+  "why": "{小学校|しょうがっこう}の goes before {先生|せんせい}, and として follows the noun."
+ },
+ {
+  "id": "sb3-029",
+  "level": 3,
+  "before": "この{店|みせ}が",
+  "after": "{電話|でんわ}で{聞|き}いてみます。",
+  "pieces": [
+   "{日曜日|にちようび}",
+   "{開|あ}いている",
+   "かどうか",
+   "も"
+  ],
+  "order": [
+   0,
+   3,
+   1,
+   2
+  ],
+  "star": 2,
+  "en": "I'll call and ask whether this store is open on Sundays too.",
+  "why": "も follows {日曜日|にちようび}, and かどうか follows the verb."
+ },
+ {
+  "id": "sb3-030",
+  "level": 3,
+  "before": "{今日|きょう}は",
+  "after": "です。",
+  "pieces": [
+   "ほど",
+   "ない",
+   "{昨日|きのう}",
+   "{寒|さむ}く"
+  ],
+  "order": [
+   2,
+   0,
+   3,
+   1
+  ],
+  "star": 1,
+  "en": "Today is not as cold as yesterday.",
+  "why": "The pattern is noun + ほど + negative adjective."
+ },
+ {
+  "id": "sb3-031",
+  "level": 3,
+  "before": "{家|いえ}を",
+  "after": "{降|ふ}り{出|だ}しました。",
+  "pieces": [
+   "{出|で}た",
+   "{雨|あめ}が",
+   "とたん",
+   "に"
+  ],
+  "order": [
+   0,
+   2,
+   3,
+   1
+  ],
+  "star": 3,
+  "en": "The moment I left home, it started to rain.",
+  "why": "とたんに follows the た-form, and {雨|あめ}が is the subject of {降|ふ}り{出|だ}した."
+ },
+ {
+  "id": "sb3-032",
+  "level": 3,
+  "before": "{買|か}い{物|もの}に",
+  "after": "を{借|か}りてきました。",
+  "pieces": [
+   "{行|い}った",
+   "{図書館|としょかん}で",
+   "{本|ほん}",
+   "ついでに"
+  ],
+  "order": [
+   0,
+   3,
+   1,
+   2
+  ],
+  "star": 0,
+  "en": "While I was out shopping, I also borrowed a book from the library.",
+  "why": "ついでに follows the verb, and {本|ほん} must come right before を."
+ },
+ {
+  "id": "sb3-033",
+  "level": 3,
+  "before": "{去年|きょねん}の{春|はる}に",
+  "after": "ました。",
+  "pieces": [
+   "はじめ",
+   "を",
+   "{習|なら}い",
+   "ギター"
+  ],
+  "order": [
+   3,
+   1,
+   2,
+   0
+  ],
+  "star": 2,
+  "en": "I started learning the guitar last spring.",
+  "why": "はじめる attaches to the ます-stem {習|なら}い."
+ },
+ {
+  "id": "sb3-034",
+  "level": 3,
+  "before": "{友|とも}だちに",
+  "after": "、すぐに{返|かえ}しました。",
+  "pieces": [
+   "{本|ほん}を",
+   "{借|か}りた",
+   "{読|よ}み",
+   "きって"
+  ],
+  "order": [
+   1,
+   0,
+   2,
+   3
+  ],
+  "star": 1,
+  "en": "I finished reading the book I borrowed from my friend and returned it right away.",
+  "why": "{借|か}りた modifies {本|ほん}, and きる attaches to the stem {読|よ}み."
+ },
+ {
+  "id": "sb3-035",
+  "level": 3,
+  "before": "{明日|あした}の",
+  "after": "っけ？",
+  "pieces": [
+   "{会議|かいぎ}は",
+   "だった",
+   "{何時|なんじ}",
+   "から"
+  ],
+  "order": [
+   0,
+   2,
+   3,
+   1
+  ],
+  "star": 2,
+  "en": "What time does tomorrow's meeting start again?",
+  "why": "{明日|あした}の needs a noun after it, and だった comes right before っけ."
+ },
+ {
+  "id": "sb3-036",
+  "level": 3,
+  "before": "ニュースによると、{来月|らいげつ}から",
+  "after": "ということです。",
+  "pieces": [
+   "{電車|でんしゃ}",
+   "の",
+   "{上|あ}がる",
+   "{料金|りょうきん}が"
+  ],
+  "order": [
+   0,
+   1,
+   3,
+   2
+  ],
+  "star": 3,
+  "en": "According to the news, train fares will go up from next month.",
+  "why": "{電車|でんしゃ}の goes before {料金|りょうきん}, and the verb comes before ということです."
+ },
+ {
+  "id": "sb3-037",
+  "level": 3,
+  "before": "この{薬|くすり}は",
+  "after": "ください。",
+  "pieces": [
+   "{飲|の}んで",
+   "に",
+   "おき",
+   "{六時間|ろくじかん}"
+  ],
+  "order": [
+   3,
+   2,
+   1,
+   0
+  ],
+  "star": 1,
+  "en": "Please take this medicine every six hours.",
+  "why": "おきに follows the time length, and ～てください ends it."
+ },
+ {
+  "id": "sb3-038",
+  "level": 3,
+  "before": "この{人|ひと}には",
+  "after": "がします。",
+  "pieces": [
+   "ような",
+   "{気|き}",
+   "{会|あ}った",
+   "{前|まえ}に"
+  ],
+  "order": [
+   3,
+   2,
+   0,
+   1
+  ],
+  "star": 2,
+  "en": "I feel like I have met this person before.",
+  "why": "The set pattern is ～ような{気|き}がする."
+ },
+ {
+  "id": "sb3-039",
+  "level": 3,
+  "before": "まだ{時間|じかん}があるから、",
+  "after": "ないよ。",
+  "pieces": [
+   "は",
+   "{急|いそ}ぐ",
+   "こと",
+   "そんなに"
+  ],
+  "order": [
+   3,
+   1,
+   2,
+   0
+  ],
+  "star": 2,
+  "en": "There's still time, so there's no need to hurry so much.",
+  "why": "The set pattern is verb + ことはない."
+ },
+ {
+  "id": "sb3-040",
+  "level": 3,
+  "before": "{約束|やくそく}は",
+  "after": "。",
+  "pieces": [
+   "{守|まも}る",
+   "だと",
+   "べき",
+   "{思|おも}います"
+  ],
+  "order": [
+   0,
+   2,
+   1,
+   3
+  ],
+  "star": 1,
+  "en": "I think promises should be kept.",
+  "why": "べき follows the plain verb, then だと{思|おも}います."
+ },
+ {
+  "id": "sb3-041",
+  "level": 3,
+  "before": "{明日|あした}から{夏休|なつやす}みなので、",
+  "after": "。",
+  "pieces": [
+   "{楽|たの}しみで",
+   "しかた",
+   "ありません",
+   "が"
+  ],
+  "order": [
+   0,
+   1,
+   3,
+   2
+  ],
+  "star": 0,
+  "en": "Summer vacation starts tomorrow, so I can't wait.",
+  "why": "The set pattern is ～てしかたがない."
+ },
+ {
+  "id": "sb3-042",
+  "level": 3,
+  "before": "この{店|みせ}の{料理|りょうり}は",
+  "after": "は、とてもおいしいです。",
+  "pieces": [
+   "{安|やす}い",
+   "に",
+   "わり",
+   "{値段|ねだん}が"
+  ],
+  "order": [
+   3,
+   0,
+   2,
+   1
+  ],
+  "star": 2,
+  "en": "The food at this restaurant is very good for such a low price.",
+  "why": "The pattern is ～わりには, after the adjective {安|やす}い."
+ },
+ {
+  "id": "sb3-043",
+  "level": 3,
+  "before": "{弟|おとうと}は{自分|じぶん}では",
+  "after": "{文句|もんく}ばかり{言|い}います。",
+  "pieces": [
+   "くせに",
+   "しない",
+   "も",
+   "{何|なに}"
+  ],
+  "order": [
+   3,
+   2,
+   1,
+   0
+  ],
+  "star": 3,
+  "en": "My brother complains all the time even though he does nothing himself.",
+  "why": "{何|なに}もしない is a set phrase, and くせに follows the verb."
+ },
+ {
+  "id": "sb3-044",
+  "level": 3,
+  "before": "{寝坊|ねぼう}して、もう{少|すこ}しで",
+  "after": "ところでした。",
+  "pieces": [
+   "{飛行機|ひこうき}",
+   "{乗|の}り",
+   "に",
+   "{遅|おく}れる"
+  ],
+  "order": [
+   0,
+   2,
+   1,
+   3
+  ],
+  "star": 1,
+  "en": "I overslept and almost missed my plane.",
+  "why": "{乗|の}り{遅|おそ}れる is one verb, and に marks the plane."
+ },
+ {
+  "id": "sb3-045",
+  "level": 3,
+  "before": "{毎日|まいにち}{練習|れんしゅう}して、",
+  "after": "なりました。",
+  "pieces": [
+   "よう",
+   "{漢字|かんじ}が",
+   "に",
+   "{読|よ}める"
+  ],
+  "order": [
+   1,
+   3,
+   0,
+   2
+  ],
+  "star": 2,
+  "en": "By practicing every day, I became able to read kanji.",
+  "why": "The pattern is potential verb + ようになる."
+ },
+ {
+  "id": "sb3-046",
+  "level": 3,
+  "before": "すみません、",
+  "after": "ませんか。",
+  "pieces": [
+   "この",
+   "もらえ",
+   "{荷物|にもつ}を",
+   "{持|も}って"
+  ],
+  "order": [
+   0,
+   2,
+   3,
+   1
+  ],
+  "star": 2,
+  "en": "Excuse me, could you carry this bag for me?",
+  "why": "この must come before {荷物|にもつ}, and ～てもらえませんか is the request form."
+ },
+ {
+  "id": "sb3-047",
+  "level": 3,
+  "before": "{高|たか}い",
+  "after": "。",
+  "pieces": [
+   "{限|かぎ}りません",
+   "{物|もの}が",
+   "いい{物|もの}",
+   "とは"
+  ],
+  "order": [
+   1,
+   2,
+   3,
+   0
+  ],
+  "star": 1,
+  "en": "Expensive things are not always good things.",
+  "why": "{高|たか}い needs a noun after it, and とは{限|かぎ}りません ends the sentence."
+ },
+ {
+  "id": "sb3-048",
+  "level": 3,
+  "before": "{兄|あに}は{母|はは}に{呼|よ}ばれても、",
+  "after": "していました。",
+  "pieces": [
+   "いる",
+   "を",
+   "ふり",
+   "{寝|ね}て"
+  ],
+  "order": [
+   3,
+   0,
+   2,
+   1
+  ],
+  "star": 0,
+  "en": "Even when my mother called him, my older brother pretended to be asleep.",
+  "why": "{寝|ね}ている is one form, then ふりをする."
+ },
+ {
+  "id": "sb3-049",
+  "level": 3,
+  "before": "お{金|かね}と",
+  "after": "、{世界中|せかいじゅう}を{旅行|りょこう}したいです。",
+  "pieces": [
+   "さえ",
+   "{時間|じかん}",
+   "ば",
+   "あれ"
+  ],
+  "order": [
+   1,
+   0,
+   3,
+   2
+  ],
+  "star": 1,
+  "en": "If I only had the money and time, I would travel all over the world.",
+  "why": "と links two nouns, and さえ comes before あれば."
+ },
+ {
+  "id": "sb3-050",
+  "level": 3,
+  "before": "{会議|かいぎ}の",
+  "after": "しまいました。",
+  "pieces": [
+   "{鳴|な}って",
+   "{携帯|けいたい}",
+   "{最中|さいちゅう}に",
+   "{電話|でんわ}が"
+  ],
+  "order": [
+   2,
+   1,
+   3,
+   0
+  ],
+  "star": 0,
+  "en": "My mobile phone rang right in the middle of the meeting.",
+  "why": "の needs {最中|さいちゅう} after it, and {携帯|けいたい} goes before {電話|でんわ}."
+ },
+ {
+  "id": "sb3-051",
+  "level": 3,
+  "before": "{電気|でんき}がついているから、{林|はやし}さんは",
+  "after": "ありません。",
+  "pieces": [
+   "{家|いえ}",
+   "に{違|ちが}い",
+   "いる",
+   "に"
+  ],
+  "order": [
+   0,
+   3,
+   2,
+   1
+  ],
+  "star": 3,
+  "en": "The light is on, so Ms. Hayashi must be at home.",
+  "why": "{家|いえ}に goes before いる, and に{違|ちが}いない follows the verb."
+ },
+ {
+  "id": "sb3-052",
+  "level": 3,
+  "before": "こんなに{混|こ}むなら、",
+  "after": "。",
+  "pieces": [
+   "ば",
+   "{来|く}れ",
+   "よかった",
+   "もっと{早|はや}く"
+  ],
+  "order": [
+   3,
+   1,
+   0,
+   2
+  ],
+  "star": 1,
+  "en": "If it was going to be this crowded, I should have come earlier.",
+  "why": "The pattern is ～ばよかった, with {来|く}れ before ば."
+ },
+ {
+  "id": "sb3-053",
+  "level": 3,
+  "before": "{忙|いそが}しいときは、",
+  "after": "があります。",
+  "pieces": [
+   "{食|た}べ",
+   "{昼|ひる}ごはんを",
+   "こと",
+   "ない"
+  ],
+  "order": [
+   1,
+   0,
+   3,
+   2
+  ],
+  "star": 2,
+  "en": "When I'm busy, I sometimes don't eat lunch.",
+  "why": "The negative verb comes before ことがある."
+ },
+ {
+  "id": "sb3-054",
+  "level": 3,
+  "before": "{母|はは}に",
+  "after": "と{言|い}われました。",
+  "pieces": [
+   "{部屋|へや}を",
+   "{片付|かたづ}けて",
+   "{自分|じぶん}の",
+   "ほしい"
+  ],
+  "order": [
+   2,
+   0,
+   1,
+   3
+  ],
+  "star": 3,
+  "en": "My mother told me she wants me to clean my room.",
+  "why": "{自分|じぶん}の goes before {部屋|へや}, and ほしい follows the て-form."
+ },
+ {
+  "id": "sb3-055",
+  "level": 3,
+  "before": "{体|からだ}の{調子|ちょうし}が{悪|わる}かったので、",
+  "after": "ました。",
+  "pieces": [
+   "を",
+   "{会社|かいしゃ}",
+   "もらい",
+   "{休|やす}ませて"
+  ],
+  "order": [
+   1,
+   0,
+   3,
+   2
+  ],
+  "star": 2,
+  "en": "I wasn't feeling well, so I was allowed to take the day off work.",
+  "why": "The pattern is causative て-form + もらう."
+ },
+ {
+  "id": "sb3-056",
+  "level": 3,
+  "before": "{家|いえ}を",
+  "after": "、{友|とも}だちから{電話|でんわ}が{来|き}ました。",
+  "pieces": [
+   "した",
+   "{出|で}よう",
+   "と",
+   "ときに"
+  ],
+  "order": [
+   1,
+   2,
+   0,
+   3
+  ],
+  "star": 1,
+  "en": "Just as I was about to leave home, a call came from a friend.",
+  "why": "The pattern is volitional + とする, then ときに."
+ },
+ {
+  "id": "sb3-057",
+  "level": 3,
+  "before": "{疲|つか}れたら、",
+  "after": "かまいませんよ。",
+  "pieces": [
+   "に",
+   "{帰|かえ}って",
+   "も",
+   "{先|さき}"
+  ],
+  "order": [
+   3,
+   0,
+   1,
+   2
+  ],
+  "star": 2,
+  "en": "If you get tired, it's fine to go home first.",
+  "why": "{先|さき}に is one phrase, and ～てもかまわない is a set pattern."
+ },
+ {
+  "id": "sb3-058",
+  "level": 3,
+  "before": "{彼女|かのじょ}は",
+  "after": "{話|はな}せます。",
+  "pieces": [
+   "ばかり",
+   "{英語|えいご}",
+   "{中国語|ちゅうごくご}も",
+   "でなく"
+  ],
+  "order": [
+   1,
+   0,
+   3,
+   2
+  ],
+  "star": 1,
+  "en": "She can speak not only English but also Chinese.",
+  "why": "The pattern is A ばかりでなく B も."
+ },
+ {
+  "id": "sb3-059",
+  "level": 3,
+  "before": "{忙|いそが}しくて、",
+  "after": "ありませんでした。",
+  "pieces": [
+   "さえ",
+   "{水|みず}を",
+   "{飲|の}む",
+   "{時間|じかん}"
+  ],
+  "order": [
+   1,
+   2,
+   3,
+   0
+  ],
+  "star": 3,
+  "en": "I was so busy I didn't even have time to drink water.",
+  "why": "{水|みず}を{飲|の}む modifies {時間|じかん}, and さえ follows the noun."
+ },
+ {
+  "id": "sb3-060",
+  "level": 3,
+  "before": "このレポートは",
+  "after": "ください。",
+  "pieces": [
+   "{金曜日|きんようび}",
+   "{来週|らいしゅう}の",
+   "{出|だ}して",
+   "までに"
+  ],
+  "order": [
+   1,
+   0,
+   3,
+   2
+  ],
+  "star": 0,
+  "en": "Please hand in this report by next Friday.",
+  "why": "{来週|らいしゅう}の goes before {金曜日|きんようび}, and までに follows the date."
+ },
+ {
+  "id": "sb3-061",
+  "level": 3,
+  "before": "{一生懸命|いっしょうけんめい}{勉強|べんきょう}した",
+  "after": "。",
+  "pieces": [
+   "のに",
+   "{落|お}ちて",
+   "{試験|しけん}に",
+   "しまいました"
+  ],
+  "order": [
+   0,
+   2,
+   1,
+   3
+  ],
+  "star": 1,
+  "en": "Even though I studied very hard, I failed the exam.",
+  "why": "のに follows the verb, and ～てしまいました ends the sentence."
+ },
+ {
+  "id": "sb3-062",
+  "level": 3,
+  "before": "{医者|いしゃ}に",
+  "after": "{言|い}われました。",
+  "pieces": [
+   "お{酒|さけ}を",
+   "ように",
+   "{飲|の}まない",
+   "と"
+  ],
+  "order": [
+   0,
+   2,
+   1,
+   3
+  ],
+  "star": 2,
+  "en": "The doctor told me not to drink alcohol.",
+  "why": "The pattern is ～ないようにと{言|い}われる."
+ },
+ {
+  "id": "sb3-063",
+  "level": 3,
+  "before": "{寝|ね}る{前|まえ}に",
+  "after": "にしています。",
+  "pieces": [
+   "スマホ",
+   "こと",
+   "を",
+   "{見|み}ない"
+  ],
+  "order": [
+   0,
+   2,
+   3,
+   1
+  ],
+  "star": 1,
+  "en": "I make it a rule not to look at my phone before bed.",
+  "why": "The negative verb comes before ことにしている."
+ },
+ {
+  "id": "sb3-064",
+  "level": 3,
+  "before": "{外|そと}が{暗|くら}くなってきました。",
+  "after": "です。",
+  "pieces": [
+   "{出|だ}した",
+   "よう",
+   "{降|ふ}り",
+   "{雨|あめ}が"
+  ],
+  "order": [
+   3,
+   2,
+   0,
+   1
+  ],
+  "star": 3,
+  "en": "It's getting dark outside. It seems it has started to rain.",
+  "why": "{降|ふ}り{出|だ}した is one verb, and ようです follows it."
+ },
+ {
+  "id": "sb3-065",
+  "level": 3,
+  "before": "{田中|たなか}さんの{話|はなし}では、",
+  "after": "そうです。",
+  "pieces": [
+   "{結婚|けっこん}",
+   "する",
+   "{山田|やまだ}さん",
+   "が"
+  ],
+  "order": [
+   2,
+   3,
+   0,
+   1
+  ],
+  "star": 2,
+  "en": "According to Mr. Tanaka, Ms. Yamada is getting married.",
+  "why": "が marks the subject, and the plain verb comes before そうです."
+ },
+ {
+  "id": "sb3-066",
+  "level": 3,
+  "before": "{私|わたし}も",
+  "after": "なりたいです。",
+  "pieces": [
+   "みたいな",
+   "{田中|たなか}さん",
+   "{人|ひと}",
+   "に"
+  ],
+  "order": [
+   1,
+   0,
+   2,
+   3
+  ],
+  "star": 1,
+  "en": "I want to become a person like Mr. Tanaka too.",
+  "why": "みたいな needs a noun after it, and に comes before なりたい."
+ },
+ {
+  "id": "sb3-067",
+  "level": 3,
+  "before": "この{服|ふく}は",
+  "after": "{言|い}われます。",
+  "pieces": [
+   "と",
+   "{子|こ}ども",
+   "っぽい",
+   "ちょっと"
+  ],
+  "order": [
+   3,
+   1,
+   2,
+   0
+  ],
+  "star": 2,
+  "en": "People say these clothes look a bit childish.",
+  "why": "っぽい attaches to {子|こ}ども, and と comes before {言|い}われます."
+ },
+ {
+  "id": "sb3-068",
+  "level": 3,
+  "before": "{台風|たいふう}の",
+  "after": "になりました。",
+  "pieces": [
+   "ために",
+   "{明日|あした}の",
+   "{中止|ちゅうし}",
+   "{試合|しあい}は"
+  ],
+  "order": [
+   0,
+   1,
+   3,
+   2
+  ],
+  "star": 3,
+  "en": "Because of the typhoon, tomorrow's game was canceled.",
+  "why": "ために follows の, {明日|あした}の goes before {試合|しあい}, and {中止|ちゅうし} comes before になる."
+ },
+ {
+  "id": "sb3-069",
+  "level": 3,
+  "before": "{駅|えき}まで",
+  "after": "いいですか。",
+  "pieces": [
+   "{乗|の}れ",
+   "ば",
+   "どの",
+   "バスに"
+  ],
+  "order": [
+   2,
+   3,
+   0,
+   1
+  ],
+  "star": 2,
+  "en": "Which bus should I take to get to the station?",
+  "why": "どの must come before バス, and ～ばいい is the pattern."
+ },
+ {
+  "id": "sb3-070",
+  "level": 3,
+  "before": "この{寮|りょう}では、{夜|よる}",
+  "after": "になっています。",
+  "pieces": [
+   "までに",
+   "{帰|かえ}る",
+   "こと",
+   "{十時|じゅうじ}"
+  ],
+  "order": [
+   3,
+   0,
+   1,
+   2
+  ],
+  "star": 1,
+  "en": "In this dormitory, you have to be back by 10 p.m.",
+  "why": "までに follows the time, and the verb comes before ことになっている."
+ },
+ {
+  "id": "sb3-071",
+  "level": 3,
+  "before": "{子|こ}どもは",
+  "after": "ものです。",
+  "pieces": [
+   "まねを",
+   "たがる",
+   "し",
+   "{大人|おとな}の"
+  ],
+  "order": [
+   3,
+   0,
+   2,
+   1
+  ],
+  "star": 2,
+  "en": "Children tend to want to copy adults.",
+  "why": "{大人|おとな}の goes before まね, and たがる attaches to the stem し."
+ },
+ {
+  "id": "sb3-072",
+  "level": 3,
+  "before": "お{客|きゃく}さんが{来|く}る{前|まえ}に、",
+  "after": "ます。",
+  "pieces": [
+   "を",
+   "{部屋|へや}",
+   "{掃除|そうじ}して",
+   "おき"
+  ],
+  "order": [
+   1,
+   0,
+   2,
+   3
+  ],
+  "star": 3,
+  "en": "I will clean the room before the guests come.",
+  "why": "The pattern is ～ておく, with the object and を first."
+ },
+ {
+  "id": "sb3-073",
+  "level": 3,
+  "before": "{窓|まど}を",
+  "after": "しまいました。",
+  "pieces": [
+   "で",
+   "{寝|ね}て",
+   "まま",
+   "{開|あ}けた"
+  ],
+  "order": [
+   3,
+   2,
+   0,
+   1
+  ],
+  "star": 1,
+  "en": "I fell asleep with the window open.",
+  "why": "The pattern is た-form + ままで, then the next verb."
+ },
+ {
+  "id": "sb3-074",
+  "level": 3,
+  "before": "{十年|じゅうねん}も{日本|にほん}に{住|す}んでいたなら、",
+  "after": "わけです。",
+  "pieces": [
+   "{日本語|にほんご}",
+   "な",
+   "{上手|じょうず}",
+   "が"
+  ],
+  "order": [
+   0,
+   3,
+   2,
+   1
+  ],
+  "star": 0,
+  "en": "If he lived in Japan for ten years, no wonder his Japanese is good.",
+  "why": "The な-adjective takes な before わけです."
+ },
+ {
+  "id": "sb3-075",
+  "level": 3,
+  "before": "{雨|あめ}の{中|なか}で{遊|あそ}んだので、",
+  "after": "になりました。",
+  "pieces": [
+   "だらけ",
+   "{子|こ}どもたちの",
+   "どろ",
+   "{服|ふく}は"
+  ],
+  "order": [
+   1,
+   3,
+   2,
+   0
+  ],
+  "star": 2,
+  "en": "They played in the rain, so the children's clothes got covered in mud.",
+  "why": "{子|こ}どもたちの goes before {服|ふく}, and だらけ attaches to どろ."
+ },
+ {
+  "id": "sb3-076",
+  "level": 3,
+  "before": "すし",
+  "after": "が{好|す}きです。",
+  "pieces": [
+   "てんぷらの",
+   "ような",
+   "や",
+   "{日本料理|にほんりょうり}"
+  ],
+  "order": [
+   2,
+   0,
+   1,
+   3
+  ],
+  "star": 2,
+  "en": "I like Japanese food such as sushi and tempura.",
+  "why": "や links すし to the next noun, and ような comes before the noun it describes."
+ },
+ {
+  "id": "sb3-077",
+  "level": 3,
+  "before": "このお{城|しろ}は",
+  "after": "と{言|い}われています。",
+  "pieces": [
+   "{建|た}てられた",
+   "{王様|おうさま}に",
+   "{昔|むかし}の",
+   "よって"
+  ],
+  "order": [
+   2,
+   1,
+   3,
+   0
+  ],
+  "star": 1,
+  "en": "This castle is said to have been built by a king long ago.",
+  "why": "{昔|むかし}の goes before {王様|おうさま}, and によって comes before the passive verb."
+ },
+ {
+  "id": "sb3-078",
+  "level": 3,
+  "before": "{一度|いちど}",
+  "after": "と{思|おも}っています。",
+  "pieces": [
+   "{登|のぼ}って",
+   "に",
+   "{富士山|ふじさん}",
+   "みたい"
+  ],
+  "order": [
+   2,
+   1,
+   0,
+   3
+  ],
+  "star": 3,
+  "en": "I'd like to climb Mt. Fuji once.",
+  "why": "The pattern is ～てみたい, with に marking the mountain."
+ },
+ {
+  "id": "sb3-079",
+  "level": 3,
+  "before": "いくら",
+  "after": "ません。",
+  "pieces": [
+   "わかり",
+   "{答|こた}えが",
+   "{考|かんが}えて",
+   "も"
+  ],
+  "order": [
+   2,
+   3,
+   1,
+   0
+  ],
+  "star": 2,
+  "en": "No matter how much I think, I can't figure out the answer.",
+  "why": "The pattern is いくら～ても, and the subject {答|こた}えが comes before わかりません."
+ },
+ {
+  "id": "sb3-080",
+  "level": 3,
+  "before": "{言|い}って",
+  "after": "のに。",
+  "pieces": [
+   "ば",
+   "{手伝|てつだ}って",
+   "あげた",
+   "くれれ"
+  ],
+  "order": [
+   3,
+   0,
+   1,
+   2
+  ],
+  "star": 3,
+  "en": "If you had told me, I would have helped you.",
+  "why": "The pattern is ～てくれれば～てあげたのに."
+ }
+]

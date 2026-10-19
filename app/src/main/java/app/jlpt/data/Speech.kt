@@ -19,7 +19,7 @@ class Speech(context: Context, private val prefs: Prefs) {
     enum class Status { STARTING, READY, NO_JAPANESE, NONE }
 
     /** What is playing now: [key] names the audio, [index] is the part reached out of [total]. */
-    data class Playing(val key: String, val index: Int, val total: Int, val playing: Boolean)
+    data class Playing(val key: String, val index: Int, val total: Int, val playing: Boolean, val done: Boolean = false)
 
     private val _status = MutableStateFlow(Status.STARTING)
     val status: StateFlow<Status> get() = _status
@@ -35,6 +35,10 @@ class Speech(context: Context, private val prefs: Prefs) {
     private var jaVoices: List<String> = emptyList()
     private var defaultVoice: String? = null
     private var parts: List<Pair<String, String>> = emptyList()
+    private var gap = 450L
+
+    /** The parts now loaded, to show the one being said. */
+    fun partAt(index: Int): Pair<String, String>? = parts.getOrNull(index)
 
     private fun useVoice(index: Int?) {
         val t = tts ?: return
@@ -81,7 +85,7 @@ class Speech(context: Context, private val prefs: Prefs) {
                         val n = _now.value
                         // The last part finished: the next play starts from the beginning.
                         if (n != null && n.key == key && index == n.total - 1) {
-                            _now.value = n.copy(index = 0, playing = false)
+                            _now.value = n.copy(index = 0, playing = false, done = true)
                             _speaking.value = false
                         }
                     }
@@ -113,11 +117,12 @@ class Speech(context: Context, private val prefs: Prefs) {
      * Plays [list] of (speaker, text) parts from part [from]: M lower voice, F higher, anything
      * else the narrator, with a short pause between parts. [key] names it for pause and resume.
      */
-    fun play(key: String, list: List<Pair<String, String>>, from: Int = 0) {
+    fun play(key: String, list: List<Pair<String, String>>, from: Int = 0, gapMs: Long = 450) {
         val t = tts ?: return
         if (!ready || list.isEmpty()) return
         t.stop()
         parts = list
+        gap = gapMs
         val start = from.coerceIn(0, list.lastIndex)
         _now.value = Playing(key, start, list.size, true)
         t.setSpeechRate(rate())
@@ -126,8 +131,15 @@ class Speech(context: Context, private val prefs: Prefs) {
             useVoice(when (speaker) { "M" -> 1; "F" -> 0; else -> null })
             t.setPitch(when (speaker) { "M" -> 0.85f; "F" -> 1.2f; else -> 1.0f })
             t.speak(Furigana.plain(text), if (i == start) TextToSpeech.QUEUE_FLUSH else TextToSpeech.QUEUE_ADD, Bundle(), "part|$key|$i")
-            if (i != list.lastIndex) t.playSilentUtterance(450, TextToSpeech.QUEUE_ADD, "gap${counter++}")
+            if (i != list.lastIndex) t.playSilentUtterance(gapMs, TextToSpeech.QUEUE_ADD, "gap${counter++}")
         }
+    }
+
+    /** Jumps forward or back by [by] parts and keeps playing. */
+    fun skip(by: Int) {
+        val n = _now.value ?: return
+        if (parts.isEmpty()) return
+        play(n.key, parts, (n.index + by).coerceIn(0, parts.lastIndex), gap)
     }
 
     /** Stops for now; [resume] carries on from the part it was saying. */
@@ -140,7 +152,7 @@ class Speech(context: Context, private val prefs: Prefs) {
 
     fun resume(key: String) {
         val n = _now.value
-        if (n != null && n.key == key && parts.isNotEmpty()) play(key, parts, n.index)
+        if (n != null && n.key == key && parts.isNotEmpty()) play(key, parts, n.index, gap)
     }
 
     /** Older name: plays a whole dialogue from the start. */

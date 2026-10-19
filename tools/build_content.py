@@ -114,6 +114,11 @@ for f in sorted(glob.glob(os.path.join(WR, 'stories_*.json'))):
     stories += json.load(open(f, encoding='utf-8'))
 stories.sort(key=lambda x: (-x['level'], x['id']))
 dump('stories.json', stories)
+sentences = []
+for f in sorted(glob.glob(os.path.join(WR, 'sentences_*.json'))):
+    sentences += json.load(open(f, encoding='utf-8'))
+sentences.sort(key=lambda x: (-x['level'], x['id']))
+dump('sentences.json', sentences)
 dump('katakana.json', load('katakana.json'))
 
 print('words', len(vocab), 'with examples', sum(1 for v in vocab if v[5]), 'kanji', len(kanji))

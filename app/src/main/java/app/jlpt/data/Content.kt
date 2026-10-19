@@ -49,6 +49,15 @@ data class Story(
     val length: Int get() = paragraphs.sumOf { Furigana.plain(it.jp).length }
 }
 
+/** A JLPT ★ question: four pieces go in the blanks between [before] and [after]. */
+data class StarQ(
+    val id: String, val level: Int, val before: String, val after: String,
+    val pieces: List<String>, val order: List<Int>, val star: Int, val en: String, val why: String,
+) {
+    val answer: Int get() = order[star]
+    val full: String get() = before + order.joinToString("") { pieces[it] } + after
+}
+
 data class KataWord(val id: String, val jp: String, val en: String, val from: String)
 
 /** Everything to study, read once from the files inside the app. */
@@ -151,6 +160,19 @@ class Content(private val context: Context) {
         if (text.length == 1) kanjiByChar[text]?.let { return "Kanji: ${it.meanings.joinToString(", ")}" }
         val parts = text.mapNotNull { kanjiByChar[it.toString()]?.meanings?.firstOrNull()?.let { m -> "$it $m" } }
         return if (parts.isEmpty()) null else parts.joinToString(" · ")
+    }
+
+    val sentences: List<StarQ> by lazy {
+        runCatching {
+            array("sentences.json").objects().map { o ->
+                val order = o.getJSONArray("order")
+                StarQ(
+                    o.str("id"), o.getInt("level"), o.str("before"), o.str("after"),
+                    o.getJSONArray("pieces").strings(), (0 until order.length()).map { order.getInt(it) },
+                    o.getInt("star"), o.str("en"), o.str("why"),
+                )
+            }
+        }.getOrDefault(emptyList())
     }
 
     val kataWords: List<KataWord> by lazy {

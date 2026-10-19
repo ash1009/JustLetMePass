@@ -143,6 +143,25 @@ class Study(private val content: Content, private val dao: StudyDao, private val
      * A round of about 15 minutes: reviews that are due, plus a few new things, each new one
      * shown first and asked a little later.
      */
+    /** Things you get wrong most: the most mistakes for how often you get them right. */
+    fun weakIds(n: Int = 20, skip: Set<String> = emptySet()): List<String> =
+        _states.value.values
+            .filter { it.stage > 0 && it.wrong > 0 && it.id !in skip }
+            .sortedWith(compareByDescending<ItemState> { it.wrong.toDouble() / (it.right + 1) }.thenByDescending { it.lastSeen })
+            .take(n)
+            .map { it.id }
+
+    fun weakCount(): Int = _states.value.values.count { it.stage > 0 && it.wrong > 0 }
+
+    /** A round of only weak spots, hardest first, mixed a little so it does not feel the same each time. */
+    suspend fun buildWeakRound(skip: Set<String> = emptySet()): List<Step> {
+        load()
+        return weakIds(20, skip).shuffled().map { Step.Ask(it) }
+    }
+
+    /** Everything you have started, for the speed round. */
+    fun startedIds(): List<String> = _states.value.values.filter { it.stage > 0 }.map { it.id }
+
     suspend fun buildRound(extraNew: Int = 0): List<Step> {
         load()
         val due = dueIds().take(40)

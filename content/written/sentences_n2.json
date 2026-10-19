@@ -1,0 +1,1052 @@
+[
+ {
+  "id": "sb2-001",
+  "level": 2,
+  "before": "{彼|かれ}は{熱|ねつ}が",
+  "after": "した。",
+  "pieces": [
+   "にも",
+   "{出勤|しゅっきん}",
+   "かかわらず",
+   "ある"
+  ],
+  "order": [
+   3,
+   0,
+   2,
+   1
+  ],
+  "star": 2,
+  "en": "He came to work even though he had a fever.",
+  "why": "にもかかわらず follows the plain verb ある, and {出勤|しゅっきん} goes right before した."
+ },
+ {
+  "id": "sb2-002",
+  "level": 2,
+  "before": "{明日|あした}は{大事|だいじ}な{会議|かいぎ}があるので、",
+  "after": "。",
+  "pieces": [
+   "{休|やす}む",
+   "わけ",
+   "いかない",
+   "には"
+  ],
+  "order": [
+   0,
+   1,
+   3,
+   2
+  ],
+  "star": 1,
+  "en": "I have an important meeting tomorrow, so I can't take the day off.",
+  "why": "The set pattern is verb + わけにはいかない."
+ },
+ {
+  "id": "sb2-003",
+  "level": 2,
+  "before": "{上司|じょうし}に{頼|たの}まれたら、",
+  "after": "だろう。",
+  "pieces": [
+   "ざる",
+   "{引|ひ}き{受|う}け",
+   "{得|え}ない",
+   "を"
+  ],
+  "order": [
+   1,
+   0,
+   3,
+   2
+  ],
+  "star": 1,
+  "en": "If my boss asks me, I will have no choice but to accept.",
+  "why": "The pattern is verb stem (ない-form) + ざるを{得|え}ない."
+ },
+ {
+  "id": "sb2-004",
+  "level": 2,
+  "before": "{部屋|へや}の{電気|でんき}がついているから、{彼|かれ}はもう",
+  "after": "。",
+  "pieces": [
+   "{帰|かえ}って",
+   "に",
+   "きた",
+   "{違|ちが}いない"
+  ],
+  "order": [
+   0,
+   2,
+   1,
+   3
+  ],
+  "star": 3,
+  "en": "The light in his room is on, so he must have already come home.",
+  "why": "{帰|かえ}ってきた is one verb, then に{違|ちが}いない closes it."
+ },
+ {
+  "id": "sb2-005",
+  "level": 2,
+  "before": "{私|わたし}は",
+  "after": "{日本語|にほんご}を{勉強|べんきょう}し{始|はじ}めた。",
+  "pieces": [
+   "を",
+   "{日本|にほん}の",
+   "アニメ",
+   "きっかけに"
+  ],
+  "order": [
+   1,
+   2,
+   0,
+   3
+  ],
+  "star": 1,
+  "en": "Japanese anime got me started studying Japanese.",
+  "why": "{日本|にほん}の modifies アニメ, and the pattern is noun + をきっかけに."
+ },
+ {
+  "id": "sb2-006",
+  "level": 2,
+  "before": "{作業|さぎょう}は",
+  "after": "{進|すす}めてください。",
+  "pieces": [
+   "に{沿|そ}って",
+   "{決|き}めた",
+   "{先週|せんしゅう}",
+   "{計画|けいかく}"
+  ],
+  "order": [
+   2,
+   1,
+   3,
+   0
+  ],
+  "star": 2,
+  "en": "Please carry out the work according to the plan we decided last week.",
+  "why": "{先週|せんしゅう}{決|き}めた modifies {計画|けいかく}, and に{沿|そ}って follows the noun."
+ },
+ {
+  "id": "sb2-007",
+  "level": 2,
+  "before": "{彼女|かのじょ}は{英語|えいご}",
+  "after": "そうだ。",
+  "pieces": [
+   "ばかりか",
+   "{話|はな}せる",
+   "フランス{語|ご}",
+   "も"
+  ],
+  "order": [
+   0,
+   2,
+   3,
+   1
+  ],
+  "star": 2,
+  "en": "I hear she can speak not only English but French too.",
+  "why": "ばかりか attaches to {英語|えいご}, then the second item takes も before the verb."
+ },
+ {
+  "id": "sb2-008",
+  "level": 2,
+  "before": "{貯金|ちょきん}する",
+  "after": "しまった。",
+  "pieces": [
+   "が",
+   "{増|ふ}えて",
+   "どころか",
+   "{借金|しゃっきん}"
+  ],
+  "order": [
+   2,
+   3,
+   0,
+   1
+  ],
+  "star": 1,
+  "en": "Far from saving money, my debt went up.",
+  "why": "どころか follows the verb, then a subject with が and the て-form before しまった."
+ },
+ {
+  "id": "sb2-009",
+  "level": 2,
+  "before": "{車|くるま}の{免許|めんきょ}は",
+  "after": "していない。",
+  "pieces": [
+   "{運転|うんてん}",
+   "{一度|いちど}も",
+   "{取|と}った",
+   "ものの"
+  ],
+  "order": [
+   2,
+   3,
+   1,
+   0
+  ],
+  "star": 0,
+  "en": "I got my driving license, but I have never driven even once.",
+  "why": "ものの follows {取|と}った, and {一度|いちど}も needs the negative verb {運転|うんてん}していない."
+ },
+ {
+  "id": "sb2-010",
+  "level": 2,
+  "before": "このまま{無理|むり}を",
+  "after": "よ。",
+  "pieces": [
+   "かねない",
+   "{体|からだ}を",
+   "{壊|こわ}し",
+   "{続|つづ}けると"
+  ],
+  "order": [
+   3,
+   1,
+   2,
+   0
+  ],
+  "star": 2,
+  "en": "If you keep pushing yourself like this, you could ruin your health.",
+  "why": "{無理|むり}を needs a verb ({続|つづ}ける), and かねない follows the stem {壊|こわ}し."
+ },
+ {
+  "id": "sb2-011",
+  "level": 2,
+  "before": "{申|もう}し{訳|わけ}ありませんが、その",
+  "after": "。",
+  "pieces": [
+   "お{答|こた}え",
+   "には",
+   "しかねます",
+   "ご{質問|しつもん}"
+  ],
+  "order": [
+   3,
+   1,
+   0,
+   2
+  ],
+  "star": 3,
+  "en": "I'm sorry, but I'm unable to answer that question.",
+  "why": "その modifies ご{質問|しつもん}, には marks it, and お{答|こた}えしかねます is the polite refusal."
+ },
+ {
+  "id": "sb2-012",
+  "level": 2,
+  "before": "この{会社|かいしゃ}では、{社員|しゃいん}は{毎朝|まいあさ}",
+  "after": "なっている。",
+  "pieces": [
+   "{九時|くじ}",
+   "{出社|しゅっしゃ}する",
+   "ことに",
+   "までに"
+  ],
+  "order": [
+   0,
+   3,
+   1,
+   2
+  ],
+  "star": 1,
+  "en": "At this company, staff are supposed to arrive by nine every morning.",
+  "why": "までに follows the time, and ことになっている follows the plain verb."
+ },
+ {
+  "id": "sb2-013",
+  "level": 2,
+  "before": "この{店|みせ}は",
+  "after": "{客|きゃく}でいっぱいだ。",
+  "pieces": [
+   "に{限|かぎ}らず",
+   "{週末|しゅうまつ}",
+   "{平日|へいじつ}",
+   "も"
+  ],
+  "order": [
+   1,
+   0,
+   2,
+   3
+  ],
+  "star": 2,
+  "en": "This shop is full of customers not only on weekends but on weekdays too.",
+  "why": "に{限|かぎ}らず follows the first noun, and も marks the second one."
+ },
+ {
+  "id": "sb2-014",
+  "level": 2,
+  "before": "{京都|きょうと}には",
+  "after": "お{寺|てら}がたくさんある。",
+  "pieces": [
+   "{有名|ゆうめい}な",
+   "を",
+   "はじめ",
+   "{金閣寺|きんかくじ}"
+  ],
+  "order": [
+   3,
+   1,
+   2,
+   0
+  ],
+  "star": 3,
+  "en": "Kyoto has many famous temples, starting with Kinkaku-ji.",
+  "why": "The pattern is noun + をはじめ, and {有名|ゆうめい}な must sit right before お{寺|てら}."
+ },
+ {
+  "id": "sb2-015",
+  "level": 2,
+  "before": "{年|とし}を",
+  "after": "{目|め}が{覚|さ}めるようになった。",
+  "pieces": [
+   "{朝|あさ}",
+   "{早|はや}く",
+   "{取|と}る",
+   "につれて"
+  ],
+  "order": [
+   2,
+   3,
+   0,
+   1
+  ],
+  "star": 0,
+  "en": "As I get older, I have started waking up early in the morning.",
+  "why": "{年|とし}を needs {取|と}る, につれて follows it, and {朝|あさ}{早|はや}く is a fixed phrase."
+ },
+ {
+  "id": "sb2-016",
+  "level": 2,
+  "before": "{人口|じんこう}の",
+  "after": "{不足|ふそく}してきた。",
+  "pieces": [
+   "{増加|ぞうか}",
+   "{住宅|じゅうたく}",
+   "が",
+   "に{伴|ともな}って"
+  ],
+  "order": [
+   0,
+   3,
+   1,
+   2
+  ],
+  "star": 1,
+  "en": "Along with the population increase, housing has become scarce.",
+  "why": "{人口|じんこう}の modifies {増加|ぞうか}, に{伴|ともな}って follows it, and が marks the new subject."
+ },
+ {
+  "id": "sb2-017",
+  "level": 2,
+  "before": "{契約書|けいやくしょ}を",
+  "after": "してください。",
+  "pieces": [
+   "よく",
+   "{上|うえ}で",
+   "サイン",
+   "{読|よ}んだ"
+  ],
+  "order": [
+   0,
+   3,
+   1,
+   2
+  ],
+  "star": 2,
+  "en": "Please sign after reading the contract carefully.",
+  "why": "よく modifies {読|よ}んだ, {上|うえ}で follows the た-form, and サイン goes before して."
+ },
+ {
+  "id": "sb2-018",
+  "level": 2,
+  "before": "{詳|くわ}しいことが",
+  "after": "いたします。",
+  "pieces": [
+   "{次第|しだい}",
+   "ご{連絡|れんらく}",
+   "{分|わ}かり",
+   "すぐに"
+  ],
+  "order": [
+   2,
+   0,
+   3,
+   1
+  ],
+  "star": 1,
+  "en": "We will contact you as soon as we know the details.",
+  "why": "{次第|しだい} follows the verb stem {分|わ}かり, and ご{連絡|れんらく} goes right before いたします."
+ },
+ {
+  "id": "sb2-019",
+  "level": 2,
+  "before": "{若|わか}い",
+  "after": "みたい。",
+  "pieces": [
+   "{行|い}って",
+   "{国|くに}へ",
+   "いろいろな",
+   "うちに"
+  ],
+  "order": [
+   3,
+   2,
+   1,
+   0
+  ],
+  "star": 2,
+  "en": "I want to go to many countries while I'm young.",
+  "why": "うちに follows {若|わか}い, いろいろな modifies {国|くに}, and {行|い}って comes before みたい."
+ },
+ {
+  "id": "sb2-020",
+  "level": 2,
+  "before": "{実際|じっさい}に",
+  "after": "{分|わ}からない。",
+  "pieces": [
+   "{話|はな}さない",
+   "ことには",
+   "どんな{人|ひと}か",
+   "{会|あ}って"
+  ],
+  "order": [
+   3,
+   0,
+   1,
+   2
+  ],
+  "star": 2,
+  "en": "You can't tell what kind of person someone is without actually meeting and talking to them.",
+  "why": "ないことには follows the negative verb, and the question どんな{人|ひと}か goes before {分|わ}からない."
+ },
+ {
+  "id": "sb2-021",
+  "level": 2,
+  "before": "{高|たか}い",
+  "after": "とは{限|かぎ}らない。",
+  "pieces": [
+   "といって",
+   "{品質|ひんしつ}が",
+   "から",
+   "いい"
+  ],
+  "order": [
+   2,
+   0,
+   1,
+   3
+  ],
+  "star": 3,
+  "en": "Just because something is expensive doesn't mean the quality is good.",
+  "why": "からといって follows {高|たか}い, and the clause {品質|ひんしつ}がいい comes before とは{限|かぎ}らない."
+ },
+ {
+  "id": "sb2-022",
+  "level": 2,
+  "before": "{料理|りょうり}が",
+  "after": "が、{時間|じかん}がなくてできない。",
+  "pieces": [
+   "では",
+   "{嫌|きら}いな",
+   "わけ",
+   "ない"
+  ],
+  "order": [
+   1,
+   2,
+   0,
+   3
+  ],
+  "star": 1,
+  "en": "It's not that I dislike cooking, but I have no time to do it.",
+  "why": "The pattern is {嫌|きら}いな + わけではない."
+ },
+ {
+  "id": "sb2-023",
+  "level": 2,
+  "before": "その{映画|えいが}の{最後|さいご}を{見|み}て、",
+  "after": "。",
+  "pieces": [
+   "{泣|な}か",
+   "には",
+   "ず",
+   "いられなかった"
+  ],
+  "order": [
+   0,
+   2,
+   1,
+   3
+  ],
+  "star": 2,
+  "en": "Watching the end of that movie, I couldn't help crying.",
+  "why": "The pattern is ない-stem {泣|な}か + ずにはいられない."
+ },
+ {
+  "id": "sb2-024",
+  "level": 2,
+  "before": "{住所|じゅうしょ}も{電話番号|でんわばんごう}も{分|わ}からないので、",
+  "after": "。",
+  "pieces": [
+   "{彼|かれ}に",
+   "し",
+   "{連絡|れんらく}",
+   "ようがない"
+  ],
+  "order": [
+   0,
+   2,
+   1,
+   3
+  ],
+  "star": 1,
+  "en": "I don't know his address or phone number, so there's no way to contact him.",
+  "why": "ようがない follows the verb stem し of {連絡|れんらく}する."
+ },
+ {
+  "id": "sb2-025",
+  "level": 2,
+  "before": "{戻|もど}れる",
+  "after": "{戻|もど}りたい。",
+  "pieces": [
+   "なら",
+   "もの",
+   "{学生|がくせい}",
+   "{時代|じだい}に"
+  ],
+  "order": [
+   1,
+   0,
+   2,
+   3
+  ],
+  "star": 3,
+  "en": "If I could go back, I would go back to my student days.",
+  "why": "ものなら follows the potential verb, and {学生|がくせい}{時代|じだい}に is the place to return to."
+ },
+ {
+  "id": "sb2-026",
+  "level": 2,
+  "before": "{昨日|きのう}あまり{寝|ね}ていないので、",
+  "after": "。",
+  "pieces": [
+   "{今日|きょう}は",
+   "しょうがない",
+   "{眠|ねむ}く",
+   "て"
+  ],
+  "order": [
+   0,
+   2,
+   3,
+   1
+  ],
+  "star": 0,
+  "en": "I didn't sleep much yesterday, so I'm terribly sleepy today.",
+  "why": "The pattern is adjective て-form {眠|ねむ}くて + しょうがない."
+ },
+ {
+  "id": "sb2-027",
+  "level": 2,
+  "before": "この",
+  "after": "{手|て}を{挙|あ}げてください。",
+  "pieces": [
+   "{問題|もんだい}",
+   "ご{意見|いけん}の",
+   "ある{方|かた}は",
+   "に{関|かん}して"
+  ],
+  "order": [
+   0,
+   3,
+   1,
+   2
+  ],
+  "star": 2,
+  "en": "Anyone who has an opinion on this problem, please raise your hand.",
+  "why": "この modifies {問題|もんだい}, に{関|かん}して follows it, and ご{意見|いけん}のある modifies {方|かた}."
+ },
+ {
+  "id": "sb2-028",
+  "level": 2,
+  "before": "{国|くに}や{地域|ちいき}",
+  "after": "{違|ちが}う。",
+  "pieces": [
+   "よって",
+   "が",
+   "{習慣|しゅうかん}",
+   "に"
+  ],
+  "order": [
+   3,
+   0,
+   2,
+   1
+  ],
+  "star": 1,
+  "en": "Customs differ depending on the country or region.",
+  "why": "によって follows the noun, then {習慣|しゅうかん}が is the subject of {違|ちが}う."
+ },
+ {
+  "id": "sb2-029",
+  "level": 2,
+  "before": "{今日|きょう}は",
+  "after": "ので、お{腹|なか}がすいた。",
+  "pieces": [
+   "で",
+   "{抜|ぬ}き",
+   "{朝|あさ}ご{飯|はん}",
+   "{出|で}かけた"
+  ],
+  "order": [
+   2,
+   1,
+   0,
+   3
+  ],
+  "star": 2,
+  "en": "I went out today without breakfast, so I'm hungry.",
+  "why": "The pattern is noun + {抜|ぬ}きで, then the verb before ので."
+ },
+ {
+  "id": "sb2-030",
+  "level": 2,
+  "before": "この{映画|えいが}は",
+  "after": "{作|つく}られた。",
+  "pieces": [
+   "{話|はなし}",
+   "あった",
+   "{本当|ほんとう}に",
+   "をもとに"
+  ],
+  "order": [
+   2,
+   1,
+   0,
+   3
+  ],
+  "star": 1,
+  "en": "This movie was made based on a true story.",
+  "why": "{本当|ほんとう}にあった modifies {話|はなし}, and をもとに follows the noun."
+ },
+ {
+  "id": "sb2-031",
+  "level": 2,
+  "before": "{料金|りょうきん}は",
+  "after": "ます。",
+  "pieces": [
+   "{使|つか}った",
+   "{変|か}わり",
+   "{時間|じかん}",
+   "に{応|おう}じて"
+  ],
+  "order": [
+   0,
+   2,
+   3,
+   1
+  ],
+  "star": 2,
+  "en": "The fee changes according to the time used.",
+  "why": "{使|つか}った modifies {時間|じかん}, に{応|おう}じて follows it, and {変|か}わり takes ます."
+ },
+ {
+  "id": "sb2-032",
+  "level": 2,
+  "before": "{兄|あに}は{自分|じぶん}では",
+  "after": "ばかり{言|い}う。",
+  "pieces": [
+   "{文句|もんく}",
+   "{何|なに}も",
+   "しない",
+   "くせに"
+  ],
+  "order": [
+   1,
+   2,
+   3,
+   0
+  ],
+  "star": 2,
+  "en": "My brother does nothing himself, yet he only complains.",
+  "why": "{何|なに}も needs the negative しない, くせに follows it, and {文句|もんく} goes before ばかり{言|い}う."
+ },
+ {
+  "id": "sb2-033",
+  "level": 2,
+  "before": "{都会|とかい}の{生活|せいかつ}は{便利|べんり}な",
+  "after": "という{問題|もんだい}もある。",
+  "pieces": [
+   "{高|たか}い",
+   "{物価|ぶっか}",
+   "が",
+   "{反面|はんめん}"
+  ],
+  "order": [
+   3,
+   1,
+   2,
+   0
+  ],
+  "star": 3,
+  "en": "City life is convenient, but on the other hand prices are high.",
+  "why": "{反面|はんめん} follows {便利|べんり}な, then {物価|ぶっか}が{高|たか}い is the new clause."
+ },
+ {
+  "id": "sb2-034",
+  "level": 2,
+  "before": "{何度|なんど}も",
+  "after": "ことにした。",
+  "pieces": [
+   "{辞|や}める",
+   "{末|すえ}に",
+   "{話|はな}し{合|あ}った",
+   "{会社|かいしゃ}を"
+  ],
+  "order": [
+   2,
+   1,
+   3,
+   0
+  ],
+  "star": 1,
+  "en": "After talking it over many times, I decided to quit the company.",
+  "why": "{末|すえ}に follows the た-form, and {会社|かいしゃ}を{辞|や}める comes before ことにした."
+ },
+ {
+  "id": "sb2-035",
+  "level": 2,
+  "before": "{三時間|さんじかん}も",
+  "after": "{帰|かえ}ってきた。",
+  "pieces": [
+   "あげく",
+   "{何|なに}も",
+   "{買|か}わずに",
+   "{迷|まよ}った"
+  ],
+  "order": [
+   3,
+   0,
+   1,
+   2
+  ],
+  "star": 3,
+  "en": "After agonizing for three hours, I came home without buying anything.",
+  "why": "あげく follows the た-form, and {何|なに}も needs the negative {買|か}わずに."
+ },
+ {
+  "id": "sb2-036",
+  "level": 2,
+  "before": "{約束|やくそく}した",
+  "after": "。",
+  "pieces": [
+   "{守|まも}らない",
+   "いかない",
+   "{以上|いじょう}",
+   "わけには"
+  ],
+  "order": [
+   2,
+   0,
+   3,
+   1
+  ],
+  "star": 1,
+  "en": "Since I promised, I can't not keep it.",
+  "why": "{以上|いじょう} follows {約束|やくそく}した, then the pattern ないわけにはいかない."
+ },
+ {
+  "id": "sb2-037",
+  "level": 2,
+  "before": "{留学|りゅうがく}する",
+  "after": "しっかり{身|み}につけたい。",
+  "pieces": [
+   "から",
+   "には",
+   "{言葉|ことば}を",
+   "{現地|げんち}の"
+  ],
+  "order": [
+   0,
+   1,
+   3,
+   2
+  ],
+  "star": 2,
+  "en": "Since I'm studying abroad, I want to properly learn the local language.",
+  "why": "からには follows the verb, and {現地|げんち}の modifies {言葉|ことば}."
+ },
+ {
+  "id": "sb2-038",
+  "level": 2,
+  "before": "{先生|せんせい}が",
+  "after": "{合格|ごうかく}できました。",
+  "pieces": [
+   "{教|おし}えて",
+   "おかげで",
+   "{丁寧|ていねい}に",
+   "くれた"
+  ],
+  "order": [
+   2,
+   0,
+   3,
+   1
+  ],
+  "star": 0,
+  "en": "Thanks to my teacher teaching me carefully, I passed.",
+  "why": "{丁寧|ていねい}に modifies {教|おし}えて, then くれた, then おかげで."
+ },
+ {
+  "id": "sb2-039",
+  "level": 2,
+  "before": "{寝坊|ねぼう}した",
+  "after": "{遅|おく}れた。",
+  "pieces": [
+   "{乗|の}り",
+   "{電車|でんしゃ}に",
+   "せいで",
+   "いつもの"
+  ],
+  "order": [
+   2,
+   3,
+   1,
+   0
+  ],
+  "star": 1,
+  "en": "Because I overslept, I missed my usual train.",
+  "why": "せいで follows the た-form, いつもの modifies {電車|でんしゃ}, and {乗|の}り joins {遅|おく}れた."
+ },
+ {
+  "id": "sb2-040",
+  "level": 2,
+  "before": "{簡単|かんたん}な{手術|しゅじゅつ}だから、そんなに",
+  "after": "ないよ。",
+  "pieces": [
+   "{心配|しんぱい}",
+   "こと",
+   "は",
+   "する"
+  ],
+  "order": [
+   0,
+   3,
+   1,
+   2
+  ],
+  "star": 2,
+  "en": "It's a simple operation, so there's no need to worry that much.",
+  "why": "The pattern is verb + ことはない."
+ },
+ {
+  "id": "sb2-041",
+  "level": 2,
+  "before": "{冬|ふゆ}は{寒|さむ}くて、",
+  "after": "なる。",
+  "pieces": [
+   "に",
+   "がち",
+   "{家|いえ}に",
+   "{閉|と}じこもり"
+  ],
+  "order": [
+   2,
+   3,
+   1,
+   0
+  ],
+  "star": 1,
+  "en": "Winter is cold, so I tend to shut myself up at home.",
+  "why": "がち follows the verb stem, and になる closes it."
+ },
+ {
+  "id": "sb2-042",
+  "level": 2,
+  "before": "これは",
+  "after": "です。",
+  "pieces": [
+   "{子|こ}ども",
+   "{本|ほん}",
+   "{向|む}けに",
+   "{書|か}かれた"
+  ],
+  "order": [
+   0,
+   2,
+   3,
+   1
+  ],
+  "star": 2,
+  "en": "This is a book written for children.",
+  "why": "{向|む}けに follows {子|こ}ども, and {書|か}かれた modifies {本|ほん}."
+ },
+ {
+  "id": "sb2-043",
+  "level": 2,
+  "before": "この{店|みせ}の{料理|りょうり}は",
+  "after": "。",
+  "pieces": [
+   "の",
+   "おいしい",
+   "わりに",
+   "{値段|ねだん}"
+  ],
+  "order": [
+   3,
+   0,
+   2,
+   1
+  ],
+  "star": 2,
+  "en": "The food at this shop is tasty for the price.",
+  "why": "The pattern is noun + のわりに, then the adjective."
+ },
+ {
+  "id": "sb2-044",
+  "level": 2,
+  "before": "{駅|えき}へ",
+  "after": "きた。",
+  "pieces": [
+   "{行|い}く",
+   "{本屋|ほんや}に",
+   "{寄|よ}って",
+   "ついでに"
+  ],
+  "order": [
+   0,
+   3,
+   1,
+   2
+  ],
+  "star": 0,
+  "en": "On my way to the station, I stopped by a bookshop.",
+  "why": "{駅|えき}へ needs {行|い}く, ついでに follows it, and {寄|よ}って comes before きた."
+ },
+ {
+  "id": "sb2-045",
+  "level": 2,
+  "before": "この{歌|うた}を",
+  "after": "{思|おも}い{出|だ}す。",
+  "pieces": [
+   "{故郷|こきょう}の",
+   "たびに",
+   "{聞|き}く",
+   "ことを"
+  ],
+  "order": [
+   2,
+   1,
+   0,
+   3
+  ],
+  "star": 3,
+  "en": "Every time I hear this song, I remember my hometown.",
+  "why": "たびに follows {聞|き}く, and {故郷|こきょう}の modifies こと."
+ },
+ {
+  "id": "sb2-046",
+  "level": 2,
+  "before": "{会議|かいぎ}の",
+  "after": "しまった。",
+  "pieces": [
+   "{鳴|な}って",
+   "{最中|さいちゅう}に",
+   "{携帯|けいたい}",
+   "が"
+  ],
+  "order": [
+   1,
+   2,
+   3,
+   0
+  ],
+  "star": 0,
+  "en": "My phone rang in the middle of the meeting.",
+  "why": "{会議|かいぎ}の modifies {最中|さいちゅう}, then {携帯|けいたい}が is the subject of {鳴|な}ってしまった."
+ },
+ {
+  "id": "sb2-047",
+  "level": 2,
+  "before": "{急|きゅう}に{車|くるま}が{出|で}てきて、もう{少|すこ}しで",
+  "after": "だった。",
+  "pieces": [
+   "{事故|じこ}",
+   "ところ",
+   "{遭|あ}う",
+   "に"
+  ],
+  "order": [
+   0,
+   3,
+   2,
+   1
+  ],
+  "star": 3,
+  "en": "A car suddenly came out, and I nearly had an accident.",
+  "why": "{事故|じこ}に{遭|あ}う is one phrase, and ところだった follows the plain verb."
+ },
+ {
+  "id": "sb2-048",
+  "level": 2,
+  "before": "あんなに{練習|れんしゅう}したのだから、{彼女|かのじょ}が",
+  "after": "。",
+  "pieces": [
+   "に",
+   "{試合|しあい}に",
+   "{勝|か}つ",
+   "{決|き}まっている"
+  ],
+  "order": [
+   1,
+   2,
+   0,
+   3
+  ],
+  "star": 1,
+  "en": "She practiced so much, so she is sure to win the match.",
+  "why": "{試合|しあい}に goes with {勝|か}つ, and に{決|き}まっている follows the plain verb."
+ },
+ {
+  "id": "sb2-049",
+  "level": 2,
+  "before": "{本当|ほんとう}のことを",
+  "after": "けんかになった。",
+  "pieces": [
+   "ばかりに",
+   "と",
+   "{言|い}った",
+   "{友達|ともだち}"
+  ],
+  "order": [
+   2,
+   0,
+   3,
+   1
+  ],
+  "star": 1,
+  "en": "Just because I told the truth, I ended up fighting with my friend.",
+  "why": "ばかりに follows {言|い}った, and {友達|ともだち}と goes with けんかになった."
+ },
+ {
+  "id": "sb2-050",
+  "level": 2,
+  "before": "{薬|くすり}を",
+  "after": "すぐ{治|なお}りますよ。",
+  "pieces": [
+   "{風邪|かぜ}は",
+   "すれば",
+   "{飲|の}み",
+   "さえ"
+  ],
+  "order": [
+   2,
+   3,
+   1,
+   0
+  ],
+  "star": 2,
+  "en": "If you just take the medicine, your cold will get better soon.",
+  "why": "The pattern is stem + さえすれば, then {風邪|かぜ}は starts the result."
+ }
+]
