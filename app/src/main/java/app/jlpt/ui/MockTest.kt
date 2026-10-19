@@ -211,20 +211,8 @@ fun MockTestScreen(level: Int, onBack: () -> Unit) {
 
 @Composable
 private fun MockPlayer(l: Listening) {
-    val a = app()
-    val speaking by a.speech.speaking.collectAsState()
     Panel {
-        Row(verticalAlignment = Alignment.CenterVertically) {
-            Box(
-                Modifier.size(56.dp).clip(RoundedCornerShape(28.dp)).background(MaterialTheme.colorScheme.primary)
-                    .clickable { if (speaking) a.speech.stop() else a.speech.dialogue(l.audioLines()) },
-                contentAlignment = Alignment.Center,
-            ) {
-                Icon(if (speaking) Icons.Rounded.Stop else Icons.Rounded.PlayArrow, null, tint = MaterialTheme.colorScheme.onPrimary)
-            }
-            HGap(14.dp)
-            Text("Play the dialogue, then answer. The question is said at the end.", style = MaterialTheme.typography.bodyMedium)
-        }
+        AudioBar("mock:${l.id}", l.audioLines(), big = true, label = "Play the dialogue, then answer")
     }
 }
 

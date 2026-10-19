@@ -23,6 +23,11 @@ import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.rounded.ArrowBack
 import androidx.compose.material.icons.automirrored.rounded.VolumeUp
+import androidx.compose.material.icons.rounded.Pause
+import androidx.compose.material.icons.rounded.PlayArrow
+import androidx.compose.material.icons.rounded.Replay
+import androidx.compose.runtime.collectAsState
+import androidx.compose.runtime.getValue
 import androidx.compose.material3.CenterAlignedTopAppBar
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
@@ -184,3 +189,67 @@ fun StatRow(vararg items: Pair<String, String>) {
 fun lvl(level: Int) = "N$level"
 
 val Pad = Modifier.padding(horizontal = 16.dp)
+
+/**
+ * Play / Pause and Restart for longer audio. Pause keeps the place; Play carries on from it.
+ * The audio stops when you leave the screen.
+ */
+@Composable
+fun AudioBar(
+    key: String,
+    parts: List<Pair<String, String>>,
+    modifier: Modifier = Modifier,
+    big: Boolean = false,
+    label: String? = null,
+    onPlay: () -> Unit = {},
+) {
+    val a = app()
+    val now by a.speech.now.collectAsState()
+    val mine = now?.key == key
+    val playing = mine && now?.playing == true
+    androidx.compose.runtime.DisposableEffect(key) {
+        onDispose { if (a.speech.now.value?.key == key) a.speech.stop() }
+    }
+    val size = if (big) 60.dp else 44.dp
+    Row(modifier, verticalAlignment = Alignment.CenterVertically) {
+        Box(
+            Modifier.size(size).clip(CircleShape)
+                .background(if (big) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.secondaryContainer)
+                .clickable {
+                    onPlay()
+                    when {
+                        playing -> a.speech.pause()
+                        mine -> a.speech.resume(key)
+                        else -> a.speech.play(key, parts)
+                    }
+                },
+            contentAlignment = Alignment.Center,
+        ) {
+            Icon(
+                if (playing) Icons.Rounded.Pause else Icons.Rounded.PlayArrow,
+                if (playing) "Pause" else "Play",
+                tint = if (big) MaterialTheme.colorScheme.onPrimary else MaterialTheme.colorScheme.onSecondaryContainer,
+                modifier = Modifier.size(if (big) 34.dp else 26.dp),
+            )
+        }
+        HGap(8.dp)
+        Box(
+            Modifier.size(if (big) 44.dp else 36.dp).clip(CircleShape).background(LocalExtra.current.line)
+                .clickable { onPlay(); a.speech.play(key, parts) },
+            contentAlignment = Alignment.Center,
+        ) { Icon(Icons.Rounded.Replay, "Start again", modifier = Modifier.size(20.dp)) }
+        HGap(12.dp)
+        Column(Modifier.weight(1f)) {
+            if (label != null) Text(label, style = MaterialTheme.typography.titleMedium)
+            val n = now
+            Text(
+                when {
+                    n != null && mine && n.playing -> "Playing ${n.index + 1} of ${n.total}"
+                    n != null && mine && n.index > 0 -> "Paused at ${n.index + 1} of ${n.total}"
+                    else -> "Play, pause, or start again"
+                },
+                style = MaterialTheme.typography.bodySmall, color = LocalExtra.current.muted,
+            )
+        }
+    }
+}

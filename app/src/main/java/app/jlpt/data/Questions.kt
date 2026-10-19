@@ -27,7 +27,29 @@ data class Question(
 class QuestionMaker(private val content: Content) {
     private val rnd = Random(System.nanoTime())
 
-    private fun <T> pickOthers(pool: List<T>, n: Int, key: (T) -> String, exclude: Set<String>): List<T> {
+    private val stopWords = setOf(
+        "to", "a", "an", "the", "of", "be", "one", "s", "in", "on", "at", "for", "and", "or", "with", "by", "as",
+        "is", "are", "it", "this", "that", "something", "someone", "somebody", "etc", "eg", "e", "g", "ie", "very",
+        "you", "your", "i", "my", "me", "we", "please", "not", "no", "get", "go", "have", "do", "make", "up", "out",
+    )
+
+    private fun contentWords(s: String): Set<String> =
+        s.lowercase().split(Regex("[^a-z']+")).map { it.trim('\'') }.filter { it.length > 1 && it !in stopWords }.toSet()
+
+    /**
+     * True when two English meanings share enough words that a learner could fairly pick either:
+     * such an option must never sit next to the right answer as a "wrong" one.
+     */
+    private fun similar(a: String, b: String, share: Double = 0.01): Boolean {
+        val x = contentWords(a)
+        val y = contentWords(b)
+        if (x.isEmpty() || y.isEmpty()) return a.trim().equals(b.trim(), ignoreCase = true)
+        val both = x.intersect(y).size
+        return both > 0 && both.toDouble() / minOf(x.size, y.size) >= share
+    }
+
+    /** Wrong options, each different from the answer and from each other; [ok] drops any that could also be right. */
+    private fun <T> pickOthers(pool: List<T>, n: Int, key: (T) -> String, exclude: Set<String>, ok: (T) -> Boolean = { true }): List<T> {
         val out = ArrayList<T>()
         val used = HashSet(exclude)
         var tries = 0
@@ -35,7 +57,7 @@ class QuestionMaker(private val content: Content) {
             tries++
             val c = pool[rnd.nextInt(pool.size)]
             val k = key(c)
-            if (k.isBlank() || k in used) continue
+            if (k.isBlank() || k in used || !ok(c)) continue
             used += k
             out += c
         }
@@ -87,7 +109,7 @@ class QuestionMaker(private val content: Content) {
     private fun kataWord(id: String, stage: Int, audioOk: Boolean): Question? {
         val w = content.kataById[id.removePrefix("kw:")] ?: return null
         val type = if (stage < 2 || !audioOk) 0 else rnd.nextInt(2)
-        val others = pickOthers(content.kataWords, 3, { if (type == 0) it.en else it.jp }, setOf(w.en, w.jp))
+        val others = pickOthers(content.kataWords, 3, { if (type == 0) it.en else it.jp }, setOf(w.en, w.jp)) { !similar(it.en, w.en) }
         val note = if (w.from.isNotBlank() && !w.from.equals(w.en, true)) "From: ${w.from}" else ""
         return if (type == 0) {
             val (opts, ans) = shuffle(w.en, others.map { it.en })
@@ -120,7 +142,7 @@ class QuestionMaker(private val content: Content) {
         val reveal = Triple(w.markup, w.meaning, note)
         return when (type) {
             1 -> {
-                val others = pickOthers(sameLevelWords(w), 3, { it.word }, setOf(w.word))
+                val others = pickOthers(sameLevelWords(w), 3, { it.word }, setOf(w.word)) { !similar(it.meaning, w.meaning) && it.reading != w.reading }
                 val (opts, ans) = shuffle(w.markup, others.map { it.markup })
                 Question(id, "Which one means this?", meaning, false, promptEnglish = true, options = opts,
                     optionsEnglish = false, answer = ans, revealJp = reveal.first, revealEn = reveal.second,
@@ -128,22 +150,24 @@ class QuestionMaker(private val content: Content) {
             }
             2 -> {
                 val pool = sameLevelWords(w).filter { it.reading != w.reading && kotlin.math.abs(it.reading.length - w.reading.length) <= 1 }
-                val wrong = pickOthers(pool.ifEmpty { sameLevelWords(w) }, 3, { it.reading }, setOf(w.reading)).map { it.reading }.toMutableList()
+                // Another reading of the same written word would also be right, so leave those out.
+                val sameWritten = content.words.filter { it.word == w.word }.map { it.reading }.toSet()
+                val wrong = pickOthers(pool.ifEmpty { sameLevelWords(w) }, 3, { it.reading }, setOf(w.reading) + sameWritten).map { it.reading }.toMutableList()
                 // A near miss is the best test: add or drop a small っ or a long vowel.
-                nearMiss(w.reading)?.let { if (it !in wrong && it != w.reading) wrong[0] = it }
+                nearMiss(w.reading)?.let { if (it !in wrong && it != w.reading && it !in sameWritten && wrong.isNotEmpty()) wrong[0] = it }
                 val (opts, ans) = shuffle(w.reading, wrong)
                 Question(id, "How do you read this word?", w.word, true, promptFurigana = false, options = opts,
                     optionsEnglish = false, answer = ans, revealJp = reveal.first, revealEn = reveal.second,
                     revealNote = reveal.third, audio = w.reading)
             }
             3 -> {
-                val others = pickOthers(sameLevelWords(w), 3, { firstMeaning(it.meaning) }, setOf(meaning))
+                val others = pickOthers(sameLevelWords(w), 3, { firstMeaning(it.meaning) }, setOf(meaning)) { !similar(it.meaning, w.meaning) && it.reading != w.reading }
                 val (opts, ans) = shuffle(meaning, others.map { firstMeaning(it.meaning) })
                 Question(id, "What did you hear?", "", false, audio = w.reading, audioOnly = true, options = opts,
                     optionsEnglish = true, answer = ans, revealJp = reveal.first, revealEn = reveal.second, revealNote = reveal.third)
             }
             else -> {
-                val others = pickOthers(sameLevelWords(w), 3, { firstMeaning(it.meaning) }, setOf(meaning))
+                val others = pickOthers(sameLevelWords(w), 3, { firstMeaning(it.meaning) }, setOf(meaning)) { !similar(it.meaning, w.meaning) }
                 val (opts, ans) = shuffle(meaning, others.map { firstMeaning(it.meaning) })
                 Question(id, "What does this mean?", w.markup, true, options = opts, optionsEnglish = true, answer = ans,
                     revealJp = reveal.first, revealEn = reveal.second, revealNote = reveal.third, audio = w.reading)
@@ -176,20 +200,22 @@ class QuestionMaker(private val content: Content) {
         return when (type) {
             1 -> {
                 val right = k.on.firstOrNull() ?: k.kun.firstOrNull()?.substringBefore('(') ?: return kanji(id, 0)
-                val wrong = pickOthers(pool, 3, { it.on.firstOrNull() ?: "" }, setOf(right)).mapNotNull { it.on.firstOrNull() }
+                // None of this kanji's own readings may show up as a "wrong" option.
+                val own = (k.on + k.kun.map { it.substringBefore('(') }).toSet()
+                val wrong = pickOthers(pool, 3, { it.on.firstOrNull() ?: "" }, own).mapNotNull { it.on.firstOrNull() }
                 if (wrong.size < 3) return kanji(id, 0)
                 val (opts, ans) = shuffle(right, wrong)
                 Question(id, "Which is a reading of this kanji?", k.char, true, promptFurigana = false, options = opts,
                     optionsEnglish = false, answer = ans, revealJp = k.char, revealEn = reveal, revealNote = note)
             }
             2 -> {
-                val others = pickOthers(pool, 3, { it.char }, setOf(k.char))
+                val others = pickOthers(pool, 3, { it.char }, setOf(k.char)) { o -> o.meanings.none { m -> k.meanings.any { similar(it, m) } } }
                 val (opts, ans) = shuffle(k.char, others.map { it.char })
                 Question(id, "Which kanji means \"$meaning\"?", meaning, false, promptEnglish = true, options = opts,
                     optionsEnglish = false, answer = ans, revealJp = k.char, revealEn = reveal, revealNote = note)
             }
             else -> {
-                val others = pickOthers(pool, 3, { it.meanings.firstOrNull() ?: "" }, setOf(meaning))
+                val others = pickOthers(pool, 3, { it.meanings.firstOrNull() ?: "" }, setOf(meaning)) { o -> o.meanings.none { m -> k.meanings.any { similar(it, m) } } }
                 val (opts, ans) = shuffle(meaning, others.mapNotNull { it.meanings.firstOrNull() })
                 Question(id, "What does this kanji mean?", k.char, true, options = opts, optionsEnglish = true, answer = ans,
                     revealJp = k.char, revealEn = reveal, revealNote = note.ifEmpty { readings })
@@ -215,12 +241,12 @@ class QuestionMaker(private val content: Content) {
         val pool = (set?.phrases ?: emptyList()) + content.phraseSets.flatMap { it.phrases }.shuffled(rnd).take(30)
         val type = if (stage < 2) 0 else rnd.nextInt(2)
         return if (type == 0) {
-            val others = pickOthers(pool, 3, { it.en }, setOf(p.en))
+            val others = pickOthers(pool, 3, { it.en }, setOf(p.en)) { !similar(it.en, p.en, 0.6) }
             val (opts, ans) = shuffle(p.en, others.map { it.en })
             Question(id, "What does this mean?", p.jp, false, options = opts, optionsEnglish = true, answer = ans,
                 revealJp = p.jp, revealEn = p.en, revealNote = p.note, audio = Furigana.plain(p.jp))
         } else {
-            val others = pickOthers(pool, 3, { it.jp }, setOf(p.jp))
+            val others = pickOthers(pool, 3, { it.jp }, setOf(p.jp)) { !similar(it.en, p.en, 0.6) }
             val (opts, ans) = shuffle(p.jp, others.map { it.jp })
             Question(id, "How would you say this?", p.en, false, promptEnglish = true, options = opts,
                 optionsEnglish = false, answer = ans, revealJp = p.jp, revealEn = p.en, revealNote = p.note,

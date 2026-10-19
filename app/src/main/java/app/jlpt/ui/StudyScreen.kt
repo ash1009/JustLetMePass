@@ -123,6 +123,7 @@ fun StudyScreen(extraNew: Int, onClose: () -> Unit, onExplainInChat: (String) ->
             else -> {
                 val step = steps[index]
                 val next: () -> Unit = {
+                    a.speech.stop()
                     lastTouch = System.currentTimeMillis()
                     index++
                 }

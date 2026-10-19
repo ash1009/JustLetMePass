@@ -59,6 +59,7 @@ import app.jlpt.data.Furigana
 import app.jlpt.data.Listening
 import app.jlpt.data.Quiz
 import app.jlpt.data.Reading
+import app.jlpt.data.Speech
 import kotlinx.coroutines.launch
 import org.json.JSONObject
 import java.time.Instant
@@ -189,12 +190,11 @@ fun ReadingView(r: Reading, save: Boolean, explainInChat: (String) -> Unit, onNe
 
     Column(Modifier.fillMaxSize().verticalScroll(rememberScrollState()).padding(horizontal = 16.dp)) {
         Panel {
-            Row(verticalAlignment = Alignment.CenterVertically) {
-                Label("${lvl(r.level)} · ${r.kind}", Modifier.weight(1f))
-                SpeakButton(r.text, size = 36.dp)
-            }
+            Label("${lvl(r.level)} · ${r.kind}")
             Gap(8.dp)
             Ruby(r.text, size = 19.sp)
+            Gap(10.dp)
+            AudioBar("reading:${r.id}", Speech.sentences(r.text).map { "N" to it }, onPlay = { lastTouch = System.currentTimeMillis() })
         }
         Gap(8.dp)
         TextButton(onClick = { english = !english; lastTouch = System.currentTimeMillis() }) { Text(if (english) "Hide English" else "Show English") }
@@ -322,38 +322,22 @@ fun ListeningScreen(id: String, onBack: () -> Unit, explainInChat: (String) -> U
 fun ListeningView(l: Listening, save: Boolean, explainInChat: (String) -> Unit = {}, compact: Boolean = false, onNext: (() -> Unit)? = null, onAnswer: (Int) -> Unit = {}) {
     val a = app()
     val scope = rememberCoroutineScope()
-    val speaking by a.speech.speaking.collectAsState()
     var played by remember(l.id) { mutableStateOf(false) }
     var chosen by remember(l.id) { mutableStateOf<Int?>(null) }
     var script by remember(l.id) { mutableStateOf(false) }
     var lastTouch by remember { mutableLongStateOf(System.currentTimeMillis()) }
     if (!compact) StudyClock(lastTouch, 90)
-    DisposableEffect(l.id) { onDispose { a.speech.stop() } }
-
     Column(Modifier.fillMaxSize().verticalScroll(rememberScrollState()).padding(horizontal = 16.dp)) {
         if (!compact) {
             Label("${lvl(l.level)} · ${kindLabel(l.kind)}")
             Gap(8.dp)
         }
         Panel {
-            Row(verticalAlignment = Alignment.CenterVertically) {
-                Box(
-                    Modifier.size(64.dp).clip(RoundedCornerShape(32.dp)).background(MaterialTheme.colorScheme.primary)
-                        .clickable {
-                            lastTouch = System.currentTimeMillis()
-                            if (speaking) a.speech.stop() else { a.speech.dialogue(l.audioLines()); played = true }
-                        },
-                    contentAlignment = Alignment.Center,
-                ) {
-                    Icon(if (speaking) Icons.Rounded.Stop else Icons.Rounded.PlayArrow, if (speaking) "Stop" else "Play",
-                        tint = MaterialTheme.colorScheme.onPrimary, modifier = Modifier.size(36.dp))
-                }
-                HGap(16.dp)
-                Column(Modifier.weight(1f)) {
-                    Text(if (played) "Play again any time" else "Listen first", style = MaterialTheme.typography.titleMedium)
-                    Text("Then pick the answer below.", style = MaterialTheme.typography.bodySmall, color = LocalExtra.current.muted)
-                }
-            }
+            AudioBar(
+                "listening:${l.id}", l.audioLines(), big = true,
+                label = if (played) "Play again any time" else "Listen first, then answer",
+                onPlay = { played = true; lastTouch = System.currentTimeMillis() },
+            )
         }
         if (!a.speech.ready) {
             Gap(8.dp)

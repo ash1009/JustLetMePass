@@ -46,6 +46,7 @@ import androidx.compose.ui.unit.sp
 import app.jlpt.data.ExerciseDone
 import app.jlpt.data.Furigana
 import app.jlpt.data.Story
+import app.jlpt.data.Speech
 
 /** Roughly how long a story takes to read at its level, in minutes. */
 private fun minutes(s: Story): Int {
@@ -138,6 +139,11 @@ fun StoryScreen(id: String, onBack: () -> Unit, onOpen: (String) -> Unit, explai
                 Label("${lvl(s.level)} · ${s.genre} · about ${minutes(s)} min")
                 Gap(6.dp)
                 Ruby(s.title, size = 26.sp, family = JpBig)
+                Gap(12.dp)
+                AudioBar(
+                    "story:${s.id}", s.paragraphs.flatMap { p -> Speech.sentences(p.jp) }.map { "N" to it },
+                    label = "Listen to the story", onPlay = { lastTouch = System.currentTimeMillis() },
+                )
                 Gap(16.dp)
                 s.paragraphs.forEachIndexed { i, p ->
                     Ruby(p.jp, size = 20.sp, modifier = Modifier.fillMaxWidth())
