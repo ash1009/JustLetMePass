@@ -706,8 +706,8 @@
     "why": "He kept wondering whether arresting Osamu Aoki had been right."
    },
    {
-    "q": "{写真|しゃしん}がいつ{撮|と}られたか{分|わ}かったのは、{何|なに}のおかげですか。",
-    "q_en": "What showed when the photo was taken?",
+    "q": "{写真|しゃしん}がどの{日|ひ}の{夜|よる}に{撮|と}られたか{分|わ}かったのは、{何|なに}のおかげですか。",
+    "q_en": "What showed which night the photo was taken?",
     "options": [
      "{時計台|とけいだい}の{時間|じかん}",
      "{写真|しゃしん}の{後|うし}ろに{書|か}いてあった{日付|ひづけ}",
