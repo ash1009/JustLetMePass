@@ -1247,17 +1247,17 @@
    "ように",
    "{練習|れんしゅう}して",
    "{話|はな}せる",
-   "{毎日|まいにち}"
+   "{上手|じょうず}に"
   ],
   "order": [
+   3,
    2,
    0,
-   3,
    1
   ],
-  "star": 1,
-  "en": "I practice every day so that I can speak Japanese.",
-  "why": "{日本語|にほんご}が goes with the potential {話|はな}せる, then ように, then {毎日|まいにち} before the verb."
+  "star": 2,
+  "en": "I practice so that I can speak Japanese well.",
+  "why": "{上手|じょうず}に goes before the potential {話|はな}せる, then ように, then {練習|れんしゅう}しています."
  },
  {
   "id": "sb4-141",
@@ -1598,23 +1598,23 @@
  {
   "id": "sb4-157",
   "level": 4,
-  "before": "その{店|みせ}が",
-  "after": "{調|しら}べてください。",
+  "before": "その{店|みせ}が{今日|きょう}",
+  "after": "ください。",
   "pieces": [
    "かどうか",
    "{開|あ}いて",
    "いる",
-   "{今日|きょう}"
+   "{調|しら}べて"
   ],
   "order": [
-   3,
    1,
    2,
-   0
+   0,
+   3
   ],
-  "star": 3,
+  "star": 2,
   "en": "Please check whether that shop is open today.",
-  "why": "{今日|きょう} comes before the verb, {開|あ}いている is the て-form + いる, and かどうか follows it."
+  "why": "{開|あ}いている is the て-form + いる, かどうか follows it, then {調|しら}べてください."
  },
  {
   "id": "sb4-158",

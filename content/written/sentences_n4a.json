@@ -1242,9 +1242,9 @@
   "id": "sb4-060",
   "level": 4,
   "before": "{私|わたし}は",
-  "after": "しています。",
+  "after": "をしています。",
   "pieces": [
-   "アルバイトを",
+   "アルバイト",
    "{大学|だいがく}に",
    "{通|かよ}い",
    "ながら"
@@ -1257,7 +1257,7 @@
   ],
   "star": 0,
   "en": "I work a part-time job while going to university.",
-  "why": "{大学|だいがく}に{通|かよ}う, its stem {通|かよ}い + ながら, then アルバイトをしています."
+  "why": "{大学|だいがく}に{通|かよ}う, its stem {通|かよ}い + ながら, then アルバイト before をしています."
  },
  {
   "id": "sb4-061",
@@ -1535,23 +1535,23 @@
  {
   "id": "sb4-074",
   "level": 4,
-  "before": "あの{人|ひと}は",
+  "before": "あの{人|ひと}は{日本語|にほんご}が",
   "after": "です。",
   "pieces": [
    "みたいに",
    "{上手|じょうず}",
-   "{日本語|にほんご}が",
+   "{本当|ほんとう}の",
    "{日本人|にほんじん}"
   ],
   "order": [
+   2,
    3,
    0,
-   2,
    1
   ],
-  "star": 1,
-  "en": "That person is as good at Japanese as a Japanese person.",
-  "why": "Noun + みたいに describes how, then {日本語|にほんご}が{上手|じょうず}です."
+  "star": 2,
+  "en": "That person is as good at Japanese as a real Japanese person.",
+  "why": "{本当|ほんとう}の describes {日本人|にほんじん}; noun + みたいに then describes how {上手|じょうず} they are."
  },
  {
   "id": "sb4-075",

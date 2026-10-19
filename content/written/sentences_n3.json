@@ -47,20 +47,20 @@
   "before": "{弟|おとうと}は",
   "after": "いて、{全然|ぜんぜん}{勉強|べんきょう}しません。",
   "pieces": [
-   "を",
+   "{毎日|まいにち}",
    "ばかり",
    "して",
-   "ゲーム"
+   "ゲームを"
   ],
   "order": [
-   3,
    0,
+   3,
    2,
    1
   ],
   "star": 2,
-  "en": "My little brother does nothing but play games and doesn't study at all.",
-  "why": "The pattern is ～てばかりいる, so して comes right before ばかり."
+  "en": "My little brother does nothing but play games every day and doesn't study at all.",
+  "why": "The pattern is ～てばかりいる, so して comes right before ばかり, and ゲームを is the object of して."
  },
  {
   "id": "sb3-004",

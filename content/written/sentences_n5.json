@@ -86,23 +86,23 @@
  {
   "id": "sb5-005",
   "level": 5,
-  "before": "{私|わたし}はコーヒー",
-  "after": "{好|す}きです。",
+  "before": "{私|わたし}はコーヒーより",
+  "after": "です。",
   "pieces": [
    "{紅茶|こうちゃ}",
-   "より",
    "の",
-   "ほうが"
+   "ほうが",
+   "{好|す}き"
   ],
   "order": [
-   1,
    0,
+   1,
    2,
    3
   ],
-  "star": 0,
+  "star": 2,
   "en": "I like tea more than coffee.",
-  "why": "The pattern is AよりBのほうが."
+  "why": "The pattern is AよりBのほうが: after コーヒーより comes {紅茶|こうちゃ}のほうが, then {好|す}きです."
  },
  {
   "id": "sb5-006",
