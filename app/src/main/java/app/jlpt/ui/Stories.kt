@@ -114,7 +114,8 @@ fun StoryScreen(id: String, onBack: () -> Unit, onOpen: (String) -> Unit, explai
     val chosen = remember(id) { mutableStateMapOf<Int, Int>() }
     var meaning by remember(id) { mutableStateOf<Pair<String, String>?>(null) }
     var lastTouch by remember(id) { mutableLongStateOf(System.currentTimeMillis()) }
-    val scroll = rememberScrollState()
+    // A new story starts at the top.
+    val scroll = remember(id) { androidx.compose.foundation.ScrollState(0) }
     val allDone = s.questions.isNotEmpty() && chosen.size == s.questions.size
     StudyClock(lastTouch, 180)
     DisposableEffect(id) { onDispose { a.speech.stop() } }

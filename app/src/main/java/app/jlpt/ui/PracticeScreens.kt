@@ -214,7 +214,7 @@ fun ReadingView(r: Reading, save: Boolean, explainInChat: (String) -> Unit, onNe
         }
     }
 
-    Column(Modifier.fillMaxSize().verticalScroll(rememberScrollState()).padding(horizontal = 16.dp)) {
+    Column(Modifier.fillMaxSize().verticalScroll(remember(r.id) { androidx.compose.foundation.ScrollState(0) }).padding(horizontal = 16.dp)) {
         Panel {
             Label("${lvl(r.level)} · ${r.kind}")
             Gap(8.dp)
@@ -353,7 +353,7 @@ fun ListeningView(l: Listening, save: Boolean, explainInChat: (String) -> Unit =
     var script by remember(l.id) { mutableStateOf(false) }
     var lastTouch by remember { mutableLongStateOf(System.currentTimeMillis()) }
     if (!compact) StudyClock(lastTouch, 90)
-    Column(Modifier.fillMaxSize().verticalScroll(rememberScrollState()).padding(horizontal = 16.dp)) {
+    Column(Modifier.fillMaxSize().verticalScroll(remember(l.id) { androidx.compose.foundation.ScrollState(0) }).padding(horizontal = 16.dp)) {
         if (!compact) {
             Label("${lvl(l.level)} · ${kindLabel(l.kind)}")
             Gap(8.dp)
