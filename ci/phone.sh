@@ -11,11 +11,23 @@ anr() { for _ in 1 2 3; do if python3 ci/ui.py has "Wait"; then python3 ci/ui.py
 tap() { anr; python3 ci/ui.py tap "$@" >> "$OUT/taps.txt" 2>&1 || true; }
 
 adb logcat -c || true
+# Put the old version's data under the new app, to check the update keeps progress.
+if adb shell ls /data/local/tmp/olddata.tar > /dev/null 2>&1; then
+  adb shell am start -W -n "$PKG/app.jlpt.ui.MainActivity" > /dev/null 2>&1; sleep 3; adb shell am force-stop "$PKG"
+  adb shell "su 0 tar -C /data/data/$PKG -xf /data/local/tmp/olddata.tar && su 0 chown -R \$(su 0 stat -c %u /data/data/$PKG):\$(su 0 stat -c %g /data/data/$PKG) /data/data/$PKG" && echo "old data restored" >> "$OUT/upgrade.txt"
+fi
 adb shell pm grant "$PKG" android.permission.POST_NOTIFICATIONS || true
 adb shell input keyevent KEYCODE_WAKEUP; adb shell wm dismiss-keyguard || true
 
 sleep 20
 anr
+start
+shot 00_today_after_update 5
+start --es route plan
+shot 00b_plan 4
+start --es route study
+shot 00c_study 4
+python3 ci/ui.py texts > "$OUT/00c_study.txt" 2>&1 || true
 start --es route listen
 shot 01_listen 6
 tap "Play"
