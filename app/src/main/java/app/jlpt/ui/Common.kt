@@ -245,7 +245,7 @@ fun AudioBar(
             Text(
                 when {
                     n != null && mine && n.playing -> "Playing ${n.index + 1} of ${n.total}"
-                    n != null && mine && n.index > 0 -> "Paused at ${n.index + 1} of ${n.total}"
+                    n != null && mine && !n.done -> "Paused at ${n.index + 1} of ${n.total} · play carries on"
                     else -> "Play, pause, or start again"
                 },
                 style = MaterialTheme.typography.bodySmall, color = LocalExtra.current.muted,

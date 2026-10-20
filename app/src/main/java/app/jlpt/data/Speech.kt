@@ -36,6 +36,10 @@ class Speech(context: Context, private val prefs: Prefs) {
     private var defaultVoice: String? = null
     private var parts: List<Pair<String, String>> = emptyList()
     private var gap = 450L
+    private var session = 0
+    private var firstPart = 0
+    private var firstOffset = 0
+    @Volatile private var posInPart = 0
 
     /** The parts now loaded, to show the one being said. */
     fun partAt(index: Int): Pair<String, String>? = parts.getOrNull(index)
@@ -67,27 +71,36 @@ class Speech(context: Context, private val prefs: Prefs) {
             t.setOnUtteranceProgressListener(object : UtteranceProgressListener() {
                 override fun onStart(utteranceId: String?) {
                     _speaking.value = true
-                    // Parts are named "part|<key>|<index>": remember how far it got.
-                    val id = utteranceId ?: return
-                    if (!id.startsWith("part|")) return
-                    val index = id.substringAfterLast('|').toIntOrNull() ?: return
-                    val key = id.removePrefix("part|").substringBeforeLast('|')
+                    val p = parse(utteranceId) ?: return
                     val n = _now.value
-                    if (n != null && n.key == key) _now.value = n.copy(index = index, playing = true)
+                    if (n != null && n.key == p.second && n.playing) {
+                        posInPart = if (p.first == firstPart) firstOffset else 0
+                        _now.value = n.copy(index = p.first)
+                    }
+                }
+
+                // Where in the sentence the voice is, so pause can carry on from that point.
+                override fun onRangeStart(utteranceId: String?, start: Int, end: Int, frame: Int) {
+                    val p = parse(utteranceId) ?: return
+                    val n = _now.value ?: return
+                    if (n.key != p.second || !n.playing) return
+                    posInPart = start + if (p.first == firstPart) firstOffset else 0
                 }
 
                 override fun onDone(utteranceId: String?) {
                     val id = utteranceId ?: return
                     if (id.startsWith("last")) _speaking.value = false
-                    if (id.startsWith("part|")) {
-                        val index = id.substringAfterLast('|').toIntOrNull() ?: return
-                        val key = id.removePrefix("part|").substringBeforeLast('|')
-                        val n = _now.value
-                        // The last part finished: the next play starts from the beginning.
-                        if (n != null && n.key == key && index == n.total - 1) {
-                            _now.value = n.copy(index = 0, playing = false, done = true)
-                            _speaking.value = false
-                        }
+                    val p = parse(id) ?: return
+                    val n = _now.value ?: return
+                    // Ignore a "done" that only came because the audio was paused or stopped.
+                    if (n.key != p.second || !n.playing) return
+                    if (p.first >= n.total - 1) {
+                        _now.value = n.copy(index = 0, playing = false, done = true)
+                        posInPart = 0
+                        _speaking.value = false
+                    } else {
+                        _now.value = n.copy(index = p.first + 1)
+                        posInPart = 0
                     }
                 }
 
@@ -96,6 +109,16 @@ class Speech(context: Context, private val prefs: Prefs) {
                 override fun onStop(utteranceId: String?, interrupted: Boolean) { _speaking.value = false }
             })
         }
+    }
+
+    /** Parts are named "p<session>|<index>|<key>"; old sessions (before a pause) are ignored. */
+    private fun parse(id: String?): Pair<Int, String>? {
+        if (id == null || !id.startsWith("p")) return null
+        val bits = id.drop(1).split('|', limit = 3)
+        if (bits.size < 3) return null
+        if (bits[0].toIntOrNull() != session) return null
+        val index = bits[1].toIntOrNull() ?: return null
+        return index to bits[2]
     }
 
     val ready: Boolean get() = _status.value == Status.READY
@@ -107,6 +130,7 @@ class Speech(context: Context, private val prefs: Prefs) {
         val t = tts ?: return
         if (!ready || text.isBlank()) return
         _now.value = null
+        session++
         t.setPitch(1f)
         useVoice(null)
         t.setSpeechRate(if (slow) rate() * 0.7f else rate())
@@ -117,20 +141,31 @@ class Speech(context: Context, private val prefs: Prefs) {
      * Plays [list] of (speaker, text) parts from part [from]: M lower voice, F higher, anything
      * else the narrator, with a short pause between parts. [key] names it for pause and resume.
      */
-    fun play(key: String, list: List<Pair<String, String>>, from: Int = 0, gapMs: Long = 450) {
+    fun play(key: String, list: List<Pair<String, String>>, from: Int = 0, gapMs: Long = 450, fromChar: Int = 0) {
         val t = tts ?: return
         if (!ready || list.isEmpty()) return
+        session++
         t.stop()
         parts = list
         gap = gapMs
         val start = from.coerceIn(0, list.lastIndex)
+        firstPart = start
+        firstOffset = 0
+        posInPart = 0
         _now.value = Playing(key, start, list.size, true)
         t.setSpeechRate(rate())
         for (i in start until list.size) {
-            val (speaker, text) = list[i]
+            val (speaker, raw) = list[i]
+            var text = Furigana.plain(raw)
+            if (i == start && fromChar in 1 until text.length) {
+                // Carry on a little before where it stopped, from the start of that phrase.
+                val back = text.lastIndexOfAny(charArrayOf('、', '，', ' ', '「', '。'), fromChar - 1)
+                firstOffset = if (back >= 0 && fromChar - back < 25) back + 1 else fromChar
+                text = text.substring(firstOffset)
+            }
             useVoice(when (speaker) { "M" -> 1; "F" -> 0; else -> null })
             t.setPitch(when (speaker) { "M" -> 0.85f; "F" -> 1.2f; else -> 1.0f })
-            t.speak(Furigana.plain(text), if (i == start) TextToSpeech.QUEUE_FLUSH else TextToSpeech.QUEUE_ADD, Bundle(), "part|$key|$i")
+            t.speak(text, if (i == start) TextToSpeech.QUEUE_FLUSH else TextToSpeech.QUEUE_ADD, Bundle(), "p$session|$i|$key")
             if (i != list.lastIndex) t.playSilentUtterance(gapMs, TextToSpeech.QUEUE_ADD, "gap${counter++}")
         }
     }
@@ -142,23 +177,27 @@ class Speech(context: Context, private val prefs: Prefs) {
         play(n.key, parts, (n.index + by).coerceIn(0, parts.lastIndex), gap)
     }
 
-    /** Stops for now; [resume] carries on from the part it was saying. */
+    /** Stops for now; [resume] carries on from the point it had reached. */
     fun pause() {
         val n = _now.value ?: return
+        _now.value = n.copy(playing = false)
+        session++
         tts?.stop()
         _speaking.value = false
-        _now.value = n.copy(playing = false)
     }
 
     fun resume(key: String) {
         val n = _now.value
-        if (n != null && n.key == key && parts.isNotEmpty()) play(key, parts, n.index, gap)
+        if (n != null && n.key == key && parts.isNotEmpty()) {
+            if (n.done) play(key, parts, 0, gap) else play(key, parts, n.index, gap, posInPart)
+        }
     }
 
     /** Older name: plays a whole dialogue from the start. */
     fun dialogue(lines: List<Pair<String, String>>) = play("dialogue", lines)
 
     fun stop() {
+        session++
         tts?.stop()
         _speaking.value = false
         _now.value = null
