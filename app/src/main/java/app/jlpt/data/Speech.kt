@@ -44,11 +44,26 @@ class Speech(context: Context, private val prefs: Prefs) {
     /** The parts now loaded, to show the one being said. */
     fun partAt(index: Int): Pair<String, String>? = parts.getOrNull(index)
 
+    // Voice objects, looked up once (asking the engine for its voices is slow).
+    private var voiceByName: Map<String, android.speech.tts.Voice> = emptyMap()
+    private var currentVoice: String? = null
+    private var currentPitch = -1f
+
+    /** All talking to the voice engine happens on this one thread, in order, so the screen never freezes. */
+    private val worker = java.util.concurrent.Executors.newSingleThreadExecutor()
+
     private fun useVoice(index: Int?) {
         val t = tts ?: return
         val name = if (index == null || jaVoices.size < 2) defaultVoice else jaVoices[index % jaVoices.size]
         name ?: return
-        runCatching { t.voices.firstOrNull { it.name == name }?.let { t.voice = it } }
+        if (name == currentVoice) return
+        runCatching { voiceByName[name]?.let { t.voice = it; currentVoice = name } }
+    }
+
+    private fun usePitch(p: Float) {
+        if (p == currentPitch) return
+        tts?.setPitch(p)
+        currentPitch = p
     }
 
     init {
@@ -68,6 +83,8 @@ class Speech(context: Context, private val prefs: Prefs) {
                     .map { it.name }
             }.getOrDefault(emptyList())
             defaultVoice = runCatching { t.voice?.name }.getOrNull()
+            voiceByName = runCatching { t.voices.orEmpty().filter { it.locale.language == "ja" }.associateBy { it.name } }.getOrDefault(emptyMap())
+            currentVoice = defaultVoice
             t.setOnUtteranceProgressListener(object : UtteranceProgressListener() {
                 override fun onStart(utteranceId: String?) {
                     _speaking.value = true
@@ -131,10 +148,13 @@ class Speech(context: Context, private val prefs: Prefs) {
         if (!ready || text.isBlank()) return
         _now.value = null
         session++
-        t.setPitch(1f)
-        useVoice(null)
-        t.setSpeechRate(if (slow) rate() * 0.7f else rate())
-        t.speak(Furigana.plain(text), TextToSpeech.QUEUE_FLUSH, Bundle(), "last${counter++}")
+        val speed = if (slow) rate() * 0.7f else rate()
+        worker.execute {
+            usePitch(1f)
+            useVoice(null)
+            t.setSpeechRate(speed)
+            t.speak(Furigana.plain(text), TextToSpeech.QUEUE_FLUSH, Bundle(), "last${counter++}")
+        }
     }
 
     /**
@@ -145,28 +165,33 @@ class Speech(context: Context, private val prefs: Prefs) {
         val t = tts ?: return
         if (!ready || list.isEmpty()) return
         session++
-        t.stop()
+        val mine = session
         parts = list
         gap = gapMs
         val start = from.coerceIn(0, list.lastIndex)
         firstPart = start
-        firstOffset = 0
         posInPart = 0
+        // Where the first part starts, when carrying on from the middle of it.
+        val firstText = Furigana.plain(list[start].second)
+        firstOffset = if (fromChar in 1 until firstText.length) {
+            val back = firstText.lastIndexOfAny(charArrayOf('、', '，', ' ', '「', '。'), fromChar - 1)
+            if (back >= 0 && fromChar - back < 25) back + 1 else fromChar
+        } else 0
         _now.value = Playing(key, start, list.size, true)
-        t.setSpeechRate(rate())
-        for (i in start until list.size) {
-            val (speaker, raw) = list[i]
-            var text = Furigana.plain(raw)
-            if (i == start && fromChar in 1 until text.length) {
-                // Carry on a little before where it stopped, from the start of that phrase.
-                val back = text.lastIndexOfAny(charArrayOf('、', '，', ' ', '「', '。'), fromChar - 1)
-                firstOffset = if (back >= 0 && fromChar - back < 25) back + 1 else fromChar
-                text = text.substring(firstOffset)
+        val speed = rate()
+        worker.execute {
+            if (session != mine) return@execute
+            t.stop()
+            t.setSpeechRate(speed)
+            for (i in start until list.size) {
+                if (session != mine) return@execute   // paused or something else started
+                val (speaker, raw) = list[i]
+                val text = if (i == start) firstText.substring(firstOffset) else Furigana.plain(raw)
+                useVoice(when (speaker) { "M" -> 1; "F" -> 0; else -> null })
+                usePitch(when (speaker) { "M" -> 0.85f; "F" -> 1.2f; else -> 1.0f })
+                t.speak(text, if (i == start) TextToSpeech.QUEUE_FLUSH else TextToSpeech.QUEUE_ADD, Bundle(), "p$mine|$i|$key")
+                if (i != list.lastIndex) t.playSilentUtterance(gapMs, TextToSpeech.QUEUE_ADD, "gap${counter++}")
             }
-            useVoice(when (speaker) { "M" -> 1; "F" -> 0; else -> null })
-            t.setPitch(when (speaker) { "M" -> 0.85f; "F" -> 1.2f; else -> 1.0f })
-            t.speak(text, if (i == start) TextToSpeech.QUEUE_FLUSH else TextToSpeech.QUEUE_ADD, Bundle(), "p$session|$i|$key")
-            if (i != list.lastIndex) t.playSilentUtterance(gapMs, TextToSpeech.QUEUE_ADD, "gap${counter++}")
         }
     }
 
@@ -182,7 +207,7 @@ class Speech(context: Context, private val prefs: Prefs) {
         val n = _now.value ?: return
         _now.value = n.copy(playing = false)
         session++
-        tts?.stop()
+        worker.execute { tts?.stop() }
         _speaking.value = false
     }
 
@@ -198,7 +223,7 @@ class Speech(context: Context, private val prefs: Prefs) {
 
     fun stop() {
         session++
-        tts?.stop()
+        worker.execute { tts?.stop() }
         _speaking.value = false
         _now.value = null
     }
