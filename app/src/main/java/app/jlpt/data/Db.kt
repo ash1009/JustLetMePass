@@ -24,6 +24,8 @@ data class ItemState(
     val wrong: Int = 0,
     val firstSeen: Long = 0,
     val lastSeen: Long = 0,
+    /** Ways answered right, one bit each (meaning, reverse, reading...). */
+    val ways: Int = 0,
 )
 
 /** One day of study. [day] is like 2026-10-13. */
@@ -115,6 +117,9 @@ interface StudyDao {
     @Insert
     suspend fun addTest(t: TestResult)
 
+    @Query("SELECT * FROM TestResult ORDER BY time DESC LIMIT 50")
+    suspend fun tests(): List<TestResult>
+
     @Query("DELETE FROM ItemState")
     suspend fun clearStates()
 
@@ -130,7 +135,7 @@ interface StudyDao {
 
 @Database(
     entities = [ItemState::class, DayLog::class, ExerciseDone::class, ChatMsg::class, TestResult::class],
-    version = 1,
+    version = 2,
     exportSchema = false,
 )
 abstract class StudyDb : RoomDatabase() {
@@ -138,6 +143,13 @@ abstract class StudyDb : RoomDatabase() {
 
     companion object {
         fun open(context: Context): StudyDb =
-            Room.databaseBuilder(context, StudyDb::class.java, "study.db").build()
+            Room.databaseBuilder(context, StudyDb::class.java, "study.db").addMigrations(ADD_WAYS).build()
+
+        /** Keeps all progress: only adds the "ways" column. */
+        private val ADD_WAYS = object : androidx.room.migration.Migration(1, 2) {
+            override fun migrate(db: androidx.sqlite.db.SupportSQLiteDatabase) {
+                db.execSQL("ALTER TABLE ItemState ADD COLUMN ways INTEGER NOT NULL DEFAULT 0")
+            }
+        }
     }
 }

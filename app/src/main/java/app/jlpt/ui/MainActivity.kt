@@ -61,7 +61,8 @@ sealed interface Screen {
     data object PhraseSets : Screen
     data class PhraseSetOne(val id: String) : Screen
     data object FuriganaPractice : Screen
-    data class MockTest(val level: Int) : Screen
+    data class MockTest(val level: Int, val weekly: Boolean = false) : Screen
+    data object Plan : Screen
     data object AiReading : Screen
     data class Stories(val level: Int) : Screen
     data class StoryOne(val id: String) : Screen
@@ -151,6 +152,7 @@ private fun routeScreen(route: String?): Screen? = when (route) {
     "daily" -> Screen.PhraseSetOne("d01")
     "furigana" -> Screen.FuriganaPractice
     "test" -> Screen.MockTest(4)
+    "plan" -> Screen.Plan
     "katawords" -> Screen.KataWords
     "listen" -> Screen.Listen
     "speed" -> Screen.Speed
@@ -257,7 +259,8 @@ private fun Page(s: Screen, nav: (Screen) -> Unit, back: () -> Unit, explainInCh
         Screen.PhraseSets -> PhraseSetsScreen(nav, back)
         is Screen.PhraseSetOne -> PhraseSetScreen(s.id, nav, back)
         Screen.FuriganaPractice -> FuriganaPracticeScreen(back)
-        is Screen.MockTest -> MockTestScreen(s.level, back)
+        is Screen.MockTest -> MockTestScreen(s.level, back, covered = s.weekly)
+        Screen.Plan -> PlanScreen(nav, back)
         Screen.AiReading -> AiReadingScreen(back, explainInChat)
         is Screen.Stories -> StoriesScreen(s.level, nav, back)
         is Screen.StoryOne -> StoryScreen(s.id, back, { replace(Screen.StoryOne(it)) }, explainInChat)

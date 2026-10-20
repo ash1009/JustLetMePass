@@ -58,6 +58,8 @@ class Prefs(context: Context) {
     val includeDaily = BoolPref("include_daily", true)
     val dark = StrPref("theme", "system")
     val speedBest = IntPref("speed_best", 0)
+    /** How long one Study round is, in minutes. */
+    val roundMinutes = IntPref("round_minutes", 15)
     /** Audio playlist: what to play and how long to pause between parts. */
     val listenKind = StrPref("listen_kind", "words")
     val listenGap = IntPref("listen_gap", 1500)

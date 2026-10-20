@@ -33,6 +33,9 @@ object Srs {
         else -> 1.0
     }
 
+    /** How long until a review at [stage]. */
+    fun interval(stage: Int, spacing: String): Long = (hours[stage.coerceIn(0, MAX)] * multiplier(spacing) * 3_600_000L).toLong()
+
     fun answer(old: ItemState, correct: Boolean, now: Long, spacing: String): ItemState {
         val m = multiplier(spacing)
         return if (correct) {

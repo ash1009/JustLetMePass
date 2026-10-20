@@ -22,6 +22,8 @@ data class Question(
     val revealJp: String,
     val revealEn: String,
     val revealNote: String = "",
+    /** Which way the item was asked (meaning, reading, the reverse...), for "known every way". */
+    val way: Int = 0,
 )
 
 class QuestionMaker(private val content: Content) {
@@ -72,7 +74,20 @@ class QuestionMaker(private val content: Content) {
 
     private fun firstMeaning(m: String): String = m.split(';').first().trim()
 
-    fun make(id: String, stage: Int, audioOk: Boolean, romaji: Boolean): Question? = when (Kind.of(id)) {
+    private var lastType = 0
+    private var need: Set<Int> = emptySet()
+
+    /** Picks a way of asking, preferring one the item still needs. */
+    private fun choose(options: List<Int>): Int = options.filter { it in need }.randomOrNull(rnd) ?: options[rnd.nextInt(options.size)]
+
+    /** [missing] are the ways this item has not been answered right yet; they are asked first. */
+    fun make(id: String, stage: Int, audioOk: Boolean, romaji: Boolean, missing: Set<Int> = emptySet()): Question? {
+        need = missing
+        lastType = 0
+        return makeAny(id, stage, audioOk, romaji)?.let { it.copy(way = lastType) }
+    }
+
+    private fun makeAny(id: String, stage: Int, audioOk: Boolean, romaji: Boolean): Question? = when (Kind.of(id)) {
         Kind.HIRA, Kind.KATA -> kana(id, stage, audioOk)
         Kind.KWORD -> kataWord(id, stage, audioOk)
         Kind.WORD -> word(id, stage, audioOk)
@@ -86,7 +101,7 @@ class QuestionMaker(private val content: Content) {
         val pool = if (k.katakana) Kana.katakana else Kana.hiragana
         val same = pool.filter { it.group == k.group }.ifEmpty { pool }
         val others = pickOthers(same.ifEmpty { pool }, 3, { it.romaji }, setOf(k.romaji))
-        val type = if (stage < 2) 0 else rnd.nextInt(if (audioOk) 3 else 2)
+        val type = (if (stage < 2) 0 else choose(if (audioOk) listOf(0, 1, 2) else listOf(0, 1))).also { lastType = it }
         return when (type) {
             0 -> {
                 val (opts, ans) = shuffle(k.romaji, others.map { it.romaji })
@@ -108,7 +123,7 @@ class QuestionMaker(private val content: Content) {
 
     private fun kataWord(id: String, stage: Int, audioOk: Boolean): Question? {
         val w = content.kataById[id.removePrefix("kw:")] ?: return null
-        val type = if (stage < 2 || !audioOk) 0 else rnd.nextInt(2)
+        val type = (if (stage < 2 || !audioOk) 0 else choose(listOf(0, 1))).also { lastType = it }
         val others = pickOthers(content.kataWords, 3, { if (type == 0) it.en else it.jp }, setOf(w.en, w.jp)) { !similar(it.en, w.en) }
         val note = if (w.from.isNotBlank() && !w.from.equals(w.en, true)) "From: ${w.from}" else ""
         return if (type == 0) {
@@ -137,7 +152,7 @@ class QuestionMaker(private val content: Content) {
             if (stage >= 1 && w.hasKanji) { add(2); add(2) }   // how do you read it (furigana practice)
             if (stage >= 2 && audioOk) add(3)                    // listen
         }
-        val type = if (stage == 0) 0 else types[rnd.nextInt(types.size)]
+        val type = (if (stage == 0) 0 else choose(types)).also { lastType = it }
         val note = if (w.exampleJp.isNotBlank()) w.exampleJp else ""
         val reveal = Triple(w.markup, w.meaning, note)
         return when (type) {
@@ -196,7 +211,7 @@ class QuestionMaker(private val content: Content) {
             if (k.on.isNotEmpty()) append("On: ${k.on.joinToString("、")}  ")
             if (k.kun.isNotEmpty()) append("Kun: ${k.kun.joinToString("、")}")
         }
-        val type = if (stage < 2) 0 else rnd.nextInt(3)
+        val type = (if (stage < 2) 0 else choose(listOf(0, 1, 2))).also { lastType = it }
         return when (type) {
             1 -> {
                 val right = k.on.firstOrNull() ?: k.kun.firstOrNull()?.substringBefore('(') ?: return kanji(id, 0)
@@ -239,7 +254,7 @@ class QuestionMaker(private val content: Content) {
         val p = content.phraseById[id] ?: return null
         val set = content.phraseSets.firstOrNull { s -> s.phrases.any { it.id == id } }
         val pool = (set?.phrases ?: emptyList()) + content.phraseSets.flatMap { it.phrases }.shuffled(rnd).take(30)
-        val type = if (stage < 2) 0 else rnd.nextInt(2)
+        val type = (if (stage < 2) 0 else choose(listOf(0, 1))).also { lastType = it }
         return if (type == 0) {
             val others = pickOthers(pool, 3, { it.en }, setOf(p.en)) { !similar(it.en, p.en, 0.6) }
             val (opts, ans) = shuffle(p.en, others.map { it.en })

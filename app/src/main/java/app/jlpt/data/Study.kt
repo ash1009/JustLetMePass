@@ -22,6 +22,9 @@ data class Plan(
     val examTotal: Int,
     /** True when the daily time is too short to meet everything before the exam. */
     val tight: Boolean,
+    /** New exam items needed a day, and days left to meet them (a week before the exam). */
+    val examPerDay: Int = 0,
+    val studyDays: Long = 0,
 )
 
 /** Keeps track of what is known and decides what to study next. */
@@ -83,23 +86,28 @@ class Study(private val content: Content, private val dao: StudyDao, private val
         val days = ChronoUnit.DAYS.between(LocalDate.now(), prefs.exam())
         val minutes = prefs.dailyMinutes.value
         val byTime = (minutes * 0.6).toInt().coerceAtLeast(5)
-        // Keep the last week before the exam for reviews only.
+        // Everything for the exam is met a week early; that last week is reviews and mocks only.
         val studyDays = (days - 7).coerceAtLeast(1)
-        val byExam = if (days <= 0 || left == 0) byTime / 2 else ceil(left / studyDays.toDouble()).toInt()
+        val byExam = if (days <= 7 || left == 0) 5 else ceil(left / studyDays.toDouble()).toInt()
+        // About 1 in 5 new items is beyond the exam (daily phrases, katakana words, N3), so add room for those.
+        val withExtras = ceil(byExam * 1.25).toInt()
         val set = prefs.newPerDay.value
-        val target = if (set > 0) set else byExam.coerceIn(5, byTime)
-        return Plan(target, days, left, scope.size, tight = days > 0 && byExam > byTime)
+        val target = if (set > 0) set else withExtras.coerceAtLeast(5)
+        return Plan(target, days, left, scope.size, tight = days > 7 && withExtras > byTime, examPerDay = byExam, studyDays = studyDays)
     }
 
     // ---- building a round ----
 
+    /** Hiragana you already read well never comes back as a review. */
+    private fun skipReview(id: String) = prefs.hiraganaKnown.value && id.startsWith("h:")
+
     fun dueIds(now: Long = System.currentTimeMillis()): List<String> =
-        _states.value.values.filter { it.stage > 0 && it.due <= now }.sortedBy { it.due }.map { it.id }
+        _states.value.values.filter { it.stage > 0 && it.due <= now && !skipReview(it.id) }.sortedBy { it.due }.map { it.id }
 
     suspend fun newToday(): Int = dao.day(today())?.newItems ?: 0
 
     /** The next items to meet, mixed across words, kanji, grammar, katakana and daily phrases. */
-    fun pickNew(n: Int): List<String> {
+    fun pickNew(n: Int, focus: Kind? = null): List<String> {
         if (n <= 0) return emptyList()
         val queues = HashMap<Kind, ArrayDeque<String>>()
         fun queue(kind: Kind): ArrayDeque<String> = queues.getOrPut(kind) {
@@ -111,7 +119,7 @@ class Study(private val content: Content, private val dao: StudyDao, private val
             hira -> listOf(Kind.HIRA, Kind.HIRA, Kind.WORD, Kind.HIRA, Kind.PHRASE)
             kata -> listOf(Kind.KATA, Kind.WORD, Kind.KATA, Kind.KANJI, Kind.KATA, Kind.GRAMMAR, Kind.WORD, Kind.PHRASE)
             else -> listOf(Kind.WORD, Kind.KANJI, Kind.WORD, Kind.GRAMMAR, Kind.WORD, Kind.PHRASE, Kind.KWORD, Kind.WORD, Kind.KANJI, Kind.GRAMMAR)
-        }
+        }.let { p -> if (focus != null) p + listOf(focus, focus) else p }
         val allowed = { k: Kind ->
             when (k) {
                 Kind.PHRASE -> prefs.includeDaily.value
@@ -120,6 +128,39 @@ class Study(private val content: Content, private val dao: StudyDao, private val
             }
         }
         val out = ArrayList<String>()
+        // Families: a kanji with words that use it, and a word's new kanji just before the word.
+        fun addWord(id: String) {
+            val w = content.wordById[id]
+            if (w != null) {
+                for (c in w.word.filter { Furigana.isKanji(it) }.toSet()) {
+                    val kid = "c:$c"
+                    val k = content.kanjiByChar[c.toString()] ?: continue
+                    if (stage(kid) == 0 && kid !in out && k.level >= w.level && out.size < n - 1) {
+                        queue(Kind.KANJI).remove(kid)
+                        out += kid
+                    }
+                }
+            }
+            out += id
+        }
+        fun addKanji(id: String) {
+            out += id
+            val c = id.removePrefix("c:")
+            val lvl = content.kanjiByChar[c]?.level ?: 5
+            val words = queue(Kind.WORD).filter { wid ->
+                content.wordById[wid]?.let { it.word.contains(c) && it.level >= lvl } == true
+            }.take(2)
+            for (wid in words) {
+                if (out.size >= n) break
+                queue(Kind.WORD).remove(wid)
+                out += wid
+            }
+        }
+        fun add(kind: Kind, id: String) = when (kind) {
+            Kind.WORD -> addWord(id)
+            Kind.KANJI -> addKanji(id)
+            else -> { out += id }
+        }
         var i = 0
         var misses = 0
         while (out.size < n && misses < pattern.size * 2) {
@@ -130,13 +171,13 @@ class Study(private val content: Content, private val dao: StudyDao, private val
                 // Fall back to words, the biggest track.
                 val w = queue(Kind.WORD)
                 if (w.isEmpty()) { misses++; continue }
-                out += w.removeFirst()
+                addWord(w.removeFirst())
             } else {
-                out += q.removeFirst()
+                add(k, q.removeFirst())
             }
             misses = 0
         }
-        return out
+        return out.distinct().take(n)
     }
 
     /**
@@ -146,12 +187,12 @@ class Study(private val content: Content, private val dao: StudyDao, private val
     /** Things you get wrong most: the most mistakes for how often you get them right. */
     fun weakIds(n: Int = 20, skip: Set<String> = emptySet()): List<String> =
         _states.value.values
-            .filter { it.stage > 0 && it.wrong > 0 && it.id !in skip }
+            .filter { it.stage > 0 && it.wrong > 0 && it.id !in skip && !skipReview(it.id) }
             .sortedWith(compareByDescending<ItemState> { it.wrong.toDouble() / (it.right + 1) }.thenByDescending { it.lastSeen })
             .take(n)
             .map { it.id }
 
-    fun weakCount(): Int = _states.value.values.count { it.stage > 0 && it.wrong > 0 }
+    fun weakCount(): Int = _states.value.values.count { it.stage > 0 && it.wrong > 0 && !skipReview(it.id) }
 
     /** A round of only weak spots, hardest first, mixed a little so it does not feel the same each time. */
     suspend fun buildWeakRound(skip: Set<String> = emptySet()): List<Step> {
@@ -160,17 +201,40 @@ class Study(private val content: Content, private val dao: StudyDao, private val
     }
 
     /** Everything you have started, for the speed round. */
-    fun startedIds(): List<String> = _states.value.values.filter { it.stage > 0 }.map { it.id }
+    fun startedIds(): List<String> = _states.value.values.filter { it.stage > 0 && !skipReview(it.id) }.map { it.id }
 
-    suspend fun buildRound(extraNew: Int = 0): List<Step> {
+    /** The section that went worst in the last mock at the exam level (in the past two weeks). */
+    suspend fun weakSection(): Pair<String, Int>? {
+        val since = System.currentTimeMillis() - 14L * 86_400_000L
+        val t = dao.tests().firstOrNull { it.level == prefs.examLevel.value && it.time >= since } ?: return null
+        return t.sections.split(';').mapNotNull { part ->
+            val name = part.substringBefore('=')
+            val (got, of) = part.substringAfter('=').split('/').map { it.toIntOrNull() ?: 0 }.let { it.getOrElse(0) { 0 } to it.getOrElse(1) { 0 } }
+            if (of == 0) null else name to got * 100 / of
+        }.minByOrNull { it.second }
+    }
+
+    /**
+     * A round sized to fit [minutes]: the reviews that are due, then new items (towards today's
+     * target) until the time is full. A review takes about 12 seconds, a new item about 40.
+     */
+    suspend fun buildRound(extraNew: Int = 0, minutes: Int = prefs.roundMinutes.value): List<Step> {
         load()
-        val due = dueIds().take(40)
+        val budget = minutes * 60
+        val allDue = dueIds()
+        val due = allDue.take((budget / 12).coerceAtLeast(10))
         val plan = plan()
         val left = (plan.newPerDay - newToday()).coerceAtLeast(0)
-        var newCount = minOf(10, left) + extraNew
+        val room = ((budget - due.size * 12) / 40).coerceAtLeast(0)
+        var newCount = minOf(room, left) + extraNew
         // With a big pile of reviews, catch up before adding more.
-        if (dueIds().size > 80) newCount = minOf(newCount, 3 + extraNew)
-        val fresh = pickNew(newCount)
+        if (allDue.size > 150) newCount = minOf(newCount, 5 + extraNew)
+        val focus = when (weakSection()?.first) {
+            "Vocabulary" -> Kind.WORD
+            "Grammar" -> Kind.GRAMMAR
+            else -> null
+        }
+        val fresh = pickNew(newCount, focus)
 
         val steps = ArrayList<Step>()
         val reviews = ArrayDeque(due.shuffled())
@@ -193,10 +257,29 @@ class Study(private val content: Content, private val dao: StudyDao, private val
 
     // ---- saving answers and time ----
 
-    suspend fun answer(id: String, correct: Boolean, wasNew: Boolean) = lock.withLock {
+    /** The ways an item must be answered right before it can count as known. */
+    fun neededWays(id: String): Set<Int> = when (Kind.of(id)) {
+        Kind.WORD -> content.wordById[id]?.let { if (it.hasKanji && it.word != it.reading) setOf(0, 1, 2) else setOf(0, 1) } ?: emptySet()
+        Kind.KANJI -> setOf(0, 1, 2)
+        Kind.KATA, Kind.HIRA, Kind.PHRASE -> setOf(0, 1)
+        else -> emptySet()
+    }
+
+    fun missingWays(id: String): Set<Int> {
+        val got = _states.value[id]?.ways ?: 0
+        return neededWays(id).filter { got and (1 shl it) == 0 }.toSet()
+    }
+
+    suspend fun answer(id: String, correct: Boolean, wasNew: Boolean, way: Int = -1) = lock.withLock {
         val now = System.currentTimeMillis()
         val old = _states.value[id] ?: ItemState(id, Kind.of(id).name)
-        val updated = Srs.answer(old, correct, now, prefs.spacing.value)
+        var updated = Srs.answer(old, correct, now, prefs.spacing.value)
+        if (correct && way >= 0) updated = updated.copy(ways = updated.ways or (1 shl way))
+        // Not known until it has been answered right every way: hold it just below known.
+        val missing = neededWays(id).any { updated.ways and (1 shl it) == 0 }
+        if (missing && updated.stage >= Srs.KNOWN) {
+            updated = updated.copy(stage = Srs.KNOWN - 1, due = now + Srs.interval(Srs.KNOWN - 1, prefs.spacing.value))
+        }
         dao.putState(updated)
         _states.value = _states.value + (id to updated)
         val d = dao.day(today()) ?: DayLog(today())

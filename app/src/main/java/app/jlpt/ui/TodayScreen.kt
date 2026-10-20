@@ -117,7 +117,14 @@ fun TodayScreen(nav: (Screen) -> Unit) {
                     Text("$newLeft new left today", color = LocalExtra.current.muted)
                 }
             }
-            Gap(16.dp)
+            Gap(12.dp)
+            val roundMin by a.prefs.roundMinutes.state.collectAsState()
+            Row(verticalAlignment = Alignment.CenterVertically) {
+                Text("Round", style = MaterialTheme.typography.labelLarge, color = LocalExtra.current.muted)
+                HGap(10.dp)
+                ChoiceRow(listOf(15 to "15 min", 30 to "30 min", 60 to "60 min"), roundMin) { a.prefs.roundMinutes.value = it }
+            }
+            Gap(12.dp)
             Button(
                 onClick = { nav(Screen.Study(0)) },
                 modifier = Modifier.fillMaxWidth().heightIn(min = 56.dp),
@@ -127,8 +134,22 @@ fun TodayScreen(nav: (Screen) -> Unit) {
         }
         Gap()
 
+        // A check-up once a week, inside the app (never a notification).
+        val tests by remember { a.db.dao().testsFlow() }.collectAsState(initial = emptyList())
+        val lastWeekly = tests.firstOrNull { it.sections.startsWith("weekly") && it.level == examLevel }
+        val weeklyDue = plan.daysLeft > 0 && (lastWeekly == null || System.currentTimeMillis() - lastWeekly.time > 7L * 86_400_000L)
+        if (weeklyDue) {
+            Panel(onClick = { nav(Screen.MockTest(examLevel, weekly = true)) }, color = MaterialTheme.colorScheme.secondaryContainer) {
+                Label("Weekly check", color = MaterialTheme.colorScheme.onSecondaryContainer)
+                Text("Time for this week's mock", style = MaterialTheme.typography.titleMedium)
+                Text("About 25 minutes, on what you've covered so far. Your weakest part gets more practice next week.",
+                    style = MaterialTheme.typography.bodySmall)
+            }
+            Gap()
+        }
+
         // The exam.
-        Panel(onClick = { nav(Screen.Progress) }) {
+        Panel(onClick = { nav(Screen.Plan) }) {
             Row(verticalAlignment = Alignment.CenterVertically) {
                 Column(Modifier.weight(1f)) {
                     Label("${lvl(examLevel)} exam")
@@ -150,7 +171,7 @@ fun TodayScreen(nav: (Screen) -> Unit) {
             Gap(6.dp)
             Text(
                 "$started of ${plan.examTotal} words, kanji, grammar and kana met" +
-                    if (plan.tight) ". At this pace you'll meet most of it; more minutes a day would cover it all." else "",
+                    if (plan.tight) ". To stay on plan this needs about ${(plan.newPerDay / 0.6).toInt()} min a day. Tap for the plan." else ". Tap for the plan.",
                 style = MaterialTheme.typography.bodySmall, color = LocalExtra.current.muted,
             )
         }

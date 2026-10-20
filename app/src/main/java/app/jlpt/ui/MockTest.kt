@@ -61,11 +61,17 @@ private data class MockQ(
 
 private val sections = listOf("Vocabulary", "Grammar", "Reading", "Listening")
 
-private fun buildTest(a: JlptApp, level: Int): List<MockQ> {
+/**
+ * [covered] true: the weekly check, with vocabulary and grammar only from what you have met so far
+ * (N5 up to [level]), so the score shows how well the plan's work so far has stuck.
+ */
+private fun buildTest(a: JlptApp, level: Int, covered: Boolean = false): List<MockQ> {
     val c = a.content
     val out = ArrayList<MockQ>()
-    val words = c.words.filter { it.level == level && it.hasKanji && it.word != it.reading }.shuffled()
-    val pool = c.words.filter { it.level == level }
+    val met = { id: String -> a.study.stage(id) > 0 }
+    val levelWords = if (covered) c.words.filter { it.level >= level && met(it.id) } else c.words.filter { it.level == level }
+    val words = levelWords.filter { it.hasKanji && it.word != it.reading }.shuffled().let { if (covered && it.size < 9) c.words.filter { w -> w.level == level && w.hasKanji && w.word != w.reading }.shuffled() else it }
+    val pool = levelWords.ifEmpty { c.words.filter { it.level == level } }
     fun others(n: Int, pick: (app.jlpt.data.Word) -> String, not: String) =
         pool.shuffled().map(pick).filter { it != not && it.isNotBlank() }.distinct().take(n)
 
@@ -87,7 +93,8 @@ private fun buildTest(a: JlptApp, level: Int): List<MockQ> {
         out += MockQ("Vocabulary", Quiz("${w.markup}\nWhat does it mean?", opts, opts.indexOf(right), ""))
     }
     // Grammar.
-    for (g in c.grammar.filter { it.level == level }.shuffled().take(8)) {
+    val grammar = if (covered) c.grammar.filter { it.level >= level && met(it.id) }.ifEmpty { c.grammar.filter { it.level == level } } else c.grammar.filter { it.level == level }
+    for (g in grammar.shuffled().take(8)) {
         val q = g.quiz.randomOrNull() ?: continue
         out += MockQ("Grammar", q)
     }
@@ -103,9 +110,9 @@ private fun buildTest(a: JlptApp, level: Int): List<MockQ> {
 }
 
 @Composable
-fun MockTestScreen(level: Int, onBack: () -> Unit) {
+fun MockTestScreen(level: Int, onBack: () -> Unit, covered: Boolean = false) {
     val a = app()
-    val test = remember(level) { buildTest(a, level) }
+    val test = remember(level) { buildTest(a, level, covered) }
     val answers = remember { mutableStateMapOf<Int, Int>() }
     var i by remember { mutableIntStateOf(-1) }
     var start by remember { mutableLongStateOf(0L) }
@@ -121,7 +128,7 @@ fun MockTestScreen(level: Int, onBack: () -> Unit) {
     DisposableEffect(Unit) { onDispose { a.speech.stop() } }
 
     Column(Modifier.fillMaxSize()) {
-        BackBar("${lvl(level)} mock test", { if (i >= 0 && !finished) leaving = true else onBack() }, actions = {
+        BackBar(if (covered) "Weekly check" else "${lvl(level)} mock test", { if (i >= 0 && !finished) leaving = true else onBack() }, actions = {
             if (i >= 0 && !finished) {
                 val s = ((now - start) / 1000).coerceAtLeast(0)
                 Text("%d:%02d".format(s / 60, s % 60), style = MaterialTheme.typography.titleMedium, modifier = Modifier.padding(end = 16.dp))
@@ -143,7 +150,7 @@ fun MockTestScreen(level: Int, onBack: () -> Unit) {
                 Gap(24.dp)
                 Button(onClick = { start = System.currentTimeMillis(); i = 0 }, Modifier.fillMaxWidth().heightIn(min = 54.dp)) { Text("Start") }
             }
-            finished -> Results(level, test, answers, ((now - start) / 60000).toInt(), onBack)
+            finished -> Results(level, test, answers, ((now - start) / 60000).toInt(), onBack, covered)
             else -> {
                 val q = test[i]
                 Column(Modifier.weight(1f).verticalScroll(rememberScrollState()).padding(horizontal = 16.dp)) {
@@ -217,7 +224,7 @@ private fun MockPlayer(l: Listening) {
 }
 
 @Composable
-private fun Results(level: Int, test: List<MockQ>, answers: Map<Int, Int>, minutes: Int, onBack: () -> Unit) {
+private fun Results(level: Int, test: List<MockQ>, answers: Map<Int, Int>, minutes: Int, onBack: () -> Unit, weekly: Boolean = false) {
     val a = app()
     val bySection = sections.mapNotNull { s ->
         val idx = test.indices.filter { test[it].section == s }
@@ -232,7 +239,7 @@ private fun Results(level: Int, test: List<MockQ>, answers: Map<Int, Int>, minut
     LaunchedEffect(Unit) {
         a.db.dao().addTest(TestResult(
             level = level, time = System.currentTimeMillis(),
-            sections = bySection.joinToString(";") { "${it.first}=${it.second}/${it.third}" },
+            sections = (if (weekly) "weekly;" else "") + bySection.joinToString(";") { "${it.first}=${it.second}/${it.third}" },
             score = score, total = total,
         ))
     }

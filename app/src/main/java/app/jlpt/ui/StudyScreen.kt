@@ -138,12 +138,12 @@ fun StudyScreen(extraNew: Int, onClose: () -> Unit, onExplainInChat: (String) ->
                     is Step.Ask -> AskStep(
                         key = "$index-${step.id}",
                         id = step.id,
-                        onAnswered = { correct ->
+                        onAnswered = { correct, way ->
                             lastTouch = System.currentTimeMillis()
                             asked++
                             if (correct) right++
                             val wasNew = a.study.stage(step.id) == 0 && countedNew.add(step.id)
-                            scope.launch { a.study.answer(step.id, correct, wasNew) }
+                            scope.launch { a.study.answer(step.id, correct, wasNew, way) }
                             // Ask again a few cards later, once.
                             if (!correct && retried.add(step.id)) {
                                 val at = minOf(steps.size, index + 4)
@@ -200,14 +200,14 @@ private fun sayFor(a: app.jlpt.JlptApp, id: String): String? = when (app.jlpt.da
 private fun AskStep(
     key: String,
     id: String,
-    onAnswered: (Boolean) -> Unit,
+    onAnswered: (Boolean, Int) -> Unit,
     onNext: () -> Unit,
     onExplainInChat: (String) -> Unit,
 ) {
     val a = app()
     val scope = rememberCoroutineScope()
     val q: Question? = remember(key) {
-        a.questions.make(id, a.study.stage(id), a.speech.ready, a.prefs.showRomaji.value)
+        a.questions.make(id, a.study.stage(id), a.speech.ready, a.prefs.showRomaji.value, a.study.missingWays(id))
     }
     if (q == null) {
         LaunchedEffect(key) { onNext() }
@@ -218,6 +218,16 @@ private fun AskStep(
     var explaining by remember(key) { mutableStateOf(false) }
     val answered = chosen >= 0
     val ex = LocalExtra.current
+
+    // Right answers move on by themselves after a moment (long enough to hear the word);
+    // wrong ones wait for Next so there is time to look.
+    var moved by remember(key) { mutableStateOf(false) }
+    LaunchedEffect(chosen) {
+        if (chosen >= 0 && chosen == q.answer) {
+            delay(if (a.prefs.autoPlay.value && q.audio != null && !q.audioOnly) 1700 else 1100)
+            if (!moved) { moved = true; onNext() }
+        }
+    }
 
     LaunchedEffect(key) {
         if (q.audioOnly && q.audio != null) {
@@ -281,7 +291,7 @@ private fun AskStep(
                         .border(if (answered && (isRight || i == chosen)) 2.dp else 1.dp, border, RoundedCornerShape(16.dp))
                         .clickable(enabled = !answered) {
                             chosen = i
-                            onAnswered(i == q.answer)
+                            onAnswered(i == q.answer, q.way)
                             if (a.prefs.autoPlay.value && q.audio != null && !q.audioOnly) a.speech.say(q.audio)
                         }
                         .heightIn(min = 56.dp)
@@ -354,7 +364,7 @@ private fun AskStep(
             }
         }
         if (answered) {
-            Button(onClick = onNext, modifier = Modifier.fillMaxWidth().padding(16.dp).navigationBarsPadding().heightIn(min = 54.dp)) {
+            Button(onClick = { if (!moved) { moved = true; onNext() } }, modifier = Modifier.fillMaxWidth().padding(16.dp).navigationBarsPadding().heightIn(min = 54.dp)) {
                 Text("Next", fontSize = 17.sp)
             }
         }
