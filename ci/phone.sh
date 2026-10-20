@@ -4,16 +4,20 @@ set -u
 PKG=app.justletmepassthis
 OUT=phone
 mkdir -p "$OUT"
-shot() { sleep "${2:-2}"; adb exec-out screencap -p > "$OUT/$1.png"; echo "saved $1"; }
+shot() { sleep "${2:-2}"; anr; adb exec-out screencap -p > "$OUT/$1.png"; echo "saved $1"; }
 start() { adb shell am force-stop "$PKG"; adb shell am start -W -n "$PKG/app.jlpt.ui.MainActivity" --ez skip_intro true "$@" > /dev/null 2>&1; }
-tap() { python3 ci/ui.py tap "$@" >> "$OUT/taps.txt" 2>&1 || true; }
+# A slow emulator sometimes shows "isn't responding" for another app: press Wait so it doesn't cover ours.
+anr() { for _ in 1 2 3; do if python3 ci/ui.py has "Wait"; then python3 ci/ui.py tap "Wait" || true; sleep 2; else return 0; fi; done; }
+tap() { anr; python3 ci/ui.py tap "$@" >> "$OUT/taps.txt" 2>&1 || true; }
 
 adb logcat -c || true
 adb shell pm grant "$PKG" android.permission.POST_NOTIFICATIONS || true
 adb shell input keyevent KEYCODE_WAKEUP; adb shell wm dismiss-keyguard || true
 
+sleep 20
+anr
 start --es route listen
-shot 01_listen 4
+shot 01_listen 6
 tap "Play"
 shot 02_after_play 6
 python3 ci/ui.py texts > "$OUT/02_texts.txt" 2>&1 || true
