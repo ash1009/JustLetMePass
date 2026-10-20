@@ -192,6 +192,7 @@ fun SettingsScreen(onBack: () -> Unit) {
             }
             AnimatedVisibility(more) { MoreSettings(onReset = { confirmReset = true }) }
             Gap(24.dp)
+            LastCrash()
             About()
             Gap(32.dp)
         }
@@ -275,4 +276,24 @@ private fun About() {
             style = MaterialTheme.typography.bodySmall, color = LocalExtra.current.muted,
         )
     }
+}
+
+
+/** Shows the last time the app closed by itself, so it can be copied and sent. */
+@Composable
+private fun LastCrash() {
+    val ctx = LocalContext.current
+    val sp = remember { ctx.getSharedPreferences("crash", android.content.Context.MODE_PRIVATE) }
+    var text by remember { mutableStateOf(sp.getString("last", null)) }
+    val clip = androidx.compose.ui.platform.LocalClipboardManager.current
+    val t = text ?: return
+    Panel(color = MaterialTheme.colorScheme.primaryContainer) {
+        Text("The app closed by itself last time", style = MaterialTheme.typography.titleMedium)
+        Text(t.lines().take(3).joinToString("\n"), style = MaterialTheme.typography.bodySmall, maxLines = 3)
+        Row {
+            TextButton(onClick = { clip.setText(androidx.compose.ui.text.AnnotatedString(t)) }) { Text("Copy error") }
+            TextButton(onClick = { sp.edit().remove("last").apply(); text = null }) { Text("Clear") }
+        }
+    }
+    Gap(16.dp)
 }

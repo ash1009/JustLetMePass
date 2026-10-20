@@ -27,6 +27,16 @@ class JlptApp : Application() {
 
     override fun onCreate() {
         super.onCreate()
+        // If the app ever closes by itself, keep what went wrong so Settings can show it.
+        val previous = Thread.getDefaultUncaughtExceptionHandler()
+        Thread.setDefaultUncaughtExceptionHandler { thread, e ->
+            runCatching {
+                getSharedPreferences("crash", MODE_PRIVATE).edit()
+                    .putString("last", "${java.time.LocalDateTime.now()}\n${android.util.Log.getStackTraceString(e).take(4000)}")
+                    .commit()
+            }
+            previous?.uncaughtException(thread, e)
+        }
         prefs = Prefs(this)
         db = StudyDb.open(this)
         content = Content(this)
