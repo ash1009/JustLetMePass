@@ -54,7 +54,10 @@ fun PlanScreen(nav: (Screen) -> Unit, onBack: () -> Unit) {
     val weekNew = (0..6).sumOf { byDay[today.minusDays(it.toLong()).toString()]?.newItems ?: 0 }
     val weekMin = (0..6).sumOf { byDay[today.minusDays(it.toLong()).toString()]?.seconds ?: 0 } / 60
     val weeksLeft = ceil(plan.studyDays / 7.0).toInt().coerceAtLeast(1)
-    val weekTarget = plan.newPerDay * 7
+    // Only the days since you started count, up to a week (today included).
+    val firstDay = days.minByOrNull { it.day }?.day?.let { runCatching { LocalDate.parse(it) }.getOrNull() } ?: today
+    val daysIn = (java.time.temporal.ChronoUnit.DAYS.between(firstDay, today) + 1).coerceIn(1, 7).toInt()
+    val weekTarget = plan.newPerDay * daysIn
     val met = plan.examTotal - plan.examLeft
     val todayLog = byDay[today.toString()]
     val newLeftToday = (plan.newPerDay - (todayLog?.newItems ?: 0)).coerceAtLeast(0)
