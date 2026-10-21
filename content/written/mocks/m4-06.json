@@ -5,27 +5,27 @@
  "vocab": [
   {
    "type": "kanji_reading",
-   "q_raw": "来月、姉の【結婚式】があります。",
+   "q_raw": "来月、姉の【卒業式】があります。",
    "options": [
-    "けいこんしき",
-    "けっこんしき",
-    "けっこうしき",
-    "けこんしき"
+    "そつぎょしき",
+    "そつぎょうしき",
+    "そつぎょうしぎ",
+    "そつごうしき"
    ],
    "answer": 1,
-   "en": "My older sister's wedding is next month."
+   "en": "My older sister's graduation ceremony is next month."
   },
   {
    "type": "kanji_reading",
-   "q_raw": "夏の【祭り】には、たくさんの人が来ます。",
+   "q_raw": "お正月には、この【神社】にたくさんの人が来ます。",
    "options": [
-    "まつり",
-    "まどり",
-    "あつり",
-    "まいり"
+    "じんじゃ",
+    "しんじゃ",
+    "じんしゃ",
+    "かみしゃ"
    ],
    "answer": 0,
-   "en": "Many people come to the summer festival."
+   "en": "Many people come to this shrine at New Year."
   },
   {
    "type": "kanji_reading",
@@ -41,7 +41,7 @@
   },
   {
    "type": "kanji_reading",
-   "q_raw": "旅行の【写真】を友だちに送りました。",
+   "q_raw": "旅行の【写真】を友だちに見せました。",
    "options": [
     "しゃじん",
     "じゃしん",
@@ -49,7 +49,7 @@
     "しゃっしん"
    ],
    "answer": 2,
-   "en": "I sent the trip photos to my friend."
+   "en": "I showed my friend the photos from my trip."
   },
   {
    "type": "kanji_reading",
@@ -113,7 +113,7 @@
   },
   {
    "type": "orthography",
-   "q": "{旅行|りょこう}の{写真|しゃしん}をメールで【おくりました】。",
+   "q": "{旅行|りょこう}のビデオをメールで【おくりました】。",
    "options_raw": [
     "逆りました",
     "途りました",
@@ -121,7 +121,7 @@
     "近りました"
    ],
    "answer": 2,
-   "en": "I sent the trip photos by email."
+   "en": "I sent the video of my trip by email."
   },
   {
    "type": "orthography",
@@ -149,7 +149,7 @@
   },
   {
    "type": "context",
-   "q": "{友|とも}だちの{結婚式|けっこんしき}で、みんなの{前|まえ}で＿＿をしました。",
+   "q": "{友|とも}だちの{結婚|けっこん}パーティーで、みんなの{前|まえ}で＿＿をしました。",
    "options": [
     "スピーチ",
     "ニュース",
@@ -157,11 +157,11 @@
     "パート"
    ],
    "answer": 0,
-   "en": "At my friend's wedding, I gave a speech in front of everyone."
+   "en": "At my friend's wedding party, I gave a speech in front of everyone."
   },
   {
    "type": "context",
-   "q": "このアプリを{使|つか}うときは、まずIDとパスワードを{入|い}れて＿＿してください。",
+   "q": "このアプリを{使|つか}うときは、まずIDとパスワードで＿＿してください。",
    "options": [
     "プリント",
     "ログイン",
@@ -296,12 +296,12 @@
    "word": "おいわい",
    "options": [
     "かぜをひいた{友|とも}だちのおいわいに{行|い}きました。",
-    "{兄|あに}が{大学|だいがく}に{入|はい}ったので、{家族|かぞく}でおいわいをしました。",
-    "{電車|でんしゃ}がおいわいして、{学校|がっこう}に{遅|おく}れました。",
+    "{兄|あに}の{仕事|しごと}が{決|き}まったので、{家族|かぞく}でおいわいをしました。",
+    "バスがおいわいして、{約束|やくそく}に{遅|おく}れました。",
     "{道|みち}がわからないので、おいわいしてください。"
    ],
    "answer": 1,
-   "en": "おいわい = a celebration. Correct: My brother got into university, so the family celebrated."
+   "en": "おいわい = a celebration. Correct: My brother got a job, so the family celebrated."
   },
   {
    "type": "usage",
@@ -309,11 +309,11 @@
    "options": [
     "{毎朝|まいあさ}{七時|しちじ}に{家|いえ}を{届|とど}きます。",
     "{弟|おとうと}は{駅|えき}まで{歩|ある}いて{届|とど}きました。",
-    "{雨|あめ}が{届|とど}いて、{花見|はなみ}ができませんでした。",
-    "{昨日|きのう}{送|おく}ったメールは、もう{届|とど}きましたか。"
+    "{雨|あめ}が{届|とど}いて、テニスができませんでした。",
+    "{昨日|きのう}{出|だ}した{手紙|てがみ}は、もう{届|とど}きましたか。"
    ],
    "answer": 3,
-   "en": "{届|とど}く = to arrive (a letter, email, package). Correct: Has the email I sent yesterday arrived yet?"
+   "en": "{届|とど}く = to arrive (a letter, email, package). Correct: Has the letter I sent yesterday arrived yet?"
   },
   {
    "type": "usage",
@@ -539,13 +539,13 @@
   },
   {
    "type": "star",
-   "before": "{雨|あめ}が",
-   "after": "{行|い}くつもりです。",
+   "before": "{仕事|しごと}が",
+   "after": "{行|い}きましょう。",
    "pieces": [
-    "{祭|まつ}りに",
-    "も",
-    "は",
-    "{降|ふ}って"
+    "{祭|まつ}りを",
+    "ら",
+    "{見|み}に",
+    "{終|お}わった"
    ],
    "order": [
     3,
@@ -554,8 +554,8 @@
     2
    ],
    "star": 3,
-   "en": "I plan to go to the festival even if it rains.",
-   "why": "{降|ふ}っても means 'even if it rains', and {祭|まつ}りには marks where you will go."
+   "en": "When work is over, let's go and see the festival.",
+   "why": "{終|お}わった + ら makes ～たら, {祭|まつ}りを is the object of {見|み}る, and {見|み}に{行|い}く means 'go to see'."
   },
   {
    "type": "star",

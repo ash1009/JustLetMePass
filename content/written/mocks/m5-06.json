@@ -53,7 +53,7 @@
   },
   {
    "type": "kanji_reading",
-   "q_raw": "なつ【休み】に かぞくと 山へ 行きました。",
+   "q_raw": "なつ【休み】に かぞくと うみへ 行きました。",
    "options": [
     "やすみ",
     "やすむ",
@@ -61,7 +61,7 @@
     "よすみ"
    ],
    "answer": 0,
-   "en": "During the summer holidays I went to the mountains with my family."
+   "en": "During the summer holidays I went to the sea with my family."
   },
   {
    "type": "kanji_reading",
@@ -113,15 +113,15 @@
   },
   {
    "type": "orthography",
-   "q": "{土曜日|どようび}に 【ともだち】と パーティーを しました。",
+   "q": "{土曜日|どようび}に 【あに】と テニスを しました。",
    "options_raw": [
-    "友だち",
-    "有だち",
-    "反だち",
-    "支だち"
+    "兄",
+    "元",
+    "先",
+    "光"
    ],
    "answer": 0,
-   "en": "On Saturday I had a party with my friends."
+   "en": "On Saturday I played tennis with my older brother."
   },
   {
    "type": "orthography",
@@ -149,7 +149,7 @@
   },
   {
    "type": "context",
-   "q": "{駅|えき}で {電車|でんしゃ}の ＿＿を {買|か}いました。",
+   "q": "バスに のる {前|まえ}に、＿＿を {買|か}いました。",
    "options": [
     "きって",
     "はがき",
@@ -157,7 +157,7 @@
     "きっぷ"
    ],
    "answer": 3,
-   "en": "I bought a train ticket at the station."
+   "en": "Before getting on the bus, I bought a ticket."
   },
   {
    "type": "context",
@@ -201,7 +201,7 @@
    "options": [
     "はいりました",
     "あいました",
-    "みせました",
+    "かえりました",
     "みえました"
    ],
    "answer": 3,
@@ -367,23 +367,23 @@
   },
   {
    "type": "star",
-   "before": "これは",
-   "after": "です。",
+   "before": "{机|つくえ}の",
+   "after": "が あります。",
    "pieces": [
-    "とけい",
-    "から",
-    "もらった",
-    "{母|はは}"
+    "に",
+    "{上|うえ}",
+    "ペン",
+    "あかい"
    ],
    "order": [
-    3,
     1,
-    2,
-    0
+    0,
+    3,
+    2
    ],
    "star": 2,
-   "en": "This is the watch I got from my mother.",
-   "why": "はは から means from mother, もらった describes the noun, and とけい must come right before です."
+   "en": "There is a red pen on the desk.",
+   "why": "〜の {上|うえ}に gives the place, and あかい comes right before ペン."
   },
   {
    "type": "star",
@@ -428,22 +428,22 @@
   {
    "type": "star",
    "before": "きのう",
-   "after": "ケーキは おいしかったです。",
+   "after": "は おいしかったです。",
    "pieces": [
-    "くれた",
     "{姉|あね}",
-    "{作|つく}って",
-    "が"
+    "が",
+    "{作|つく}った",
+    "ケーキ"
    ],
    "order": [
+    0,
     1,
-    3,
     2,
-    0
+    3
    ],
-   "star": 3,
-   "en": "The cake my older sister made for me yesterday was delicious.",
-   "why": "あねが is the doer, つくってくれた describes the cake, and くれた must come right before ケーキ."
+   "star": 2,
+   "en": "The cake my older sister made yesterday was delicious.",
+   "why": "{姉|あね}が {作|つく}った is a clause that describes ケーキ, so it comes right before it."
   },
   {
    "type": "text",

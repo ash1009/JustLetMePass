@@ -101,7 +101,7 @@
   },
   {
    "type": "orthography",
-   "q": "{友達|ともだち}に　【てがみ】を　かきました。",
+   "q": "{母|はは}に　【てがみ】を　かきました。",
    "options_raw": [
     "手紙",
     "毛紙",
@@ -109,7 +109,7 @@
     "午紙"
    ],
    "answer": 0,
-   "en": "I wrote a letter to my friend."
+   "en": "I wrote a letter to my mother."
   },
   {
    "type": "orthography",
@@ -161,7 +161,7 @@
   },
   {
    "type": "context",
-   "q": "{部屋|へや}が　くらいですから、でんきを　＿＿　ください。",
+   "q": "{教室|きょうしつ}が　くらいですから、でんきを　＿＿　ください。",
    "options": [
     "けして",
     "つけて",
@@ -169,11 +169,11 @@
     "あけて"
    ],
    "answer": 1,
-   "en": "The room is dark, so please turn on the light."
+   "en": "The classroom is dark, so please turn on the light."
   },
   {
    "type": "context",
-   "q": "きのう　{友達|ともだち}の　うちへ　＿＿に　いきました。",
+   "q": "きのう　{田中|たなか}さんの　うちへ　＿＿に　いきました。",
    "options": [
     "でかけ",
     "はいり",
@@ -181,11 +181,11 @@
     "かえり"
    ],
    "answer": 2,
-   "en": "Yesterday I went to my friend's house to hang out."
+   "en": "Yesterday I went to Tanaka's house to hang out."
   },
   {
    "type": "context",
-   "q": "ぎんこうの　まえで　{友達|ともだち}を　{30分|さんじゅっぷん}　＿＿。",
+   "q": "ぎんこうの　まえで　やまださんを　{30分|さんじゅっぷん}　＿＿。",
    "options": [
     "まがりました",
     "わたりました",
@@ -193,7 +193,7 @@
     "まちました"
    ],
    "answer": 3,
-   "en": "I waited for my friend in front of the bank for 30 minutes."
+   "en": "I waited for Yamada in front of the bank for 30 minutes."
   },
   {
    "type": "context",
@@ -209,19 +209,19 @@
   },
   {
    "type": "context",
-   "q": "{手紙|てがみ}に　110{円|えん}の　＿＿を　はりました。",
+   "q": "はがきを　＿＿に　いれました。",
    "options": [
-    "はがき",
-    "きって",
-    "ふうとう",
-    "ポスト"
+    "ぼうし",
+    "ポスト",
+    "きっぷ",
+    "でんわ"
    ],
    "answer": 1,
-   "en": "I put a 110-yen stamp on the letter."
+   "en": "I put the postcard in the postbox."
   },
   {
    "type": "paraphrase",
-   "q": "わたしの　{部屋|へや}は　【せまいです】。",
+   "q": "この　アパートは　【せまいです】。",
    "options": [
     "あかるくないです",
     "きれいじゃないです",
@@ -229,7 +229,7 @@
     "しずかじゃないです"
    ],
    "answer": 2,
-   "en": "My room is small."
+   "en": "This apartment is small."
   },
   {
    "type": "paraphrase",

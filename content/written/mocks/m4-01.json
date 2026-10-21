@@ -5,39 +5,39 @@
  "vocab": [
   {
    "type": "kanji_reading",
-   "q_raw": "来週、新しいアパートに【引っ越し】ます。",
+   "q_raw": "わたしは古い切手を【集めて】います。",
    "options": [
-    "ひきこし",
-    "ひっこし",
-    "ひっこうし",
-    "ひこし"
+    "あづめて",
+    "あつめて",
+    "あしめて",
+    "あつまって"
    ],
    "answer": 1,
-   "en": "I am moving to a new apartment next week."
+   "en": "I collect old stamps."
   },
   {
    "type": "kanji_reading",
-   "q_raw": "明日の朝、十時から【会議】があります。",
+   "q_raw": "明日の朝、十時から【授業】があります。",
    "options": [
-    "かいぎ",
-    "がいぎ",
-    "かいき",
-    "がいき"
+    "じゅぎょう",
+    "じゅうぎょう",
+    "じゅぎょ",
+    "しゅぎょう"
    ],
    "answer": 0,
-   "en": "There is a meeting from ten tomorrow morning."
+   "en": "There is a class from ten tomorrow morning."
   },
   {
    "type": "kanji_reading",
-   "q_raw": "図書館で本を三冊【借りました】。",
+   "q_raw": "図書館で本を三冊【選びました】。",
    "options": [
-    "かしました",
-    "きりました",
-    "かりました",
-    "かえりました"
+    "えれびました",
+    "えりびました",
+    "えらびました",
+    "えらみました"
    ],
    "answer": 2,
-   "en": "I borrowed three books at the library."
+   "en": "I chose three books at the library."
   },
   {
    "type": "kanji_reading",
@@ -233,7 +233,7 @@
   },
   {
    "type": "context",
-   "q": "{借|か}りた{本|ほん}を{返|かえ}すのを＿＿いて、{図書館|としょかん}から{電話|でんわ}がありました。",
+   "q": "{借|か}りた{本|ほん}のことを＿＿いて、{図書館|としょかん}から{電話|でんわ}がありました。",
    "options": [
     "おぼえて",
     "しらべて",
@@ -241,7 +241,7 @@
     "わすれて"
    ],
    "answer": 3,
-   "en": "I had forgotten to return a book I borrowed, and the library called me."
+   "en": "I had forgotten about the book I borrowed, and the library called me."
   },
   {
    "type": "paraphrase",
@@ -272,7 +272,7 @@
    "q": "この{図書館|としょかん}は、{土曜日|どようび}はいつも【こんで】います。",
    "options": [
     "{土曜日|どようび}は{人|ひと}が{少|すく}ないです。",
-    "{土曜日|どようび}はとてもしずかです。",
+    "{土曜日|どようび}は{早|はや}く{閉|し}まります。",
     "{土曜日|どようび}は{休|やす}みです。",
     "{土曜日|どようび}は{人|ひと}がたくさんいます。"
    ],
@@ -308,7 +308,7 @@
    "word": "{返事|へんじ}",
    "options": [
     "{図書館|としょかん}に{本|ほん}の{返事|へんじ}をしました。",
-    "{課長|かちょう}からのメールに、すぐ{返事|へんじ}を{書|か}きました。",
+    "{先生|せんせい}からのメールに、すぐ{返事|へんじ}を{書|か}きました。",
     "{新|あたら}しい{家|いえ}に{返事|へんじ}しました。",
     "{店|みせ}でシャツの{返事|へんじ}をもらいました。"
    ],
@@ -320,7 +320,7 @@
    "word": "{遠慮|えんりょ}",
    "options": [
     "{会議|かいぎ}で{質問|しつもん}があったら、{遠慮|えんりょ}しないで{言|い}ってください。",
-    "{遠慮|えんりょ}な{道|みち}を{歩|ある}いて{会社|かいしゃ}に{行|い}きます。",
+    "{遠慮|えんりょ}な{道|みち}を{歩|ある}いて{学校|がっこう}に{行|い}きます。",
     "この{本|ほん}は{遠慮|えんりょ}なので、{誰|だれ}も{借|か}りません。",
     "{明日|あした}は{天気|てんき}が{遠慮|えんりょ}になるそうです。"
    ],
@@ -334,7 +334,7 @@
     "{図書館|としょかん}で{予定|よてい}を{借|か}りました。",
     "この{予定|よてい}はとてもおいしかったです。",
     "{来月|らいげつ}、{大阪|おおさか}に{引|ひ}っ{越|こ}す{予定|よてい}です。",
-    "この{部屋|へや}は{予定|よてい}が{広|ひろ}いです。"
+    "この{部屋|へや}は{予定|よてい}が{明|あか}るいです。"
    ],
    "answer": 2,
    "en": "a plan, a schedule"
@@ -499,33 +499,13 @@
   },
   {
    "type": "star",
-   "before": "{会議|かいぎ}が{始|はじ}まる",
-   "after": "ください。",
+   "before": "{会社|かいしゃ}に{近|ちか}いので、",
+   "after": "しました。",
    "pieces": [
-    "{読|よ}んで",
-    "おいて",
-    "{前|まえ}に",
-    "この{資料|しりょう}を"
-   ],
-   "order": [
-    2,
-    3,
-    0,
-    1
-   ],
-   "star": 1,
-   "en": "Please read this document before the meeting starts.",
-   "why": "{前|まえ}に follows the verb {始|はじ}まる, and おいて must come after {読|よ}んで to make ～ておいてください."
-  },
-  {
-   "type": "star",
-   "before": "{兄|あに}が",
-   "after": "くれました。",
-   "pieces": [
-    "{手伝|てつだ}って",
-    "{荷物|にもつ}を",
-    "{運|はこ}ぶのを",
-    "{重|おも}い"
+    "ことに",
+    "アパートに",
+    "{引|ひ}っ{越|こ}す",
+    "この"
    ],
    "order": [
     3,
@@ -533,9 +513,29 @@
     2,
     0
    ],
+   "star": 1,
+   "en": "Because it is close to my office, I decided to move to this apartment.",
+   "why": "この describes アパート, アパートに marks where you move to, and the verb {引|ひ}っ{越|こ}す comes before ことにしました."
+  },
+  {
+   "type": "star",
+   "before": "{図書館|としょかん}で",
+   "after": "{帰|かえ}ります。",
+   "pieces": [
+    "から",
+    "{宿題|しゅくだい}を",
+    "{家|いえ}に",
+    "して"
+   ],
+   "order": [
+    1,
+    3,
+    0,
+    2
+   ],
    "star": 2,
-   "en": "My older brother helped me carry the heavy luggage.",
-   "why": "{重|おも}い describes {荷物|にもつ}, {荷物|にもつ}を is the object of {運|はこ}ぶ, and ～のを{手伝|てつだ}ってくれる ends the sentence."
+   "en": "I will do my homework at the library and then go home.",
+   "why": "{宿題|しゅくだい}を is the object of して, ～てから means 'after doing', and {家|いえ}に goes with {帰|かえ}ります."
   },
   {
    "type": "star",
@@ -559,23 +559,23 @@
   },
   {
    "type": "star",
-   "before": "{課長|かちょう}に、この{書類|しょるい}を",
-   "after": "と{言|い}われました。",
+   "before": "この{図書館|としょかん}は",
+   "after": "です。",
    "pieces": [
-    "{出|だ}す",
-    "ように",
-    "{朝|あさ}までに",
-    "{明日|あした}の"
+    "し",
+    "{勉強|べんきょう}",
+    "やすい",
+    "{明|あか}るくて"
    ],
    "order": [
     3,
-    2,
+    1,
     0,
-    1
+    2
    ],
    "star": 3,
-   "en": "The section chief told me to hand in this document by tomorrow morning.",
-   "why": "{明日|あした}の must come before {朝|あさ}までに, and the verb {出|だ}す comes before ように."
+   "en": "This library is bright and easy to study in.",
+   "why": "{明|あか}るくて links to the next part, {勉強|べんきょう}し is the masu-stem of {勉強|べんきょう}する, and やすい attaches to it."
   },
   {
    "type": "text",

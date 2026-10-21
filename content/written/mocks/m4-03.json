@@ -5,12 +5,12 @@
  "vocab": [
   {
    "type": "kanji_reading",
-   "q_raw": "電車が【遅れて】、会議に間に合いませんでした。",
+   "q_raw": "電車が遅れて、【会議】に間に合いませんでした。",
    "options": [
-    "おそれて",
-    "おこれて",
-    "おくれて",
-    "おぐれて"
+    "かいき",
+    "がいぎ",
+    "かいぎ",
+    "がいき"
    ],
    "answer": 2,
    "en": "The train was late, so I didn't make it to the meeting."
@@ -53,15 +53,15 @@
   },
   {
    "type": "kanji_reading",
-   "q_raw": "京都で家族にお【土産】を買いました。",
+   "q_raw": "京都で古いお寺を【見物】しました。",
    "options": [
-    "みあげ",
-    "みやけ",
-    "みやげ",
-    "みあけ"
+    "けんもつ",
+    "げんぶつ",
+    "けんぶつ",
+    "けんふつ"
    ],
    "answer": 2,
-   "en": "I bought souvenirs for my family in Kyoto."
+   "en": "I went sightseeing at old temples in Kyoto."
   },
   {
    "type": "kanji_reading",
@@ -77,15 +77,15 @@
   },
   {
    "type": "kanji_reading",
-   "q_raw": "この【旅館】は部屋から見える山がとてもきれいです。",
+   "q_raw": "この旅館は、部屋から見える【景色】がとてもきれいです。",
    "options": [
-    "りょうかん",
-    "りょがん",
-    "りょうがん",
-    "りょかん"
+    "けいしき",
+    "けしぎ",
+    "けいしょく",
+    "けしき"
    ],
    "answer": 3,
-   "en": "From the rooms of this Japanese inn, the mountains look very beautiful."
+   "en": "The view from the rooms of this inn is very beautiful."
   },
   {
    "type": "orthography",
@@ -137,15 +137,15 @@
   },
   {
    "type": "orthography",
-   "q": "{夏休|なつやす}みに{家族|かぞく}と【りょこう】します。",
+   "q": "{夏休|なつやす}みに{家族|かぞく}と{海|うみ}で【およぎ】ます。",
    "options_raw": [
-    "旅交",
-    "旅行",
-    "族行",
-    "旅航"
+    "永ぎ",
+    "泳ぎ",
+    "氷ぎ",
+    "派ぎ"
    ],
    "answer": 1,
-   "en": "I will travel with my family in the summer holidays."
+   "en": "I will swim in the sea with my family in the summer holidays."
   },
   {
    "type": "context",
@@ -175,8 +175,8 @@
    "type": "context",
    "q": "{空港|くうこう}へ{行|い}くバスは、この＿＿から{出|で}ます。",
    "options": [
-    "{受付|うけつけ}",
-    "{会場|かいじょう}",
+    "{窓口|まどぐち}",
+    "{教室|きょうしつ}",
     "{乗|の}り{場|ば}",
     "{売|う}り{場|ば}"
    ],
@@ -209,7 +209,7 @@
   },
   {
    "type": "context",
-   "q": "{次|つぎ}の{駅|えき}で{急行|きゅうこう}に＿＿ください。",
+   "q": "{次|つぎ}の{駅|えき}で{地下鉄|ちかてつ}に＿＿ください。",
    "options": [
     "{降|お}りて",
     "{通|とお}って",
@@ -217,7 +217,7 @@
     "{乗|の}り{換|か}えて"
    ],
    "answer": 3,
-   "en": "Please change to the express train at the next station."
+   "en": "Please change to the subway at the next station."
   },
   {
    "type": "context",
@@ -305,15 +305,15 @@
   },
   {
    "type": "usage",
-   "word": "{泊|と}まる",
+   "word": "{急|いそ}ぐ",
    "options": [
-    "{雨|あめ}がやっと{泊|と}まりました。",
-    "{時計|とけい}が{泊|と}まってしまいました。",
-    "{今夜|こんや}は{友|とも}だちの{家|いえ}に{泊|と}まります。",
-    "{車|くるま}が{家|いえ}の{前|まえ}に{泊|と}まっています。"
+    "{雨|あめ}がやっと{急|いそ}ぎました。",
+    "この{部屋|へや}はとても{急|いそ}いでいます。",
+    "{電車|でんしゃ}に{間|ま}に{合|あ}うように、{駅|えき}まで{急|いそ}ぎました。",
+    "{車|くるま}が{家|いえ}の{前|まえ}で{急|いそ}いでいます。"
    ],
    "answer": 2,
-   "en": "to stay the night: Tonight I will stay at a friend's house."
+   "en": "to hurry: I hurried to the station so I would make the train."
   },
   {
    "type": "usage",

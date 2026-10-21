@@ -387,23 +387,23 @@
     },
     {
       "type": "star",
-      "before": "あしたは",
-      "after": "でしょう。",
+      "before": "{夏休|なつやす}みに",
+      "after": "です。",
       "pieces": [
-        "{雪|ゆき}が",
-        "なって",
-        "ふる",
-        "{寒|さむ}く"
+        "{行|い}き",
+        "たい",
+        "{海|うみ}",
+        "へ"
       ],
       "order": [
+        2,
         3,
-        1,
         0,
-        2
+        1
       ],
       "star": 0,
-      "en": "Tomorrow it will probably get cold and snow.",
-      "why": "さむく なって is one unit (become cold), then ゆきが ふる comes before でしょう."
+      "en": "I want to go to the sea in summer vacation.",
+      "why": "{海|うみ}へ marks where you go, and たい attaches to the ます-stem {行|い}き before です."
     },
     {
       "type": "star",

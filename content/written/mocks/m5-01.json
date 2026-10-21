@@ -77,7 +77,7 @@
   },
   {
    "type": "kanji_reading",
-   "q_raw": "スーパーで 【魚】を かいました。",
+   "q_raw": "ねこは 【魚】が すきです。",
    "options": [
     "にく",
     "たまご",
@@ -85,19 +85,19 @@
     "さかな"
    ],
    "answer": 3,
-   "en": "I bought fish at the supermarket."
+   "en": "Cats like fish."
   },
   {
    "type": "orthography",
-   "q": "{妹|いもうと}は 【しょうがっこう】の {二年生|にねんせい}です。",
+   "q": "{日曜日|にちようび}に {父|ちち}と 【やま】に のぼりました。",
    "options_raw": [
-    "少学校",
-    "小学校",
-    "小字校",
-    "小学交"
+    "出",
+    "山",
+    "川",
+    "止"
    ],
    "answer": 1,
-   "en": "My younger sister is in the second year of elementary school."
+   "en": "On Sunday I climbed a mountain with my father."
   },
   {
    "type": "orthography",
@@ -161,7 +161,7 @@
   },
   {
    "type": "context",
-   "q": "{雨|あめ}が ふって いますから、＿＿を もって {学校|がっこう}へ いきます。",
+   "q": "{雨|あめ}が ふって いますから、＿＿を もって {会社|かいしゃ}へ いきます。",
    "options": [
     "ほん",
     "めがね",
@@ -169,7 +169,7 @@
     "とけい"
    ],
    "answer": 2,
-   "en": "It is raining, so I will take an umbrella to school."
+   "en": "It's raining, so I'll take an umbrella to the office."
   },
   {
    "type": "context",
@@ -185,7 +185,7 @@
   },
   {
    "type": "context",
-   "q": "{先生|せんせい}、すみません。この ことばの ＿＿が わかりません。",
+   "q": "すみません。この ことばの ＿＿が わかりません。",
    "options": [
     "こえ",
     "うた",
@@ -193,7 +193,7 @@
     "いみ"
    ],
    "answer": 3,
-   "en": "Excuse me, teacher. I don't understand the meaning of this word."
+   "en": "Excuse me. I don't understand the meaning of this word."
   },
   {
    "type": "context",
@@ -209,7 +209,7 @@
   },
   {
    "type": "context",
-   "q": "{母|はは}は {毎晩|まいばん} {子|こ}どもに {本|ほん}を ＿＿。",
+   "q": "{父|ちち}は {毎晩|まいばん} {子|こ}どもに {本|ほん}を ＿＿。",
    "options": [
     "あらいます",
     "ききます",
@@ -217,35 +217,35 @@
     "よみます"
    ],
    "answer": 3,
-   "en": "My mother reads a book to the children every night."
+   "en": "My father reads books to the children every night."
   },
   {
    "type": "paraphrase",
-   "q": "【{兄|あに}は {大学|だいがく}で えいごを おしえて います。】",
+   "q": "【{兄|あに}は {大学|だいがく}で えいごを べんきょうして います。】",
    "options": [
-    "{兄|あに}は {大学|だいがく}の せんせいです。",
     "{兄|あに}は {大学|だいがく}の がくせいです。",
+    "{兄|あに}は {大学|だいがく}で はたらいて います。",
     "{兄|あに}は えいごが へたです。",
-    "{兄|あに}は {大学|だいがく}で えいごを ならって います。"
+    "{兄|あに}は {大学|だいがく}で えいごを おしえて います。"
    ],
    "answer": 0,
-   "en": "My older brother teaches English at a university."
+   "en": "My older brother studies English at university."
   },
   {
    "type": "paraphrase",
-   "q": "【この くつは やすくないです。】",
+   "q": "【この くつは ふるくないです。】",
    "options": [
-    "この くつは ふるいです。",
+    "この くつは きたないです。",
+    "この くつは おおきいです。",
     "この くつは あたらしいです。",
-    "この くつは たかいです。",
     "この くつは ちいさいです。"
    ],
    "answer": 2,
-   "en": "These shoes are not cheap."
+   "en": "These shoes are not old."
   },
   {
    "type": "paraphrase",
-   "q": "【{父|ちち}の {母|はは}は {六十|ろくじゅっ}さいです。】",
+   "q": "【{父|ちち}の おかあさんは {六十|ろくじゅっ}さいです。】",
    "options": [
     "おばさんは {六十|ろくじゅっ}さいです。",
     "おねえさんは {六十|ろくじゅっ}さいです。",
@@ -271,15 +271,15 @@
   },
   {
    "type": "form",
-   "q": "{姉|あね}は {銀行|ぎんこう}＿＿ はたらいて います。",
+   "q": "{姉|あね}は {友|とも}だち＿＿ えいがを みました。",
    "options": [
     "に",
-    "で",
+    "と",
     "を",
     "へ"
    ],
    "answer": 1,
-   "en": "My older sister works at a bank."
+   "en": "My older sister saw a movie with a friend."
   },
   {
    "type": "form",

@@ -89,15 +89,15 @@
   },
   {
    "type": "orthography",
-   "q": "【でんしゃ】で {学校|がっこう}に {行|い}きます。",
+   "q": "あしたは 【あめ】が ふるでしょう。",
    "options_raw": [
-    "雷車",
-    "電東",
-    "雲車",
-    "電車"
+    "両",
+    "雪",
+    "雲",
+    "雨"
    ],
    "answer": 3,
-   "en": "I go to school by train."
+   "en": "It will probably rain tomorrow."
   },
   {
    "type": "orthography",
@@ -209,7 +209,7 @@
   },
   {
    "type": "context",
-   "q": "ここから {駅|えき}まで あるいて {十分|じゅっぷん}ぐらい ＿＿。",
+   "q": "ここから {駅|えき}まで あるいて {五分|ごふん}ぐらい ＿＿。",
    "options": [
     "とります",
     "いきます",
@@ -217,19 +217,19 @@
     "すみます"
    ],
    "answer": 2,
-   "en": "It takes about ten minutes to walk from here to the station."
+   "en": "It takes about five minutes to walk from here to the station."
   },
   {
    "type": "paraphrase",
-   "q": "【おととい】 {友|とも}だちと {山|やま}に {行|い}きました。",
+   "q": "【おととい】 {友|とも}だちと {海|うみ}に {行|い}きました。",
    "options": [
-    "みっか まえに {友|とも}だちと {山|やま}に {行|い}きました。",
-    "あさって {友|とも}だちと {山|やま}に {行|い}きます。",
-    "きのう {友|とも}だちと {山|やま}に {行|い}きました。",
-    "ふつか まえに {友|とも}だちと {山|やま}に {行|い}きました。"
+    "みっか まえに {友|とも}だちと {海|うみ}に {行|い}きました。",
+    "あさって {友|とも}だちと {海|うみ}に {行|い}きます。",
+    "きのう {友|とも}だちと {海|うみ}に {行|い}きました。",
+    "ふつか まえに {友|とも}だちと {海|うみ}に {行|い}きました。"
    ],
    "answer": 3,
-   "en": "The day before yesterday I went to the mountains with a friend."
+   "en": "The day before yesterday I went to the sea with a friend."
   },
   {
    "type": "paraphrase",
@@ -387,43 +387,43 @@
   },
   {
    "type": "star",
-   "before": "{駅|えき}",
-   "after": "{待|ま}って います。",
+   "before": "わたしは",
+   "after": "です。",
    "pieces": [
-    "で",
-    "が",
-    "{友|とも}だち",
-    "{前|まえ}"
+    "カメラ",
+    "{新|あたら}しい",
+    "ほしい",
+    "が"
    ],
    "order": [
-    3,
+    1,
     0,
-    2,
-    1
+    3,
+    2
    ],
-   "star": 1,
-   "en": "A friend is waiting in front of the station.",
-   "why": "{駅|えき}{前|まえ} means in front of the station; で marks the place and が marks who is waiting."
+   "star": 2,
+   "en": "I want a new camera.",
+   "why": "{新|あたら}しい comes before カメラ, and ほしい takes が for the thing you want."
   },
   {
    "type": "star",
    "before": "{兄|あに}は",
-   "after": "が {上手|じょうず}です。",
+   "after": "です。",
    "pieces": [
-    "ピアノ",
-    "の",
-    "ひく",
-    "を"
+    "が",
+    "せ",
+    "{高|たか}くて",
+    "ハンサム"
    ],
    "order": [
+    1,
     0,
-    3,
     2,
-    1
+    3
    ],
    "star": 2,
-   "en": "My older brother is good at playing the piano.",
-   "why": "ピアノをひく becomes a noun with の before が{上手|じょうず}です."
+   "en": "My older brother is tall and handsome.",
+   "why": "せが {高|たか}い is a set phrase; the て-form {高|たか}くて links it to ハンサム before です."
   },
   {
    "type": "star",

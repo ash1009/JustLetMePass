@@ -17,7 +17,7 @@
   },
   {
    "type": "kanji_reading",
-   "q_raw": "この【荷物】を国に送りたいです。",
+   "q_raw": "この【荷物】を郵便局に持っていきます。",
    "options": [
     "にもの",
     "にもつ",
@@ -25,7 +25,7 @@
     "にぶつ"
    ],
    "answer": 1,
-   "en": "I want to send this package to my country."
+   "en": "I will take this package to the post office."
   },
   {
    "type": "kanji_reading",
@@ -41,15 +41,15 @@
   },
   {
    "type": "kanji_reading",
-   "q_raw": "来年、アメリカに【留学】するつもりです。",
+   "q_raw": "来年、アメリカに【引っ越す】つもりです。",
    "options": [
-    "るがく",
-    "りょうがく",
-    "りゅうがく",
-    "りゅがく"
+    "ひきこす",
+    "ひこす",
+    "ひっこす",
+    "ひっこうす"
    ],
    "answer": 2,
-   "en": "I plan to study abroad in America next year."
+   "en": "I plan to move to America next year."
   },
   {
    "type": "kanji_reading",
@@ -65,15 +65,15 @@
   },
   {
    "type": "kanji_reading",
-   "q_raw": "【急】に雨が降り出しました。",
+   "q_raw": "【夕方】から雨が降り出しました。",
    "options": [
-    "きょう",
-    "きゅう",
-    "ぎゅう",
-    "きゅ"
+    "ゆうかた",
+    "ゆうがた",
+    "ゆがた",
+    "ゆうほう"
    ],
    "answer": 1,
-   "en": "It suddenly started to rain."
+   "en": "It started raining in the evening."
   },
   {
    "type": "kanji_reading",
@@ -113,15 +113,15 @@
   },
   {
    "type": "orthography",
-   "q": "{毎日|まいにち}、{寮|りょう}で{日本語|にほんご}の【べんきょう】をしています。",
+   "q": "{毎日|まいにち}、{寮|りょう}で【しゅくだい】をしています。",
    "options_raw": [
-    "勉協",
-    "免強",
-    "便強",
-    "勉強"
+    "宿第",
+    "縮題",
+    "宿頭",
+    "宿題"
    ],
    "answer": 3,
-   "en": "I study Japanese in the dorm every day."
+   "en": "I do my homework in the dorm every day."
   },
   {
    "type": "orthography",
@@ -149,7 +149,7 @@
   },
   {
    "type": "context",
-   "q": "{台風|たいふう}で{木|き}が＿＿、{道|みち}を{通|とお}れません。",
+   "q": "{強|つよ}い{風|かぜ}で{木|き}が＿＿、{道|みち}を{通|とお}れません。",
    "options": [
     "こわれて",
     "たおれて",
@@ -157,11 +157,11 @@
     "われて"
    ],
    "answer": 1,
-   "en": "A tree fell over in the typhoon, so we can't use the road."
+   "en": "A tree fell over in the strong wind, so we can't use the road."
   },
   {
    "type": "context",
-   "q": "{荷物|にもつ}を{送|おく}る{前|まえ}に、{郵便局|ゆうびんきょく}で{重|おも}さを＿＿もらいました。",
+   "q": "{小包|こづつみ}を{出|だ}す{前|まえ}に、{郵便局|ゆうびんきょく}で{重|おも}さを＿＿もらいました。",
    "options": [
     "とって",
     "あけて",
@@ -169,7 +169,7 @@
     "はかって"
    ],
    "answer": 3,
-   "en": "Before sending the package, I had them weigh it at the post office."
+   "en": "Before sending the parcel, I had them weigh it at the post office."
   },
   {
    "type": "context",
@@ -281,7 +281,7 @@
   },
   {
    "type": "paraphrase",
-   "q": "{台風|たいふう}のため、{明日|あした}の{授業|じゅぎょう}は【{中止|ちゅうし}です】。",
+   "q": "{大雨|おおあめ}のため、{明日|あした}の{授業|じゅぎょう}は【{中止|ちゅうし}です】。",
    "options": [
     "{明日|あした}は{授業|じゅぎょう}が{早|はや}く{始|はじ}まります。",
     "{明日|あした}は{授業|じゅぎょう}がありません。",
@@ -289,7 +289,7 @@
     "{明日|あした}は{授業|じゅぎょう}をする{教室|きょうしつ}が{変|か}わります。"
    ],
    "answer": 1,
-   "en": "Because of the typhoon, tomorrow's classes are cancelled."
+   "en": "Because of the heavy rain, tomorrow's classes are cancelled."
   },
   {
    "type": "usage",
@@ -519,13 +519,13 @@
   },
   {
    "type": "star",
-   "before": "この{小包|こづつみ}を",
-   "after": "いくらですか。",
+   "before": "この{小包|こづつみ}は",
+   "after": "{届|とど}かないそうです。",
    "pieces": [
-    "{送|おく}る",
-    "と",
-    "アメリカ",
-    "まで"
+    "も",
+    "{来週|らいしゅう}まで",
+    "{今日|きょう}",
+    "{送|おく}って"
    ],
    "order": [
     2,
@@ -534,8 +534,8 @@
     1
    ],
    "star": 1,
-   "en": "How much is it to send this parcel to America?",
-   "why": "The place goes with まで, then the verb {送|おく}る, and と (if) comes right after the plain verb."
+   "en": "I hear that even if I send this parcel today, it won't arrive until next week.",
+   "why": "{今日|きょう} goes before the verb, {送|おく}って + も makes ～ても 'even if', and {来週|らいしゅう}まで goes with {届|とど}かない."
   },
   {
    "type": "star",

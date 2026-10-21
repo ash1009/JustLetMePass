@@ -17,7 +17,7 @@
   },
   {
    "type": "kanji_reading",
-   "q_raw": "【毎週】　どようびに　こうえんへ　いきます。",
+   "q_raw": "【毎週】　にちようびに　こうえんへ　いきます。",
    "options": [
     "まいしゅ",
     "まいにち",
@@ -25,7 +25,7 @@
     "まいしゅう"
    ],
    "answer": 3,
-   "en": "I go to the park every Saturday (every week on Saturday)."
+   "en": "I go to the park every Sunday (every week on Sunday)."
   },
   {
    "type": "kanji_reading",
@@ -41,7 +41,7 @@
   },
   {
    "type": "kanji_reading",
-   "q_raw": "【午後】から　てんきが　よく　なりました。",
+   "q_raw": "【午後】から　そらが　あかるく　なりました。",
    "options": [
     "ごうご",
     "ごごう",
@@ -49,7 +49,7 @@
     "こご"
    ],
    "answer": 2,
-   "en": "The weather got better from the afternoon."
+   "en": "The sky got brighter from the afternoon."
   },
   {
    "type": "kanji_reading",
@@ -209,7 +209,7 @@
   },
   {
    "type": "context",
-   "q": "あめが　ふって　いますから、　＿＿を　もって　いきましょう。",
+   "q": "きょうは　くもって　いますから、　＿＿を　もって　いきましょう。",
    "options": [
     "ぼうし",
     "めがね",
@@ -217,7 +217,7 @@
     "かさ"
    ],
    "answer": 3,
-   "en": "It's raining, so let's take an umbrella."
+   "en": "It's cloudy today, so let's take an umbrella."
   },
   {
    "type": "paraphrase",
@@ -387,23 +387,23 @@
   },
   {
    "type": "star",
-   "before": "{雨|あめ}が",
-   "after": "{行|い}きませんでした。",
+   "before": "{毎晩|まいばん}",
+   "after": "{寝|ね}ます。",
    "pieces": [
-    "どこへも",
-    "いた",
-    "{降|ふ}って",
+    "に",
+    "{入|はい}って",
+    "おふろ",
     "から"
    ],
    "order": [
     2,
+    0,
     1,
-    3,
-    0
+    3
    ],
-   "star": 3,
-   "en": "It was raining, so I didn't go anywhere.",
-   "why": "{降|ふ}っていた から gives the reason, and どこへも goes with {行|い}きませんでした."
+   "star": 2,
+   "en": "Every night I take a bath and then go to bed.",
+   "why": "おふろに {入|はい}る is one phrase; the て-form + から means 'after', right before {寝|ね}ます."
   },
   {
    "type": "star",
