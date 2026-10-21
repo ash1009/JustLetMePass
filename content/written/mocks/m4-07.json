@@ -1,0 +1,1485 @@
+{
+ "id": "m4-07",
+ "level": 4,
+ "title_en": "N4 practice test 7",
+ "vocab": [
+  {
+   "type": "kanji_reading",
+   "q_raw": "明日は【台風】が来るそうです。",
+   "options": [
+    "たいふう",
+    "だいふう",
+    "たいふ",
+    "だいふ"
+   ],
+   "answer": 0,
+   "en": "I hear a typhoon is coming tomorrow."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "この【荷物】を国に送りたいです。",
+   "options": [
+    "にもの",
+    "にもつ",
+    "かもつ",
+    "にぶつ"
+   ],
+   "answer": 1,
+   "en": "I want to send this package to my country."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "【地震】のときは、机の下に入ってください。",
+   "options": [
+    "ちしん",
+    "じじん",
+    "ちじん",
+    "じしん"
+   ],
+   "answer": 3,
+   "en": "During an earthquake, please get under a desk."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "来年、アメリカに【留学】するつもりです。",
+   "options": [
+    "るがく",
+    "りょうがく",
+    "りゅうがく",
+    "りゅがく"
+   ],
+   "answer": 2,
+   "en": "I plan to study abroad in America next year."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "郵便局で【切手】を三枚買いました。",
+   "options": [
+    "きて",
+    "きっで",
+    "ぎって",
+    "きって"
+   ],
+   "answer": 3,
+   "en": "I bought three stamps at the post office."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "【急】に雨が降り出しました。",
+   "options": [
+    "きょう",
+    "きゅう",
+    "ぎゅう",
+    "きゅ"
+   ],
+   "answer": 1,
+   "en": "It suddenly started to rain."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "寮の【部屋】は少しせまいです。",
+   "options": [
+    "へや",
+    "ぶや",
+    "へいや",
+    "ほや"
+   ],
+   "answer": 0,
+   "en": "The dorm room is a little small."
+  },
+  {
+   "type": "orthography",
+   "q": "{雨|あめ}が{強|つよ}くなって、{電車|でんしゃ}が【とまりました】。",
+   "options_raw": [
+    "上まりました",
+    "正まりました",
+    "止まりました",
+    "足まりました"
+   ],
+   "answer": 2,
+   "en": "The rain got heavy and the trains stopped."
+  },
+  {
+   "type": "orthography",
+   "q": "この{手紙|てがみ}を{国|くに}に【おくりたい】のですが。",
+   "options_raw": [
+    "送りたい",
+    "達りたい",
+    "返りたい",
+    "追りたい"
+   ],
+   "answer": 0,
+   "en": "I would like to send this letter to my country."
+  },
+  {
+   "type": "orthography",
+   "q": "{毎日|まいにち}、{寮|りょう}で{日本語|にほんご}の【べんきょう】をしています。",
+   "options_raw": [
+    "勉協",
+    "免強",
+    "便強",
+    "勉強"
+   ],
+   "answer": 3,
+   "en": "I study Japanese in the dorm every day."
+  },
+  {
+   "type": "orthography",
+   "q": "{天気|てんき}【よほう】によると、{明日|あした}は{雨|あめ}です。",
+   "options_raw": [
+    "予放",
+    "予報",
+    "予服",
+    "矛報"
+   ],
+   "answer": 1,
+   "en": "According to the weather forecast, it will rain tomorrow."
+  },
+  {
+   "type": "orthography",
+   "q": "{小包|こづつみ}に{相手|あいて}の【じゅうしょ】を{書|か}いてください。",
+   "options_raw": [
+    "往所",
+    "住処",
+    "住所",
+    "注所"
+   ],
+   "answer": 2,
+   "en": "Please write the other person's address on the parcel."
+  },
+  {
+   "type": "context",
+   "q": "{台風|たいふう}で{木|き}が＿＿、{道|みち}を{通|とお}れません。",
+   "options": [
+    "こわれて",
+    "たおれて",
+    "おちて",
+    "われて"
+   ],
+   "answer": 1,
+   "en": "A tree fell over in the typhoon, so we can't use the road."
+  },
+  {
+   "type": "context",
+   "q": "{荷物|にもつ}を{送|おく}る{前|まえ}に、{郵便局|ゆうびんきょく}で{重|おも}さを＿＿もらいました。",
+   "options": [
+    "とって",
+    "あけて",
+    "きめて",
+    "はかって"
+   ],
+   "answer": 3,
+   "en": "Before sending the package, I had them weigh it at the post office."
+  },
+  {
+   "type": "context",
+   "q": "{外国|がいこく}で{勉強|べんきょう}したいので、{今|いま}、{留学|りゅうがく}の＿＿をしています。",
+   "options": [
+    "じゅんび",
+    "けんぶつ",
+    "しゅっせき",
+    "ちゅうい"
+   ],
+   "answer": 0,
+   "en": "I want to study overseas, so I am now preparing to study abroad."
+  },
+  {
+   "type": "context",
+   "q": "{朝|あさ}から{雨|あめ}が＿＿{降|ふ}っているので、{今日|きょう}は{出|で}かけません。",
+   "options": [
+    "そろそろ",
+    "やっと",
+    "ずっと",
+    "もうすぐ"
+   ],
+   "answer": 2,
+   "en": "It has been raining the whole time since morning, so I won't go out today."
+  },
+  {
+   "type": "context",
+   "q": "{小包|こづつみ}は{明日|あした}の{午前中|ごぜんちゅう}に＿＿{予定|よてい}です。",
+   "options": [
+    "あつまる",
+    "ひろう",
+    "うつる",
+    "とどく"
+   ],
+   "answer": 3,
+   "en": "The parcel is due to arrive tomorrow morning."
+  },
+  {
+   "type": "context",
+   "q": "{空|そら}が{急|きゅう}に＿＿なって、{雷|かみなり}が{鳴|な}りはじめました。",
+   "options": [
+    "うすく",
+    "くらく",
+    "ほそく",
+    "ひくく"
+   ],
+   "answer": 1,
+   "en": "The sky suddenly got dark and thunder started."
+  },
+  {
+   "type": "context",
+   "q": "{留学生|りゅうがくせい}の{歓迎|かんげい}パーティーに、{先生|せんせい}を＿＿しました。",
+   "options": [
+    "しょうたい",
+    "へんじ",
+    "しつもん",
+    "せつめい"
+   ],
+   "answer": 0,
+   "en": "We invited the teacher to the welcome party for the international students."
+  },
+  {
+   "type": "context",
+   "q": "{明日|あした}は{大雨|おおあめ}になるかもしれないので、{旅行|りょこう}を＿＿ことにしました。",
+   "options": [
+    "つける",
+    "たてる",
+    "やめる",
+    "おくる"
+   ],
+   "answer": 2,
+   "en": "There may be heavy rain tomorrow, so I decided to cancel the trip."
+  },
+  {
+   "type": "paraphrase",
+   "q": "{昨日|きのう}は【ひどい{雨|あめ}でした】。",
+   "options": [
+    "{昨日|きのう}は{雨|あめ}が{少|すこ}し{降|ふ}りました。",
+    "{昨日|きのう}は{雨|あめ}が{降|ふ}りませんでした。",
+    "{昨日|きのう}は{雨|あめ}がとても{強|つよ}く{降|ふ}りました。",
+    "{昨日|きのう}は{雨|あめ}が{急|きゅう}にやみました。"
+   ],
+   "answer": 2,
+   "en": "Yesterday it rained terribly."
+  },
+  {
+   "type": "paraphrase",
+   "q": "{今日|きょう}、{郵便局|ゆうびんきょく}は【{込|こ}んでいました】。",
+   "options": [
+    "{今日|きょう}、{郵便局|ゆうびんきょく}には{人|ひと}がたくさんいました。",
+    "{今日|きょう}、{郵便局|ゆうびんきょく}には{人|ひと}が{少|すこ}ししかいませんでした。",
+    "{今日|きょう}、{郵便局|ゆうびんきょく}は{休|やす}みでした。",
+    "{今日|きょう}、{郵便局|ゆうびんきょく}は{新|あたら}しくなっていました。"
+   ],
+   "answer": 0,
+   "en": "The post office was crowded today."
+  },
+  {
+   "type": "paraphrase",
+   "q": "{兄|あに}は【{留学|りゅうがく}しています】。",
+   "options": [
+    "{兄|あに}は{外国|がいこく}の{会社|かいしゃ}で{働|はたら}いています。",
+    "{兄|あに}は{外国|がいこく}を{旅行|りょこう}しています。",
+    "{兄|あに}は{外国人|がいこくじん}に{日本語|にほんご}を{教|おし}えています。",
+    "{兄|あに}は{外国|がいこく}の{学校|がっこう}で{勉強|べんきょう}しています。"
+   ],
+   "answer": 3,
+   "en": "My older brother is studying abroad."
+  },
+  {
+   "type": "paraphrase",
+   "q": "{台風|たいふう}のため、{明日|あした}の{授業|じゅぎょう}は【{中止|ちゅうし}です】。",
+   "options": [
+    "{明日|あした}は{授業|じゅぎょう}が{早|はや}く{始|はじ}まります。",
+    "{明日|あした}は{授業|じゅぎょう}がありません。",
+    "{明日|あした}は{授業|じゅぎょう}が{遅|おそ}く{終|お}わります。",
+    "{明日|あした}は{授業|じゅぎょう}をする{教室|きょうしつ}が{変|か}わります。"
+   ],
+   "answer": 1,
+   "en": "Because of the typhoon, tomorrow's classes are cancelled."
+  },
+  {
+   "type": "usage",
+   "word": "やむ",
+   "options": [
+    "{風|かぜ}が{強|つよ}いので、{窓|まど}をやんでください。",
+    "{仕事|しごと}が{全部|ぜんぶ}やんだので、{家|いえ}に{帰|かえ}ります。",
+    "{昨日|きのう}から{熱|ねつ}がやんで、{元気|げんき}になりました。",
+    "{雨|あめ}がやんだら、{散歩|さんぽ}に{行|い}きましょう。"
+   ],
+   "answer": 3,
+   "en": "やむ = (rain, wind, snow) to stop. Correct: Let's go for a walk when the rain stops."
+  },
+  {
+   "type": "usage",
+   "word": "{小包|こづつみ}",
+   "options": [
+    "{寒|さむ}いので、{小包|こづつみ}を{着|き}て{出|で}かけました。",
+    "{国|くに}の{母|はは}から、お{菓子|かし}が{入|はい}った{小包|こづつみ}が{届|とど}きました。",
+    "{駅|えき}の{前|まえ}に、{大|おお}きい{小包|こづつみ}が{建|た}ちました。",
+    "{明日|あした}は{大切|たいせつ}な{小包|こづつみ}があるので、{早|はや}く{寝|ね}ます。"
+   ],
+   "answer": 1,
+   "en": "小包 = parcel. Correct: A parcel with sweets arrived from my mother back home."
+  },
+  {
+   "type": "usage",
+   "word": "{急|きゅう}に",
+   "options": [
+    "{空|そら}が{急|きゅう}に{暗|くら}くなって、{雨|あめ}が{降|ふ}ってきました。",
+    "{時間|じかん}がないので、{急|きゅう}に{準備|じゅんび}してください。",
+    "この{店|みせ}のラーメンは{急|きゅう}においしいです。",
+    "{毎朝|まいあさ}、{急|きゅう}に{七時|しちじ}に{起|お}きています。"
+   ],
+   "answer": 0,
+   "en": "急に = suddenly. Correct: The sky suddenly got dark and it started to rain."
+  },
+  {
+   "type": "usage",
+   "word": "{留守|るす}",
+   "options": [
+    "{電車|でんしゃ}が{留守|るす}なので、バスで{行|い}きます。",
+    "この{席|せき}は{留守|るす}ですか。",
+    "{留守|るす}のときに、{小包|こづつみ}が{届|とど}いたようです。",
+    "{昨日|きのう}は{留守|るす}で、{一日中|いちにちじゅう}{家|いえ}で{寝|ね}ていました。"
+   ],
+   "answer": 2,
+   "en": "留守 = being away from home. Correct: It seems a parcel came while I was out."
+  }
+ ],
+ "grammar": [
+  {
+   "type": "form",
+   "q": "{天気|てんき}{予報|よほう}＿＿、{明日|あした}は{雪|ゆき}が{降|ふ}るそうです。",
+   "options": [
+    "によると",
+    "について",
+    "にとって",
+    "によって"
+   ],
+   "answer": 0,
+   "en": "According to the weather forecast, it will snow tomorrow."
+  },
+  {
+   "type": "form",
+   "q": "{空|そら}が{暗|くら}くなってきました。もうすぐ{雨|あめ}が{降|ふ}り＿＿です。",
+   "options": [
+    "よう",
+    "らしい",
+    "そう",
+    "みたい"
+   ],
+   "answer": 2,
+   "en": "The sky has got dark. It looks like it will rain soon."
+  },
+  {
+   "type": "form",
+   "q": "この{荷物|にもつ}を{飛行機|ひこうき}で{送|おく}る＿＿、いくらかかりますか。",
+   "options": [
+    "より",
+    "と",
+    "まで",
+    "ながら"
+   ],
+   "answer": 1,
+   "en": "How much does it cost if I send this package by air?"
+  },
+  {
+   "type": "form",
+   "q": "{日本|にほん}に{留学|りゅうがく}＿＿、{毎日|まいにち}{日本語|にほんご}を{勉強|べんきょう}しています。",
+   "options": [
+    "しても",
+    "したら",
+    "するし",
+    "するために"
+   ],
+   "answer": 3,
+   "en": "I study Japanese every day in order to study abroad in Japan."
+  },
+  {
+   "type": "form",
+   "q": "{大|おお}きい{地震|じしん}が{来|き}た＿＿、すぐに{火|ひ}を{消|け}してください。",
+   "options": [
+    "ばかり",
+    "のに",
+    "ら",
+    "まま"
+   ],
+   "answer": 2,
+   "en": "If a big earthquake comes, turn off the fire right away."
+  },
+  {
+   "type": "form",
+   "q": "{先生|せんせい}に{留学|りゅうがく}の{書類|しょるい}を{見|み}て＿＿。",
+   "options": [
+    "いただきました",
+    "くださいました",
+    "あげました",
+    "さしあげました"
+   ],
+   "answer": 0,
+   "en": "I had my teacher look at my study-abroad papers."
+  },
+  {
+   "type": "form",
+   "q": "{台風|たいふう}が{近|ちか}づいているので、{今日|きょう}は{外|そと}に＿＿ほうがいいですよ。",
+   "options": [
+    "{出|で}なかった",
+    "{出|で}ないで",
+    "{出|で}なくて",
+    "{出|で}ない"
+   ],
+   "answer": 3,
+   "en": "A typhoon is coming, so you had better not go out today."
+  },
+  {
+   "type": "form",
+   "q": "{窓|まど}を{開|あ}けた＿＿{寝|ね}てしまって、かぜをひきました。",
+   "options": [
+    "ながら",
+    "まま",
+    "あいだ",
+    "ほど"
+   ],
+   "answer": 1,
+   "en": "I fell asleep with the window open and caught a cold."
+  },
+  {
+   "type": "form",
+   "q": "この{手紙|てがみ}は、{金曜日|きんようび}までに{着|つ}く＿＿{送|おく}ってください。",
+   "options": [
+    "ために",
+    "ことに",
+    "ように",
+    "そうに"
+   ],
+   "answer": 2,
+   "en": "Please send this letter so that it arrives by Friday."
+  },
+  {
+   "type": "form",
+   "q": "A「その{荷物|にもつ}、{重|おも}そうですね。{持|も}ち＿＿か。」\nB「ありがとうございます。お{願|ねが}いします。」",
+   "options": [
+    "ましょう",
+    "ません",
+    "ました",
+    "たい"
+   ],
+   "answer": 0,
+   "en": "A: That bag looks heavy. Shall I carry it? B: Thank you. Yes, please."
+  },
+  {
+   "type": "form",
+   "q": "{帰|かえ}る{途中|とちゅう}で{雨|あめ}に＿＿、{服|ふく}がぬれてしまいました。",
+   "options": [
+    "{降|ふ}らせて",
+    "{降|ふ}られて",
+    "{降|ふ}って",
+    "{降|ふ}らされて"
+   ],
+   "answer": 1,
+   "en": "I got caught in the rain on the way home and my clothes got wet."
+  },
+  {
+   "type": "form",
+   "q": "この{寮|りょう}では、{夜|よる}10{時|じ}からは{大|おお}きな{声|こえ}で{話|はな}さない＿＿なっています。",
+   "options": [
+    "ばかりに",
+    "ために",
+    "ものに",
+    "ことに"
+   ],
+   "answer": 3,
+   "en": "In this dorm, the rule is that you must not talk loudly after 10 p.m."
+  },
+  {
+   "type": "form",
+   "q": "{郵便局|ゆうびんきょく}は{何時|なんじ}まで{開|あ}いている＿＿{知|し}っていますか。",
+   "options": [
+    "を",
+    "が",
+    "か",
+    "と"
+   ],
+   "answer": 2,
+   "en": "Do you know until what time the post office is open?"
+  },
+  {
+   "type": "star",
+   "before": "{雨|あめ}が",
+   "after": "{待|ま}ちましょう。",
+   "pieces": [
+    "{家|いえ}",
+    "まで",
+    "やむ",
+    "で"
+   ],
+   "order": [
+    2,
+    1,
+    0,
+    3
+   ],
+   "star": 2,
+   "en": "Let's wait at home until the rain stops.",
+   "why": "やむ まで (until it stops) comes first, then the place {家|いえ} で before the verb."
+  },
+  {
+   "type": "star",
+   "before": "この{小包|こづつみ}を",
+   "after": "いくらですか。",
+   "pieces": [
+    "{送|おく}る",
+    "と",
+    "アメリカ",
+    "まで"
+   ],
+   "order": [
+    2,
+    3,
+    0,
+    1
+   ],
+   "star": 1,
+   "en": "How much is it to send this parcel to America?",
+   "why": "The place goes with まで, then the verb {送|おく}る, and と (if) comes right after the plain verb."
+  },
+  {
+   "type": "star",
+   "before": "{来年|らいねん}から",
+   "after": "です。",
+   "pieces": [
+    "{大学|だいがく}に",
+    "{日本|にほん}の",
+    "つもり",
+    "{留学|りゅうがく}する"
+   ],
+   "order": [
+    1,
+    0,
+    3,
+    2
+   ],
+   "star": 3,
+   "en": "I plan to study abroad at a Japanese university from next year.",
+   "why": "{日本|にほん}の describes {大学|だいがく}, に marks where, and つもり follows the plain verb {留学|りゅうがく}する."
+  },
+  {
+   "type": "star",
+   "before": "{地震|じしん}の",
+   "after": "{入|はい}ってください。",
+   "pieces": [
+    "{下|した}に",
+    "は",
+    "とき",
+    "{机|つくえ}の"
+   ],
+   "order": [
+    2,
+    1,
+    3,
+    0
+   ],
+   "star": 0,
+   "en": "When there is an earthquake, please get under a desk.",
+   "why": "{地震|じしん}のとき (at the time of an earthquake) is the topic with は, then {机|つくえ}の{下|した}に tells where to go."
+  },
+  {
+   "type": "text",
+   "passage": "「{初|はじ}めての{台風|たいふう}」　リン・メイ\n{私|わたし}は{去年|きょねん}の{四月|しがつ}に{日本|にほん}へ{留学|りゅうがく}に{来|き}ました。{私|わたし}の{国|くに}には{台風|たいふう}があまり{来|こ}ないので、{日本|にほん}に{来|く}るまで、{台風|たいふう}を{見|み}た（１）。\n{九月|くがつ}のある{日|ひ}、テレビで「{明日|あした}、{大|おお}きい{台風|たいふう}が{来|き}ます」と{言|い}っていました。{寮|りょう}の{友|とも}だちが「{水|みず}や{食|た}べ{物|もの}を{買|か}って（２）ほうがいいよ」と{教|おし}えてくれたので、{一緒|いっしょ}にスーパーへ{行|い}きました。\n{次|つぎ}の{日|ひ}は、{朝|あさ}から{風|かぜ}がとても{強|つよ}くて、{窓|まど}がずっと{音|おと}を{立|た}てていました。（３）、{学校|がっこう}も{休|やす}みになりました。{私|わたし}は{少|すこ}しこわかったですが、{友|とも}だちと{一緒|いっしょ}にいたので、{安心|あんしん}できました。\n{台風|たいふう}が{行|い}ったあと、{空|そら}はとてもきれいでした。{今|いま}は（４）、{次|つぎ}の{台風|たいふう}のときも{大丈夫|だいじょうぶ}だと{思|おも}います。",
+   "en": "\"My First Typhoon\" by Lin Mei. I came to Japan to study in April last year. Typhoons rarely come to my country, so until I came to Japan I had never seen one. One day in September, the TV said, \"A big typhoon will come tomorrow.\" A friend in my dorm told me, \"You should buy water and food in advance,\" so we went to the supermarket together. The next day the wind was very strong from the morning and the windows rattled the whole time. Because of that, school was also closed. I was a little scared, but I felt safe because I was with my friend. After the typhoon passed, the sky was very beautiful. Now I know how to prepare, so I think I will be fine during the next typhoon too.",
+   "questions": [
+    {
+     "q": "（１）",
+     "options": [
+      "ことがあります",
+      "ことがありませんでした",
+      "ことにしました",
+      "ことになりました"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "（２）",
+     "options": [
+      "あった",
+      "くれた",
+      "もらった",
+      "おいた"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "（３）",
+     "options": [
+      "それで",
+      "でも",
+      "それとも",
+      "たとえば"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "（４）",
+     "options": [
+      "{準備|じゅんび}のしかたがわからないので",
+      "もう{台風|たいふう}は{来|こ}ないので",
+      "{準備|じゅんび}のしかたがわかったので",
+      "{友|とも}だちが{国|くに}へ{帰|かえ}ったので"
+     ],
+     "answer": 2
+    }
+   ]
+  }
+ ],
+ "reading": [
+  {
+   "type": "short",
+   "text": "{寮|りょう}の{皆|みな}さんへ\n{明日|あした}{十月|じゅうがつ}{十二日|じゅうににち}は、{台風|たいふう}が{来|く}るため、{寮|りょう}の{食堂|しょくどう}は{昼|ひる}ご{飯|はん}と{晩|ばん}ご{飯|はん}を{休|やす}みます。{朝|あさ}ご{飯|はん}はいつもどおり、7{時|じ}から8{時|じ}までです。{昼|ひる}と{夜|よる}の{食|た}べ{物|もの}は、{今日|きょう}のうちに{買|か}っておいてください。また、{明日|あした}はできるだけ{外|そと}に{出|で}ないでください。\nさくら{寮|りょう}　{事務室|じむしつ}",
+   "en": "To everyone in the dorm: Tomorrow, October 12, a typhoon is coming, so the dorm cafeteria will not serve lunch or dinner. Breakfast is as usual, from 7 to 8. Please buy food for lunch and dinner today. Also, please stay inside as much as possible tomorrow. Sakura Dorm Office",
+   "questions": [
+    {
+     "q": "{明日|あした}、{寮|りょう}の{食堂|しょくどう}で{食|た}べられるのはどれですか。",
+     "options": [
+      "{朝|あさ}ご{飯|はん}と{昼|ひる}ご{飯|はん}",
+      "{昼|ひる}ご{飯|はん}と{晩|ばん}ご{飯|はん}",
+      "{晩|ばん}ご{飯|はん}だけ",
+      "{朝|あさ}ご{飯|はん}だけ"
+     ],
+     "answer": 3,
+     "why": "Only lunch and dinner are cancelled; breakfast is served as usual."
+    }
+   ]
+  },
+  {
+   "type": "short",
+   "text": "ご{不在|ふざい}{連絡票|れんらくひょう}\nキム　さま\n10{月|がつ}{20日|はつか}　14{時|じ}ごろ、お{荷物|にもつ}をお{届|とど}けに{来|き}ましたが、お{留守|るす}でしたので、{持|も}って{帰|かえ}りました。お{荷物|にもつ}は{郵便局|ゆうびんきょく}で{七日間|なのかかん}お{預|あず}かりします。もう{一度|いちど}{届|とど}けてほしい{日|ひ}と{時間|じかん}を、お{電話|でんわ}かインターネットで{連絡|れんらく}してください。{郵便局|ゆうびんきょく}に{取|と}りに{来|く}る{場合|ばあい}は、この{紙|かみ}と、{名前|なまえ}がわかるもの（{学生証|がくせいしょう}など）を{持|も}ってきてください。\nみどり{郵便局|ゆうびんきょく}",
+   "en": "Missed delivery notice. To Ms./Mr. Kim: We came to deliver your package on October 20 around 2 p.m., but you were out, so we took it back. We will keep it at the post office for seven days. Please tell us by phone or online the day and time you want it delivered again. If you come to the post office to pick it up, bring this notice and something with your name on it (such as a student ID). Midori Post Office",
+   "questions": [
+    {
+     "q": "キムさんが{郵便局|ゆうびんきょく}へ{荷物|にもつ}を{取|と}りに{行|い}くとき、{何|なに}を{持|も}っていかなければなりませんか。",
+     "options": [
+      "この{紙|かみ}と{学生証|がくせいしょう}",
+      "この{紙|かみ}だけ",
+      "{学生証|がくせいしょう}だけ",
+      "この{紙|かみ}と{電話|でんわ}"
+     ],
+     "answer": 0,
+     "why": "The notice says to bring this paper and something with your name, like a student ID."
+    }
+   ]
+  },
+  {
+   "type": "short",
+   "text": "{留学|りゅうがく}したい{学生|がくせい}の{皆|みな}さんへ\n{来年|らいねん}の{春|はる}から{一年間|いちねんかん}、カナダの{大学|だいがく}に{留学|りゅうがく}したい{人|ひと}は、11{月|がつ}{10日|とおか}までに{申込書|もうしこみしょ}を{国際課|こくさいか}に{出|だ}してください。{申込書|もうしこみしょ}は{国際課|こくさいか}でもらえます。{出|だ}す{前|まえ}に、{必|かなら}ずゼミの{先生|せんせい}にサインをもらってください。{面接|めんせつ}は11{月|がつ}の{終|お}わりにあります。",
+   "en": "To students who want to study abroad: If you want to study at a university in Canada for one year from next spring, hand in the application form to the International Office by November 10. You can get the form at the International Office. Before you hand it in, you must get your seminar teacher's signature. Interviews are at the end of November.",
+   "questions": [
+    {
+     "q": "{留学|りゅうがく}したい{学生|がくせい}は、{申込書|もうしこみしょ}を{出|だ}す{前|まえ}に{何|なに}をしなければなりませんか。",
+     "options": [
+      "{面接|めんせつ}を{受|う}ける",
+      "カナダの{大学|だいがく}に{連絡|れんらく}する",
+      "{先生|せんせい}にサインをもらう",
+      "{国際課|こくさいか}に{電話|でんわ}する"
+     ],
+     "answer": 2,
+     "why": "Students must get their seminar teacher's signature before handing in the form; the interview comes later."
+    }
+   ]
+  },
+  {
+   "type": "mid",
+   "text": "{私|わたし}は{日本|にほん}に{来|き}て{半年|はんとし}になる{留学生|りゅうがくせい}です。{先月|せんげつ}、{国|くに}にいる{妹|いもうと}の{誕生日|たんじょうび}に、{日本|にほん}のお{菓子|かし}と{本|ほん}を{送|おく}ることにしました。\n{郵便局|ゆうびんきょく}に{行|い}くのは{初|はじ}めてだったので、{少|すこ}し{心配|しんぱい}でした。{窓口|まどぐち}の{人|ひと}に「{外国|がいこく}に{荷物|にもつ}を{送|おく}りたいです」と{言|い}うと、{紙|かみ}を{一枚|いちまい}くれました。そこに{妹|いもうと}の{住所|じゅうしょ}や、{箱|はこ}の{中|なか}に{何|なに}が{入|はい}っているかを{書|か}かなければなりませんでした。{書|か}き{方|かた}がよくわからなかったので、{窓口|まどぐち}の{人|ひと}がゆっくり{説明|せつめい}してくれました。\n{送|おく}り{方|かた}は{二|ふた}つありました。{飛行機|ひこうき}で{送|おく}ると{一週間|いっしゅうかん}ぐらいで{着|つ}きますが、{高|たか}いです。{船|ふね}で{送|おく}ると{安|やす}いですが、{一|いっ}か{月|げつ}{以上|いじょう}かかります。{妹|いもうと}の{誕生日|たんじょうび}まであと{十日|とおか}だったので、{私|わたし}は{飛行機|ひこうき}を{選|えら}びました。\n{二週間|にしゅうかん}{後|ご}、{妹|いもうと}から{電話|でんわ}がありました。「お{菓子|かし}、おいしかったよ。でも、{本|ほん}は{日本語|にほんご}だから{読|よ}めない」と{言|い}われて、{二人|ふたり}で{笑|わら}いました。{今度|こんど}は{妹|いもうと}が{読|よ}める{本|ほん}を{送|おく}りたいと{思|おも}います。",
+   "en": "I am an international student who has been in Japan for half a year. Last month I decided to send Japanese sweets and a book to my younger sister back home for her birthday. It was my first time at the post office, so I was a little worried. When I told the clerk, \"I want to send a package overseas,\" she gave me a form. I had to write my sister's address and what was in the box. I didn't really understand how to fill it in, so the clerk explained it slowly. There were two ways to send it. By air it arrives in about a week but is expensive. By sea it is cheap but takes more than a month. My sister's birthday was only ten days away, so I chose air. Two weeks later my sister called. She said, \"The sweets were delicious. But the book is in Japanese, so I can't read it,\" and we both laughed. Next time I want to send a book she can read.",
+   "questions": [
+    {
+     "q": "{郵便局|ゆうびんきょく}で、この{人|ひと}は{何|なに}に{困|こま}りましたか。",
+     "options": [
+      "{窓口|まどぐち}がどこかわからなかった",
+      "{紙|かみ}の{書|か}き{方|かた}がわからなかった",
+      "{荷物|にもつ}が{重|おも}すぎた",
+      "{妹|いもうと}の{住所|じゅうしょ}を{忘|わす}れた"
+     ],
+     "answer": 1,
+     "why": "The writer did not understand how to fill in the form, so the clerk explained it."
+    },
+    {
+     "q": "この{人|ひと}は、どうして{飛行機|ひこうき}で{送|おく}りましたか。",
+     "options": [
+      "{船|ふね}より{安|やす}かったから",
+      "{窓口|まどぐち}の{人|ひと}が{勧|すす}めたから",
+      "{荷物|にもつ}が{小|ちい}さかったから",
+      "{誕生日|たんじょうび}に{間|ま}に{合|あ}わせたかったから"
+     ],
+     "answer": 3,
+     "why": "The birthday was ten days away and by sea it takes over a month."
+    },
+    {
+     "q": "{妹|いもうと}について、{正|ただ}しいものはどれですか。",
+     "options": [
+      "{日本語|にほんご}の{本|ほん}が{読|よ}めなかった",
+      "お{菓子|かし}が{好|す}きではなかった",
+      "{荷物|にもつ}を{受|う}け{取|と}らなかった",
+      "{日本|にほん}に{来|く}ることになった"
+     ],
+     "answer": 0,
+     "why": "She said the book was in Japanese, so she couldn't read it."
+    }
+   ]
+  },
+  {
+   "type": "info",
+   "text": "{海外|かいがい}への{小包|こづつみ}の{料金|りょうきん}（アジア）\n{重|おも}さ　｜　{航空便|こうくうびん}（{約|やく}{五日|いつか}）　｜　{船便|ふなびん}（{約|やく}{一|いっ}か{月|げつ}）\n1kgまで　｜　2,000{円|えん}　｜　1,500{円|えん}\n2kgまで　｜　3,000{円|えん}　｜　1,800{円|えん}\n3kgまで　｜　4,000{円|えん}　｜　2,100{円|えん}\n5kgまで　｜　6,000{円|えん}　｜　2,700{円|えん}\n※　{土曜日|どようび}・{日曜日|にちようび}の{窓口|まどぐち}は{午後|ごご}3{時|じ}までです。\n※　{箱|はこ}は{郵便局|ゆうびんきょく}で{買|か}えます（{小|しょう}　200{円|えん}・{大|だい}　400{円|えん}）。",
+   "en": "Prices for parcels overseas (Asia). Weight / Air mail (about 5 days) / Sea mail (about 1 month). Up to 1 kg: 2,000 yen / 1,500 yen. Up to 2 kg: 3,000 / 1,800. Up to 3 kg: 4,000 / 2,100. Up to 5 kg: 6,000 / 2,700. On Saturdays and Sundays the counter is open until 3 p.m. Boxes are sold at the post office (small 200 yen, large 400 yen).",
+   "questions": [
+    {
+     "q": "チャンさんは、2.5kgの{荷物|にもつ}を{中国|ちゅうごく}に{送|おく}ります。できるだけ{安|やす}く{送|おく}りたいです。{箱|はこ}は{持|も}っています。いくらかかりますか。",
+     "options": [
+      "1,800{円|えん}",
+      "4,000{円|えん}",
+      "2,100{円|えん}",
+      "2,700{円|えん}"
+     ],
+     "answer": 2,
+     "why": "2.5 kg is in the 'up to 3 kg' row, and sea mail is cheapest: 2,100 yen."
+    },
+    {
+     "q": "リーさんは、1kgの{荷物|にもつ}を{航空便|こうくうびん}で{韓国|かんこく}に{送|おく}ります。{郵便局|ゆうびんきょく}で{小|ちい}さい{箱|はこ}も{買|か}います。{全部|ぜんぶ}でいくらですか。",
+     "options": [
+      "2,000{円|えん}",
+      "2,200{円|えん}",
+      "2,400{円|えん}",
+      "1,700{円|えん}"
+     ],
+     "answer": 1,
+     "why": "Air mail up to 1 kg is 2,000 yen, plus 200 yen for a small box."
+    }
+   ]
+  }
+ ],
+ "listening": [
+  {
+   "type": "task",
+   "setup": "{郵便局|ゆうびんきょく}で{女|おんな}の{人|ひと}と{郵便局|ゆうびんきょく}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}はこのあとまず{何|なに}をしますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "すみません、この{荷物|にもつ}を{韓国|かんこく}に{送|おく}りたいんですが。"
+    },
+    {
+     "s": "M",
+     "jp": "はい。では、この{紙|かみ}に、{送|おく}る{人|ひと}と{受|う}け{取|と}る{人|ひと}の{住所|じゅうしょ}を{書|か}いてください。"
+    },
+    {
+     "s": "F",
+     "jp": "はい。あ、{箱|はこ}がちょっと{壊|こわ}れているんですが、{大丈夫|だいじょうぶ}ですか。"
+    },
+    {
+     "s": "M",
+     "jp": "そうですね。テープを{貼|は}れば{大丈夫|だいじょうぶ}ですよ。テープはこちらで{貼|は}りますから、まず{紙|かみ}を{書|か}いてくださいね。お{金|かね}はそのあとでいいです。"
+    },
+    {
+     "s": "F",
+     "jp": "わかりました。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}はこのあとまず{何|なに}をしますか。",
+   "options": [
+    "{紙|かみ}に{住所|じゅうしょ}を{書|か}く",
+    "{箱|はこ}にテープを{貼|は}る",
+    "{新|あたら}しい{箱|はこ}を{買|か}う",
+    "{料金|りょうきん}を{払|はら}う"
+   ],
+   "answer": 0,
+   "en": "At a post office. F: Excuse me, I'd like to send this package to Korea. M: OK. Please write the sender's and receiver's addresses on this form. F: OK. Oh, the box is a little broken. Is that all right? M: Hmm. It'll be fine with some tape. We'll put the tape on, so please fill in the form first. You can pay after that. F: I see.",
+   "why": "The clerk says he will tape the box and she should fill in the form first; payment comes later."
+  },
+  {
+   "type": "task",
+   "setup": "{家|いえ}で{母親|ははおや}と{息子|むすこ}が{話|はな}しています。{息子|むすこ}は{何|なに}を{持|も}って{出|で}かけますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "たけし、{今日|きょう}は{午後|ごご}から{雨|あめ}が{降|ふ}るって。{傘|かさ}、{持|も}って{行|い}きなさい。"
+    },
+    {
+     "s": "M",
+     "jp": "え、{本当|ほんとう}？じゃあ、{大|おお}きい{傘|かさ}を{持|も}って{行|い}くよ。"
+    },
+    {
+     "s": "F",
+     "jp": "{風|かぜ}も{強|つよ}くなるらしいから、{大|おお}きい{傘|かさ}はやめたほうがいいよ。{折|お}りたたみの{傘|かさ}とレインコートにしたら？"
+    },
+    {
+     "s": "M",
+     "jp": "{今日|きょう}はバスで{行|い}くから、レインコートはいらないよ。"
+    },
+    {
+     "s": "F",
+     "jp": "そう。じゃあ、それだけでいいね。"
+    }
+   ],
+   "question": "{息子|むすこ}は{何|なに}を{持|も}って{出|で}かけますか。",
+   "options": [
+    "{大|おお}きい{傘|かさ}",
+    "{折|お}りたたみの{傘|かさ}とレインコート",
+    "{折|お}りたたみの{傘|かさ}だけ",
+    "レインコートだけ"
+   ],
+   "answer": 2,
+   "en": "At home. F: Takeshi, they say it will rain from the afternoon. Take an umbrella. M: Really? Then I'll take the big umbrella. F: The wind will get strong too, so better not take the big one. How about a folding umbrella and a raincoat? M: I'm taking the bus today, so I don't need a raincoat. F: OK. Then just that is fine.",
+   "why": "The big umbrella is out because of the wind, and he doesn't need the raincoat, so only the folding umbrella."
+  },
+  {
+   "type": "task",
+   "setup": "{大学|だいがく}で{男|おとこ}の{留学生|りゅうがくせい}と{事務|じむ}の{人|ひと}が{話|はな}しています。{留学生|りゅうがくせい}はこのあとまず{何|なに}をしますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "すみません、{来月|らいげつ}から{寮|りょう}に{入|はい}りたいんですが。"
+    },
+    {
+     "s": "F",
+     "jp": "はい。では、この{申込書|もうしこみしょ}に{書|か}いて、{写真|しゃしん}を{一枚|いちまい}{貼|は}ってください。"
+    },
+    {
+     "s": "M",
+     "jp": "あ、{写真|しゃしん}は{今|いま}{持|も}っていないんです。"
+    },
+    {
+     "s": "F",
+     "jp": "じゃあ、{申込書|もうしこみしょ}は{写真|しゃしん}と{一緒|いっしょ}に{出|だ}してください。それから、{寮|りょう}に{入|はい}る{前|まえ}に{健康|けんこう}{診断|しんだん}を{受|う}けてくださいね。"
+    },
+    {
+     "s": "M",
+     "jp": "わかりました。{駅|えき}の{前|まえ}に{写真|しゃしん}を{撮|と}る{機械|きかい}があったので、{先|さき}にそこへ{行|い}ってきます。"
+    }
+   ],
+   "question": "{留学生|りゅうがくせい}はこのあとまず{何|なに}をしますか。",
+   "options": [
+    "{申込書|もうしこみしょ}を{出|だ}す",
+    "{写真|しゃしん}を{撮|と}る",
+    "{健康|けんこう}{診断|しんだん}を{受|う}ける",
+    "{寮|りょう}を{見|み}に{行|い}く"
+   ],
+   "answer": 1,
+   "en": "At a university office. M: Excuse me, I'd like to move into the dorm from next month. F: OK. Please fill in this form and attach one photo. M: Oh, I don't have a photo with me now. F: Then please hand in the form together with the photo. Also, please have a health check before you move in. M: I see. There's a photo machine in front of the station, so I'll go there first.",
+   "why": "He says he will go to the photo machine first."
+  },
+  {
+   "type": "task",
+   "setup": "{会社|かいしゃ}で{男|おとこ}の{人|ひと}が{話|はな}しています。{社員|しゃいん}は{明日|あした}の{朝|あさ}、{会社|かいしゃ}に{来|き}たら、まず{何|なに}をしますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{皆|みな}さん、{明日|あした}は{地震|じしん}の{訓練|くんれん}があります。10{時|じ}にベルが{鳴|な}ったら、まず{机|つくえ}の{下|した}に{入|はい}ってください。そのあと、{階段|かいだん}を{使|つか}って、{外|そと}の{駐車場|ちゅうしゃじょう}に{集|あつ}まってください。エレベーターは{使|つか}わないでください。それから、{明日|あした}の{朝|あさ}は、{会社|かいしゃ}に{来|き}たら、すぐに{入|い}り{口|ぐち}にある{紙|かみ}に{自分|じぶん}の{名前|なまえ}を{書|か}いてください。{誰|だれ}が{会社|かいしゃ}にいるか、わかるようにするためです。"
+    }
+   ],
+   "question": "{社員|しゃいん}は{明日|あした}の{朝|あさ}、{会社|かいしゃ}に{来|き}たら、まず{何|なに}をしますか。",
+   "options": [
+    "{机|つくえ}の{下|した}に{入|はい}る",
+    "{駐車場|ちゅうしゃじょう}に{集|あつ}まる",
+    "エレベーターを{止|と}める",
+    "{入|い}り{口|ぐち}の{紙|かみ}に{名前|なまえ}を{書|か}く"
+   ],
+   "answer": 3,
+   "en": "At a company. M: Everyone, tomorrow there is an earthquake drill. When the bell rings at 10, first get under your desk. After that, use the stairs and gather in the parking lot outside. Don't use the elevator. Also, tomorrow morning, as soon as you arrive, write your name on the paper at the entrance. This is so we know who is in the building.",
+   "why": "On arriving in the morning, the first thing is to write your name at the entrance; the drill is at 10."
+  },
+  {
+   "type": "task",
+   "setup": "{郵便局|ゆうびんきょく}で{男|おとこ}の{人|ひと}と{郵便局|ゆうびんきょく}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}は{切手|きって}を{何枚|なんまい}{買|か}いますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "すみません、はがきをアメリカに{送|おく}りたいんですが、{切手|きって}はいくらですか。"
+    },
+    {
+     "s": "F",
+     "jp": "アメリカへのはがきは100{円|えん}です。"
+    },
+    {
+     "s": "M",
+     "jp": "じゃあ、100{円|えん}の{切手|きって}を5{枚|まい}ください。"
+    },
+    {
+     "s": "F",
+     "jp": "はい、5{枚|まい}ですね。"
+    },
+    {
+     "s": "M",
+     "jp": "あ、それから、{日本|にほん}の{中|なか}に{出|だ}すはがきも2{枚|まい}あるんですが、それはいくらですか。"
+    },
+    {
+     "s": "F",
+     "jp": "85{円|えん}です。"
+    },
+    {
+     "s": "M",
+     "jp": "じゃあ、それも2{枚|まい}お{願|ねが}いします。あ、すみません、アメリカに{送|おく}るはがきは、4{枚|まい}でした。"
+    },
+    {
+     "s": "F",
+     "jp": "はい、わかりました。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}は{切手|きって}を{何枚|なんまい}{買|か}いますか。",
+   "options": [
+    "100{円|えん}を5{枚|まい}",
+    "100{円|えん}を4{枚|まい}",
+    "100{円|えん}を5{枚|まい}と85{円|えん}を2{枚|まい}",
+    "100{円|えん}を4{枚|まい}と85{円|えん}を2{枚|まい}"
+   ],
+   "answer": 3,
+   "en": "At a post office. M: Excuse me, I want to send postcards to America. How much are the stamps? F: Postcards to America are 100 yen. M: Then five 100-yen stamps, please. F: Five, OK. M: Oh, and I also have two postcards inside Japan. How much are those? F: 85 yen. M: Then two of those too, please. Oh, sorry, the postcards to America were four. F: Certainly.",
+   "why": "He corrects the America stamps to four and also buys two 85-yen stamps."
+  },
+  {
+   "type": "task",
+   "setup": "{日本語|にほんご}{学校|がっこう}で{先生|せんせい}と{男|おとこ}の{学生|がくせい}が{話|はな}しています。{学生|がくせい}はこのあとまず{何|なに}をしますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "リンさん、{来週|らいしゅう}のスピーチの{原稿|げんこう}、{読|よ}みましたよ。とてもよかったです。"
+    },
+    {
+     "s": "M",
+     "jp": "ありがとうございます。"
+    },
+    {
+     "s": "F",
+     "jp": "ただ、ちょっと{長|なが}いですね。3{分|ぷん}で{話|はな}さなければならないので、{少|すこ}し{短|みじか}くしてください。"
+    },
+    {
+     "s": "M",
+     "jp": "はい。{漢字|かんじ}の{間違|まちが}いもありましたか。"
+    },
+    {
+     "s": "F",
+     "jp": "{漢字|かんじ}は{大丈夫|だいじょうぶ}でした。{短|みじか}くしたら、{明日|あした}、{学校|がっこう}で{一緒|いっしょ}に{練習|れんしゅう}しましょう。"
+    },
+    {
+     "s": "M",
+     "jp": "わかりました。"
+    }
+   ],
+   "question": "{学生|がくせい}はこのあとまず{何|なに}をしますか。",
+   "options": [
+    "{漢字|かんじ}を{直|なお}す",
+    "{原稿|げんこう}を{短|みじか}くする",
+    "スピーチを{練習|れんしゅう}する",
+    "{原稿|げんこう}を{長|なが}くする"
+   ],
+   "answer": 1,
+   "en": "At a Japanese school. F: Lin, I read your draft for next week's speech. It was very good. M: Thank you. F: But it's a little long. You must speak for three minutes, so please make it a bit shorter. M: OK. Were there kanji mistakes too? F: The kanji were fine. After you shorten it, let's practice together at school tomorrow. M: I see.",
+   "why": "The kanji are fine and practice is tomorrow, so first he shortens the draft."
+  },
+  {
+   "type": "task",
+   "setup": "{電話|でんわ}で{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}は{土曜日|どようび}どこへ{行|い}きますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "もしもし、{山田|やまだ}です。{土曜日|どようび}のハイキングのことなんですが、{天気|てんき}{予報|よほう}で{雨|あめ}だと{言|い}っていたので、{山|やま}に{行|い}くのはやめましょう。"
+    },
+    {
+     "s": "F",
+     "jp": "そうですか。{残念|ざんねん}ですね。"
+    },
+    {
+     "s": "M",
+     "jp": "かわりに、{駅|えき}の{近|ちか}くの{美術館|びじゅつかん}に{行|い}きませんか。"
+    },
+    {
+     "s": "F",
+     "jp": "いいですね。でも、{雨|あめ}がやんだら、{公園|こうえん}を{散歩|さんぽ}するのはどうですか。"
+    },
+    {
+     "s": "M",
+     "jp": "うーん、{土曜日|どようび}は{一日中|いちにちじゅう}{雨|あめ}らしいですよ。"
+    },
+    {
+     "s": "F",
+     "jp": "じゃあ、{美術館|びじゅつかん}にしましょう。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}は{土曜日|どようび}どこへ{行|い}きますか。",
+   "options": [
+    "{美術館|びじゅつかん}",
+    "{山|やま}",
+    "{公園|こうえん}",
+    "{駅|えき}の{近|ちか}くの{喫茶店|きっさてん}"
+   ],
+   "answer": 0,
+   "en": "On the phone. M: Hello, it's Yamada. About Saturday's hike: the forecast says rain, so let's not go to the mountains. F: Oh, that's too bad. M: Instead, shall we go to the art museum near the station? F: Sounds good. But if the rain stops, how about a walk in the park? M: Hmm, it seems it will rain all day Saturday. F: Then let's go to the museum.",
+   "why": "It will rain all day, so they choose the art museum."
+  },
+  {
+   "type": "task",
+   "setup": "{学校|がっこう}で{先生|せんせい}が{話|はな}しています。{学生|がくせい}は{明日|あした}{何|なに}を{持|も}ってきますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{明日|あした}は{防災|ぼうさい}センターに{行|い}って、{地震|じしん}や{火事|かじ}のときにどうすればいいか{勉強|べんきょう}します。{朝|あさ}9{時|じ}に{学校|がっこう}の{前|まえ}に{集|あつ}まってください。{昼|ひる}ご{飯|はん}はセンターの{近|ちか}くのレストランで{食|た}べますから、お{弁当|べんとう}はいりません。{歩|ある}く{時間|じかん}が{長|なが}いので、{飲|の}み{物|もの}を{持|も}ってきてください。それから、ノートと{鉛筆|えんぴつ}はセンターでもらえますから、{持|も}ってこなくてもいいです。"
+    }
+   ],
+   "question": "{学生|がくせい}は{明日|あした}{何|なに}を{持|も}ってきますか。",
+   "options": [
+    "お{弁当|べんとう}",
+    "ノートと{鉛筆|えんぴつ}",
+    "{飲|の}み{物|もの}",
+    "お{弁当|べんとう}と{飲|の}み{物|もの}"
+   ],
+   "answer": 2,
+   "en": "At school. F: Tomorrow we will go to the disaster prevention center and learn what to do in an earthquake or fire. Gather in front of the school at 9 a.m. We'll eat lunch at a restaurant near the center, so you don't need a packed lunch. There is a lot of walking, so bring something to drink. Also, you will get a notebook and pencil at the center, so you don't need to bring them.",
+   "why": "Lunch and notebooks are provided; only a drink must be brought."
+  },
+  {
+   "type": "point",
+   "setup": "{会社|かいしゃ}で{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}はどうして{遅|おく}れましたか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{田中|たなか}さん、おはようございます。{今日|きょう}は{遅|おそ}かったですね。{雪|ゆき}で{電車|でんしゃ}が{止|と}まったんですか。"
+    },
+    {
+     "s": "F",
+     "jp": "いいえ、{電車|でんしゃ}は{動|うご}いていたんです。でも、{家|いえ}から{駅|えき}までの{道|みち}が{雪|ゆき}で{滑|すべ}りやすくて。"
+    },
+    {
+     "s": "M",
+     "jp": "ああ、それで{歩|ある}くのに{時間|じかん}がかかったんですね。"
+    },
+    {
+     "s": "F",
+     "jp": "ええ。{転|ころ}ばないように、ゆっくり{歩|ある}いたんです。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}はどうして{遅|おく}れましたか。",
+   "options": [
+    "{電車|でんしゃ}が{止|と}まったから",
+    "バスが{来|こ}なかったから",
+    "{朝|あさ}{寝坊|ねぼう}したから",
+    "{道|みち}が{滑|すべ}りやすかったから"
+   ],
+   "answer": 3,
+   "en": "At work. M: Good morning, Ms. Tanaka. You're late today. Did the trains stop because of the snow? F: No, the trains were running. But the road from my house to the station was slippery with snow. M: Ah, so walking took a long time. F: Yes. I walked slowly so I wouldn't fall.",
+   "why": "The trains were running; she was slow because the road was slippery."
+  },
+  {
+   "type": "point",
+   "setup": "{郵便局|ゆうびんきょく}で{男|おとこ}の{留学生|りゅうがくせい}と{郵便局|ゆうびんきょく}の{人|ひと}が{話|はな}しています。{送|おく}れないものは{何|なん}ですか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "この{箱|はこ}を{飛行機|ひこうき}でベトナムに{送|おく}りたいんですが。"
+    },
+    {
+     "s": "F",
+     "jp": "{中|なか}には{何|なに}が{入|はい}っていますか。"
+    },
+    {
+     "s": "M",
+     "jp": "{服|ふく}と、{本|ほん}と、お{菓子|かし}と、それから{電池|でんち}です。"
+    },
+    {
+     "s": "F",
+     "jp": "すみません、{電池|でんち}は{飛行機|ひこうき}では{送|おく}れないんです。それだけ{出|だ}していただけますか。ほかのものは{大丈夫|だいじょうぶ}です。"
+    },
+    {
+     "s": "M",
+     "jp": "わかりました。"
+    }
+   ],
+   "question": "{送|おく}れないものは{何|なん}ですか。",
+   "options": [
+    "{服|ふく}",
+    "{電池|でんち}",
+    "お{菓子|かし}",
+    "{本|ほん}"
+   ],
+   "answer": 1,
+   "en": "At a post office. M: I'd like to send this box to Vietnam by air. F: What's inside? M: Clothes, books, sweets, and batteries. F: I'm sorry, batteries can't be sent by air. Could you take just those out? The other things are fine. M: I see.",
+   "why": "The clerk says only the batteries cannot go by air."
+  },
+  {
+   "type": "point",
+   "setup": "{大学|だいがく}で{男|おとこ}の{学生|がくせい}と{女|おんな}の{留学生|りゅうがくせい}が{話|はな}しています。{女|おんな}の{留学生|りゅうがくせい}はどうして{日本|にほん}に{留学|りゅうがく}しましたか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "マリアさんは、どうして{日本|にほん}に{留学|りゅうがく}しようと{思|おも}ったんですか。アニメが{好|す}きだったからですか。"
+    },
+    {
+     "s": "F",
+     "jp": "アニメも{好|す}きですけど、それが{理由|りゆう}じゃないんです。{私|わたし}、{将来|しょうらい}、{建物|たてもの}を{設計|せっけい}する{仕事|しごと}がしたくて。{日本|にほん}は{地震|じしん}が{多|おお}いでしょう？だから、{地震|じしん}に{強|つよ}い{建物|たてもの}のことを{勉強|べんきょう}したかったんです。"
+    },
+    {
+     "s": "M",
+     "jp": "へえ、すごいですね。"
+    },
+    {
+     "s": "F",
+     "jp": "{日本|にほん}の{食|た}べ{物|もの}もおいしいし、{来|き}てよかったです。"
+    }
+   ],
+   "question": "{女|おんな}の{留学生|りゅうがくせい}はどうして{日本|にほん}に{留学|りゅうがく}しましたか。",
+   "options": [
+    "{地震|じしん}に{強|つよ}い{建物|たてもの}について{勉強|べんきょう}したかったから",
+    "アニメが{好|す}きだったから",
+    "{日本|にほん}の{食|た}べ{物|もの}が{好|す}きだったから",
+    "{日本|にほん}の{会社|かいしゃ}で{働|はたら}きたかったから"
+   ],
+   "answer": 0,
+   "en": "At a university. M: Maria, why did you decide to study in Japan? Because you liked anime? F: I like anime too, but that's not the reason. I want to design buildings in the future. Japan has many earthquakes, right? So I wanted to study buildings that are strong against earthquakes. M: Wow, that's great. F: Japanese food is delicious too, so I'm glad I came.",
+   "why": "She says anime is not the reason; she wanted to study earthquake-resistant buildings."
+  },
+  {
+   "type": "point",
+   "setup": "テレビで{天気|てんき}{予報|よほう}を{言|い}っています。{東京|とうきょう}で{雨|あめ}が{降|ふ}り{始|はじ}めるのはいつですか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{明日|あした}の{天気|てんき}です。{台風|たいふう}が{近|ちか}づいています。{大阪|おおさか}では{明日|あした}の{朝|あさ}から{雨|あめ}が{降|ふ}り{始|はじ}めるでしょう。{東京|とうきょう}は{朝|あさ}から{昼|ひる}までは{晴|は}れていますが、{夕方|ゆうがた}から{雨|あめ}になり、{夜|よる}は{風|かぜ}も{強|つよ}くなるでしょう。{雨|あめ}は{明後日|あさって}の{昼|ひる}ごろまで{続|つづ}きそうです。"
+    }
+   ],
+   "question": "{東京|とうきょう}で{雨|あめ}が{降|ふ}り{始|はじ}めるのはいつですか。",
+   "options": [
+    "{明日|あした}の{朝|あさ}",
+    "{明日|あした}の{昼|ひる}",
+    "{明日|あした}の{夕方|ゆうがた}",
+    "{明後日|あさって}の{昼|ひる}"
+   ],
+   "answer": 2,
+   "en": "Weather forecast. F: Here is tomorrow's weather. A typhoon is approaching. In Osaka, rain will start tomorrow morning. Tokyo will be sunny from morning until noon, but rain will begin in the evening, and at night the wind will also get strong. The rain looks set to continue until around noon the day after tomorrow.",
+   "why": "Tokyo is sunny until noon and rain starts in the evening; morning rain is Osaka."
+  },
+  {
+   "type": "point",
+   "setup": "{電話|でんわ}で{女|おんな}の{人|ひと}と{配達|はいたつ}の{人|ひと}が{話|はな}しています。{荷物|にもつ}は{何時|なんじ}ごろ{届|とど}きますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "もしもし、{昨日|きのう}{荷物|にもつ}を{持|も}ってきてもらったとき、{留守|るす}だったので、もう{一度|いちど}{届|とど}けてほしいんですが。"
+    },
+    {
+     "s": "M",
+     "jp": "はい。{今日|きょう}ですと、{午後|ごご}2{時|じ}から4{時|じ}か、6{時|じ}から8{時|じ}になります。"
+    },
+    {
+     "s": "F",
+     "jp": "2{時|じ}から4{時|じ}は{出|で}かけているので…。"
+    },
+    {
+     "s": "M",
+     "jp": "では、6{時|じ}から8{時|じ}でよろしいですか。"
+    },
+    {
+     "s": "F",
+     "jp": "あ、でも7{時|じ}まではアルバイトなんです。{家|いえ}に{着|つ}くのは7{時|じ}{半|はん}ごろです。"
+    },
+    {
+     "s": "M",
+     "jp": "わかりました。では、7{時|じ}{半|はん}すぎにお{届|とど}けします。"
+    }
+   ],
+   "question": "{荷物|にもつ}は{何時|なんじ}ごろ{届|とど}きますか。",
+   "options": [
+    "2{時|じ}ごろ",
+    "7{時|じ}{半|はん}すぎ",
+    "6{時|じ}ごろ",
+    "7{時|じ}ごろ"
+   ],
+   "answer": 1,
+   "en": "On the phone. F: Hello, I was out yesterday when you brought my package, so I'd like it delivered again. M: OK. Today we can come between 2 and 4 p.m., or between 6 and 8. F: I'm out from 2 to 4... M: Then is 6 to 8 all right? F: Oh, but I have my part-time job until 7. I get home around 7:30. M: Understood. We'll deliver it after 7:30.",
+   "why": "She gets home at about 7:30, so they will deliver just after 7:30."
+  },
+  {
+   "type": "point",
+   "setup": "{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}は{留学|りゅうがく}したとき、{何|なに}がいちばん{大変|たいへん}でしたか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{鈴木|すずき}さん、イギリスに{留学|りゅうがく}していたんですよね。{英語|えいご}は{大変|たいへん}でしたか。"
+    },
+    {
+     "s": "F",
+     "jp": "{最初|さいしょ}は{大変|たいへん}でしたけど、すぐ{慣|な}れました。{友|とも}だちもすぐできましたし。"
+    },
+    {
+     "s": "M",
+     "jp": "{食|た}べ{物|もの}はどうでしたか。"
+    },
+    {
+     "s": "F",
+     "jp": "{食|た}べ{物|もの}は{自分|じぶん}で{作|つく}っていたので{大丈夫|だいじょうぶ}でした。いちばん{困|こま}ったのは{天気|てんき}ですね。{冬|ふゆ}は{午後|ごご}4{時|じ}ごろにはもう{暗|くら}くなるし、{雨|あめ}の{日|ひ}も{多|おお}くて、{元気|げんき}が{出|で}なかったんです。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}は{留学|りゅうがく}したとき、{何|なに}がいちばん{大変|たいへん}でしたか。",
+   "options": [
+    "{英語|えいご}",
+    "{食|た}べ{物|もの}",
+    "{友|とも}だちを{作|つく}ること",
+    "{天気|てんき}"
+   ],
+   "answer": 3,
+   "en": "M: Ms. Suzuki, you studied in England, right? Was English hard? F: At first, but I got used to it quickly. I made friends quickly too. M: How was the food? F: I cooked for myself, so that was fine. The biggest problem was the weather. In winter it was already dark by about 4 p.m., and there were many rainy days, so I felt down.",
+   "why": "She says the thing that troubled her most was the weather."
+  },
+  {
+   "type": "point",
+   "setup": "{男|おとこ}の{学生|がくせい}と{女|おんな}の{学生|がくせい}が{話|はな}しています。{男|おとこ}の{学生|がくせい}は{何|なに}をしに{郵便局|ゆうびんきょく}へ{行|い}きますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "どこ{行|い}くの？"
+    },
+    {
+     "s": "M",
+     "jp": "{郵便局|ゆうびんきょく}。"
+    },
+    {
+     "s": "F",
+     "jp": "{手紙|てがみ}を{出|だ}しに{行|い}くの？"
+    },
+    {
+     "s": "M",
+     "jp": "ううん。{国|くに}の{母|はは}が{荷物|にもつ}を{送|おく}ってくれたんだけど、{昨日|きのう}{留守|るす}だったから、{取|と}りに{行|い}くんだ。"
+    },
+    {
+     "s": "F",
+     "jp": "いいなあ。{何|なに}が{入|はい}ってるの？"
+    },
+    {
+     "s": "M",
+     "jp": "たぶん{国|くに}のお{菓子|かし}。あとで{一緒|いっしょ}に{食|た}べよう。"
+    }
+   ],
+   "question": "{男|おとこ}の{学生|がくせい}は{何|なに}をしに{郵便局|ゆうびんきょく}へ{行|い}きますか。",
+   "options": [
+    "{荷物|にもつ}を{受|う}け{取|と}りに{行|い}く",
+    "{手紙|てがみ}を{出|だ}しに{行|い}く",
+    "{荷物|にもつ}を{送|おく}りに{行|い}く",
+    "{切手|きって}を{買|か}いに{行|い}く"
+   ],
+   "answer": 0,
+   "en": "F: Where are you going? M: The post office. F: To mail a letter? M: No. My mom back home sent me a package, but I was out yesterday, so I'm going to pick it up. F: Lucky. What's in it? M: Probably sweets from home. Let's eat them together later.",
+   "why": "He was out when it was delivered, so he is going to collect the package."
+  },
+  {
+   "type": "utterance",
+   "setup": "{郵便局|ゆうびんきょく}で、{荷物|にもつ}をアメリカに{送|おく}りたいです。{何|なん}と{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "この{荷物|にもつ}をアメリカに{送|おく}りたいんですが。",
+    "この{荷物|にもつ}をアメリカに{送|おく}ってもらいましたか。",
+    "この{荷物|にもつ}をアメリカから{送|おく}りましょうか。"
+   ],
+   "answer": 0,
+   "en": "At the post office you want to send a package to America. What do you say?",
+   "why": "…んですが politely states what you want to do; the others ask about the past or offer to send it from America."
+  },
+  {
+   "type": "utterance",
+   "setup": "{雨|あめ}が{降|ふ}ってきました。{友|とも}だちは{傘|かさ}を{持|も}っていません。{何|なん}と{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "{傘|かさ}、{貸|か}してくれない？",
+    "{傘|かさ}、{借|か}りてもいい？",
+    "{傘|かさ}、{一緒|いっしょ}に{入|はい}る？"
+   ],
+   "answer": 2,
+   "en": "It has started raining. Your friend doesn't have an umbrella. What do you say?",
+   "why": "Your friend has no umbrella, so you offer to share yours; the others ask to borrow theirs."
+  },
+  {
+   "type": "utterance",
+   "setup": "{先生|せんせい}に、{留学|りゅうがく}のことで{話|はなし}を{聞|き}いてほしいです。{何|なん}と{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "{先生|せんせい}、{留学|りゅうがく}のことで{相談|そうだん}していただきました。",
+    "{先生|せんせい}、{留学|りゅうがく}のことでちょっとご{相談|そうだん}があるんですが。",
+    "{先生|せんせい}、{留学|りゅうがく}のことで{相談|そうだん}してあげましょうか。"
+   ],
+   "answer": 1,
+   "en": "You want your teacher to hear you out about studying abroad. What do you say?",
+   "why": "ご{相談|そうだん}があるんですが is the polite way to ask for advice; the others are past tense or an offer to help the teacher."
+  },
+  {
+   "type": "utterance",
+   "setup": "{台風|たいふう}が{近|ちか}づいています。{友|とも}だちが{今|いま}から{家|いえ}に{帰|かえ}ります。{何|なん}と{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "おかげさまで。",
+    "いってきます。",
+    "{気|き}をつけて{帰|かえ}ってね。"
+   ],
+   "answer": 2,
+   "en": "A typhoon is coming. Your friend is going home now. What do you say?",
+   "why": "You tell someone who is leaving to be careful; いってきます is said by the person leaving."
+  },
+  {
+   "type": "utterance",
+   "setup": "{郵便局|ゆうびんきょく}で{荷物|にもつ}を{出|だ}しました。{荷物|にもつ}がいつ{着|つ}くか{知|し}りたいです。{何|なん}と{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "いつ{送|おく}ればいいですか。",
+    "いつごろ{着|つ}きますか。",
+    "いつ{着|つ}きましたか。"
+   ],
+   "answer": 1,
+   "en": "You have just sent a package at the post office. You want to know when it will arrive. What do you say?",
+   "why": "You ask about the future arrival; the package has already been sent and has not arrived yet."
+  },
+  {
+   "type": "response",
+   "setup": "{文|ぶん}を{聞|き}いて、いちばんいい{返事|へんじ}を{選|えら}んでください。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{雨|あめ}、なかなかやまないね。"
+    }
+   ],
+   "question": "いちばんいい{返事|へんじ}はどれですか。",
+   "options": [
+    "うん、もうやんだね。",
+    "うん、もうすぐ{晴|は}れたね。",
+    "うん、タクシーで{帰|かえ}ろうか。"
+   ],
+   "answer": 2,
+   "en": "M: The rain just won't stop, huh. (1) Yeah, it already stopped. (2) Yeah, it soon cleared up. (3) Yeah, shall we go home by taxi?",
+   "why": "The rain is still falling, so suggesting a taxi fits; the others say it stopped."
+  },
+  {
+   "type": "response",
+   "setup": "{文|ぶん}を{聞|き}いて、いちばんいい{返事|へんじ}を{選|えら}んでください。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "すみません、この{小包|こづつみ}、{明日|あした}までに{届|とど}きますか。"
+    }
+   ],
+   "question": "いちばんいい{返事|へんじ}はどれですか。",
+   "options": [
+    "{速達|そくたつ}にすれば{届|とど}きますよ。",
+    "はい、{昨日|きのう}{届|とど}きました。",
+    "いいえ、{送|おく}りませんでした。"
+   ],
+   "answer": 0,
+   "en": "F: Excuse me, will this parcel arrive by tomorrow? (1) It will if you send it express. (2) Yes, it arrived yesterday. (3) No, I didn't send it.",
+   "why": "Only the first answers about the future arrival."
+  },
+  {
+   "type": "response",
+   "setup": "{文|ぶん}を{聞|き}いて、いちばんいい{返事|へんじ}を{選|えら}んでください。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{留学|りゅうがく}、いつから？"
+    }
+   ],
+   "question": "いちばんいい{返事|へんじ}はどれですか。",
+   "options": [
+    "{一年間|いちねんかん}だよ。",
+    "{来年|らいねん}の{四月|しがつ}から。",
+    "アメリカに{行|い}くよ。"
+   ],
+   "answer": 1,
+   "en": "M: When does your study abroad start? (1) For one year. (2) From April next year. (3) I'm going to America.",
+   "why": "いつから asks when it starts, so 'from April' is the answer."
+  },
+  {
+   "type": "response",
+   "setup": "{文|ぶん}を{聞|き}いて、いちばんいい{返事|へんじ}を{選|えら}んでください。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{昨日|きのう}の{地震|じしん}、{大丈夫|だいじょうぶ}でしたか。"
+    }
+   ],
+   "question": "いちばんいい{返事|へんじ}はどれですか。",
+   "options": [
+    "ええ、{何|なに}も{落|お}ちませんでした。",
+    "ええ、{大丈夫|だいじょうぶ}でしょう。",
+    "いいえ、{地震|じしん}は{好|す}きです。"
+   ],
+   "answer": 0,
+   "en": "F: Were you OK in yesterday's earthquake? (1) Yes, nothing fell. (2) Yes, it will probably be fine. (3) No, I like earthquakes.",
+   "why": "The question is about the past, and nothing falling means they were fine."
+  },
+  {
+   "type": "response",
+   "setup": "{文|ぶん}を{聞|き}いて、いちばんいい{返事|へんじ}を{選|えら}んでください。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "この{荷物|にもつ}、{重|おも}そうだね。{手伝|てつだ}おうか。"
+    }
+   ],
+   "question": "いちばんいい{返事|へんじ}はどれですか。",
+   "options": [
+    "うん、{手伝|てつだ}ってあげるよ。",
+    "ううん、{重|おも}くなかったよ。",
+    "ありがとう、{助|たす}かるよ。"
+   ],
+   "answer": 2,
+   "en": "M: This bag looks heavy. Shall I help? (1) Yeah, I'll help you. (2) No, it wasn't heavy. (3) Thanks, that helps.",
+   "why": "He offers help, so you thank him."
+  },
+  {
+   "type": "response",
+   "setup": "{文|ぶん}を{聞|き}いて、いちばんいい{返事|へんじ}を{選|えら}んでください。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{天気|てんき}がよかったら、{明日|あした}、{海|うみ}に{行|い}かない？"
+    }
+   ],
+   "question": "いちばんいい{返事|へんじ}はどれですか。",
+   "options": [
+    "{行|い}ったことがあるよ。",
+    "いいね、{行|い}こう。",
+    "{天気|てんき}がよかったね。"
+   ],
+   "answer": 1,
+   "en": "F: If the weather is good, want to go to the beach tomorrow? (1) I've been there before. (2) Sounds good, let's go. (3) The weather was nice, wasn't it.",
+   "why": "It is an invitation, so accepting it fits."
+  },
+  {
+   "type": "response",
+   "setup": "{文|ぶん}を{聞|き}いて、いちばんいい{返事|へんじ}を{選|えら}んでください。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "すみません、{寮|りょう}の{申込書|もうしこみしょ}はどこでもらえますか。"
+    }
+   ],
+   "question": "いちばんいい{返事|へんじ}はどれですか。",
+   "options": [
+    "{来週|らいしゅう}までです。",
+    "{二階|にかい}の{事務室|じむしつ}でどうぞ。",
+    "はい、もらいました。"
+   ],
+   "answer": 1,
+   "en": "M: Excuse me, where can I get the dorm application form? (1) Until next week. (2) Please get it at the office on the second floor. (3) Yes, I got it.",
+   "why": "どこ asks where, so the place is the answer."
+  },
+  {
+   "type": "response",
+   "setup": "{文|ぶん}を{聞|き}いて、いちばんいい{返事|へんじ}を{選|えら}んでください。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{雪|ゆき}で{電車|でんしゃ}が{遅|おく}れているらしいですよ。"
+    }
+   ],
+   "question": "いちばんいい{返事|へんじ}はどれですか。",
+   "options": [
+    "じゃあ、{早|はや}めに{出|で}ましょう。",
+    "じゃあ、{雪|ゆき}が{降|ふ}るといいですね。",
+    "じゃあ、{電車|でんしゃ}は{速|はや}いですね。"
+   ],
+   "answer": 0,
+   "en": "F: It seems the trains are delayed because of the snow. (1) Then let's leave early. (2) Then I hope it snows. (3) Then the trains are fast.",
+   "why": "If trains are late, leaving early is the sensible reply."
+  }
+ ]
+}

@@ -465,10 +465,10 @@
    "type": "form",
    "q": "A「{引|ひ}っ{越|こ}しは{終|お}わりましたか。」B「いいえ、{今|いま}、{荷物|にもつ}を{片付|かたづ}けて＿＿です。」",
    "options": [
-    "しまうところ",
+    "いたこと",
     "いるところ",
-    "あるところ",
-    "みるところ"
+    "もらうこと",
+    "くれるもの"
    ],
    "answer": 1,
    "en": "A: Have you finished moving? B: No, I am in the middle of putting my things away."
@@ -1398,12 +1398,12 @@
    "question": "{一番|いちばん}いい{返事|へんじ}はどれですか。",
    "options": [
     "ええ、{見|み}せてもいいですよ。",
-    "はい、どれですか。",
+    "はい、いいですよ。",
     "いいえ、{見|み}てもらいました。"
    ],
    "answer": 1,
-   "en": "M: Tanaka-san, could you have a look at this document? 1 Yes, I can show it to you. 2 Sure, which one? 3 No, I had it checked.",
-   "why": "He asks her to look at it; she agrees and asks which one."
+   "en": "M: Tanaka-san, could you have a look at this document? 1 Yes, I can show it to you. 2 Sure, no problem. 3 No, I had it checked.",
+   "why": "He asks her to look at it, and she agrees."
   },
   {
    "type": "response",

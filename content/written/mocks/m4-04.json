@@ -166,7 +166,7 @@
     "かって",
     "ひいて",
     "まけて",
-    "おちて"
+    "しめて"
    ],
    "answer": 2,
    "en": "Our team could not score a single point and lost."
@@ -656,12 +656,12 @@
     {
      "q": "チームの{人|ひと}が{持|も}って{行|い}かなくてもいいものはどれですか。",
      "options": [
-      "くつ",
       "ユニフォーム",
+      "くつ",
       "タオル",
       "{飲|の}み{物|もの}"
      ],
-     "answer": 1,
+     "answer": 0,
      "why": "The coach will bring the uniforms, so the players do not need to."
     }
    ]
@@ -956,10 +956,10 @@
    "options": [
     "{体操服|たいそうふく}と{水筒|すいとう}とお{弁当|べんとう}",
     "{教科書|きょうかしょ}と{水筒|すいとう}",
-    "{体操服|たいそうふく}と{帽子|ぼうし}と{水筒|すいとう}",
-    "{体操服|たいそうふく}と{帽子|ぼうし}と{教科書|きょうかしょ}"
+    "{体操服|たいそうふく}と{帽子|ぼうし}と{教科書|きょうかしょ}",
+    "{体操服|たいそうふく}と{帽子|ぼうし}と{水筒|すいとう}"
    ],
-   "answer": 2,
+   "answer": 3,
    "en": "A teacher at school: Here's what to bring to tomorrow's sports day. Bring your gym clothes, a hat and a water bottle. You don't need a packed lunch; there is school lunch. If it rains there's no sports day, just normal lessons, so bring your textbooks. F: When will we know if it's raining? M: I'll write it on the school website at 6 a.m.",
    "why": "For the sports day they need gym clothes, a hat and a water bottle; textbooks are only for rain."
   },
@@ -1056,10 +1056,10 @@
    "options": [
     "{電車|でんしゃ}が{止|と}まったから",
     "{朝|あさ}、{起|お}きられなかったから",
-    "{歯医者|はいしゃ}に{行|い}ったから",
-    "{頭|あたま}が{痛|いた}かったから"
+    "{頭|あたま}が{痛|いた}かったから",
+    "{歯医者|はいしゃ}に{行|い}ったから"
    ],
-   "answer": 2,
+   "answer": 3,
    "en": "At the office. F: Good morning. You were late today. Did the train stop? M: No, the train was fine. This morning my tooth hurt, so I went to the dentist. F: I see. Are you all right now? M: Yes, it doesn't hurt any more.",
    "why": "He went to the dentist because his tooth hurt."
   },
