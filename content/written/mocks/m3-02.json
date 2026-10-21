@@ -1,0 +1,1713 @@
+{
+ "id": "m3-02",
+ "level": 3,
+ "title_en": "N3 practice test 2",
+ "vocab": [
+  {
+   "type": "kanji_reading",
+   "q_raw": "健康のために、【睡眠】を十分にとるようにしている。",
+   "options": [
+    "すいみん",
+    "すいめん",
+    "すいみ",
+    "すいねん"
+   ],
+   "answer": 0,
+   "en": "For my health, I try to get enough sleep."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "このアプリは、最新の【技術】を使って作られた。",
+   "options": [
+    "ぎしゅつ",
+    "きじゅつ",
+    "ぎじゅつ",
+    "ぎじゅう"
+   ],
+   "answer": 2,
+   "en": "This app was made using the latest technology."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "旅行の【予定】が変わったので、ホテルに連絡した。",
+   "options": [
+    "ようてい",
+    "よてい",
+    "よでい",
+    "ようでい"
+   ],
+   "answer": 1,
+   "en": "My travel plans changed, so I contacted the hotel."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "医者に、お酒の量を【減らす】ように言われた。",
+   "options": [
+    "ふやす",
+    "こらす",
+    "ならす",
+    "へらす"
+   ],
+   "answer": 3,
+   "en": "The doctor told me to reduce how much alcohol I drink."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "空港の【案内】カウンターで地図をもらった。",
+   "options": [
+    "あんまい",
+    "あんい",
+    "あんない",
+    "あんがい"
+   ],
+   "answer": 2,
+   "en": "I got a map at the airport information counter."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "パソコンの画面が急に【暗く】なった。",
+   "options": [
+    "くらく",
+    "くろく",
+    "あかく",
+    "ふかく"
+   ],
+   "answer": 0,
+   "en": "The computer screen suddenly went dark."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "新しいスマートフォンを買って、データを【移した】。",
+   "options": [
+    "もどした",
+    "かえした",
+    "おとした",
+    "うつした"
+   ],
+   "answer": 3,
+   "en": "I bought a new smartphone and moved my data over."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "駅の近くの【薬局】で風邪薬を買った。",
+   "options": [
+    "やくきょく",
+    "やっきょく",
+    "やきょく",
+    "やっきょう"
+   ],
+   "answer": 1,
+   "en": "I bought cold medicine at the pharmacy near the station."
+  },
+  {
+   "type": "orthography",
+   "q": "{毎日|まいにち}{三十分|さんじゅっぷん}ぐらい【うんどう】するようにしています。",
+   "options_raw": [
+    "運働",
+    "運動",
+    "連動",
+    "運勤"
+   ],
+   "answer": 1,
+   "en": "I try to exercise for about thirty minutes every day."
+  },
+  {
+   "type": "orthography",
+   "q": "{新|あたら}しいソフトを【ためして】みました。",
+   "options_raw": [
+    "験して",
+    "式して",
+    "誠して",
+    "試して"
+   ],
+   "answer": 3,
+   "en": "I tried out the new software."
+  },
+  {
+   "type": "orthography",
+   "q": "{旅行|りょこう}の{前|まえ}に、ホテルを【よやく】しました。",
+   "options_raw": [
+    "予約",
+    "予薬",
+    "子約",
+    "預約"
+   ],
+   "answer": 0,
+   "en": "I booked a hotel before the trip."
+  },
+  {
+   "type": "orthography",
+   "q": "この{部屋|へや}は{窓|まど}が{大|おお}きくて【あかるい】です。",
+   "options_raw": [
+    "朋るい",
+    "明かるい",
+    "明るい",
+    "照るい"
+   ],
+   "answer": 2,
+   "en": "This room has big windows and is bright."
+  },
+  {
+   "type": "orthography",
+   "q": "{電池|でんち}が【きれ】そうなので、{充電|じゅうでん}してください。",
+   "options_raw": [
+    "着れ",
+    "決れ",
+    "刀れ",
+    "切れ"
+   ],
+   "answer": 3,
+   "en": "The battery is about to run out, so please charge it."
+  },
+  {
+   "type": "orthography",
+   "q": "{自転車|じてんしゃ}で{島|しま}を【いっしゅう】しました。",
+   "options_raw": [
+    "一周",
+    "一週",
+    "一集",
+    "一州"
+   ],
+   "answer": 0,
+   "en": "I went all the way around the island by bicycle."
+  },
+  {
+   "type": "context",
+   "q": "{野菜|やさい}をたくさん{食|た}べて、＿＿のバランスに{気|き}をつけている。",
+   "options": [
+    "{栄養|えいよう}",
+    "{材料|ざいりょう}",
+    "{体重|たいじゅう}",
+    "{料金|りょうきん}"
+   ],
+   "answer": 0,
+   "en": "I eat a lot of vegetables and pay attention to a balanced diet."
+  },
+  {
+   "type": "context",
+   "q": "パスワードを{忘|わす}れて、アカウントに＿＿できなくなった。",
+   "options": [
+    "ダウンロード",
+    "コピー",
+    "ログイン",
+    "インストール"
+   ],
+   "answer": 2,
+   "en": "I forgot my password and could not log in to my account."
+  },
+  {
+   "type": "context",
+   "q": "{飛行機|ひこうき}が{遅|おく}れたので、{乗|の}り＿＿の{電車|でんしゃ}に{間|ま}に{合|あ}わなかった。",
+   "options": [
+    "こし",
+    "すぎ",
+    "おくれ",
+    "かえ"
+   ],
+   "answer": 3,
+   "en": "My plane was late, so I missed the train I was going to change to."
+  },
+  {
+   "type": "context",
+   "q": "{熱|ねつ}が{下|さ}がらないので、{病院|びょういん}で＿＿を{受|う}けた。",
+   "options": [
+    "{見物|けんぶつ}",
+    "{診察|しんさつ}",
+    "{訪問|ほうもん}",
+    "{観察|かんさつ}"
+   ],
+   "answer": 1,
+   "en": "My fever did not go down, so I saw a doctor at the hospital."
+  },
+  {
+   "type": "context",
+   "q": "{週末|しゅうまつ}は{家|いえ}で＿＿して、{好|す}きな{映画|えいが}を{見|み}ていた。",
+   "options": [
+    "のんびり",
+    "はっきり",
+    "すっかり",
+    "ぴったり"
+   ],
+   "answer": 0,
+   "en": "At the weekend I relaxed at home and watched my favourite films."
+  },
+  {
+   "type": "context",
+   "q": "このカメラは{小|ちい}さくて{軽|かる}いので、{旅行|りょこう}に{持|も}っていくのに＿＿だ。",
+   "options": [
+    "{複雑|ふくざつ}",
+    "{確実|かくじつ}",
+    "{便利|べんり}",
+    "{正確|せいかく}"
+   ],
+   "answer": 2,
+   "en": "This camera is small and light, so it is handy to take on trips."
+  },
+  {
+   "type": "context",
+   "q": "{新|あたら}しいパソコンの{使|つか}い{方|かた}がわからなかったので、{説明書|せつめいしょ}を＿＿{読|よ}んだ。",
+   "options": [
+    "がっかり",
+    "じっくり",
+    "うっかり",
+    "にっこり"
+   ],
+   "answer": 1,
+   "en": "I did not know how to use the new computer, so I read the manual carefully."
+  },
+  {
+   "type": "context",
+   "q": "{旅行|りょこう}の{前|まえ}に、{必要|ひつよう}なものをリストにして＿＿した。",
+   "options": [
+    "セット",
+    "サイン",
+    "カット",
+    "チェック"
+   ],
+   "answer": 3,
+   "en": "Before the trip, I made a list of what I needed and checked it."
+  },
+  {
+   "type": "context",
+   "q": "{健康|けんこう}{診断|しんだん}のあと、{医者|いしゃ}に「もう{少|すこ}し{体重|たいじゅう}を{減|へ}らしてください」と＿＿された。",
+   "options": [
+    "{反対|はんたい}",
+    "{感心|かんしん}",
+    "{注意|ちゅうい}",
+    "{遠慮|えんりょ}"
+   ],
+   "answer": 2,
+   "en": "After my health check, the doctor warned me to lose a little weight."
+  },
+  {
+   "type": "context",
+   "q": "この{町|まち}は{古|ふる}い{建物|たてもの}が{多|おお}く、{昔|むかし}の＿＿が{残|のこ}っている。",
+   "options": [
+    "{雰囲気|ふんいき}",
+    "{気分|きぶん}",
+    "{天気|てんき}",
+    "{気温|きおん}"
+   ],
+   "answer": 0,
+   "en": "This town has many old buildings, and the feel of the old days remains."
+  },
+  {
+   "type": "context",
+   "q": "{電車|でんしゃ}の{中|なか}で{大|おお}きな{声|こえ}で{電話|でんわ}をするのは、まわりの{人|ひと}の＿＿になる。",
+   "options": [
+    "{心配|しんぱい}",
+    "{満足|まんぞく}",
+    "{無理|むり}",
+    "{迷惑|めいわく}"
+   ],
+   "answer": 3,
+   "en": "Talking loudly on the phone on a train bothers the people around you."
+  },
+  {
+   "type": "paraphrase",
+   "q": "{彼女|かのじょ}は{毎朝|まいあさ}【{欠|か}かさず】{運動|うんどう}している。",
+   "options": [
+    "ときどき",
+    "{一日|いちにち}も{休|やす}まずに",
+    "{短|みじか}い{時間|じかん}だけ",
+    "{家族|かぞく}と{一緒|いっしょ}に"
+   ],
+   "answer": 1,
+   "en": "She exercises every morning without missing a day."
+  },
+  {
+   "type": "paraphrase",
+   "q": "{新|あたら}しいソフトは【{操作|そうさ}が{簡単|かんたん}だ】。",
+   "options": [
+    "{値段|ねだん}が{安|やす}い",
+    "{動|うご}きが{速|はや}い",
+    "{見|み}た{目|め}がきれいだ",
+    "{使|つか}い{方|かた}がやさしい"
+   ],
+   "answer": 3,
+   "en": "The new software is easy to operate."
+  },
+  {
+   "type": "paraphrase",
+   "q": "{旅行|りょこう}から{帰|かえ}った{日|ひ}は【くたくた】だった。",
+   "options": [
+    "とても{疲|つか}れていた",
+    "とても{忙|いそが}しかった",
+    "とてもお{腹|なか}がすいていた",
+    "とてもうれしかった"
+   ],
+   "answer": 0,
+   "en": "On the day I got back from the trip, I was exhausted."
+  },
+  {
+   "type": "paraphrase",
+   "q": "この{料理|りょうり}は【{手間|てま}がかかる】。",
+   "options": [
+    "{材料|ざいりょう}が{高|たか}い",
+    "{味|あじ}が{濃|こ}い",
+    "{作|つく}るのが{大変|たいへん}だ",
+    "{量|りょう}が{多|おお}い"
+   ],
+   "answer": 2,
+   "en": "This dish takes a lot of work."
+  },
+  {
+   "type": "paraphrase",
+   "q": "{田中|たなか}さんは【{機械|きかい}に{強|つよ}い】。",
+   "options": [
+    "{機械|きかい}が{嫌|きら}いだ",
+    "{機械|きかい}のことがよくわかる",
+    "{機械|きかい}をたくさん{持|も}っている",
+    "{機械|きかい}を{作|つく}る{会社|かいしゃ}で{働|はたら}いている"
+   ],
+   "answer": 1,
+   "en": "Mr Tanaka is good with machines."
+  },
+  {
+   "type": "usage",
+   "word": "{節約|せつやく}",
+   "options": [
+    "{毎朝|まいあさ}、{犬|いぬ}と{一緒|いっしょ}に{公園|こうえん}を{節約|せつやく}しています。",
+    "{大切|たいせつ}な{書類|しょるい}は、{引|ひ}き{出|だ}しに{節約|せつやく}してください。",
+    "{電気代|でんきだい}を{節約|せつやく}するために、エアコンの{温度|おんど}を{変|か}えた。",
+    "{先生|せんせい}の{話|はなし}を{短|みじか}く{節約|せつやく}して、{友達|ともだち}に{伝|つた}えた。"
+   ],
+   "answer": 2,
+   "en": "setsuyaku = saving (money, energy)"
+  },
+  {
+   "type": "usage",
+   "word": "{故障|こしょう}",
+   "options": [
+    "{洗濯機|せんたくき}が{故障|こしょう}したので、{修理|しゅうり}を{頼|たの}んだ。",
+    "{風邪|かぜ}をひいて、のどが{故障|こしょう}してしまった。",
+    "{試験|しけん}で{名前|なまえ}を{書|か}き{忘|わす}れるという{故障|こしょう}をした。",
+    "{雨|あめ}で{旅行|りょこう}の{予定|よてい}が{故障|こしょう}になった。"
+   ],
+   "answer": 0,
+   "en": "koshou = breakdown (of a machine)"
+  },
+  {
+   "type": "usage",
+   "word": "{片付|かたづ}ける",
+   "options": [
+    "{暑|あつ}いので、{窓|まど}を{片付|かたづ}けて{風|かぜ}を{入|い}れた。",
+    "{駅|えき}で{友達|ともだち}を{片付|かたづ}けるのに{三十分|さんじゅっぷん}かかった。",
+    "{新|あたら}しい{言葉|ことば}を{覚|おぼ}えるために、ノートに{片付|かたづ}けた。",
+    "お{客|きゃく}さんが{来|く}るので、{部屋|へや}をきれいに{片付|かたづ}けた。"
+   ],
+   "answer": 3,
+   "en": "katazukeru = to tidy up, put away"
+  },
+  {
+   "type": "usage",
+   "word": "{混雑|こんざつ}",
+   "options": [
+    "この{料理|りょうり}はいろいろな{味|あじ}が{混雑|こんざつ}していておいしい。",
+    "{連休|れんきゅう}の{空港|くうこう}はとても{混雑|こんざつ}していた。",
+    "{机|つくえ}の{上|うえ}に{書類|しょるい}が{混雑|こんざつ}して{置|お}いてある。",
+    "{彼|かれ}の{説明|せつめい}は{混雑|こんざつ}していて、よくわからなかった。"
+   ],
+   "answer": 1,
+   "en": "konzatsu = crowded (with people)"
+  },
+  {
+   "type": "usage",
+   "word": "{夢中|むちゅう}",
+   "options": [
+    "{昨夜|ゆうべ}は{夢中|むちゅう}で{怖|こわ}い{夢|ゆめ}を{見|み}た。",
+    "{夢中|むちゅう}な{天気|てんき}が{何日|なんにち}も{続|つづ}いている。",
+    "{弟|おとうと}は{新|あたら}しいゲームに{夢中|むちゅう}で、{呼|よ}んでも{返事|へんじ}をしない。",
+    "{電車|でんしゃ}の{中|なか}で{疲|つか}れて{夢中|むちゅう}になって{寝|ね}てしまった。"
+   ],
+   "answer": 2,
+   "en": "muchuu = absorbed in, crazy about"
+  }
+ ],
+ "grammar": [
+  {
+   "type": "form",
+   "q": "{健康|けんこう}の＿＿、{毎日|まいにち}{野菜|やさい}を{食|た}べるようにしている。",
+   "options": [
+    "ように",
+    "ために",
+    "ばかり",
+    "ほど"
+   ],
+   "answer": 1,
+   "en": "For my health, I try to eat vegetables every day."
+  },
+  {
+   "type": "form",
+   "q": "{先週|せんしゅう}{買|か}った＿＿のスマホを{落|お}として、{壊|こわ}してしまった。",
+   "options": [
+    "ところ",
+    "あいだ",
+    "うち",
+    "ばかり"
+   ],
+   "answer": 3,
+   "en": "I dropped and broke the smartphone I had only just bought last week."
+  },
+  {
+   "type": "form",
+   "q": "{雨|あめ}が{降|ふ}り＿＿から、{洗濯物|せんたくもの}を{中|なか}に{入|い}れよう。",
+   "options": [
+    "そうだ",
+    "らしい",
+    "ようだ",
+    "みたいだ"
+   ],
+   "answer": 0,
+   "en": "It looks like it is going to rain, so let's bring the washing in."
+  },
+  {
+   "type": "form",
+   "q": "{医者|いしゃ}に、たばこをやめる＿＿{言|い}われた。",
+   "options": [
+    "ことに",
+    "ために",
+    "ように",
+    "ほどに"
+   ],
+   "answer": 2,
+   "en": "The doctor told me to stop smoking."
+  },
+  {
+   "type": "form",
+   "q": "このアプリは、{子|こ}ども＿＿{簡単|かんたん}に{使|つか}えるように{作|つく}られている。",
+   "options": [
+    "しか",
+    "でも",
+    "ばかり",
+    "ずつ"
+   ],
+   "answer": 1,
+   "en": "This app is made so that even children can use it easily."
+  },
+  {
+   "type": "form",
+   "q": "{旅行|りょこう}に{行|い}く＿＿、{必|かなら}ずその{土地|とち}の{料理|りょうり}を{食|た}べることにしている。",
+   "options": [
+    "たびに",
+    "うちに",
+    "あいだに",
+    "までに"
+   ],
+   "answer": 0,
+   "en": "Every time I travel, I make sure to eat the local food."
+  },
+  {
+   "type": "form",
+   "q": "{仕事|しごと}が{忙|いそが}しくて、{最近|さいきん}は{運動|うんどう}する{時間|じかん}＿＿ない。",
+   "options": [
+    "だけ",
+    "ばかり",
+    "ほど",
+    "さえ"
+   ],
+   "answer": 3,
+   "en": "Work is so busy that recently I do not even have time to exercise."
+  },
+  {
+   "type": "form",
+   "q": "{窓|まど}を{開|あ}けた＿＿{寝|ね}てしまって、{風邪|かぜ}をひいた。",
+   "options": [
+    "ながら",
+    "ばかり",
+    "まま",
+    "あいだ"
+   ],
+   "answer": 2,
+   "en": "I fell asleep with the window open and caught a cold."
+  },
+  {
+   "type": "form",
+   "q": "（メールで）{資料|しりょう}をお{送|おく}りしましたので、ご{確認|かくにん}＿＿。",
+   "options": [
+    "ください",
+    "いたします",
+    "させます",
+    "になります"
+   ],
+   "answer": 0,
+   "en": "(In an email) I have sent the documents, so please check them."
+  },
+  {
+   "type": "form",
+   "q": "{駅|えき}に{着|つ}いた＿＿、{乗|の}りたかった{電車|でんしゃ}のドアが{閉|し}まってしまった。",
+   "options": [
+    "ように",
+    "とたん",
+    "ために",
+    "ほど"
+   ],
+   "answer": 1,
+   "en": "The moment I reached the station, the doors of the train I wanted closed."
+  },
+  {
+   "type": "form",
+   "q": "{明日|あした}は{朝|あさ}6{時|じ}の{飛行機|ひこうき}に{乗|の}るので、{今夜|こんや}は{早|はや}く{寝|ね}＿＿。",
+   "options": [
+    "ないほうがいい",
+    "たことがある",
+    "てしまった",
+    "なくてはいけない"
+   ],
+   "answer": 3,
+   "en": "I am taking a 6 a.m. flight tomorrow, so I have to go to bed early tonight."
+  },
+  {
+   "type": "form",
+   "q": "スマホを{使|つか}い＿＿と、{目|め}が{疲|つか}れるし、{肩|かた}も{痛|いた}くなる。",
+   "options": [
+    "やすい",
+    "はじめる",
+    "すぎる",
+    "かける"
+   ],
+   "answer": 2,
+   "en": "If you use your smartphone too much, your eyes get tired and your shoulders hurt."
+  },
+  {
+   "type": "form",
+   "q": "A「この{荷物|にもつ}、{重|おも}そうですね。{持|も}ちましょうか。」B「すみません。じゃあ、お＿＿。」",
+   "options": [
+    "{持|も}ちします",
+    "{願|ねが}いします",
+    "{待|ま}たせしました",
+    "{世話|せわ}になりました"
+   ],
+   "answer": 1,
+   "en": "A: That bag looks heavy. Shall I carry it? B: Thank you. Yes, please."
+  },
+  {
+   "type": "star",
+   "before": "{健康|けんこう}のために、{毎日|まいにち}{一万歩|いちまんぽ}",
+   "after": "にしている。",
+   "pieces": [
+    "{以上|いじょう}",
+    "{歩|ある}く",
+    "こと",
+    "は"
+   ],
+   "order": [
+    0,
+    3,
+    1,
+    2
+   ],
+   "star": 1,
+   "en": "For my health, I make a rule of walking at least ten thousand steps every day.",
+   "why": "以上 must follow 一万歩, は marks it, and こと comes right before にしている."
+  },
+  {
+   "type": "star",
+   "before": "このアプリを",
+   "after": "{便利|べんり}になった。",
+   "pieces": [
+    "{使|つか}う",
+    "ように",
+    "{生活|せいかつ}が",
+    "なってから"
+   ],
+   "order": [
+    0,
+    1,
+    3,
+    2
+   ],
+   "star": 2,
+   "en": "Since I started using this app, my life has become more convenient.",
+   "why": "The pattern is ～ようになってから, and 生活が is the subject of 便利になった."
+  },
+  {
+   "type": "star",
+   "before": "{明日|あした}は{雨|あめ}が",
+   "after": "{旅行|りょこう}は{中止|ちゅうし}になった。",
+   "pieces": [
+    "{降|ふ}る",
+    "{予報|よほう}",
+    "という",
+    "なので"
+   ],
+   "order": [
+    0,
+    2,
+    1,
+    3
+   ],
+   "star": 3,
+   "en": "The forecast says it will rain tomorrow, so the trip was cancelled.",
+   "why": "雨が降る describes 予報 through という, and なので gives the reason."
+  },
+  {
+   "type": "star",
+   "before": "{兄|あに}は",
+   "after": "{出|で}かけていった。",
+   "pieces": [
+    "{朝|あさ}ごはんも",
+    "{食|た}べずに",
+    "{起|お}きる",
+    "とすぐ"
+   ],
+   "order": [
+    2,
+    3,
+    0,
+    1
+   ],
+   "star": 2,
+   "en": "My brother went out as soon as he got up, without even eating breakfast.",
+   "why": "とすぐ follows the dictionary form 起きる, and 朝ごはんも goes before 食べずに."
+  },
+  {
+   "type": "star",
+   "before": "{初|はじ}めて{行|い}く{国|くに}では、",
+   "after": "{大切|たいせつ}だ。",
+   "pieces": [
+    "{調|しら}べておく",
+    "ことが",
+    "{習慣|しゅうかん}を",
+    "その{国|くに}の"
+   ],
+   "order": [
+    3,
+    2,
+    0,
+    1
+   ],
+   "star": 0,
+   "en": "In a country you visit for the first time, it is important to look up that country's customs beforehand.",
+   "why": "その国の modifies 習慣, を takes the verb 調べておく, and ことが is the subject of 大切だ."
+  },
+  {
+   "type": "text",
+   "passage": "「{一人旅|ひとりたび}」\n{私|わたし}は{去年|きょねん}の{夏|なつ}、{初|はじ}めて{一人|ひとり}で{旅行|りょこう}をしました。{行|い}き{先|さき}は{京都|きょうと}です。{出発|しゅっぱつ}の{前|まえ}は、{一人|ひとり}で{大丈夫|だいじょうぶ}かどうか{心配|しんぱい}でした。（１）、{実際|じっさい}に{行|い}ってみると、{思|おも}っていたよりずっと{楽|たの}しかったです。\n{一人|ひとり}だと、{好|す}きな{場所|ばしょ}に{好|す}きなだけいることができます。{私|わたし}は{古|ふる}いお{寺|てら}が{好|す}きなので、{一|ひと}つのお{寺|てら}に{二時間|にじかん}も（２）。{友達|ともだち}と{一緒|いっしょ}だったら、そんなことはできなかったでしょう。\nまた、{一人|ひとり}でいると、{知|し}らない{人|ひと}によく{話|はな}しかけられます。ある{店|みせ}では、{店|みせ}の{人|ひと}がおすすめの{場所|ばしょ}を{教|おし}えてくれました。（３）{場所|ばしょ}はガイドブックには{載|の}っていない{静|しず}かな{庭|にわ}で、{今|いま}でも{一番|いちばん}の{思|おも}い{出|で}です。\nもちろん、{困|こま}ったこともありました。{夜|よる}、{一人|ひとり}で{夕食|ゆうしょく}を{食|た}べるのは、（４）{少|すこ}しさびしかったです。それでも、{一人旅|ひとりたび}にはそれ{以上|いじょう}のよさがあると{思|おも}います。みなさんも、{一度|いちど}（５）。",
+   "en": "Travelling alone. Last summer I travelled alone for the first time. I went to Kyoto. Before leaving I was worried whether I would be OK on my own. (1) However, when I actually went, it was much more fun than I expected. When you are alone, you can stay as long as you like in places you like. I like old temples, so I ended up (2) spending as long as two hours at one temple. With friends, I could not have done that. Also, when you are alone, strangers often talk to you. In one shop, the shop worker told me about a place they recommended. (3) That place was a quiet garden not in the guidebooks, and it is still my best memory. Of course, there were hard times too. Eating dinner alone at night was, (4) as I expected, a little lonely. Even so, I think travelling alone has more good points than that. (5) Why don't you try it once too?",
+   "questions": [
+    {
+     "q": "（１）",
+     "options": [
+      "そのうえ",
+      "ところが",
+      "だから",
+      "たとえば"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "（２）",
+     "options": [
+      "いるつもりです",
+      "いさせられました",
+      "いるはずでした",
+      "いてしまいました"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "（３）",
+     "options": [
+      "あんな",
+      "どんな",
+      "その",
+      "こんな"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "（４）",
+     "options": [
+      "やはり",
+      "まるで",
+      "けっして",
+      "ほとんど"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "（５）",
+     "options": [
+      "{試|ため}してみたことがあります",
+      "{試|ため}してみてはどうでしょうか",
+      "{試|ため}してみたかもしれません",
+      "{試|ため}してみるところです"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ],
+ "reading": [
+  {
+   "type": "short",
+   "text": "（{会社|かいしゃ}のメール）\n{社員|しゃいん}の{皆様|みなさま}\n{今年|ことし}の{健康|けんこう}{診断|しんだん}は、11{月|がつ}10{日|とおか}（{月|げつ}）から14{日|にち}（{金|きん}）まで、{本社|ほんしゃ}{三階|さんがい}の{会議室|かいぎしつ}で{行|おこな}います。{受|う}ける{日|ひ}を{一|ひと}つ{選|えら}んで、10{月|がつ}31{日|にち}までに{総務部|そうむぶ}の{山下|やました}に{連絡|れんらく}してください。\nなお、{診断|しんだん}の{前|まえ}の{日|ひ}は、{夜|よる}9{時|じ}{以降|いこう}は{何|なに}も{食|た}べないでください。{水|みず}は{飲|の}んでもかまいません。\n{総務部|そうむぶ}　{山下|やました}",
+   "en": "(Company email) To all staff. This year's health check will be held from Monday 10 to Friday 14 November in the third-floor meeting room at head office. Choose one day and tell Yamashita in General Affairs by 31 October. Also, on the day before your check, please do not eat anything after 9 p.m. You may drink water. Yamashita, General Affairs",
+   "questions": [
+    {
+     "q": "{社員|しゃいん}がしなければならないことは{何|なん}ですか。",
+     "options": [
+      "10{月|がつ}31{日|にち}までに{会議室|かいぎしつ}を{予約|よやく}する。",
+      "{診断|しんだん}の{日|ひ}の{朝|あさ}は、{水|みず}を{飲|の}まないようにする。",
+      "{診断|しんだん}を{受|う}ける{日|ひ}を{決|き}めて、{山下|やました}さんに{知|し}らせる。",
+      "{診断|しんだん}の{前|まえ}の{日|ひ}は、{夕食|ゆうしょく}を{食|た}べないようにする。"
+     ],
+     "answer": 2,
+     "why": "The email asks staff to choose a day and tell Yamashita; dinner before 9 p.m. and water are allowed."
+    }
+   ]
+  },
+  {
+   "type": "short",
+   "text": "{最近|さいきん}、{紙|かみ}の{本|ほん}ではなく、スマホで{本|ほん}を{読|よ}む{人|ひと}が{増|ふ}えている。{私|わたし}も{以前|いぜん}はスマホで{読|よ}んでいたが、{今|いま}はまた{紙|かみ}の{本|ほん}に{戻|もど}った。スマホは{軽|かる}くて{便利|べんり}だが、{読|よ}んでいる{途中|とちゅう}でメッセージが{来|く}ると、つい{見|み}てしまう。そうすると、{何|なに}を{読|よ}んでいたのか{忘|わす}れてしまうのだ。{紙|かみ}の{本|ほん}なら、そういうことがないので、{内容|ないよう}に{集中|しゅうちゅう}できる。",
+   "en": "These days more people read books on their phones instead of paper. I used to read on my phone too, but now I have gone back to paper books. Phones are light and handy, but when a message arrives while I am reading, I end up looking at it. Then I forget what I was reading. With a paper book that does not happen, so I can concentrate on the content.",
+   "questions": [
+    {
+     "q": "{筆者|ひっしゃ}が{紙|かみ}の{本|ほん}に{戻|もど}ったのはなぜですか。",
+     "options": [
+      "{読|よ}んでいるときに、ほかのことに{気|き}をとられないから",
+      "スマホで{読|よ}むと、{目|め}が{疲|つか}れるから",
+      "{紙|かみ}の{本|ほん}のほうが、{軽|かる}くて{便利|べんり}だから",
+      "スマホで{読|よ}める{本|ほん}が、{少|すく}ないから"
+     ],
+     "answer": 0,
+     "why": "With paper books, messages do not interrupt, so the writer can concentrate."
+    }
+   ]
+  },
+  {
+   "type": "short",
+   "text": "（ホテルの{部屋|へや}にあったお{知|し}らせ）\n{朝食|ちょうしょく}のご{案内|あんない}\n{朝食|ちょうしょく}は{一階|いっかい}のレストランで、{午前|ごぜん}6{時半|じはん}から9{時|じ}までご{用意|ようい}しております。{土曜日|どようび}と{日曜日|にちようび}は{大変|たいへん}{混|こ}み{合|あ}いますので、8{時|じ}{前|まえ}のご{利用|りよう}をおすすめします。\nお{部屋|へや}でお{召|め}し{上|あ}がりになりたい{方|かた}は、{前|まえ}の{日|ひ}の{夜|よる}10{時|じ}までにフロントにお{申|もう}し{込|こ}みください（お{一人|ひとり}500{円|えん}{追加|ついか}）。",
+   "en": "(Notice in a hotel room) Breakfast information. Breakfast is served in the first-floor restaurant from 6:30 to 9:00 a.m. Saturdays and Sundays are very busy, so we recommend coming before 8:00. If you would like breakfast in your room, please ask at the front desk by 10 p.m. the night before (500 yen extra per person).",
+   "questions": [
+    {
+     "q": "{日曜日|にちようび}の{朝|あさ}、{部屋|へや}で{朝食|ちょうしょく}を{食|た}べたい{人|ひと}は、どうしなければなりませんか。",
+     "options": [
+      "{日曜日|にちようび}の{朝|あさ}8{時|じ}{前|まえ}に、フロントに{言|い}う。",
+      "{日曜日|にちようび}の{朝|あさ}、レストランで500{円|えん}{払|はら}う。",
+      "{土曜日|どようび}の{朝|あさ}9{時|じ}までに、レストランに{言|い}う。",
+      "{土曜日|どようび}の{夜|よる}10{時|じ}までに、フロントに{申|もう}し{込|こ}む。"
+     ],
+     "answer": 3,
+     "why": "Room breakfast must be ordered at the front desk by 10 p.m. the night before, which is Saturday night."
+    }
+   ]
+  },
+  {
+   "type": "short",
+   "text": "（{会社|かいしゃ}で、{林|はやし}さんの{机|つくえ}の{上|うえ}にあったメモ）\n{林|はやし}さん\n{午後|ごご}、{新|あたら}しいプリンターが{届|とど}きました。{古|ふる}いプリンターは{明日|あした}の{夕方|ゆうがた}、お{店|みせ}の{人|ひと}が{取|と}りに{来|き}ます。\n{新|あたら}しいほうを{使|つか}うには、パソコンの{設定|せってい}が{必要|ひつよう}です。{設定|せってい}の{方法|ほうほう}は{明日|あした}の{朝|あさ}の{会議|かいぎ}で{説明|せつめい}しますので、それまでは{古|ふる}いほうを{使|つか}ってください。\n{木村|きむら}",
+   "en": "(A note on Hayashi's desk at work) Hayashi, the new printer arrived this afternoon. Someone from the shop will collect the old printer tomorrow evening. To use the new one, your computer needs to be set up. I will explain how at tomorrow morning's meeting, so until then please use the old one. Kimura",
+   "questions": [
+    {
+     "q": "このメモで、{木村|きむら}さんが{一番|いちばん}{伝|つた}えたいことは{何|なん}ですか。",
+     "options": [
+      "{新|あたら}しいプリンターが{届|とど}いたので、すぐに{設定|せってい}してほしい。",
+      "{設定|せってい}の{方法|ほうほう}を{説明|せつめい}するまでは、{古|ふる}いプリンターを{使|つか}ってほしい。",
+      "{明日|あした}の{夕方|ゆうがた}、お{店|みせ}の{人|ひと}に{古|ふる}いプリンターを{渡|わた}してほしい。",
+      "{明日|あした}の{会議|かいぎ}で、プリンターの{使|つか}い{方|かた}を{説明|せつめい}してほしい。"
+     ],
+     "answer": 1,
+     "why": "Kimura will explain the setup tomorrow and asks Hayashi to use the old printer until then."
+    }
+   ]
+  },
+  {
+   "type": "mid",
+   "text": "{私|わたし}は{以前|いぜん}、{夜|よる}なかなか{眠|ねむ}れなくて{困|こま}っていた。ベッドに{入|はい}っても、{一時間|いちじかん}{以上|いじょう}{眠|ねむ}れない{日|ひ}もあった。{医者|いしゃ}に{相談|そうだん}すると、「{寝|ね}る{前|まえ}に{何|なに}をしていますか」と{聞|き}かれた。{私|わたし}は{毎晩|まいばん}、ベッドの{中|なか}でスマホを{見|み}ていた。ニュースを{読|よ}んだり、{友達|ともだち}のメッセージに{返事|へんじ}をしたりしていたのだ。\n{医者|いしゃ}によると、スマホの{画面|がめん}の{強|つよ}い{光|ひかり}は、{脳|のう}に「まだ{昼|ひる}だ」と{思|おも}わせてしまうそうだ。それで、①{体|からだ}が{寝|ね}る{準備|じゅんび}をしなくなるのだという。\nそこで{私|わたし}は、{寝|ね}る{一時間|いちじかん}{前|まえ}になったら、スマホを{寝室|しんしつ}ではなく{居間|いま}に{置|お}いておくことにした。{最初|さいしょ}の{数日|すうじつ}は、メッセージが{気|き}になって{落|お}ち{着|つ}かなかった。しかし、{代|か}わりにゆっくりお{風呂|ふろ}に{入|はい}ったり、{静|しず}かな{音楽|おんがく}を{聞|き}いたりするようにしたら、だんだん{早|はや}く{眠|ねむ}れるようになった。{今|いま}では{朝|あさ}もすっきり{起|お}きられる。\nスマホは{便利|べんり}だが、いつ{使|つか}っていつ{使|つか}わないか、{自分|じぶん}で{決|き}めることが{大切|たいせつ}だと{思|おも}う。",
+   "en": "I used to have trouble getting to sleep at night. Some nights I could not sleep for over an hour after getting into bed. When I asked a doctor, I was asked what I did before bed. Every night I looked at my phone in bed, reading news and replying to friends' messages. The doctor said the strong light of the screen makes the brain think it is still daytime, so (1) the body stops getting ready for sleep. So, one hour before bed, I started leaving my phone in the living room instead of the bedroom. For the first few days I was restless, worrying about messages. But when I took slow baths or listened to quiet music instead, I gradually began to fall asleep sooner. Now I wake up feeling fresh, too. Phones are convenient, but I think it is important to decide for yourself when to use them and when not to.",
+   "questions": [
+    {
+     "q": "①{体|からだ}が{寝|ね}る{準備|じゅんび}をしなくなるとあるが、なぜか。",
+     "options": [
+      "{寝|ね}る{前|まえ}にニュースを{読|よ}むと、{心配|しんぱい}になるから",
+      "スマホの{光|ひかり}のせいで、{脳|のう}がまだ{昼|ひる}だと{思|おも}ってしまうから",
+      "メッセージに{返事|へんじ}をするのに、{時間|じかん}がかかるから",
+      "ベッドに{入|はい}る{時間|じかん}が、{毎晩|まいばん}{遅|おそ}くなるから"
+     ],
+     "answer": 1,
+     "why": "The doctor says the screen's strong light makes the brain think it is still daytime."
+    },
+    {
+     "q": "{筆者|ひっしゃ}は{医者|いしゃ}に{相談|そうだん}したあと、どうしたか。",
+     "options": [
+      "{寝|ね}る{前|まえ}に、スマホで{静|しず}かな{音楽|おんがく}を{聞|き}くようにした。",
+      "{眠|ねむ}れるようになるまで、{薬|くすり}を{飲|の}むことにした。",
+      "{寝|ね}る{一時間|いちじかん}{前|まえ}に、スマホの{画面|がめん}を{暗|くら}くするようにした。",
+      "{寝|ね}る{一時間|いちじかん}{前|まえ}からは、スマホを{寝室|しんしつ}に{持|も}って{行|い}かないようにした。"
+     ],
+     "answer": 3,
+     "why": "The writer leaves the phone in the living room, not the bedroom, from one hour before bed."
+    },
+    {
+     "q": "この{文章|ぶんしょう}で{筆者|ひっしゃ}が{一番|いちばん}{言|い}いたいことは{何|なに}か。",
+     "options": [
+      "スマホをいつ{使|つか}うかは、{自分|じぶん}で{決|き}めたほうがいい。",
+      "{夜|よる}{眠|ねむ}れないときは、すぐに{医者|いしゃ}に{行|い}くべきだ。",
+      "スマホは{体|からだ}に{悪|わる}いので、{使|つか}わないほうがいい。",
+      "{寝|ね}る{前|まえ}には、お{風呂|ふろ}に{入|はい}るのが{一番|いちばん}いい。"
+     ],
+     "answer": 0,
+     "why": "The last sentence says it is important to decide for yourself when to use your phone."
+    }
+   ]
+  },
+  {
+   "type": "mid",
+   "text": "{先月|せんげつ}、{初|はじ}めてタイへ{旅行|りょこう}に{行|い}った。タイ{語|ご}はまったくわからないので、スマホの{翻訳|ほんやく}アプリを{使|つか}うことにした。アプリに{日本語|にほんご}で{話|はな}すと、すぐにタイ{語|ご}にして{読|よ}み{上|あ}げてくれる。レストランで{注文|ちゅうもん}するときや、{駅|えき}で{道|みち}を{聞|き}くときに、とても{役|やく}に{立|た}った。\nところが、ある{日|ひ}、{山|やま}の{中|なか}の{小|ちい}さな{村|むら}へ{行|い}ったとき、{電波|でんぱ}が{届|とど}かず、アプリが{使|つか}えなくなってしまった。バスの{時間|じかん}を{聞|き}きたかったが、{言葉|ことば}が{通|つう}じない。{困|こま}っていると、{近|ちか}くにいたおばあさんが、{紙|かみ}に{時計|とけい}の{絵|え}をかいて、バスが{来|く}る{時間|じかん}を{教|おし}えてくれた。{私|わたし}はうれしくて、{覚|おぼ}えたばかりの「ありがとう」をタイ{語|ご}で{言|い}った。おばあさんはにっこり{笑|わら}ってくれた。\nアプリは{確|たし}かに{便利|べんり}だ。でも、②あのときのことを{思|おも}い{出|だ}すと、{言葉|ことば}が{通|つう}じなくても、{伝|つた}えようという{気持|き}ちがあれば{何|なん}とかなるのだと{思|おも}う。{次|つぎ}の{旅行|りょこう}までには、{簡単|かんたん}なあいさつぐらいは{自分|じぶん}の{口|くち}で{言|い}えるようにしておきたい。",
+   "en": "Last month I went to Thailand for the first time. I do not know any Thai, so I decided to use a translation app on my phone. When I spoke Japanese to it, it read it out in Thai right away. It was very useful when ordering in restaurants and asking the way at stations. But one day, when I went to a small village in the mountains, there was no signal and the app stopped working. I wanted to ask about the bus times, but we could not understand each other. While I was stuck, an old woman nearby drew a clock on paper and showed me when the bus would come. I was happy and said 'thank you' in Thai, which I had just learned. She smiled. Apps really are convenient. But when I remember (2) that time, I think that even if you cannot understand each other's language, things work out if you want to communicate. By my next trip, I want to be able to say simple greetings myself.",
+   "questions": [
+    {
+     "q": "アプリが{使|つか}えなくなったのはなぜか。",
+     "options": [
+      "スマホの{電池|でんち}がなくなったから",
+      "アプリがその{村|むら}の{言葉|ことば}を{翻訳|ほんやく}できなかったから",
+      "その{場所|ばしょ}では{電波|でんぱ}が{届|とど}かなかったから",
+      "スマホをバスの{中|なか}に{忘|わす}れてきたから"
+     ],
+     "answer": 2,
+     "why": "The text says there was no signal in the village."
+    },
+    {
+     "q": "②あのときとは、どんなときか。",
+     "options": [
+      "おばあさんが{絵|え}をかいて、バスの{時間|じかん}を{教|おし}えてくれたとき",
+      "レストランでアプリを{使|つか}って{注文|ちゅうもん}したとき",
+      "{駅|えき}で{道|みち}がわからなくて{困|こま}ったとき",
+      "{日本|にほん}で{初|はじ}めてタイ{語|ご}を{勉強|べんきょう}したとき"
+     ],
+     "answer": 0,
+     "why": "That time refers to the old woman drawing a clock to show the bus time."
+    },
+    {
+     "q": "{筆者|ひっしゃ}は{次|つぎ}の{旅行|りょこう}までに{何|なに}をしたいと{思|おも}っているか。",
+     "options": [
+      "もっと{性能|せいのう}のいい{翻訳|ほんやく}アプリを{探|さが}す。",
+      "{電波|でんぱ}が{弱|よわ}い{場所|ばしょ}には{行|い}かないようにする。",
+      "{絵|え}で{説明|せつめい}する{練習|れんしゅう}をしておく。",
+      "{簡単|かんたん}なあいさつを{自分|じぶん}で{言|い}えるようにする。"
+     ],
+     "answer": 3,
+     "why": "The last sentence says the writer wants to be able to say simple greetings."
+    }
+   ]
+  },
+  {
+   "type": "long",
+   "text": "{数年前|すうねんまえ}から、{私|わたし}の{会社|かいしゃ}では{家|いえ}で{仕事|しごと}をすることが{認|みと}められるようになった。{今|いま}は{週|しゅう}に{三日|みっか}、{自宅|じたく}で{働|はたら}いている。\n{始|はじ}めたころは、いいことばかりだと{思|おも}っていた。まず、{通勤|つうきん}の{時間|じかん}がなくなった。{以前|いぜん}は{満員|まんいん}{電車|でんしゃ}に{片道|かたみち}{一時間|いちじかん}{以上|いじょう}{乗|の}っていたので、{会社|かいしゃ}に{着|つ}く{前|まえ}からもう{疲|つか}れていた。その{時間|じかん}を{使|つか}って、{朝|あさ}{料理|りょうり}をしたり、{近所|きんじょ}を{散歩|さんぽ}したりできるようになった。\nしかし、{半年|はんとし}ほどたつと、①{困|こま}ったことに{気|き}がついた。{体重|たいじゅう}が{三|さん}キロも{増|ふ}えていたのだ。{考|かんが}えてみると、{家|いえ}にいる{日|ひ}は、{一日|いちにち}に{千歩|せんぽ}も{歩|ある}いていなかった。{駅|えき}まで{歩|ある}いたり、{会社|かいしゃ}の{階段|かいだん}を{上|のぼ}ったりすることが、{知|し}らないうちに{運動|うんどう}になっていたのだ。それに、{冷蔵庫|れいぞうこ}がすぐそばにあるので、つい{何|なに}か{食|た}べてしまう。\nもう{一|ひと}つの{問題|もんだい}は、{仕事|しごと}と{生活|せいかつ}の{区別|くべつ}がなくなったことだ。パソコンがいつも{目|め}の{前|まえ}にあるので、{夜|よる}になってもメールを{確認|かくにん}してしまう。{気|き}がつくと、{会社|かいしゃ}にいたころより{長|なが}く{働|はたら}いている{日|ひ}もあった。\nそこで、{自分|じぶん}でルールを{作|つく}ることにした。{朝|あさ}は{会社|かいしゃ}に{行|い}く{日|ひ}と{同|おな}じ{時間|じかん}に{起|お}きて、{仕事|しごと}を{始|はじ}める{前|まえ}に{三十分|さんじゅっぷん}{歩|ある}く。そして、{夕方|ゆうがた}6{時|じ}になったらパソコンを{閉|と}じて、{次|つぎ}の{朝|あさ}まで{開|あ}けない。②{簡単|かんたん}なルールだが、{守|まも}るのは{思|おも}ったより{難|むずか}しかった。それでも{続|つづ}けているうちに、{体重|たいじゅう}も{元|もと}に{戻|もど}り、{夜|よる}もゆっくり{休|やす}めるようになった。\n{家|いえ}で{働|はたら}くことは、{自由|じゆう}な{働|はたら}き{方|かた}だと{言|い}われる。しかし、{自由|じゆう}だからこそ、{自分|じぶん}で{自分|じぶん}を{管理|かんり}する{力|ちから}が{必要|ひつよう}なのだと{思|おも}う。",
+   "en": "A few years ago my company began allowing people to work from home. Now I work at home three days a week. At first I thought it was all good. First, there was no more commuting. Before, I rode a packed train for over an hour each way, so I was tired before I even got to work. With that time, I could cook in the morning or walk around the neighbourhood. But after about six months, I noticed (1) a problem. I had put on three kilos. When I thought about it, on home days I was not even walking a thousand steps. Walking to the station and climbing the stairs at work had been exercise without my realising it. Also, the fridge is right next to me, so I end up snacking. Another problem was that there was no line between work and life. My computer was always in front of me, so I checked email even at night. Some days I found I was working longer than when I was at the office. So I decided to make my own rules. I get up at the same time as on office days and walk for thirty minutes before starting work. And at 6 p.m. I close the computer and do not open it until the next morning. (2) The rules are simple, but keeping them was harder than I thought. Still, as I kept going, my weight went back to normal and I could rest properly at night. Working from home is called a free way of working. But I think it is exactly because it is free that you need the ability to manage yourself.",
+   "questions": [
+    {
+     "q": "{筆者|ひっしゃ}が{家|いえ}で{働|はたら}き{始|はじ}めたころ、よかったと{思|おも}ったことは{何|なん}か。",
+     "options": [
+      "{満員|まんいん}{電車|でんしゃ}に{乗|の}っても、{疲|つか}れなくなったこと",
+      "{会社|かいしゃ}にいるときより、{仕事|しごと}が{早|はや}く{終|お}わるようになったこと",
+      "{一日|いちにち}に{歩|ある}く{歩数|ほすう}が{増|ふ}えたこと",
+      "{通勤|つうきん}がなくなって、{朝|あさ}の{時間|じかん}を{自由|じゆう}に{使|つか}えるようになったこと"
+     ],
+     "answer": 3,
+     "why": "Without commuting, the writer could use the morning to cook or take a walk."
+    },
+    {
+     "q": "①{困|こま}ったこととは{何|なに}か。",
+     "options": [
+      "{会社|かいしゃ}の{階段|かいだん}を{上|のぼ}るのがつらくなったこと",
+      "{体|からだ}を{動|うご}かすことが{減|へ}って、{体重|たいじゅう}が{増|ふ}えたこと",
+      "{冷蔵庫|れいぞうこ}の{中|なか}の{食|た}べ{物|もの}が、すぐになくなること",
+      "{朝|あさ}、{料理|りょうり}をする{時間|じかん}がなくなったこと"
+     ],
+     "answer": 1,
+     "why": "The writer gained three kilos because they walked much less at home."
+    },
+    {
+     "q": "②{簡単|かんたん}なルールとあるが、どんなルールか。",
+     "options": [
+      "{週|しゅう}に{三日|みっか}は、{会社|かいしゃ}に{行|い}って{働|はたら}く。",
+      "{夜|よる}は、{冷蔵庫|れいぞうこ}を{開|あ}けないようにする。",
+      "{仕事|しごと}の{前|まえ}に{歩|ある}き、{夕方|ゆうがた}6{時|じ}からはパソコンを{使|つか}わない。",
+      "{毎朝|まいあさ}6{時|じ}に{起|お}きて、{三十分|さんじゅっぷん}{散歩|さんぽ}する。"
+     ],
+     "answer": 2,
+     "why": "The rules are walking before work and closing the computer at 6 p.m. until morning."
+    },
+    {
+     "q": "この{文章|ぶんしょう}で{筆者|ひっしゃ}が{一番|いちばん}{言|い}いたいことは{何|なに}か。",
+     "options": [
+      "{家|いえ}で{働|はたら}くには、{自分|じぶん}をきちんと{管理|かんり}することが{大切|たいせつ}だ。",
+      "{家|いえ}で{働|はたら}くより、{会社|かいしゃ}で{働|はたら}くほうが{健康|けんこう}にいい。",
+      "{会社|かいしゃ}は、{社員|しゃいん}が{家|いえ}で{働|はたら}くことを{認|みと}めるべきだ。",
+      "{家|いえ}で{働|はたら}くと、{必|かなら}ず{会社|かいしゃ}にいるときより{長|なが}く{働|はたら}いてしまう。"
+     ],
+     "answer": 0,
+     "why": "The last paragraph says working from home needs the ability to manage yourself."
+    }
+   ]
+  },
+  {
+   "type": "info",
+   "text": "みどり{市|し}スポーツセンター　{秋|あき}の{教室|きょうしつ}のご{案内|あんない}\n\n①ヨガ（{初|はじ}めての{方|かた}）　{月曜日|げつようび}　10:00～11:00　{全|ぜん}8{回|かい}　4,000{円|えん}\n②ヨガ（{経験|けいけん}のある{方|かた}）　{水曜日|すいようび}　19:00～20:00　{全|ぜん}8{回|かい}　4,000{円|えん}\n③{水泳|すいえい}（{大人|おとな}）　{火曜日|かようび}　19:30～20:30　{全|ぜん}10{回|かい}　6,000{円|えん}\n④ウォーキング　{土曜日|どようび}　8:00～9:00　{全|ぜん}6{回|かい}　1,800{円|えん}\n⑤ダンス（{親子|おやこ}）　{日曜日|にちようび}　10:00～11:00　{全|ぜん}6{回|かい}　{親子|おやこ}1{組|くみ}3,000{円|えん}\n\n・お{申|もう}し{込|こ}みは10{月|がつ}25{日|にち}まで。センターの{受付|うけつけ}か、ホームページからどうぞ。\n・⑤は、{小学生|しょうがくせい}のお{子|こ}さんとその{親|おや}が{一緒|いっしょ}に{参加|さんか}する{教室|きょうしつ}です。\n・{市外|しがい}に{住|す}んでいて、{市外|しがい}で{働|はたら}いている{方|かた}も{参加|さんか}できますが、{料金|りょうきん}は{表|ひょう}の{料金|りょうきん}より1,000{円|えん}{高|たか}くなります。\n・{初|はじ}めての{方|かた}は、どの{教室|きょうしつ}も1{回目|かいめ}を{無料|むりょう}で{見学|けんがく}できます。",
+   "en": "Midori City Sports Centre: autumn classes. (1) Yoga (beginners), Mon 10:00-11:00, 8 sessions, 4,000 yen. (2) Yoga (experienced), Wed 19:00-20:00, 8 sessions, 4,000 yen. (3) Swimming (adults), Tue 19:30-20:30, 10 sessions, 6,000 yen. (4) Walking, Sat 8:00-9:00, 6 sessions, 1,800 yen. (5) Dance (parent and child), Sun 10:00-11:00, 6 sessions, 3,000 yen per pair. Apply by 25 October at the reception desk or on the website. Class 5 is for a primary school child and their parent together. People who live and work outside the city can also join, but the fee is 1,000 yen more than in the table. First-timers can watch the first session of any class for free.",
+   "questions": [
+    {
+     "q": "ワンさんはみどり{市|し}の{会社|かいしゃ}で{働|はたら}いています。{平日|へいじつ}は{毎日|まいにち}{夜|よる}8{時|じ}まで{仕事|しごと}があります。{子|こ}どもはいません。ワンさんが{参加|さんか}できる{教室|きょうしつ}はどれですか。",
+     "options": [
+      "①",
+      "③",
+      "④",
+      "⑤"
+     ],
+     "answer": 2,
+     "why": "Weekday classes start before 8 p.m. or in the daytime, and class 5 needs a child, so only the Saturday walking class works."
+    },
+    {
+     "q": "{佐藤|さとう}さんは{隣|となり}の{市|し}に{住|す}んでいて、{会社|かいしゃ}も{隣|となり}の{市|し}にあります。③の{教室|きょうしつ}に{参加|さんか}したいです。{料金|りょうきん}はいくらですか。",
+     "options": [
+      "6,000{円|えん}",
+      "7,000{円|えん}",
+      "12,000{円|えん}",
+      "5,000{円|えん}"
+     ],
+     "answer": 1,
+     "why": "Sato lives and works outside the city, so the fee is 6,000 yen plus 1,000 yen."
+    }
+   ]
+  }
+ ],
+ "listening": [
+  {
+   "type": "task",
+   "setup": "{会社|かいしゃ}で{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はこのあとまず{何|なに}をしなければなりませんか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{山田|やまだ}さん、{新|あたら}しいパソコン、もう{届|とど}きましたか。"
+    },
+    {
+     "s": "M",
+     "jp": "はい、さっき{届|とど}きました。これから{古|ふる}いパソコンのデータを{移|うつ}そうと{思|おも}って。"
+    },
+    {
+     "s": "F",
+     "jp": "あ、その{前|まえ}に、システム{部|ぶ}にメールして、パスワードをもらってください。それがないと、{会社|かいしゃ}のシステムに{入|はい}れないんです。"
+    },
+    {
+     "s": "M",
+     "jp": "そうなんですか。じゃあ、ソフトのインストールも、そのあとですね。"
+    },
+    {
+     "s": "F",
+     "jp": "ええ。データを{移|うつ}すのは{最後|さいご}でいいですよ。"
+    },
+    {
+     "s": "M",
+     "jp": "わかりました。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}はこのあとまず{何|なに}をしなければなりませんか。",
+   "options": [
+    "データを{移|うつ}す",
+    "ソフトをインストールする",
+    "システム{部|ぶ}にメールする",
+    "パスワードを{変|か}える"
+   ],
+   "answer": 2,
+   "en": "At an office. F: Has your new computer arrived? M: Yes, just now. I was about to move the data from the old one. F: Before that, email the systems department and get a password. Without it you can't get into the company system. M: I see. So installing software comes after that too. F: Yes. Moving the data can be last. M: OK.",
+   "why": "He must first email the systems department to get a password."
+  },
+  {
+   "type": "task",
+   "setup": "{駅|えき}で{女|おんな}の{人|ひと}と{駅員|えきいん}が{話|はな}しています。{女|おんな}の{人|ひと}はこのあとどうしますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "すみません、{空港|くうこう}{行|ゆ}きの{電車|でんしゃ}は{何番線|なんばんせん}ですか。"
+    },
+    {
+     "s": "M",
+     "jp": "{空港|くうこう}{行|ゆ}きは3{番線|ばんせん}ですが、{今|いま}、{事故|じこ}で{止|と}まっているんです。{動|うご}くまで{一時間|いちじかん}ぐらいかかると{思|おも}います。"
+    },
+    {
+     "s": "F",
+     "jp": "え、{困|こま}ったな。{飛行機|ひこうき}が2{時|じ}なんです。"
+    },
+    {
+     "s": "M",
+     "jp": "それでしたら、{駅|えき}の{前|まえ}から{空港|くうこう}{行|ゆ}きのバスが{出|で}ていますよ。15{分|ふん}おきに{出|で}ています。"
+    },
+    {
+     "s": "F",
+     "jp": "タクシーとバスと、どちらが{早|はや}いですか。"
+    },
+    {
+     "s": "M",
+     "jp": "{今|いま}は{道|みち}が{混|こ}んでいるので、どちらも{同|おな}じぐらいだと{思|おも}います。バスのほうがずっと{安|やす}いですよ。"
+    },
+    {
+     "s": "F",
+     "jp": "じゃあ、そっちにします。ありがとうございました。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}はこのあとどうしますか。",
+   "options": [
+    "{駅|えき}の{前|まえ}からバスに{乗|の}る",
+    "タクシーで{空港|くうこう}へ{行|い}く",
+    "3{番線|ばんせん}で{電車|でんしゃ}を{待|ま}つ",
+    "{飛行機|ひこうき}の{時間|じかん}を{変|か}える"
+   ],
+   "answer": 0,
+   "en": "At a station. F: Which platform is the airport train? M: Platform 3, but it's stopped because of an accident. It'll take about an hour to start again. F: Oh no. My flight is at 2. M: Then there's an airport bus from in front of the station every 15 minutes. F: Which is faster, a taxi or the bus? M: The roads are busy, so about the same. The bus is much cheaper. F: Then I'll take that. Thank you.",
+   "why": "Both take about the same time and the bus is cheaper, so she takes the bus."
+  },
+  {
+   "type": "task",
+   "setup": "{病院|びょういん}の{受付|うけつけ}で{男|おとこ}の{人|ひと}と{受付|うけつけ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はこのあとまず{何|なに}をしますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "すみません、こちらは{初|はじ}めてなんですが。"
+    },
+    {
+     "s": "F",
+     "jp": "では、こちらの{紙|かみ}に、お{名前|なまえ}と{今日|きょう}の{症状|しょうじょう}を{書|か}いてください。{保険証|ほけんしょう}はお{持|も}ちですか。"
+    },
+    {
+     "s": "M",
+     "jp": "はい、これです。"
+    },
+    {
+     "s": "F",
+     "jp": "ありがとうございます。それから、{書|か}く{前|まえ}に、あちらで{熱|ねつ}を{測|はか}ってきていただけますか。{熱|ねつ}も{書|か}くところがありますので。"
+    },
+    {
+     "s": "M",
+     "jp": "わかりました。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}はこのあとまず{何|なに}をしますか。",
+   "options": [
+    "{保険証|ほけんしょう}を{出|だ}す",
+    "{紙|かみ}に{名前|なまえ}を{書|か}く",
+    "{診察室|しんさつしつ}に{入|はい}る",
+    "{熱|ねつ}を{測|はか}る"
+   ],
+   "answer": 3,
+   "en": "At a hospital reception. M: Excuse me, it's my first time here. F: Then please write your name and today's symptoms on this form. Do you have your health insurance card? M: Yes, here. F: Thank you. And before you write, could you take your temperature over there? There's a space for it on the form. M: OK.",
+   "why": "He has already handed over his card and must take his temperature before writing."
+  },
+  {
+   "type": "task",
+   "setup": "{大学|だいがく}で{男|おとこ}の{学生|がくせい}と{女|おんな}の{学生|がくせい}が{話|はな}しています。{女|おんな}の{学生|がくせい}は{旅行|りょこう}に{何|なに}を{持|も}っていきますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{来週|らいしゅう}の{山|やま}の{旅行|りょこう}、{何|なに}を{持|も}っていけばいいかな。"
+    },
+    {
+     "s": "F",
+     "jp": "{夜|よる}は{寒|さむ}いらしいから、{厚|あつ}いセーターは{必要|ひつよう}だよ。"
+    },
+    {
+     "s": "M",
+     "jp": "{雨|あめ}は？"
+    },
+    {
+     "s": "F",
+     "jp": "{天気|てんき}{予報|よほう}だと{晴|は}れだから、{傘|かさ}はいらないと{思|おも}う。でも、{山|やま}の{天気|てんき}は{変|か}わりやすいから、{私|わたし}は{一応|いちおう}レインコートを{持|も}っていくつもり。"
+    },
+    {
+     "s": "M",
+     "jp": "そっか。カメラは？"
+    },
+    {
+     "s": "F",
+     "jp": "スマホで{撮|と}れるから、{私|わたし}は{持|も}っていかないよ。"
+    }
+   ],
+   "question": "{女|おんな}の{学生|がくせい}は{旅行|りょこう}に{何|なに}を{持|も}っていきますか。",
+   "options": [
+    "セーターと{傘|かさ}",
+    "セーターとレインコート",
+    "レインコートとカメラ",
+    "セーターとカメラ"
+   ],
+   "answer": 1,
+   "en": "At university. M: What should I take on next week's mountain trip? F: It's cold at night, so you need a thick sweater. M: What about rain? F: The forecast says sunny, so no umbrella. But mountain weather changes easily, so I'm taking a raincoat just in case. M: I see. A camera? F: I can take photos with my phone, so I'm not taking one.",
+   "why": "She takes a sweater and a raincoat, but no umbrella or camera."
+  },
+  {
+   "type": "task",
+   "setup": "{電気屋|でんきや}で{女|おんな}の{人|ひと}と{店員|てんいん}が{話|はな}しています。{女|おんな}の{人|ひと}はどのスマホを{買|か}いますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{母|はは}にスマホをプレゼントしたいんですが、{使|つか}い{方|かた}が{簡単|かんたん}なのはありますか。"
+    },
+    {
+     "s": "M",
+     "jp": "こちらはいかがでしょう。{文字|もじ}が{大|おお}きくて、ボタンも{少|すく}ないので、お{年寄|としよ}りの{方|かた}に{人気|にんき}です。"
+    },
+    {
+     "s": "F",
+     "jp": "カメラはどうですか。{母|はは}は{時々|ときどき}{花|はな}の{写真|しゃしん}を{撮|と}るので。"
+    },
+    {
+     "s": "M",
+     "jp": "カメラでしたら、こちらの{黒|くろ}いほうがきれいに{撮|と}れます。ただ、{機能|きのう}が{多|おお}いので、{少|すこ}し{使|つか}いにくいかもしれません。"
+    },
+    {
+     "s": "F",
+     "jp": "うーん、{毎日|まいにち}{撮|と}るわけじゃないし、やっぱり{使|つか}いやすさが{一番|いちばん}ですね。{最初|さいしょ}のにします。{色|いろ}は{白|しろ}のほかにありますか。"
+    },
+    {
+     "s": "M",
+     "jp": "ピンクもございます。"
+    },
+    {
+     "s": "F",
+     "jp": "{母|はは}はピンクが{好|す}きなので、ピンクでお{願|ねが}いします。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}はどのスマホを{買|か}いますか。",
+   "options": [
+    "{文字|もじ}が{大|おお}きい{白|しろ}いスマホ",
+    "カメラがいい{黒|くろ}いスマホ",
+    "{文字|もじ}が{大|おお}きいピンクのスマホ",
+    "カメラがいいピンクのスマホ"
+   ],
+   "answer": 2,
+   "en": "At an electronics shop. F: I want to give my mother a smartphone. Is there one that's easy to use? M: How about this one? The text is large and there are few buttons, so it's popular with older people. F: How's the camera? My mother sometimes takes photos of flowers. M: For the camera, this black one takes nicer photos. But it has many functions, so it may be a little hard to use. F: Hmm, she doesn't take photos every day, so ease of use comes first. I'll take the first one. Is there a colour other than white? M: We also have pink. F: My mother likes pink, so pink, please.",
+   "why": "She chooses the easy one with large text, in pink."
+  },
+  {
+   "type": "task",
+   "setup": "{家|いえ}で{妻|つま}と{夫|おっと}が{話|はな}しています。{夫|おっと}はこのあと{何|なに}をしますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "ねえ、{健康|けんこう}{診断|しんだん}の{結果|けっか}、どうだった？"
+    },
+    {
+     "s": "M",
+     "jp": "{血圧|けつあつ}がちょっと{高|たか}いって。{塩|しお}を{減|へ}らしたほうがいいって{言|い}われたよ。"
+    },
+    {
+     "s": "F",
+     "jp": "じゃあ、{今日|きょう}から{料理|りょうり}の{味|あじ}を{薄|うす}くするね。"
+    },
+    {
+     "s": "M",
+     "jp": "ありがとう。それと、{運動|うんどう}もしたほうがいいって。"
+    },
+    {
+     "s": "F",
+     "jp": "じゃ、{今|いま}から{一緒|いっしょ}に{散歩|さんぽ}に{行|い}く？"
+    },
+    {
+     "s": "M",
+     "jp": "{今日|きょう}は{雨|あめ}だから、{散歩|さんぽ}は{明日|あした}にしようよ。{代|か}わりに、{今|いま}から{駅前|えきまえ}のスポーツクラブの{料金|りょうきん}をネットで{調|しら}べてみる。"
+    },
+    {
+     "s": "F",
+     "jp": "いいね。"
+    }
+   ],
+   "question": "{夫|おっと}はこのあと{何|なに}をしますか。",
+   "options": [
+    "{料理|りょうり}を{作|つく}る",
+    "スポーツクラブの{料金|りょうきん}を{調|しら}べる",
+    "{散歩|さんぽ}に{行|い}く",
+    "{病院|びょういん}に{行|い}く"
+   ],
+   "answer": 1,
+   "en": "At home. F: How were your health check results? M: My blood pressure is a bit high. They said I should cut down on salt. F: Then I'll make the food less salty from today. M: Thanks. They also said I should exercise. F: Shall we go for a walk together now? M: It's raining today, so let's walk tomorrow. Instead, I'll look up the prices of the sports club by the station online now. F: Good idea.",
+   "why": "The walk is moved to tomorrow; now he will look up the sports club prices."
+  },
+  {
+   "type": "point",
+   "setup": "{会社|かいしゃ}で{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はどうして{自転車|じてんしゃ}で{通勤|つうきん}を{始|はじ}めましたか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{田中|たなか}さん、{最近|さいきん}{自転車|じてんしゃ}で{来|き}ているんですね。やせるためですか。"
+    },
+    {
+     "s": "M",
+     "jp": "いや、よくそう{聞|き}かれるんですけど、{違|ちが}うんです。{電車|でんしゃ}だと{乗|の}り{換|か}えが{二回|にかい}あって、{時間|じかん}がかかるんですよ。{自転車|じてんしゃ}なら20{分|ぷん}で{着|つ}くんです。"
+    },
+    {
+     "s": "F",
+     "jp": "へえ、そんなに{近|ちか}いんですか。"
+    },
+    {
+     "s": "M",
+     "jp": "ええ。{交通費|こうつうひ}は{会社|かいしゃ}が{出|だ}してくれるので、お{金|かね}は{関係|かんけい}ないんですけどね。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}はどうして{自転車|じてんしゃ}で{通勤|つうきん}を{始|はじ}めましたか。",
+   "options": [
+    "やせたいから",
+    "{交通費|こうつうひ}を{節約|せつやく}したいから",
+    "{電車|でんしゃ}が{混|こ}んでいるから",
+    "{電車|でんしゃ}より{早|はや}く{着|つ}くから"
+   ],
+   "answer": 3,
+   "en": "At an office. F: You've been coming by bike lately. Is it to lose weight? M: People often ask that, but no. By train I have to change twice and it takes a long time. By bike I get here in 20 minutes. F: Wow, it's that close? M: Yes. The company pays my travel costs, so money has nothing to do with it.",
+   "why": "He says the bike is quicker than the train with two changes."
+  },
+  {
+   "type": "point",
+   "setup": "ラジオでアナウンサーと{旅行|りょこう}{会社|がいしゃ}の{人|ひと}が{話|はな}しています。{最近|さいきん}、{若|わか}い{人|ひと}に{人気|にんき}がある{旅行|りょこう}はどんな{旅行|りょこう}ですか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{最近|さいきん}、{若|わか}い{人|ひと}にはどんな{旅行|りょこう}が{人気|にんき}ですか。"
+    },
+    {
+     "s": "M",
+     "jp": "{以前|いぜん}は{海外|かいがい}の{有名|ゆうめい}な{観光地|かんこうち}が{人気|にんき}でしたが、{最近|さいきん}は{国内|こくない}の{小|ちい}さな{町|まち}で、{地元|じもと}の{人|ひと}と{一緒|いっしょ}に{畑|はたけ}の{仕事|しごと}や{料理|りょうり}を{体験|たいけん}する{旅行|りょこう}がよく{選|えら}ばれています。"
+    },
+    {
+     "s": "F",
+     "jp": "{値段|ねだん}が{安|やす}いからでしょうか。"
+    },
+    {
+     "s": "M",
+     "jp": "それもありますが、{有名|ゆうめい}な{場所|ばしょ}を{見|み}て{写真|しゃしん}を{撮|と}るだけでなく、{自分|じぶん}で{何|なに}かをしてみたいという{人|ひと}が{増|ふ}えているようです。"
+    }
+   ],
+   "question": "{最近|さいきん}、{若|わか}い{人|ひと}に{人気|にんき}がある{旅行|りょこう}はどんな{旅行|りょこう}ですか。",
+   "options": [
+    "{地元|じもと}の{人|ひと}と{一緒|いっしょ}にいろいろなことを{体験|たいけん}する{旅行|りょこう}",
+    "{海外|かいがい}の{有名|ゆうめい}な{場所|ばしょ}を{見|み}に{行|い}く{旅行|りょこう}",
+    "きれいな{写真|しゃしん}を{撮|と}るための{旅行|りょこう}",
+    "{値段|ねだん}が{一番|いちばん}{安|やす}い{旅行|りょこう}"
+   ],
+   "answer": 0,
+   "en": "On the radio. F: What kind of travel is popular with young people now? M: Famous sightseeing spots abroad used to be popular, but now people often choose trips to small towns in Japan where they try farm work or cooking with local people. F: Is it because it's cheap? M: That's part of it, but more people seem to want to do something themselves, not just see famous places and take photos.",
+   "why": "Trips where you try farm work and cooking with local people are popular now."
+  },
+  {
+   "type": "point",
+   "setup": "{学校|がっこう}で{先生|せんせい}と{女|おんな}の{学生|がくせい}が{話|はな}しています。{女|おんな}の{学生|がくせい}はどうして{昨日|きのう}{学校|がっこう}を{休|やす}みましたか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{鈴木|すずき}さん、{昨日|きのう}はどうしたんですか。{風邪|かぜ}ですか。"
+    },
+    {
+     "s": "F",
+     "jp": "いえ、{風邪|かぜ}じゃないんです。{朝|あさ}、{歯|は}が{急|きゅう}に{痛|いた}くなって、{歯医者|はいしゃ}に{行|い}ったんです。"
+    },
+    {
+     "s": "M",
+     "jp": "そうですか。{連絡|れんらく}がなかったので{心配|しんぱい}しましたよ。"
+    },
+    {
+     "s": "F",
+     "jp": "すみません。{電話|でんわ}しようと{思|おも}ったんですが、スマホの{電池|でんち}が{切|き}れていて。"
+    },
+    {
+     "s": "M",
+     "jp": "{次|つぎ}からは{気|き}をつけてくださいね。"
+    }
+   ],
+   "question": "{女|おんな}の{学生|がくせい}はどうして{昨日|きのう}{学校|がっこう}を{休|やす}みましたか。",
+   "options": [
+    "{風邪|かぜ}をひいたから",
+    "スマホが{壊|こわ}れたから",
+    "{歯|は}が{痛|いた}くなったから",
+    "{家族|かぞく}が{病気|びょうき}になったから"
+   ],
+   "answer": 2,
+   "en": "At school. M: Suzuki, what happened yesterday? A cold? F: No, not a cold. My tooth suddenly hurt in the morning, so I went to the dentist. M: I see. I was worried because you didn't contact us. F: Sorry. I meant to call, but my phone battery was dead. M: Please be careful next time.",
+   "why": "She had a sudden toothache and went to the dentist."
+  },
+  {
+   "type": "point",
+   "setup": "{家|いえ}で{母親|ははおや}と{息子|むすこ}が{話|はな}しています。{母親|ははおや}は{何|なに}が{一番|いちばん}{心配|しんぱい}ですか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "ケン、また{夜中|よなか}までゲームしてたでしょう。"
+    },
+    {
+     "s": "M",
+     "jp": "{大丈夫|だいじょうぶ}だよ。{宿題|しゅくだい}はちゃんと{終|お}わらせてるし。"
+    },
+    {
+     "s": "F",
+     "jp": "{宿題|しゅくだい}のことじゃないの。{最近|さいきん}、{朝|あさ}ごはんも{食|た}べないで{学校|がっこう}に{行|い}くでしょう。{寝|ね}る{時間|じかん}が{少|すく}ないから{起|お}きられないのよ。{体|からだ}を{壊|こわ}さないか{心配|しんぱい}なの。"
+    },
+    {
+     "s": "M",
+     "jp": "わかったよ。{今日|きょう}からは11{時|じ}までにやめる。"
+    }
+   ],
+   "question": "{母親|ははおや}は{何|なに}が{一番|いちばん}{心配|しんぱい}ですか。",
+   "options": [
+    "{息子|むすこ}が{宿題|しゅくだい}をしないこと",
+    "{息子|むすこ}の{健康|けんこう}のこと",
+    "ゲームにお{金|かね}を{使|つか}うこと",
+    "{息子|むすこ}が{学校|がっこう}に{遅|おく}れること"
+   ],
+   "answer": 1,
+   "en": "At home. F: Ken, you were playing games until the middle of the night again, weren't you? M: It's fine. I finish my homework properly. F: It's not about homework. Lately you go to school without even eating breakfast. You can't get up because you don't sleep enough. I'm worried you'll make yourself ill. M: OK. From today I'll stop by 11.",
+   "why": "She says she is worried he will damage his health."
+  },
+  {
+   "type": "point",
+   "setup": "{空港|くうこう}のカウンターで{係|かかり}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はどうしてスーツケースをすぐに{預|あず}けられませんでしたか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "お{客様|きゃくさま}、こちらのスーツケースですが、{重|おも}さも{大|おお}きさも{問題|もんだい}ありません。ただ、{中|なか}にモバイルバッテリーが{入|はい}っていませんか。"
+    },
+    {
+     "s": "M",
+     "jp": "あ、{入|はい}ってます。"
+    },
+    {
+     "s": "F",
+     "jp": "{申|もう}し{訳|わけ}ございませんが、バッテリーは{預|あず}ける{荷物|にもつ}には{入|い}れられないんです。{機内|きない}にお{持|も}ちいただけますか。"
+    },
+    {
+     "s": "M",
+     "jp": "そうなんですか。じゃあ、{出|だ}します。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}はどうしてスーツケースをすぐに{預|あず}けられませんでしたか。",
+   "options": [
+    "{中|なか}に{入|い}れてはいけないものがあったから",
+    "スーツケースが{重|おも}すぎたから",
+    "スーツケースが{大|おお}きすぎたから",
+    "{出発|しゅっぱつ}の{時間|じかん}に{遅|おく}れたから"
+   ],
+   "answer": 0,
+   "en": "At an airport counter. F: Sir, this suitcase is fine for weight and size. But is there a power bank inside? M: Oh, yes. F: I'm sorry, but batteries can't go in checked baggage. Could you take it on board with you? M: Really? Then I'll take it out.",
+   "why": "A power bank was inside, and it cannot go in checked baggage."
+  },
+  {
+   "type": "point",
+   "setup": "{会社|かいしゃ}で{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}は{毎朝|まいあさ}{何|なに}をしていますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{佐藤|さとう}さん、いつも{元気|げんき}ですね。{何|なに}か{運動|うんどう}してるんですか。"
+    },
+    {
+     "s": "F",
+     "jp": "ジムに{通|かよ}ったこともあるんですけど、{続|つづ}かなくて。"
+    },
+    {
+     "s": "M",
+     "jp": "じゃあ、ジョギングとか？"
+    },
+    {
+     "s": "F",
+     "jp": "{走|はし}るのは{苦手|にがて}なんです。{代|か}わりに{毎朝|まいあさ}、{一駅|ひとえき}{前|まえ}で{電車|でんしゃ}を{降|お}りて、{会社|かいしゃ}まで{歩|ある}いているんです。"
+    },
+    {
+     "s": "M",
+     "jp": "へえ、いいですね。{僕|ぼく}もやってみようかな。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}は{毎朝|まいあさ}{何|なに}をしていますか。",
+   "options": [
+    "ジムに{行|い}っている",
+    "ジョギングをしている",
+    "{早|はや}く{起|お}きてヨガをしている",
+    "{途中|とちゅう}から{会社|かいしゃ}まで{歩|ある}いている"
+   ],
+   "answer": 3,
+   "en": "At an office. M: Sato, you always look so well. Do you do any exercise? F: I went to a gym once, but I couldn't keep it up. M: Then jogging? F: I'm not good at running. Instead, every morning I get off the train one stop early and walk to the office. M: Nice. Maybe I'll try that too.",
+   "why": "She gets off one stop early and walks the rest of the way."
+  },
+  {
+   "type": "summary",
+   "setup": "テレビで{医者|いしゃ}が{話|はな}しています。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "みなさん、{水|みず}を{一日|いちにち}にどのくらい{飲|の}んでいますか。{夏|なつ}は{汗|あせ}をたくさんかくので、{水|みず}をよく{飲|の}むと{思|おも}います。しかし、{実|じつ}は{冬|ふゆ}も、{体|からだ}の{中|なか}の{水|みず}は{少|すく}なくなっています。{空気|くうき}が{乾燥|かんそう}しているからです。ところが、{冬|ふゆ}はのどがかわいたと{感|かん}じにくいので、{飲|の}む{量|りょう}が{減|へ}ってしまいます。{冬|ふゆ}でも、のどがかわく{前|まえ}に、{少|すこ}しずつ{水|みず}を{飲|の}むようにしましょう。"
+    }
+   ],
+   "question": "{医者|いしゃ}は{何|なに}について{話|はな}していますか。",
+   "options": [
+    "{夏|なつ}にたくさん{汗|あせ}をかく{理由|りゆう}",
+    "{冬|ふゆ}にも{水|みず}を{飲|の}むことの{大切|たいせつ}さ",
+    "{部屋|へや}の{空気|くうき}を{乾燥|かんそう}させない{方法|ほうほう}",
+    "のどの{病気|びょうき}の{治|なお}し{方|かた}"
+   ],
+   "answer": 1,
+   "en": "A doctor on TV: How much water do you drink a day? In summer you sweat a lot, so you probably drink plenty. But in winter, too, your body loses water because the air is dry. However, in winter you don't feel thirsty easily, so you drink less. Even in winter, drink a little water at a time before you get thirsty.",
+   "why": "The main point is that you should drink water in winter too."
+  },
+  {
+   "type": "summary",
+   "setup": "{会社|かいしゃ}の{会議|かいぎ}で{男|おとこ}の{人|ひと}が{話|はな}しています。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{来月|らいげつ}から、{会議|かいぎ}の{資料|しりょう}は{紙|かみ}で{配|くば}るのをやめて、タブレットで{見|み}ることになりました。{理由|りゆう}は{二|ふた}つあります。{一|ひと}つは、{紙|かみ}のお{金|かね}と{印刷|いんさつ}の{時間|じかん}を{減|へ}らすためです。もう{一|ひと}つは、{会議|かいぎ}の{直前|ちょくぜん}に{資料|しりょう}を{直|なお}しても、すぐにみなさんに{見|み}てもらえるからです。タブレットの{使|つか}い{方|かた}がわからない{方|かた}のために、{来週|らいしゅう}{説明会|せつめいかい}を{開|ひら}きます。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}が{一番|いちばん}{伝|つた}えたいことは{何|なん}ですか。",
+   "options": [
+    "タブレットの{使|つか}い{方|かた}",
+    "{紙|かみ}の{値段|ねだん}が{上|あ}がったこと",
+    "{説明会|せつめいかい}を{開|ひら}く{日|ひ}",
+    "{会議|かいぎ}の{資料|しりょう}の{新|あたら}しいやり{方|かた}とその{理由|りゆう}"
+   ],
+   "answer": 3,
+   "en": "A man at a company meeting: From next month, we will stop handing out paper documents at meetings and view them on tablets. There are two reasons. One is to cut the cost of paper and printing time. The other is that even if documents are changed just before a meeting, everyone can see the changes right away. For those who don't know how to use a tablet, we'll hold a briefing next week.",
+   "why": "He mainly explains the new way of sharing documents and why."
+  },
+  {
+   "type": "summary",
+   "setup": "ラジオで{女|おんな}の{人|ひと}が{話|はな}しています。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{旅行|りょこう}に{行|い}くとき、{私|わたし}はガイドブックを{持|も}っていかないことにしています。{以前|いぜん}は、ガイドブックに{載|の}っている{有名|ゆうめい}な{店|みせ}や{場所|ばしょ}を{全部|ぜんぶ}{回|まわ}ろうとして、いつも{急|いそ}いでいました。でも、それでは{本|ほん}で{見|み}たものを{確|たし}かめているだけだと{気|き}づいたんです。{今|いま}は、{着|つ}いてから{町|まち}を{歩|ある}いて、{気|き}になった{店|みせ}に{入|はい}ってみます。{失敗|しっぱい}することもありますが、そのほうがずっと{記憶|きおく}に{残|のこ}る{旅|たび}になります。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}が{一番|いちばん}{言|い}いたいことは{何|なん}ですか。",
+   "options": [
+    "{予定|よてい}を{決|き}めずに、{自由|じゆう}に{旅行|りょこう}するほうがいい。",
+    "ガイドブックは、{出発|しゅっぱつ}{前|まえ}によく{読|よ}んだほうがいい。",
+    "{有名|ゆうめい}な{店|みせ}に{行|い}けば、{失敗|しっぱい}が{少|すく}ない。",
+    "{旅行|りょこう}では、できるだけ{多|おお}くの{場所|ばしょ}を{回|まわ}ったほうがいい。"
+   ],
+   "answer": 0,
+   "en": "A woman on the radio: When I travel, I don't take a guidebook. Before, I tried to visit every famous shop and place in the guidebook, and I was always rushing. But I realised I was only checking things I had already seen in a book. Now, after I arrive, I walk around the town and go into shops that catch my interest. Sometimes it goes wrong, but the trip stays in my memory much longer.",
+   "why": "She says wandering freely without a fixed plan makes a more memorable trip."
+  },
+  {
+   "type": "utterance",
+   "setup": "{電車|でんしゃ}で、お{年寄|としよ}りが{立|た}っています。あなたは{座|すわ}っています。{何|なん}と{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "よかったら、どうぞ{座|すわ}ってください。",
+    "すみません、{座|すわ}ってもいいですか。",
+    "{席|せき}を{譲|ゆず}っていただけませんか。"
+   ],
+   "answer": 0,
+   "en": "On a train, an elderly person is standing and you are sitting. What do you say?",
+   "why": "You offer your seat, so you say 'please sit down if you like'."
+  },
+  {
+   "type": "utterance",
+   "setup": "{友達|ともだち}が{旅行|りょこう}のお{土産|みやげ}をくれました。{何|なん}と{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "どういたしまして。",
+    "つまらないものですが。",
+    "わざわざありがとう。"
+   ],
+   "answer": 2,
+   "en": "A friend gives you a souvenir from their trip. What do you say?",
+   "why": "You thank the friend for going to the trouble."
+  },
+  {
+   "type": "utterance",
+   "setup": "{会社|かいしゃ}で{具合|ぐあい}が{悪|わる}くなったので、{早|はや}く{帰|かえ}りたいです。{上司|じょうし}に{何|なん}と{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "{早|はや}く{帰|かえ}ったらどうですか。",
+    "{今日|きょう}は{早|はや}めに{帰|かえ}らせていただけませんか。",
+    "{早|はや}く{帰|かえ}らせてあげましょうか。"
+   ],
+   "answer": 1,
+   "en": "You feel unwell at work and want to go home early. What do you say to your boss?",
+   "why": "You politely ask permission to leave early with させていただけませんか."
+  },
+  {
+   "type": "utterance",
+   "setup": "ホテルのフロントで、Wi-Fiのパスワードを{知|し}りたいです。{何|なん}と{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "Wi-Fiのパスワードを{教|おし}えてあげます。",
+    "Wi-Fiのパスワードを{教|おし}えてもらいましたか。",
+    "Wi-Fiのパスワードを{教|おし}えていただけますか。"
+   ],
+   "answer": 2,
+   "en": "At a hotel front desk, you want to know the Wi-Fi password. What do you say?",
+   "why": "You politely ask the staff to tell you with ていただけますか."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{明日|あした}の{会議|かいぎ}、{何時|なんじ}からだったっけ。"
+    }
+   ],
+   "question": "",
+   "options": [
+    "{会議室|かいぎしつ}だよ。",
+    "10{時|じ}からだよ。",
+    "うん、{行|い}ったよ。"
+   ],
+   "answer": 1,
+   "en": "F: What time does tomorrow's meeting start again?",
+   "why": "She asks the time, so the answer is a time."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "すみません、この{席|せき}、{空|あ}いていますか。"
+    }
+   ],
+   "question": "",
+   "options": [
+    "ええ、どうぞ。",
+    "いいえ、どういたしまして。",
+    "はい、{空|あ}いてしまいました。"
+   ],
+   "answer": 0,
+   "en": "M: Excuse me, is this seat free?",
+   "why": "The natural reply is 'yes, go ahead'."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{最近|さいきん}、{全然|ぜんぜん}{運動|うんどう}してないんだ。"
+    }
+   ],
+   "question": "",
+   "options": [
+    "じゃあ、{運動|うんどう}しなくてよかったね。",
+    "へえ、{毎日|まいにち}がんばってるんだね。",
+    "じゃあ、{今度|こんど}{一緒|いっしょ}にテニスでもしない？"
+   ],
+   "answer": 2,
+   "en": "F: I haven't been doing any exercise lately.",
+   "why": "Inviting her to play tennis fits someone who doesn't exercise."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "この{書類|しょるい}、{今日中|きょうじゅう}に{出|だ}さなきゃいけないんですよね。"
+    }
+   ],
+   "question": "",
+   "options": [
+    "はい、{明日|あした}{出|だ}しました。",
+    "いいえ、{今日|きょう}{出|だ}してはいけません。",
+    "ええ、5{時|じ}までにお{願|ねが}いします。"
+   ],
+   "answer": 2,
+   "en": "M: I have to hand in this document today, right?",
+   "why": "Confirming and giving the deadline is the natural reply."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{旅行|りょこう}、どうだった？"
+    }
+   ],
+   "question": "",
+   "options": [
+    "{来週|らいしゅう}{行|い}くつもりだよ。",
+    "{天気|てんき}がよくて、{最高|さいこう}だったよ。",
+    "うん、{行|い}ってらっしゃい。"
+   ],
+   "answer": 1,
+   "en": "F: How was your trip?",
+   "why": "She asks about a finished trip, so you say how it was."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "パソコンの{調子|ちょうし}が{悪|わる}いんだけど、ちょっと{見|み}てもらえない？"
+    }
+   ],
+   "question": "",
+   "options": [
+    "いいよ。どうしたの？",
+    "うん、{見|み}せてあげるよ。",
+    "じゃあ、{見|み}てもらおうか。"
+   ],
+   "answer": 0,
+   "en": "M: My computer isn't working well. Could you take a look?",
+   "why": "He asks you to look at it, so you agree and ask what is wrong."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{風邪|かぜ}、もうよくなった？"
+    }
+   ],
+   "question": "",
+   "options": [
+    "うん、ひいたほうがいいよ。",
+    "おかげさまで、すっかり{治|なお}ったよ。",
+    "うん、{気|き}をつけてね。"
+   ],
+   "answer": 1,
+   "en": "F: Is your cold better now?",
+   "why": "You answer that you have fully recovered."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "ここから{駅|えき}まで{歩|ある}いて{行|い}くと、どのくらいかかりますか。"
+    }
+   ],
+   "question": "",
+   "options": [
+    "バスで{行|い}きます。",
+    "{駅|えき}の{前|まえ}です。",
+    "15{分|ふん}ぐらいですね。"
+   ],
+   "answer": 2,
+   "en": "M: How long does it take to walk from here to the station?",
+   "why": "He asks how long, so the answer is an amount of time."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "このアプリ、よかったら{使|つか}ってみて。すごく{便利|べんり}だから。"
+    }
+   ],
+   "question": "",
+   "options": [
+    "へえ、じゃあ{入|い}れてみるよ。",
+    "うん、{使|つか}ってくれてありがとう。",
+    "そう、{便利|べんり}じゃなかったんだ。"
+   ],
+   "answer": 0,
+   "en": "F: Try this app if you like. It's really handy.",
+   "why": "She recommends the app, so you say you will install it."
+  }
+ ]
+}

@@ -489,7 +489,7 @@
    "type": "form",
    "q": "{先生|せんせい}の{話|はなし}によると、{来年|らいねん}この{図書館|としょかん}は{新|あたら}しく＿＿そうです。",
    "options": [
-    "なり",
+    "なって",
     "なれ",
     "なる",
     "なろう"
@@ -697,7 +697,7 @@
      "why": "The writer worked late every night and had no time to read, though books were their great love."
     },
     {
-     "q": "{特|とく}に{難|むずか}しいのは、どうしてですか。",
+     "q": "{本|ほん}を{探|さが}す{手伝|てつだ}いが{特|とく}に{難|むずか}しいのは、どうしてですか。",
      "options": [
       "{子|こ}どもに{絵本|えほん}を{読|よ}むのが{苦手|にがて}だから",
       "{棚|たな}に{戻|もど}す{本|ほん}がとても{多|おお}いから",
@@ -1073,7 +1073,7 @@
     "{風邪|かぜ}をひいたから",
     "{子|こ}どもが{病気|びょうき}になったから",
     "{子|こ}どもの{学校|がっこう}に{行|い}ったから",
-    "{自分|じぶん}が{病院|びょういん}に{行|い}ったから"
+    "{自分|じぶん}が{熱|ねつ}を{出|だ}したから"
    ],
    "answer": 1,
    "en": "F: Yamamoto-san, you were off yesterday. Did you have a cold? M: No, I'm fine. Actually, my child had a fever and I took them to the hospital. F: Oh, I see. Is your child OK? M: Yes, they're better now and went to school today.",
