@@ -313,7 +313,7 @@
     "{明日|あした}は{大切|たいせつ}な{小包|こづつみ}があるので、{早|はや}く{寝|ね}ます。"
    ],
    "answer": 1,
-   "en": "小包 = parcel. Correct: A parcel with sweets arrived from my mother back home."
+   "en": "{小包|こづつみ} = parcel. Correct: A parcel with sweets arrived from my mother back home."
   },
   {
    "type": "usage",
@@ -325,7 +325,7 @@
     "{毎朝|まいあさ}、{急|きゅう}に{七時|しちじ}に{起|お}きています。"
    ],
    "answer": 0,
-   "en": "急に = suddenly. Correct: The sky suddenly got dark and it started to rain."
+   "en": "{急|きゅう}に = suddenly. Correct: The sky suddenly got dark and it started to rain."
   },
   {
    "type": "usage",
@@ -337,7 +337,7 @@
     "{昨日|きのう}は{留守|るす}で、{一日中|いちにちじゅう}{家|いえ}で{寝|ね}ていました。"
    ],
    "answer": 2,
-   "en": "留守 = being away from home. Correct: It seems a parcel came while I was out."
+   "en": "{留守|るす} = being away from home. Correct: It seems a parcel came while I was out."
   }
  ],
  "grammar": [
