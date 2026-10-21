@@ -180,7 +180,7 @@ private fun MeetStep(id: String, onNext: () -> Unit) {
             Gap()
             ItemCard(id)
         }
-        Button(onClick = onNext, modifier = Modifier.fillMaxWidth().padding(16.dp).navigationBarsPadding().heightIn(min = 54.dp)) {
+        Button(onClick = onNext, enabled = readyToTap(id), modifier = Modifier.fillMaxWidth().padding(16.dp).navigationBarsPadding().heightIn(min = 54.dp)) {
             Text("Got it", fontSize = 17.sp)
         }
     }
@@ -217,6 +217,7 @@ private fun AskStep(
     var explain by remember(key) { mutableStateOf<String?>(null) }
     var explaining by remember(key) { mutableStateOf(false) }
     val answered = chosen >= 0
+    val tapOk = readyToTap(key)
     val ex = LocalExtra.current
 
     // Right answers move on by themselves after a moment (long enough to hear the word);
@@ -289,7 +290,7 @@ private fun AskStep(
                         .clip(RoundedCornerShape(16.dp))
                         .background(bg)
                         .border(if (answered && (isRight || i == chosen)) 2.dp else 1.dp, border, RoundedCornerShape(16.dp))
-                        .clickable(enabled = !answered) {
+                        .clickable(enabled = !answered && tapOk) {
                             chosen = i
                             onAnswered(i == q.answer, q.way)
                             if (a.prefs.autoPlay.value && q.audio != null && !q.audioOnly) a.speech.say(q.audio)
@@ -363,8 +364,13 @@ private fun AskStep(
                 }
             }
         }
-        if (answered) {
-            Button(onClick = { if (!moved) { moved = true; onNext() } }, modifier = Modifier.fillMaxWidth().padding(16.dp).navigationBarsPadding().heightIn(min = 54.dp)) {
+        // Right answers move on by themselves, so there is no button to tap by mistake.
+        if (answered && chosen != q.answer) {
+            Button(
+                onClick = { if (!moved) { moved = true; onNext() } },
+                enabled = readyToTap(key),
+                modifier = Modifier.fillMaxWidth().padding(16.dp).navigationBarsPadding().heightIn(min = 54.dp),
+            ) {
                 Text("Next", fontSize = 17.sp)
             }
         }
@@ -448,4 +454,13 @@ private fun RoundDone(asked: Int, right: Int, met: Int, onMore: () -> Unit, onCl
         Gap(8.dp)
         OutlinedButton(onClick = onClose, modifier = Modifier.fillMaxWidth().heightIn(min = 52.dp)) { Text("Done for now") }
     }
+}
+
+
+/** False for the first half second of a new card, so a quick tap meant for the last one does nothing. */
+@Composable
+private fun readyToTap(key: Any): Boolean {
+    var ready by remember(key) { mutableStateOf(false) }
+    LaunchedEffect(key) { delay(500); ready = true }
+    return ready
 }
