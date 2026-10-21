@@ -1,0 +1,1493 @@
+{
+ "id": "m4-06",
+ "level": 4,
+ "title_en": "N4 practice test 6",
+ "vocab": [
+  {
+   "type": "kanji_reading",
+   "q_raw": "来月、姉の【結婚式】があります。",
+   "options": [
+    "けいこんしき",
+    "けっこんしき",
+    "けっこうしき",
+    "けこんしき"
+   ],
+   "answer": 1,
+   "en": "My older sister's wedding is next month."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "夏の【祭り】には、たくさんの人が来ます。",
+   "options": [
+    "まつり",
+    "まどり",
+    "あつり",
+    "まいり"
+   ],
+   "answer": 0,
+   "en": "Many people come to the summer festival."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "弟の【誕生日】に、ケーキを買いました。",
+   "options": [
+    "たんじょび",
+    "だんじょうび",
+    "たんじょうひ",
+    "たんじょうび"
+   ],
+   "answer": 3,
+   "en": "I bought a cake for my younger brother's birthday."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "旅行の【写真】を友だちに送りました。",
+   "options": [
+    "しゃじん",
+    "じゃしん",
+    "しゃしん",
+    "しゃっしん"
+   ],
+   "answer": 2,
+   "en": "I sent the trip photos to my friend."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "【秋】になると、山の木が赤くなります。",
+   "options": [
+    "なつ",
+    "はる",
+    "ふゆ",
+    "あき"
+   ],
+   "answer": 3,
+   "en": "When autumn comes, the trees on the mountain turn red."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "夜、母に【電話】をかけました。",
+   "options": [
+    "でんわ",
+    "てんわ",
+    "でんは",
+    "でんや"
+   ],
+   "answer": 0,
+   "en": "I phoned my mother at night."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "お正月には、家族がみんな【集まります】。",
+   "options": [
+    "あずまります",
+    "あつまります",
+    "あたまります",
+    "はじまります"
+   ],
+   "answer": 1,
+   "en": "At New Year, the whole family gets together."
+  },
+  {
+   "type": "orthography",
+   "q": "パスワードを【わすれて】しまいました。",
+   "options_raw": [
+    "忘れて",
+    "忙れて",
+    "忌れて",
+    "志れて"
+   ],
+   "answer": 0,
+   "en": "I forgot my password."
+  },
+  {
+   "type": "orthography",
+   "q": "{来週|らいしゅう}、{友|とも}だちと【はなみ】に{行|い}きます。",
+   "options_raw": [
+    "化見",
+    "花見",
+    "花目",
+    "華見"
+   ],
+   "answer": 1,
+   "en": "Next week I'm going cherry-blossom viewing with friends."
+  },
+  {
+   "type": "orthography",
+   "q": "{旅行|りょこう}の{写真|しゃしん}をメールで【おくりました】。",
+   "options_raw": [
+    "逆りました",
+    "途りました",
+    "送りました",
+    "近りました"
+   ],
+   "answer": 2,
+   "en": "I sent the trip photos by email."
+  },
+  {
+   "type": "orthography",
+   "q": "{兄|あに}は{今年|ことし}の{四月|しがつ}に{大学|だいがく}に【にゅうがく】しました。",
+   "options_raw": [
+    "人学",
+    "入字",
+    "人字",
+    "入学"
+   ],
+   "answer": 3,
+   "en": "My older brother entered university this April."
+  },
+  {
+   "type": "orthography",
+   "q": "{今年|ことし}の{夏|なつ}は、とても【あつい】です。",
+   "options_raw": [
+    "署い",
+    "者い",
+    "暑い",
+    "晴い"
+   ],
+   "answer": 2,
+   "en": "This summer is very hot."
+  },
+  {
+   "type": "context",
+   "q": "{友|とも}だちの{結婚式|けっこんしき}で、みんなの{前|まえ}で＿＿をしました。",
+   "options": [
+    "スピーチ",
+    "ニュース",
+    "ルール",
+    "パート"
+   ],
+   "answer": 0,
+   "en": "At my friend's wedding, I gave a speech in front of everyone."
+  },
+  {
+   "type": "context",
+   "q": "このアプリを{使|つか}うときは、まずIDとパスワードを{入|い}れて＿＿してください。",
+   "options": [
+    "プリント",
+    "ログイン",
+    "コピー",
+    "セット"
+   ],
+   "answer": 1,
+   "en": "When you use this app, first enter your ID and password and log in."
+  },
+  {
+   "type": "context",
+   "q": "{今年|ことし}の{夏祭|なつまつ}りは、{雨|あめ}で＿＿になりました。",
+   "options": [
+    "{注意|ちゅうい}",
+    "{中心|ちゅうしん}",
+    "{中止|ちゅうし}",
+    "{都合|つごう}"
+   ],
+   "answer": 2,
+   "en": "This year's summer festival was cancelled because of rain."
+  },
+  {
+   "type": "context",
+   "q": "{春|はる}になって、だんだん＿＿なってきました。",
+   "options": [
+    "すずしく",
+    "さむく",
+    "つめたく",
+    "あたたかく"
+   ],
+   "answer": 3,
+   "en": "Spring has come, and it's gradually getting warmer."
+  },
+  {
+   "type": "context",
+   "q": "{祖父|そふ}の{八十歳|はちじゅっさい}の＿＿に、{家族|かぞく}みんなで{食事|しょくじ}をしました。",
+   "options": [
+    "おみまい",
+    "おいわい",
+    "おれい",
+    "おみやげ"
+   ],
+   "answer": 1,
+   "en": "To celebrate my grandfather's 80th birthday, the whole family had a meal together."
+  },
+  {
+   "type": "context",
+   "q": "{友|とも}だちからのメールに、すぐ＿＿をしました。",
+   "options": [
+    "{返事|へんじ}",
+    "{用事|ようじ}",
+    "{返品|へんぴん}",
+    "{意見|いけん}"
+   ],
+   "answer": 0,
+   "en": "I replied to my friend's email right away."
+  },
+  {
+   "type": "context",
+   "q": "{冬|ふゆ}は{日|ひ}が＿＿なるので、{五時|ごじ}にはもう{暗|くら}いです。",
+   "options": [
+    "ほそく",
+    "せまく",
+    "ひくく",
+    "みじかく"
+   ],
+   "answer": 3,
+   "en": "In winter the days get short, so it's already dark at five."
+  },
+  {
+   "type": "context",
+   "q": "このサイトは、{名前|なまえ}とメールアドレスを＿＿だけで{使|つか}えます。",
+   "options": [
+    "{予約|よやく}する",
+    "{注文|ちゅうもん}する",
+    "{登録|とうろく}する",
+    "{出発|しゅっぱつ}する"
+   ],
+   "answer": 2,
+   "en": "You can use this site just by registering your name and email address."
+  },
+  {
+   "type": "paraphrase",
+   "q": "{姉|あね}は【おととし】{結婚|けっこん}しました。",
+   "options": [
+    "{姉|あね}は{一年前|いちねんまえ}に{結婚|けっこん}しました。",
+    "{姉|あね}は{今年|ことし}{結婚|けっこん}しました。",
+    "{姉|あね}は{二年前|にねんまえ}に{結婚|けっこん}しました。",
+    "{姉|あね}は{三年前|さんねんまえ}に{結婚|けっこん}しました。"
+   ],
+   "answer": 2,
+   "en": "My older sister got married the year before last."
+  },
+  {
+   "type": "paraphrase",
+   "q": "{父|ちち}のパソコンが【こしょうして】います。",
+   "options": [
+    "{父|ちち}のパソコンがこわれています。",
+    "{父|ちち}のパソコンがあたらしいです。",
+    "{父|ちち}のパソコンがきれいです。",
+    "{父|ちち}のパソコンがつかいやすいです。"
+   ],
+   "answer": 0,
+   "en": "My father's computer is broken."
+  },
+  {
+   "type": "paraphrase",
+   "q": "{祭|まつ}りの{日|ひ}は、{駅|えき}が【こんでいました】。",
+   "options": [
+    "{駅|えき}はしずかでした。",
+    "{駅|えき}には{人|ひと}が{少|すく}なかったです。",
+    "{駅|えき}はきれいでした。",
+    "{駅|えき}には{人|ひと}がたくさんいました。"
+   ],
+   "answer": 3,
+   "en": "On the day of the festival, the station was crowded."
+  },
+  {
+   "type": "paraphrase",
+   "q": "{今朝|けさ}は【ひえます】ね。",
+   "options": [
+    "{今朝|けさ}はあついですね。",
+    "{今朝|けさ}はさむいですね。",
+    "{今朝|けさ}はあたたかいですね。",
+    "{今朝|けさ}はむしあついですね。"
+   ],
+   "answer": 1,
+   "en": "It's chilly this morning, isn't it?"
+  },
+  {
+   "type": "usage",
+   "word": "おいわい",
+   "options": [
+    "かぜをひいた{友|とも}だちのおいわいに{行|い}きました。",
+    "{兄|あに}が{大学|だいがく}に{入|はい}ったので、{家族|かぞく}でおいわいをしました。",
+    "{電車|でんしゃ}がおいわいして、{学校|がっこう}に{遅|おく}れました。",
+    "{道|みち}がわからないので、おいわいしてください。"
+   ],
+   "answer": 1,
+   "en": "おいわい = a celebration. Correct: My brother got into university, so the family celebrated."
+  },
+  {
+   "type": "usage",
+   "word": "{届|とど}く",
+   "options": [
+    "{毎朝|まいあさ}{七時|しちじ}に{家|いえ}を{届|とど}きます。",
+    "{弟|おとうと}は{駅|えき}まで{歩|ある}いて{届|とど}きました。",
+    "{雨|あめ}が{届|とど}いて、{花見|はなみ}ができませんでした。",
+    "{昨日|きのう}{送|おく}ったメールは、もう{届|とど}きましたか。"
+   ],
+   "answer": 3,
+   "en": "届く = to arrive (a letter, email, package). Correct: Has the email I sent yesterday arrived yet?"
+  },
+  {
+   "type": "usage",
+   "word": "さかん",
+   "options": [
+    "この{町|まち}では、むかしから{夏祭|なつまつ}りがさかんです。",
+    "{私|わたし}の{部屋|へや}は、とてもさかんです。",
+    "{今日|きょう}はさかんな{天気|てんき}ですね。",
+    "{父|ちち}はテニスがさかんです。"
+   ],
+   "answer": 0,
+   "en": "さかん = popular, thriving. Correct: Summer festivals have been popular in this town for a long time."
+  },
+  {
+   "type": "usage",
+   "word": "{途中|とちゅう}",
+   "options": [
+    "この{店|みせ}のケーキは{途中|とちゅう}ですね。",
+    "{毎年|まいとし}、{途中|とちゅう}の{祭|まつ}りに{行|い}きます。",
+    "{駅|えき}へ{行|い}く{途中|とちゅう}で、{友|とも}だちに{会|あ}いました。",
+    "あしたは{途中|とちゅう}に{起|お}きてください。"
+   ],
+   "answer": 2,
+   "en": "途中 = on the way. Correct: I met a friend on the way to the station."
+  }
+ ],
+ "grammar": [
+  {
+   "type": "form",
+   "q": "{弟|おとうと}は{来年|らいねん}、{高校生|こうこうせい}に＿＿。",
+   "options": [
+    "なります",
+    "します",
+    "あります",
+    "います"
+   ],
+   "answer": 0,
+   "en": "My younger brother will become a high school student next year."
+  },
+  {
+   "type": "form",
+   "q": "{先生|せんせい}は{今|いま}、{電話|でんわ}で{話|はな}して＿＿。",
+   "options": [
+    "まいります",
+    "おります",
+    "いらっしゃいます",
+    "いたします"
+   ],
+   "answer": 2,
+   "en": "The teacher is talking on the phone now. (respectful form for the teacher)"
+  },
+  {
+   "type": "form",
+   "q": "{兄|あに}が{私|わたし}に、{新|あたら}しいスマホの{使|つか}い{方|かた}を{教|おし}えて＿＿。",
+   "options": [
+    "あげました",
+    "くれました",
+    "もらいました",
+    "さしあげました"
+   ],
+   "answer": 1,
+   "en": "My older brother taught me how to use my new smartphone."
+  },
+  {
+   "type": "form",
+   "q": "{雨|あめ}が{降|ふ}って＿＿、お{祭|まつ}りにはたくさんの{人|ひと}が{来|き}ました。",
+   "options": [
+    "いたので",
+    "いたら",
+    "いれば",
+    "いたのに"
+   ],
+   "answer": 3,
+   "en": "Even though it was raining, many people came to the festival."
+  },
+  {
+   "type": "form",
+   "q": "このアプリは、だれ＿＿かんたんに{使|つか}えます。",
+   "options": [
+    "でも",
+    "も",
+    "か",
+    "に"
+   ],
+   "answer": 0,
+   "en": "Anyone can use this app easily."
+  },
+  {
+   "type": "form",
+   "q": "{夏休|なつやす}みに、{日本|にほん}の{祭|まつ}りを{見|み}に＿＿と{思|おも}っています。",
+   "options": [
+    "{行|い}った",
+    "{行|い}こう",
+    "{行|い}って",
+    "{行|い}け"
+   ],
+   "answer": 1,
+   "en": "I'm thinking of going to see a Japanese festival in the summer holidays."
+  },
+  {
+   "type": "form",
+   "q": "{弟|おとうと}はいつも、スマホを{見|み}＿＿ごはんを{食|た}べます。",
+   "options": [
+    "ために",
+    "ように",
+    "までに",
+    "ながら"
+   ],
+   "answer": 3,
+   "en": "My younger brother always eats while looking at his phone."
+  },
+  {
+   "type": "form",
+   "q": "メールを＿＿{前|まえ}に、もう{一度|いちど}{読|よ}んでください。",
+   "options": [
+    "{送|おく}った",
+    "{送|おく}って",
+    "{送|おく}る",
+    "{送|おく}り"
+   ],
+   "answer": 2,
+   "en": "Please read the email once more before you send it."
+  },
+  {
+   "type": "form",
+   "q": "すみません、ここで{写真|しゃしん}を＿＿もいいですか。",
+   "options": [
+    "とる",
+    "とって",
+    "とった",
+    "とれ"
+   ],
+   "answer": 1,
+   "en": "Excuse me, may I take a photo here?"
+  },
+  {
+   "type": "form",
+   "q": "お{祭|まつ}りはとてもこんでいて、{知|し}らない{人|ひと}に{足|あし}を＿＿。",
+   "options": [
+    "ふまれました",
+    "ふみました",
+    "ふませました",
+    "ふんでいました"
+   ],
+   "answer": 0,
+   "en": "The festival was very crowded, and a stranger stepped on my foot."
+  },
+  {
+   "type": "form",
+   "q": "{明日|あした}の{花見|はなみ}、{雨|あめ}＿＿{行|い}きますか。",
+   "options": [
+    "だけ",
+    "しか",
+    "でも",
+    "ほど"
+   ],
+   "answer": 2,
+   "en": "Are you going to tomorrow's cherry-blossom viewing even if it rains?"
+  },
+  {
+   "type": "form",
+   "q": "かべに＿＿あるポスターに、{祭|まつ}りの{日|ひ}が{書|か}いてあります。",
+   "options": [
+    "はる",
+    "はった",
+    "はり",
+    "はって"
+   ],
+   "answer": 3,
+   "en": "The festival date is written on the poster that has been put up on the wall."
+  },
+  {
+   "type": "form",
+   "q": "A「{新|あたら}しいパソコンの{使|つか}い{方|かた}が、まだよくわからないんです。」B「じゃあ、{私|わたし}が＿＿。」",
+   "options": [
+    "{教|おし}えてもらいましょうか",
+    "{教|おし}えましょうか",
+    "{教|おし}えてくれませんか",
+    "{教|おし}えられますか"
+   ],
+   "answer": 1,
+   "en": "A: I still don't really understand how to use my new computer. B: Then shall I teach you?"
+  },
+  {
+   "type": "star",
+   "before": "{誕生日|たんじょうび}には、",
+   "after": "{作|つく}ってあげるつもりです。",
+   "pieces": [
+    "{好|す}きな",
+    "ケーキを",
+    "{母|はは}",
+    "が"
+   ],
+   "order": [
+    2,
+    3,
+    0,
+    1
+   ],
+   "star": 2,
+   "en": "For her birthday, I plan to make the cake my mother likes.",
+   "why": "{母|はは}が{好|す}きな describes ケーキ, and ケーキを comes right before the verb {作|つく}って."
+  },
+  {
+   "type": "star",
+   "before": "これは、{去年|きょねん}の",
+   "after": "です。",
+   "pieces": [
+    "とった",
+    "{夏祭|なつまつ}りで",
+    "{写真|しゃしん}",
+    "{兄|あに}が"
+   ],
+   "order": [
+    1,
+    3,
+    0,
+    2
+   ],
+   "star": 1,
+   "en": "This is the photo my brother took at last year's summer festival.",
+   "why": "{去年|きょねん}の goes with {夏祭|なつまつ}り, and {兄|あに}がとった describes {写真|しゃしん}, which comes before です."
+  },
+  {
+   "type": "star",
+   "before": "{雨|あめ}が",
+   "after": "{行|い}くつもりです。",
+   "pieces": [
+    "{祭|まつ}りに",
+    "も",
+    "は",
+    "{降|ふ}って"
+   ],
+   "order": [
+    3,
+    1,
+    0,
+    2
+   ],
+   "star": 3,
+   "en": "I plan to go to the festival even if it rains.",
+   "why": "{降|ふ}っても means 'even if it rains', and {祭|まつ}りには marks where you will go."
+  },
+  {
+   "type": "star",
+   "before": "{電車|でんしゃ}の{中|なか}では、",
+   "after": "ください。",
+   "pieces": [
+    "{話|はな}さない",
+    "{電話|でんわ}で",
+    "ように",
+    "して"
+   ],
+   "order": [
+    1,
+    0,
+    2,
+    3
+   ],
+   "star": 0,
+   "en": "Please try not to talk on the phone on the train.",
+   "why": "{電話|でんわ}で goes with {話|はな}さない, and ～ないようにしてください means 'please try not to'."
+  },
+  {
+   "type": "text",
+   "passage": "「{日本|にほん}のお{正月|しょうがつ}」　マリア・ロペス\n{私|わたし}は{今年|ことし}のお{正月|しょうがつ}を、ホストファミリーの{家|いえ}で{過|す}ごしました。{一月|いちがつ}{一日|ついたち}の{朝|あさ}、みんなで「あけましておめでとうございます」と（１）。それから、お{母|かあ}さんが{作|つく}ったおせち{料理|りょうり}を{食|た}べました。きれいで、とてもおいしかったです。\n（２）、{近|ちか}くの{神社|じんじゃ}へ{行|い}きました。{人|ひと}がとても{多|おお}くて、{三十分|さんじゅっぷん}ぐらい{並|なら}びました。\n{夜|よる}は、{国|くに}の{家族|かぞく}にスマホで{電話|でんわ}をかけました。{日本|にほん}のお{正月|しょうがつ}の{話|はなし}をすると、{母|はは}は「{楽|たの}しそうね。{写真|しゃしん}を（３）」と{言|い}いました。\n{来年|らいねん}のお{正月|しょうがつ}は{国|くに}に{帰|かえ}る{予定|よてい}ですが、いつかまた{日本|にほん}のお{正月|しょうがつ}を（４）。",
+   "en": "\"New Year in Japan\" by Maria Lopez. I spent this New Year at my host family's house. On the morning of January 1st, we all said \"Happy New Year.\" Then we ate the osechi food the host mother made. It was beautiful and very tasty. After the meal, we went to a nearby shrine. There were a lot of people, and we waited in line for about 30 minutes. At night, I called my family back home on my phone. When I talked about New Year in Japan, my mother said, \"Sounds fun. Send me photos.\" Next New Year I plan to go back to my country, but someday I would like to spend New Year in Japan again.",
+   "questions": [
+    {
+     "q": "（１）",
+     "options": [
+      "{言|い}われました",
+      "{言|い}いました",
+      "{言|い}わせました",
+      "{言|い}いたかったです"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "（２）",
+     "options": [
+      "でも",
+      "それなのに",
+      "ごはんのあとで",
+      "たとえば"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "（３）",
+     "options": [
+      "{送|おく}ってね",
+      "{送|おく}ったね",
+      "{送|おく}られてね",
+      "{送|おく}るね"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "（４）",
+     "options": [
+      "{過|す}ごしたことがあります",
+      "{過|す}ごしたはずです",
+      "{過|す}ごしてしまいました",
+      "{過|す}ごしてみたいです"
+     ],
+     "answer": 3
+    }
+   ]
+  }
+ ],
+ "reading": [
+  {
+   "type": "short",
+   "text": "アンナさんへ\n{来週|らいしゅう}の{土曜日|どようび}は{私|わたし}の{誕生日|たんじょうび}なので、{家|いえ}で{小|ちい}さいパーティーをします。{夕方|ゆうがた}{六時|ろくじ}から{始|はじ}めます。{飲|の}み{物|もの}や{食|た}べ{物|もの}はこちらで{用意|ようい}しますから、{何|なに}も{持|も}って{来|こ}なくていいですよ。でも、もしよかったら、パーティーでアンナさんの{国|くに}の{歌|うた}を{一|ひと}つ{教|おし}えてください。\n{来|こ}られるかどうか、{木曜日|もくようび}までにメールで{返事|へんじ}をください。\nゆか",
+   "en": "To Anna: Next Saturday is my birthday, so I'm having a small party at my house. It starts at 6 in the evening. I'll prepare the food and drinks, so you don't need to bring anything. But if you like, please teach us one song from your country at the party. Please reply by email by Thursday to say whether you can come. Yuka",
+   "questions": [
+    {
+     "q": "アンナさんは、{木曜日|もくようび}までに{何|なに}をしなければなりませんか。",
+     "options": [
+      "{飲|の}み{物|もの}を{買|か}う。",
+      "パーティーに{行|い}けるかどうか、ゆかさんにメールする。",
+      "{国|くに}の{歌|うた}をゆかさんに{教|おし}える。",
+      "ゆかさんの{家|いえ}へ{行|い}く。"
+     ],
+     "answer": 1,
+     "why": "Yuka asks Anna to reply by email by Thursday saying whether she can come; the song is for the party on Saturday."
+    }
+   ]
+  },
+  {
+   "type": "short",
+   "text": "さくら{町|まち}　{夏祭|なつまつ}りのお{知|し}らせ\n{日時|にちじ}：{八月|はちがつ}{十日|とおか}（{土|ど}）　{午後|ごご}{四時|よじ}～{九時|くじ}\n{場所|ばしょ}：さくら{公園|こうえん}\n・{雨|あめ}の{場合|ばあい}は、{次|つぎ}の{日|ひ}の{同|おな}じ{時間|じかん}に{行|おこな}います。\n・{車|くるま}を{止|と}める{所|ところ}がありませんので、{電車|でんしゃ}かバスで{来|き}てください。\n・ゆかたを{着|き}て{来|き}た{方|かた}には、ジュースを{一本|いっぽん}プレゼントします。\nさくら{町|まち}{祭|まつ}りの{会|かい}",
+   "en": "Sakura Town Summer Festival notice. Date: Saturday, August 10, 4-9 p.m. Place: Sakura Park. If it rains, it will be held the next day at the same time. There is no parking, so please come by train or bus. People who come wearing a yukata will get one free juice. Sakura Town Festival Committee",
+   "questions": [
+    {
+     "q": "この{祭|まつ}りについて、{正|ただ}しいものはどれですか。",
+     "options": [
+      "{雨|あめ}が{降|ふ}ったら、{祭|まつ}りはなくなる。",
+      "{車|くるま}で{行|い}ってもいい。",
+      "ゆかたを{着|き}て{行|い}くと、ジュースがもらえる。",
+      "{祭|まつ}りは{十日|とおか}の{朝|あさ}から{始|はじ}まる。"
+     ],
+     "answer": 2,
+     "why": "The notice says people wearing a yukata get a free juice; rain only moves it to the next day, and it starts at 4 p.m."
+    }
+   ]
+  },
+  {
+   "type": "short",
+   "text": "{私|わたし}の{祖母|そぼ}は{去年|きょねん}、はじめてスマホを{買|か}いました。{最初|さいしょ}は{電話|でんわ}しか{使|つか}いませんでしたが、{今|いま}は{毎日|まいにち}、{孫|まご}の{私|わたし}に{花|はな}や{料理|りょうり}の{写真|しゃしん}を{送|おく}ってきます。{私|わたし}は{忙|いそが}しくて、すぐに{返事|へんじ}ができない{日|ひ}もあります。それでも{祖母|そぼ}は{怒|おこ}らないで、「{見|み}てくれるだけでうれしい」と{言|い}います。{今度|こんど}の{休|やす}みには、{祖母|そぼ}に{動画|どうが}のとり{方|かた}を{教|おし}えようと{思|おも}っています。",
+   "en": "My grandmother bought a smartphone for the first time last year. At first she only used it for calls, but now she sends me, her grandchild, photos of flowers and food every day. Some days I'm busy and can't reply right away. Even so, she doesn't get angry and says, \"I'm happy just that you look at them.\" Next holiday, I'm thinking of teaching her how to take videos.",
+   "questions": [
+    {
+     "q": "この{人|ひと}は、{今度|こんど}の{休|やす}みに{何|なに}をするつもりですか。",
+     "options": [
+      "{祖母|そぼ}といっしょにスマホを{買|か}いに{行|い}く。",
+      "{祖母|そぼ}に{花|はな}の{写真|しゃしん}を{送|おく}る。",
+      "{祖母|そぼ}にすぐ{返事|へんじ}をする。",
+      "{祖母|そぼ}に{動画|どうが}のとり{方|かた}を{教|おし}える。"
+     ],
+     "answer": 3,
+     "why": "The last sentence says the writer plans to teach grandmother how to take videos next holiday."
+    }
+   ]
+  },
+  {
+   "type": "mid",
+   "text": "「{私|わたし}の{家族|かぞく}と{桜|さくら}」　リー・ウェイ\n{日本|にほん}に{来|き}て、{二回目|にかいめ}の{春|はる}になりました。{去年|きょねん}の{春|はる}は、{大学|だいがく}の{友|とも}だちと{有名|ゆうめい}な{公園|こうえん}へ{花見|はなみ}に{行|い}きました。{桜|さくら}はとてもきれいでしたが、{人|ひと}が{多|おお}すぎて、ゆっくり{見|み}ることができませんでした。\n{今年|ことし}は、{国|くに}から{両親|りょうしん}が{遊|あそ}びに{来|き}ました。{両親|りょうしん}は{桜|さくら}を{見|み}るのを{楽|たの}しみにしていましたが、{二人|ふたり}が{来|く}る{前|まえ}の{週|しゅう}に{雨|あめ}と{強|つよ}い{風|かぜ}が{続|つづ}いて、{花|はな}がたくさん{散|ち}ってしまいました。{私|わたし}はとても{残念|ざんねん}でした。\nでも、アルバイト{先|さき}の{店長|てんちょう}が、{山|やま}の{近|ちか}くにある{小|ちい}さい{町|まち}を{教|おし}えてくれました。そこは{私|わたし}が{住|す}んでいる{町|まち}より{寒|さむ}いので、{桜|さくら}が{咲|さ}くのが{少|すこ}し{遅|おそ}いそうです。{電車|でんしゃ}で{二時間|にじかん}かかりましたが、{行|い}ってみると、{桜|さくら}はちょうどいちばんきれいなときでした。{人|ひと}も{少|すく}なくて、{両親|りょうしん}と{川|かわ}の{近|ちか}くでお{弁当|べんとう}を{食|た}べながら、ゆっくり{話|はな}すことができました。\n{父|ちち}は{写真|しゃしん}をたくさんとって、{国|くに}にいる{祖母|そぼ}にすぐ{送|おく}りました。{祖母|そぼ}からは「{来年|らいねん}は{私|わたし}も{日本|にほん}へ{行|い}きたい」というメッセージが{来|き}ました。",
+   "en": "\"My Family and the Cherry Blossoms\" by Li Wei. This is my second spring since coming to Japan. Last spring I went cherry-blossom viewing at a famous park with university friends. The blossoms were beautiful, but there were too many people and I couldn't look at them slowly. This year my parents came from my country to visit. They were looking forward to seeing the blossoms, but in the week before they came, rain and strong wind continued and many blossoms fell. I was very disappointed. But the manager at my part-time job told me about a small town near the mountains. It is colder there than the town where I live, so the cherry trees bloom a little later. It took two hours by train, but when we went, the blossoms were at their very best. There weren't many people, and I could talk slowly with my parents while eating bento near the river. My father took lots of photos and sent them right away to my grandmother back home. She sent a message: \"Next year I want to go to Japan too.\"",
+   "questions": [
+    {
+     "q": "{去年|きょねん}の{花見|はなみ}はどうでしたか。",
+     "options": [
+      "{雨|あめ}で{桜|さくら}が{見|み}られなかった。",
+      "{人|ひと}が{多|おお}くて、ゆっくり{見|み}られなかった。",
+      "{友|とも}だちが{来|こ}なくて、{一人|ひとり}で{見|み}た。",
+      "{桜|さくら}がまだ{咲|さ}いていなかった。"
+     ],
+     "answer": 1,
+     "why": "The first paragraph says there were too many people to look slowly."
+    },
+    {
+     "q": "「{私|わたし}はとても{残念|ざんねん}でした」とありますが、どうしてですか。",
+     "options": [
+      "{桜|さくら}の{花|はな}がたくさん{散|ち}ってしまったから。",
+      "{両親|りょうしん}が{日本|にほん}に{来|こ}られなくなったから。",
+      "アルバイトで{花見|はなみ}に{行|い}けなかったから。",
+      "{雨|あめ}で{電車|でんしゃ}が{止|と}まったから。"
+     ],
+     "answer": 0,
+     "why": "Rain and wind made many blossoms fall before the parents arrived."
+    },
+    {
+     "q": "この{文|ぶん}の{内容|ないよう}と{合|あ}っているものはどれですか。",
+     "options": [
+      "{店長|てんちょう}がいっしょに{小|ちい}さい{町|まち}へ{行|い}ってくれた。",
+      "{小|ちい}さい{町|まち}の{桜|さくら}は、まだ{咲|さ}いていなかった。",
+      "{父|ちち}は{写真|しゃしん}をとったが、{祖母|そぼ}には{送|おく}らなかった。",
+      "{祖母|そぼ}は、{来年|らいねん}{日本|にほん}へ{来|き}たいと{思|おも}っている。"
+     ],
+     "answer": 3,
+     "why": "Grandmother's message says she wants to go to Japan next year; the manager only told them about the town."
+    }
+   ]
+  },
+  {
+   "type": "info",
+   "text": "みどり{市民|しみん}センター　スマホ{教室|きょうしつ}（{十一月|じゅういちがつ}）\nA　{三日|みっか}（{火|か}）　10:00～12:00　はじめてのスマホ（{電話|でんわ}・メール）　500{円|えん}\nB　{七日|なのか}（{土|ど}）　14:00～16:00　{写真|しゃしん}をとる・{送|おく}る　500{円|えん}\nC　{十二日|じゅうににち}（{木|もく}）　18:30～20:30　{写真|しゃしん}をとる・{送|おく}る　500{円|えん}\nD　{十五日|じゅうごにち}（{日|にち}）　10:00～12:00　インターネットで{買|か}い{物|もの}をする　800{円|えん}\n・スマホは{自分|じぶん}のものを{持|も}ってきてください。スマホがない{方|かた}は、100{円|えん}で{借|か}りることができます。\n・{申|もう}し{込|こ}みは、{教室|きょうしつ}の{日|ひ}の{三日前|みっかまえ}までに、{電話|でんわ}でお{願|ねが}いします。",
+   "en": "Midori Community Center smartphone classes (November). A: 3rd (Tue) 10:00-12:00, first smartphone (calls and email), 500 yen. B: 7th (Sat) 14:00-16:00, taking and sending photos, 500 yen. C: 12th (Thu) 18:30-20:30, taking and sending photos, 500 yen. D: 15th (Sun) 10:00-12:00, shopping on the internet, 800 yen. Please bring your own smartphone; if you don't have one, you can borrow one for 100 yen. Please apply by phone by three days before the class.",
+   "questions": [
+    {
+     "q": "{山田|やまだ}さんは、{平日|へいじつ}は{夕方|ゆうがた}{六時|ろくじ}まで{仕事|しごと}があります。{土曜日|どようび}と{日曜日|にちようび}は、{毎週|まいしゅう}{子|こ}どもの{野球|やきゅう}の{練習|れんしゅう}に{行|い}きます。{写真|しゃしん}の{送|おく}り{方|かた}を{習|なら}いたいです。{山田|やまだ}さんが{出|で}られるクラスはどれですか。",
+     "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "answer": 2,
+     "why": "Photo classes are B (Saturday) and C (Thursday 18:30); Yamada is busy on weekends and free after 6 on weekdays, so only C works."
+    },
+    {
+     "q": "キムさんはスマホを{持|も}っていません。Dのクラスに{出|で}たいです。キムさんはどうしなければなりませんか。",
+     "options": [
+      "{十二日|じゅうににち}までに{電話|でんわ}で{申|もう}し{込|こ}んで、800{円|えん}{払|はら}う。",
+      "{十二日|じゅうににち}までに{電話|でんわ}で{申|もう}し{込|こ}んで、900{円|えん}{払|はら}う。",
+      "{十四日|じゅうよっか}までにセンターへ{行|い}って{申|もう}し{込|こ}んで、900{円|えん}{払|はら}う。",
+      "{十五日|じゅうごにち}にスマホを{持|も}っていって、800{円|えん}{払|はら}う。"
+     ],
+     "answer": 1,
+     "why": "Class D is on the 15th, so apply by phone by the 12th, and pay 800 yen plus 100 yen to borrow a phone."
+    }
+   ]
+  }
+ ],
+ "listening": [
+  {
+   "type": "task",
+   "setup": "{家|いえ}で{母親|ははおや}と{男|おとこ}の{子|こ}が{話|はな}しています。{男|おとこ}の{子|こ}は{帰|かえ}りに{何|なに}を{買|か}いますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "たけし、あしたはおばあちゃんの{誕生日|たんじょうび}だから、{帰|かえ}りにケーキを{買|か}ってきてくれる？"
+    },
+    {
+     "s": "M",
+     "jp": "いいよ。{駅前|えきまえ}の{店|みせ}でいい？"
+    },
+    {
+     "s": "F",
+     "jp": "うん。あ、でも、ケーキはお{父|とう}さんが{買|か}ってくるって。たけしはお{花|はな}をお{願|ねが}い。"
+    },
+    {
+     "s": "M",
+     "jp": "わかった。カードも{買|か}おうか。"
+    },
+    {
+     "s": "F",
+     "jp": "カードはもう{書|か}いたから、いいわ。"
+    }
+   ],
+   "question": "{男|おとこ}の{子|こ}は{帰|かえ}りに{何|なに}を{買|か}いますか。",
+   "options": [
+    "ケーキ",
+    "{花|はな}",
+    "カード",
+    "ケーキと{花|はな}"
+   ],
+   "answer": 1,
+   "en": "At home, a mother and her son are talking. F: Takeshi, tomorrow is Grandma's birthday, so could you buy a cake on your way home? M: Sure. Is the shop by the station OK? F: Yes. Oh, but Dad says he'll buy the cake. You get the flowers, please. M: OK. Shall I buy a card too? F: I already wrote a card, so no need.",
+   "why": "Dad buys the cake and the card is already written, so the boy buys only flowers."
+  },
+  {
+   "type": "task",
+   "setup": "{会社|かいしゃ}で{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はこのあとまず{何|なに}をしますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{山田|やまだ}さん、{昨日|きのう}の{会議|かいぎ}の{写真|しゃしん}、みんなに{送|おく}ってくれましたか。"
+    },
+    {
+     "s": "M",
+     "jp": "いえ、まだです。メールで{送|おく}りますか。"
+    },
+    {
+     "s": "F",
+     "jp": "{写真|しゃしん}が{多|おお}いから、メールじゃなくて、{会社|かいしゃ}のホームページに{入|い}れてください。"
+    },
+    {
+     "s": "M",
+     "jp": "わかりました。じゃ、{先|さき}に{写真|しゃしん}を{選|えら}びましょうか。"
+    },
+    {
+     "s": "F",
+     "jp": "それは{私|わたし}がもうやりました。パソコンのデスクトップにありますよ。"
+    },
+    {
+     "s": "M",
+     "jp": "はい、じゃ、すぐ{入|い}れます。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}はこのあとまず{何|なに}をしますか。",
+   "options": [
+    "{写真|しゃしん}をメールで{送|おく}る",
+    "{写真|しゃしん}を{選|えら}ぶ",
+    "{写真|しゃしん}をホームページに{入|い}れる",
+    "{会議|かいぎ}に{出|で}る"
+   ],
+   "answer": 2,
+   "en": "At a company, a woman and a man are talking. F: Mr. Yamada, did you send everyone the photos from yesterday's meeting? M: No, not yet. Shall I send them by email? F: There are a lot of photos, so not by email; please put them on the company website. M: OK. Then shall I choose the photos first? F: I already did that. They're on the computer desktop. M: Right, I'll put them up now.",
+   "why": "The woman already chose the photos and said not to use email, so he puts them on the website."
+  },
+  {
+   "type": "task",
+   "setup": "{学校|がっこう}で{先生|せんせい}が{話|はな}しています。{学生|がくせい}はあした{何|なに}を{持|も}ってきますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "みなさん、あしたは{町|まち}のお{祭|まつ}りでおどる{踊|おど}りの{練習|れんしゅう}をします。"
+    },
+    {
+     "s": "M",
+     "jp": "{外|そと}で{練習|れんしゅう}しますから、{帽子|ぼうし}を{持|も}ってきてください。ゆかたはお{祭|まつ}りの{日|ひ}だけ{着|き}ますから、あしたはいりません。{飲|の}み{物|もの}は{学校|がっこう}で{用意|ようい}します。それから、タオルも{忘|わす}れないでくださいね。"
+    }
+   ],
+   "question": "{学生|がくせい}はあした{何|なに}を{持|も}ってきますか。",
+   "options": [
+    "{帽子|ぼうし}とタオル",
+    "{帽子|ぼうし}とゆかた",
+    "ゆかたと{飲|の}み{物|もの}",
+    "タオルと{飲|の}み{物|もの}"
+   ],
+   "answer": 0,
+   "en": "At school, a teacher is talking. M: Everyone, tomorrow we'll practice the dance for the town festival. We'll practice outside, so please bring a hat. You only wear a yukata on the festival day, so you don't need it tomorrow. The school will prepare drinks. And don't forget a towel.",
+   "why": "Students need a hat and a towel; no yukata, and drinks are provided."
+  },
+  {
+   "type": "task",
+   "setup": "{携帯|けいたい}ショップで{店|みせ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}はこのあとまず{何|なに}をしますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "いらっしゃいませ。"
+    },
+    {
+     "s": "F",
+     "jp": "すみません、スマホを{落|お}として、{画面|がめん}が{割|わ}れてしまったんです。"
+    },
+    {
+     "s": "M",
+     "jp": "{修理|しゅうり}ですね。では、まずこちらの{紙|かみ}にお{名前|なまえ}と{電話番号|でんわばんごう}を{書|か}いてください。"
+    },
+    {
+     "s": "F",
+     "jp": "はい。あの、{中|なか}の{写真|しゃしん}は{消|き}えませんか。"
+    },
+    {
+     "s": "M",
+     "jp": "{大丈夫|だいじょうぶ}ですよ。でも、{修理|しゅうり}の{前|まえ}にパスワードを{教|おし}えていただきます。{紙|かみ}を{書|か}いていただいてから、お{聞|き}きしますね。"
+    },
+    {
+     "s": "F",
+     "jp": "わかりました。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}はこのあとまず{何|なに}をしますか。",
+   "options": [
+    "パスワードを{教|おし}える",
+    "{紙|かみ}に{名前|なまえ}と{電話番号|でんわばんごう}を{書|か}く",
+    "{写真|しゃしん}を{消|け}す",
+    "{新|あたら}しいスマホを{買|か}う"
+   ],
+   "answer": 1,
+   "en": "At a phone shop, a clerk and a woman are talking. M: Welcome. F: Excuse me, I dropped my phone and the screen cracked. M: A repair, then. First, please write your name and phone number on this form. F: OK. Um, won't the photos inside be deleted? M: They'll be fine. But before the repair we'll need your password. I'll ask you after you fill in the form. F: I see.",
+   "why": "She fills in the form first; the password comes after that."
+  },
+  {
+   "type": "task",
+   "setup": "{家|いえ}で{夫|おっと}と{妻|つま}が{話|はな}しています。{二人|ふたり}はいつ{花見|はなみ}に{行|い}きますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "ねえ、{今度|こんど}の{花見|はなみ}、いつにする？{今週|こんしゅう}の{土曜日|どようび}？"
+    },
+    {
+     "s": "M",
+     "jp": "{土曜日|どようび}は{雨|あめ}らしいよ。{日曜日|にちようび}は？"
+    },
+    {
+     "s": "F",
+     "jp": "{日曜日|にちようび}は、{子|こ}どものサッカーの{試合|しあい}があるのよ。"
+    },
+    {
+     "s": "M",
+     "jp": "じゃあ、{金曜日|きんようび}の{夜|よる}は？{夜|よる}の{桜|さくら}もきれいだよ。"
+    },
+    {
+     "s": "F",
+     "jp": "{金曜日|きんようび}はすごく{寒|さむ}くなるって。{来週|らいしゅう}の{土曜日|どようび}だと、もう{散|ち}ってるかなあ。"
+    },
+    {
+     "s": "M",
+     "jp": "うーん、たぶんまだ{大丈夫|だいじょうぶ}だよ。"
+    },
+    {
+     "s": "F",
+     "jp": "じゃあ、そうしよう。"
+    }
+   ],
+   "question": "{二人|ふたり}はいつ{花見|はなみ}に{行|い}きますか。",
+   "options": [
+    "{今週|こんしゅう}の{金曜日|きんようび}の{夜|よる}",
+    "{今週|こんしゅう}の{土曜日|どようび}",
+    "{今週|こんしゅう}の{日曜日|にちようび}",
+    "{来週|らいしゅう}の{土曜日|どようび}"
+   ],
+   "answer": 3,
+   "en": "At home, a husband and wife are talking. F: Hey, when shall we go cherry-blossom viewing? This Saturday? M: It's supposed to rain on Saturday. How about Sunday? F: The kids have a soccer match on Sunday. M: Then Friday night? The blossoms at night are pretty too. F: They say it'll get really cold on Friday. If it's next Saturday, I wonder if they'll already have fallen. M: Hmm, they'll probably still be OK. F: Then let's do that.",
+   "why": "Saturday has rain, Sunday has soccer, Friday is cold, so they choose next Saturday."
+  },
+  {
+   "type": "task",
+   "setup": "{会社|かいしゃ}で{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}はこのあと{何|なに}をしますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{田中|たなか}さん、{来週|らいしゅう}はお{姉|ねえ}さんの{結婚式|けっこんしき}で、{会社|かいしゃ}を{休|やす}むんですよね。"
+    },
+    {
+     "s": "F",
+     "jp": "はい、{金曜日|きんようび}に{休|やす}みます。{部長|ぶちょう}にはもう{話|はな}しました。"
+    },
+    {
+     "s": "M",
+     "jp": "じゃあ、{休|やす}みの{紙|かみ}は{出|だ}しましたか。"
+    },
+    {
+     "s": "F",
+     "jp": "あ、まだです。"
+    },
+    {
+     "s": "M",
+     "jp": "{今日|きょう}までですよ。"
+    },
+    {
+     "s": "F",
+     "jp": "そうでしたか。すぐ{書|か}いて{出|だ}します。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}はこのあと{何|なに}をしますか。",
+   "options": [
+    "{休|やす}みの{紙|かみ}を{書|か}いて{出|だ}す",
+    "{部長|ぶちょう}と{話|はな}す",
+    "{結婚式|けっこんしき}に{行|い}く",
+    "{会社|かいしゃ}を{休|やす}む"
+   ],
+   "answer": 0,
+   "en": "At a company, a man and a woman are talking. M: Ms. Tanaka, you're taking a day off next week for your sister's wedding, right? F: Yes, I'm off on Friday. I've already told the manager. M: Then have you handed in the leave form? F: Oh, not yet. M: It's due today. F: Is it? I'll write it and hand it in right away.",
+   "why": "She already talked to the manager; now she must write and submit the leave form today."
+  },
+  {
+   "type": "task",
+   "setup": "{喫茶店|きっさてん}で{男|おとこ}の{人|ひと}と{店|みせ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はこのあとまず{何|なに}をしますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "すみません、ここ、インターネットは{使|つか}えますか。"
+    },
+    {
+     "s": "F",
+     "jp": "はい。こちらのカードにパスワードが{書|か}いてあります。"
+    },
+    {
+     "s": "M",
+     "jp": "ありがとうございます。…あれ、つながりませんね。"
+    },
+    {
+     "s": "F",
+     "jp": "{先|さき}にメールアドレスを{入|い}れてから、パスワードを{入|い}れてください。"
+    },
+    {
+     "s": "M",
+     "jp": "あ、そうですか。わかりました。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}はこのあとまず{何|なに}をしますか。",
+   "options": [
+    "パスワードを{入|い}れる",
+    "カードを{買|か}う",
+    "メールアドレスを{入|い}れる",
+    "{店|みせ}の{人|ひと}に{電話|でんわ}する"
+   ],
+   "answer": 2,
+   "en": "At a cafe, a man and a staff member are talking. M: Excuse me, can I use the internet here? F: Yes. The password is written on this card. M: Thanks. ...Huh, it won't connect. F: Please enter your email address first, then the password. M: Oh, I see. OK.",
+   "why": "She says to enter the email address first, then the password."
+  },
+  {
+   "type": "task",
+   "setup": "{家|いえ}で{父親|ちちおや}と{娘|むすめ}が{話|はな}しています。{娘|むすめ}はこのあとまず{何|なに}をしますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "あしたはおじいちゃんの{家|いえ}に{行|い}くから、{早|はや}く{準備|じゅんび}しなさい。"
+    },
+    {
+     "s": "F",
+     "jp": "うん。でも、その{前|まえ}に{友|とも}だちにメッセージを{送|おく}ってもいい？"
+    },
+    {
+     "s": "M",
+     "jp": "だめだよ。スマホは{車|くるま}の{中|なか}でもできるだろう。{先|さき}にかばんに{服|ふく}を{入|い}れなさい。"
+    },
+    {
+     "s": "F",
+     "jp": "はあい。おみやげは？"
+    },
+    {
+     "s": "M",
+     "jp": "おみやげはお{母|かあ}さんがもう{買|か}ってあるよ。"
+    }
+   ],
+   "question": "{娘|むすめ}はこのあとまず{何|なに}をしますか。",
+   "options": [
+    "{友|とも}だちにメッセージを{送|おく}る",
+    "おみやげを{買|か}う",
+    "{車|くるま}に{乗|の}る",
+    "かばんに{服|ふく}を{入|い}れる"
+   ],
+   "answer": 3,
+   "en": "At home, a father and daughter are talking. M: We're going to Grandpa's house tomorrow, so get ready quickly. F: OK. But can I send a message to my friend first? M: No. You can use your phone in the car, right? Put your clothes in your bag first. F: Okaay. What about the gift? M: Mom has already bought the gift.",
+   "why": "Her father tells her to pack her clothes first; the message can wait and the gift is already bought."
+  },
+  {
+   "type": "point",
+   "setup": "{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}はどうしてお{祭|まつ}りに{行|い}きませんか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{今晩|こんばん}、{駅前|えきまえ}のお{祭|まつ}りに{行|い}かない？"
+    },
+    {
+     "s": "F",
+     "jp": "{行|い}きたいけど、ちょっと…。"
+    },
+    {
+     "s": "M",
+     "jp": "{仕事|しごと}が{忙|いそが}しいの？"
+    },
+    {
+     "s": "F",
+     "jp": "ううん、{仕事|しごと}はもう{終|お}わったんだけど、{今夜|こんや}は{国|くに}の{母|はは}とビデオ{電話|でんわ}をする{約束|やくそく}をしてるの。{母|はは}の{誕生日|たんじょうび}なんだ。"
+    },
+    {
+     "s": "M",
+     "jp": "そうか。じゃ、また{今度|こんど}ね。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}はどうしてお{祭|まつ}りに{行|い}きませんか。",
+   "options": [
+    "{仕事|しごと}が{忙|いそが}しいから",
+    "{母|はは}と{話|はな}す{約束|やくそく}があるから",
+    "{母|はは}が{日本|にほん}に{来|く}るから",
+    "{人|ひと}が{多|おお}いところがきらいだから"
+   ],
+   "answer": 1,
+   "en": "A man and a woman are talking. M: Want to go to the festival by the station tonight? F: I'd like to, but... M: Are you busy with work? F: No, work is finished, but tonight I promised to video call my mother back home. It's her birthday. M: I see. Next time, then.",
+   "why": "Her work is finished; she has promised to video call her mother."
+  },
+  {
+   "type": "point",
+   "setup": "{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}のスマホは{今|いま}どうなっていますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "どうしたの？{元気|げんき}ないね。"
+    },
+    {
+     "s": "M",
+     "jp": "きのう、スマホを{電車|でんしゃ}の{中|なか}に{忘|わす}れちゃったんだ。"
+    },
+    {
+     "s": "F",
+     "jp": "ええっ。{見|み}つかった？"
+    },
+    {
+     "s": "M",
+     "jp": "うん、{駅|えき}に{電話|でんわ}したら、あったよ。でも、{取|と}りに{行|い}ったら{電池|でんち}がなくなってて、まだ{使|つか}えないんだ。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}のスマホは{今|いま}どうなっていますか。",
+   "options": [
+    "まだ{見|み}つかっていない",
+    "{落|お}としてこわれてしまった",
+    "{見|み}つかったが、{電池|でんち}がなくて{使|つか}えない",
+    "{駅|えき}の{人|ひと}がまだ{持|も}っている"
+   ],
+   "answer": 2,
+   "en": "A woman and a man are talking. F: What's wrong? You look down. M: Yesterday I left my phone on the train. F: What! Did you find it? M: Yeah, I called the station and they had it. But when I went to get it, the battery was dead, so I still can't use it.",
+   "why": "He got the phone back, but the battery is dead so he can't use it yet."
+  },
+  {
+   "type": "point",
+   "setup": "{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{二人|ふたり}は{結婚|けっこん}のお{祝|いわ}いに{何|なに}をあげますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{佐藤|さとう}さんの{結婚|けっこん}のお{祝|いわ}い、{何|なに}がいいかな。お{皿|さら}は？"
+    },
+    {
+     "s": "M",
+     "jp": "お{皿|さら}は{会社|かいしゃ}のみんなからあげるそうだよ。"
+    },
+    {
+     "s": "F",
+     "jp": "そう。じゃ、お{花|はな}？"
+    },
+    {
+     "s": "M",
+     "jp": "{花|はな}はすぐだめになるからなあ。{佐藤|さとう}さん、コーヒーが{好|す}きだから、コーヒーカップはどう？"
+    },
+    {
+     "s": "F",
+     "jp": "いいね。そうしよう。"
+    }
+   ],
+   "question": "{二人|ふたり}は{結婚|けっこん}のお{祝|いわ}いに{何|なに}をあげますか。",
+   "options": [
+    "お{皿|さら}",
+    "{花|はな}",
+    "コーヒー",
+    "コーヒーカップ"
+   ],
+   "answer": 3,
+   "en": "A man and a woman are talking. F: What would be good as a wedding gift for Mr. Sato? How about plates? M: I hear everyone at the company is giving plates. F: I see. Then flowers? M: Flowers don't last long. Mr. Sato likes coffee, so how about coffee cups? F: Good idea. Let's do that.",
+   "why": "They agree on coffee cups; plates come from the company and flowers don't last."
+  },
+  {
+   "type": "point",
+   "setup": "ラジオで{女|おんな}の{人|ひと}が{話|はな}しています。{今年|ことし}の{花火大会|はなびたいかい}はいつになりましたか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "みなさん、こんにちは。{毎年|まいとし}{八月|はちがつ}の{最初|さいしょ}の{土曜日|どようび}に{行|おこな}われている「みなと{花火大会|はなびたいかい}」ですが、{今年|ことし}は{台風|たいふう}のため、{一週間後|いっしゅうかんご}の{十二日|じゅうににち}、{土曜日|どようび}に{変|か}わりました。{時間|じかん}は{去年|きょねん}と{同|おな}じ、{夜|よる}{七時半|しちじはん}からです。"
+    }
+   ],
+   "question": "{今年|ことし}の{花火大会|はなびたいかい}はいつになりましたか。",
+   "options": [
+    "{八月|はちがつ}{十二日|じゅうににち}の{夜|よる}{七時半|しちじはん}",
+    "{八月|はちがつ}{五日|いつか}の{夜|よる}{七時半|しちじはん}",
+    "{八月|はちがつ}{十二日|じゅうににち}の{夜|よる}{七時|しちじ}",
+    "{八月|はちがつ}{十九日|じゅうくにち}の{夜|よる}{七時半|しちじはん}"
+   ],
+   "answer": 0,
+   "en": "A woman is talking on the radio. F: Hello, everyone. The Minato Fireworks Festival is held every year on the first Saturday of August, but this year, because of a typhoon, it has moved one week later to Saturday the 12th. The time is the same as last year, from 7:30 p.m.",
+   "why": "It moved to Saturday the 12th, and the time stays 7:30 p.m."
+  },
+  {
+   "type": "point",
+   "setup": "{会社|かいしゃ}で{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はどうして{今日|きょう}{早|はや}く{帰|かえ}りますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{木村|きむら}さん、{今日|きょう}は{早|はや}いですね。{病院|びょういん}ですか。"
+    },
+    {
+     "s": "M",
+     "jp": "いいえ、{今日|きょう}は{娘|むすめ}の{誕生日|たんじょうび}なんです。"
+    },
+    {
+     "s": "F",
+     "jp": "それで、プレゼントを{買|か}いに{行|い}くんですね。"
+    },
+    {
+     "s": "M",
+     "jp": "プレゼントはもう{買|か}ってあるんですけど、{妻|つま}が{仕事|しごと}で{遅|おそ}くなるので、{私|わたし}が{晩|ばん}ご{飯|はん}を{作|つく}るんです。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}はどうして{今日|きょう}{早|はや}く{帰|かえ}りますか。",
+   "options": [
+    "{病院|びょういん}に{行|い}くから",
+    "{晩|ばん}ご{飯|はん}を{作|つく}るから",
+    "{娘|むすめ}のプレゼントを{買|か}うから",
+    "{妻|つま}を{迎|むか}えに{行|い}くから"
+   ],
+   "answer": 1,
+   "en": "At a company, a woman and a man are talking. F: Mr. Kimura, you're leaving early today. Going to the hospital? M: No, today is my daughter's birthday. F: So you're going to buy a present. M: I've already bought the present, but my wife will be late because of work, so I'm making dinner.",
+   "why": "The present is already bought; he is going home to make dinner."
+  },
+  {
+   "type": "point",
+   "setup": "{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}は{何|なに}がいちばん{困|こま}ると{言|い}っていますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{先週|せんしゅう}{引|ひ}っ{越|こ}したんだけど、{新|あたら}しい{部屋|へや}、まだインターネットが{使|つか}えないの。"
+    },
+    {
+     "s": "M",
+     "jp": "それは{不便|ふべん}だね。"
+    },
+    {
+     "s": "F",
+     "jp": "テレビが{見|み}られないのはいいんだけど、{家|いえ}で{宿題|しゅくだい}ができないのが{困|こま}るのよ。"
+    },
+    {
+     "s": "M",
+     "jp": "いつ{使|つか}えるようになるの？"
+    },
+    {
+     "s": "F",
+     "jp": "{来週|らいしゅう}の{月曜日|げつようび}だって。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}は{何|なに}がいちばん{困|こま}ると{言|い}っていますか。",
+   "options": [
+    "テレビが{見|み}られないこと",
+    "{引|ひ}っ{越|こ}しにお{金|かね}がかかったこと",
+    "{図書館|としょかん}が{遠|とお}いこと",
+    "{家|いえ}で{宿題|しゅくだい}ができないこと"
+   ],
+   "answer": 3,
+   "en": "A woman and a man are talking. F: I moved last week, but I still can't use the internet in my new room. M: That's inconvenient. F: Not being able to watch TV is fine, but not being able to do homework at home is the problem. M: When will it work? F: Next Monday, they say.",
+   "why": "She says TV is fine; the problem is that she can't do homework at home."
+  },
+  {
+   "type": "point",
+   "setup": "{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}は{秋|あき}の{何|なに}がいちばん{好|す}きだと{言|い}っていますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "すっかり{涼|すず}しくなったね。{私|わたし}、{秋|あき}がいちばん{好|す}き。{食|た}べ{物|もの}がおいしいから。"
+    },
+    {
+     "s": "M",
+     "jp": "{僕|ぼく}も{秋|あき}は{好|す}きだよ。{食|た}べ{物|もの}もいいけど、{僕|ぼく}は{山|やま}の{木|き}が{赤|あか}や{黄色|きいろ}になるのを{見|み}るのがいちばん{楽|たの}しみなんだ。"
+    },
+    {
+     "s": "F",
+     "jp": "じゃあ、{今度|こんど}いっしょに{山|やま}へ{行|い}こうよ。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}は{秋|あき}の{何|なに}がいちばん{好|す}きだと{言|い}っていますか。",
+   "options": [
+    "{涼|すず}しくなること",
+    "{食|た}べ{物|もの}がおいしいこと",
+    "{山|やま}の{木|き}の{色|いろ}が{変|か}わること",
+    "{山|やま}に{登|のぼ}ること"
+   ],
+   "answer": 2,
+   "en": "A woman and a man are talking. F: It's become really cool. I like autumn best, because the food is delicious. M: I like autumn too. The food is good, but what I look forward to most is seeing the trees on the mountains turn red and yellow. F: Then let's go to the mountains together sometime.",
+   "why": "Food is the woman's favorite; the man likes seeing the leaves change color most."
+  },
+  {
+   "type": "utterance",
+   "setup": "{友|とも}だちが{結婚|けっこん}しました。",
+   "lines": [],
+   "question": "{何|なに}と{言|い}いますか。",
+   "options": [
+    "ご{結婚|けっこん}、おめでとうございます。",
+    "ご{結婚|けっこん}、ありがとうございます。",
+    "ご{結婚|けっこん}、お{疲|つか}れさまでした。"
+   ],
+   "answer": 0,
+   "en": "Your friend got married. What do you say? 1. Congratulations on your marriage. 2. Thank you for your marriage. 3. Good work on your marriage.",
+   "why": "おめでとうございます is how you congratulate someone."
+  },
+  {
+   "type": "utterance",
+   "setup": "{友|とも}だちの{充電器|じゅうでんき}を{使|つか}いたいです。",
+   "lines": [],
+   "question": "{何|なに}と{言|い}いますか。",
+   "options": [
+    "{充電器|じゅうでんき}、{貸|か}してあげようか。",
+    "{充電器|じゅうでんき}、{借|か}りてもいい？",
+    "{充電器|じゅうでんき}、{借|か}りてくれる？"
+   ],
+   "answer": 1,
+   "en": "You want to use your friend's phone charger. What do you say? 1. Shall I lend you my charger? 2. Can I borrow your charger? 3. Will you borrow a charger for me?",
+   "why": "借りてもいい？ asks permission to borrow."
+  },
+  {
+   "type": "utterance",
+   "setup": "お{祭|まつ}りで、{知|し}らない{人|ひと}に{自分|じぶん}の{写真|しゃしん}をとってほしいです。",
+   "lines": [],
+   "question": "{何|なに}と{言|い}いますか。",
+   "options": [
+    "すみません、{写真|しゃしん}をとってもいいですか。",
+    "すみません、{写真|しゃしん}をとりましょうか。",
+    "すみません、{写真|しゃしん}をとっていただけませんか。"
+   ],
+   "answer": 2,
+   "en": "At a festival, you want a stranger to take your photo. What do you say? 1. Excuse me, may I take a photo? 2. Excuse me, shall I take a photo for you? 3. Excuse me, could you take a photo for me?",
+   "why": "～ていただけませんか politely asks someone to do something for you."
+  },
+  {
+   "type": "utterance",
+   "setup": "{電話|でんわ}で、{相手|あいて}の{声|こえ}がよく{聞|き}こえません。",
+   "lines": [],
+   "question": "{何|なに}と{言|い}いますか。",
+   "options": [
+    "すみません、もう{少|すこ}し{大|おお}きい{声|こえ}でお{願|ねが}いします。",
+    "すみません、もう{少|すこ}し{小|ちい}さい{声|こえ}で{話|はな}しましょうか。",
+    "すみません、よく{聞|き}いてください。"
+   ],
+   "answer": 0,
+   "en": "On the phone, you can't hear the other person well. What do you say? 1. Sorry, could you speak a little louder? 2. Sorry, shall I speak a little more quietly? 3. Sorry, please listen carefully.",
+   "why": "You ask the other person to speak louder."
+  },
+  {
+   "type": "utterance",
+   "setup": "{一月|いちがつ}{一日|ついたち}に、ホストファミリーのお{父|とう}さんに{会|あ}いました。",
+   "lines": [],
+   "question": "{何|なに}と{言|い}いますか。",
+   "options": [
+    "よいお{年|とし}を。",
+    "あけましておめでとうございます。",
+    "お{大事|だいじ}に。"
+   ],
+   "answer": 1,
+   "en": "On January 1st, you meet your host father. What do you say? 1. Have a good New Year (said before the New Year). 2. Happy New Year. 3. Take care of yourself (to someone sick).",
+   "why": "あけましておめでとうございます is the greeting after the New Year starts."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{結婚式|けっこんしき}の{写真|しゃしん}、{見|み}せてもらえますか。"
+    }
+   ],
+   "question": "",
+   "options": [
+    "ええ、どうぞ。",
+    "ええ、{見|み}せてもらいました。",
+    "いいえ、{見|み}ませんでした。"
+   ],
+   "answer": 0,
+   "en": "F: Could I see the wedding photos? 1. Sure, go ahead. 2. Yes, they showed them to me. 3. No, I didn't see them.",
+   "why": "She is asking to see the photos, so 'Sure, go ahead' fits."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "スマホの{電池|でんち}、もうすぐなくなりそう。"
+    }
+   ],
+   "question": "",
+   "options": [
+    "それはよかったね。",
+    "じゃ、{充電器|じゅうでんき}、{貸|か}そうか。",
+    "うん、ちょっと{多|おお}すぎるね。"
+   ],
+   "answer": 1,
+   "en": "M: My phone battery is about to die. 1. That's good. 2. Then shall I lend you a charger? 3. Yeah, it's a bit too much.",
+   "why": "Offering a charger is the natural reply to a dying battery."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{夏休|なつやす}みは、どこかへ{行|い}きましたか。"
+    }
+   ],
+   "question": "",
+   "options": [
+    "はい、どこへも{行|い}きませんでした。",
+    "いいえ、{海|うみ}へ{行|い}きました。",
+    "はい、{家族|かぞく}と{海|うみ}へ{行|い}きました。"
+   ],
+   "answer": 2,
+   "en": "F: Did you go anywhere in the summer holidays? 1. Yes, I didn't go anywhere. 2. No, I went to the sea. 3. Yes, I went to the sea with my family.",
+   "why": "Only 'Yes, I went to the sea with my family' matches はい/いいえ with the content."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "お{母|かあ}さんの{具合|ぐあい}はどうですか。"
+    }
+   ],
+   "question": "",
+   "options": [
+    "おかげさまで、だいぶよくなりました。",
+    "お{大事|だいじ}にしてください。",
+    "はい、どうぞよろしく。"
+   ],
+   "answer": 0,
+   "en": "M: How is your mother feeling? 1. Thank you, she's much better. 2. Please take care. 3. Yes, nice to meet you.",
+   "why": "He asks about her mother's health, so she answers how her mother is."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "このアプリ、どうやってダウンロードするか、わかる？"
+    }
+   ],
+   "question": "",
+   "options": [
+    "うん、ダウンロードしたことがないよ。",
+    "ううん、もう{知|し}ってるよ。",
+    "うん、ここを{押|お}せばいいよ。"
+   ],
+   "answer": 2,
+   "en": "F: Do you know how to download this app? 1. Yeah, I've never downloaded it. 2. No, I already know. 3. Yeah, you just press here.",
+   "why": "Only option 3 says yes and then explains how."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "お{正月|しょうがつ}は、{国|くに}へ{帰|かえ}るんですか。"
+    }
+   ],
+   "question": "",
+   "options": [
+    "いいえ、{帰|かえ}ってきました。",
+    "ええ、{久|ひさ}しぶりに{家族|かぞく}に{会|あ}います。",
+    "ええ、{日本|にほん}に{来|き}てよかったです。"
+   ],
+   "answer": 1,
+   "en": "M: Are you going back to your country for New Year? 1. No, I came back. 2. Yes, I'll see my family for the first time in a while. 3. Yes, I'm glad I came to Japan.",
+   "why": "Going home to see family answers the question."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "すみません、ここで{写真|しゃしん}をとってもいいですか。"
+    }
+   ],
+   "question": "",
+   "options": [
+    "はい、とってもらいました。",
+    "いいえ、とりませんでした。",
+    "すみません、ここはちょっと…。"
+   ],
+   "answer": 2,
+   "en": "F: Excuse me, may I take photos here? 1. Yes, someone took one for me. 2. No, I didn't take any. 3. Sorry, here is a bit... (not allowed).",
+   "why": "Option 3 is a polite way to say photos are not allowed."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{来週|らいしゅう}の{誕生日|たんじょうび}パーティー、{来|こ}られる？"
+    }
+   ],
+   "question": "",
+   "options": [
+    "うん、{来|き}てくれてありがとう。",
+    "ごめん、その{日|ひ}はちょっと{用事|ようじ}があるんだ。",
+    "うん、{来|こ}られてよかったね。"
+   ],
+   "answer": 1,
+   "en": "M: Can you come to the birthday party next week? 1. Yeah, thanks for coming. 2. Sorry, I have something to do that day. 3. Yeah, good that you could come.",
+   "why": "He asks if she can come; only option 2 answers that."
+  }
+ ]
+}
