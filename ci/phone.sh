@@ -50,6 +50,34 @@ shot 12_story_paused 2
 tap "Play"
 shot 13_story_resumed 3
 
+# Mock test: a full paper, each timed part, a listening question played once.
+start --es route test
+shot 20_mock_start 4
+tap "Start"
+shot 21_part1_intro 2
+tap "Begin"
+shot 22_vocab_q1 2
+python3 ci/ui.py texts > "$OUT/22_texts.txt" 2>&1 || true
+for _ in $(seq 1 27); do tap "Skip"; done
+shot 23_vocab_last 1
+tap "End this part"
+tap "Begin"
+shot 24_grammar_q1 2
+for _ in $(seq 1 16); do tap "Skip"; done
+shot 25_star 1
+for _ in $(seq 1 4); do tap "Skip"; done
+shot 26_text_grammar 1
+for _ in $(seq 1 8); do tap "Skip"; done
+tap "End this part"
+tap "Begin"
+shot 27_listening 2
+tap "Play"
+shot 28_listening_playing 4
+for _ in $(seq 1 27); do tap "Skip"; done
+tap "Finish"
+shot 29_results 3
+python3 ci/ui.py texts > "$OUT/29_texts.txt" 2>&1 || true
+
 adb logcat -d -b crash > "$OUT/crash.txt" || true
 adb logcat -d | grep -E "AndroidRuntime|FATAL|jlpt|justletmepass|PlaylistService|TextToSpeech" | tail -300 > "$OUT/log.txt" || true
 echo done
