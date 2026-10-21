@@ -41,7 +41,7 @@
   },
   {
    "type": "kanji_reading",
-   "q_raw": "趣味で古い切手を【集めて】います。",
+   "q_raw": "子どものころから古い切手を【集めて】います。",
    "options": [
     "まとめて",
     "あつめて",
@@ -49,7 +49,7 @@
     "ためて"
    ],
    "answer": 1,
-   "en": "I collect old stamps as a hobby."
+   "en": "I have collected old stamps since I was a child."
   },
   {
    "type": "kanji_reading",
@@ -173,7 +173,7 @@
   },
   {
    "type": "context",
-   "q": "{兄|あに}とは{年|とし}が{十歳|じゅっさい}も＿＿いるので、{一緒|いっしょ}に{遊|あそ}んだ{記憶|きおく}があまりない。",
+   "q": "{兄|あに}とは{年|とし}が{十歳|じゅっさい}も＿＿いるので、{一緒|いっしょ}に{出|で}かけた{記憶|きおく}があまりない。",
    "options": [
     "はなれて",
     "わかれて",
@@ -181,7 +181,7 @@
     "ずれて"
    ],
    "answer": 0,
-   "en": "My brother is ten years older than me, so I don't remember playing with him much."
+   "en": "My brother and I are ten years apart, so I don't remember going out together much."
   },
   {
    "type": "context",
@@ -197,7 +197,7 @@
   },
   {
    "type": "context",
-   "q": "{用紙|ようし}に{名前|なまえ}と{住所|じゅうしょ}を＿＿して、{窓口|まどぐち}に{出|だ}してください。",
+   "q": "{用紙|ようし}に{名前|なまえ}と{電話|でんわ}{番号|ばんごう}を＿＿して、{受付|うけつけ}に{出|だ}してください。",
    "options": [
     "{記録|きろく}",
     "{記入|きにゅう}",
@@ -205,7 +205,7 @@
     "{記念|きねん}"
    ],
    "answer": 1,
-   "en": "Fill in your name and address on the form and hand it in at the counter."
+   "en": "Fill in your name and phone number on the form and hand it in at reception."
   },
   {
    "type": "context",
@@ -286,7 +286,7 @@
     "{気分|きぶん}",
     "{調子|ちょうし}",
     "{腕|うで}",
-    "{力|ちから}"
+    "{頭|あたま}"
    ],
    "answer": 2,
    "en": "Since I started going to cooking classes, my cooking skills have improved."
@@ -295,7 +295,7 @@
    "type": "context",
    "q": "{毎朝|まいあさ}、{保育園|ほいくえん}に{子|こ}どもを＿＿から{会社|かいしゃ}へ{行|い}く。",
    "options": [
-    "{届|とど}けて",
+    "{渡|わた}して",
     "{預|あず}けて",
     "{任|まか}せて",
     "{貸|か}して"
@@ -378,16 +378,16 @@
   },
   {
    "type": "usage",
-   "q": "{届|とど}ける",
-   "word": "{届|とど}ける",
+   "q": "{間|ま}に{合|あ}う",
+   "word": "{間|ま}に{合|あ}う",
    "options": [
-    "{毎朝|まいあさ}{七時|しちじ}に{家|いえ}を{届|とど}けて{会社|かいしゃ}に{行|い}く。",
-    "{先週|せんしゅう}からひどい{風邪|かぜ}を{届|とど}けている。",
-    "{道|みち}で{拾|ひろ}った{財布|さいふ}を{交番|こうばん}に{届|とど}けた。",
-    "{友|とも}だちと{駅前|えきまえ}で{三時|さんじ}に{届|とど}けた。"
+    "この{服|ふく}は{私|わたし}のサイズに{間|ま}に{合|あ}わない。",
+    "{先週|せんしゅう}からひどい{風邪|かぜ}が{間|ま}に{合|あ}わない。",
+    "{急|いそ}いで{走|はし}ったので、{最終|さいしゅう}バスに{間|ま}に{合|あ}った。",
+    "{新|あたら}しい{靴|くつ}が{足|あし}に{間|ま}に{合|あ}って、{歩|ある}きやすい。"
    ],
    "answer": 2,
-   "en": "Correct: I handed in the wallet I found on the street at the police box."
+   "en": "Correct: I ran, so I made it in time for the last bus."
   },
   {
    "type": "usage",
@@ -765,7 +765,7 @@
  "reading": [
   {
    "type": "short",
-   "text": "{市民|しみん}の{皆様|みなさま}へ\n{家具|かぐ}や{自転車|じてんしゃ}などの{大|おお}きなごみ（{粗大|そだい}ごみ）は、{普通|ふつう}のごみの{日|ひ}には{出|だ}せません。{出|だ}したい{場合|ばあい}は、{出|だ}す{日|ひ}の{前|まえ}の{週|しゅう}の{金曜日|きんようび}までに、{電話|でんわ}かインターネットで{申|もう}し{込|こ}んでください。{申|もう}し{込|こ}みのあと、コンビニで「{粗大|そだい}ごみシール」を{買|か}い、ごみに{貼|は}ってから、{決|き}められた{日|ひ}の{朝|あさ}{八時|はちじ}までに{出|だ}してください。シールが{貼|は}っていないものは{持|も}っていきません。\nみどり{市役所|しやくしょ}　{環境課|かんきょうか}",
+   "text": "{市民|しみん}の{皆様|みなさま}へ\n{家具|かぐ}や{自転車|じてんしゃ}などの{大|おお}きなごみ（{粗大|そだい}ごみ）は、{普通|ふつう}のごみの{日|ひ}には{出|だ}せません。{出|だ}したい{場合|ばあい}は、{出|だ}す{日|ひ}の{前|まえ}の{週|しゅう}の{金曜日|きんようび}までに、{電話|でんわ}かインターネットで{申|もう}し{込|こ}んでください。{申|もう}し{込|こ}みのあと、コンビニで「{粗大|そだい}ごみシール」を{買|か}い、ごみに{貼|は}ってから、{決|き}められた{日|ひ}の{朝|あさ}{八時|はちじ}までに{出|だ}してください。シールが{貼|は}られていないものは{持|も}っていきません。\nみどり{市役所|しやくしょ}　{環境課|かんきょうか}",
    "en": "To all residents: Large rubbish such as furniture and bicycles cannot be put out on normal rubbish days. If you want to put it out, apply by phone or online by the Friday of the week before. After applying, buy a 'large rubbish sticker' at a convenience store, stick it on, and put the item out by 8 a.m. on the set day. Items without a sticker will not be collected. Midori City Hall, Environment Section.",
    "questions": [
     {

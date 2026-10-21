@@ -332,7 +332,7 @@
    "q": "{駅前|えきまえ}の{店|みせ}は【たいてい】{夜|よる}{九時|くじ}に{閉|し}まる。",
    "options": [
     "ほとんどいつも",
-    "かならず",
+    "ぜったいに",
     "ちょうど",
     "ときどき"
    ],
@@ -454,7 +454,7 @@
    "q": "{田中|たなか}さんは{入社|にゅうしゃ}した＿＿なので、まだ{仕事|しごと}に{慣|な}れていない。",
    "options": [
     "ほど",
-    "はず",
+    "うち",
     "ばかり",
     "まま"
    ],
@@ -597,7 +597,7 @@
     3,
     0
    ],
-   "star": 2,
+   "star": 3,
    "en": "Thinking about the Earth, I try to make less garbage.",
    "why": "{考|かんが}えて follows のことを, ごみを is the object of {少|すく}なくする, and ように comes right before している."
   },
@@ -637,7 +637,7 @@
     0,
     1
    ],
-   "star": 2,
+   "star": 0,
    "en": "This town's festival is supported by many residents.",
    "why": "{多|おお}くの must come before a noun ({住民|じゅうみん}), に marks who does the supporting, and {支|ささ}えられて joins います."
   },
@@ -677,7 +677,7 @@
     0,
     2
    ],
-   "star": 2,
+   "star": 1,
    "en": "My job is to tell everyone what was decided at the meeting.",
    "why": "{決|き}まった needs a noun (こと), {全員|ぜんいん}に and ことを go with {伝|つた}える, and のが turns the phrase into the subject."
   },
@@ -692,7 +692,7 @@
       "そのうえ",
       "それなら",
       "そのとき",
-      "それでも"
+      "ところで"
      ],
      "answer": 2
     },
@@ -701,7 +701,7 @@
      "options": [
       "{話|はな}しかけてあげました",
       "{話|はな}しかけてくれました",
-      "{話|はな}しかけられました",
+      "{話|はな}しかけてもらいました",
       "{話|はな}しかけさせました"
      ],
      "answer": 1
@@ -709,7 +709,7 @@
     {
      "q": "（３）",
      "options": [
-      "ほど",
+      "しか",
       "だけ",
       "まで",
       "より"
@@ -1535,7 +1535,7 @@
    "options": [
     "ありがとうございます。では、お{先|さき}に{失礼|しつれい}します。",
     "いえ、{早|はや}く{帰|かえ}ってください。",
-    "はい、お{疲|つか}れさまでした。"
+    "はい、{早|はや}く{帰|かえ}ってもいいです。"
    ],
    "answer": 0,
    "en": "M: You can go home early today.",
