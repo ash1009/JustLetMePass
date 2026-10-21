@@ -233,15 +233,15 @@
   },
   {
    "type": "context",
-   "q": "このサイトは、{名前|なまえ}とメールアドレスを＿＿だけで{使|つか}えます。",
+   "q": "{旅行|りょこう}の{前|まえ}に、インターネットでホテルの{部屋|へや}を＿＿しました。",
    "options": [
-    "{予約|よやく}する",
-    "{注文|ちゅうもん}する",
-    "{登録|とうろく}する",
-    "{出発|しゅっぱつ}する"
+    "{注文|ちゅうもん}",
+    "{案内|あんない}",
+    "{予約|よやく}",
+    "{出発|しゅっぱつ}"
    ],
    "answer": 2,
-   "en": "You can use this site just by registering your name and email address."
+   "en": "Before the trip, I booked a hotel room on the internet."
   },
   {
    "type": "paraphrase",
