@@ -1,0 +1,1509 @@
+{
+ "id": "m4-03",
+ "level": 4,
+ "title_en": "N4 practice test 3",
+ "vocab": [
+  {
+   "type": "kanji_reading",
+   "q_raw": "電車が【遅れて】、会議に間に合いませんでした。",
+   "options": [
+    "おそれて",
+    "おこれて",
+    "おくれて",
+    "おぐれて"
+   ],
+   "answer": 2,
+   "en": "The train was late, so I didn't make it to the meeting."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "ホテルの【受付】で部屋の鍵をもらいました。",
+   "options": [
+    "うけつけ",
+    "うけづけ",
+    "じゅつけ",
+    "うけとり"
+   ],
+   "answer": 0,
+   "en": "I got the room key at the hotel reception."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "駅員が出口まで【案内】してくれました。",
+   "options": [
+    "あんだい",
+    "あない",
+    "あんねい",
+    "あんない"
+   ],
+   "answer": 3,
+   "en": "A station worker showed me the way to the exit."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "【特急】に乗れば、一時間で着きます。",
+   "options": [
+    "とくきゅう",
+    "とっきゅう",
+    "とっきょう",
+    "とくきょう"
+   ],
+   "answer": 1,
+   "en": "If you take the limited express, you will arrive in one hour."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "京都で家族にお【土産】を買いました。",
+   "options": [
+    "みあげ",
+    "みやけ",
+    "みやげ",
+    "みあけ"
+   ],
+   "answer": 2,
+   "en": "I bought souvenirs for my family in Kyoto."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "飛行機は九時に【出発】します。",
+   "options": [
+    "しゅっぱつ",
+    "しゅうばつ",
+    "しゅっぱち",
+    "しゅぱつ"
+   ],
+   "answer": 0,
+   "en": "The plane leaves at nine."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "この【旅館】は部屋から見える山がとてもきれいです。",
+   "options": [
+    "りょうかん",
+    "りょがん",
+    "りょうがん",
+    "りょかん"
+   ],
+   "answer": 3,
+   "en": "From the rooms of this Japanese inn, the mountains look very beautiful."
+  },
+  {
+   "type": "orthography",
+   "q": "{来週|らいしゅう}のホテルを【よやく】しました。",
+   "options_raw": [
+    "予役",
+    "予約",
+    "預約",
+    "余約"
+   ],
+   "answer": 1,
+   "en": "I booked a hotel for next week."
+  },
+  {
+   "type": "orthography",
+   "q": "{駅|えき}で【きっぷ】を{買|か}いました。",
+   "options_raw": [
+    "切付",
+    "切府",
+    "切夫",
+    "切符"
+   ],
+   "answer": 3,
+   "en": "I bought a ticket at the station."
+  },
+  {
+   "type": "orthography",
+   "q": "{昨日|きのう}は{古|ふる}いホテルに【とまりました】。",
+   "options_raw": [
+    "泊まりました",
+    "止まりました",
+    "白まりました",
+    "伯まりました"
+   ],
+   "answer": 0,
+   "en": "Yesterday I stayed at an old hotel."
+  },
+  {
+   "type": "orthography",
+   "q": "{重|おも}い【にもつ】を{持|も}って{駅|えき}まで{歩|ある}きました。",
+   "options_raw": [
+    "荷持",
+    "苛物",
+    "荷物",
+    "何物"
+   ],
+   "answer": 2,
+   "en": "I walked to the station carrying heavy luggage."
+  },
+  {
+   "type": "orthography",
+   "q": "{夏休|なつやす}みに{家族|かぞく}と【りょこう】します。",
+   "options_raw": [
+    "旅交",
+    "旅行",
+    "族行",
+    "旅航"
+   ],
+   "answer": 1,
+   "en": "I will travel with my family in the summer holidays."
+  },
+  {
+   "type": "context",
+   "q": "{雨|あめ}で{電車|でんしゃ}が{三十分|さんじゅっぷん}＿＿しまいました。",
+   "options": [
+    "すいて",
+    "ならんで",
+    "こんで",
+    "おくれて"
+   ],
+   "answer": 3,
+   "en": "Because of the rain, the train was thirty minutes late."
+  },
+  {
+   "type": "context",
+   "q": "ホテルの{部屋|へや}は{駅|えき}から{近|ちか}くて、とても＿＿でした。",
+   "options": [
+    "べんり",
+    "じょうぶ",
+    "ていねい",
+    "まじめ"
+   ],
+   "answer": 0,
+   "en": "The hotel room was close to the station and very convenient."
+  },
+  {
+   "type": "context",
+   "q": "{空港|くうこう}へ{行|い}くバスは、この＿＿から{出|で}ます。",
+   "options": [
+    "{受付|うけつけ}",
+    "{会場|かいじょう}",
+    "{乗|の}り{場|ば}",
+    "{売|う}り{場|ば}"
+   ],
+   "answer": 2,
+   "en": "The bus to the airport leaves from this bus stop."
+  },
+  {
+   "type": "context",
+   "q": "{友|とも}だちに{旅行|りょこう}の{写真|しゃしん}を＿＿あげました。",
+   "options": [
+    "{見|み}つけて",
+    "{見|み}せて",
+    "{見|み}えて",
+    "{見|み}つかって"
+   ],
+   "answer": 1,
+   "en": "I showed my friend the photos from my trip."
+  },
+  {
+   "type": "context",
+   "q": "{旅行|りょこう}の{最後|さいご}の{日|ひ}に、この{町|まち}の＿＿として{栗|くり}のおかしを{買|か}いました。",
+   "options": [
+    "おみやげ",
+    "おまつり",
+    "おみまい",
+    "おいわい"
+   ],
+   "answer": 0,
+   "en": "On the last day of the trip, I bought chestnut sweets as a souvenir of this town."
+  },
+  {
+   "type": "context",
+   "q": "{次|つぎ}の{駅|えき}で{急行|きゅうこう}に＿＿ください。",
+   "options": [
+    "{降|お}りて",
+    "{通|とお}って",
+    "{渡|わた}って",
+    "{乗|の}り{換|か}えて"
+   ],
+   "answer": 3,
+   "en": "Please change to the express train at the next station."
+  },
+  {
+   "type": "context",
+   "q": "{夏休|なつやす}みは{客|きゃく}が{多|おお}いので、ホテルの{料金|りょうきん}がいつもより＿＿です。",
+   "options": [
+    "おもい",
+    "おそい",
+    "たかい",
+    "ふかい"
+   ],
+   "answer": 2,
+   "en": "In the summer holidays there are many guests, so hotel prices are higher than usual."
+  },
+  {
+   "type": "context",
+   "q": "{道|みち}が＿＿ので、タクシーより{電車|でんしゃ}のほうが{早|はや}いですよ。",
+   "options": [
+    "すいている",
+    "こんでいる",
+    "あいている",
+    "ひろい"
+   ],
+   "answer": 1,
+   "en": "The roads are crowded, so the train is faster than a taxi."
+  },
+  {
+   "type": "paraphrase",
+   "q": "{電車|でんしゃ}は【もうすぐ】{着|つ}きます。",
+   "options": [
+    "{少|すこ}し{前|まえ}に",
+    "まだまだ",
+    "{少|すこ}しあとで",
+    "ずっとあとで"
+   ],
+   "answer": 2,
+   "en": "The train will arrive soon."
+  },
+  {
+   "type": "paraphrase",
+   "q": "{今|いま}、{旅行|りょこう}の【したく】をしています。",
+   "options": [
+    "{準備|じゅんび}",
+    "{予定|よてい}",
+    "{説明|せつめい}",
+    "{相談|そうだん}"
+   ],
+   "answer": 0,
+   "en": "I am getting ready for my trip now."
+  },
+  {
+   "type": "paraphrase",
+   "q": "{朝|あさ}の{電車|でんしゃ}は【すいていました】。",
+   "options": [
+    "{人|ひと}が{多|おお}かったです",
+    "{遅|おく}れていました",
+    "{早|はや}く{着|つ}きました",
+    "{人|ひと}が{少|すく}なかったです"
+   ],
+   "answer": 3,
+   "en": "The morning train was not crowded."
+  },
+  {
+   "type": "paraphrase",
+   "q": "{母|はは}に{旅行|りょこう}のお{土産|みやげ}を【わたしました】。",
+   "options": [
+    "もらいました",
+    "あげました",
+    "{買|か}いました",
+    "{送|おく}りました"
+   ],
+   "answer": 1,
+   "en": "I handed my mother a souvenir from my trip."
+  },
+  {
+   "type": "usage",
+   "word": "{乗|の}り{換|か}える",
+   "options": [
+    "{東京駅|とうきょうえき}で{新幹線|しんかんせん}に{乗|の}り{換|か}えます。",
+    "{毎朝|まいあさ}、{服|ふく}を{乗|の}り{換|か}えてから{出|で}かけます。",
+    "{雨|あめ}がやんだので、かさを{乗|の}り{換|か}えました。",
+    "{部屋|へや}の{電気|でんき}を{乗|の}り{換|か}えてください。"
+   ],
+   "answer": 0,
+   "en": "to change (trains etc.): I change to the shinkansen at Tokyo Station."
+  },
+  {
+   "type": "usage",
+   "word": "{泊|と}まる",
+   "options": [
+    "{雨|あめ}がやっと{泊|と}まりました。",
+    "{時計|とけい}が{泊|と}まってしまいました。",
+    "{今夜|こんや}は{友|とも}だちの{家|いえ}に{泊|と}まります。",
+    "{車|くるま}が{家|いえ}の{前|まえ}に{泊|と}まっています。"
+   ],
+   "answer": 2,
+   "en": "to stay the night: Tonight I will stay at a friend's house."
+  },
+  {
+   "type": "usage",
+   "word": "{間|ま}に{合|あ}う",
+   "options": [
+    "このくつは{私|わたし}の{足|あし}に{間|ま}に{合|あ}います。",
+    "{走|はし}ったので、{最後|さいご}の{電車|でんしゃ}に{間|ま}に{合|あ}いました。",
+    "{駅|えき}で{昔|むかし}の{友|とも}だちに{間|ま}に{合|あ}いました。",
+    "この{料理|りょうり}はビールによく{間|ま}に{合|あ}います。"
+   ],
+   "answer": 1,
+   "en": "to be in time: I ran, so I made it in time for the last train."
+  },
+  {
+   "type": "usage",
+   "word": "めずらしい",
+   "options": [
+    "{毎日|まいにち}{食|た}べるので、パンはめずらしいです。",
+    "{明日|あした}はテストなので、めずらしいです。",
+    "この{部屋|へや}はめずらしいので、{掃除|そうじ}が{大変|たいへん}です。",
+    "この{店|みせ}には、ほかの{店|みせ}にないめずらしいお{土産|みやげ}があります。"
+   ],
+   "answer": 3,
+   "en": "rare, unusual: This shop has unusual souvenirs that other shops don't have."
+  }
+ ],
+ "grammar": [
+  {
+   "type": "form",
+   "q": "{駅|えき}に{着|つ}いた＿＿、{電車|でんしゃ}はもう{出|で}ていました。",
+   "options": [
+    "ので",
+    "とき",
+    "ながら",
+    "まで"
+   ],
+   "answer": 1,
+   "en": "When I arrived at the station, the train had already left."
+  },
+  {
+   "type": "form",
+   "q": "ホテルの{人|ひと}に{駅|えき}までの{道|みち}を{教|おし}えて＿＿。",
+   "options": [
+    "くれました",
+    "あげました",
+    "やりました",
+    "もらいました"
+   ],
+   "answer": 3,
+   "en": "I had the hotel staff tell me the way to the station."
+  },
+  {
+   "type": "form",
+   "q": "{父|ちち}は{旅行|りょこう}の{写真|しゃしん}を{見|み}＿＿、{昔|むかし}の{話|はなし}をしました。",
+   "options": [
+    "ながら",
+    "たら",
+    "ても",
+    "のに"
+   ],
+   "answer": 0,
+   "en": "My father talked about the old days while looking at the travel photos."
+  },
+  {
+   "type": "form",
+   "q": "{次|つぎ}の{旅行|りょこう}では、{北海道|ほっかいどう}へ{行|い}って＿＿と{思|おも}っています。",
+   "options": [
+    "いる",
+    "ある",
+    "みよう",
+    "しまう"
+   ],
+   "answer": 2,
+   "en": "On my next trip, I am thinking of trying going to Hokkaido."
+  },
+  {
+   "type": "form",
+   "q": "{新|あたら}しいホテルは{部屋|へや}も{広|ひろ}い＿＿、{朝|あさ}ご{飯|はん}もおいしいです。",
+   "options": [
+    "から",
+    "のに",
+    "し",
+    "ので"
+   ],
+   "answer": 2,
+   "en": "The new hotel has big rooms, and the breakfast is tasty too."
+  },
+  {
+   "type": "form",
+   "q": "ホテルの{部屋|へや}で、{窓|まど}を{開|あ}けた＿＿{寝|ね}てしまいました。",
+   "options": [
+    "まま",
+    "ながら",
+    "あいだ",
+    "うちに"
+   ],
+   "answer": 0,
+   "en": "In the hotel room, I fell asleep with the window open."
+  },
+  {
+   "type": "form",
+   "q": "この{駅|えき}には{各駅停車|かくえきていしゃ}＿＿{止|と}まりません。",
+   "options": [
+    "だけ",
+    "まで",
+    "ほど",
+    "しか"
+   ],
+   "answer": 3,
+   "en": "Only local trains stop at this station."
+  },
+  {
+   "type": "form",
+   "q": "{明日|あした}は{朝|あさ}{早|はや}い{電車|でんしゃ}に{乗|の}る＿＿、{今夜|こんや}は{早|はや}く{寝|ね}ます。",
+   "options": [
+    "のに",
+    "ために",
+    "ばかり",
+    "ところ"
+   ],
+   "answer": 1,
+   "en": "I'm going to bed early tonight so that I can catch an early train tomorrow."
+  },
+  {
+   "type": "form",
+   "q": "{先生|せんせい}、{京都|きょうと}のお{土産|みやげ}です。どうぞ＿＿ください。",
+   "options": [
+    "{召|め}し{上|あ}がって",
+    "いただいて",
+    "{参|まい}って",
+    "お{目|め}にかかって"
+   ],
+   "answer": 0,
+   "en": "Teacher, this is a souvenir from Kyoto. Please have some."
+  },
+  {
+   "type": "form",
+   "q": "（ホテルの{受付|うけつけ}で）すみません、この{近|ちか}くにコンビニは＿＿か。",
+   "options": [
+    "いらっしゃいます",
+    "おります",
+    "ございます",
+    "まいります"
+   ],
+   "answer": 2,
+   "en": "(At hotel reception) Excuse me, is there a convenience store near here?"
+  },
+  {
+   "type": "form",
+   "q": "{駅|えき}に{着|つ}いたら、{電話|でんわ}を＿＿。{車|くるま}で{迎|むか}えに{行|い}きますから。",
+   "options": [
+    "しておきました",
+    "しなくてもいいです",
+    "したことがあります",
+    "してください"
+   ],
+   "answer": 3,
+   "en": "Please call me when you get to the station. I'll come and pick you up by car."
+  },
+  {
+   "type": "form",
+   "q": "{空|そら}が{暗|くら}くなってきました。{雨|あめ}が{降|ふ}り＿＿ですから、かさを{持|も}って{行|い}きましょう。",
+   "options": [
+    "らしい",
+    "そう",
+    "よう",
+    "みたい"
+   ],
+   "answer": 1,
+   "en": "The sky has got dark. It looks like it's going to rain, so let's take an umbrella."
+  },
+  {
+   "type": "form",
+   "q": "この{旅館|りょかん}は{人気|にんき}があるので、{三|さん}か{月|げつ}{前|まえ}に{予約|よやく}し＿＿{泊|と}まれません。",
+   "options": [
+    "ないと",
+    "なくて",
+    "ながら",
+    "たら"
+   ],
+   "answer": 0,
+   "en": "This inn is popular, so you can't stay unless you book three months ahead."
+  },
+  {
+   "type": "star",
+   "before": "{私|わたし}は",
+   "after": "があります。",
+   "pieces": [
+    "{泊|と}まった",
+    "こと",
+    "{有名|ゆうめい}な",
+    "{旅館|りょかん}に"
+   ],
+   "order": [
+    2,
+    3,
+    0,
+    1
+   ],
+   "star": 1,
+   "en": "I have stayed at a famous ryokan.",
+   "why": "{有名|ゆうめい}な describes {旅館|りょかん}, then {泊|と}まった + こと before があります."
+  },
+  {
+   "type": "star",
+   "before": "{駅|えき}で{電車|でんしゃ}を",
+   "after": "、{友|とも}だちから{電話|でんわ}が{来|き}ました。",
+   "pieces": [
+    "いる",
+    "に",
+    "{待|ま}って",
+    "{間|あいだ}"
+   ],
+   "order": [
+    2,
+    0,
+    3,
+    1
+   ],
+   "star": 1,
+   "en": "While I was waiting for the train at the station, a friend called me.",
+   "why": "{待|ま}っている + {間|あいだ}に means 'while waiting'."
+  },
+  {
+   "type": "star",
+   "before": "{電車|でんしゃ}に",
+   "after": "ください。",
+   "pieces": [
+    "ように",
+    "{乗|の}り",
+    "{気|き}をつけて",
+    "{遅|おく}れない"
+   ],
+   "order": [
+    1,
+    3,
+    0,
+    2
+   ],
+   "star": 3,
+   "en": "Please be careful not to miss the train.",
+   "why": "{乗|の}り{遅|おく}れる is one verb; ～ないように{気|き}をつけてください means 'be careful not to'."
+  },
+  {
+   "type": "star",
+   "before": "{台風|たいふう}なので、{明日|あした}の{電車|でんしゃ}が",
+   "after": "まだわかりません。",
+   "pieces": [
+    "{動|うご}く",
+    "どうか",
+    "か",
+    "は"
+   ],
+   "order": [
+    0,
+    2,
+    1,
+    3
+   ],
+   "star": 2,
+   "en": "Because of the typhoon, we don't know yet whether the trains will run tomorrow.",
+   "why": "～かどうかは means 'whether or not'; は comes after the whole phrase."
+  },
+  {
+   "type": "text",
+   "passage": "{先週|せんしゅう}、{友|とも}だちと{京都|きょうと}へ{旅行|りょこう}に{行|い}きました。{朝|あさ}{七時|しちじ}の{新幹線|しんかんせん}に{乗|の}る{予定|よてい}でしたが、{雪|ゆき}で{電車|でんしゃ}が{二時間|にじかん}も{遅|おく}れました。（１）、{京都|きょうと}に{着|つ}いたのは{十二時|じゅうにじ}ごろでした。\n{京都|きょうと}では、{古|ふる}いお{寺|てら}や{神社|じんじゃ}を{見|み}ました。{夜|よる}は{旅館|りょかん}に{泊|と}まりました。{旅館|りょかん}の{人|ひと}はとても{親切|しんせつ}で、{町|まち}の{地図|ちず}を（２）。\n{最後|さいご}の{日|ひ}に、{家族|かぞく}へのお{土産|みやげ}を{買|か}いに{行|い}きました。{店|みせ}にはおかしやはしなど、いろいろなものがあって、なかなか（３）。{私|わたし}は{母|はは}にきれいなはしを{買|か}いました。{来週|らいしゅう}{家|いえ}に{帰|かえ}るときにわたすつもりです。{母|はは}が{喜|よろこ}んで（４）うれしいです。",
+   "en": "Last week I went on a trip to Kyoto with a friend. We planned to take the 7 a.m. shinkansen, but the train was two hours late because of snow. (1) So we arrived in Kyoto at about twelve.\nIn Kyoto we saw old temples and shrines. At night we stayed at a ryokan. The staff were very kind and (2) gave us a map of the town.\nOn the last day, I went to buy souvenirs for my family. The shop had many things like sweets and chopsticks, so I (3) couldn't decide easily. I bought my mother some pretty chopsticks. I plan to give them to her when I go home next week. I'll be happy (4) if she likes them.",
+   "questions": [
+    {
+     "q": "（１）",
+     "options": [
+      "しかし",
+      "それに",
+      "それで",
+      "または"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "（２）",
+     "options": [
+      "くれました",
+      "あげました",
+      "もらいました",
+      "いただきました"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "（３）",
+     "options": [
+      "{決|き}めました",
+      "{決|き}めたいです",
+      "{決|き}められます",
+      "{決|き}められませんでした"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "（４）",
+     "options": [
+      "くれて",
+      "くれたら",
+      "くれても",
+      "くれるので"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ],
+ "reading": [
+  {
+   "type": "short",
+   "text": "{田中|たなか}さんへ\n{部長|ぶちょう}から{電話|でんわ}がありました。{大阪|おおさか}からの{新幹線|しんかんせん}が{事故|じこ}で{止|と}まっているので、{会社|かいしゃ}に{戻|もど}るのは{夕方|ゆうがた}になるそうです。{今日|きょう}{三時|さんじ}の{会議|かいぎ}は、{明日|あした}の{朝|あさ}{十時|じゅうじ}にしてほしいと{言|い}っていました。{会議室|かいぎしつ}の{予約|よやく}を{変|か}えておいてください。{会議|かいぎ}に{出|で}る{人|ひと}たちには、{私|わたし}がもうメールで{知|し}らせました。\n{山下|やました}　10{月|がつ}21{日|にち}　{午後|ごご}1{時|じ}",
+   "en": "To Mr. Tanaka\nThe department manager called. The shinkansen from Osaka has stopped because of an accident, so he will not be back at the office until the evening. He said he would like today's 3 o'clock meeting to be moved to 10 a.m. tomorrow. Please change the meeting room booking. I have already told the people at the meeting by email.\nYamashita, October 21, 1 p.m.",
+   "questions": [
+    {
+     "q": "{田中|たなか}さんは{何|なに}をしなければなりませんか。",
+     "options": [
+      "{会議|かいぎ}に{出|で}る{人|ひと}たちにメールを{送|おく}る",
+      "{会議室|かいぎしつ}の{予約|よやく}を{明日|あした}の{朝|あさ}に{変|か}える",
+      "{今日|きょう}{三時|さんじ}の{会議|かいぎ}に{出|で}る",
+      "{大阪|おおさか}へ{部長|ぶちょう}を{迎|むか}えに{行|い}く"
+     ],
+     "answer": 1,
+     "why": "The memo asks Tanaka to change the meeting room booking; Yamashita already sent the emails."
+    }
+   ]
+  },
+  {
+   "type": "short",
+   "text": "{日本|にほん}では、{旅行|りょこう}に{行|い}くと、{会社|かいしゃ}の{人|ひと}や{友|とも}だちにお{土産|みやげ}を{買|か}う{人|ひと}が{多|おお}いです。{私|わたし}も{日本|にほん}の{会社|かいしゃ}で{働|はたら}きはじめたころは、{何|なに}を{買|か}えばいいかわからなくて{困|こま}りました。{今|いま}は、{一|ひと}つずつ{小|ちい}さい{袋|ふくろ}に{入|はい}っているおかしを{買|か}うようにしています。{少|すこ}し{高|たか}いですが、{会社|かいしゃ}でみんなに{配|くば}りやすいからです。",
+   "en": "In Japan, many people buy souvenirs for coworkers and friends when they go on a trip. When I started working at a Japanese company, I also didn't know what to buy and had trouble. Now I make sure to buy sweets that come one by one in small bags. They are a little expensive, but they are easy to hand out to everyone at work.",
+   "questions": [
+    {
+     "q": "この{人|ひと}はどうしてそのおかしを{買|か}いますか。",
+     "options": [
+      "{値段|ねだん}が{安|やす}いから",
+      "{有名|ゆうめい}なおかしだから",
+      "{袋|ふくろ}がきれいだから",
+      "みんなに{配|くば}りやすいから"
+     ],
+     "answer": 3,
+     "why": "The writer says the sweets are easy to hand out to everyone at work."
+    }
+   ]
+  },
+  {
+   "type": "short",
+   "text": "お{知|し}らせ\n10{月|がつ}25{日|にち}（{土|ど}）は、{線路|せんろ}の{工事|こうじ}のため、{朝|あさ}5{時|じ}から9{時|じ}まで、{南駅|みなみえき}と{山田駅|やまだえき}の{間|あいだ}の{電車|でんしゃ}が{止|と}まります。この{時間|じかん}は、{南駅|みなみえき}の{駅前|えきまえ}から{山田駅|やまだえき}までバスが{出|で}ます。バスは{電車|でんしゃ}より30{分|ぷん}ぐらい{多|おお}くかかりますので、{早|はや}めにお{出|で}かけください。\nみどり{鉄道|てつどう}",
+   "en": "Notice\nOn Saturday, October 25, because of track work, trains between Minami Station and Yamada Station will not run from 5 a.m. to 9 a.m. During this time, buses will run from in front of Minami Station to Yamada Station. The bus takes about 30 minutes longer than the train, so please leave early.\nMidori Railway",
+   "questions": [
+    {
+     "q": "25{日|にち}の{朝|あさ}7{時|じ}に{南駅|みなみえき}から{山田駅|やまだえき}へ{行|い}きたい{人|ひと}は、どうしますか。",
+     "options": [
+      "{南駅|みなみえき}の{前|まえ}からバスに{乗|の}る",
+      "いつもと{同|おな}じように{電車|でんしゃ}に{乗|の}る",
+      "{山田駅|やまだえき}で{電車|でんしゃ}に{乗|の}りかえる",
+      "{南駅|みなみえき}からタクシーに{乗|の}る"
+     ],
+     "answer": 0,
+     "why": "Trains do not run from 5 to 9, and the notice says to take the bus from in front of Minami Station."
+    }
+   ]
+  },
+  {
+   "type": "mid",
+   "text": "{去年|きょねん}の{冬|ふゆ}、{私|わたし}は{一人|ひとり}で{北海道|ほっかいどう}へ{旅行|りょこう}に{行|い}きました。{日本|にほん}に{来|き}てから、{初|はじ}めての{一人旅|ひとりたび}でした。\n{二日目|ふつかめ}、{札幌|さっぽろ}から{小樽|おたる}という{町|まち}へ{電車|でんしゃ}で{行|い}くことにしました。しかし、{駅|えき}に{着|つ}くと、{大雪|おおゆき}のため、{電車|でんしゃ}が{止|と}まっていました。{駅|えき}のアナウンスは{速|はや}くて、{私|わたし}にはよくわかりませんでした。どうしたらいいかわからなくて{困|こま}っていると、{隣|となり}にいたおばあさんが「{電車|でんしゃ}は{一時間|いちじかん}ぐらいで{動|うご}くそうですよ。{待|ま}つ{間|あいだ}、あそこの{喫茶店|きっさてん}で{温|あたた}かいものでも{飲|の}みましょう」と{言|い}ってくれました。\n{喫茶店|きっさてん}で、おばあさんは{小樽|おたる}のおすすめの{店|みせ}を{教|おし}えてくれました。{私|わたし}が{国|くに}の{家族|かぞく}にお{土産|みやげ}を{買|か}いたいと{言|い}うと、ガラスの{店|みせ}がいいと{言|い}って、{地図|ちず}もかいてくれました。\n{電車|でんしゃ}は、{結局|けっきょく}{予定|よてい}より{一時間半|いちじかんはん}{遅|おく}れて{出発|しゅっぱつ}しました。{小樽|おたる}で、{私|わたし}は{教|おし}えてもらった{店|みせ}に{行|い}って、{母|はは}にガラスのコップを{買|か}いました。{電車|でんしゃ}が{遅|おく}れたのは{大変|たいへん}でしたが、そのおかげで、{旅行|りょこう}でいちばんいい{思|おも}い{出|で}ができました。",
+   "en": "Last winter I went to Hokkaido alone. It was my first solo trip since coming to Japan.\nOn the second day, I decided to go by train from Sapporo to a town called Otaru. But when I got to the station, the trains had stopped because of heavy snow. The station announcement was fast and I couldn't understand it well. While I was at a loss, an old woman next to me said, \"I hear the trains will move in about an hour. While we wait, let's have something warm to drink at that cafe.\"\nAt the cafe, she told me about good shops in Otaru. When I said I wanted to buy souvenirs for my family back home, she said a glass shop would be good and even drew me a map.\nIn the end, the train left an hour and a half later than planned. In Otaru I went to the shop she told me about and bought my mother a glass cup. The delay was hard, but thanks to it, I got the best memory of my trip.",
+   "questions": [
+    {
+     "q": "{駅|えき}で、「{私|わたし}」はどうして{困|こま}っていましたか。",
+     "options": [
+      "{切符|きっぷ}をなくしたから",
+      "{小樽|おたる}への{行|い}き{方|かた}を{忘|わす}れたから",
+      "アナウンスがよくわからなかったから",
+      "{喫茶店|きっさてん}が{閉|し}まっていたから"
+     ],
+     "answer": 2,
+     "why": "The writer could not understand the fast announcement and did not know what to do."
+    },
+    {
+     "q": "{電車|でんしゃ}は{予定|よてい}よりどのぐらい{遅|おく}れて{出発|しゅっぱつ}しましたか。",
+     "options": [
+      "{一時間|いちじかん}",
+      "{一時間半|いちじかんはん}",
+      "{二時間|にじかん}",
+      "{三十分|さんじゅっぷん}"
+     ],
+     "answer": 1,
+     "why": "The old woman guessed one hour, but the train actually left an hour and a half late."
+    },
+    {
+     "q": "「いちばんいい{思|おも}い{出|で}」とは、どんなことですか。",
+     "options": [
+      "{大雪|おおゆき}の{中|なか}で{一人|ひとり}で{電車|でんしゃ}を{待|ま}ったこと",
+      "{初|はじ}めて{一人|ひとり}で{北海道|ほっかいどう}へ{行|い}ったこと",
+      "{小樽|おたる}の{店|みせ}を{自分|じぶん}で{見|み}つけたこと",
+      "{親切|しんせつ}なおばあさんに{会|あ}って、いろいろ{教|おし}えてもらったこと"
+     ],
+     "answer": 3,
+     "why": "Thanks to the delay, the writer met the kind old woman, who helped a lot."
+    }
+   ]
+  },
+  {
+   "type": "info",
+   "text": "さくらホテル　{宿泊|しゅくはく}プラン（{一人|ひとり}{一泊|いっぱく}）\nＡ　{食事|しょくじ}なし　6,000{円|えん}\nＢ　{朝|あさ}ご{飯|はん}つき　7,000{円|えん}\nＣ　{朝|あさ}ご{飯|はん}・{晩|ばん}ご{飯|はん}つき　10,000{円|えん}\nＤ　{朝|あさ}ご{飯|はん}つき・{駅|えき}とホテルの{間|あいだ}のバスつき　8,000{円|えん}\n※{土曜日|どようび}の{夜|よる}は、どのプランも{一人|ひとり}1,000{円|えん}{高|たか}くなります。\n※{小学生|しょうがくせい}は{半分|はんぶん}の{料金|りょうきん}です。（{土曜日|どようび}は{使|つか}えません）\n※バスは{午後|ごご}3{時|じ}から7{時|じ}まで、30{分|ぷん}ごとに{駅|えき}を{出|で}ます。",
+   "en": "Sakura Hotel - room plans (per person, per night)\nA: no meals 6,000 yen\nB: with breakfast 7,000 yen\nC: with breakfast and dinner 10,000 yen\nD: with breakfast and the bus between the station and the hotel 8,000 yen\n* On Saturday nights, every plan costs 1,000 yen more per person.\n* Elementary school children pay half price. (Not on Saturdays)\n* The bus leaves the station every 30 minutes from 3 p.m. to 7 p.m.",
+   "questions": [
+    {
+     "q": "リンさんは{土曜日|どようび}の{夜|よる}に{一人|ひとり}で{泊|と}まります。{朝|あさ}ご{飯|はん}を{食|た}べたいです。{駅|えき}からホテルまでバスで{行|い}きたいです。いくらですか。",
+     "options": [
+      "9,000{円|えん}",
+      "8,000{円|えん}",
+      "7,000{円|えん}",
+      "10,000{円|えん}"
+     ],
+     "answer": 0,
+     "why": "Plan D is 8,000 yen, plus 1,000 yen on Saturday night."
+    },
+    {
+     "q": "{山田|やまだ}さんは{金曜日|きんようび}の{夜|よる}に、{小学生|しょうがくせい}の{子|こ}どもと{二人|ふたり}で{泊|と}まります。{朝|あさ}ご{飯|はん}と{晩|ばん}ご{飯|はん}を{食|た}べたいです。{二人|ふたり}でいくらですか。",
+     "options": [
+      "20,000{円|えん}",
+      "10,000{円|えん}",
+      "15,000{円|えん}",
+      "16,500{円|えん}"
+     ],
+     "answer": 2,
+     "why": "Plan C is 10,000 yen for the adult and half, 5,000 yen, for the child."
+    }
+   ]
+  }
+ ],
+ "listening": [
+  {
+   "type": "task",
+   "setup": "ホテルで{男|おとこ}の{人|ひと}とホテルの{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はこのあとすぐ{何|なに}をしますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "いらっしゃいませ。"
+    },
+    {
+     "s": "M",
+     "jp": "{予約|よやく}した{田中|たなか}です。"
+    },
+    {
+     "s": "F",
+     "jp": "{田中|たなか}{様|さま}ですね。では、こちらの{紙|かみ}にお{名前|なまえ}と{電話番号|でんわばんごう}を{書|か}いていただけますか。"
+    },
+    {
+     "s": "M",
+     "jp": "はい。パスポートも{見|み}せますか。"
+    },
+    {
+     "s": "F",
+     "jp": "いいえ、{日本|にほん}にお{住|す}まいの{方|かた}は{大丈夫|だいじょうぶ}です。お{部屋|へや}の{鍵|かぎ}は、{書|か}いていただいたあとでお{渡|わた}しします。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}はこのあとすぐ{何|なに}をしますか。",
+   "options": [
+    "パスポートを{見|み}せる",
+    "{紙|かみ}に{名前|なまえ}と{電話番号|でんわばんごう}を{書|か}く",
+    "{部屋|へや}の{鍵|かぎ}をもらう",
+    "ホテルを{予約|よやく}する"
+   ],
+   "answer": 1,
+   "en": "At a hotel. F: Welcome. M: I'm Tanaka, I have a booking. F: Mr. Tanaka. Could you write your name and phone number on this form? M: Sure. Should I show my passport too? F: No, people living in Japan don't need to. I'll give you the room key after you've filled it in.",
+   "why": "He must fill in the form first; the key comes after, and no passport is needed."
+  },
+  {
+   "type": "task",
+   "setup": "{駅|えき}で{女|おんな}の{人|ひと}と{駅員|えきいん}が{話|はな}しています。{女|おんな}の{人|ひと}はどうやって{空港|くうこう}へ{行|い}きますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "すみません、{空港|くうこう}へ{行|い}きたいんですが、{電車|でんしゃ}は{動|うご}いていますか。"
+    },
+    {
+     "s": "M",
+     "jp": "{申|もう}し{訳|わけ}ありません。{事故|じこ}で、{今|いま}、{空港線|くうこうせん}は{止|と}まっています。"
+    },
+    {
+     "s": "F",
+     "jp": "そうですか。タクシーだとどのぐらいかかりますか。"
+    },
+    {
+     "s": "M",
+     "jp": "{道|みち}がこんでいるので、{一時間|いちじかん}{以上|いじょう}かかると{思|おも}います。{駅|えき}の{前|まえ}から{空港|くうこう}{行|い}きのバスが{出|で}ていますよ。{四十分|よんじゅっぷん}ぐらいです。"
+    },
+    {
+     "s": "F",
+     "jp": "{地下鉄|ちかてつ}はどうですか。"
+    },
+    {
+     "s": "M",
+     "jp": "{地下鉄|ちかてつ}は{空港|くうこう}までは{行|い}かないんです。"
+    },
+    {
+     "s": "F",
+     "jp": "じゃあ、{四十分|よんじゅっぷん}のほうにします。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}はどうやって{空港|くうこう}へ{行|い}きますか。",
+   "options": [
+    "{空港線|くうこうせん}の{電車|でんしゃ}",
+    "タクシー",
+    "{地下鉄|ちかてつ}",
+    "バス"
+   ],
+   "answer": 3,
+   "en": "At a station. F: I want to go to the airport. Are the trains running? M: Sorry, the airport line has stopped because of an accident. F: How long by taxi? M: The roads are crowded, so over an hour. There's an airport bus from in front of the station; it takes about 40 minutes. F: What about the subway? M: The subway doesn't go to the airport. F: Then I'll take the 40-minute one.",
+   "why": "The train is stopped, the taxi is slow, the subway doesn't go there, and the bus takes 40 minutes."
+  },
+  {
+   "type": "task",
+   "setup": "お{土産|みやげ}の{店|みせ}で{男|おとこ}の{人|ひと}と{店|みせ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}は{何|なに}を{買|か}いますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{会社|かいしゃ}の{人|ひと}へのお{土産|みやげ}をさがしているんですが。"
+    },
+    {
+     "s": "F",
+     "jp": "こちらのおまんじゅうはいかがですか。{二十個|にじゅっこ}{入|はい}っています。"
+    },
+    {
+     "s": "M",
+     "jp": "{会社|かいしゃ}に{三十人|さんじゅうにん}いるので、{三十個|さんじゅっこ}{入|い}りのはありますか。"
+    },
+    {
+     "s": "F",
+     "jp": "おまんじゅうは{二十個|にじゅっこ}{入|い}りだけなんです。このおせんべいなら{三十個|さんじゅっこ}{入|い}りがありますよ。"
+    },
+    {
+     "s": "M",
+     "jp": "じゃあ、おせんべいを{一箱|ひとはこ}ください。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}は{何|なに}を{買|か}いますか。",
+   "options": [
+    "おせんべい{一箱|ひとはこ}",
+    "おまんじゅう{一箱|ひとはこ}",
+    "おまんじゅう{二箱|ふたはこ}",
+    "おまんじゅうとおせんべい"
+   ],
+   "answer": 0,
+   "en": "At a souvenir shop. M: I'm looking for a souvenir for people at work. F: How about these buns? There are 20 in a box. M: There are 30 people at my company. Do you have a box of 30? F: The buns only come in 20s, but these rice crackers come in boxes of 30. M: Then one box of rice crackers, please.",
+   "why": "He asks for one box of rice crackers at the end."
+  },
+  {
+   "type": "task",
+   "setup": "{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{旅行|りょこう}について{話|はな}しています。{女|おんな}の{人|ひと}はまず{何|なに}をしますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{来月|らいげつ}の{旅行|りょこう}、ホテルはもう{予約|よやく}した？"
+    },
+    {
+     "s": "F",
+     "jp": "まだ。{先|さき}に{新幹線|しんかんせん}の{切符|きっぷ}を{買|か}おうと{思|おも}って。"
+    },
+    {
+     "s": "M",
+     "jp": "でも、{連休|れんきゅう}だからホテルはすぐいっぱいになるよ。{切符|きっぷ}は{一|いっ}か{月|げつ}{前|まえ}からしか{買|か}えないし。"
+    },
+    {
+     "s": "F",
+     "jp": "そっか。じゃあ、{今晩|こんばん}インターネットで{探|さが}して{予約|よやく}するね。"
+    },
+    {
+     "s": "M",
+     "jp": "うん。それから、カメラの{電池|でんち}も{買|か}っておいてね。"
+    },
+    {
+     "s": "F",
+     "jp": "それは{旅行|りょこう}の{前|まえ}の{日|ひ}でいいよね。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}はまず{何|なに}をしますか。",
+   "options": [
+    "{新幹線|しんかんせん}の{切符|きっぷ}を{買|か}う",
+    "カメラの{電池|でんち}を{買|か}う",
+    "ホテルを{予約|よやく}する",
+    "{連休|れんきゅう}の{予定|よてい}を{決|き}める"
+   ],
+   "answer": 2,
+   "en": "M: Have you booked the hotel for next month's trip? F: Not yet. I was going to buy the shinkansen tickets first. M: But it's a long weekend, so hotels fill up fast. And you can only buy tickets from one month before. F: I see. Then I'll search online and book tonight. M: OK. Also buy camera batteries. F: That can wait until the day before the trip.",
+   "why": "Tickets can't be bought yet and batteries can wait, so she books the hotel first."
+  },
+  {
+   "type": "task",
+   "setup": "{先生|せんせい}が{学生|がくせい}に{話|はな}しています。{学生|がくせい}は{明日|あした}{何時|なんじ}にどこに{集|あつ}まりますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{明日|あした}の{旅行|りょこう}ですが、{電車|でんしゃ}は{八時半|はちじはん}に{出|で}ますので、{駅|えき}の{改札|かいさつ}の{前|まえ}に{八時|はちじ}に{集|あつ}まってください。"
+    },
+    {
+     "s": "M",
+     "jp": "あ、でも、さっき{連絡|れんらく}があって、{雨|あめ}のため、{電車|でんしゃ}ではなくバスで{行|い}くことになりました。バスは{学校|がっこう}の{前|まえ}から{八時|はちじ}に{出|で}ますから、その{十五分|じゅうごふん}{前|まえ}に{来|き}てください。"
+    }
+   ],
+   "question": "{学生|がくせい}は{明日|あした}{何時|なんじ}にどこに{集|あつ}まりますか。",
+   "options": [
+    "{八時|はちじ}に{駅|えき}",
+    "{八時半|はちじはん}に{駅|えき}",
+    "{七時四十五分|しちじよんじゅうごふん}に{学校|がっこう}の{前|まえ}",
+    "{八時|はちじ}に{学校|がっこう}の{前|まえ}"
+   ],
+   "answer": 2,
+   "en": "Teacher: For tomorrow's trip, the train leaves at 8:30, so meet in front of the station ticket gates at 8. Oh, but I just heard that because of rain we'll go by bus, not train. The bus leaves from in front of the school at 8, so come 15 minutes before that.",
+   "why": "The plan changed to the bus at 8 from the school, and they must come 15 minutes early: 7:45."
+  },
+  {
+   "type": "task",
+   "setup": "ホテルの{部屋|へや}から、{女|おんな}の{人|ひと}がフロントに{電話|でんわ}をしています。ホテルの{人|ひと}は{部屋|へや}に{何|なに}を{持|も}って{行|い}きますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "すみません、503{号室|ごうしつ}ですが、タオルをもう{一枚|いちまい}お{願|ねが}いできますか。"
+    },
+    {
+     "s": "M",
+     "jp": "かしこまりました。すぐお{持|も}ちします。"
+    },
+    {
+     "s": "F",
+     "jp": "それから、ドライヤーはありますか。"
+    },
+    {
+     "s": "M",
+     "jp": "ドライヤーは{洗面所|せんめんじょ}の{引|ひ}き{出|だ}しに{入|はい}っております。"
+    },
+    {
+     "s": "F",
+     "jp": "あ、そうですか。あと、{明日|あした}の{朝|あさ}{六時|ろくじ}に{起|お}こしていただけますか。"
+    },
+    {
+     "s": "M",
+     "jp": "はい、{六時|ろくじ}にお{電話|でんわ}いたします。"
+    }
+   ],
+   "question": "ホテルの{人|ひと}は{部屋|へや}に{何|なに}を{持|も}って{行|い}きますか。",
+   "options": [
+    "タオル",
+    "ドライヤー",
+    "タオルとドライヤー",
+    "{時計|とけい}"
+   ],
+   "answer": 0,
+   "en": "F (phoning the front desk): This is room 503. Could I have one more towel? M: Certainly, I'll bring it right away. F: Also, is there a hair dryer? M: It's in the drawer in the washroom. F: Oh, I see. And could you wake me at 6 tomorrow? M: Yes, I'll call you at 6.",
+   "why": "Only the towel is brought; the dryer is already in the room and the wake-up is a phone call."
+  },
+  {
+   "type": "task",
+   "setup": "{駅|えき}で{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{二人|ふたり}はどの{電車|でんしゃ}に{乗|の}りますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{次|つぎ}の{特急|とっきゅう}は{十時十分|じゅうじじゅっぷん}だって。でも、{指定席|していせき}はもういっぱいみたい。"
+    },
+    {
+     "s": "M",
+     "jp": "{自由席|じゆうせき}なら{座|すわ}れるかな。"
+    },
+    {
+     "s": "F",
+     "jp": "{連休|れんきゅう}だから、たぶん{無理|むり}だよ。{十時四十分|じゅうじよんじゅっぷん}の{特急|とっきゅう}なら、{指定席|していせき}が{空|あ}いてるって。"
+    },
+    {
+     "s": "M",
+     "jp": "{三十分|さんじゅっぷん}{待|ま}つのか。{急行|きゅうこう}は？"
+    },
+    {
+     "s": "F",
+     "jp": "{急行|きゅうこう}は{十時二十分|じゅうじにじゅっぷん}だけど、{特急|とっきゅう}より{一時間|いちじかん}も{多|おお}くかかるよ。"
+    },
+    {
+     "s": "M",
+     "jp": "じゃあ、{待|ま}とう。{座|すわ}って{行|い}きたいし。"
+    }
+   ],
+   "question": "{二人|ふたり}はどの{電車|でんしゃ}に{乗|の}りますか。",
+   "options": [
+    "{十時十分|じゅうじじゅっぷん}の{特急|とっきゅう}の{自由席|じゆうせき}",
+    "{十時十分|じゅうじじゅっぷん}の{特急|とっきゅう}の{指定席|していせき}",
+    "{十時二十分|じゅうじにじゅっぷん}の{急行|きゅうこう}",
+    "{十時四十分|じゅうじよんじゅっぷん}の{特急|とっきゅう}の{指定席|していせき}"
+   ],
+   "answer": 3,
+   "en": "F: The next limited express is at 10:10, but reserved seats seem to be full. M: Could we sit in the unreserved cars? F: It's a holiday, so probably not. The 10:40 limited express has reserved seats free. M: Wait 30 minutes? What about the express? F: It's at 10:20, but it takes an hour longer. M: Then let's wait. I want to sit.",
+   "why": "He wants to sit, so they wait for the 10:40 limited express with reserved seats."
+  },
+  {
+   "type": "task",
+   "setup": "ホテルで{男|おとこ}の{人|ひと}とホテルの{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はこのあとまず{何|なに}をしますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "チェックアウトをお{願|ねが}いします。"
+    },
+    {
+     "s": "F",
+     "jp": "はい。お{部屋|へや}の{冷蔵庫|れいぞうこ}のものは、{何|なに}か{飲|の}まれましたか。"
+    },
+    {
+     "s": "M",
+     "jp": "ビールを{一本|いっぽん}{飲|の}みました。"
+    },
+    {
+     "s": "F",
+     "jp": "では、ビール{代|だい}が{四百円|よんひゃくえん}になります。"
+    },
+    {
+     "s": "M",
+     "jp": "それから、{午後|ごご}まで{荷物|にもつ}を{預|あず}かってもらえますか。"
+    },
+    {
+     "s": "F",
+     "jp": "はい。では、{先|さき}にお{会計|かいけい}をお{願|ねが}いします。そのあと、こちらの{紙|かみ}にお{名前|なまえ}を{書|か}いてください。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}はこのあとまず{何|なに}をしますか。",
+   "options": [
+    "{紙|かみ}に{名前|なまえ}を{書|か}く",
+    "お{金|かね}を{払|はら}う",
+    "ビールを{飲|の}む",
+    "{荷物|にもつ}を{取|と}りに{行|い}く"
+   ],
+   "answer": 1,
+   "en": "M: Check-out, please. F: Did you have anything from the fridge? M: One beer. F: Then that's 400 yen for the beer. M: Also, could you keep my luggage until the afternoon? F: Yes. Please pay first, and then write your name on this form.",
+   "why": "She asks him to pay first, then write his name."
+  },
+  {
+   "type": "point",
+   "setup": "{会社|かいしゃ}で{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はどうして{遅|おく}れましたか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{山田|やまだ}さん、おはようございます。{今日|きょう}は{遅|おそ}かったですね。{電車|でんしゃ}が{遅|おく}れたんですか。"
+    },
+    {
+     "s": "M",
+     "jp": "いいえ、{電車|でんしゃ}は{時間|じかん}どおりでした。{実|じつ}は、{駅|えき}で{財布|さいふ}を{落|お}としてしまって。"
+    },
+    {
+     "s": "F",
+     "jp": "えっ、{見|み}つかりましたか。"
+    },
+    {
+     "s": "M",
+     "jp": "はい、{駅員|えきいん}さんが{一緒|いっしょ}に{探|さが}してくれて、すぐ{見|み}つかりました。でも、そのせいで、いつもの{電車|でんしゃ}に{乗|の}れなかったんです。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}はどうして{遅|おく}れましたか。",
+   "options": [
+    "{電車|でんしゃ}が{遅|おく}れたから",
+    "{朝|あさ}{起|お}きるのが{遅|おそ}かったから",
+    "{駅|えき}で{財布|さいふ}を{落|お}としたから",
+    "{駅員|えきいん}さんに{道|みち}を{聞|き}いていたから"
+   ],
+   "answer": 2,
+   "en": "F: Good morning, Mr. Yamada. You're late today. Was the train late? M: No, it was on time. Actually, I dropped my wallet at the station. F: Oh! Did you find it? M: Yes, a station worker helped me look and we found it quickly. But because of that I missed my usual train.",
+   "why": "He missed his train because he dropped his wallet at the station."
+  },
+  {
+   "type": "point",
+   "setup": "{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}は{旅行|りょこう}で{何|なに}がいちばんよかったと{言|い}っていますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{沖縄|おきなわ}{旅行|りょこう}、どうだった？"
+    },
+    {
+     "s": "F",
+     "jp": "{楽|たの}しかったよ。{海|うみ}もきれいだったし、{料理|りょうり}もおいしかった。"
+    },
+    {
+     "s": "M",
+     "jp": "ホテルは？"
+    },
+    {
+     "s": "F",
+     "jp": "ホテルは{駅|えき}から{遠|とお}くて、ちょっと{不便|ふべん}だったな。でもね、いちばんよかったのは、{近|ちか}くの{小|ちい}さい{島|しま}に{船|ふね}で{行|い}ったこと。{魚|さかな}がたくさん{見|み}えたの。"
+    },
+    {
+     "s": "M",
+     "jp": "いいなあ。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}は{旅行|りょこう}で{何|なに}がいちばんよかったと{言|い}っていますか。",
+   "options": [
+    "{船|ふね}で{島|しま}に{行|い}ったこと",
+    "{海|うみ}がきれいだったこと",
+    "{料理|りょうり}がおいしかったこと",
+    "ホテルが{便利|べんり}だったこと"
+   ],
+   "answer": 0,
+   "en": "M: How was your Okinawa trip? F: Fun. The sea was beautiful and the food was good. M: And the hotel? F: It was far from the station, a bit inconvenient. But the best thing was going by boat to a small island nearby. We could see lots of fish. M: Lucky you.",
+   "why": "She says the best part was the boat trip to the small island."
+  },
+  {
+   "type": "point",
+   "setup": "{電車|でんしゃ}の{中|なか}でアナウンスを{聞|き}いています。{電車|でんしゃ}はどうして{止|と}まっていますか。",
+   "lines": [
+    {
+     "s": "N",
+     "jp": "お{客様|きゃくさま}にお{知|し}らせします。ただいま、この{電車|でんしゃ}は{止|と}まっております。{前|まえ}の{駅|えき}で、{具合|ぐあい}が{悪|わる}くなったお{客様|きゃくさま}がいらっしゃるため、{止|と}まっております。お{急|いそ}ぎのところ、{申|もう}し{訳|わけ}ございません。あと{十分|じゅっぷん}ほどで{動|うご}く{予定|よてい}です。"
+    }
+   ],
+   "question": "{電車|でんしゃ}はどうして{止|と}まっていますか。",
+   "options": [
+    "{強|つよ}い{風|かぜ}が{吹|ふ}いているから",
+    "{前|まえ}の{電車|でんしゃ}が{遅|おく}れているから",
+    "{線路|せんろ}の{工事|こうじ}をしているから",
+    "{具合|ぐあい}が{悪|わる}くなった{人|ひと}がいるから"
+   ],
+   "answer": 3,
+   "en": "Announcement: This train is currently stopped because a passenger has become ill at the station ahead. We are sorry for the delay. We expect to start again in about ten minutes.",
+   "why": "The announcement says a passenger at the station ahead became ill."
+  },
+  {
+   "type": "point",
+   "setup": "{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}がお{土産|みやげ}の{店|みせ}で{話|はな}しています。{男|おとこ}の{人|ひと}は{妹|いもうと}さんに{何|なに}を{買|か}いますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{妹|いもうと}さんへのお{土産|みやげ}、{決|き}まった？"
+    },
+    {
+     "s": "M",
+     "jp": "うーん、{最初|さいしょ}はおかしにしようと{思|おも}ったんだけど、{妹|いもうと}は{今|いま}ダイエット{中|ちゅう}なんだ。"
+    },
+    {
+     "s": "F",
+     "jp": "じゃあ、ハンカチは？"
+    },
+    {
+     "s": "M",
+     "jp": "ハンカチは{去年|きょねん}あげたんだよね。"
+    },
+    {
+     "s": "F",
+     "jp": "このかわいいはしはどう？"
+    },
+    {
+     "s": "M",
+     "jp": "いいね。{妹|いもうと}は{料理|りょうり}が{好|す}きだから、それにするよ。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}は{妹|いもうと}さんに{何|なに}を{買|か}いますか。",
+   "options": [
+    "おかし",
+    "はし",
+    "ハンカチ",
+    "{料理|りょうり}の{本|ほん}"
+   ],
+   "answer": 1,
+   "en": "F: Have you decided on a souvenir for your sister? M: Well, I was going to get sweets, but she's on a diet now. F: Then a handkerchief? M: I gave her one last year. F: How about these cute chopsticks? M: Nice. She likes cooking, so I'll get those.",
+   "why": "He chooses the chopsticks because his sister likes cooking."
+  },
+  {
+   "type": "point",
+   "setup": "{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}がホテルを{探|さが}しています。{女|おんな}の{人|ひと}はどうして{別|べつ}のホテルがいいと{言|い}っていますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "このホテル、{駅|えき}から{近|ちか}いし、{安|やす}いよ。ここにしない？"
+    },
+    {
+     "s": "F",
+     "jp": "うーん、{部屋|へや}もきれいだし、いいと{思|おも}うんだけど、{朝|あさ}ご{飯|はん}がないんだよね。"
+    },
+    {
+     "s": "M",
+     "jp": "{近|ちか}くにコンビニがあるよ。"
+    },
+    {
+     "s": "F",
+     "jp": "{旅行|りょこう}のときは、ホテルでゆっくり{朝|あさ}ご{飯|はん}を{食|た}べたいの。だから、ほかのを{探|さが}そうよ。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}はどうして{別|べつ}のホテルがいいと{言|い}っていますか。",
+   "options": [
+    "{駅|えき}から{遠|とお}いから",
+    "{朝|あさ}ご{飯|はん}がないから",
+    "{料金|りょうきん}が{高|たか}いから",
+    "{部屋|へや}がきたないから"
+   ],
+   "answer": 1,
+   "en": "M: This hotel is near the station and cheap. Shall we take it? F: Hmm, the rooms are clean and it looks good, but there's no breakfast. M: There's a convenience store nearby. F: When I travel, I want a relaxed breakfast at the hotel. So let's look for another one.",
+   "why": "She wants breakfast at the hotel, and this one has none."
+  },
+  {
+   "type": "point",
+   "setup": "{駅|えき}で{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{次|つぎ}の{電車|でんしゃ}は{何時|なんじ}に{出|で}ますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "あれ、{九時|くじ}の{電車|でんしゃ}、もう{出|で}ちゃった？"
+    },
+    {
+     "s": "F",
+     "jp": "うん、{五分|ごふん}{前|まえ}に{出|で}たよ。"
+    },
+    {
+     "s": "M",
+     "jp": "{次|つぎ}は{何時|なんじ}？"
+    },
+    {
+     "s": "F",
+     "jp": "いつもは{九時二十分|くじにじゅっぷん}だけど、{今日|きょう}は{雪|ゆき}で{十五分|じゅうごふん}{遅|おく}れてるって。"
+    },
+    {
+     "s": "M",
+     "jp": "そうか。じゃあ、まだ{時間|じかん}があるね。"
+    }
+   ],
+   "question": "{次|つぎ}の{電車|でんしゃ}は{何時|なんじ}に{出|で}ますか。",
+   "options": [
+    "{九時|くじ}",
+    "{九時五分|くじごふん}",
+    "{九時三十五分|くじさんじゅうごふん}",
+    "{九時二十分|くじにじゅっぷん}"
+   ],
+   "answer": 2,
+   "en": "M: Oh, has the 9:00 train already left? F: Yes, five minutes ago. M: When's the next one? F: Usually 9:20, but today it's 15 minutes late because of snow. M: I see. Then we still have time.",
+   "why": "The 9:20 train is 15 minutes late, so it leaves at 9:35."
+  },
+  {
+   "type": "point",
+   "setup": "{男|おとこ}の{人|ひと}がホテルに{電話|でんわ}をしています。{男|おとこ}の{人|ひと}はホテルに{何|なに}を{忘|わす}れましたか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "もしもし、{昨日|きのう}そちらに{泊|と}まった{木村|きむら}ですが、{部屋|へや}に{忘|わす}れ{物|もの}をしてしまって。"
+    },
+    {
+     "s": "F",
+     "jp": "はい、どのようなものでしょうか。"
+    },
+    {
+     "s": "M",
+     "jp": "{黒|くろ}いかさなんですが。"
+    },
+    {
+     "s": "F",
+     "jp": "{少々|しょうしょう}お{待|ま}ちください。……すみません、{黒|くろ}いかさはないんですが、{青|あお}い{手袋|てぶくろ}ならございます。"
+    },
+    {
+     "s": "M",
+     "jp": "あ、それも{私|わたし}のです。かさは{電車|でんしゃ}に{忘|わす}れたのかもしれません。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}はホテルに{何|なに}を{忘|わす}れましたか。",
+   "options": [
+    "{青|あお}い{手袋|てぶくろ}",
+    "{黒|くろ}いかさ",
+    "{黒|くろ}い{手袋|てぶくろ}",
+    "{青|あお}いかさ"
+   ],
+   "answer": 0,
+   "en": "M (on the phone): Hello, I'm Kimura, I stayed there yesterday. I left something in my room. F: What is it? M: A black umbrella. F: One moment, please... Sorry, there's no black umbrella, but we have blue gloves. M: Oh, those are mine too. Maybe I left the umbrella on the train.",
+   "why": "The hotel has his blue gloves; the umbrella was probably left on the train."
+  },
+  {
+   "type": "utterance",
+   "setup": "ホテルをチェックアウトしました。{午後|ごご}まで、ホテルに{荷物|にもつ}を{置|お}いておきたいです。ホテルの{人|ひと}に{何|なん}と{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "{荷物|にもつ}を{預|あず}かっていただけますか。",
+    "{荷物|にもつ}を{預|あず}けていただけますか。",
+    "{荷物|にもつ}を{預|あず}かりましょうか。"
+   ],
+   "answer": 0,
+   "en": "You have checked out of the hotel and want to leave your luggage there until the afternoon. What do you say to the hotel staff?",
+   "why": "{預|あず}かる means 'to keep something for someone', so you ask them to {預|あず}かって."
+  },
+  {
+   "type": "utterance",
+   "setup": "{大阪|おおさか}へ{行|い}きたいですが、{何番線|なんばんせん}の{電車|でんしゃ}に{乗|の}ればいいかわかりません。{駅員|えきいん}に{何|なん}と{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "{大阪|おおさか}へ{行|い}ったことがありますか。",
+    "{大阪|おおさか}{行|い}きの{電車|でんしゃ}が{来|き}ましたよ。",
+    "{大阪|おおさか}{行|い}きの{電車|でんしゃ}は{何番線|なんばんせん}ですか。"
+   ],
+   "answer": 2,
+   "en": "You want to go to Osaka but don't know which platform the train leaves from. What do you say to a station worker?",
+   "why": "You ask which platform the Osaka train uses."
+  },
+  {
+   "type": "utterance",
+   "setup": "{旅行|りょこう}から{帰|かえ}りました。{会社|かいしゃ}の{人|ひと}にお{土産|みやげ}をあげます。{何|なん}と{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "これ、いただきます。",
+    "これ、{旅行|りょこう}のお{土産|みやげ}です。どうぞ。",
+    "これ、お{土産|みやげ}をくださいませんか。"
+   ],
+   "answer": 1,
+   "en": "You are back from a trip and give a souvenir to a coworker. What do you say?",
+   "why": "You are giving, so you say 'This is a souvenir from my trip. Please.'"
+  },
+  {
+   "type": "utterance",
+   "setup": "{電車|でんしゃ}がこんでいます。{次|つぎ}の{駅|えき}で{降|お}りたいですが、ドアの{前|まえ}に{人|ひと}がたくさんいます。{何|なん}と{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "すみません、{乗|の}ります。",
+    "すみません、{降|お}ります。",
+    "すみません、{降|お}りてください。"
+   ],
+   "answer": 1,
+   "en": "The train is crowded. You want to get off at the next station, but many people are in front of the door. What do you say?",
+   "why": "'{降|お}ります' tells people you are getting off."
+  },
+  {
+   "type": "utterance",
+   "setup": "{友|とも}だちがこれから{旅行|りょこう}に{出|で}かけます。{何|なん}と{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "{気|き}をつけて{行|い}ってらっしゃい。",
+    "{気|き}をつけて{行|い}ってきます。",
+    "お{帰|かえ}りなさい。{楽|たの}しかった？"
+   ],
+   "answer": 0,
+   "en": "Your friend is leaving for a trip now. What do you say?",
+   "why": "{行|い}ってらっしゃい is said to someone who is leaving; {行|い}ってきます is said by the person leaving."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "すみません、この{席|せき}、{空|あ}いていますか。"
+    }
+   ],
+   "question": "{何|なん}と{答|こた}えますか。",
+   "options": [
+    "はい、どういたしまして。",
+    "いいえ、{空|あ}きません。",
+    "ええ、どうぞ。"
+   ],
+   "answer": 2,
+   "en": "M: Excuse me, is this seat free?",
+   "why": "'Yes, go ahead' answers a question about a free seat."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{電車|でんしゃ}、なかなか{来|き}ませんね。"
+    }
+   ],
+   "question": "{何|なん}と{答|こた}えますか。",
+   "options": [
+    "ええ、{事故|じこ}があったそうですよ。",
+    "ええ、{早|はや}く{着|つ}きましたね。",
+    "いいえ、{遅|おく}れてすみません。"
+   ],
+   "answer": 0,
+   "en": "F: The train just isn't coming, is it?",
+   "why": "Agreeing and giving the reason (an accident) fits."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "お{部屋|へや}は{和室|わしつ}と{洋室|ようしつ}、どちらがよろしいですか。"
+    }
+   ],
+   "question": "{何|なん}と{答|こた}えますか。",
+   "options": [
+    "はい、よろしいです。",
+    "{和室|わしつ}をお{願|ねが}いします。",
+    "どちらもありません。"
+   ],
+   "answer": 1,
+   "en": "M: Would you like a Japanese-style room or a Western-style room?",
+   "why": "The guest chooses one of the two rooms."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{北海道|ほっかいどう}のお{土産|みやげ}です。{皆|みな}さんでどうぞ。"
+    }
+   ],
+   "question": "{何|なん}と{答|こた}えますか。",
+   "options": [
+    "わあ、ありがとうございます。",
+    "どうぞ、{召|め}し{上|あ}がってください。",
+    "{行|い}ってらっしゃい。"
+   ],
+   "answer": 0,
+   "en": "F: It's a souvenir from Hokkaido. Please share it, everyone.",
+   "why": "You thank someone who gives you a souvenir."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{明日|あした}、{何時|なんじ}の{新幹線|しんかんせん}に{乗|の}るの？"
+    }
+   ],
+   "question": "{何|なん}と{答|こた}えますか。",
+   "options": [
+    "{東京|とうきょう}から{乗|の}るよ。",
+    "{二時間|にじかん}ぐらいかかるよ。",
+    "{九時|くじ}のに{乗|の}るつもり。"
+   ],
+   "answer": 2,
+   "en": "M: What time is the shinkansen you're taking tomorrow?",
+   "why": "The question asks what time, so 'the nine o'clock one' answers it."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "すみません、チェックインは{何時|なんじ}からできますか。"
+    }
+   ],
+   "question": "{何|なん}と{答|こた}えますか。",
+   "options": [
+    "{十一時|じゅういちじ}までにお{願|ねが}いします。",
+    "{三時|さんじ}からでございます。",
+    "{一泊|いっぱく}でございます。"
+   ],
+   "answer": 1,
+   "en": "F: Excuse me, from what time can I check in?",
+   "why": "It asks from what time, so 'from three o'clock' is the answer."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{旅行|りょこう}、{楽|たの}しんできてね。"
+    }
+   ],
+   "question": "{何|なん}と{答|こた}えますか。",
+   "options": [
+    "うん、{楽|たの}しかったよ。",
+    "うん、ありがとう。お{土産|みやげ}{買|か}ってくるね。",
+    "うん、{楽|たの}しんでいってね。"
+   ],
+   "answer": 1,
+   "en": "M: Enjoy your trip.",
+   "why": "The trip hasn't happened yet, so you thank him and promise a souvenir."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{切符|きっぷ}、なくさないようにね。"
+    }
+   ],
+   "question": "{何|なん}と{答|こた}えますか。",
+   "options": [
+    "うん、なくしてもいいよ。",
+    "うん、なくさないでね。",
+    "うん、ちゃんとかばんに{入|い}れたよ。"
+   ],
+   "answer": 2,
+   "en": "F: Make sure you don't lose your ticket.",
+   "why": "Saying you put it safely in your bag answers the warning."
+  }
+ ]
+}

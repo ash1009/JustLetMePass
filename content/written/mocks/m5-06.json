@@ -370,16 +370,16 @@
    "before": "これは",
    "after": "です。",
    "pieces": [
-    "{母|はは}",
+    "とけい",
     "から",
     "もらった",
-    "とけい"
+    "{母|はは}"
    ],
    "order": [
-    0,
+    3,
     1,
     2,
-    3
+    0
    ],
    "star": 2,
    "en": "This is the watch I got from my mother.",
@@ -410,16 +410,16 @@
    "before": "{旅行|りょこう}の",
    "after": "{買|か}いました。",
    "pieces": [
-    "{前|まえ}に",
-    "{新|あたら}しい",
     "を",
-    "かばん"
+    "かばん",
+    "{前|まえ}に",
+    "{新|あたら}しい"
    ],
    "order": [
-    0,
-    1,
+    2,
     3,
-    2
+    1,
+    0
    ],
    "star": 2,
    "en": "Before the trip I bought a new bag.",
@@ -430,16 +430,16 @@
    "before": "きのう",
    "after": "ケーキは おいしかったです。",
    "pieces": [
+    "くれた",
     "{姉|あね}",
-    "が",
     "{作|つく}って",
-    "くれた"
+    "が"
    ],
    "order": [
-    0,
     1,
+    3,
     2,
-    3
+    0
    ],
    "star": 3,
    "en": "The cake my older sister made for me yesterday was delicious.",
@@ -757,11 +757,11 @@
     },
     {
      "s": "F",
-     "jp": "{雨|あめ}がふるかもしれないから、かさも{持|も}っていきなさい。"
+     "jp": "あしたは{雨|あめ}だから、かさも{持|も}っていってね。"
     },
     {
      "s": "M",
-     "jp": "{先生|せんせい}が、かさはいらない、レインコートを{持|も}ってきてくださいって{言|い}ってたよ。"
+     "jp": "でも、{先生|せんせい}が「かさはいりません。レインコートを{持|も}ってきてください。」と{言|い}ったよ。"
     },
     {
      "s": "F",
@@ -776,7 +776,7 @@
     "かさ"
    ],
    "answer": 2,
-   "en": "F: Have you packed your bag for tomorrow's trip? M: Yes. I put in a towel and a shirt. F: It might rain, so take an umbrella too. M: The teacher said we don't need umbrellas, bring a raincoat. F: I see. Then put a raincoat in.",
+   "en": "F: Have you packed your bag for tomorrow's trip? M: Yes. I put in a towel and a shirt. F: It will rain tomorrow, so take an umbrella too. M: But the teacher said, \"You don't need umbrellas. Bring a raincoat.\" F: I see. Then put a raincoat in.",
    "why": "The towel and shirt are already in, and the teacher said no umbrella, so he packs a raincoat.",
    "q_en": "What will the boy put in his bag next?"
   },
@@ -897,11 +897,11 @@
     },
     {
      "s": "M",
-     "jp": "すみません。{家|うち}を{出|で}たあとで、プレゼントをわすれたことに{気|き}がつきました。それで、とりに{帰|かえ}りました。"
+     "jp": "すみません。プレゼントを{家|うち}にわすれましたから、とりに{帰|かえ}りました。"
     },
     {
      "s": "F",
-     "jp": "そうでしたか。{電車|でんしゃ}がおくれたのかと{思|おも}いました。"
+     "jp": "そうでしたか。{電車|でんしゃ}がおくれたと{思|おも}いました。"
     }
    ],
    "question": "{男|おとこ}の{人|ひと}はどうしてパーティーにおくれましたか。",
@@ -912,7 +912,7 @@
     "プレゼントをとりに{帰|かえ}ったから"
    ],
    "answer": 3,
-   "en": "F: You're late. What happened? M: Sorry. After leaving home, I noticed I had forgotten the present. So I went back to get it. F: I see. I thought the train was late.",
+   "en": "F: You're late. What happened? M: Sorry. I forgot the present at home, so I went back to get it. F: I see. I thought the train was late.",
    "why": "He went back home to get the present he forgot; the train was only her guess.",
    "q_en": "Why was the man late for the party?"
   },

@@ -7,7 +7,7 @@
    "type": "kanji_reading",
    "q_raw": "きのうは　【雨】が　たくさん　ふりました。",
    "options": [
-    "あま",
+    "あね",
     "あめ",
     "うめ",
     "あみ"
@@ -348,7 +348,7 @@
     "あとで",
     "まえに",
     "ながら",
-    "から"
+    "まで"
    ],
    "answer": 1,
    "en": "Let's wash our hands before we eat."
@@ -411,15 +411,15 @@
    "after": "します。",
    "pieces": [
     "の",
-    "{部屋|へや}",
     "を",
+    "{部屋|へや}",
     "そうじ"
    ],
    "order": [
-    1,
+    2,
     0,
     3,
-    2
+    1
    ],
    "star": 0,
    "en": "On Sunday I clean my room.",
@@ -431,15 +431,15 @@
    "after": "とても　おいしかったです。",
    "pieces": [
     "{食|た}べた",
-    "レストランで",
     "{料理|りょうり}は",
-    "{行|い}った"
+    "{行|い}った",
+    "レストランで"
    ],
    "order": [
+    2,
     3,
-    1,
     0,
-    2
+    1
    ],
    "star": 1,
    "en": "The food I ate at the restaurant I went to yesterday was very good.",
