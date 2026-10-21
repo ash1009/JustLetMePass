@@ -133,7 +133,7 @@
     "{未|み}"
    ],
    "answer": 0,
-   "en": "It was unofficial, but the leaders of the two countries reportedly held talks. (非公式 = unofficial)"
+   "en": "It was unofficial, but the leaders of the two countries reportedly held talks. ({非公式|ひこうしき} = unofficial)"
   },
   {
    "type": "word_formation",
@@ -145,7 +145,7 @@
     "{額|がく}"
    ],
    "answer": 2,
-   "en": "I made copies of the meeting papers, one for each participant. (人数分 = enough for the number of people)"
+   "en": "I made copies of the meeting papers, one for each participant. ({人数分|にんずうぶん} = enough for the number of people)"
   },
   {
    "type": "word_formation",
@@ -157,7 +157,7 @@
     "{式|しき}"
    ],
    "answer": 0,
-   "en": "At this restaurant you can eat traditional Japanese food. (伝統的 = traditional)"
+   "en": "At this restaurant you can eat traditional Japanese food. ({伝統的|でんとうてき} = traditional)"
   },
   {
    "type": "context",
@@ -313,7 +313,7 @@
     "{明日|あした}の{天気|てんき}を{目指|めざ}して、{傘|かさ}を{持|も}っていく。"
    ],
    "answer": 1,
-   "en": "目指す = to aim for (a goal). She is studying to become an international lawyer."
+   "en": "{目指|めざ}す = to aim for (a goal). She is studying to become an international lawyer."
   },
   {
    "type": "usage",
@@ -325,7 +325,7 @@
     "{試験|しけん}に{合格|ごうかく}して、{気持|きも}ちが{手軽|てがる}になった。"
    ],
    "answer": 2,
-   "en": "手軽 = easy, simple to do. This dish needs few ingredients and is easy to make."
+   "en": "{手軽|てがる} = easy, simple to do. This dish needs few ingredients and is easy to make."
   },
   {
    "type": "usage",
@@ -337,7 +337,7 @@
     "{差|さ}し{支|つか}えなければ、ご{連絡先|れんらくさき}を{教|おし}えていただけますか。"
    ],
    "answer": 3,
-   "en": "差し支える = to be a problem/inconvenience. If it's no trouble, could you tell me your contact details?"
+   "en": "{差|さ}し{支|つか}える = to be a problem/inconvenience. If it's no trouble, could you tell me your contact details?"
   },
   {
    "type": "usage",
@@ -349,7 +349,7 @@
     "{宿題|しゅくだい}を{全部|ぜんぶ}{解消|かいしょう}してから{遊|あそ}びに{行|い}った。"
    ],
    "answer": 2,
-   "en": "解消 = clearing up (a problem). A new road was built and the traffic jams were cleared up."
+   "en": "{解消|かいしょう} = clearing up (a problem). A new road was built and the traffic jams were cleared up."
   },
   {
    "type": "usage",
@@ -361,7 +361,7 @@
     "この{服|ふく}は{色|いろ}が{頼|たの}もしくて、とても{似合|にあ}っている。"
    ],
    "answer": 1,
-   "en": "頼もしい = reliable, dependable. The new employee is a reliable person who handles everything on his own."
+   "en": "{頼|たの}もしい = reliable, dependable. The new employee is a reliable person who handles everything on his own."
   }
  ],
  "grammar": [
@@ -527,7 +527,7 @@
    ],
    "star": 2,
    "en": "Even though he was busy, he helped me move house.",
-   "why": "にもかかわらず comes right after 忙しい, then 私の引っ越しを is the object of 手伝ってくれた."
+   "why": "にもかかわらず comes right after {忙|いそが}しい, then {私|わたし}の{引|ひ}っ{越|こ}しを is the object of {手伝|てつだ}ってくれた."
   },
   {
    "type": "star",
@@ -547,7 +547,7 @@
    ],
    "star": 2,
    "en": "This town is famous not only for its hot springs but also for its delicious food.",
-   "why": "AだけでなくBでも: 温泉だけでなく, then 料理がおいしいことでも before 有名だ."
+   "why": "AだけでなくBでも: {温泉|おんせん}だけでなく, then {料理|りょうり}がおいしいことでも before {有名|ゆうめい}だ."
   },
   {
    "type": "star",
@@ -567,7 +567,7 @@
    ],
    "star": 1,
    "en": "Only after I started working did I understand how precious time is.",
-   "why": "〜てはじめて: 社会人になってはじめて, then 時間の大切さが is the subject of わかった."
+   "why": "〜てはじめて: {社会人|しゃかいじん}になってはじめて, then {時間|じかん}の{大切|たいせつ}さが is the subject of わかった."
   },
   {
    "type": "star",
@@ -587,7 +587,7 @@
    ],
    "star": 2,
    "en": "We decided to go ahead with the plan based on the manager's opinion.",
-   "why": "〜をもとに: 部長の意見をもとに, then 計画を is the object of 進める."
+   "why": "〜をもとに: {部長|ぶちょう}の{意見|いけん}をもとに, then {計画|けいかく}を is the object of {進|すす}める."
   },
   {
    "type": "star",
@@ -607,7 +607,7 @@
    ],
    "star": 3,
    "en": "The match was held as planned, in the middle of heavy rain.",
-   "why": "雨が降るなか means 'while it rains'; 予定どおり means 'as planned' and comes before 試合は."
+   "why": "{雨|あめ}が{降|ふ}るなか means 'while it rains'; {予定|よてい}どおり means 'as planned' and comes before {試合|しあい}は."
   },
   {
    "type": "text",
@@ -1483,7 +1483,7 @@
    ],
    "answer": 1,
    "en": "F: Tanaka, could you look over these documents by tomorrow?",
-   "why": "目を通す means to look through; the reply promises to read them."
+   "why": "{目|め}を{通|とお}す means to look through; the reply promises to read them."
   },
   {
    "type": "response",
