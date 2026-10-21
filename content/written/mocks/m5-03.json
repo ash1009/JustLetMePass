@@ -5,490 +5,490 @@
  "vocab": [
   {
    "type": "kanji_reading",
-   "q_raw": "【毎朝】 こうえんを はしります。",
+   "q_raw": "駅の【北】口で会いましょう。",
    "options": [
-    "めいあさ",
-    "まいあさ",
-    "まいちょう",
-    "まえあさ"
+    "みなみ",
+    "にし",
+    "きた",
+    "ひがし"
    ],
-   "answer": 1,
-   "en": "I run in the park every morning."
+   "answer": 2,
+   "en": "Let's meet at the north exit of the station."
   },
   {
    "type": "kanji_reading",
-   "q_raw": "きのうは 【雨】で、サッカーの れんしゅうが ありませんでした。",
+   "q_raw": "わたしの しゅみは 【音楽】を 聞くことです。",
    "options": [
-    "あめ",
-    "ゆき",
-    "くも",
-    "かぜ"
+    "おんがく",
+    "おんがっく",
+    "おんかく",
+    "いんがく"
    ],
    "answer": 0,
-   "en": "Yesterday it rained, so there was no soccer practice."
+   "en": "My hobby is listening to music."
   },
   {
    "type": "kanji_reading",
-   "q_raw": "この びょういんは 【午後】 ６じまでです。",
+   "q_raw": "つぎの 電車は 【午後】三時に 来ます。",
    "options": [
     "ごぜん",
     "ごうご",
-    "ごご",
-    "こご"
-   ],
-   "answer": 2,
-   "en": "This hospital is open until 6 p.m."
-  },
-  {
-   "type": "kanji_reading",
-   "q_raw": "【先生】に くすりを もらいました。",
-   "options": [
-    "せんせ",
-    "せいせん",
-    "せんぜい",
-    "せんせい"
+    "こご",
+    "ごご"
    ],
    "answer": 3,
-   "en": "I got medicine from the doctor."
+   "en": "The next train comes at 3 p.m."
   },
   {
    "type": "kanji_reading",
-   "q_raw": "【八月】は なつやすみです。",
+   "q_raw": "この 道を まっすぐ 行って、二つ目の かどを 【右】に まがって ください。",
    "options": [
-    "はっがつ",
-    "はちげつ",
-    "はちがつ",
-    "やがつ"
-   ],
-   "answer": 2,
-   "en": "August is summer vacation."
-  },
-  {
-   "type": "kanji_reading",
-   "q_raw": "まいにち プールで 【一時間】 およぎます。",
-   "options": [
-    "いちじけん",
-    "いちじかん",
-    "いっじかん",
-    "ひとじかん"
+    "ひだり",
+    "みぎ",
+    "みち",
+    "うえ"
    ],
    "answer": 1,
-   "en": "I swim in the pool for one hour every day."
+   "en": "Go straight along this road and turn right at the second corner."
   },
   {
    "type": "kanji_reading",
-   "q_raw": "あしたの 【天気】は はれでしょう。",
+   "q_raw": "【来週】の 土曜日に テニスを します。",
    "options": [
-    "でんき",
-    "てんぎ",
-    "てんけ",
-    "てんき"
+    "らいしゅ",
+    "らいじゅう",
+    "らいしゅう",
+    "きしゅう"
    ],
-   "answer": 3,
-   "en": "Tomorrow's weather will probably be sunny."
+   "answer": 2,
+   "en": "I will play tennis next Saturday."
   },
   {
-   "type": "orthography",
-   "q": "【やすみ】の {日|ひ}は テニスを します。",
-   "options_raw": [
-    "体み",
-    "休み",
-    "木み",
-    "伏み"
+   "type": "kanji_reading",
+   "q_raw": "駅から 学校まで 【十分】ぐらい 歩きます。",
+   "options": [
+    "じゅうぶん",
+    "じゅっぷん",
+    "じゅうふん",
+    "とおふん"
    ],
    "answer": 1,
-   "en": "On my days off I play tennis."
+   "en": "I walk about ten minutes from the station to school."
   },
   {
-   "type": "orthography",
-   "q": "やさいは 【からだ】に いいです。",
-   "options_raw": [
-    "休",
-    "本",
-    "体",
-    "木"
-   ],
-   "answer": 2,
-   "en": "Vegetables are good for your body."
-  },
-  {
-   "type": "orthography",
-   "q": "【みぎ】の {手|て}が いたいです。",
-   "options_raw": [
-    "右",
-    "左",
-    "石",
-    "名"
+   "type": "kanji_reading",
+   "q_raw": "【八日】に 友だちと えいがを 見に 行きます。",
+   "options": [
+    "ようか",
+    "よっか",
+    "はちにち",
+    "やっか"
    ],
    "answer": 0,
-   "en": "My right hand hurts."
+   "en": "I'm going to see a movie with a friend on the 8th."
   },
   {
    "type": "orthography",
-   "q": "【ふゆ】は ゆきが たくさん ふります。",
+   "q": "【でんしゃ】で {学校|がっこう}に {行|い}きます。",
    "options_raw": [
-    "各",
-    "終",
-    "夏",
-    "冬"
+    "雷車",
+    "電東",
+    "雲車",
+    "電車"
    ],
    "answer": 3,
-   "en": "It snows a lot in winter."
+   "en": "I go to school by train."
   },
   {
    "type": "orthography",
-   "q": "【ちいさい】 こどもが プールで およいで います。",
+   "q": "{毎週|まいしゅう} {日曜日|にちようび}に 【やま】に のぼります。",
    "options_raw": [
-    "少さい",
-    "子さい",
-    "小さい",
-    "心さい"
-   ],
-   "answer": 2,
-   "en": "Small children are swimming in the pool."
-  },
-  {
-   "type": "context",
-   "q": "かぜを ひいて、ねつが あります。きょうは ＿＿へ いきます。",
-   "options": [
-    "びょういん",
-    "ぎんこう",
-    "ゆうびんきょく",
-    "としょかん"
-   ],
-   "answer": 0,
-   "en": "I caught a cold and have a fever. Today I will go to the hospital."
-  },
-  {
-   "type": "context",
-   "q": "この くすりは １{日|にち}に ３かい ＿＿ ください。",
-   "options": [
-    "たべて",
-    "のんで",
-    "すって",
-    "かけて"
+    "出",
+    "山",
+    "川",
+    "止"
    ],
    "answer": 1,
-   "en": "Please take this medicine three times a day."
+   "en": "I climb a mountain every Sunday."
   },
   {
-   "type": "context",
-   "q": "はるに なると、さくらが ＿＿。",
-   "options": [
-    "ふきます",
-    "ふります",
-    "さきます",
-    "なきます"
-   ],
-   "answer": 2,
-   "en": "When spring comes, the cherry blossoms bloom."
-  },
-  {
-   "type": "context",
-   "q": "テニスを ３じかん したので、とても ＿＿。すこし やすみます。",
-   "options": [
-    "はじめました",
-    "わすれました",
-    "こまりました",
-    "つかれました"
-   ],
-   "answer": 3,
-   "en": "I played tennis for three hours, so I am very tired. I will rest a little."
-  },
-  {
-   "type": "context",
-   "q": "きょうは ＿＿ですから、コートを きて いきましょう。",
-   "options": [
-    "さむい",
-    "あつい",
-    "あまい",
-    "あかるい"
+   "type": "orthography",
+   "q": "{駅|えき}の 【にし】がわに {銀行|ぎんこう}が あります。",
+   "options_raw": [
+    "西",
+    "四",
+    "田",
+    "両"
    ],
    "answer": 0,
-   "en": "It is cold today, so let's wear a coat."
+   "en": "There is a bank on the west side of the station."
+  },
+  {
+   "type": "orthography",
+   "q": "{今日|きょう}は {十月|じゅうがつ}【ここのか】です。",
+   "options_raw": [
+    "九目",
+    "丸日",
+    "九日",
+    "九白"
+   ],
+   "answer": 2,
+   "en": "Today is October 9th."
+  },
+  {
+   "type": "orthography",
+   "q": "{土曜日|どようび}は {家|いえ}で {本|ほん}を 【よみます】。",
+   "options_raw": [
+    "話みます",
+    "語みます",
+    "誌みます",
+    "読みます"
+   ],
+   "answer": 3,
+   "en": "On Saturdays I read books at home."
   },
   {
    "type": "context",
-   "q": "あしたは あさ ９じから ＿＿で やきゅうの しあいが あります。",
+   "q": "{東京|とうきょう}{駅|えき}で {電車|でんしゃ}を ＿＿、バスに {乗|の}りました。",
    "options": [
-    "きっさてん",
-    "ぎんこう",
-    "ゆうびんきょく",
-    "こうえん"
+    "かけて",
+    "おりて",
+    "はいって",
+    "しめて"
+   ],
+   "answer": 1,
+   "en": "I got off the train at Tokyo Station and got on a bus."
+  },
+  {
+   "type": "context",
+   "q": "{休|やす}みの {日|ひ}は よく ギターを ＿＿。",
+   "options": [
+    "うたいます",
+    "かきます",
+    "ひきます",
+    "とります"
+   ],
+   "answer": 2,
+   "en": "On my days off I often play the guitar."
+  },
+  {
+   "type": "context",
+   "q": "{今日|きょう}は {三日|みっか}です。あさっては ＿＿です。",
+   "options": [
+    "いつか",
+    "よっか",
+    "むいか",
+    "ふつか"
+   ],
+   "answer": 0,
+   "en": "Today is the 3rd. The day after tomorrow is the 5th."
+  },
+  {
+   "type": "context",
+   "q": "この ＿＿を まっすぐ {行|い}くと、{駅|えき}が あります。",
+   "options": [
+    "へや",
+    "まど",
+    "いえ",
+    "みち"
    ],
    "answer": 3,
-   "en": "Tomorrow there is a baseball game in the park from 9 a.m."
+   "en": "If you go straight along this road, there is the station."
+  },
+  {
+   "type": "context",
+   "q": "{朝|あさ} {六時|ろくじ}に ＿＿、{顔|かお}を あらいます。",
+   "options": [
+    "おきて",
+    "ねて",
+    "やすんで",
+    "つかれて"
+   ],
+   "answer": 0,
+   "en": "I get up at six in the morning and wash my face."
+  },
+  {
+   "type": "context",
+   "q": "ここから {駅|えき}まで あるいて {十分|じゅっぷん}ぐらい ＿＿。",
+   "options": [
+    "とります",
+    "いきます",
+    "かかります",
+    "すみます"
+   ],
+   "answer": 2,
+   "en": "It takes about ten minutes to walk from here to the station."
   },
   {
    "type": "paraphrase",
-   "q": "【おととい】 びょういんへ いきました。",
+   "q": "【おととい】 {友|とも}だちと {山|やま}に {行|い}きました。",
    "options": [
-    "きのう びょういんへ いきました。",
-    "ふつか まえに びょういんへ いきました。",
-    "みっか まえに びょういんへ いきました。",
-    "あした びょういんへ いきます。"
-   ],
-   "answer": 1,
-   "en": "I went to the hospital the day before yesterday."
-  },
-  {
-   "type": "paraphrase",
-   "q": "【あねは テニスが へたです。】",
-   "options": [
-    "あねは テニスが すきじゃ ありません。",
-    "あねは テニスを しません。",
-    "あねは テニスが じょうずです。",
-    "あねは テニスが じょうずじゃ ありません。"
+    "みっか まえに {友|とも}だちと {山|やま}に {行|い}きました。",
+    "あさって {友|とも}だちと {山|やま}に {行|い}きます。",
+    "きのう {友|とも}だちと {山|やま}に {行|い}きました。",
+    "ふつか まえに {友|とも}だちと {山|やま}に {行|い}きました。"
    ],
    "answer": 3,
-   "en": "My older sister is bad at tennis."
+   "en": "The day before yesterday I went to the mountains with a friend."
   },
   {
    "type": "paraphrase",
-   "q": "やまださんは きのう かぜで 【がっこうを やすみました】。",
+   "q": "この {電車|でんしゃ}は 【すいて います】。",
    "options": [
-    "がっこうへ きませんでした。",
-    "がっこうで ねました。",
-    "がっこうへ はやく きました。",
-    "がっこうに おそく きました。"
+    "この {電車|でんしゃ}には {人|ひと}が たくさん います。",
+    "この {電車|でんしゃ}には {人|ひと}が あまり いません。",
+    "この {電車|でんしゃ}は とても はやいです。",
+    "この {電車|でんしゃ}は とても おそいです。"
+   ],
+   "answer": 1,
+   "en": "This train is not crowded."
+  },
+  {
+   "type": "paraphrase",
+   "q": "【まいばん】 ピアノを れんしゅうします。",
+   "options": [
+    "よるは いつも ピアノを れんしゅうします。",
+    "あさは いつも ピアノを れんしゅうします。",
+    "よるは ときどき ピアノを れんしゅうします。",
+    "ひるは いつも ピアノを れんしゅうします。"
    ],
    "answer": 0,
-   "en": "Mr. Yamada was absent from school yesterday because of a cold."
+   "en": "I practice the piano every evening."
   }
  ],
  "grammar": [
   {
    "type": "form",
-   "q": "{公園|こうえん}＿＿ テニスを しました。",
+   "q": "{駅|えき}の {前|まえ}＿＿ {友|とも}だちを {待|ま}ちます。",
    "options": [
+    "に",
     "を",
-    "へ",
     "で",
-    "が"
+    "へ"
    ],
    "answer": 2,
-   "en": "I played tennis in the park."
+   "en": "I'll wait for my friend in front of the station."
   },
   {
    "type": "form",
-   "q": "おふろに はいる ＿＿、{薬|くすり}を {飲|の}みました。",
+   "q": "わたしは {毎朝|まいあさ} {七時|しちじ}＿＿ {家|いえ}を {出|で}ます。",
    "options": [
-    "あとで",
-    "まえに",
-    "ながら",
-    "たり"
-   ],
-   "answer": 1,
-   "en": "I took my medicine before taking a bath."
-  },
-  {
-   "type": "form",
-   "q": "{熱|ねつ}が ありますから、きょうは おふろに はいら＿＿ ください。",
-   "options": [
-    "ないで",
-    "なくて",
-    "ません",
-    "ない"
+    "に",
+    "で",
+    "を",
+    "が"
    ],
    "answer": 0,
-   "en": "You have a fever, so please do not take a bath today."
+   "en": "I leave home at seven every morning."
   },
   {
    "type": "form",
-   "q": "わたしは {夏|なつ}が {冬|ふゆ}＿＿ {好|す}きです。",
+   "q": "わたしは {本|ほん}を {読|よ}む＿＿が {好|す}きです。",
    "options": [
-    "から",
-    "まで",
-    "ほど",
-    "より"
+    "と",
+    "の",
+    "を",
+    "に"
    ],
-   "answer": 3,
-   "en": "I like summer more than winter."
+   "answer": 1,
+   "en": "I like reading books."
   },
   {
    "type": "form",
-   "q": "スポーツの {中|なか}で {何|なに}＿＿ {一番|いちばん} {好|す}きですか。",
+   "q": "{日曜日|にちようび}は どこ＿＿ {行|い}きませんでした。",
    "options": [
     "が",
     "を",
-    "は",
-    "に"
+    "でも",
+    "へも"
    ],
-   "answer": 0,
-   "en": "Which sport do you like best?"
+   "answer": 3,
+   "en": "On Sunday I didn't go anywhere."
   },
   {
    "type": "form",
-   "q": "ゆうべ {薬|くすり}を {飲|の}んで {寝|ね}ました。けさは もう {元気|げんき}に ＿＿。",
+   "q": "きのうは {雨|あめ}でしたから、テニスを ＿＿。",
    "options": [
     "しました",
-    "なりました",
-    "ありました",
-    "いました"
+    "しませんでした",
+    "します",
+    "しています"
    ],
    "answer": 1,
-   "en": "I took medicine last night and went to bed. This morning I am already well."
+   "en": "It rained yesterday, so I didn't play tennis."
   },
   {
    "type": "form",
-   "q": "A「いっしょに プールへ {行|い}き＿＿。」\nB「ええ、{行|い}きましょう。」",
+   "q": "{宿題|しゅくだい}を して＿＿、ゲームを します。",
    "options": [
-    "ましたか",
-    "ませんでしたか",
-    "ましたね",
-    "ませんか"
+    "から",
+    "まで",
+    "より",
+    "ので"
+   ],
+   "answer": 0,
+   "en": "I'll play games after doing my homework."
+  },
+  {
+   "type": "form",
+   "q": "{次|つぎ}の {電車|でんしゃ}は {何時|なんじ}＿＿ {来|き}ますか。",
+   "options": [
+    "が",
+    "を",
+    "で",
+    "に"
    ],
    "answer": 3,
-   "en": "A: Won't you go to the pool with me? B: Yes, let's go."
+   "en": "What time does the next train come?"
   },
   {
    "type": "form",
-   "q": "あしたは {雪|ゆき}が ふる＿＿。",
+   "q": "A「いっしょに {映画|えいが}を {見|み}に {行|い}き＿＿。」\nB「いいですね。{行|い}きましょう。」",
    "options": [
-    "でした",
     "ました",
-    "でしょう",
-    "ましょう"
+    "ません",
+    "ませんか",
+    "たいです"
    ],
    "answer": 2,
-   "en": "It will probably snow tomorrow."
+   "en": "A: Won't you come and see a movie with me? B: Sounds good. Let's go."
   },
   {
    "type": "form",
-   "q": "{昨日|きのう}は テニスを し＿＿、{野球|やきゅう}を したり しました。",
+   "q": "この {道|みち}を まっすぐ {行|い}って、{二|ふた}つ{目|め}の かどを {左|ひだり}＿＿ まがって ください。",
    "options": [
-    "ても",
-    "たら",
-    "ながら",
-    "たり"
+    "を",
+    "に",
+    "で",
+    "が"
    ],
-   "answer": 3,
-   "en": "Yesterday I did things like playing tennis and baseball."
+   "answer": 1,
+   "en": "Go straight along this road and turn left at the second corner."
   },
   {
    "type": "star",
-   "before": "かぜを ひいた",
-   "after": "{寝|ね}て います。",
+   "before": "わたしの",
+   "after": "ことです。",
    "pieces": [
-    "{休|やす}んで",
-    "{家|いえ}で",
-    "ので",
-    "{学校|がっこう}を"
+    "{趣味|しゅみ}",
+    "とる",
+    "は",
+    "{写真|しゃしん}を"
    ],
    "order": [
+    0,
     2,
     3,
-    0,
     1
    ],
    "star": 2,
-   "en": "I caught a cold, so I am absent from school and sleeping at home.",
-   "why": "ので follows the reason; 学校を goes with 休んで, and 家で goes right before 寝ています."
+   "en": "My hobby is taking photos.",
+   "why": "わたしの{趣味|しゅみ}は comes first, then {写真|しゃしん}をとる goes before ことです."
   },
   {
    "type": "star",
-   "before": "あしたは",
-   "after": "でしょう。",
+   "before": "{駅|えき}",
+   "after": "{待|ま}って います。",
    "pieces": [
-    "{雪|ゆき}が",
-    "なって",
-    "ふる",
-    "{寒|さむ}く"
+    "で",
+    "が",
+    "{友|とも}だち",
+    "{前|まえ}"
    ],
    "order": [
     3,
-    1,
     0,
-    2
-   ],
-   "star": 0,
-   "en": "Tomorrow it will probably get cold and snow.",
-   "why": "寒く なって is one unit (become cold), then 雪が ふる comes before でしょう."
-  },
-  {
-   "type": "star",
-   "before": "{毎朝|まいあさ} ジョギングを",
-   "after": "。",
-   "pieces": [
-    "から",
-    "あびます",
-    "して",
-    "シャワーを"
-   ],
-   "order": [
     2,
-    0,
-    3,
     1
    ],
    "star": 1,
-   "en": "Every morning I take a shower after jogging.",
-   "why": "ジョギングを して から means 'after jogging'; then シャワーを あびます ends the sentence."
+   "en": "A friend is waiting in front of the station.",
+   "why": "{駅|えき}{前|まえ} means in front of the station; で marks the place and が marks who is waiting."
   },
   {
    "type": "star",
-   "before": "{妹|いもうと}は",
-   "after": "います。",
+   "before": "{兄|あに}は",
+   "after": "が {上手|じょうず}です。",
    "pieces": [
-    "{練習|れんしゅう}をして",
-    "{音楽|おんがく}を",
-    "テニスの",
-    "{聞|き}きながら"
+    "ピアノ",
+    "の",
+    "ひく",
+    "を"
    ],
    "order": [
-    1,
+    0,
     3,
     2,
-    0
+    1
+   ],
+   "star": 2,
+   "en": "My older brother is good at playing the piano.",
+   "why": "ピアノをひく becomes a noun with の before が{上手|じょうず}です."
+  },
+  {
+   "type": "star",
+   "before": "{駅|えき}まで",
+   "after": "かかります。",
+   "pieces": [
+    "バス",
+    "{二十分|にじゅっぷん}",
+    "で",
+    "ぐらい"
+   ],
+   "order": [
+    0,
+    2,
+    1,
+    3
    ],
    "star": 3,
-   "en": "My younger sister is practicing tennis while listening to music.",
-   "why": "音楽を 聞きながら comes first, then テニスの 練習をして joins with います."
+   "en": "It takes about twenty minutes by bus to the station.",
+   "why": "バスで means by bus, and ぐらい comes after the amount of time."
   },
   {
    "type": "text",
-   "passage": "「わたしの {好|す}きな きせつ」\n\nわたしは {夏|なつ}が {一番|いちばん} {好|す}きです。{夏|なつ}は {暑|あつ}いですが、{海|うみ}で {泳|およ}ぐ ことが できます。{去年|きょねん}の {夏|なつ}は、{友達|ともだち}（１） {海|うみ}へ {行|い}きました。{毎日|まいにち} たくさん {泳|およ}いで、とても {楽|たの}しかったです。\nでも、{冬|ふゆ}は あまり {好|す}きじゃ ありません。{寒|さむ}いからです。（２）、{冬|ふゆ}に なると よく かぜを ひきます。{去年|きょねん}の {冬|ふゆ}も {熱|ねつ}が {出|で}て、{一週間|いっしゅうかん} {学校|がっこう}を （３）。\n{今年|ことし}の {冬|ふゆ}は かぜを ひきたく ありませんから、{毎日|まいにち} あたたかい {服|ふく}を （４）。",
-   "en": "\"My favorite season\" — I like summer best. Summer is hot, but you can swim in the sea. Last summer I went to the sea with my friends. We swam a lot every day and it was a lot of fun. But I don't like winter very much, because it is cold. Also, I often catch colds in winter. Last winter too I had a fever and was absent from school for a week. I don't want to catch a cold this winter, so I plan to wear warm clothes every day.",
+   "passage": "「わたしの しゅみ」　マイク・ブラウン\n\nわたしは {電車|でんしゃ}が {大好|だいす}きです。{日曜日|にちようび}は よく {駅|えき}（１） {電車|でんしゃ}の {写真|しゃしん}を とります。\n{先週|せんしゅう}の {日曜日|にちようび}は {朝|あさ} {五時|ごじ}に {起|お}きました。（２）、{六時|ろくじ}の {電車|でんしゃ}で {海|うみ}の {近|ちか}くの {駅|えき}へ {行|い}きました。その {駅|えき}で {三時間|さんじかん} {写真|しゃしん}を とって、{午後|ごご} {四時|よじ}（３） {家|いえ}に {帰|かえ}りました。\n{来月|らいげつ}は {山|やま}の {電車|でんしゃ}を {見|み}に {行|い}き（４）です。",
+   "en": "\"My hobby\" by Mike Brown. I love trains. On Sundays I often take photos of trains at stations. Last Sunday I got up at five in the morning. Then I took the six o'clock train to a station near the sea. I took photos at that station for three hours and got home at about 4 p.m. Next month I want to go and see the mountain trains.",
    "questions": [
     {
      "q": "（１）",
      "options": [
-      "が",
-      "を",
       "に",
-      "と"
+      "で",
+      "を",
+      "へ"
      ],
-     "answer": 3
+     "answer": 1
     },
     {
      "q": "（２）",
      "options": [
       "でも",
-      "じゃあ",
-      "それに",
-      "では"
+      "どうして",
+      "では",
+      "それから"
      ],
-     "answer": 2
+     "answer": 3
     },
     {
      "q": "（３）",
      "options": [
-      "{休|やす}みます",
-      "{休|やす}みました",
-      "{休|やす}みたいです",
-      "{休|やす}みましょう"
+      "ごろ",
+      "だけ",
+      "から",
+      "まで"
      ],
-     "answer": 1
+     "answer": 0
     },
     {
      "q": "（４）",
      "options": [
-      "{着|き}る つもりです",
-      "{着|き}たかったです",
-      "{着|き}て ください",
-      "{着|き}ました"
+      "ます",
+      "ました",
+      "たい",
+      "たく"
      ],
-     "answer": 0
+     "answer": 2
     }
    ]
   }
@@ -1127,7 +1127,7 @@
    ],
    "answer": 0,
    "en": "F: What's the date today?",
-   "why": "何日 asks for the date, not the day of the week or time."
+   "why": "{何日|なんにち} asks for the date, not the day of the week or time."
   },
   {
    "type": "response",

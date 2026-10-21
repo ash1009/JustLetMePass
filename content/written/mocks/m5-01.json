@@ -163,7 +163,7 @@
    "type": "context",
    "q": "{雨|あめ}が ふって いますから、＿＿を もって {学校|がっこう}へ いきます。",
    "options": [
-    "くつ",
+    "ほん",
     "めがね",
     "かさ",
     "とけい"
@@ -358,11 +358,11 @@
    "q": "{弟|おとうと}は わたし＿＿ せが たかいです。",
    "options": [
     "から",
-    "より",
     "ほど",
-    "まで"
+    "まで",
+    "より"
    ],
-   "answer": 1,
+   "answer": 3,
    "en": "My younger brother is taller than me."
   },
   {
@@ -1025,13 +1025,13 @@
    "lines": [],
    "question": "{何|なん}と いいますか。",
    "options": [
-    "すみません、よく {話|はな}して ください。",
+    "すみません、{先生|せんせい}は わかりますか。",
     "すみません、もう {一度|いちど} おねがいします。",
     "すみません、わかりましたか。"
    ],
    "answer": 1,
    "en": "You didn't understand what the teacher said. What do you say?",
-   "why": "もう 一度 おねがいします asks the teacher to say it again."
+   "why": "もう {一度|いちど} おねがいします asks the teacher to say it again."
   },
   {
    "type": "utterance",
@@ -1078,7 +1078,7 @@
    ],
    "answer": 1,
    "en": "F: Which country are you from?",
-   "why": "お国は どちらですか asks your home country, so you answer with the country's name."
+   "why": "お{国|くに}は どちらですか asks your home country, so you answer with the country's name."
   },
   {
    "type": "response",
@@ -1135,7 +1135,7 @@
    ],
    "answer": 2,
    "en": "M: How old is your older brother?",
-   "why": "何さい asks age."
+   "why": "{何|なん}さい asks age."
   },
   {
    "type": "response",

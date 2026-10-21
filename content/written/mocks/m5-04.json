@@ -1,0 +1,1203 @@
+{
+ "id": "m5-04",
+ "level": 5,
+ "title_en": "N5 practice test 4",
+ "vocab": [
+  {
+   "type": "kanji_reading",
+   "q_raw": "わたしの　【部屋】は　二かいに　あります。",
+   "options": [
+    "へや",
+    "べや",
+    "ほや",
+    "へいや"
+   ],
+   "answer": 0,
+   "en": "My room is on the second floor."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "ゆうびんきょくで　【切手】を　かいました。",
+   "options": [
+    "きりて",
+    "きって",
+    "きつて",
+    "せって"
+   ],
+   "answer": 1,
+   "en": "I bought stamps at the post office."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "きのう　【友達】と　こうえんへ　いきました。",
+   "options": [
+    "ともたち",
+    "どもだち",
+    "ともだち",
+    "ともだっち"
+   ],
+   "answer": 2,
+   "en": "Yesterday I went to the park with a friend."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "ぎんこうは　【午後】三時までです。",
+   "options": [
+    "ごこ",
+    "こご",
+    "ごうご",
+    "ごご"
+   ],
+   "answer": 3,
+   "en": "The bank is open until 3 p.m."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "いえの　【外】に　大きい　木が　あります。",
+   "options": [
+    "そと",
+    "そど",
+    "うえ",
+    "した"
+   ],
+   "answer": 0,
+   "en": "There is a big tree outside the house."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "えきの　ちかくに　【新しい】　ぎんこうが　できました。",
+   "options": [
+    "あだらしい",
+    "あたらしい",
+    "あたたかい",
+    "あらたしい"
+   ],
+   "answer": 1,
+   "en": "A new bank opened near the station."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "【毎月】　ぎんこうに　お金を　いれます。",
+   "options": [
+    "めいつき",
+    "まいづき",
+    "まいつき",
+    "まいとし"
+   ],
+   "answer": 2,
+   "en": "I put money in the bank every month."
+  },
+  {
+   "type": "orthography",
+   "q": "あしたは　ぎんこうが　【やすみ】です。",
+   "options_raw": [
+    "体み",
+    "木み",
+    "本み",
+    "休み"
+   ],
+   "answer": 3,
+   "en": "The bank is closed tomorrow."
+  },
+  {
+   "type": "orthography",
+   "q": "{友達|ともだち}に　【てがみ】を　かきました。",
+   "options_raw": [
+    "手紙",
+    "毛紙",
+    "手絵",
+    "午紙"
+   ],
+   "answer": 0,
+   "en": "I wrote a letter to my friend."
+  },
+  {
+   "type": "orthography",
+   "q": "ぎんこうは　ゆうびんきょくの　【みぎ】に　あります。",
+   "options_raw": [
+    "左",
+    "右",
+    "石",
+    "古"
+   ],
+   "answer": 1,
+   "en": "The bank is to the right of the post office."
+  },
+  {
+   "type": "orthography",
+   "q": "この　アパートは　【ちいさい】ですが、きれいです。",
+   "options_raw": [
+    "少さい",
+    "小い",
+    "小さい",
+    "少い"
+   ],
+   "answer": 2,
+   "en": "This apartment is small, but it is clean."
+  },
+  {
+   "type": "orthography",
+   "q": "げんかんから　いえに　【はいります】。",
+   "options_raw": [
+    "人ります",
+    "八ります",
+    "込ります",
+    "入ります"
+   ],
+   "answer": 3,
+   "en": "I enter the house through the front door."
+  },
+  {
+   "type": "context",
+   "q": "ゆうびんきょくで　にもつを　＿＿。",
+   "options": [
+    "おくりました",
+    "あらいました",
+    "ならいました",
+    "しめました"
+   ],
+   "answer": 0,
+   "en": "I sent a package at the post office."
+  },
+  {
+   "type": "context",
+   "q": "{部屋|へや}が　くらいですから、でんきを　＿＿　ください。",
+   "options": [
+    "けして",
+    "つけて",
+    "しめて",
+    "あけて"
+   ],
+   "answer": 1,
+   "en": "The room is dark, so please turn on the light."
+  },
+  {
+   "type": "context",
+   "q": "きのう　{友達|ともだち}の　うちへ　＿＿に　いきました。",
+   "options": [
+    "でかけ",
+    "はいり",
+    "あそび",
+    "かえり"
+   ],
+   "answer": 2,
+   "en": "Yesterday I went to my friend's house to hang out."
+  },
+  {
+   "type": "context",
+   "q": "ぎんこうの　まえで　{友達|ともだち}を　{30分|さんじゅっぷん}　＿＿。",
+   "options": [
+    "まがりました",
+    "わたりました",
+    "こたえました",
+    "まちました"
+   ],
+   "answer": 3,
+   "en": "I waited for my friend in front of the bank for 30 minutes."
+  },
+  {
+   "type": "context",
+   "q": "この　アパートは　{駅|えき}から　＿＿ですから、とても　べんりです。",
+   "options": [
+    "ちかい",
+    "とおい",
+    "せまい",
+    "ひくい"
+   ],
+   "answer": 0,
+   "en": "This apartment is close to the station, so it is very convenient."
+  },
+  {
+   "type": "context",
+   "q": "{手紙|てがみ}に　110{円|えん}の　＿＿を　はりました。",
+   "options": [
+    "はがき",
+    "きって",
+    "ふうとう",
+    "ポスト"
+   ],
+   "answer": 1,
+   "en": "I put a 110-yen stamp on the letter."
+  },
+  {
+   "type": "paraphrase",
+   "q": "わたしの　{部屋|へや}は　【せまいです】。",
+   "options": [
+    "あかるくないです",
+    "きれいじゃないです",
+    "ひろくないです",
+    "しずかじゃないです"
+   ],
+   "answer": 2,
+   "en": "My room is small."
+  },
+  {
+   "type": "paraphrase",
+   "q": "【おととい】　ゆうびんきょくへ　いきました。",
+   "options": [
+    "きのう　ゆうびんきょくへ　いきました。",
+    "きょう　ゆうびんきょくへ　いきました。",
+    "みっか　まえに　ゆうびんきょくへ　いきました。",
+    "ふつか　まえに　ゆうびんきょくへ　いきました。"
+   ],
+   "answer": 3,
+   "en": "I went to the post office the day before yesterday."
+  },
+  {
+   "type": "paraphrase",
+   "q": "【たなかさんは　やまださんに　ほんを　かしました】。",
+   "options": [
+    "やまださんは　たなかさんに　ほんを　かりました。",
+    "やまださんは　たなかさんに　ほんを　かしました。",
+    "たなかさんは　やまださんに　ほんを　かりました。",
+    "たなかさんは　やまださんに　ほんを　もらいました。"
+   ],
+   "answer": 0,
+   "en": "Tanaka lent Yamada a book."
+  }
+ ],
+ "grammar": [
+  {
+   "type": "form",
+   "q": "わたしの　いえ＿＿　{駅|えき}まで　あるいて　{十分|じっぷん}です。",
+   "options": [
+    "に",
+    "から",
+    "で",
+    "を"
+   ],
+   "answer": 1,
+   "en": "It is a ten-minute walk from my house to the station."
+  },
+  {
+   "type": "form",
+   "q": "ゆうびんきょくは　あの　ぎんこうの　となり＿＿　あります。",
+   "options": [
+    "で",
+    "を",
+    "へ",
+    "に"
+   ],
+   "answer": 3,
+   "en": "The post office is next to that bank."
+  },
+  {
+   "type": "form",
+   "q": "わたしは　{友達|ともだち}＿＿　{電話|でんわ}を　かけました。",
+   "options": [
+    "に",
+    "を",
+    "の",
+    "で"
+   ],
+   "answer": 0,
+   "en": "I called my friend."
+  },
+  {
+   "type": "form",
+   "q": "{友達|ともだち}が　{来|く}る　＿＿、{部屋|へや}を　そうじしました。",
+   "options": [
+    "あとで",
+    "ながら",
+    "まえに",
+    "でも"
+   ],
+   "answer": 2,
+   "en": "Before my friend came, I cleaned my room."
+  },
+  {
+   "type": "form",
+   "q": "この　{部屋|へや}は　ひろくて、＿＿です。",
+   "options": [
+    "あかるく",
+    "あかるい",
+    "あかるくて",
+    "あかるいの"
+   ],
+   "answer": 1,
+   "en": "This room is big and bright."
+  },
+  {
+   "type": "form",
+   "q": "A「すみません、ATMは　＿＿ですか。」\nB「あの　ドアの　よこです。」",
+   "options": [
+    "どこ",
+    "なに",
+    "だれ",
+    "いつ"
+   ],
+   "answer": 0,
+   "en": "A: Excuse me, where is the ATM? B: It is next to that door."
+  },
+  {
+   "type": "form",
+   "q": "{日曜日|にちようび}は　{友達|ともだち}と　えいがを　{見|み}たり、かいものを　＿＿　しました。",
+   "options": [
+    "する",
+    "して",
+    "しない",
+    "したり"
+   ],
+   "answer": 3,
+   "en": "On Sunday I did things like watching a movie and shopping with a friend."
+  },
+  {
+   "type": "form",
+   "q": "A「{部屋|へや}に　だれか　いますか。」\nB「いいえ、だれ＿＿　いません。」",
+   "options": [
+    "が",
+    "か",
+    "も",
+    "を"
+   ],
+   "answer": 2,
+   "en": "A: Is anyone in the room? B: No, nobody is there."
+  },
+  {
+   "type": "form",
+   "q": "これから　ゆうびんきょくへ　{手紙|てがみ}を　＿＿に　{行|い}きます。",
+   "options": [
+    "だす",
+    "だし",
+    "だして",
+    "だした"
+   ],
+   "answer": 1,
+   "en": "I am going to the post office now to send a letter."
+  },
+  {
+   "type": "star",
+   "before": "A「あの",
+   "after": "ですか。」\nB「わたしの　{友達|ともだち}の　リンさんです。」",
+   "pieces": [
+    "{人|ひと}は",
+    "だれ",
+    "めがねを",
+    "かけて　いる"
+   ],
+   "order": [
+    2,
+    3,
+    0,
+    1
+   ],
+   "star": 2,
+   "en": "A: Who is that person wearing glasses? B: That is my friend Lin.",
+   "why": "めがねを かけて いる describes {人|ひと}, then は and the question word だれ come last."
+  },
+  {
+   "type": "star",
+   "before": "すみません、この　にもつを",
+   "after": "いくらですか。",
+   "pieces": [
+    "おくる",
+    "アメリカ",
+    "のは",
+    "まで"
+   ],
+   "order": [
+    1,
+    3,
+    0,
+    2
+   ],
+   "star": 1,
+   "en": "Excuse me, how much is it to send this package to America?",
+   "why": "アメリカまで tells where, then おくる + のは makes 'sending it' the topic."
+  },
+  {
+   "type": "star",
+   "before": "わたしの　いえには",
+   "after": "あります。",
+   "pieces": [
+    "{三|みっ}つ",
+    "{部屋|へや}が",
+    "と",
+    "だいどころ"
+   ],
+   "order": [
+    3,
+    2,
+    1,
+    0
+   ],
+   "star": 2,
+   "en": "My house has a kitchen and three rooms.",
+   "why": "と joins だいどころ to {部屋|へや}, and the counter {三|みっ}つ comes after {部屋|へや}が, right before あります."
+  },
+  {
+   "type": "star",
+   "before": "きのう　{友達|ともだち}が",
+   "after": "くれました。",
+   "pieces": [
+    "てつだって",
+    "へやの",
+    "そうじを",
+    "わたしの"
+   ],
+   "order": [
+    3,
+    1,
+    2,
+    0
+   ],
+   "star": 2,
+   "en": "Yesterday my friend helped me clean my room.",
+   "why": "わたしの へやの そうじ is one noun phrase; を comes before the verb てつだって, which joins くれました."
+  },
+  {
+   "type": "text",
+   "passage": "わたしは　{先月|せんげつ}、{新|あたら}しい　アパートに　ひっこしました。{駅|えき}から　あるいて　{五分|ごふん}です。{部屋|へや}は　あまり　ひろく（１）、とても　あかるいです。\n{先週|せんしゅう}の　{土曜日|どようび}、{友達|ともだち}の　リンさんが　あそびに　{来|き}ました。わたしは　リンさん（２）　カレーを　{作|つく}りました。リンさんは「おいしい」と　{言|い}って、たくさん　{食|た}べました。\n{食|た}べた（３）、{二人|ふたり}で　{近|ちか}くの　こうえんを　さんぽしました。こんどは　わたしが　リンさんの　うちへ（４）。",
+   "en": "Last month I moved to a new apartment. It is a five-minute walk from the station. The room is not very big, but it is very bright. Last Saturday my friend Lin came over. I made curry for Lin. Lin said 'It's delicious' and ate a lot. After we ate, the two of us took a walk in a nearby park. Next time I will go to Lin's house.",
+   "questions": [
+    {
+     "q": "（１）",
+     "options": [
+      "ないから",
+      "ないと",
+      "ないですが",
+      "なかったら"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "（２）",
+     "options": [
+      "に",
+      "が",
+      "を",
+      "へ"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "（３）",
+     "options": [
+      "まえに",
+      "ながら",
+      "でも",
+      "あとで"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "（４）",
+     "options": [
+      "{来|き}ます",
+      "{行|い}きます",
+      "{行|い}きました",
+      "{来|き}ました"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ],
+ "reading": [
+  {
+   "type": "short",
+   "text": "ケンへ\nお{母|かあ}さんは　ゆうびんきょくと　ぎんこうへ　{行|い}って　きます。{五時|ごじ}までに　かえります。\n{学校|がっこう}から　かえったら、ケンの　{部屋|へや}を　そうじして　ください。それから、せんたくものを　いえの　{中|なか}に　いれて　ください。おやつは　れいぞうこの　{中|なか}に　あります。\n{母|はは}より",
+   "en": "To Ken: I'm going to the post office and the bank. I'll be back by five. When you get home from school, please clean your room. After that, please bring the laundry inside. Your snack is in the fridge. From Mom",
+   "questions": [
+    {
+     "q": "ケンくんは　{学校|がっこう}から　かえって、はじめに　{何|なに}を　しますか。",
+     "options": [
+      "ぎんこうへ　{行|い}きます。",
+      "{自分|じぶん}の　{部屋|へや}を　そうじします。",
+      "せんたくものを　いえの　{中|なか}に　いれます。",
+      "れいぞうこの　おやつを　{食|た}べます。"
+     ],
+     "answer": 1,
+     "why": "The note says to clean his room first, and to bring in the laundry after that (それから)."
+    }
+   ]
+  },
+  {
+   "type": "short",
+   "text": "アンナさん\nきのうは　パーティーに　{来|き}て　くれて、ありがとう。アンナさんの　かさが　わたしの　うちに　ありました。あした、ゆうびんきょくから　おくりましょうか。それとも、{来週|らいしゅう}の　{月曜日|げつようび}に　{学校|がっこう}で　わたしましょうか。へんじを　ください。\nさき",
+   "en": "Anna, thank you for coming to the party yesterday. Your umbrella was at my house. Shall I send it from the post office tomorrow? Or shall I give it to you at school next Monday? Please reply. Saki",
+   "questions": [
+    {
+     "q": "さきさんは　アンナさんに　{何|なに}を　{聞|き}きたいですか。",
+     "options": [
+      "パーティーに　{来|く}るか　どうか",
+      "ゆうびんきょくが　どこに　あるか",
+      "かさを　どうやって　かえすか",
+      "{月曜日|げつようび}に　{学校|がっこう}が　あるか　どうか"
+     ],
+     "answer": 2,
+     "why": "Saki asks whether to post the umbrella or hand it over at school, so she wants to know how to return it."
+    }
+   ]
+  },
+  {
+   "type": "mid",
+   "text": "わたしは　{日本|にほん}に　{来|き}て、{一年|いちねん}に　なります。{日本|にほん}に　{来|き}た　とき、{日本語|にほんご}が　あまり　わかりませんでした。ぎんこうで　くにの　かぞくに　お{金|かね}を　おくりたかったですが、やりかたが　わかりませんでした。その　とき、おなじ　アパートの　スミンさんが　いっしょに　ぎんこうへ　{行|い}って　くれました。スミンさんは　かんこくから　{来|き}た　{学生|がくせい}で、{日本語|にほんご}が　とても　じょうずです。\nスミンさんの　{部屋|へや}は　わたしの　{部屋|へや}の　となりです。わたしたちは　よく　いっしょに　ばんごはんを　{作|つく}ります。{日曜日|にちようび}には、ときどき　{二人|ふたり}で　{電車|でんしゃ}に　のって、とおくの　{町|まち}へ　{行|い}きます。\n{来月|らいげつ}、スミンさんは　くにへ　かえります。とても　さびしいです。でも、スミンさんが　かえった　あとも、{手紙|てがみ}を　たくさん　かきたいと　{思|おも}って　います。",
+   "en": "It has been one year since I came to Japan. When I came, I did not understand much Japanese. I wanted to send money to my family back home from the bank, but I did not know how. Then Sumin, who lives in the same apartment building, went to the bank with me. Sumin is a student from Korea, and her Japanese is very good. Sumin's room is next to mine. We often make dinner together. On Sundays we sometimes take the train to a faraway town. Next month Sumin is going back to her country. I am very sad. But even after she goes back, I want to write her a lot of letters.",
+   "questions": [
+    {
+     "q": "スミンさんは　「わたし」に　{何|なに}を　して　くれましたか。",
+     "options": [
+      "いっしょに　ぎんこうへ　{行|い}って　くれました。",
+      "{日本語|にほんご}を　{毎日|まいにち}　おしえて　くれました。",
+      "ばんごはんを　{一人|ひとり}で　{作|つく}って　くれました。",
+      "あたらしい　アパートを　さがして　くれました。"
+     ],
+     "answer": 0,
+     "why": "The writer could not send money alone, so Sumin went to the bank with them."
+    },
+    {
+     "q": "スミンさんが　くにへ　かえった　あと、「わたし」は　{何|なに}を　したいですか。",
+     "options": [
+      "スミンさんの　くにへ　{行|い}きたいです。",
+      "{一人|ひとり}で　とおくの　{町|まち}へ　{行|い}きたいです。",
+      "かんこくの　りょうりを　{作|つく}りたいです。",
+      "スミンさんに　{手紙|てがみ}を　たくさん　かきたいです。"
+     ],
+     "answer": 3,
+     "why": "The last sentence says the writer wants to write many letters after Sumin goes home."
+    }
+   ]
+  },
+  {
+   "type": "info",
+   "text": "さくら{町|まち}　ゆうびんきょく\n\n■ ゆうびん（{手紙|てがみ}・にもつ）\n{月|げつ}～{金|きん}　9:00～19:00\n{土|ど}　9:00～15:00\n{日|にち}・やすみの　{日|ひ}　やすみ\n\n■ ちょきん（お{金|かね}の　まどぐち）\n{月|げつ}～{金|きん}　9:00～16:00\n{土|ど}・{日|にち}・やすみの　{日|ひ}　やすみ\n\n■ ATM\n{毎日|まいにち}　8:00～21:00",
+   "en": "Sakura Town Post Office. Mail (letters and packages): Mon-Fri 9:00-19:00, Sat 9:00-15:00, closed Sundays and holidays. Savings (money counter): Mon-Fri 9:00-16:00, closed Sat, Sun and holidays. ATM: every day 8:00-21:00.",
+   "questions": [
+    {
+     "q": "リーさんは　{土曜日|どようび}の　{午後|ごご}　{二時|にじ}に　この　ゆうびんきょくへ　{行|い}きます。リーさんが　できる　ことは　どれですか。",
+     "options": [
+      "にもつを　おくる　ことだけ",
+      "ATMを　つかう　ことだけ",
+      "にもつを　おくる　ことと、ATMを　つかう　こと",
+      "にもつを　おくる　ことと、お{金|かね}の　まどぐちを　つかう　こと"
+     ],
+     "answer": 2,
+     "why": "On Saturday mail is open until 15:00 and the ATM until 21:00, but the money counter is closed."
+    }
+   ]
+  }
+ ],
+ "listening": [
+  {
+   "type": "task",
+   "setup": "ゆうびんきょくで　{男|おとこ}の　{人|ひと}と　{女|おんな}の　{人|ひと}が　{話|はな}して　います。{男|おとこ}の　{人|ひと}は　このあと　まず　{何|なに}を　しますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "いらっしゃいませ。"
+    },
+    {
+     "s": "M",
+     "jp": "すみません、この　にもつを　アメリカに　おくりたいんですが。"
+    },
+    {
+     "s": "F",
+     "jp": "はい。では、この　かみに　じゅうしょと　なまえを　かいて　ください。"
+    },
+    {
+     "s": "M",
+     "jp": "えいごで　いいですか。"
+    },
+    {
+     "s": "F",
+     "jp": "はい、えいごで　いいですよ。かいてから、にもつと　いっしょに　もって　きて　ください。"
+    },
+    {
+     "s": "M",
+     "jp": "わかりました。"
+    }
+   ],
+   "question": "{男|おとこ}の　{人|ひと}は　このあと　まず　{何|なに}を　しますか。",
+   "options": [
+    "きってを　かう",
+    "お{金|かね}を　はらう",
+    "かみに　じゅうしょと　なまえを　かく",
+    "にもつを　もって　かえる"
+   ],
+   "answer": 2,
+   "en": "At a post office. F: Welcome. M: Excuse me, I'd like to send this package to America. F: Sure. Then please write your address and name on this form. M: Is English OK? F: Yes, English is fine. After you write it, bring it here with the package. M: Got it.",
+   "why": "She tells him to write his address and name on the form first, then bring it with the package."
+  },
+  {
+   "type": "task",
+   "setup": "うちで　お{母|かあ}さんと　{男|おとこ}の　{子|こ}が　{話|はな}して　います。{男|おとこ}の　{子|こ}は　{何|なに}を　しますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "たろう、あした　おばあちゃんが　{来|く}るから、{部屋|へや}を　きれいに　して。"
+    },
+    {
+     "s": "M",
+     "jp": "うん。{窓|まど}も　ふく？"
+    },
+    {
+     "s": "F",
+     "jp": "{窓|まど}は　お{母|かあ}さんが　やるから、いいよ。つくえの　{上|うえ}の　{本|ほん}を　かたづけて。"
+    },
+    {
+     "s": "M",
+     "jp": "わかった。そうじきも　かける？"
+    },
+    {
+     "s": "F",
+     "jp": "そうじきは　きのう　かけたから、だいじょうぶ。"
+    }
+   ],
+   "question": "{男|おとこ}の　{子|こ}は　{何|なに}を　しますか。",
+   "options": [
+    "つくえの　{上|うえ}の　{本|ほん}を　かたづける",
+    "{窓|まど}を　ふく",
+    "{部屋|へや}に　そうじきを　かける",
+    "おばあちゃんを　{駅|えき}へ　むかえに　{行|い}く"
+   ],
+   "answer": 0,
+   "en": "At home, a mother and her son are talking. F: Taro, grandma is coming tomorrow, so tidy your room. M: OK. Should I wipe the window too? F: I'll do the window, so that's fine. Put away the books on your desk. M: Got it. Should I vacuum too? F: I vacuumed yesterday, so it's fine.",
+   "why": "Mom will do the window and already vacuumed; she asks him to put away the books on his desk."
+  },
+  {
+   "type": "task",
+   "setup": "ぎんこうで　{男|おとこ}の　{人|ひと}と　ぎんこうの　{人|ひと}が　{話|はな}して　います。{男|おとこ}の　{人|ひと}は　はじめに　{何|なに}を　しますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "すみません、お{金|かね}を　おくりたいんですが、どこへ　{行|い}けば　いいですか。"
+    },
+    {
+     "s": "F",
+     "jp": "3ばんの　まどぐちです。でも、さきに　あの　きかいで　ばんごうの　かみを　とって　ください。"
+    },
+    {
+     "s": "M",
+     "jp": "はい。"
+    },
+    {
+     "s": "F",
+     "jp": "それから、この　かみに　なまえを　かいて、いすで　まって　いて　ください。ばんごうを　よびますから。"
+    }
+   ],
+   "question": "{男|おとこ}の　{人|ひと}は　はじめに　{何|なに}を　しますか。",
+   "options": [
+    "3ばんの　まどぐちへ　{行|い}く",
+    "かみに　なまえを　かく",
+    "いすに　すわって　まつ",
+    "きかいで　ばんごうの　かみを　とる"
+   ],
+   "answer": 3,
+   "en": "At a bank. M: Excuse me, I'd like to send money. Where should I go? F: Window number 3. But first, please take a number ticket from that machine. M: OK. F: Then write your name on this form and wait in a chair. We will call your number.",
+   "why": "She says さきに (first) take a number ticket from the machine; writing his name and waiting come after."
+  },
+  {
+   "type": "task",
+   "setup": "{男|おとこ}の　{人|ひと}と　{女|おんな}の　{人|ひと}が　{電話|でんわ}で　{話|はな}して　います。{二人|ふたり}は　あした　{何時|なんじ}に　どこで　あいますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "あしたの　えいが、{何時|なんじ}に　あいましょうか。"
+    },
+    {
+     "s": "F",
+     "jp": "えいがは　2{時|じ}からですね。1{時|じ}{半|はん}に　{駅|えき}の　{前|まえ}は　どうですか。"
+    },
+    {
+     "s": "M",
+     "jp": "{駅|えき}は　{人|ひと}が　{多|おお}いですから、えいがかんの　{前|まえ}で　あいませんか。"
+    },
+    {
+     "s": "F",
+     "jp": "いいですよ。じゃあ、1{時|じ}45{分|ふん}に　えいがかんの　{前|まえ}で。"
+    },
+    {
+     "s": "M",
+     "jp": "はい、わかりました。"
+    }
+   ],
+   "question": "{二人|ふたり}は　あした　{何時|なんじ}に　どこで　あいますか。",
+   "options": [
+    "1{時|じ}45{分|ふん}に　えいがかんの　{前|まえ}",
+    "1{時|じ}{半|はん}に　{駅|えき}の　{前|まえ}",
+    "1{時|じ}{半|はん}に　えいがかんの　{前|まえ}",
+    "1{時|じ}45{分|ふん}に　{駅|えき}の　{前|まえ}"
+   ],
+   "answer": 0,
+   "en": "On the phone. M: What time shall we meet for the movie tomorrow? F: The movie starts at 2. How about in front of the station at 1:30? M: The station is crowded, so why don't we meet in front of the movie theater? F: Sure. Then 1:45 in front of the theater. M: OK.",
+   "why": "They change the place to the theater and the time to 1:45."
+  },
+  {
+   "type": "task",
+   "setup": "{女|おんな}の　{人|ひと}と　{男|おとこ}の　{人|ひと}が　{話|はな}して　います。{男|おとこ}の　{人|ひと}は　{何|なに}を　もって　{行|い}きますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "こんどの　{土曜日|どようび}、うちで　パーティーを　します。{来|き}て　ください。"
+    },
+    {
+     "s": "M",
+     "jp": "ありがとうございます。{何|なに}か　もって　{行|い}きましょうか。"
+    },
+    {
+     "s": "F",
+     "jp": "{飲|の}みものと　おかしは　ありますから……くだものを　おねがいできますか。"
+    },
+    {
+     "s": "M",
+     "jp": "いいですよ。りんごで　いいですか。"
+    },
+    {
+     "s": "F",
+     "jp": "りんごは　うちに　たくさん　ありますから、みかんが　いいです。"
+    },
+    {
+     "s": "M",
+     "jp": "わかりました。"
+    }
+   ],
+   "question": "{男|おとこ}の　{人|ひと}は　{何|なに}を　もって　{行|い}きますか。",
+   "options": [
+    "{飲|の}みもの",
+    "みかん",
+    "おかし",
+    "りんご"
+   ],
+   "answer": 1,
+   "en": "F: I'm having a party at my house this Saturday. Please come. M: Thank you. Shall I bring something? F: We have drinks and snacks, so... could you bring some fruit? M: Sure. Are apples OK? F: We have lots of apples at home, so mandarins would be good. M: Got it.",
+   "why": "She already has drinks, snacks and apples, so she asks for mandarins."
+  },
+  {
+   "type": "task",
+   "setup": "{新|あたら}しい　うちで　{男|おとこ}の　{人|ひと}と　{女|おんな}の　{人|ひと}が　{話|はな}して　います。テレビは　どこに　おきますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "この　テレビ、どこに　おきましょうか。"
+    },
+    {
+     "s": "F",
+     "jp": "{窓|まど}の　{前|まえ}は　{明|あか}るくて　{見|み}にくいから、ドアの　よこに　おいて　ください。"
+    },
+    {
+     "s": "M",
+     "jp": "でも、ドアの　よこには　{本|ほん}だなが　ありますよ。"
+    },
+    {
+     "s": "F",
+     "jp": "じゃあ、{本|ほん}だなを　{窓|まど}の　{前|まえ}に　うごかして、テレビは　ドアの　よこに　おきましょう。"
+    }
+   ],
+   "question": "テレビは　どこに　おきますか。",
+   "options": [
+    "{窓|まど}の　{前|まえ}",
+    "ドアの　よこ",
+    "{本|ほん}だなの　{上|うえ}",
+    "ベッドの　{前|まえ}"
+   ],
+   "answer": 1,
+   "en": "In a new home. M: Where shall I put this TV? F: In front of the window it's too bright to see, so please put it next to the door. M: But there's a bookshelf next to the door. F: Then let's move the bookshelf in front of the window and put the TV next to the door.",
+   "why": "The bookshelf moves to the window, and the TV goes next to the door."
+  },
+  {
+   "type": "task",
+   "setup": "ゆうびんきょくで　{男|おとこ}の　{人|ひと}と　{女|おんな}の　{人|ひと}が　{話|はな}して　います。{男|おとこ}の　{人|ひと}は　{何|なに}を　かいますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "すみません、はがきを　5まいと、110{円|えん}の　きってを　3まい　ください。"
+    },
+    {
+     "s": "F",
+     "jp": "すみません、はがきは　いま　ないんです。"
+    },
+    {
+     "s": "M",
+     "jp": "そうですか。じゃあ、きってだけ　おねがいします。あ、きっては　5まいに　して　ください。"
+    },
+    {
+     "s": "F",
+     "jp": "はい。110{円|えん}の　きってを　5まいですね。"
+    }
+   ],
+   "question": "{男|おとこ}の　{人|ひと}は　{何|なに}を　かいますか。",
+   "options": [
+    "はがき　5まい",
+    "はがき　5まいと　きって　3まい",
+    "110{円|えん}の　きって　5まい",
+    "110{円|えん}の　きって　3まい"
+   ],
+   "answer": 2,
+   "en": "At a post office. M: Excuse me, five postcards and three 110-yen stamps, please. F: Sorry, we don't have postcards right now. M: I see. Then just the stamps, please. Oh, make it five stamps. F: OK. Five 110-yen stamps.",
+   "why": "There are no postcards, and he changes the stamps from three to five."
+  },
+  {
+   "type": "point",
+   "setup": "{男|おとこ}の　{人|ひと}と　{女|おんな}の　{人|ひと}が　{話|はな}して　います。{女|おんな}の　{人|ひと}は　どうして　その　アパートに　しましたか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{新|あたら}しい　アパートは　どうですか。"
+    },
+    {
+     "s": "F",
+     "jp": "{駅|えき}から　ちょっと　とおいですが、いいですよ。"
+    },
+    {
+     "s": "M",
+     "jp": "{部屋|へや}が　ひろいんですか。"
+    },
+    {
+     "s": "F",
+     "jp": "いいえ、{前|まえ}の　アパートより　せまいです。でも、{窓|まど}から　{海|うみ}が　{見|み}えるんです。それで、ここに　しました。"
+    }
+   ],
+   "question": "{女|おんな}の　{人|ひと}は　どうして　その　アパートに　しましたか。",
+   "options": [
+    "{駅|えき}から　ちかいから",
+    "{部屋|へや}が　ひろいから",
+    "たてものが　{新|あたら}しいから",
+    "{窓|まど}から　{海|うみ}が　{見|み}えるから"
+   ],
+   "answer": 3,
+   "en": "M: How is your new apartment? F: It's a bit far from the station, but it's nice. M: Are the rooms big? F: No, smaller than my last apartment. But I can see the sea from the window. That's why I chose it.",
+   "why": "She says それで (that is why) right after saying she can see the sea from the window."
+  },
+  {
+   "type": "point",
+   "setup": "{女|おんな}の　{人|ひと}が　ぎんこうの　{人|ひと}と　{話|はな}して　います。まどぐちは　{何時|なんじ}までですか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "すみません、ぎんこうは　{何時|なんじ}までですか。"
+    },
+    {
+     "s": "M",
+     "jp": "まどぐちは　3{時|じ}までです。ATMは　{夜|よる}　9{時|じ}まで　つかえます。"
+    },
+    {
+     "s": "F",
+     "jp": "もう　4{時|じ}ですね。じゃあ、ATMを　つかいます。"
+    }
+   ],
+   "question": "まどぐちは　{何時|なんじ}までですか。",
+   "options": [
+    "2{時|じ}まで",
+    "3{時|じ}まで",
+    "4{時|じ}まで",
+    "9{時|じ}まで"
+   ],
+   "answer": 1,
+   "en": "F: Excuse me, until what time is the bank open? M: The counter is open until 3. The ATM can be used until 9 at night. F: It's already 4, isn't it. Then I'll use the ATM.",
+   "why": "The counter closes at 3; 9 is for the ATM and 4 is the time now."
+  },
+  {
+   "type": "point",
+   "setup": "{男|おとこ}の　{人|ひと}と　{女|おんな}の　{人|ひと}が　{話|はな}して　います。{女|おんな}の　{人|ひと}は　{友達|ともだち}に　{何|なに}を　あげましたか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "リサさん、きのうは　{友達|ともだち}の　たんじょうびでしたね。{何|なに}を　あげましたか。"
+    },
+    {
+     "s": "F",
+     "jp": "はじめは　{本|ほん}を　かいたかったんですが、{友達|ともだち}は　{本|ほん}を　あまり　{読|よ}みません。それで、ぼうしを　かいました。"
+    },
+    {
+     "s": "M",
+     "jp": "そうですか。よろこびましたか。"
+    },
+    {
+     "s": "F",
+     "jp": "はい。かばんと　おなじ　いろで、とても　よろこんで　いました。"
+    }
+   ],
+   "question": "{女|おんな}の　{人|ひと}は　{友達|ともだち}に　{何|なに}を　あげましたか。",
+   "options": [
+    "ぼうし",
+    "{本|ほん}",
+    "かばん",
+    "ケーキ"
+   ],
+   "answer": 0,
+   "en": "M: Lisa, yesterday was your friend's birthday, right? What did you give her? F: At first I wanted to buy a book, but my friend doesn't read much. So I bought a hat. M: I see. Was she happy? F: Yes. It's the same color as her bag, so she was very happy.",
+   "why": "She decided against a book and bought a hat; the bag is only mentioned for its color."
+  },
+  {
+   "type": "point",
+   "setup": "ゆうびんきょくで　{男|おとこ}の　{人|ひと}と　{女|おんな}の　{人|ひと}が　{話|はな}して　います。{男|おとこ}の　{人|ひと}は　どうして　はやい　ゆうびんに　しませんでしたか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "すみません、この　{手紙|てがみ}、{大阪|おおさか}まで　{何日|なんにち}　かかりますか。"
+    },
+    {
+     "s": "F",
+     "jp": "ふつうは　{二日|ふつか}です。はやい　ゆうびんだと、あした　つきますよ。"
+    },
+    {
+     "s": "M",
+     "jp": "そうですか。いそぎませんから、ふつうで　いいです。"
+    }
+   ],
+   "question": "{男|おとこ}の　{人|ひと}は　どうして　はやい　ゆうびんに　しませんでしたか。",
+   "options": [
+    "あしたは　{土曜日|どようび}だから",
+    "お{金|かね}が　たりないから",
+    "いそいで　いないから",
+    "はやい　ゆうびんは　ないから"
+   ],
+   "answer": 2,
+   "en": "At a post office. M: Excuse me, how many days does this letter take to get to Osaka? F: Usually two days. With express mail, it arrives tomorrow. M: I see. I'm not in a hurry, so regular is fine.",
+   "why": "He says いそぎませんから (because I'm not in a hurry)."
+  },
+  {
+   "type": "point",
+   "setup": "うちで　{女|おんな}の　{人|ひと}と　{男|おとこ}の　{人|ひと}が　{話|はな}して　います。かぎは　どこに　ありましたか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "あれ、かぎが　ない。"
+    },
+    {
+     "s": "M",
+     "jp": "テーブルの　{上|うえ}に　ありませんでしたか。"
+    },
+    {
+     "s": "F",
+     "jp": "テーブルの　{上|うえ}も　かばんの　{中|なか}も　{見|み}ましたが、ありません。"
+    },
+    {
+     "s": "M",
+     "jp": "あ、げんかんの　くつばこの　{上|うえ}に　ありましたよ。"
+    },
+    {
+     "s": "F",
+     "jp": "あ、ほんとうだ。ありがとう。"
+    }
+   ],
+   "question": "かぎは　どこに　ありましたか。",
+   "options": [
+    "テーブルの　{上|うえ}",
+    "かばんの　{中|なか}",
+    "ポケットの　{中|なか}",
+    "げんかんの　くつばこの　{上|うえ}"
+   ],
+   "answer": 3,
+   "en": "At home. F: Huh, my key is gone. M: Wasn't it on the table? F: I looked on the table and in my bag, but it's not there. M: Oh, it was on the shoe cabinet by the front door. F: Oh, you're right. Thanks.",
+   "why": "It was not on the table or in the bag; it was on the shoe cabinet by the door."
+  },
+  {
+   "type": "point",
+   "setup": "{男|おとこ}の　{人|ひと}と　{女|おんな}の　{人|ひと}が　{話|はな}して　います。{女|おんな}の　{人|ひと}は　{日曜日|にちようび}、はじめに　{何|なに}を　しましたか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "やまださん、{日曜日|にちようび}は　{何|なに}を　しましたか。"
+    },
+    {
+     "s": "F",
+     "jp": "{友達|ともだち}と　テニスを　したかったんですが、{雨|あめ}が　ふって　いましたから、{友達|ともだち}の　うちで　ゲームを　しました。"
+    },
+    {
+     "s": "M",
+     "jp": "そうですか。"
+    },
+    {
+     "s": "F",
+     "jp": "そのあと、いっしょに　カレーを　{作|つく}って　{食|た}べました。"
+    }
+   ],
+   "question": "{女|おんな}の　{人|ひと}は　{日曜日|にちようび}、はじめに　{何|なに}を　しましたか。",
+   "options": [
+    "{友達|ともだち}の　うちで　ゲームを　しました。",
+    "{友達|ともだち}と　テニスを　しました。",
+    "{友達|ともだち}と　カレーを　{作|つく}りました。",
+    "{友達|ともだち}と　かいものに　{行|い}きました。"
+   ],
+   "answer": 0,
+   "en": "M: Ms. Yamada, what did you do on Sunday? F: I wanted to play tennis with a friend, but it was raining, so we played games at my friend's house. M: I see. F: After that, we made curry together and ate it.",
+   "why": "Tennis was cancelled because of rain; they played games first and made curry after that."
+  },
+  {
+   "type": "utterance",
+   "setup": "{友達|ともだち}の　うちに　{入|はい}ります。{何|なん}と　{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と　{言|い}いますか。",
+   "options": [
+    "いってきます。",
+    "おじゃまします。",
+    "ただいま。"
+   ],
+   "answer": 1,
+   "en": "You are going into a friend's house. What do you say? 1. I'm off. 2. Sorry to intrude. 3. I'm home.",
+   "why": "おじゃまします is what you say when you enter someone else's home."
+  },
+  {
+   "type": "utterance",
+   "setup": "ゆうびんきょくで　きってを　かいたいです。{何|なん}と　{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と　{言|い}いますか。",
+   "options": [
+    "きってを　ください。",
+    "きってを　どうぞ。",
+    "きってを　かいましょうか。"
+   ],
+   "answer": 0,
+   "en": "You want to buy stamps at the post office. What do you say? 1. Stamps, please. 2. Here are some stamps. 3. Shall I buy stamps?",
+   "why": "～を ください is how you ask for something in a shop."
+  },
+  {
+   "type": "utterance",
+   "setup": "{友達|ともだち}の　{部屋|へや}は　とても　あついです。{窓|まど}を　あけたいです。{何|なん}と　{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と　{言|い}いますか。",
+   "options": [
+    "{窓|まど}を　あけましたか。",
+    "{窓|まど}は　あいて　いますか。",
+    "{窓|まど}を　あけても　いいですか。"
+   ],
+   "answer": 2,
+   "en": "Your friend's room is very hot. You want to open the window. What do you say? 1. Did you open the window? 2. Is the window open? 3. May I open the window?",
+   "why": "～ても いいですか asks for permission to do something."
+  },
+  {
+   "type": "utterance",
+   "setup": "ぎんこうで　ATMが　どこに　あるか　わかりません。ぎんこうの　{人|ひと}に　{聞|き}きます。{何|なん}と　{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と　{言|い}いますか。",
+   "options": [
+    "すみません、ATMは　どこですか。",
+    "すみません、ATMは　{何|なん}ですか。",
+    "すみません、ATMは　いくらですか。"
+   ],
+   "answer": 0,
+   "en": "At a bank you don't know where the ATM is. You ask a bank worker. What do you say? 1. Excuse me, where is the ATM? 2. Excuse me, what is an ATM? 3. Excuse me, how much is the ATM?",
+   "why": "You want to know the place, so you ask with どこ."
+  },
+  {
+   "type": "utterance",
+   "setup": "{友達|ともだち}の　うちに　{来|き}て　います。もう　おそいですから、かえりたいです。{何|なん}と　{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と　{言|い}いますか。",
+   "options": [
+    "いただきます。",
+    "そろそろ　しつれいします。",
+    "おかえりなさい。"
+   ],
+   "answer": 1,
+   "en": "You are at a friend's house. It's late, so you want to go home. What do you say? 1. Let's eat. 2. I should be going soon. 3. Welcome home.",
+   "why": "そろそろ しつれいします is a polite way to say you are leaving."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{新|あたら}しい　{部屋|へや}は　どうですか。"
+    }
+   ],
+   "question": "{何|なん}と　{答|こた}えますか。",
+   "options": [
+    "はい、そうです。",
+    "いいえ、{部屋|へや}じゃ　ありません。",
+    "ひろくて　きれいです。"
+   ],
+   "answer": 2,
+   "en": "F: How is your new room? 1. Yes, that's right. 2. No, it's not a room. 3. It's big and clean.",
+   "why": "どうですか asks for an impression, so you describe the room."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "この　{手紙|てがみ}を　ポストに　{出|だ}して　くれませんか。"
+    }
+   ],
+   "question": "{何|なん}と　{答|こた}えますか。",
+   "options": [
+    "ええ、いいですよ。",
+    "いいえ、{出|だ}しませんでした。",
+    "はい、{出|だ}して　ください。"
+   ],
+   "answer": 0,
+   "en": "M: Could you put this letter in the postbox for me? 1. Sure, no problem. 2. No, I didn't send it. 3. Yes, please send it.",
+   "why": "He is asking a favor, so you agree with ええ、いいですよ."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "ぎんこうは　{何時|なんじ}に　しまりますか。"
+    }
+   ],
+   "question": "{何|なん}と　{答|こた}えますか。",
+   "options": [
+    "きのう　しまりました。",
+    "3{時|じ}です。",
+    "{駅|えき}の　{前|まえ}です。"
+   ],
+   "answer": 1,
+   "en": "F: What time does the bank close? 1. It closed yesterday. 2. At 3 o'clock. 3. It's in front of the station.",
+   "why": "The question asks for a time."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "きのうは　てつだって　くれて、どうも　ありがとう。"
+    }
+   ],
+   "question": "{何|なん}と　{答|こた}えますか。",
+   "options": [
+    "ごちそうさまでした。",
+    "いいえ、どういたしまして。",
+    "はじめまして。"
+   ],
+   "answer": 1,
+   "en": "M: Thanks a lot for helping me yesterday. 1. Thank you for the meal. 2. Oh, you're welcome. 3. Nice to meet you.",
+   "why": "どういたしまして is the reply to a thank-you."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "この　にもつ、どこに　おきましょうか。"
+    }
+   ],
+   "question": "{何|なん}と　{答|こた}えますか。",
+   "options": [
+    "はい、おいて　ください。",
+    "いいえ、おきません。",
+    "その　テーブルの　{上|うえ}に　おねがいします。"
+   ],
+   "answer": 2,
+   "en": "F: Where shall I put this package? 1. Yes, please put it. 2. No, I won't put it. 3. On that table, please.",
+   "why": "どこ asks for a place, so you name one."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "いっしょに　お{茶|ちゃ}を　{飲|の}みませんか。"
+    }
+   ],
+   "question": "{何|なん}と　{答|こた}えますか。",
+   "options": [
+    "ええ、{飲|の}みましょう。",
+    "はい、{飲|の}みませんでした。",
+    "いいえ、お{茶|ちゃ}です。"
+   ],
+   "answer": 0,
+   "en": "M: Would you like to have some tea together? 1. Yes, let's. 2. Yes, I didn't drink it. 3. No, it's tea.",
+   "why": "～ませんか is an invitation, and ～ましょう accepts it."
+  }
+ ]
+}
