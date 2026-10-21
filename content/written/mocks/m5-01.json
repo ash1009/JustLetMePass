@@ -1,0 +1,1179 @@
+{
+ "id": "m5-01",
+ "level": 5,
+ "title_en": "N5 practice test 1",
+ "vocab": [
+  {
+   "type": "kanji_reading",
+   "q_raw": "【学校】は 八時半に はじまります。",
+   "options": [
+    "がっこう",
+    "がこう",
+    "がっこ",
+    "かっこう"
+   ],
+   "answer": 0,
+   "en": "School starts at 8:30."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "姉は デパートで くつを 【買いました】。",
+   "options": [
+    "あいました",
+    "うりました",
+    "かいました",
+    "ないました"
+   ],
+   "answer": 2,
+   "en": "My older sister bought shoes at the department store."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "【母】は 毎朝 コーヒーを のみます。",
+   "options": [
+    "ちち",
+    "はは",
+    "あに",
+    "あね"
+   ],
+   "answer": 1,
+   "en": "My mother drinks coffee every morning."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "この かばんは とても 【高い】です。",
+   "options": [
+    "たかい",
+    "ながい",
+    "やすい",
+    "ひくい"
+   ],
+   "answer": 0,
+   "en": "This bag is very expensive."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "【先生】に しつもんを しました。",
+   "options": [
+    "せんせ",
+    "せいせい",
+    "せんせい",
+    "せいせん"
+   ],
+   "answer": 2,
+   "en": "I asked the teacher a question."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "【来週】、学校で テストが あります。",
+   "options": [
+    "らいしょう",
+    "らいしゅ",
+    "こんしゅう",
+    "らいしゅう"
+   ],
+   "answer": 3,
+   "en": "Next week there is a test at school."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "スーパーで 【魚】を かいました。",
+   "options": [
+    "にく",
+    "たまご",
+    "やさい",
+    "さかな"
+   ],
+   "answer": 3,
+   "en": "I bought fish at the supermarket."
+  },
+  {
+   "type": "orthography",
+   "q": "{妹|いもうと}は 【しょうがっこう】の {二年生|にねんせい}です。",
+   "options_raw": [
+    "少学校",
+    "小学校",
+    "小字校",
+    "小学交"
+   ],
+   "answer": 1,
+   "en": "My younger sister is in the second year of elementary school."
+  },
+  {
+   "type": "orthography",
+   "q": "この {店|みせ}の パンは 【やすい】です。",
+   "options_raw": [
+    "字い",
+    "案い",
+    "安い",
+    "宇い"
+   ],
+   "answer": 2,
+   "en": "The bread at this shop is cheap."
+  },
+  {
+   "type": "orthography",
+   "q": "{父|ちち}は {毎朝|まいあさ} {会社|かいしゃ}へ 【いきます】。",
+   "options_raw": [
+    "伝きます",
+    "行きます",
+    "待きます",
+    "仕きます"
+   ],
+   "answer": 1,
+   "en": "My father goes to the office every morning."
+  },
+  {
+   "type": "orthography",
+   "q": "【まいにち】 {日本語|にほんご}を べんきょうします。",
+   "options_raw": [
+    "海日",
+    "母日",
+    "毎目",
+    "毎日"
+   ],
+   "answer": 3,
+   "en": "I study Japanese every day."
+  },
+  {
+   "type": "orthography",
+   "q": "かばんの 【なか】に {本|ほん}が あります。",
+   "options_raw": [
+    "中",
+    "申",
+    "由",
+    "虫"
+   ],
+   "answer": 0,
+   "en": "There is a book in the bag."
+  },
+  {
+   "type": "context",
+   "q": "この りんごは {一|ひと}つ 100＿＿です。",
+   "options": [
+    "えん",
+    "ほん",
+    "まい",
+    "こ"
+   ],
+   "answer": 0,
+   "en": "These apples are 100 yen each."
+  },
+  {
+   "type": "context",
+   "q": "{雨|あめ}が ふって いますから、＿＿を もって {学校|がっこう}へ いきます。",
+   "options": [
+    "くつ",
+    "めがね",
+    "かさ",
+    "とけい"
+   ],
+   "answer": 2,
+   "en": "It is raining, so I will take an umbrella to school."
+  },
+  {
+   "type": "context",
+   "q": "{教室|きょうしつ}が くらいですから、でんきを ＿＿ ください。",
+   "options": [
+    "けして",
+    "つけて",
+    "しめて",
+    "あけて"
+   ],
+   "answer": 1,
+   "en": "The classroom is dark, so please turn on the light."
+  },
+  {
+   "type": "context",
+   "q": "{先生|せんせい}、すみません。この ことばの ＿＿が わかりません。",
+   "options": [
+    "こえ",
+    "うた",
+    "え",
+    "いみ"
+   ],
+   "answer": 3,
+   "en": "Excuse me, teacher. I don't understand the meaning of this word."
+  },
+  {
+   "type": "context",
+   "q": "この へやは ＿＿ですから、ストーブを つけましょう。",
+   "options": [
+    "あつい",
+    "さむい",
+    "ひろい",
+    "あかるい"
+   ],
+   "answer": 1,
+   "en": "This room is cold, so let's turn on the heater."
+  },
+  {
+   "type": "context",
+   "q": "{母|はは}は {毎晩|まいばん} {子|こ}どもに {本|ほん}を ＿＿。",
+   "options": [
+    "あらいます",
+    "ききます",
+    "おきます",
+    "よみます"
+   ],
+   "answer": 3,
+   "en": "My mother reads a book to the children every night."
+  },
+  {
+   "type": "paraphrase",
+   "q": "【{兄|あに}は {大学|だいがく}で えいごを おしえて います。】",
+   "options": [
+    "{兄|あに}は {大学|だいがく}の せんせいです。",
+    "{兄|あに}は {大学|だいがく}の がくせいです。",
+    "{兄|あに}は えいごが へたです。",
+    "{兄|あに}は {大学|だいがく}で えいごを ならって います。"
+   ],
+   "answer": 0,
+   "en": "My older brother teaches English at a university."
+  },
+  {
+   "type": "paraphrase",
+   "q": "【この くつは やすくないです。】",
+   "options": [
+    "この くつは ふるいです。",
+    "この くつは あたらしいです。",
+    "この くつは たかいです。",
+    "この くつは ちいさいです。"
+   ],
+   "answer": 2,
+   "en": "These shoes are not cheap."
+  },
+  {
+   "type": "paraphrase",
+   "q": "【{父|ちち}の {母|はは}は {六十|ろくじゅっ}さいです。】",
+   "options": [
+    "おばさんは {六十|ろくじゅっ}さいです。",
+    "おねえさんは {六十|ろくじゅっ}さいです。",
+    "おじいさんは {六十|ろくじゅっ}さいです。",
+    "おばあさんは {六十|ろくじゅっ}さいです。"
+   ],
+   "answer": 3,
+   "en": "My father's mother is 60 years old."
+  }
+ ],
+ "grammar": [
+  {
+   "type": "form",
+   "q": "{毎朝|まいあさ} パン＿＿ {食|た}べます。",
+   "options": [
+    "を",
+    "に",
+    "で",
+    "が"
+   ],
+   "answer": 0,
+   "en": "I eat bread every morning."
+  },
+  {
+   "type": "form",
+   "q": "{姉|あね}は {銀行|ぎんこう}＿＿ はたらいて います。",
+   "options": [
+    "に",
+    "で",
+    "を",
+    "へ"
+   ],
+   "answer": 1,
+   "en": "My older sister works at a bank."
+  },
+  {
+   "type": "form",
+   "q": "A「この ケーキは ＿＿ですか。」 B「{一|ひと}つ 300{円|えん}です。」",
+   "options": [
+    "いくつ",
+    "どれ",
+    "いくら",
+    "どこ"
+   ],
+   "answer": 2,
+   "en": "A: How much is this cake? B: It's 300 yen each."
+  },
+  {
+   "type": "form",
+   "q": "A「{日曜日|にちようび}、いっしょに かいものに ＿＿。」 B「ええ、いいですね。」",
+   "options": [
+    "いきましたか",
+    "いって いますか",
+    "いきませんでしたか",
+    "いきませんか"
+   ],
+   "answer": 3,
+   "en": "A: Won't you go shopping with me on Sunday? B: Yes, sounds good."
+  },
+  {
+   "type": "form",
+   "q": "{教室|きょうしつ}に {学生|がくせい}が {三人|さんにん} ＿＿。",
+   "options": [
+    "あります",
+    "います",
+    "でした",
+    "なります"
+   ],
+   "answer": 1,
+   "en": "There are three students in the classroom."
+  },
+  {
+   "type": "form",
+   "q": "この シャツは きれいです＿＿、たかいです。",
+   "options": [
+    "と",
+    "を",
+    "が",
+    "も"
+   ],
+   "answer": 2,
+   "en": "This shirt is pretty, but it is expensive."
+  },
+  {
+   "type": "form",
+   "q": "ねる ＿＿に はを みがきます。",
+   "options": [
+    "あと",
+    "なか",
+    "よこ",
+    "まえ"
+   ],
+   "answer": 3,
+   "en": "I brush my teeth before I go to bed."
+  },
+  {
+   "type": "form",
+   "q": "A「この ペンは ＿＿ですか。」 B「{田中|たなか}さんのです。」",
+   "options": [
+    "だれの",
+    "だれ",
+    "どれ",
+    "どの"
+   ],
+   "answer": 0,
+   "en": "A: Whose pen is this? B: It's Tanaka's."
+  },
+  {
+   "type": "form",
+   "q": "{弟|おとうと}は わたし＿＿ せが たかいです。",
+   "options": [
+    "から",
+    "より",
+    "ほど",
+    "まで"
+   ],
+   "answer": 1,
+   "en": "My younger brother is taller than me."
+  },
+  {
+   "type": "star",
+   "before": "{母|はは}は",
+   "after": "を つくって います。",
+   "pieces": [
+    "おいしい",
+    "で",
+    "ばんごはん",
+    "だいどころ"
+   ],
+   "order": [
+    3,
+    1,
+    0,
+    2
+   ],
+   "star": 2,
+   "en": "My mother is making a delicious dinner in the kitchen.",
+   "why": "Place + で comes first, then the adjective goes right before the noun it describes (おいしい ばんごはん)."
+  },
+  {
+   "type": "star",
+   "before": "{学校|がっこう}の",
+   "after": "が あります。",
+   "pieces": [
+    "に",
+    "ちいさい",
+    "ほんや",
+    "まえ"
+   ],
+   "order": [
+    3,
+    0,
+    1,
+    2
+   ],
+   "star": 2,
+   "en": "There is a small bookstore in front of the school.",
+   "why": "〜の まえに (in front of), then ちいさい before the noun ほんや."
+  },
+  {
+   "type": "star",
+   "before": "A「その シャツ、どこで かいましたか。」 B「{駅|えき}の ちかく",
+   "after": "かいました。」",
+   "pieces": [
+    "みせ",
+    "で",
+    "に",
+    "ある"
+   ],
+   "order": [
+    2,
+    3,
+    0,
+    1
+   ],
+   "star": 1,
+   "en": "A: Where did you buy that shirt? B: I bought it at a shop near the station.",
+   "why": "ちかくに ある describes みせ (a shop that is nearby), and で marks where you bought it."
+  },
+  {
+   "type": "star",
+   "before": "これは",
+   "after": "です。",
+   "pieces": [
+    "ケーキ",
+    "はは",
+    "つくった",
+    "が"
+   ],
+   "order": [
+    1,
+    3,
+    2,
+    0
+   ],
+   "star": 2,
+   "en": "This is a cake my mother made.",
+   "why": "はは が つくった is a clause that describes ケーキ, so it comes before the noun."
+  },
+  {
+   "type": "text",
+   "passage": "わたしの かぞく\nリサ・ブラウン\nわたしの かぞくは {四人|よにん}です。{父|ちち}と {母|はは}と {弟|おとうと}と わたしです。{父|ちち}は {毎朝|まいあさ} {七時|しちじ}（１） {家|いえ}を でます。{母|はは}は りょうりが じょうずです。{毎週|まいしゅう} {日曜日|にちようび}に {母|はは}と スーパーへ かいものに いきます。（２）、いっしょに ばんごはんを つくります。{弟|おとうと}は {十|じゅっ}さいです。サッカーが （３）、{毎日|まいにち} {学校|がっこう}の あとで れんしゅうして います。\n{今|いま}、わたしは {日本|にほん}に いますから、かぞくに あえません。とても さびしいです。{来年|らいねん}の {夏休|なつやす}みに {国|くに}へ （４）。",
+   "en": "My family, by Lisa Brown. There are four people in my family: my father, my mother, my younger brother and me. My father leaves home at seven every morning. My mother is good at cooking. Every Sunday I go shopping at the supermarket with my mother. After that, we make dinner together. My brother is ten. He likes soccer, and he practices every day after school. Now I am in Japan, so I can't see my family. I am very lonely. I want to go back to my country next summer vacation.",
+   "questions": [
+    {
+     "q": "（１）",
+     "options": [
+      "で",
+      "に",
+      "を",
+      "へ"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "（２）",
+     "options": [
+      "でも",
+      "では",
+      "まだ",
+      "それから"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "（３）",
+     "options": [
+      "すきな",
+      "すきで",
+      "すきに",
+      "すきの"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "（４）",
+     "options": [
+      "かえりたいです",
+      "かえりました",
+      "かえって いました",
+      "かえりませんでした"
+     ],
+     "answer": 0
+    }
+   ]
+  }
+ ],
+ "reading": [
+  {
+   "type": "short",
+   "text": "（{学校|がっこう}で）\nクラスの みなさんへ\nあしたは {午後|ごご} {一時|いちじ}から えいがを みます。{教室|きょうしつ}では みません。{二階|にかい}の {大|おお}きい へやで みます。ノートと えんぴつを もって きて ください。{教科書|きょうかしょ}は いりません。\n{山田|やまだ}",
+   "en": "(At school) To everyone in the class: Tomorrow we will watch a movie from 1 p.m. We will not watch it in the classroom. We will watch it in the big room on the second floor. Please bring a notebook and a pencil. You don't need your textbook. — Yamada",
+   "questions": [
+    {
+     "q": "あした、{学生|がくせい}は {何|なに}を もって いきますか。",
+     "options": [
+      "ノートと {教科書|きょうかしょ}",
+      "えんぴつと {教科書|きょうかしょ}",
+      "ノートと えんぴつ",
+      "ノートと えんぴつと {教科書|きょうかしょ}"
+     ],
+     "answer": 2,
+     "why": "The note says to bring a notebook and a pencil, and the textbook is not needed."
+    }
+   ]
+  },
+  {
+   "type": "short",
+   "text": "わたしは きのう {母|はは}と デパートへ いきました。{母|はは}は あかい セーターが ほしかったですが、たかかったです。それで、くろい セーターを かいました。わたしは {何|なに}も かいませんでした。でも、デパートの レストランで {母|はは}と おいしい ケーキを {食|た}べました。",
+   "en": "Yesterday I went to the department store with my mother. My mother wanted a red sweater, but it was expensive. So she bought a black sweater. I didn't buy anything. But I ate a delicious cake with my mother at the department store's restaurant.",
+   "questions": [
+    {
+     "q": "きのう、{母|はは}は {何|なに}を かいましたか。",
+     "options": [
+      "あかい セーター",
+      "くろい セーター",
+      "あかい セーターと くろい セーター",
+      "{何|なに}も かいませんでした"
+     ],
+     "answer": 1,
+     "why": "The red sweater was expensive, so she bought only the black one."
+    }
+   ]
+  },
+  {
+   "type": "mid",
+   "text": "わたしの {家|いえ}の ちかくに、ちいさい やおやが あります。おばあさんが ひとりで {店|みせ}を して います。やさいは スーパーより すこし たかいですが、とても おいしいです。\nわたしは {毎週|まいしゅう} {土曜日|どようび}に {母|はは}と その {店|みせ}へ いきます。おばあさんは いつも「これは けさ きた トマトですよ」や「この じゃがいもは カレーに いいですよ」と おしえて くれます。\n{先週|せんしゅう}の {土曜日|どようび}、{店|みせ}は しまって いました。おばあさんが びょうきでした。わたしと {母|はは}は しんぱいしました。きのう、{店|みせ}の まえを とおった とき、{店|みせ}は あいて いました。おばあさんは げんきでした。わたしは とても うれしかったです。",
+   "en": "There is a small vegetable shop near my house. An old woman runs the shop by herself. The vegetables are a little more expensive than at the supermarket, but they are very tasty. Every Saturday I go to that shop with my mother. The old woman always tells us things like \"These tomatoes came this morning\" or \"These potatoes are good for curry.\" Last Saturday the shop was closed. The old woman was sick. My mother and I were worried. Yesterday, when I walked past the shop, it was open. The old woman was well. I was very happy.",
+   "questions": [
+    {
+     "q": "この {店|みせ}の やさいは どうですか。",
+     "options": [
+      "スーパーより やすくて、おいしいです。",
+      "スーパーより すこし たかいですが、おいしいです。",
+      "スーパーより たかくて、おいしくないです。",
+      "スーパーより やすいですが、おいしくないです。"
+     ],
+     "answer": 1,
+     "why": "The text says the vegetables are a little more expensive than the supermarket's but very tasty."
+    },
+    {
+     "q": "「わたし」は どうして うれしかったですか。",
+     "options": [
+      "やさいが やすかったから",
+      "おばあさんが トマトを くれたから",
+      "{母|はは}と {店|みせ}へ いったから",
+      "おばあさんが げんきに なったから"
+     ],
+     "answer": 3,
+     "why": "The old woman had been sick, and yesterday the shop was open and she was well again."
+    }
+   ]
+  },
+  {
+   "type": "info",
+   "text": "さくらスーパー　こんしゅうの やすい もの\n・{月曜日|げつようび}・{金曜日|きんようび}　たまご（10こ）　150{円|えん}\n・{火曜日|かようび}・{金曜日|きんようび}　ぎゅうにゅう（1{本|ぽん}）　120{円|えん}\n・{水曜日|すいようび}・{土曜日|どようび}　さかな（1ぴき）　200{円|えん}\n・{日曜日|にちようび}　パン（2つ）　200{円|えん}\nあさ {十時|じゅうじ}から よる {九時|くじ}まで あいて います。",
+   "en": "Sakura Supermarket — cheap items this week. Monday and Friday: eggs (10) 150 yen. Tuesday and Friday: milk (1 bottle) 120 yen. Wednesday and Saturday: fish (1) 200 yen. Sunday: bread (2) 200 yen. Open from 10 a.m. to 9 p.m.",
+   "questions": [
+    {
+     "q": "リンさんは たまごと ぎゅうにゅうを やすく かいたいです。{何曜日|なんようび}に スーパーへ いきますか。",
+     "options": [
+      "{金曜日|きんようび}",
+      "{月曜日|げつようび}",
+      "{火曜日|かようび}",
+      "{土曜日|どようび}"
+     ],
+     "answer": 0,
+     "why": "Eggs are cheap on Monday and Friday, milk on Tuesday and Friday, so Friday is the only day for both."
+    }
+   ]
+  }
+ ],
+ "listening": [
+  {
+   "type": "task",
+   "setup": "デパートで {女|おんな}の{人|ひと}と {店|みせ}の{人|ひと}が {話|はな}して います。{女|おんな}の{人|ひと}は どの かばんを かいますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "すみません、くろい かばんは ありますか。"
+    },
+    {
+     "s": "M",
+     "jp": "はい、こちらの {大|おお}きいのと、ちいさいのが あります。"
+    },
+    {
+     "s": "F",
+     "jp": "{大|おお}きいのは いくらですか。"
+    },
+    {
+     "s": "M",
+     "jp": "8,000{円|えん}です。ちいさいのは 5,000{円|えん}です。"
+    },
+    {
+     "s": "F",
+     "jp": "うーん、{本|ほん}を たくさん いれますから、{大|おお}きいのを ください。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}は どの かばんを かいますか。",
+   "options": [
+    "くろくて {大|おお}きい かばん",
+    "くろくて ちいさい かばん",
+    "しろくて {大|おお}きい かばん",
+    "しろくて ちいさい かばん"
+   ],
+   "answer": 0,
+   "en": "F: Excuse me, do you have black bags? M: Yes, we have this big one and a small one. F: How much is the big one? M: 8,000 yen. The small one is 5,000 yen. F: Hmm, I'll put lots of books in it, so the big one, please.",
+   "why": "She asks for a black bag and chooses the big one because she carries many books."
+  },
+  {
+   "type": "task",
+   "setup": "{学校|がっこう}で {先生|せんせい}が {話|はな}して います。{学生|がくせい}は あした {何時|なんじ}に {学校|がっこう}へ きますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "あしたは バスで {山|やま}へ いきます。バスは {八時半|はちじはん}に でます。みなさん、その {十五分|じゅうごふん} まえに {学校|がっこう}へ きて ください。{帰|かえ}りは {四時|よじ}ごろです。"
+    }
+   ],
+   "question": "{学生|がくせい}は あした {何時|なんじ}に {学校|がっこう}へ きますか。",
+   "options": [
+    "{八時|はちじ}",
+    "{八時十五分|はちじじゅうごふん}",
+    "{八時半|はちじはん}",
+    "{四時|よじ}"
+   ],
+   "answer": 1,
+   "en": "Tomorrow we will go to the mountains by bus. The bus leaves at 8:30. Everyone, please come to school 15 minutes before that. We will come back around 4.",
+   "why": "15 minutes before 8:30 is 8:15."
+  },
+  {
+   "type": "task",
+   "setup": "{家|いえ}で お{母|かあ}さんと {男|おとこ}の{子|こ}が {話|はな}して います。{男|おとこ}の{子|こ}は このあと すぐ {何|なに}を しますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "たろう、ごはんですよ。"
+    },
+    {
+     "s": "M",
+     "jp": "はい。でも、いま しゅくだいを して います。"
+    },
+    {
+     "s": "F",
+     "jp": "しゅくだいは ごはんの あとで して ください。その まえに {手|て}を あらって ね。"
+    },
+    {
+     "s": "M",
+     "jp": "はーい。"
+    }
+   ],
+   "question": "{男|おとこ}の{子|こ}は このあと すぐ {何|なに}を しますか。",
+   "options": [
+    "しゅくだいを する",
+    "ごはんを {食|た}べる",
+    "{手|て}を あらう",
+    "テレビを みる"
+   ],
+   "answer": 2,
+   "en": "F: Taro, dinner is ready. M: OK. But I'm doing my homework now. F: Do your homework after dinner. Before that, wash your hands. M: Okay.",
+   "why": "Homework is after dinner, and before dinner he must wash his hands, so washing hands comes first."
+  },
+  {
+   "type": "task",
+   "setup": "{家|いえ}で {男|おとこ}の{人|ひと}と {女|おんな}の{人|ひと}が {話|はな}して います。{男|おとこ}の{人|ひと}は りんごを いくつ かいますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "スーパーへ いきますか。じゃ、りんごを かって きて ください。"
+    },
+    {
+     "s": "M",
+     "jp": "いくつですか。"
+    },
+    {
+     "s": "F",
+     "jp": "あしたは {母|はは}も きますから、{五|いつ}つ おねがいします。"
+    },
+    {
+     "s": "M",
+     "jp": "{五|いつ}つですね。"
+    },
+    {
+     "s": "F",
+     "jp": "あ、れいぞうこに まだ {一|ひと}つ ありました。じゃ、{四|よっ}つで いいです。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}は りんごを いくつ かいますか。",
+   "options": [
+    "{三|みっ}つ",
+    "{四|よっ}つ",
+    "{五|いつ}つ",
+    "{六|むっ}つ"
+   ],
+   "answer": 1,
+   "en": "F: Are you going to the supermarket? Then please buy some apples. M: How many? F: My mother is coming tomorrow too, so five, please. M: Five, right? F: Oh, there's still one in the fridge. Then four is fine.",
+   "why": "They need five, but one is already in the fridge, so she changes it to four."
+  },
+  {
+   "type": "task",
+   "setup": "{大学|だいがく}で {男|おとこ}の{学生|がくせい}と {女|おんな}の{学生|がくせい}が {話|はな}して います。{二人|ふたり}は あした どこで べんきょうしますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "あしたの テストの べんきょう、いっしょに しませんか。"
+    },
+    {
+     "s": "F",
+     "jp": "いいですね。としょかんで しましょうか。"
+    },
+    {
+     "s": "M",
+     "jp": "としょかんは あした やすみですよ。"
+    },
+    {
+     "s": "F",
+     "jp": "そうですか。じゃ、{駅|えき}の まえの きっさてんは どうですか。"
+    },
+    {
+     "s": "M",
+     "jp": "あそこは ちょっと うるさいですね。{教室|きょうしつ}は どうですか。"
+    },
+    {
+     "s": "F",
+     "jp": "いいですよ。じゃ、{三時|さんじ}に {教室|きょうしつ}で。"
+    }
+   ],
+   "question": "{二人|ふたり}は あした どこで べんきょうしますか。",
+   "options": [
+    "としょかん",
+    "{駅|えき}の まえ",
+    "きっさてん",
+    "{教室|きょうしつ}"
+   ],
+   "answer": 3,
+   "en": "M: Shall we study together for tomorrow's test? F: Sounds good. Shall we do it at the library? M: The library is closed tomorrow. F: Really? Then how about the coffee shop in front of the station? M: It's a bit noisy there. How about a classroom? F: OK. Then at three in the classroom.",
+   "why": "The library is closed and the coffee shop is noisy, so they agree on the classroom."
+  },
+  {
+   "type": "task",
+   "setup": "くつやで {男|おとこ}の{人|ひと}と {店|みせ}の{人|ひと}が {話|はな}して います。{男|おとこ}の{人|ひと}は ぜんぶで いくら はらいますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "すみません、この くつは いくらですか。"
+    },
+    {
+     "s": "F",
+     "jp": "3,000{円|えん}です。"
+    },
+    {
+     "s": "M",
+     "jp": "くつしたも ほしいです。"
+    },
+    {
+     "s": "F",
+     "jp": "くつしたは {一|ひと}つ 500{円|えん}です。"
+    },
+    {
+     "s": "M",
+     "jp": "じゃ、この くつと、くつしたを {二|ふた}つ ください。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}は ぜんぶで いくら はらいますか。",
+   "options": [
+    "3,000{円|えん}",
+    "3,500{円|えん}",
+    "1,000{円|えん}",
+    "4,000{円|えん}"
+   ],
+   "answer": 3,
+   "en": "M: Excuse me, how much are these shoes? F: 3,000 yen. M: I'd also like socks. F: Socks are 500 yen a pair. M: Then these shoes and two pairs of socks, please.",
+   "why": "3,000 yen for the shoes plus 2 × 500 yen for socks is 4,000 yen."
+  },
+  {
+   "type": "task",
+   "setup": "{女|おんな}の{人|ひと}と {弟|おとうと}が {電話|でんわ}で {話|はな}して います。{弟|おとうと}は あした {何|なに}を もって いきますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "もしもし、ひろし？ あしたの パーティー、のみものを もって きて くれる？"
+    },
+    {
+     "s": "M",
+     "jp": "いいよ。ケーキも かって いこうか。"
+    },
+    {
+     "s": "F",
+     "jp": "ケーキは お{母|かあ}さんが つくるから、いらないよ。あ、コップも ないから、おねがい。"
+    },
+    {
+     "s": "M",
+     "jp": "じゃ、のみものと コップだね。"
+    }
+   ],
+   "question": "{弟|おとうと}は あした {何|なに}を もって いきますか。",
+   "options": [
+    "のみものと ケーキ",
+    "ケーキと コップ",
+    "のみものと コップ",
+    "のみものだけ"
+   ],
+   "answer": 2,
+   "en": "F: Hello, Hiroshi? Can you bring drinks to tomorrow's party? M: Sure. Shall I buy a cake too? F: Mom is making the cake, so we don't need one. Oh, we don't have cups either, so please bring some. M: So drinks and cups, then.",
+   "why": "The cake is not needed; she asks for drinks and cups."
+  },
+  {
+   "type": "point",
+   "setup": "{男|おとこ}の{学生|がくせい}と {女|おんな}の{学生|がくせい}が {話|はな}して います。{女|おんな}の{学生|がくせい}は きのう どうして {学校|がっこう}を やすみましたか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{山田|やまだ}さん、きのう どうしましたか。"
+    },
+    {
+     "s": "F",
+     "jp": "{妹|いもうと}が びょうきで、いっしょに びょういんへ いきました。"
+    },
+    {
+     "s": "M",
+     "jp": "そうですか。{山田|やまだ}さんは だいじょうぶですか。"
+    },
+    {
+     "s": "F",
+     "jp": "ええ、わたしは げんきです。{妹|いもうと}も もう だいじょうぶです。"
+    }
+   ],
+   "question": "{女|おんな}の{学生|がくせい}は きのう どうして {学校|がっこう}を やすみましたか。",
+   "options": [
+    "あたまが いたかったから",
+    "{妹|いもうと}と びょういんへ いったから",
+    "{国|くに}から {母|はは}が きたから",
+    "バスが こなかったから"
+   ],
+   "answer": 1,
+   "en": "M: Yamada-san, what happened yesterday? F: My younger sister was sick, so I went to the hospital with her. M: I see. Are you OK? F: Yes, I'm fine. My sister is fine now too.",
+   "why": "She went to the hospital with her sick sister; she herself was not sick."
+  },
+  {
+   "type": "point",
+   "setup": "{店|みせ}で {男|おとこ}の{人|ひと}と {店|みせ}の{人|ひと}が {話|はな}して います。この {店|みせ}は {何曜日|なんようび}が やすみですか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "すみません、この {店|みせ}は {毎日|まいにち} あいて いますか。"
+    },
+    {
+     "s": "F",
+     "jp": "いいえ、{水曜日|すいようび}は やすみです。"
+    },
+    {
+     "s": "M",
+     "jp": "{日曜日|にちようび}も やすみですか。"
+    },
+    {
+     "s": "F",
+     "jp": "いいえ、{日曜日|にちようび}は あいて います。でも、{五時|ごじ}までです。"
+    }
+   ],
+   "question": "この {店|みせ}は {何曜日|なんようび}が やすみですか。",
+   "options": [
+    "{日曜日|にちようび}",
+    "{月曜日|げつようび}",
+    "{水曜日|すいようび}",
+    "{土曜日|どようび}"
+   ],
+   "answer": 2,
+   "en": "M: Excuse me, is this shop open every day? F: No, it's closed on Wednesdays. M: Is it closed on Sundays too? F: No, it's open on Sundays, but only until five.",
+   "why": "Only Wednesday is a closed day; Sunday is open but closes early."
+  },
+  {
+   "type": "point",
+   "setup": "{男|おとこ}の{人|ひと}と {女|おんな}の{人|ひと}が しゃしんを みて {話|はな}して います。{女|おんな}の{人|ひと}の お{兄|にい}さんは どの {人|ひと}ですか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "これは {木村|きむら}さんの かぞくの しゃしんですか。"
+    },
+    {
+     "s": "F",
+     "jp": "はい。まんなかが {父|ちち}と {母|はは}です。"
+    },
+    {
+     "s": "M",
+     "jp": "お{父|とう}さんの となりの せが たかい {人|ひと}は お{兄|にい}さんですか。"
+    },
+    {
+     "s": "F",
+     "jp": "いいえ、それは おじです。{兄|あに}は {母|はは}の うしろの、めがねを かけて いる {人|ひと}です。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}の お{兄|にい}さんは どの {人|ひと}ですか。",
+   "options": [
+    "お{母|かあ}さんの うしろの めがねを かけた {人|ひと}",
+    "お{父|とう}さんの となりの せが たかい {人|ひと}",
+    "お{父|とう}さんの うしろの めがねを かけた {人|ひと}",
+    "お{母|かあ}さんの となりの せが ひくい {人|ひと}"
+   ],
+   "answer": 0,
+   "en": "M: Is this a photo of your family, Kimura-san? F: Yes. In the middle are my father and mother. M: Is the tall person next to your father your brother? F: No, that's my uncle. My brother is the person behind my mother, wearing glasses.",
+   "why": "The tall man next to the father is her uncle; her brother is behind her mother with glasses."
+  },
+  {
+   "type": "point",
+   "setup": "{先生|せんせい}が {話|はな}して います。テストは {何|なん}ページから {何|なん}ページまでですか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "らいしゅうの {月曜日|げつようび}に テストを します。きょうかしょの 20ページから 45ページまでです。あ、ちがいました。20ページから 35ページまでです。"
+    }
+   ],
+   "question": "テストは {何|なん}ページから {何|なん}ページまでですか。",
+   "options": [
+    "20ページから 45ページまで",
+    "25ページから 35ページまで",
+    "35ページから 45ページまで",
+    "20ページから 35ページまで"
+   ],
+   "answer": 3,
+   "en": "We will have a test next Monday. It covers pages 20 to 45 of the textbook. Oh, sorry, that's wrong. Pages 20 to 35.",
+   "why": "She corrects herself: the test is pages 20 to 35."
+  },
+  {
+   "type": "point",
+   "setup": "{男|おとこ}の{人|ひと}と {女|おんな}の{人|ひと}が {話|はな}して います。{女|おんな}の{人|ひと}は どうして シャツを かいませんでしたか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "あの シャツ、かいませんでしたか。きれいでしたね。"
+    },
+    {
+     "s": "F",
+     "jp": "ええ。いろも よかったです。たかくなかったです。でも、ちょっと ちいさかったです。"
+    },
+    {
+     "s": "M",
+     "jp": "そうですか。"
+    },
+    {
+     "s": "F",
+     "jp": "{大|おお}きいのは ありませんでした。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}は どうして シャツを かいませんでしたか。",
+   "options": [
+    "たかかったから",
+    "いろが よくなかったから",
+    "ちいさかったから",
+    "きれいじゃなかったから"
+   ],
+   "answer": 2,
+   "en": "M: You didn't buy that shirt? It was pretty. F: Yes. The color was nice too, and it wasn't expensive. But it was a little small. M: I see. F: They didn't have a bigger one.",
+   "why": "The color and price were fine; it was too small and there was no bigger size."
+  },
+  {
+   "type": "point",
+   "setup": "{男|おとこ}の{人|ひと}と {女|おんな}の{人|ひと}が {話|はな}して います。{男|おとこ}の{人|ひと}は {日曜日|にちようび}に {何|なに}を しましたか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{日曜日|にちようび}は {何|なに}を しましたか。"
+    },
+    {
+     "s": "M",
+     "jp": "{父|ちち}と つりに いきたかったですが、{雨|あめ}でしたから、いきませんでした。"
+    },
+    {
+     "s": "F",
+     "jp": "じゃ、{家|いえ}に いましたか。"
+    },
+    {
+     "s": "M",
+     "jp": "いいえ、{父|ちち}と デパートへ いって、{母|はは}の たんじょうびの プレゼントを かいました。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}は {日曜日|にちようび}に {何|なに}を しましたか。",
+   "options": [
+    "お{父|とう}さんと つりに いった",
+    "{家|いえ}で テレビを みた",
+    "お{母|かあ}さんと デパートへ いった",
+    "お{父|とう}さんと プレゼントを かいに いった"
+   ],
+   "answer": 3,
+   "en": "F: What did you do on Sunday? M: I wanted to go fishing with my father, but it rained, so we didn't go. F: So you stayed home? M: No, I went to the department store with my father and bought a birthday present for my mother.",
+   "why": "Fishing was cancelled; he went with his father (not his mother) to buy her present."
+  },
+  {
+   "type": "utterance",
+   "setup": "{店|みせ}で あの シャツを みたいです。{店|みせ}の{人|ひと}に {何|なん}と いいますか。",
+   "lines": [],
+   "question": "{何|なん}と いいますか。",
+   "options": [
+    "すみません、あの シャツを みせて ください。",
+    "すみません、あの シャツを みて ください。",
+    "すみません、あの シャツを みましょう。"
+   ],
+   "answer": 0,
+   "en": "You want to look at that shirt in a shop. What do you say to the shop staff?",
+   "why": "みせて ください asks the staff to show it to you."
+  },
+  {
+   "type": "utterance",
+   "setup": "{友|とも}だちの {家|いえ}に {入|はい}ります。{何|なん}と いいますか。",
+   "lines": [],
+   "question": "{何|なん}と いいますか。",
+   "options": [
+    "いってきます。",
+    "おじゃまします。",
+    "ただいま。"
+   ],
+   "answer": 1,
+   "en": "You are going into a friend's house. What do you say?",
+   "why": "おじゃまします is said when entering someone else's home."
+  },
+  {
+   "type": "utterance",
+   "setup": "{先生|せんせい}の {話|はなし}が よく わかりませんでした。{何|なん}と いいますか。",
+   "lines": [],
+   "question": "{何|なん}と いいますか。",
+   "options": [
+    "すみません、よく {話|はな}して ください。",
+    "すみません、もう {一度|いちど} おねがいします。",
+    "すみません、わかりましたか。"
+   ],
+   "answer": 1,
+   "en": "You didn't understand what the teacher said. What do you say?",
+   "why": "もう 一度 おねがいします asks the teacher to say it again."
+  },
+  {
+   "type": "utterance",
+   "setup": "{家|いえ}に {帰|かえ}りました。かぞくに {何|なん}と いいますか。",
+   "lines": [],
+   "question": "{何|なん}と いいますか。",
+   "options": [
+    "おかえりなさい。",
+    "いってらっしゃい。",
+    "ただいま。"
+   ],
+   "answer": 2,
+   "en": "You have come home. What do you say to your family?",
+   "why": "ただいま is what the person coming home says; おかえりなさい is the family's reply."
+  },
+  {
+   "type": "utterance",
+   "setup": "{店|みせ}で りんごを {三|みっ}つ かいたいです。{何|なん}と いいますか。",
+   "lines": [],
+   "question": "{何|なん}と いいますか。",
+   "options": [
+    "この りんごを {三|みっ}つ ください。",
+    "この りんごを {三|みっ}つ どうぞ。",
+    "この りんごを {三|みっ}つ かいましたか。"
+   ],
+   "answer": 0,
+   "en": "You want to buy three apples at a shop. What do you say?",
+   "why": "〜を ください is how you ask for something in a shop."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "お{国|くに}は どちらですか。"
+    }
+   ],
+   "question": "",
+   "options": [
+    "あちらです。",
+    "アメリカです。",
+    "はい、そうです。"
+   ],
+   "answer": 1,
+   "en": "F: Which country are you from?",
+   "why": "お国は どちらですか asks your home country, so you answer with the country's name."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "この ケーキ、いくらですか。"
+    }
+   ],
+   "question": "",
+   "options": [
+    "{三|みっ}つです。",
+    "おいしいです。",
+    "400{円|えん}です。"
+   ],
+   "answer": 2,
+   "en": "M: How much is this cake?",
+   "why": "いくら asks the price."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "いっしょに {昼|ひる}ごはんを {食|た}べませんか。"
+    }
+   ],
+   "question": "",
+   "options": [
+    "ええ、{食|た}べましょう。",
+    "ええ、{食|た}べませんでした。",
+    "ええ、どうぞ。"
+   ],
+   "answer": 0,
+   "en": "F: Won't you have lunch with me?",
+   "why": "To accept an invitation with 〜ませんか, you answer 〜ましょう."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "お{兄|にい}さんは {何|なん}さいですか。"
+    }
+   ],
+   "question": "",
+   "options": [
+    "{二人|ふたり}です。",
+    "{兄|あに}は げんきです。",
+    "{二十|にじゅっ}さいです。"
+   ],
+   "answer": 2,
+   "en": "M: How old is your older brother?",
+   "why": "何さい asks age."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "しゅくだいは もう おわりましたか。"
+    }
+   ],
+   "question": "",
+   "options": [
+    "はい、まだです。",
+    "いいえ、まだです。",
+    "いいえ、おわりました。"
+   ],
+   "answer": 1,
+   "en": "F: Have you finished your homework yet?",
+   "why": "いいえ、まだです means 'No, not yet'; the other two contradict themselves."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "いってきます。"
+    }
+   ],
+   "question": "",
+   "options": [
+    "いってらっしゃい。",
+    "おかえりなさい。",
+    "ただいま。"
+   ],
+   "answer": 0,
+   "en": "M: I'm off.",
+   "why": "The reply to いってきます is いってらっしゃい."
+  }
+ ]
+}

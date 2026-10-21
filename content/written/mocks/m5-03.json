@@ -1,0 +1,1228 @@
+{
+ "id": "m5-03",
+ "level": 5,
+ "title_en": "N5 practice test 3",
+ "vocab": [
+  {
+   "type": "kanji_reading",
+   "q_raw": "【毎朝】 こうえんを はしります。",
+   "options": [
+    "めいあさ",
+    "まいあさ",
+    "まいちょう",
+    "まえあさ"
+   ],
+   "answer": 1,
+   "en": "I run in the park every morning."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "きのうは 【雨】で、サッカーの れんしゅうが ありませんでした。",
+   "options": [
+    "あめ",
+    "ゆき",
+    "くも",
+    "かぜ"
+   ],
+   "answer": 0,
+   "en": "Yesterday it rained, so there was no soccer practice."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "この びょういんは 【午後】 ６じまでです。",
+   "options": [
+    "ごぜん",
+    "ごうご",
+    "ごご",
+    "こご"
+   ],
+   "answer": 2,
+   "en": "This hospital is open until 6 p.m."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "【先生】に くすりを もらいました。",
+   "options": [
+    "せんせ",
+    "せいせん",
+    "せんぜい",
+    "せんせい"
+   ],
+   "answer": 3,
+   "en": "I got medicine from the doctor."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "【八月】は なつやすみです。",
+   "options": [
+    "はっがつ",
+    "はちげつ",
+    "はちがつ",
+    "やがつ"
+   ],
+   "answer": 2,
+   "en": "August is summer vacation."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "まいにち プールで 【一時間】 およぎます。",
+   "options": [
+    "いちじけん",
+    "いちじかん",
+    "いっじかん",
+    "ひとじかん"
+   ],
+   "answer": 1,
+   "en": "I swim in the pool for one hour every day."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "あしたの 【天気】は はれでしょう。",
+   "options": [
+    "でんき",
+    "てんぎ",
+    "てんけ",
+    "てんき"
+   ],
+   "answer": 3,
+   "en": "Tomorrow's weather will probably be sunny."
+  },
+  {
+   "type": "orthography",
+   "q": "【やすみ】の {日|ひ}は テニスを します。",
+   "options_raw": [
+    "体み",
+    "休み",
+    "木み",
+    "伏み"
+   ],
+   "answer": 1,
+   "en": "On my days off I play tennis."
+  },
+  {
+   "type": "orthography",
+   "q": "やさいは 【からだ】に いいです。",
+   "options_raw": [
+    "休",
+    "本",
+    "体",
+    "木"
+   ],
+   "answer": 2,
+   "en": "Vegetables are good for your body."
+  },
+  {
+   "type": "orthography",
+   "q": "【みぎ】の {手|て}が いたいです。",
+   "options_raw": [
+    "右",
+    "左",
+    "石",
+    "名"
+   ],
+   "answer": 0,
+   "en": "My right hand hurts."
+  },
+  {
+   "type": "orthography",
+   "q": "【ふゆ】は ゆきが たくさん ふります。",
+   "options_raw": [
+    "各",
+    "終",
+    "夏",
+    "冬"
+   ],
+   "answer": 3,
+   "en": "It snows a lot in winter."
+  },
+  {
+   "type": "orthography",
+   "q": "【ちいさい】 こどもが プールで およいで います。",
+   "options_raw": [
+    "少さい",
+    "子さい",
+    "小さい",
+    "心さい"
+   ],
+   "answer": 2,
+   "en": "Small children are swimming in the pool."
+  },
+  {
+   "type": "context",
+   "q": "かぜを ひいて、ねつが あります。きょうは ＿＿へ いきます。",
+   "options": [
+    "びょういん",
+    "ぎんこう",
+    "ゆうびんきょく",
+    "としょかん"
+   ],
+   "answer": 0,
+   "en": "I caught a cold and have a fever. Today I will go to the hospital."
+  },
+  {
+   "type": "context",
+   "q": "この くすりは １{日|にち}に ３かい ＿＿ ください。",
+   "options": [
+    "たべて",
+    "のんで",
+    "すって",
+    "かけて"
+   ],
+   "answer": 1,
+   "en": "Please take this medicine three times a day."
+  },
+  {
+   "type": "context",
+   "q": "はるに なると、さくらが ＿＿。",
+   "options": [
+    "ふきます",
+    "ふります",
+    "さきます",
+    "なきます"
+   ],
+   "answer": 2,
+   "en": "When spring comes, the cherry blossoms bloom."
+  },
+  {
+   "type": "context",
+   "q": "テニスを ３じかん したので、とても ＿＿。すこし やすみます。",
+   "options": [
+    "はじめました",
+    "わすれました",
+    "こまりました",
+    "つかれました"
+   ],
+   "answer": 3,
+   "en": "I played tennis for three hours, so I am very tired. I will rest a little."
+  },
+  {
+   "type": "context",
+   "q": "きょうは ＿＿ですから、コートを きて いきましょう。",
+   "options": [
+    "さむい",
+    "あつい",
+    "あまい",
+    "あかるい"
+   ],
+   "answer": 0,
+   "en": "It is cold today, so let's wear a coat."
+  },
+  {
+   "type": "context",
+   "q": "あしたは あさ ９じから ＿＿で やきゅうの しあいが あります。",
+   "options": [
+    "きっさてん",
+    "ぎんこう",
+    "ゆうびんきょく",
+    "こうえん"
+   ],
+   "answer": 3,
+   "en": "Tomorrow there is a baseball game in the park from 9 a.m."
+  },
+  {
+   "type": "paraphrase",
+   "q": "【おととい】 びょういんへ いきました。",
+   "options": [
+    "きのう びょういんへ いきました。",
+    "ふつか まえに びょういんへ いきました。",
+    "みっか まえに びょういんへ いきました。",
+    "あした びょういんへ いきます。"
+   ],
+   "answer": 1,
+   "en": "I went to the hospital the day before yesterday."
+  },
+  {
+   "type": "paraphrase",
+   "q": "【あねは テニスが へたです。】",
+   "options": [
+    "あねは テニスが すきじゃ ありません。",
+    "あねは テニスを しません。",
+    "あねは テニスが じょうずです。",
+    "あねは テニスが じょうずじゃ ありません。"
+   ],
+   "answer": 3,
+   "en": "My older sister is bad at tennis."
+  },
+  {
+   "type": "paraphrase",
+   "q": "やまださんは きのう かぜで 【がっこうを やすみました】。",
+   "options": [
+    "がっこうへ きませんでした。",
+    "がっこうで ねました。",
+    "がっこうへ はやく きました。",
+    "がっこうに おそく きました。"
+   ],
+   "answer": 0,
+   "en": "Mr. Yamada was absent from school yesterday because of a cold."
+  }
+ ],
+ "grammar": [
+  {
+   "type": "form",
+   "q": "{公園|こうえん}＿＿ テニスを しました。",
+   "options": [
+    "を",
+    "へ",
+    "で",
+    "が"
+   ],
+   "answer": 2,
+   "en": "I played tennis in the park."
+  },
+  {
+   "type": "form",
+   "q": "おふろに はいる ＿＿、{薬|くすり}を {飲|の}みました。",
+   "options": [
+    "あとで",
+    "まえに",
+    "ながら",
+    "たり"
+   ],
+   "answer": 1,
+   "en": "I took my medicine before taking a bath."
+  },
+  {
+   "type": "form",
+   "q": "{熱|ねつ}が ありますから、きょうは おふろに はいら＿＿ ください。",
+   "options": [
+    "ないで",
+    "なくて",
+    "ません",
+    "ない"
+   ],
+   "answer": 0,
+   "en": "You have a fever, so please do not take a bath today."
+  },
+  {
+   "type": "form",
+   "q": "わたしは {夏|なつ}が {冬|ふゆ}＿＿ {好|す}きです。",
+   "options": [
+    "から",
+    "まで",
+    "ほど",
+    "より"
+   ],
+   "answer": 3,
+   "en": "I like summer more than winter."
+  },
+  {
+   "type": "form",
+   "q": "スポーツの {中|なか}で {何|なに}＿＿ {一番|いちばん} {好|す}きですか。",
+   "options": [
+    "が",
+    "を",
+    "は",
+    "に"
+   ],
+   "answer": 0,
+   "en": "Which sport do you like best?"
+  },
+  {
+   "type": "form",
+   "q": "ゆうべ {薬|くすり}を {飲|の}んで {寝|ね}ました。けさは もう {元気|げんき}に ＿＿。",
+   "options": [
+    "しました",
+    "なりました",
+    "ありました",
+    "いました"
+   ],
+   "answer": 1,
+   "en": "I took medicine last night and went to bed. This morning I am already well."
+  },
+  {
+   "type": "form",
+   "q": "A「いっしょに プールへ {行|い}き＿＿。」\nB「ええ、{行|い}きましょう。」",
+   "options": [
+    "ましたか",
+    "ませんでしたか",
+    "ましたね",
+    "ませんか"
+   ],
+   "answer": 3,
+   "en": "A: Won't you go to the pool with me? B: Yes, let's go."
+  },
+  {
+   "type": "form",
+   "q": "あしたは {雪|ゆき}が ふる＿＿。",
+   "options": [
+    "でした",
+    "ました",
+    "でしょう",
+    "ましょう"
+   ],
+   "answer": 2,
+   "en": "It will probably snow tomorrow."
+  },
+  {
+   "type": "form",
+   "q": "{昨日|きのう}は テニスを し＿＿、{野球|やきゅう}を したり しました。",
+   "options": [
+    "ても",
+    "たら",
+    "ながら",
+    "たり"
+   ],
+   "answer": 3,
+   "en": "Yesterday I did things like playing tennis and baseball."
+  },
+  {
+   "type": "star",
+   "before": "かぜを ひいた",
+   "after": "{寝|ね}て います。",
+   "pieces": [
+    "{休|やす}んで",
+    "{家|いえ}で",
+    "ので",
+    "{学校|がっこう}を"
+   ],
+   "order": [
+    2,
+    3,
+    0,
+    1
+   ],
+   "star": 2,
+   "en": "I caught a cold, so I am absent from school and sleeping at home.",
+   "why": "ので follows the reason; 学校を goes with 休んで, and 家で goes right before 寝ています."
+  },
+  {
+   "type": "star",
+   "before": "あしたは",
+   "after": "でしょう。",
+   "pieces": [
+    "{雪|ゆき}が",
+    "なって",
+    "ふる",
+    "{寒|さむ}く"
+   ],
+   "order": [
+    3,
+    1,
+    0,
+    2
+   ],
+   "star": 0,
+   "en": "Tomorrow it will probably get cold and snow.",
+   "why": "寒く なって is one unit (become cold), then 雪が ふる comes before でしょう."
+  },
+  {
+   "type": "star",
+   "before": "{毎朝|まいあさ} ジョギングを",
+   "after": "。",
+   "pieces": [
+    "から",
+    "あびます",
+    "して",
+    "シャワーを"
+   ],
+   "order": [
+    2,
+    0,
+    3,
+    1
+   ],
+   "star": 1,
+   "en": "Every morning I take a shower after jogging.",
+   "why": "ジョギングを して から means 'after jogging'; then シャワーを あびます ends the sentence."
+  },
+  {
+   "type": "star",
+   "before": "{妹|いもうと}は",
+   "after": "います。",
+   "pieces": [
+    "{練習|れんしゅう}をして",
+    "{音楽|おんがく}を",
+    "テニスの",
+    "{聞|き}きながら"
+   ],
+   "order": [
+    1,
+    3,
+    2,
+    0
+   ],
+   "star": 3,
+   "en": "My younger sister is practicing tennis while listening to music.",
+   "why": "音楽を 聞きながら comes first, then テニスの 練習をして joins with います."
+  },
+  {
+   "type": "text",
+   "passage": "「わたしの {好|す}きな きせつ」\n\nわたしは {夏|なつ}が {一番|いちばん} {好|す}きです。{夏|なつ}は {暑|あつ}いですが、{海|うみ}で {泳|およ}ぐ ことが できます。{去年|きょねん}の {夏|なつ}は、{友達|ともだち}（１） {海|うみ}へ {行|い}きました。{毎日|まいにち} たくさん {泳|およ}いで、とても {楽|たの}しかったです。\nでも、{冬|ふゆ}は あまり {好|す}きじゃ ありません。{寒|さむ}いからです。（２）、{冬|ふゆ}に なると よく かぜを ひきます。{去年|きょねん}の {冬|ふゆ}も {熱|ねつ}が {出|で}て、{一週間|いっしゅうかん} {学校|がっこう}を （３）。\n{今年|ことし}の {冬|ふゆ}は かぜを ひきたく ありませんから、{毎日|まいにち} あたたかい {服|ふく}を （４）。",
+   "en": "\"My favorite season\" — I like summer best. Summer is hot, but you can swim in the sea. Last summer I went to the sea with my friends. We swam a lot every day and it was a lot of fun. But I don't like winter very much, because it is cold. Also, I often catch colds in winter. Last winter too I had a fever and was absent from school for a week. I don't want to catch a cold this winter, so I plan to wear warm clothes every day.",
+   "questions": [
+    {
+     "q": "（１）",
+     "options": [
+      "が",
+      "を",
+      "に",
+      "と"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "（２）",
+     "options": [
+      "でも",
+      "じゃあ",
+      "それに",
+      "では"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "（３）",
+     "options": [
+      "{休|やす}みます",
+      "{休|やす}みました",
+      "{休|やす}みたいです",
+      "{休|やす}みましょう"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "（４）",
+     "options": [
+      "{着|き}る つもりです",
+      "{着|き}たかったです",
+      "{着|き}て ください",
+      "{着|き}ました"
+     ],
+     "answer": 0
+    }
+   ]
+  }
+ ],
+ "reading": [
+  {
+   "type": "short",
+   "text": "{山田|やまだ}さんへ\n\nあしたの {朝|あさ}、{駅|えき}の {東口|ひがしぐち}で {会|あ}いましょう。{九時|くじ}の {電車|でんしゃ}に {乗|の}りますから、{八時|はちじ}{四十五分|よんじゅうごふん}に {来|き}て ください。おべんとうは わたしが {持|も}って {行|い}きます。{山田|やまだ}さんは {飲|の}みものを {持|も}って きて ください。\n\nキム",
+   "en": "To Mr. Yamada: Let's meet at the east exit of the station tomorrow morning. We'll take the nine o'clock train, so please come at 8:45. I'll bring the lunch boxes. Please bring something to drink. Kim",
+   "questions": [
+    {
+     "q": "{山田|やまだ}さんは あした {何|なに}を しますか。",
+     "options": [
+      "{八時|はちじ}{四十五分|よんじゅうごふん}に {西口|にしぐち}へ {行|い}きます。おべんとうを {持|も}って {行|い}きます。",
+      "{九時|くじ}に {東口|ひがしぐち}へ {行|い}きます。{飲|の}みものを {持|も}って {行|い}きます。",
+      "{八時|はちじ}{四十五分|よんじゅうごふん}に {東口|ひがしぐち}へ {行|い}きます。{飲|の}みものを {持|も}って {行|い}きます。",
+      "{八時|はちじ}{四十五分|よんじゅうごふん}に {東口|ひがしぐち}へ {行|い}きます。おべんとうを {持|も}って {行|い}きます。"
+     ],
+     "answer": 2,
+     "why": "Kim asks him to come to the east exit at 8:45 and bring drinks; Kim brings the lunch."
+    }
+   ]
+  },
+  {
+   "type": "short",
+   "text": "テニスぶの みなさんへ\n\n{今週|こんしゅう}の れんしゅうは {水曜日|すいようび}と {金曜日|きんようび}です。{水曜日|すいようび}は {午後|ごご} {四時|よじ}から {六時|ろくじ}までです。{金曜日|きんようび}は {午後|ごご} {三時半|さんじはん}から {五時|ごじ}までです。でも、{金曜日|きんようび}に {雨|あめ}が ふったら、れんしゅうは ありません。",
+   "en": "To all tennis club members: Practice this week is on Wednesday and Friday. Wednesday is from 4 to 6 p.m. Friday is from 3:30 to 5 p.m. But if it rains on Friday, there is no practice.",
+   "questions": [
+    {
+     "q": "{金曜日|きんようび}に {雨|あめ}が ふったら、どう なりますか。",
+     "options": [
+      "れんしゅうは ありません。",
+      "{水曜日|すいようび}に れんしゅうします。",
+      "{午後|ごご} {四時|よじ}から れんしゅうします。",
+      "{午後|ごご} {三時半|さんじはん}から {五時|ごじ}まで れんしゅうします。"
+     ],
+     "answer": 0,
+     "why": "The notice says there is no practice if it rains on Friday."
+    }
+   ]
+  },
+  {
+   "type": "mid",
+   "text": "{先月|せんげつ}、わたしは はじめて ひとりで {東京|とうきょう}へ {行|い}きました。{東京|とうきょう}{駅|えき}は とても {大|おお}きくて、{人|ひと}が たくさん いました。\nわたしは {友|とも}だちの {家|いえ}へ {行|い}きたかったですが、{出口|でぐち}が わかりませんでした。それで、{駅|えき}の {人|ひと}に 「{南口|みなみぐち}は どこですか。」と {聞|き}きました。{駅|えき}の {人|ひと}は 「あそこの {階段|かいだん}を のぼって、{右|みぎ}へ {行|い}って ください。」と {言|い}いました。\nわたしは {階段|かいだん}を のぼって、{左|ひだり}へ {行|い}きました。そこは {北口|きたぐち}でした。{右|みぎ}と {左|ひだり}を まちがえたのです。もう {一度|いちど} {駅|えき}の {人|ひと}に {聞|き}いて、やっと {南口|みなみぐち}から {出|で}ました。{友|とも}だちの {家|いえ}には、やくそくの {時間|じかん}より {三十分|さんじゅっぷん} おそく つきました。\nつぎは {地図|ちず}を よく {見|み}てから {出|で}かけたいです。",
+   "en": "Last month I went to Tokyo alone for the first time. Tokyo Station was very big and there were lots of people. I wanted to go to my friend's house, but I didn't know which exit. So I asked a station worker, \"Where is the south exit?\" The worker said, \"Go up those stairs and go right.\" I went up the stairs and went left. That was the north exit. I mixed up right and left. I asked the worker again and finally left from the south exit. I arrived at my friend's house thirty minutes later than we had agreed. Next time I want to look at a map carefully before I go out.",
+   "questions": [
+    {
+     "q": "「わたし」は どうして {北口|きたぐち}へ {行|い}きましたか。",
+     "options": [
+      "{駅|えき}の {人|ひと}が {北口|きたぐち}へ {行|い}って くださいと {言|い}ったから",
+      "{友|とも}だちの {家|いえ}が {北口|きたぐち}の {近|ちか}くだったから",
+      "{階段|かいだん}を のぼらなかったから",
+      "{右|みぎ}では なくて、{左|ひだり}へ {行|い}ったから"
+     ],
+     "answer": 3,
+     "why": "The worker said go right, but the writer went left by mistake."
+    },
+    {
+     "q": "「わたし」は {友|とも}だちの {家|いえ}に いつ つきましたか。",
+     "options": [
+      "やくそくの {時間|じかん}に つきました。",
+      "やくそくの {時間|じかん}より {三十分|さんじゅっぷん} おそく つきました。",
+      "やくそくの {時間|じかん}より {三十分|さんじゅっぷん} {早|はや}く つきました。",
+      "やくそくの {時間|じかん}より {一時間|いちじかん} おそく つきました。"
+     ],
+     "answer": 1,
+     "why": "The text says the writer arrived thirty minutes later than the agreed time."
+    }
+   ]
+  },
+  {
+   "type": "info",
+   "text": "さくら{駅|えき} → うみ{駅|えき}　{電車|でんしゃ}の {時間|じかん}\n\n{電車|でんしゃ}｜さくら{駅|えき}を {出|で}る｜うみ{駅|えき}に つく\nふつう｜8:10｜9:20\nきゅうこう｜8:25｜9:05\nふつう｜8:40｜9:50\nきゅうこう｜8:55｜9:35\n\n※きゅうこうは {土曜日|どようび}と {日曜日|にちようび}は ありません。",
+   "en": "Train times, Sakura Station to Umi Station. Local: leaves 8:10, arrives 9:20. Express: 8:25, 9:05. Local: 8:40, 9:50. Express: 8:55, 9:35. Note: there are no express trains on Saturdays and Sundays.",
+   "questions": [
+    {
+     "q": "リンさんは {日曜日|にちようび}に うみ{駅|えき}へ {行|い}きます。{九時半|くじはん}までに うみ{駅|えき}に つきたいです。さくら{駅|えき}で {何時|なんじ}の {電車|でんしゃ}に {乗|の}りますか。",
+     "options": [
+      "8:25",
+      "8:40",
+      "8:10",
+      "8:55"
+     ],
+     "answer": 2,
+     "why": "There are no express trains on Sunday, and only the 8:10 local arrives (9:20) before 9:30."
+    }
+   ]
+  }
+ ],
+ "listening": [
+  {
+   "type": "task",
+   "setup": "{駅|えき}で {男|おとこ}の {人|ひと}と {女|おんな}の {人|ひと}が {話|はな}して います。{女|おんな}の {人|ひと}は {何番線|なんばんせん}の {電車|でんしゃ}に {乗|の}りますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "すみません、{上野|うえの}へ {行|い}きたいんですが、{何番線|なんばんせん}ですか。"
+    },
+    {
+     "s": "M",
+     "jp": "{上野|うえの}ですか。{三番線|さんばんせん}の {電車|でんしゃ}に {乗|の}って ください。"
+    },
+    {
+     "s": "F",
+     "jp": "{三番線|さんばんせん}ですね。"
+    },
+    {
+     "s": "M",
+     "jp": "あ、すみません。{今|いま}の {時間|じかん}は {四番線|よんばんせん}です。{三番線|さんばんせん}は {朝|あさ}だけです。"
+    },
+    {
+     "s": "F",
+     "jp": "わかりました。ありがとうございます。"
+    }
+   ],
+   "question": "{女|おんな}の {人|ひと}は {何番線|なんばんせん}の {電車|でんしゃ}に {乗|の}りますか。",
+   "options": [
+    "{三番線|さんばんせん}",
+    "{四番線|よんばんせん}",
+    "{一番線|いちばんせん}",
+    "{七番線|ななばんせん}"
+   ],
+   "answer": 1,
+   "en": "At a station. F: Excuse me, I want to go to Ueno. Which platform? M: Ueno? Take the train on platform 3. F: Platform 3, right. M: Oh, sorry. At this time it's platform 4. Platform 3 is only in the morning. F: I see. Thank you.",
+   "why": "Platform 3 is only for the morning; now she must use platform 4."
+  },
+  {
+   "type": "task",
+   "setup": "{学校|がっこう}で {先生|せんせい}と {学生|がくせい}が {話|はな}して います。{学生|がくせい}は あした {何|なに}を {持|も}って いきますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "あしたは みんなで {山|やま}へ {行|い}きます。おべんとうと {水|みず}を {持|も}って きて ください。"
+    },
+    {
+     "s": "F",
+     "jp": "{先生|せんせい}、かさも いりますか。"
+    },
+    {
+     "s": "M",
+     "jp": "あしたは いい {天気|てんき}ですから、かさは いりません。"
+    },
+    {
+     "s": "F",
+     "jp": "わかりました。"
+    }
+   ],
+   "question": "{学生|がくせい}は あした {何|なに}を {持|も}って いきますか。",
+   "options": [
+    "おべんとうと かさ",
+    "{水|みず}と かさ",
+    "おべんとうだけ",
+    "おべんとうと {水|みず}"
+   ],
+   "answer": 3,
+   "en": "At school. M (teacher): Tomorrow we're all going to the mountains. Please bring a lunch box and water. F: Teacher, do we need an umbrella too? M: The weather will be good tomorrow, so you don't need one. F: OK.",
+   "why": "The teacher says lunch and water, and no umbrella."
+  },
+  {
+   "type": "task",
+   "setup": "{男|おとこ}の {人|ひと}と {女|おんな}の {人|ひと}が {話|はな}して います。ふたりは {何時|なんじ}に {会|あ}いますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{映画|えいが}は {何時|なんじ}からですか。"
+    },
+    {
+     "s": "F",
+     "jp": "{二時|にじ}からです。"
+    },
+    {
+     "s": "M",
+     "jp": "じゃあ、{一時半|いちじはん}に {駅|えき}で {会|あ}いましょうか。"
+    },
+    {
+     "s": "F",
+     "jp": "{駅|えき}から {映画館|えいがかん}まで {二十分|にじゅっぷん}ぐらい かかりますよ。きっぷも {買|か}いますから、{一時|いちじ}{十五分|じゅうごふん}は どうですか。"
+    },
+    {
+     "s": "M",
+     "jp": "いいですよ。"
+    }
+   ],
+   "question": "ふたりは {何時|なんじ}に {会|あ}いますか。",
+   "options": [
+    "{一時|いちじ}{十五分|じゅうごふん}",
+    "{一時半|いちじはん}",
+    "{二時|にじ}",
+    "{一時|いちじ}{二十分|にじゅっぷん}"
+   ],
+   "answer": 0,
+   "en": "M: What time does the movie start? F: At two. M: Then shall we meet at the station at 1:30? F: It takes about 20 minutes from the station to the cinema. We also need to buy tickets, so how about 1:15? M: Sure.",
+   "why": "He agrees to her idea of 1:15."
+  },
+  {
+   "type": "task",
+   "setup": "{道|みち}で {男|おとこ}の {人|ひと}と {女|おんな}の {人|ひと}が {話|はな}して います。としょかんは どこですか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "すみません、としょかんは どこですか。"
+    },
+    {
+     "s": "F",
+     "jp": "この {道|みち}を まっすぐ {行|い}って、{二|ふた}つ{目|め}の かどを {右|みぎ}に まがって ください。{銀行|ぎんこう}の となりです。"
+    },
+    {
+     "s": "M",
+     "jp": "{二|ふた}つ{目|め}の かどを {右|みぎ}ですね。"
+    },
+    {
+     "s": "F",
+     "jp": "はい、そうです。"
+    }
+   ],
+   "question": "としょかんは どこですか。",
+   "options": [
+    "{一|ひと}つ{目|め}の かどを {右|みぎ}に まがって、{銀行|ぎんこう}の となり",
+    "{二|ふた}つ{目|め}の かどを {左|ひだり}に まがって、{銀行|ぎんこう}の となり",
+    "{二|ふた}つ{目|め}の かどを {右|みぎ}に まがって、{銀行|ぎんこう}の となり",
+    "{二|ふた}つ{目|め}の かどを {右|みぎ}に まがって、{銀行|ぎんこう}の {前|まえ}"
+   ],
+   "answer": 2,
+   "en": "On the street. M: Excuse me, where is the library? F: Go straight along this road and turn right at the second corner. It's next to the bank. M: Right at the second corner. F: Yes.",
+   "why": "Second corner, turn right, next to the bank."
+  },
+  {
+   "type": "task",
+   "setup": "{男|おとこ}の {人|ひと}と {女|おんな}の {人|ひと}が {話|はな}して います。ふたりは いつ プールへ {行|い}きますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "こんどの プール、いつ {行|い}きますか。"
+    },
+    {
+     "s": "F",
+     "jp": "{十日|とおか}は どうですか。"
+    },
+    {
+     "s": "M",
+     "jp": "{十日|とおか}は アルバイトが あります。{十一日|じゅういちにち}は？"
+    },
+    {
+     "s": "F",
+     "jp": "{十一日|じゅういちにち}は {母|はは}と {買|か}いものに {行|い}きます。{十二日|じゅうににち}は どうですか。"
+    },
+    {
+     "s": "M",
+     "jp": "いいですよ。"
+    }
+   ],
+   "question": "ふたりは いつ プールへ {行|い}きますか。",
+   "options": [
+    "{十日|とおか}",
+    "{十二日|じゅうににち}",
+    "{十一日|じゅういちにち}",
+    "{二十日|はつか}"
+   ],
+   "answer": 1,
+   "en": "M: When shall we go to the pool? F: How about the 10th? M: I have my part-time job on the 10th. The 11th? F: On the 11th I'm going shopping with my mother. How about the 12th? M: OK.",
+   "why": "The 10th and 11th don't work; they agree on the 12th."
+  },
+  {
+   "type": "task",
+   "setup": "{駅|えき}で {女|おんな}の {人|ひと}と {男|おとこ}の {人|ひと}が {話|はな}して います。{男|おとこ}の {人|ひと}は まず {何|なに}を しますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "すみません、みどり{駅|えき}へ {行|い}きたいんですが。"
+    },
+    {
+     "s": "F",
+     "jp": "きっぷは あの きかいで {買|か}って ください。でも、その {前|まえ}に、あそこの {地図|ちず}で いくらか {見|み}て くださいね。"
+    },
+    {
+     "s": "M",
+     "jp": "はい、わかりました。"
+    }
+   ],
+   "question": "{男|おとこ}の {人|ひと}は まず {何|なに}を しますか。",
+   "options": [
+    "{地図|ちず}を {見|み}ます。",
+    "きっぷを {買|か}います。",
+    "{電車|でんしゃ}に {乗|の}ります。",
+    "{駅|えき}の {人|ひと}に {聞|き}きます。"
+   ],
+   "answer": 0,
+   "en": "At a station. M: Excuse me, I want to go to Midori Station. F: Buy a ticket at that machine. But before that, check how much it is on the map over there. M: OK.",
+   "why": "Before buying the ticket, he checks the fare on the map."
+  },
+  {
+   "type": "task",
+   "setup": "{男|おとこ}の {人|ひと}と {女|おんな}の {人|ひと}が {話|はな}して います。{女|おんな}の {人|ひと}は {何|なに}を ならいますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "わたし、{何|なに}か ならいたいです。"
+    },
+    {
+     "s": "M",
+     "jp": "ピアノは どうですか。"
+    },
+    {
+     "s": "F",
+     "jp": "ピアノは {子|こ}どもの とき、ならいました。"
+    },
+    {
+     "s": "M",
+     "jp": "じゃあ、りょうりは？"
+    },
+    {
+     "s": "F",
+     "jp": "うーん、りょうりは {母|はは}が おしえて くれます。"
+    },
+    {
+     "s": "M",
+     "jp": "{日本|にほん}の うたは どうですか。"
+    },
+    {
+     "s": "F",
+     "jp": "あ、いいですね。それに します。"
+    }
+   ],
+   "question": "{女|おんな}の {人|ひと}は {何|なに}を ならいますか。",
+   "options": [
+    "ピアノ",
+    "りょうり",
+    "えいご",
+    "{日本|にほん}の うた"
+   ],
+   "answer": 3,
+   "en": "F: I want to learn something. M: How about piano? F: I learned piano as a child. M: Then cooking? F: Hmm, my mother teaches me cooking. M: How about Japanese songs? F: Oh, that's nice. I'll do that.",
+   "why": "She already learned piano and her mother teaches cooking; she picks Japanese songs."
+  },
+  {
+   "type": "point",
+   "setup": "{男|おとこ}の {人|ひと}と {女|おんな}の {人|ひと}が {話|はな}して います。{男|おとこ}の {人|ひと}は どうして おそく なりましたか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "すみません、おそく なりました。"
+    },
+    {
+     "s": "F",
+     "jp": "どうしたんですか。{電車|でんしゃ}が おくれましたか。"
+    },
+    {
+     "s": "M",
+     "jp": "いいえ、{電車|でんしゃ}は おくれませんでした。"
+    },
+    {
+     "s": "F",
+     "jp": "{道|みち}が わかりませんでしたか。"
+    },
+    {
+     "s": "M",
+     "jp": "いいえ、{道|みち}は わかりました。けさ、{起|お}きるのが おそかったんです。"
+    }
+   ],
+   "question": "{男|おとこ}の {人|ひと}は どうして おそく なりましたか。",
+   "options": [
+    "{電車|でんしゃ}が おくれたから",
+    "バスが こんで いたから",
+    "{起|お}きるのが おそかったから",
+    "{道|みち}が わからなかったから"
+   ],
+   "answer": 2,
+   "en": "M: Sorry I'm late. F: What happened? Was the train late? M: No, the train wasn't late. F: Did you not know the way? M: No, I knew the way. I got up late this morning.",
+   "why": "He says he got up late; the train and the way were fine."
+  },
+  {
+   "type": "point",
+   "setup": "{男|おとこ}の {人|ひと}と {女|おんな}の {人|ひと}が {話|はな}して います。{女|おんな}の {人|ひと}の {今|いま}の しゅみは {何|なん}ですか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{山田|やまだ}さんの しゅみは {何|なん}ですか。"
+    },
+    {
+     "s": "F",
+     "jp": "{前|まえ}は テニスでしたが、{今|いま}は りょうりです。{田中|たなか}さんは？"
+    },
+    {
+     "s": "M",
+     "jp": "わたしは しゃしんです。"
+    }
+   ],
+   "question": "{女|おんな}の {人|ひと}の {今|いま}の しゅみは {何|なん}ですか。",
+   "options": [
+    "りょうり",
+    "テニス",
+    "しゃしん",
+    "え"
+   ],
+   "answer": 0,
+   "en": "M: What is your hobby, Ms. Yamada? F: It used to be tennis, but now it's cooking. And you, Mr. Tanaka? M: Mine is photography.",
+   "why": "Tennis was before; now it is cooking. Photos is the man's hobby."
+  },
+  {
+   "type": "point",
+   "setup": "{学校|がっこう}で {女|おんな}の {学生|がくせい}と {先生|せんせい}が {話|はな}して います。テストは いつですか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{先生|せんせい}、テストは {来週|らいしゅう}の {月曜日|げつようび}ですか。"
+    },
+    {
+     "s": "M",
+     "jp": "いいえ、{月曜日|げつようび}は {休|やす}みですから、{火曜日|かようび}です。"
+    },
+    {
+     "s": "F",
+     "jp": "{火曜日|かようび}の {午前|ごぜん}ですか。"
+    },
+    {
+     "s": "M",
+     "jp": "いいえ、{午後|ごご}です。"
+    }
+   ],
+   "question": "テストは いつですか。",
+   "options": [
+    "{月曜日|げつようび}の {午前|ごぜん}",
+    "{月曜日|げつようび}の {午後|ごご}",
+    "{火曜日|かようび}の {午前|ごぜん}",
+    "{火曜日|かようび}の {午後|ごご}"
+   ],
+   "answer": 3,
+   "en": "F: Teacher, is the test next Monday? M: No, Monday is a holiday, so it's Tuesday. F: Tuesday morning? M: No, afternoon.",
+   "why": "Monday is a holiday; the test is Tuesday afternoon."
+  },
+  {
+   "type": "point",
+   "setup": "{男|おとこ}の {人|ひと}と {女|おんな}の {人|ひと}が {話|はな}して います。{女|おんな}の {人|ひと}は {電車|でんしゃ}に どのぐらい {乗|の}りますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{会社|かいしゃ}まで {何|なん}で {来|き}ますか。"
+    },
+    {
+     "s": "F",
+     "jp": "{電車|でんしゃ}です。{家|いえ}から {駅|えき}まで {歩|ある}いて {十分|じゅっぷん}、それから {電車|でんしゃ}で {四十分|よんじゅっぷん}です。"
+    },
+    {
+     "s": "M",
+     "jp": "{全部|ぜんぶ}で {五十分|ごじゅっぷん}ですね。"
+    }
+   ],
+   "question": "{女|おんな}の {人|ひと}は {電車|でんしゃ}に どのぐらい {乗|の}りますか。",
+   "options": [
+    "{十分|じゅっぷん}",
+    "{四十分|よんじゅっぷん}",
+    "{五十分|ごじゅっぷん}",
+    "{三十分|さんじゅっぷん}"
+   ],
+   "answer": 1,
+   "en": "M: How do you get to the office? F: By train. It's a ten-minute walk from home to the station, then forty minutes by train. M: Fifty minutes in total, then.",
+   "why": "She rides the train for forty minutes; fifty is the whole trip."
+  },
+  {
+   "type": "point",
+   "setup": "{男|おとこ}の {人|ひと}と {女|おんな}の {人|ひと}が {話|はな}して います。{男|おとこ}の {人|ひと}は {日曜日|にちようび}に どこへ {行|い}きましたか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{日曜日|にちようび}は どこかへ {行|い}きましたか。"
+    },
+    {
+     "s": "M",
+     "jp": "{海|うみ}へ {行|い}きたかったですが、{雨|あめ}でしたから、{美術館|びじゅつかん}へ {行|い}きました。"
+    },
+    {
+     "s": "F",
+     "jp": "いいですね。"
+    },
+    {
+     "s": "M",
+     "jp": "かえりに デパートへも {行|い}きたかったですが、つかれましたから、すぐ {家|いえ}へ {帰|かえ}りました。"
+    }
+   ],
+   "question": "{男|おとこ}の {人|ひと}は {日曜日|にちようび}に どこへ {行|い}きましたか。",
+   "options": [
+    "{海|うみ}",
+    "デパート",
+    "{美術館|びじゅつかん}",
+    "{公園|こうえん}"
+   ],
+   "answer": 2,
+   "en": "F: Did you go anywhere on Sunday? M: I wanted to go to the sea, but it rained, so I went to an art museum. F: Nice. M: I wanted to go to a department store on the way back, but I was tired, so I went straight home.",
+   "why": "He only wanted to go to the sea and the department store; he actually went to the art museum."
+  },
+  {
+   "type": "point",
+   "setup": "{駅|えき}で {男|おとこ}の {人|ひと}と {駅|えき}の {人|ひと}が {話|はな}して います。{男|おとこ}の {人|ひと}は {何時|なんじ}の {電車|でんしゃ}に {乗|の}りますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "すみません、つぎの {大阪|おおさか}{行|ゆ}きは {何時|なんじ}ですか。"
+    },
+    {
+     "s": "F",
+     "jp": "{十時|じゅうじ}{五分|ごふん}です。"
+    },
+    {
+     "s": "M",
+     "jp": "その つぎは？"
+    },
+    {
+     "s": "F",
+     "jp": "{十時|じゅうじ}{三十五分|さんじゅうごふん}です。"
+    },
+    {
+     "s": "M",
+     "jp": "いま {十時|じゅうじ}ですね。これから きっぷを {買|か}いますから、その つぎの {電車|でんしゃ}に {乗|の}ります。"
+    }
+   ],
+   "question": "{男|おとこ}の {人|ひと}は {何時|なんじ}の {電車|でんしゃ}に {乗|の}りますか。",
+   "options": [
+    "{十時|じゅうじ}{三十五分|さんじゅうごふん}",
+    "{十時|じゅうじ}{五分|ごふん}",
+    "{十時|じゅうじ}",
+    "{十時|じゅうじ}{十五分|じゅうごふん}"
+   ],
+   "answer": 0,
+   "en": "At a station. M: Excuse me, what time is the next train to Osaka? F: 10:05. M: And the one after that? F: 10:35. M: It's ten now. I'm going to buy a ticket now, so I'll take the one after that.",
+   "why": "He will take the train after 10:05, which is 10:35."
+  },
+  {
+   "type": "utterance",
+   "setup": "えを {見|み}て ください。やじるしの {人|ひと}は {何|なん}と {言|い}いますか。",
+   "lines": [
+    {
+     "s": "N",
+     "jp": "{駅|えき}で {出口|でぐち}が わかりません。{駅|えき}の {人|ひと}に {聞|き}きます。"
+    }
+   ],
+   "question": "{何|なん}と {言|い}いますか。",
+   "options": [
+    "ここは どこへ {行|い}きますか。",
+    "すみません、{出口|でぐち}は どこですか。",
+    "{出口|でぐち}へ {行|い}って ください。"
+   ],
+   "answer": 1,
+   "en": "You can't find the exit at a station. You ask a station worker. What do you say?",
+   "why": "You are asking where the exit is."
+  },
+  {
+   "type": "utterance",
+   "setup": "えを {見|み}て ください。やじるしの {人|ひと}は {何|なん}と {言|い}いますか。",
+   "lines": [
+    {
+     "s": "N",
+     "jp": "{友|とも}だちが りょこうの {写真|しゃしん}を {持|も}って います。{見|み}たいです。"
+    }
+   ],
+   "question": "{何|なん}と {言|い}いますか。",
+   "options": [
+    "{写真|しゃしん}を {見|み}せましょうか。",
+    "{写真|しゃしん}を とりましょうか。",
+    "{写真|しゃしん}を {見|み}ても いいですか。"
+   ],
+   "answer": 2,
+   "en": "Your friend has photos from a trip. You want to see them. What do you say?",
+   "why": "You ask for permission to look."
+  },
+  {
+   "type": "utterance",
+   "setup": "えを {見|み}て ください。やじるしの {人|ひと}は {何|なん}と {言|い}いますか。",
+   "lines": [
+    {
+     "s": "N",
+     "jp": "{会社|かいしゃ}で、ほかの {人|ひと}より {先|さき}に {帰|かえ}ります。"
+    }
+   ],
+   "question": "{何|なん}と {言|い}いますか。",
+   "options": [
+    "お{先|さき}に しつれいします。",
+    "おかえりなさい。",
+    "いってきます。"
+   ],
+   "answer": 0,
+   "en": "At the office, you are going home before the others. What do you say?",
+   "why": "This is the set phrase for leaving work before others."
+  },
+  {
+   "type": "utterance",
+   "setup": "えを {見|み}て ください。やじるしの {人|ひと}は {何|なん}と {言|い}いますか。",
+   "lines": [
+    {
+     "s": "N",
+     "jp": "{電車|でんしゃ}が {何時|なんじ}に {出|で}るか {知|し}りたいです。"
+    }
+   ],
+   "question": "{何|なん}と {言|い}いますか。",
+   "options": [
+    "この {電車|でんしゃ}は {何時|なんじ}に つきましたか。",
+    "この {電車|でんしゃ}は {何時|なんじ}に {出|で}ますか。",
+    "{何時|なんじ}の {電車|でんしゃ}に {乗|の}りましたか。"
+   ],
+   "answer": 1,
+   "en": "You want to know what time the train leaves. What do you say?",
+   "why": "You ask when this train departs."
+  },
+  {
+   "type": "utterance",
+   "setup": "えを {見|み}て ください。やじるしの {人|ひと}は {何|なん}と {言|い}いますか。",
+   "lines": [
+    {
+     "s": "N",
+     "jp": "{友|とも}だちと {日曜日|にちようび}に テニスを したいです。"
+    }
+   ],
+   "question": "{何|なん}と {言|い}いますか。",
+   "options": [
+    "{日曜日|にちようび}に テニスを しましたか。",
+    "{日曜日|にちようび}は テニスが じょうずですね。",
+    "{日曜日|にちようび}に いっしょに テニスを しませんか。"
+   ],
+   "answer": 2,
+   "en": "You want to play tennis with a friend on Sunday. What do you say?",
+   "why": "～ませんか is used to invite someone."
+  },
+  {
+   "type": "response",
+   "setup": "ぶんを {聞|き}いて、1から3の {中|なか}から、いちばん いい ものを {一|ひと}つ えらんで ください。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "きょうは {何日|なんにち}ですか。"
+    }
+   ],
+   "question": "{何|なん}と こたえますか。",
+   "options": [
+    "{十四日|じゅうよっか}です。",
+    "{水曜日|すいようび}です。",
+    "{三時|さんじ}です。"
+   ],
+   "answer": 0,
+   "en": "F: What's the date today?",
+   "why": "何日 asks for the date, not the day of the week or time."
+  },
+  {
+   "type": "response",
+   "setup": "ぶんを {聞|き}いて、1から3の {中|なか}から、いちばん いい ものを {一|ひと}つ えらんで ください。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "この {電車|でんしゃ}は {東京|とうきょう}へ {行|い}きますか。"
+    }
+   ],
+   "question": "{何|なん}と こたえますか。",
+   "options": [
+    "はい、{行|い}きませんでした。",
+    "いいえ、{東京|とうきょう}です。",
+    "いいえ、となりの {電車|でんしゃ}ですよ。"
+   ],
+   "answer": 2,
+   "en": "M: Does this train go to Tokyo?",
+   "why": "It says no and points to the train next to it."
+  },
+  {
+   "type": "response",
+   "setup": "ぶんを {聞|き}いて、1から3の {中|なか}から、いちばん いい ものを {一|ひと}つ えらんで ください。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "しゅみは {何|なん}ですか。"
+    }
+   ],
+   "question": "{何|なん}と こたえますか。",
+   "options": [
+    "{毎日|まいにち} しゅみです。",
+    "{映画|えいが}を {見|み}ることです。",
+    "しゅみが ありますか。"
+   ],
+   "answer": 1,
+   "en": "F: What is your hobby?",
+   "why": "It names a hobby."
+  },
+  {
+   "type": "response",
+   "setup": "ぶんを {聞|き}いて、1から3の {中|なか}から、いちばん いい ものを {一|ひと}つ えらんで ください。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "すみません、{駅|えき}まで どのぐらい かかりますか。"
+    }
+   ],
+   "question": "{何|なん}と こたえますか。",
+   "options": [
+    "{歩|ある}いて {五分|ごふん}ぐらいです。",
+    "{駅|えき}の {前|まえ}です。",
+    "{二百円|にひゃくえん}です。"
+   ],
+   "answer": 0,
+   "en": "M: Excuse me, how long does it take to the station?",
+   "why": "どのぐらいかかりますか asks how much time."
+  },
+  {
+   "type": "response",
+   "setup": "ぶんを {聞|き}いて、1から3の {中|なか}から、いちばん いい ものを {一|ひと}つ えらんで ください。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "いっしょに {帰|かえ}りませんか。"
+    }
+   ],
+   "question": "{何|なん}と こたえますか。",
+   "options": [
+    "はい、{帰|かえ}りませんでした。",
+    "いいえ、どういたしまして。",
+    "すみません、まだ しごとが あるんです。"
+   ],
+   "answer": 2,
+   "en": "F: Shall we go home together?",
+   "why": "It politely refuses with a reason."
+  },
+  {
+   "type": "response",
+   "setup": "ぶんを {聞|き}いて、1から3の {中|なか}から、いちばん いい ものを {一|ひと}つ えらんで ください。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "たんじょうびは いつですか。"
+    }
+   ],
+   "question": "{何|なん}と こたえますか。",
+   "options": [
+    "{二十歳|はたち}です。",
+    "{三月|さんがつ}{三日|みっか}です。",
+    "{日曜日|にちようび}が いいです。"
+   ],
+   "answer": 1,
+   "en": "M: When is your birthday?",
+   "why": "It gives a date."
+  }
+ ]
+}
