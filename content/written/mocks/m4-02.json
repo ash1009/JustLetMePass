@@ -5,15 +5,15 @@
  "vocab": [
   {
    "type": "kanji_reading",
-   "q_raw": "【部活】が終わってから、友だちと帰ります。",
+   "q_raw": "【近所】の公園で、友だちとあそびます。",
    "options": [
-    "ぶかつ",
-    "ぶがつ",
-    "ぶかっつ",
-    "ふかつ"
+    "きんじょ",
+    "きんしょ",
+    "ちかじょ",
+    "きんじょう"
    ],
    "answer": 0,
-   "en": "I go home with my friends after club activities end."
+   "en": "I play with my friends in a park in the neighbourhood."
   },
   {
    "type": "kanji_reading",
@@ -245,15 +245,15 @@
   },
   {
    "type": "paraphrase",
-   "q": "{山田|やまだ}さんは【りょうりがとくいです】。",
+   "q": "{山田|やまだ}さんは【うたがとくいです】。",
    "options": [
-    "{山田|やまだ}さんはりょうりがきらいです。",
-    "{山田|やまだ}さんはりょうりをあまりしません。",
-    "{山田|やまだ}さんはりょうりをならっています。",
-    "{山田|やまだ}さんはりょうりがじょうずです。"
+    "{山田|やまだ}さんはうたがきらいです。",
+    "{山田|やまだ}さんはうたをあまりうたいません。",
+    "{山田|やまだ}さんはうたをならっています。",
+    "{山田|やまだ}さんはうたがじょうずです。"
    ],
    "answer": 3,
-   "en": "Yamada-san is good at cooking."
+   "en": "Yamada-san is good at singing."
   },
   {
    "type": "paraphrase",
@@ -513,7 +513,7 @@
     0,
     1
    ],
-   "star": 2,
+   "star": 0,
    "en": "I hear tomorrow's club activity starts at 7 in the morning.",
    "why": "{朝|あさ}{七時|しちじ}から{始|はじ}まるそうです: the time comes first, then から, then the verb before そうです."
   },
@@ -562,16 +562,16 @@
    "before": "{日本|にほん}の{大学|だいがく}に",
    "after": "{毎日|まいにち}{勉強|べんきょう}しています。",
    "pieces": [
-    "{入|はい}る",
-    "ために",
     "{日本語|にほんご}",
-    "を"
+    "{入|はい}る",
+    "を",
+    "ために"
    ],
    "order": [
-    0,
     1,
-    2,
-    3
+    3,
+    0,
+    2
    ],
    "star": 1,
    "en": "I study Japanese every day in order to enter a Japanese university.",
@@ -608,7 +608,7 @@
       "みました",
       "なりました",
       "ありました",
-      "います"
+      "ください"
      ],
      "answer": 0
     },
