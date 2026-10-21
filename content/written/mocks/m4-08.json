@@ -5,24 +5,24 @@
  "vocab": [
   {
    "type": "kanji_reading",
-   "q_raw": "土曜日の夜、駅の近くのレストランを【予約】しました。",
+   "q_raw": "土曜日の夜、駅の【近く】のレストランを予約しました。",
    "options": [
-    "ようやく",
-    "よやく",
-    "よっやく",
-    "よやっく"
+    "きんく",
+    "ちかく",
+    "ちがく",
+    "しかく"
    ],
    "answer": 1,
    "en": "I made a reservation at a restaurant near the station for Saturday night."
   },
   {
    "type": "kanji_reading",
-   "q_raw": "姉は毎週、ピアノを【習って】います。",
+   "q_raw": "【姉】は毎週、ピアノを習っています。",
    "options": [
-    "ならって",
-    "なれって",
-    "まなって",
-    "かよって"
+    "あね",
+    "いもうと",
+    "あに",
+    "おとうと"
    ],
    "answer": 0,
    "en": "My older sister takes piano lessons every week."
@@ -53,27 +53,27 @@
   },
   {
    "type": "kanji_reading",
-   "q_raw": "母は【料理】教室に通いはじめました。",
+   "q_raw": "父は毎朝、車を【運転】して会社に行きます。",
    "options": [
-    "りょり",
-    "りょうりい",
-    "りようり",
-    "りょうり"
+    "うんでん",
+    "うんて",
+    "うんてい",
+    "うんてん"
    ],
    "answer": 3,
-   "en": "My mother started going to a cooking class."
+   "en": "My father drives to work every morning."
   },
   {
    "type": "kanji_reading",
-   "q_raw": "引っ越しのとき、友だちが【手伝って】くれました。",
+   "q_raw": "時間がないので、【急いで】駅へ行きました。",
    "options": [
-    "てづだって",
-    "てつだって",
-    "てつたって",
-    "てだすけて"
+    "いぞいで",
+    "いそいで",
+    "おそいで",
+    "きゅういで"
    ],
    "answer": 1,
-   "en": "When I moved, my friends helped me."
+   "en": "I had no time, so I hurried to the station."
   },
   {
    "type": "kanji_reading",
@@ -113,15 +113,15 @@
   },
   {
    "type": "orthography",
-   "q": "{友|とも}だちに{本|ほん}を【かして】あげました。",
+   "q": "{来週|らいしゅう}の{月曜日|げつようび}に{数学|すうがく}の【しけん】があります。",
    "options_raw": [
-    "借して",
-    "貸して",
-    "賃して",
-    "化して"
+    "試検",
+    "試験",
+    "式験",
+    "誠験"
    ],
    "answer": 1,
-   "en": "I lent a book to my friend."
+   "en": "I have a maths test next Monday."
   },
   {
    "type": "orthography",
@@ -189,7 +189,7 @@
    "options": [
     "{値段|ねだん}",
     "におい",
-    "{席|せき}",
+    "{色|いろ}",
     "{気分|きぶん}"
    ],
    "answer": 0,
@@ -513,7 +513,7 @@
     1,
     3
    ],
-   "star": 2,
+   "star": 0,
    "en": "I went to the restaurant that just opened in front of the station.",
    "why": "{新|あたら}しく describes できた, which describes レストラン, and に marks where you went."
   },
@@ -553,7 +553,7 @@
     1,
     3
    ],
-   "star": 2,
+   "star": 3,
    "en": "I booked the restaurant I'm going to with a friend next Saturday.",
    "why": "{友|とも}だちと{行|い}く describes レストラン, and レストランを is the object of {予約|よやく}しました."
   },
@@ -598,7 +598,7 @@
       "{教|おし}えてくれます",
       "{教|おし}えてもらいます",
       "{教|おし}えてあげます",
-      "{教|おし}えられます"
+      "{教|おし}えてほしいです"
      ],
      "answer": 0
     },

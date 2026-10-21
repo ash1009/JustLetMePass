@@ -595,7 +595,7 @@
     {
      "q": "（２）",
      "options": [
-      "あった",
+      "みせた",
       "くれた",
       "もらった",
       "おいた"
@@ -1341,11 +1341,11 @@
    "question": "いちばんいい{返事|へんじ}はどれですか。",
    "options": [
     "うん、もうやんだね。",
-    "うん、もうすぐ{晴|は}れたね。",
+    "うん、{雨|あめ}が{降|ふ}らなくてよかったね。",
     "うん、タクシーで{帰|かえ}ろうか。"
    ],
    "answer": 2,
-   "en": "M: The rain just won't stop, huh. (1) Yeah, it already stopped. (2) Yeah, it soon cleared up. (3) Yeah, shall we go home by taxi?",
+   "en": "M: The rain just won't stop, huh. (1) Yeah, it already stopped. (2) Yeah, good thing it didn't rain. (3) Yeah, shall we go home by taxi?",
    "why": "The rain is still falling, so suggesting a taxi fits; the others say it stopped."
   },
   {
