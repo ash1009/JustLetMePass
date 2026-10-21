@@ -17,7 +17,7 @@
   },
   {
    "type": "kanji_reading",
-   "q_raw": "サッカーの【試合】は午後二時にからです。",
+   "q_raw": "サッカーの【試合】は午後二時からです。",
    "options": [
     "しあい",
     "じあい",
@@ -387,7 +387,7 @@
    "options": [
     "ようにします",
     "ことにします",
-    "ほうがいいです",
+    "つもりです",
     "らしいです"
    ],
    "answer": 3,
@@ -517,7 +517,7 @@
     0,
     2
    ],
-   "star": 2,
+   "star": 3,
    "en": "A children's sports day will be held next Sunday at the park in my neighbourhood.",
    "why": "{来週|らいしゅう}の goes before {日曜日|にちようび}に, and {子|こ}どもの comes right before {運動会|うんどうかい}, which is followed by が."
   },
@@ -577,7 +577,7 @@
     1,
     2
    ],
-   "star": 1,
+   "star": 0,
    "en": "When you find out what time the match starts, please tell me too.",
    "why": "{始|はじ}まる describes {時間|じかん}, {時間|じかん}が goes with わかったら, and {私|わたし}にも goes right before {教|おし}えてください."
   },
@@ -619,12 +619,12 @@
     {
      "q": "（４）",
      "options": [
-      "なりました",
       "ありました",
       "いました",
-      "もらいました"
+      "もらいました",
+      "なりました"
      ],
-     "answer": 0
+     "answer": 3
     }
    ]
   }

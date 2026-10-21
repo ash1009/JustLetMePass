@@ -367,23 +367,23 @@
     },
     {
       "type": "star",
-      "before": "かぜを ひいた",
-      "after": "{寝|ね}て います。",
+      "before": "かぜを",
+      "after": "{家|いえ}で {寝|ね}て います。",
       "pieces": [
+        "{学校|がっこう}を",
+        "ひいた",
         "{休|やす}んで",
-        "{家|いえ}で",
-        "ので",
-        "{学校|がっこう}を"
+        "ので"
       ],
       "order": [
-        2,
+        1,
         3,
         0,
-        1
+        2
       ],
       "star": 2,
       "en": "I caught a cold, so I am absent from school and sleeping at home.",
-      "why": "ので follows the reason; がっこうを goes with やすんで, and いえで goes right before ねて います."
+      "why": "ひいた completes かぜを ひいた, ので gives the reason, and がっこうを goes with やすんで before いえで ねて います."
     },
     {
       "type": "star",
