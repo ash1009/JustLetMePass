@@ -599,7 +599,7 @@
    ],
    "star": 1,
    "en": "For my health, I make a rule of walking at least ten thousand steps every day.",
-   "why": "以上 must follow 一万歩, は marks it, and こと comes right before にしている."
+   "why": "{以上|いじょう} must follow {一万歩|いちまんぽ}, は marks it, and こと comes right before にしている."
   },
   {
    "type": "star",
@@ -619,7 +619,7 @@
    ],
    "star": 2,
    "en": "Since I started using this app, my life has become more convenient.",
-   "why": "The pattern is ～ようになってから, and 生活が is the subject of 便利になった."
+   "why": "The pattern is ～ようになってから, and {生活|せいかつ}が is the subject of {便利|べんり}になった."
   },
   {
    "type": "star",
@@ -639,7 +639,7 @@
    ],
    "star": 3,
    "en": "The forecast says it will rain tomorrow, so the trip was cancelled.",
-   "why": "雨が降る describes 予報 through という, and なので gives the reason."
+   "why": "{雨|あめ}が{降|ふ}る describes {予報|よほう} through という, and なので gives the reason."
   },
   {
    "type": "star",
@@ -659,7 +659,7 @@
    ],
    "star": 2,
    "en": "My brother went out as soon as he got up, without even eating breakfast.",
-   "why": "とすぐ follows the dictionary form 起きる, and 朝ごはんも goes before 食べずに."
+   "why": "とすぐ follows the dictionary form {起|お}きる, and {朝|あさ}ごはんも goes before {食|た}べずに."
   },
   {
    "type": "star",
@@ -679,7 +679,7 @@
    ],
    "star": 0,
    "en": "In a country you visit for the first time, it is important to look up that country's customs beforehand.",
-   "why": "その国の modifies 習慣, を takes the verb 調べておく, and ことが is the subject of 大切だ."
+   "why": "その{国|くに}の modifies {習慣|しゅうかん}, を takes the verb {調|しら}べておく, and ことが is the subject of {大切|たいせつ}だ."
   },
   {
    "type": "text",
