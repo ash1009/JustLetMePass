@@ -305,15 +305,15 @@
   },
   {
    "type": "usage",
-   "word": "{届|とど}ける",
+   "word": "{集|あつ}める",
    "options": [
-    "{落|お}ちていた{財布|さいふ}を{交番|こうばん}に{届|とど}けました。",
-    "{毎朝|まいあさ}、{六時|ろくじ}に{目|め}を{届|とど}けます。",
-    "{暑|あつ}いので、まどを{届|とど}けました。",
-    "{来年|らいねん}、{大学|だいがく}を{届|とど}けるつもりです。"
+    "{子|こ}どものころから、{古|ふる}い{切手|きって}を{集|あつ}めています。",
+    "{毎朝|まいあさ}、{六時|ろくじ}に{目|め}を{集|あつ}めます。",
+    "{暑|あつ}いので、まどを{集|あつ}めました。",
+    "{来年|らいねん}、{大学|だいがく}を{集|あつ}めるつもりです。"
    ],
    "answer": 0,
-   "en": "{届|とど}ける = to take something to someone / to deliver."
+   "en": "{集|あつ}める = to collect / to gather."
   },
   {
    "type": "usage",
@@ -499,23 +499,23 @@
   },
   {
    "type": "star",
-   "before": "{昨日|きのう}",
-   "after": "{取|と}り{替|か}えてもらいました。",
+   "before": "わたしはいつか",
+   "after": "{思|おも}っています。",
    "pieces": [
-    "シャツが",
-    "{大|おお}きいサイズと",
-    "{買|か}った",
-    "{小|ちい}さかったので"
+    "{店|みせ}を",
+    "{自分|じぶん}の",
+    "{持|も}ちたい",
+    "と"
    ],
    "order": [
-    2,
+    1,
     0,
-    3,
-    1
+    2,
+    3
    ],
-   "star": 2,
-   "en": "The shirt I bought yesterday was small, so I had it exchanged for a bigger size.",
-   "why": "{買|か}った describes シャツが; then comes the reason {小|ちい}さかったので; then {大|おお}きいサイズと goes with {取|と}り{替|か}えて."
+   "star": 1,
+   "en": "I think I want to have my own shop someday.",
+   "why": "{自分|じぶん}の must come before the noun {店|みせ}を, {店|みせ}を is the object of {持|も}ちたい, and と joins it to {思|おも}っています."
   },
   {
    "type": "star",
@@ -533,7 +533,7 @@
     0,
     1
    ],
-   "star": 0,
+   "star": 3,
    "en": "I hear the bakery in front of the station is looking for someone to work part-time.",
    "why": "{駅|えき}の{前|まえ}の needs a noun, so パン{屋|や}で comes first; アルバイトをしてくれる describes {人|ひと}を, which goes with {探|さが}している."
   },
@@ -553,7 +553,7 @@
     2,
     0
    ],
-   "star": 0,
+   "star": 2,
    "en": "I checked whether the city office is also open on Saturdays.",
    "why": "{開|あ}いている comes first, ～かどうか means 'whether or not', and を makes it the object of {調|しら}べました."
   },
@@ -573,7 +573,7 @@
     2,
     1
    ],
-   "star": 1,
+   "star": 0,
    "en": "I forgot to buy the milk my mother asked me to get.",
    "why": "{母|はは}に{頼|たの}まれた describes {牛乳|ぎゅうにゅう}を; {買|か}うのを is the object of {忘|わす}れて, which joins しまいました."
   },
@@ -606,7 +606,7 @@
      "q": "（３）",
      "options": [
       "きました",
-      "いらっしゃいました",
+      "おきました",
       "しまいたかったです",
       "いきました"
      ],
@@ -617,7 +617,7 @@
      "options": [
       "{続|つづ}けた",
       "{続|つづ}けよう",
-      "{続|つづ}けている",
+      "{続|つづ}けそう",
       "{続|つづ}けられた"
      ],
      "answer": 1
