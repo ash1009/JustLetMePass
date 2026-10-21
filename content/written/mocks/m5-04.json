@@ -431,7 +431,7 @@
    "after": "くれました。",
    "pieces": [
     "てつだって",
-    "へやの",
+    "{部屋|へや}の",
     "そうじを",
     "わたしの"
    ],
@@ -443,12 +443,12 @@
    ],
    "star": 2,
    "en": "Yesterday my friend helped me clean my room.",
-   "why": "わたしの へやの そうじ is one noun phrase; を comes before the verb てつだって, which joins くれました."
+   "why": "わたしの {部屋|へや}の そうじ is one noun phrase; を comes before the verb てつだって, which joins くれました."
   },
   {
    "type": "text",
-   "passage": "わたしは　{先月|せんげつ}、{新|あたら}しい　アパートに　ひっこしました。{駅|えき}から　あるいて　{五分|ごふん}です。{部屋|へや}は　あまり　ひろく（１）、とても　あかるいです。\n{先週|せんしゅう}の　{土曜日|どようび}、{友達|ともだち}の　リンさんが　あそびに　{来|き}ました。わたしは　リンさん（２）　カレーを　{作|つく}りました。リンさんは「おいしい」と　{言|い}って、たくさん　{食|た}べました。\n{食|た}べた（３）、{二人|ふたり}で　{近|ちか}くの　こうえんを　さんぽしました。こんどは　わたしが　リンさんの　うちへ（４）。",
-   "en": "Last month I moved to a new apartment. It is a five-minute walk from the station. The room is not very big, but it is very bright. Last Saturday my friend Lin came over. I made curry for Lin. Lin said 'It's delicious' and ate a lot. After we ate, the two of us took a walk in a nearby park. Next time I will go to Lin's house.",
+   "passage": "わたしは　{先月|せんげつ}、{新|あたら}しい　アパートに　ひっこしました。{駅|えき}から　あるいて　{五分|ごふん}です。{部屋|へや}は　あまり　ひろく（１）、とても　あかるいです。\n{先週|せんしゅう}の　{土曜日|どようび}、{友達|ともだち}の　リンさんが　あそびに　{来|き}ました。わたしは　リンさん（２）　いっしょに　カレーを　{作|つく}りました。リンさんは「おいしい」と　{言|い}って、たくさん　{食|た}べました。\n{食|た}べた（３）、{二人|ふたり}で　{近|ちか}くの　こうえんを　さんぽしました。こんどは　わたしが　リンさんの　うちへ（４）。",
+   "en": "Last month I moved to a new apartment. It is a five-minute walk from the station. The room is not very big, but it is very bright. Last Saturday my friend Lin came over. Lin and I made curry together. Lin said 'It's delicious' and ate a lot. After we ate, the two of us took a walk in a nearby park. Next time I will go to Lin's house.",
    "questions": [
     {
      "q": "（１）",
@@ -463,10 +463,10 @@
     {
      "q": "（２）",
      "options": [
-      "に",
+      "と",
       "が",
       "を",
-      "へ"
+      "に"
      ],
      "answer": 0
     },

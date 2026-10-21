@@ -359,7 +359,13 @@ private fun MockPlayer(l: Listening, once: Boolean) {
     Panel {
         Row(verticalAlignment = Alignment.CenterVertically) {
             Button(
-                onClick = { started = true; a.speech.play(key, l.audioLines()) },
+                onClick = {
+                    started = true
+                    // Don't say the question twice when the narrator's setup already asks it.
+                    val q = Furigana.plain(l.quiz.q)
+                    val parts = l.audioLines().let { p -> if (q.isNotBlank() && Furigana.plain(l.setup).contains(q) && p.size > 1) p.dropLast(1) else p }
+                    a.speech.play(key, parts)
+                },
                 enabled = !started,
             ) { Text(if (!started) "Play" else if (mine && now?.done == false) "Playing…" else "Played") }
             HGap(12.dp)
