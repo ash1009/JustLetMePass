@@ -1,0 +1,1522 @@
+{
+ "id": "m4-08",
+ "level": 4,
+ "title_en": "N4 practice test 8",
+ "vocab": [
+  {
+   "type": "kanji_reading",
+   "q_raw": "土曜日の夜、駅の近くのレストランを【予約】しました。",
+   "options": [
+    "ようやく",
+    "よやく",
+    "よっやく",
+    "よやっく"
+   ],
+   "answer": 1,
+   "en": "I made a reservation at a restaurant near the station for Saturday night."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "姉は毎週、ピアノを【習って】います。",
+   "options": [
+    "ならって",
+    "なれって",
+    "まなって",
+    "かよって"
+   ],
+   "answer": 0,
+   "en": "My older sister takes piano lessons every week."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "友だちに辞書を【借りました】。",
+   "options": [
+    "かりました",
+    "かえりました",
+    "かしました",
+    "きりました"
+   ],
+   "answer": 0,
+   "en": "I borrowed a dictionary from a friend."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "この店のラーメンは【味】がとてもいいです。",
+   "options": [
+    "いろ",
+    "におい",
+    "あじ",
+    "かたち"
+   ],
+   "answer": 2,
+   "en": "The ramen at this shop tastes very good."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "母は【料理】教室に通いはじめました。",
+   "options": [
+    "りょり",
+    "りょうりい",
+    "りようり",
+    "りょうり"
+   ],
+   "answer": 3,
+   "en": "My mother started going to a cooking class."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "引っ越しのとき、友だちが【手伝って】くれました。",
+   "options": [
+    "てづだって",
+    "てつだって",
+    "てつたって",
+    "てだすけて"
+   ],
+   "answer": 1,
+   "en": "When I moved, my friends helped me."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "今日は【特別】な日なので、高いレストランに行きます。",
+   "options": [
+    "とくべち",
+    "とくへつ",
+    "とくべつ",
+    "どくべつ"
+   ],
+   "answer": 2,
+   "en": "Today is a special day, so we are going to an expensive restaurant."
+  },
+  {
+   "type": "orthography",
+   "q": "{金曜日|きんようび}の{夜|よる}は、レストランの【せき】が{空|あ}いていませんでした。",
+   "options_raw": [
+    "度",
+    "広",
+    "座",
+    "席"
+   ],
+   "answer": 3,
+   "en": "On Friday night there were no free seats at the restaurant."
+  },
+  {
+   "type": "orthography",
+   "q": "{毎週|まいしゅう}{水曜日|すいようび}に【えいご】を{習|なら}っています。",
+   "options_raw": [
+    "英話",
+    "映語",
+    "英語",
+    "映話"
+   ],
+   "answer": 2,
+   "en": "I take English lessons every Wednesday."
+  },
+  {
+   "type": "orthography",
+   "q": "{友|とも}だちに{本|ほん}を【かして】あげました。",
+   "options_raw": [
+    "借して",
+    "貸して",
+    "賃して",
+    "化して"
+   ],
+   "answer": 1,
+   "en": "I lent a book to my friend."
+  },
+  {
+   "type": "orthography",
+   "q": "{来週|らいしゅう}の【よてい】を{教|おし}えてください。",
+   "options_raw": [
+    "予定",
+    "予体",
+    "余定",
+    "予足"
+   ],
+   "answer": 0,
+   "en": "Please tell me your plans for next week."
+  },
+  {
+   "type": "orthography",
+   "q": "{分|わ}からないところを{先生|せんせい}に【しつもん】しました。",
+   "options_raw": [
+    "質問",
+    "質門",
+    "貿問",
+    "質間"
+   ],
+   "answer": 0,
+   "en": "I asked the teacher about the parts I didn't understand."
+  },
+  {
+   "type": "context",
+   "q": "{人気|にんき}のレストランなので、{早|はや}く＿＿したほうがいいですよ。",
+   "options": [
+    "{注意|ちゅうい}",
+    "{予約|よやく}",
+    "{約束|やくそく}",
+    "{練習|れんしゅう}"
+   ],
+   "answer": 1,
+   "en": "It's a popular restaurant, so you should book early."
+  },
+  {
+   "type": "context",
+   "q": "{毎日|まいにち}{練習|れんしゅう}したので、ギターが＿＿{上手|じょうず}になりました。",
+   "options": [
+    "ぜひ",
+    "ちっとも",
+    "きっと",
+    "だいぶ"
+   ],
+   "answer": 3,
+   "en": "I practised every day, so I got a lot better at the guitar."
+  },
+  {
+   "type": "context",
+   "q": "{引|ひ}っ{越|こ}しのとき、{友|とも}だちが{荷物|にもつ}を{運|はこ}ぶのを＿＿くれました。",
+   "options": [
+    "{調|しら}べて",
+    "{伝|つた}えて",
+    "{手伝|てつだ}って",
+    "{集|あつ}めて"
+   ],
+   "answer": 2,
+   "en": "When I moved, a friend helped me carry my things."
+  },
+  {
+   "type": "context",
+   "q": "このレストランは＿＿が{高|たか}いですが、とてもおいしいです。",
+   "options": [
+    "{値段|ねだん}",
+    "におい",
+    "{席|せき}",
+    "{気分|きぶん}"
+   ],
+   "answer": 0,
+   "en": "This restaurant is expensive, but the food is very good."
+  },
+  {
+   "type": "context",
+   "q": "{料理|りょうり}{教室|きょうしつ}では、{先生|せんせい}が{作|つく}り{方|かた}をていねいに＿＿くれます。",
+   "options": [
+    "{案内|あんない}して",
+    "{紹介|しょうかい}して",
+    "{説明|せつめい}して",
+    "{相談|そうだん}して"
+   ],
+   "answer": 2,
+   "en": "At the cooking class, the teacher carefully explains how to make each dish."
+  },
+  {
+   "type": "context",
+   "q": "{友|とも}だちとの＿＿を{忘|わす}れて、{一時間|いちじかん}も{待|ま}たせてしまいました。",
+   "options": [
+    "{意見|いけん}",
+    "{趣味|しゅみ}",
+    "{都合|つごう}",
+    "{約束|やくそく}"
+   ],
+   "answer": 3,
+   "en": "I forgot my plans with a friend and kept them waiting for an hour."
+  },
+  {
+   "type": "context",
+   "q": "{日曜日|にちようび}のレストランはとても＿＿いて、30{分|ぷん}も{待|ま}ちました。",
+   "options": [
+    "{込|こ}んで",
+    "{空|す}いて",
+    "{並|なら}んで",
+    "{開|ひら}いて"
+   ],
+   "answer": 0,
+   "en": "The restaurant was very crowded on Sunday, and we waited 30 minutes."
+  },
+  {
+   "type": "context",
+   "q": "「{趣味|しゅみ}は{何|なん}ですか」と{聞|き}かれて、「{写真|しゃしん}を＿＿ことです」と{答|こた}えました。",
+   "options": [
+    "{描|か}く",
+    "{撮|と}る",
+    "{弾|ひ}く",
+    "{磨|みが}く"
+   ],
+   "answer": 1,
+   "en": "When asked about my hobby, I answered, \"Taking photos.\""
+  },
+  {
+   "type": "paraphrase",
+   "q": "【この{店|みせ}はいつもすいています】。",
+   "options": [
+    "この{店|みせ}はいつも{人|ひと}が{多|おお}いです。",
+    "この{店|みせ}はいつも{人|ひと}が{少|すく}ないです。",
+    "この{店|みせ}はいつも{安|やす}いです。",
+    "この{店|みせ}はいつも{高|たか}いです。"
+   ],
+   "answer": 1,
+   "en": "This shop is never crowded."
+  },
+  {
+   "type": "paraphrase",
+   "q": "{友|とも}だちに【お{礼|れい}を{言|い}いました】。",
+   "options": [
+    "{友|とも}だちに「ありがとう」と{言|い}いました。",
+    "{友|とも}だちに「すみません」と{言|い}いました。",
+    "{友|とも}だちに「おめでとう」と{言|い}いました。",
+    "{友|とも}だちに「いただきます」と{言|い}いました。"
+   ],
+   "answer": 0,
+   "en": "I thanked my friend."
+  },
+  {
+   "type": "paraphrase",
+   "q": "{週|しゅう}に{二回|にかい}、ダンスを【{習|なら}っています】。",
+   "options": [
+    "{週|しゅう}に{二回|にかい}、ダンスの{先生|せんせい}をしています。",
+    "{週|しゅう}に{二回|にかい}、ダンスを{見|み}に{行|い}っています。",
+    "{週|しゅう}に{二回|にかい}、ダンスの{服|ふく}を{買|か}っています。",
+    "{週|しゅう}に{二回|にかい}、ダンスの{教室|きょうしつ}に{通|かよ}っています。"
+   ],
+   "answer": 3,
+   "en": "I take dance lessons twice a week."
+  },
+  {
+   "type": "paraphrase",
+   "q": "【レストランを{予約|よやく}しておきました】。",
+   "options": [
+    "レストランで{食|た}べたあとで、お{金|かね}を{払|はら}いました。",
+    "レストランの{場所|ばしょ}を{調|しら}べておきました。",
+    "レストランに{行|い}く{前|まえ}に、{席|せき}を{取|と}っておきました。",
+    "レストランに{行|い}くのをやめました。"
+   ],
+   "answer": 2,
+   "en": "I reserved a table at the restaurant in advance."
+  },
+  {
+   "type": "usage",
+   "word": "{役|やく}に{立|た}つ",
+   "options": [
+    "{駅|えき}の{前|まえ}で{役|やく}に{立|た}って、{友|とも}だちを{待|ま}ちました。",
+    "{雨|あめ}が{役|やく}に{立|た}ったので、{出|で}かけませんでした。",
+    "{母|はは}は{毎朝|まいあさ}{六時|ろくじ}に{役|やく}に{立|た}ちます。",
+    "この{辞書|じしょ}は、{日本語|にほんご}の{勉強|べんきょう}にとても{役|やく}に{立|た}ちます。"
+   ],
+   "answer": 3,
+   "en": "be useful"
+  },
+  {
+   "type": "usage",
+   "word": "{貸|か}す",
+   "options": [
+    "{図書館|としょかん}で{本|ほん}を{貸|か}して、{家|いえ}で{読|よ}みました。",
+    "パン{屋|や}でパンを{貸|か}して、{公園|こうえん}で{食|た}べました。",
+    "{雨|あめ}が{降|ふ}ってきたので、{友|とも}だちにかさを{貸|か}してあげました。",
+    "{先生|せんせい}に{分|わ}からないことを{貸|か}しました。"
+   ],
+   "answer": 2,
+   "en": "lend"
+  },
+  {
+   "type": "usage",
+   "word": "{都合|つごう}",
+   "options": [
+    "{明日|あした}は{都合|つごう}が{悪|わる}いので、あさってでもいいですか。",
+    "{都合|つごう}がおいしいレストランへ{行|い}きました。",
+    "{毎日|まいにち}{都合|つごう}を{練習|れんしゅう}しています。",
+    "{友|とも}だちの{誕生日|たんじょうび}に{都合|つごう}をプレゼントしました。"
+   ],
+   "answer": 0,
+   "en": "convenience / circumstances"
+  },
+  {
+   "type": "usage",
+   "word": "{集|あつ}める",
+   "options": [
+    "{毎朝|まいあさ}、{冷|つめ}たい{水|みず}で{顔|かお}を{集|あつ}めます。",
+    "{弟|おとうと}の{趣味|しゅみ}は、{古|ふる}い{切手|きって}を{集|あつ}めることです。",
+    "{日曜日|にちようび}に、{駅|えき}の{前|まえ}に{人|ひと}がたくさん{集|あつ}めていました。",
+    "{雨|あめ}が{集|あつ}めて、{道|みち}がぬれています。"
+   ],
+   "answer": 1,
+   "en": "collect"
+  }
+ ],
+ "grammar": [
+  {
+   "type": "form",
+   "q": "{私|わたし}のパソコンがこわれたので、{友|とも}だちが{直|なお}して＿＿。",
+   "options": [
+    "くれました",
+    "あげました",
+    "もらいました",
+    "いただきました"
+   ],
+   "answer": 0,
+   "en": "My computer broke, so a friend fixed it for me."
+  },
+  {
+   "type": "form",
+   "q": "レストランに{行|い}く＿＿、{電話|でんわ}で{席|せき}があるか{聞|き}きました。",
+   "options": [
+    "あとで",
+    "ながら",
+    "{前|まえ}に",
+    "のに"
+   ],
+   "answer": 2,
+   "en": "Before going to the restaurant, I phoned to ask if there were seats."
+  },
+  {
+   "type": "form",
+   "q": "{日本語|にほんご}が{上手|じょうず}に{話|はな}せる＿＿、{毎日|まいにち}{練習|れんしゅう}しています。",
+   "options": [
+    "ために",
+    "ように",
+    "ところ",
+    "ばかり"
+   ],
+   "answer": 1,
+   "en": "I practise every day so that I can speak Japanese well."
+  },
+  {
+   "type": "form",
+   "q": "（ケーキを{見|み}て）このケーキ、とても＿＿そうですね。",
+   "options": [
+    "おいし",
+    "おいしい",
+    "おいしく",
+    "おいしかった"
+   ],
+   "answer": 0,
+   "en": "(Looking at a cake) This cake looks really delicious."
+  },
+  {
+   "type": "form",
+   "q": "{妹|いもうと}はまだ{三歳|さんさい}ですが、もうピアノを＿＿ことができます。",
+   "options": [
+    "{弾|ひ}いて",
+    "{弾|ひ}く",
+    "{弾|ひ}いた",
+    "{弾|ひ}ける"
+   ],
+   "answer": 1,
+   "en": "My younger sister is only three, but she can already play the piano."
+  },
+  {
+   "type": "form",
+   "q": "{先生|せんせい}、その{荷物|にもつ}、{重|おも}そうですね。{私|わたし}が＿＿。",
+   "options": [
+    "お{持|も}ちします",
+    "お{持|も}ちになります",
+    "{持|も}ってくださいます",
+    "{持|も}っていらっしゃいます"
+   ],
+   "answer": 0,
+   "en": "Teacher, that bag looks heavy. I'll carry it for you."
+  },
+  {
+   "type": "form",
+   "q": "{予約|よやく}の{時間|じかん}に{遅|おく}れ＿＿、タクシーで{行|い}きました。",
+   "options": [
+    "なくて",
+    "ないと",
+    "ないように",
+    "なければ"
+   ],
+   "answer": 2,
+   "en": "I took a taxi so that I wouldn't be late for my reservation."
+  },
+  {
+   "type": "form",
+   "q": "{友|とも}だちとの{約束|やくそく}を{忘|わす}れて、{友|とも}だちに＿＿。",
+   "options": [
+    "{怒|おこ}らせました",
+    "{怒|おこ}ってあげました",
+    "{怒|おこ}ってほしかったです",
+    "{怒|おこ}られました"
+   ],
+   "answer": 3,
+   "en": "I forgot my promise to my friend, and my friend got angry with me."
+  },
+  {
+   "type": "form",
+   "q": "{息子|むすこ}が「ピアノを{習|なら}いたい」と{言|い}ったので、{息子|むすこ}をピアノ{教室|きょうしつ}に＿＿。",
+   "options": [
+    "{通|かよ}われました",
+    "{通|かよ}いました",
+    "{通|かよ}わせられました",
+    "{通|かよ}わせました"
+   ],
+   "answer": 3,
+   "en": "My son said he wanted to learn the piano, so I sent him to piano lessons."
+  },
+  {
+   "type": "form",
+   "q": "{昨日|きのう}の{夜|よる}は、{何|なに}も{食|た}べない＿＿{寝|ね}てしまいました。",
+   "options": [
+    "て",
+    "と",
+    "ながら",
+    "で"
+   ],
+   "answer": 3,
+   "en": "Last night I went to sleep without eating anything."
+  },
+  {
+   "type": "form",
+   "q": "「この{店|みせ}、おいしいね。」「でしょう？ここは、{田中|たなか}さんが{私|わたし}に＿＿{店|みせ}なんだ。」",
+   "options": [
+    "{教|おし}えてもらった",
+    "{教|おし}えてくれた",
+    "{教|おし}えてあげた",
+    "{教|おし}えられた"
+   ],
+   "answer": 1,
+   "en": "\"This place is good.\" \"Isn't it? Tanaka told me about it.\""
+  },
+  {
+   "type": "form",
+   "q": "{週末|しゅうまつ}は、{映画|えいが}を{見|み}＿＿、{買|か}い{物|もの}をしたりしました。",
+   "options": [
+    "たり",
+    "て",
+    "ながら",
+    "たら"
+   ],
+   "answer": 0,
+   "en": "At the weekend I did things like watching a film and going shopping."
+  },
+  {
+   "type": "form",
+   "q": "「おなか、すいた？」「ううん、さっき{昼|ひる}ご{飯|はん}を{食|た}べた＿＿だから、まだいいよ。」",
+   "options": [
+    "まま",
+    "ほう",
+    "ばかり",
+    "はず"
+   ],
+   "answer": 2,
+   "en": "\"Are you hungry?\" \"No, I just had lunch, so I'm fine for now.\""
+  },
+  {
+   "type": "star",
+   "before": "{駅|えき}の{前|まえ}に",
+   "after": "{行|い}きました。",
+   "pieces": [
+    "できた",
+    "レストラン",
+    "{新|あたら}しく",
+    "に"
+   ],
+   "order": [
+    2,
+    0,
+    1,
+    3
+   ],
+   "star": 2,
+   "en": "I went to the restaurant that just opened in front of the station.",
+   "why": "{新|あたら}しく describes できた, which describes レストラン, and に marks where you went."
+  },
+  {
+   "type": "star",
+   "before": "{先生|せんせい}が",
+   "after": "{上手|じょうず}になりました。",
+   "pieces": [
+    "くれた",
+    "{教|おし}えて",
+    "ギターが",
+    "おかげで"
+   ],
+   "order": [
+    1,
+    0,
+    3,
+    2
+   ],
+   "star": 2,
+   "en": "Thanks to my teacher teaching me, I got better at the guitar.",
+   "why": "{教|おし}えてくれた comes before おかげで, and ギターが goes right before {上手|じょうず}になりました."
+  },
+  {
+   "type": "star",
+   "before": "{来週|らいしゅう}の{土曜日|どようび}、",
+   "after": "{予約|よやく}しました。",
+   "pieces": [
+    "{友|とも}だち",
+    "{行|い}く",
+    "と",
+    "レストランを"
+   ],
+   "order": [
+    0,
+    2,
+    1,
+    3
+   ],
+   "star": 2,
+   "en": "I booked the restaurant I'm going to with a friend next Saturday.",
+   "why": "{友|とも}だちと{行|い}く describes レストラン, and レストランを is the object of {予約|よやく}しました."
+  },
+  {
+   "type": "star",
+   "before": "{明日|あした}は",
+   "after": "{行|い}けません。",
+   "pieces": [
+    "{用事|ようじ}が",
+    "{料理|りょうり}{教室|きょうしつ}に",
+    "ある",
+    "ので"
+   ],
+   "order": [
+    0,
+    2,
+    3,
+    1
+   ],
+   "star": 1,
+   "en": "I have something to do tomorrow, so I can't go to the cooking class.",
+   "why": "{用事|ようじ}がある is the reason before ので, and {料理|りょうり}{教室|きょうしつ}に goes with {行|い}けません."
+  },
+  {
+   "type": "text",
+   "passage": "{私|わたし}は{先月|せんげつ}から、{友|とも}だちのマリアさんと{料理|りょうり}{教室|きょうしつ}に{通|かよ}っています。マリアさんは{料理|りょうり}が{大好|だいす}きです。（１）、{私|わたし}は{今|いま}まであまり{料理|りょうり}をしたことがありませんでした。{教室|きょうしつ}は{毎週|まいしゅう}{土曜日|どようび}の{午前|ごぜん}です。{先生|せんせい}はとてもやさしくて、{分|わ}からないところがあると、{何回|なんかい}でも（２）。{先週|せんしゅう}は、てんぷらを{作|つく}りました。{私|わたし}は{油|あぶら}がこわくて{困|こま}っていましたが、マリアさんが（３）、{最後|さいご}にはおいしくできました。{家|いえ}に{帰|かえ}ってから、{家族|かぞく}にも{作|つく}って（４）。{母|はは}は「おいしい」と{言|い}ってくれました。",
+   "en": "Since last month I have been going to a cooking class with my friend Maria. Maria loves cooking. But until now I had hardly ever cooked. The class is every Saturday morning. The teacher is very kind and explains as many times as we need when we don't understand. Last week we made tempura. I was scared of the oil and had trouble, but Maria helped me, so in the end it turned out delicious. After I got home, I tried making it for my family too. My mother said it was delicious.",
+   "questions": [
+    {
+     "q": "（１）",
+     "options": [
+      "それに",
+      "だから",
+      "でも",
+      "それでは"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "（２）",
+     "options": [
+      "{教|おし}えてくれます",
+      "{教|おし}えてもらいます",
+      "{教|おし}えてあげます",
+      "{教|おし}えられます"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "（３）",
+     "options": [
+      "{手伝|てつだ}ってあげたので",
+      "{手伝|てつだ}ってくれたので",
+      "{手伝|てつだ}ってほしいので",
+      "{手伝|てつだ}うために"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "（４）",
+     "options": [
+      "ください",
+      "いただきます",
+      "あげません",
+      "みました"
+     ],
+     "answer": 3
+    }
+   ]
+  }
+ ],
+ "reading": [
+  {
+   "type": "short",
+   "text": "{料理|りょうり}{教室|きょうしつ}からのお{知|し}らせ\n{来週|らいしゅう}{水曜日|すいようび}の{教室|きょうしつ}は、{先生|せんせい}の{都合|つごう}で{木曜日|もくようび}に{変|か}わります。{時間|じかん}はいつもと{同|おな}じ{午後|ごご}6{時|じ}からです。エプロンを{忘|わす}れないでください。{木曜日|もくようび}に{来|こ}られない{人|ひと}は、{火曜日|かようび}までに{教室|きょうしつ}に{電話|でんわ}をしてください。",
+   "en": "Notice from the cooking class: Next Wednesday's class is moved to Thursday because of the teacher's schedule. The time is the same as usual, from 6 p.m. Please don't forget your apron. If you cannot come on Thursday, please call the class by Tuesday.",
+   "questions": [
+    {
+     "q": "{木曜日|もくようび}に{来|こ}られない{人|ひと}は、どうしなければなりませんか。",
+     "options": [
+      "{水曜日|すいようび}の{午後|ごご}6{時|じ}に{教室|きょうしつ}に{行|い}く。",
+      "{木曜日|もくようび}の{午後|ごご}6{時|じ}に{電話|でんわ}する。",
+      "エプロンを{持|も}って{水曜日|すいようび}に{行|い}く。",
+      "{火曜日|かようび}までに{教室|きょうしつ}に{電話|でんわ}する。"
+     ],
+     "answer": 3,
+     "why": "The notice says people who can't come on Thursday must call by Tuesday."
+    }
+   ]
+  },
+  {
+   "type": "short",
+   "text": "{山田|やまだ}さんへ\n{来週|らいしゅう}の{日曜日|にちようび}に{引|ひ}っ{越|こ}しをします。{荷物|にもつ}が{多|おお}いので、{手伝|てつだ}ってもらえませんか。{朝|あさ}10{時|じ}ごろから{始|はじ}めるつもりです。お{昼|ひる}ご{飯|はん}は{私|わたし}がごちそうします。{電車|でんしゃ}で{来|く}る{人|ひと}は、{駅|えき}まで{迎|むか}えに{行|い}きます。{車|くるま}で{来|く}る{人|ひと}は、{直接|ちょくせつ}{新|あたら}しいアパートに{来|き}てください。アパートの{地図|ちず}は{後|あと}で{送|おく}ります。\nリン",
+   "en": "To Yamada: I'm moving next Sunday. I have a lot of things, so could you help me? I plan to start around 10 a.m. I'll treat everyone to lunch. If you come by train, I'll pick you up at the station. If you come by car, please come straight to the new apartment. I'll send a map of the apartment later. Lin",
+   "questions": [
+    {
+     "q": "{山田|やまだ}さんは{車|くるま}で{行|い}くつもりです。{日曜日|にちようび}、どうしますか。",
+     "options": [
+      "10{時|じ}ごろ、{駅|えき}でリンさんを{待|ま}つ。",
+      "10{時|じ}ごろ、{新|あたら}しいアパートに{直接|ちょくせつ}{行|い}く。",
+      "お{昼|ひる}ご{飯|はん}を{買|か}って{駅|えき}に{行|い}く。",
+      "アパートの{地図|ちず}をリンさんに{送|おく}る。"
+     ],
+     "answer": 1,
+     "why": "People coming by car should go straight to the new apartment, and work starts around 10."
+    }
+   ]
+  },
+  {
+   "type": "short",
+   "text": "{私|わたし}の{趣味|しゅみ}はテニスです。{去年|きょねん}までは、{一人|ひとり}で{公園|こうえん}の{壁|かべ}に{向|む}かって{練習|れんしゅう}していましたが、{今年|ことし}の{春|はる}から、{近|ちか}くのテニススクールに{通|かよ}い{始|はじ}めました。{最初|さいしょ}は、ほかの{人|ひと}と{試合|しあい}をするのがこわかったです。でも、コーチに「{間違|まちが}えてもいいから、{楽|たの}しんでください」と{言|い}われて、{気持|きも}ちが{楽|らく}になりました。{今|いま}は、{週末|しゅうまつ}にスクールの{友|とも}だちと{試合|しあい}をするのが{楽|たの}しみです。",
+   "en": "My hobby is tennis. Until last year I practised alone against a wall in the park, but this spring I started going to a tennis school nearby. At first I was scared of playing matches with other people. But my coach told me, \"It's OK to make mistakes, so enjoy it,\" and I felt more relaxed. Now I look forward to playing matches with friends from the school at weekends.",
+   "questions": [
+    {
+     "q": "この{人|ひと}の{気持|きも}ちが{楽|らく}になったのは、どうしてですか。",
+     "options": [
+      "{一人|ひとり}で{壁|かべ}に{向|む}かって{練習|れんしゅう}したから。",
+      "コーチに、{間違|まちが}えてもいいと{言|い}われたから。",
+      "{初|はじ}めての{試合|しあい}に{勝|か}ったから。",
+      "スクールで{新|あたら}しい{友|とも}だちができたから。"
+     ],
+     "answer": 1,
+     "why": "The writer relaxed after the coach said mistakes were OK."
+    }
+   ]
+  },
+  {
+   "type": "mid",
+   "text": "{先月|せんげつ}、{大学|だいがく}の{友|とも}だちのケンさんの{誕生日|たんじょうび}パーティーをしました。{私|わたし}が{店|みせ}の{予約|よやく}をすることになったので、ケンさんが{好|す}きなイタリア{料理|りょうり}のレストランを{探|さが}しました。{駅|えき}の{近|ちか}くに{人気|にんき}の{店|みせ}がありましたが、{電話|でんわ}をすると、その{日|ひ}はもう{予約|よやく}がいっぱいだと{言|い}われました。{困|こま}っていたら、アルバイトの{先輩|せんぱい}が、{自分|じぶん}がよく{行|い}く{店|みせ}を{教|おし}えてくれました。{駅|えき}から{少|すこ}し{遠|とお}いですが、{静|しず}かで、{料理|りょうり}もおいしいそうです。すぐに{電話|でんわ}をして、{十人|じゅうにん}の{席|せき}を{予約|よやく}しました。\nパーティーの{日|ひ}、みんなで{店|みせ}に{行|い}くと、{店|みせ}の{人|ひと}がケンさんのために{特別|とくべつ}なケーキを{用意|ようい}してくれていました。{予約|よやく}の{電話|でんわ}で{私|わたし}が「{友|とも}だちの{誕生日|たんじょうび}なんです」と{言|い}ったのを、{覚|おぼ}えていてくれたのです。ケンさんはとても{喜|よろこ}んでいました。\n{次|つぎ}の{日|ひ}、{先輩|せんぱい}にお{礼|れい}を{言|い}って、パーティーの{写真|しゃしん}を{見|み}せました。{先輩|せんぱい}は「{今度|こんど}は{私|わたし}も{一緒|いっしょ}に{行|い}きたいな」と{笑|わら}いました。",
+   "en": "Last month we had a birthday party for my university friend Ken. I was in charge of booking, so I looked for an Italian restaurant, which Ken likes. There was a popular place near the station, but when I called, they said they were already fully booked that day. While I was stuck, a senior colleague from my part-time job told me about a place she often goes to. It's a little far from the station, but it's quiet and the food is said to be good. I called right away and booked seats for ten.\nOn the day of the party, when we all arrived, the staff had prepared a special cake for Ken. They had remembered me saying on the phone, \"It's my friend's birthday.\" Ken was very happy.\nThe next day I thanked my senior and showed her photos of the party. She laughed and said, \"Next time I want to come too.\"",
+   "questions": [
+    {
+     "q": "{駅|えき}の{近|ちか}くの{店|みせ}を{予約|よやく}しなかったのは、どうしてですか。",
+     "options": [
+      "その{日|ひ}は{予約|よやく}がいっぱいだったから。",
+      "{料理|りょうり}がおいしくなかったから。",
+      "{駅|えき}から{遠|とお}かったから。",
+      "イタリア{料理|りょうり}の{店|みせ}ではなかったから。"
+     ],
+     "answer": 0,
+     "why": "The popular shop near the station was fully booked that day."
+    },
+    {
+     "q": "ケンさんのケーキを{用意|ようい}したのは、だれですか。",
+     "options": [
+      "「{私|わたし}」",
+      "アルバイトの{先輩|せんぱい}",
+      "{店|みせ}の{人|ひと}",
+      "ケンさんの{友|とも}だち"
+     ],
+     "answer": 2,
+     "why": "The restaurant staff prepared the cake because they remembered the phone call."
+    },
+    {
+     "q": "パーティーの{次|つぎ}の{日|ひ}、「{私|わたし}」は{何|なに}をしましたか。",
+     "options": [
+      "{先輩|せんぱい}と{一緒|いっしょ}にレストランに{行|い}った。",
+      "ケンさんにパーティーの{写真|しゃしん}を{送|おく}った。",
+      "{先輩|せんぱい}にお{礼|れい}を{言|い}って、{写真|しゃしん}を{見|み}せた。",
+      "レストランに{電話|でんわ}をして、お{礼|れい}を{言|い}った。"
+     ],
+     "answer": 2,
+     "why": "The next day the writer thanked the senior and showed her the photos."
+    }
+   ]
+  },
+  {
+   "type": "info",
+   "text": "さくら{市民|しみん}センター　{春|はる}の{教室|きょうしつ}\n① {生|い}け{花|ばな}　{月曜日|げつようび}　10:00～12:00　1か{月|げつ}3,000{円|えん}（{花|はな}のお{金|かね}は{別|べつ}に1,000{円|えん}）\n② ギター　{水曜日|すいようび}　19:00～20:30　1か{月|げつ}2,500{円|えん}（ギターは{貸|か}します）\n③ {料理|りょうり}　{土曜日|どようび}　10:00～13:00　1か{月|げつ}4,000{円|えん}（{材料|ざいりょう}のお{金|かね}も{入|はい}っています）\n④ {英会話|えいかいわ}　{土曜日|どようび}　14:00～15:30　1か{月|げつ}3,500{円|えん}\n⑤ ヨガ　{水曜日|すいようび}　10:00～11:00　1か{月|げつ}2,000{円|えん}\n・{申|もう}し{込|こ}み：3{月|がつ}20{日|か}までに、センターの{受付|うけつけ}か{電話|でんわ}で。\n・{初|はじ}めての{人|ひと}は、1{回|かい}だけ{無料|むりょう}で{見学|けんがく}できます。",
+   "en": "Sakura Community Centre, spring classes. 1 Flower arranging: Monday 10:00-12:00, 3,000 yen a month (flowers 1,000 yen extra). 2 Guitar: Wednesday 19:00-20:30, 2,500 yen a month (guitars lent). 3 Cooking: Saturday 10:00-13:00, 4,000 yen a month (ingredients included). 4 English conversation: Saturday 14:00-15:30, 3,500 yen a month. 5 Yoga: Wednesday 10:00-11:00, 2,000 yen a month. Apply by March 20 at the centre desk or by phone. First-timers can watch one class for free.",
+   "questions": [
+    {
+     "q": "キムさんは、{月曜日|げつようび}から{金曜日|きんようび}まで{午後|ごご}6{時|じ}{半|はん}まで{会社|かいしゃ}で{働|はたら}いています。{土曜日|どようび}は{一日中|いちにちじゅう}アルバイトがあります。キムさんが{通|かよ}える{教室|きょうしつ}はどれですか。",
+     "options": [
+      "{生|い}け{花|ばな}",
+      "{料理|りょうり}",
+      "{英会話|えいかいわ}",
+      "ギター"
+     ],
+     "answer": 3,
+     "why": "Only the guitar class is on a weekday evening after 6:30."
+    },
+    {
+     "q": "ジョンさんは{料理|りょうり}{教室|きょうしつ}に1か{月|げつ}{通|かよ}いたいです。お{金|かね}は{全部|ぜんぶ}でいくらですか。",
+     "options": [
+      "4,000{円|えん}",
+      "3,000{円|えん}",
+      "5,000{円|えん}",
+      "8,000{円|えん}"
+     ],
+     "answer": 0,
+     "why": "The cooking class is 4,000 yen a month, and ingredients are included."
+    }
+   ]
+  }
+ ],
+ "listening": [
+  {
+   "type": "task",
+   "setup": "{女|おんな}の{人|ひと}がレストランに{電話|でんわ}しています。{女|おんな}の{人|ひと}は{何時|なんじ}に{店|みせ}に{行|い}きますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "もしもし、{今週|こんしゅう}の{金曜日|きんようび}の{夜|よる}、{四人|よにん}で{予約|よやく}をお{願|ねが}いしたいんですが。"
+    },
+    {
+     "s": "M",
+     "jp": "{金曜日|きんようび}ですね。7{時|じ}はもういっぱいなんですが、6{時|じ}{半|はん}か8{時|じ}でしたら{空|あ}いております。"
+    },
+    {
+     "s": "F",
+     "jp": "そうですか。8{時|じ}はちょっと{遅|おそ}いので、6{時|じ}{半|はん}でお{願|ねが}いします。"
+    },
+    {
+     "s": "M",
+     "jp": "はい、6{時|じ}{半|はん}ですね。"
+    },
+    {
+     "s": "F",
+     "jp": "あ、すみません。もしかしたら、{一人|ひとり}{増|ふ}えて{五人|ごにん}になるかもしれません。"
+    },
+    {
+     "s": "M",
+     "jp": "{五人|ごにん}ですと、6{時|じ}{半|はん}は{席|せき}がございません。8{時|じ}でしたら{大丈夫|だいじょうぶ}です。"
+    },
+    {
+     "s": "F",
+     "jp": "じゃあ、8{時|じ}でお{願|ねが}いします。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}は{何時|なんじ}に{店|みせ}に{行|い}きますか。",
+   "options": [
+    "6{時|じ}",
+    "6{時|じ}{半|はん}",
+    "7{時|じ}",
+    "8{時|じ}"
+   ],
+   "answer": 3,
+   "en": "A woman calls a restaurant to book for four on Friday night. 7 is full; 6:30 or 8 are free. She picks 6:30, then says they may be five. For five, 6:30 has no table but 8 is fine, so she books 8.",
+   "why": "Because the group may become five, only 8 o'clock has a table."
+  },
+  {
+   "type": "task",
+   "setup": "{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}は{初|はじ}めての{教室|きょうしつ}に{何|なに}を{持|も}っていきますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{来週|らいしゅう}からギター{教室|きょうしつ}に{通|かよ}うんです。{何|なに}か{持|も}っていったほうがいいですか。"
+    },
+    {
+     "s": "F",
+     "jp": "ギターは{教室|きょうしつ}で{貸|か}してくれるから、いりませんよ。"
+    },
+    {
+     "s": "M",
+     "jp": "そうですか。{楽譜|がくふ}は？"
+    },
+    {
+     "s": "F",
+     "jp": "{楽譜|がくふ}は{先生|せんせい}がくれます。でも、えんぴつとノートは{持|も}っていったほうがいいですね。それから、{最初|さいしょ}の{日|ひ}は{申|もう}し{込|こ}みの{紙|かみ}を{書|か}くから、はんこもね。"
+    },
+    {
+     "s": "M",
+     "jp": "あ、はんこじゃなくて、サインでもいいって{書|か}いてありましたよ。"
+    },
+    {
+     "s": "F",
+     "jp": "じゃあ、はんこはいりませんね。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}は{初|はじ}めての{教室|きょうしつ}に{何|なに}を{持|も}っていきますか。",
+   "options": [
+    "ギターとノート",
+    "ノートとはんこ",
+    "{楽譜|がくふ}とえんぴつ",
+    "えんぴつとノート"
+   ],
+   "answer": 3,
+   "en": "A man starts guitar lessons next week. Guitars are lent, the teacher gives sheet music. He should bring a pencil and notebook. A stamp isn't needed because a signature is OK.",
+   "why": "He only needs a pencil and a notebook."
+  },
+  {
+   "type": "task",
+   "setup": "{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はこれからまず{何|なに}をしますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "ねえ、{明日|あした}から{旅行|りょこう}なんだけど、ちょっとお{願|ねが}いしてもいい？"
+    },
+    {
+     "s": "M",
+     "jp": "いいよ。{何|なに}？"
+    },
+    {
+     "s": "F",
+     "jp": "{明日|あした}の{朝|あさ}、{早|はや}く{出|で}るから、{花|はな}に{水|みず}をやる{時間|じかん}がないの。うちのかぎを{渡|わた}すから、{明日|あした}の{夕方|ゆうがた}、{水|みず}をやってくれない？"
+    },
+    {
+     "s": "M",
+     "jp": "いいよ。じゃあ、{今|いま}かぎをもらっておくね。"
+    },
+    {
+     "s": "F",
+     "jp": "ありがとう。あ、{猫|ねこ}のえさは、となりの{人|ひと}に{頼|たの}んであるから{大丈夫|だいじょうぶ}。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}はこれからまず{何|なに}をしますか。",
+   "options": [
+    "{花|はな}に{水|みず}をやる",
+    "{女|おんな}の{人|ひと}からかぎをもらう",
+    "{猫|ねこ}にえさをやる",
+    "となりの{人|ひと}に{頼|たの}む"
+   ],
+   "answer": 1,
+   "en": "A woman is going on a trip and asks a friend to water her plants tomorrow evening. He'll take the key now. The neighbour will feed the cat.",
+   "why": "He says he'll take the key now; watering is tomorrow evening."
+  },
+  {
+   "type": "task",
+   "setup": "{料理|りょうり}{教室|きょうしつ}で{先生|せんせい}が{話|はな}しています。{生徒|せいと}はまず{何|なに}をしますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{今日|きょう}はカレーを{作|つく}ります。エプロンは、もうみなさんつけていますね。では、{作|つく}る{前|まえ}に、まず{手|て}をきれいに{洗|あら}ってください。{手|て}を{洗|あら}ったら、{野菜|やさい}を{切|き}ります。{肉|にく}は{先生|せんせい}が{切|き}っておきましたから、{切|き}らなくていいですよ。"
+    }
+   ],
+   "question": "{生徒|せいと}はまず{何|なに}をしますか。",
+   "options": [
+    "エプロンをつける",
+    "{手|て}を{洗|あら}う",
+    "{野菜|やさい}を{切|き}る",
+    "{肉|にく}を{切|き}る"
+   ],
+   "answer": 1,
+   "en": "A cooking teacher: Today we make curry. Everyone already has an apron on. First, wash your hands. Then cut the vegetables. I've cut the meat, so you don't need to.",
+   "why": "Aprons are already on, so the first thing is washing hands."
+  },
+  {
+   "type": "task",
+   "setup": "{男|おとこ}の{人|ひと}がレストランで{店|みせ}の{人|ひと}と{話|はな}しています。{男|おとこ}の{人|ひと}はどこに{座|すわ}りますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "すみません、{二人|ふたり}なんですが。"
+    },
+    {
+     "s": "F",
+     "jp": "いらっしゃいませ。{今|いま}、{窓|まど}のそばの{席|せき}とカウンターの{席|せき}が{空|あ}いております。"
+    },
+    {
+     "s": "M",
+     "jp": "じゃあ、{窓|まど}のそばがいいです。"
+    },
+    {
+     "s": "F",
+     "jp": "{窓|まど}のそばのお{席|せき}は、{一時間|いちじかん}ぐらいで{次|つぎ}のご{予約|よやく}のお{客様|きゃくさま}がいらっしゃるんですが……。"
+    },
+    {
+     "s": "M",
+     "jp": "そうですか。ゆっくり{食|た}べたいので……。"
+    },
+    {
+     "s": "F",
+     "jp": "{奥|おく}のお{部屋|へや}も{空|あ}きましたが、いかがですか。"
+    },
+    {
+     "s": "M",
+     "jp": "{部屋|へや}は{二人|ふたり}だと{広|ひろ}すぎますね。カウンターでいいです。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}はどこに{座|すわ}りますか。",
+   "options": [
+    "カウンターの{席|せき}",
+    "{窓|まど}のそばの{席|せき}",
+    "{奥|おく}の{部屋|へや}",
+    "{入|い}り{口|ぐち}の{近|ちか}くの{席|せき}"
+   ],
+   "answer": 0,
+   "en": "A man asks for a table for two. The window seat is only free for about an hour, and the back room is too big for two, so he takes the counter.",
+   "why": "He wants to eat slowly and the room is too big, so he chooses the counter."
+  },
+  {
+   "type": "task",
+   "setup": "{男|おとこ}の{学生|がくせい}と{女|おんな}の{学生|がくせい}が{話|はな}しています。{二人|ふたり}はいつテニスの{練習|れんしゅう}をしますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{今度|こんど}の{週末|しゅうまつ}、テニスの{練習|れんしゅう}しない？{土曜日|どようび}はどう？"
+    },
+    {
+     "s": "F",
+     "jp": "{土曜日|どようび}の{午前|ごぜん}はピアノのレッスンがあるの。{午後|ごご}なら{大丈夫|だいじょうぶ}だけど。"
+    },
+    {
+     "s": "M",
+     "jp": "{午後|ごご}はぼくがアルバイトなんだ。{日曜日|にちようび}は？"
+    },
+    {
+     "s": "F",
+     "jp": "{日曜日|にちようび}は{一日中|いちにちじゅう}{雨|あめ}らしいよ。"
+    },
+    {
+     "s": "M",
+     "jp": "そうか。じゃあ、{月曜日|げつようび}の{授業|じゅぎょう}のあとは？"
+    },
+    {
+     "s": "F",
+     "jp": "いいよ。そうしよう。"
+    }
+   ],
+   "question": "{二人|ふたり}はいつテニスの{練習|れんしゅう}をしますか。",
+   "options": [
+    "{月曜日|げつようび}",
+    "{土曜日|どようび}の{午前|ごぜん}",
+    "{土曜日|どようび}の{午後|ごご}",
+    "{日曜日|にちようび}"
+   ],
+   "answer": 0,
+   "en": "Two students plan tennis. Saturday morning she has piano; Saturday afternoon he works; Sunday it will rain all day. They agree on Monday after class.",
+   "why": "Saturday and Sunday don't work, so they choose Monday after class."
+  },
+  {
+   "type": "task",
+   "setup": "{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{電話|でんわ}で{話|はな}しています。{男|おとこ}の{人|ひと}は{何|なに}を{買|か}って{帰|かえ}りますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "もしもし、{帰|かえ}りにスーパーで{買|か}い{物|もの}してきてくれない？"
+    },
+    {
+     "s": "M",
+     "jp": "いいよ。{何|なに}？"
+    },
+    {
+     "s": "F",
+     "jp": "{牛乳|ぎゅうにゅう}と{卵|たまご}。あ、{卵|たまご}はまだあったかも。ちょっと{待|ま}って。……うん、{卵|たまご}はある。じゃあ、{牛乳|ぎゅうにゅう}と、それからパンもお{願|ねが}い。"
+    },
+    {
+     "s": "M",
+     "jp": "パンは{昨日|きのう}{買|か}ったよ。"
+    },
+    {
+     "s": "F",
+     "jp": "あ、そうだった。じゃあ、パンはいいや。あ、バナナもお{願|ねが}い。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}は{何|なに}を{買|か}って{帰|かえ}りますか。",
+   "options": [
+    "{牛乳|ぎゅうにゅう}と{卵|たまご}",
+    "{牛乳|ぎゅうにゅう}とパン",
+    "{牛乳|ぎゅうにゅう}とバナナ",
+    "{牛乳|ぎゅうにゅう}だけ"
+   ],
+   "answer": 2,
+   "en": "A woman asks a man to shop on the way home: milk and eggs, but they still have eggs. Then milk and bread, but he bought bread yesterday. Then she adds bananas.",
+   "why": "Eggs and bread are not needed, and bananas were added."
+  },
+  {
+   "type": "task",
+   "setup": "{男|おとこ}の{人|ひと}がセンターの{受付|うけつけ}で{話|はな}しています。{男|おとこ}の{人|ひと}はこのあとすぐ{何|なに}をしますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "すみません、{水曜日|すいようび}のヨガ{教室|きょうしつ}に{申|もう}し{込|こ}みたいんですが。"
+    },
+    {
+     "s": "F",
+     "jp": "はい。では、この{紙|かみ}にお{名前|なまえ}と{電話|でんわ}{番号|ばんごう}を{書|か}いてください。お{金|かね}は{最初|さいしょ}のレッスンの{日|ひ}に{払|はら}ってください。"
+    },
+    {
+     "s": "M",
+     "jp": "{分|わ}かりました。{写真|しゃしん}もいりますか。"
+    },
+    {
+     "s": "F",
+     "jp": "いいえ、{写真|しゃしん}はいりません。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}はこのあとすぐ{何|なに}をしますか。",
+   "options": [
+    "お{金|かね}を{払|はら}う",
+    "{写真|しゃしん}を{撮|と}る",
+    "{紙|かみ}に{名前|なまえ}と{電話|でんわ}{番号|ばんごう}を{書|か}く",
+    "{水曜日|すいようび}にもう{一度|いちど}{来|く}る"
+   ],
+   "answer": 2,
+   "en": "A man signs up for Wednesday yoga. He must write his name and phone number on a form. Payment is on the first lesson day. No photo is needed.",
+   "why": "He writes the form now; payment is on the first lesson day."
+  },
+  {
+   "type": "point",
+   "setup": "{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}はどうして{料理|りょうり}{教室|きょうしつ}をやめましたか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{最近|さいきん}、{料理|りょうり}{教室|きょうしつ}に{行|い}ってないんだって？"
+    },
+    {
+     "s": "F",
+     "jp": "うん、{先月|せんげつ}やめたの。"
+    },
+    {
+     "s": "M",
+     "jp": "{楽|たの}しいって{言|い}ってたのに。{仕事|しごと}が{忙|いそが}しいの？"
+    },
+    {
+     "s": "F",
+     "jp": "{仕事|しごと}はそんなに{忙|いそが}しくないよ。{教室|きょうしつ}も{楽|たの}しかったんだけど、{教室|きょうしつ}が{遠|とお}い{所|ところ}に{引|ひ}っ{越|こ}しちゃって。{電車|でんしゃ}で{一時間|いちじかん}もかかるの。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}はどうして{料理|りょうり}{教室|きょうしつ}をやめましたか。",
+   "options": [
+    "{仕事|しごと}が{忙|いそが}しくなったから",
+    "{教室|きょうしつ}が{遠|とお}くなったから",
+    "{料理|りょうり}が{楽|たの}しくなくなったから",
+    "{先生|せんせい}が{好|す}きではなかったから"
+   ],
+   "answer": 1,
+   "en": "A woman quit her cooking class last month. Work isn't busy and the class was fun, but it moved far away, an hour by train.",
+   "why": "She quit because the class moved far away."
+  },
+  {
+   "type": "point",
+   "setup": "{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}は、レストランの{何|なに}がいちばんよかったと{言|い}っていますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{昨日|きのう}{行|い}ったレストラン、どうだった？"
+    },
+    {
+     "s": "M",
+     "jp": "{料理|りょうり}はまあまあだったかな。{値段|ねだん}もちょっと{高|たか}かったし。"
+    },
+    {
+     "s": "F",
+     "jp": "そう。"
+    },
+    {
+     "s": "M",
+     "jp": "でも、{店|みせ}の{人|ひと}がとても{親切|しんせつ}だったんだ。ぼくが{野菜|やさい}が{苦手|にがて}だって{言|い}ったら、ほかのものに{変|か}えてくれたんだよ。それがいちばんうれしかったな。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}は、レストランの{何|なに}がいちばんよかったと{言|い}っていますか。",
+   "options": [
+    "{店|みせ}の{人|ひと}",
+    "{料理|りょうり}の{味|あじ}",
+    "{値段|ねだん}",
+    "{店|みせ}の{場所|ばしょ}"
+   ],
+   "answer": 0,
+   "en": "The food was so-so and a bit expensive, but the staff were very kind and changed a dish when he said he doesn't like vegetables. That made him happiest.",
+   "why": "He liked the kind staff most."
+  },
+  {
+   "type": "point",
+   "setup": "{男|おとこ}の{学生|がくせい}と{女|おんな}の{学生|がくせい}が{話|はな}しています。{女|おんな}の{学生|がくせい}は{男|おとこ}の{学生|がくせい}に{何|なに}を{頼|たの}みましたか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "ねえ、{田中|たなか}くん、ちょっとお{願|ねが}いがあるんだけど。"
+    },
+    {
+     "s": "M",
+     "jp": "{何|なに}？"
+    },
+    {
+     "s": "F",
+     "jp": "{明日|あした}、{病院|びょういん}に{行|い}くから、{授業|じゅぎょう}を{休|やす}むの。{悪|わる}いけど、{授業|じゅぎょう}のノートを{見|み}せてくれない？"
+    },
+    {
+     "s": "M",
+     "jp": "いいよ。プリントももらっておこうか。"
+    },
+    {
+     "s": "F",
+     "jp": "プリントは{山田|やまだ}さんにお{願|ねが}いしたから{大丈夫|だいじょうぶ}。ありがとう。"
+    }
+   ],
+   "question": "{女|おんな}の{学生|がくせい}は{男|おとこ}の{学生|がくせい}に{何|なに}を{頼|たの}みましたか。",
+   "options": [
+    "{一緒|いっしょ}に{病院|びょういん}に{行|い}くこと",
+    "プリントをもらっておくこと",
+    "{山田|やまだ}さんに{連絡|れんらく}すること",
+    "ノートを{見|み}せること"
+   ],
+   "answer": 3,
+   "en": "She will miss class tomorrow for a hospital visit and asks him to show her his notes. Yamada will get the handouts.",
+   "why": "She asked him only to show his notes."
+  },
+  {
+   "type": "point",
+   "setup": "{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}の{新|あたら}しい{趣味|しゅみ}は{何|なん}ですか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{最近|さいきん}、{週末|しゅうまつ}は{何|なに}してるの？{前|まえ}はよく{釣|つ}りに{行|い}ってたよね。"
+    },
+    {
+     "s": "M",
+     "jp": "{釣|つ}りは{最近|さいきん}あまり{行|い}かないんだ。{今年|ことし}から{山登|やまのぼ}りを{始|はじ}めたんだよ。"
+    },
+    {
+     "s": "F",
+     "jp": "へえ。{山|やま}で{写真|しゃしん}も{撮|と}るの？"
+    },
+    {
+     "s": "M",
+     "jp": "{写真|しゃしん}は{前|まえ}から{撮|と}ってるよ。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}の{新|あたら}しい{趣味|しゅみ}は{何|なん}ですか。",
+   "options": [
+    "{釣|つ}り",
+    "{写真|しゃしん}",
+    "{山登|やまのぼ}り",
+    "{料理|りょうり}"
+   ],
+   "answer": 2,
+   "en": "He used to go fishing but rarely does now. He started mountain climbing this year. He has taken photos for a long time.",
+   "why": "Mountain climbing is the hobby he started this year."
+  },
+  {
+   "type": "point",
+   "setup": "{女|おんな}の{人|ひと}が{店|みせ}の{人|ひと}と{電話|でんわ}で{話|はな}しています。{女|おんな}の{人|ひと}はどうして{予約|よやく}の{時間|じかん}を{変|か}えますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "すみません、{明日|あした}の7{時|じ}に{予約|よやく}した{鈴木|すずき}ですが、{時間|じかん}を{変|か}えてもらえますか。"
+    },
+    {
+     "s": "M",
+     "jp": "はい、{大丈夫|だいじょうぶ}ですよ。お{仕事|しごと}ですか。"
+    },
+    {
+     "s": "F",
+     "jp": "いいえ、{一緒|いっしょ}に{行|い}く{友|とも}だちの{飛行機|ひこうき}が{遅|おく}れることになって。8{時|じ}にできますか。"
+    },
+    {
+     "s": "M",
+     "jp": "8{時|じ}ですね。かしこまりました。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}はどうして{予約|よやく}の{時間|じかん}を{変|か}えますか。",
+   "options": [
+    "{仕事|しごと}が{終|お}わらないから",
+    "{人数|にんずう}が{増|ふ}えたから",
+    "{友|とも}だちの{飛行機|ひこうき}が{遅|おく}れるから",
+    "{店|みせ}が{込|こ}んでいるから"
+   ],
+   "answer": 2,
+   "en": "Ms Suzuki asks to change her 7 o'clock booking. Not because of work: her friend's plane will be late. She changes to 8.",
+   "why": "Her friend's flight is delayed."
+  },
+  {
+   "type": "point",
+   "setup": "{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{土曜日|どようび}の{食事会|しょくじかい}には{何人|なんにん}{来|き}ますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{土曜日|どようび}の{食事会|しょくじかい}、{何人|なんにん}{来|く}るの？"
+    },
+    {
+     "s": "F",
+     "jp": "{最初|さいしょ}は8{人|にん}だったんだけど、{木村|きむら}さんと{森|もり}さんが{来|こ}られなくなって。"
+    },
+    {
+     "s": "M",
+     "jp": "じゃあ、6{人|にん}だね。"
+    },
+    {
+     "s": "F",
+     "jp": "あ、でも、{木村|きむら}さんの{代|か}わりに{妹|いもうと}さんが{来|く}るって。"
+    }
+   ],
+   "question": "{土曜日|どようび}の{食事会|しょくじかい}には{何人|なんにん}{来|き}ますか。",
+   "options": [
+    "5{人|にん}",
+    "7{人|にん}",
+    "6{人|にん}",
+    "8{人|にん}"
+   ],
+   "answer": 1,
+   "en": "At first eight people were coming, but two can't come, making six. Then Kimura's sister will come in her place.",
+   "why": "8 minus 2 is 6, plus Kimura's sister makes 7."
+  },
+  {
+   "type": "point",
+   "setup": "{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はどうしてピアノをまた{習|なら}い{始|はじ}めましたか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{山本|やまもと}さん、ピアノを{習|なら}っているんですって？"
+    },
+    {
+     "s": "M",
+     "jp": "ええ、{先月|せんげつ}から。{子|こ}どものときに{少|すこ}しやっていたんですが、ずっとやめていて。"
+    },
+    {
+     "s": "F",
+     "jp": "どうしてまた{始|はじ}めたんですか。{時間|じかん}ができたんですか。"
+    },
+    {
+     "s": "M",
+     "jp": "いいえ、{忙|いそが}しいですよ。{娘|むすめ}に、{結婚式|けっこんしき}でピアノを{弾|ひ}いてほしいと{頼|たの}まれたんです。それで、もう{一度|いちど}{練習|れんしゅう}しようと{思|おも}って。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}はどうしてピアノをまた{習|なら}い{始|はじ}めましたか。",
+   "options": [
+    "{娘|むすめ}に{頼|たの}まれたから",
+    "{子|こ}どものとき{好|す}きだったから",
+    "{先生|せんせい}にすすめられたから",
+    "{時間|じかん}ができたから"
+   ],
+   "answer": 0,
+   "en": "Mr Yamamoto started piano again last month. He's still busy; his daughter asked him to play at her wedding, so he decided to practise again.",
+   "why": "His daughter asked him to play at her wedding."
+  },
+  {
+   "type": "utterance",
+   "setup": "レストランで、メニューが{見|み}たいです。{店|みせ}の{人|ひと}に{何|なん}と{言|い}いますか。",
+   "lines": [
+    {
+     "s": "N",
+     "jp": "レストランで、メニューが{見|み}たいです。{店|みせ}の{人|ひと}に{何|なん}と{言|い}いますか。"
+    }
+   ],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "すみません、メニューをお{見|み}せします。",
+    "すみません、メニューを{見|み}せてください。",
+    "すみません、メニューを{見|み}てもいいですよ。"
+   ],
+   "answer": 1,
+   "en": "At a restaurant you want to see the menu. What do you say?",
+   "why": "見せてください asks the staff to show it."
+  },
+  {
+   "type": "utterance",
+   "setup": "{友|とも}だちが{持|も}っている{本|ほん}を{読|よ}みたいです。{友|とも}だちに{何|なん}と{言|い}いますか。",
+   "lines": [
+    {
+     "s": "N",
+     "jp": "{友|とも}だちが{持|も}っている{本|ほん}を{読|よ}みたいです。{友|とも}だちに{何|なん}と{言|い}いますか。"
+    }
+   ],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "その{本|ほん}、{貸|か}してくれない？",
+    "その{本|ほん}、{借|か}りてくれない？",
+    "その{本|ほん}、{貸|か}してあげようか。"
+   ],
+   "answer": 0,
+   "en": "You want to read a book your friend has. What do you say?",
+   "why": "You ask the friend to lend it: 貸してくれない."
+  },
+  {
+   "type": "utterance",
+   "setup": "{先生|せんせい}の{荷物|にもつ}がとても{重|おも}そうです。{先生|せんせい}に{何|なん}と{言|い}いますか。",
+   "lines": [
+    {
+     "s": "N",
+     "jp": "{先生|せんせい}の{荷物|にもつ}がとても{重|おも}そうです。{先生|せんせい}に{何|なん}と{言|い}いますか。"
+    }
+   ],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "{先生|せんせい}、{持|も}ってくださいませんか。",
+    "{先生|せんせい}、お{持|も}ちしましょうか。",
+    "{先生|せんせい}、お{持|も}ちになりますか。"
+   ],
+   "answer": 1,
+   "en": "Your teacher's bag looks heavy. What do you say?",
+   "why": "お持ちしましょうか offers to carry it politely."
+  },
+  {
+   "type": "utterance",
+   "setup": "{予約|よやく}したレストランに{着|つ}きました。{店|みせ}の{人|ひと}に{何|なん}と{言|い}いますか。",
+   "lines": [
+    {
+     "s": "N",
+     "jp": "{予約|よやく}したレストランに{着|つ}きました。{店|みせ}の{人|ひと}に{何|なん}と{言|い}いますか。"
+    }
+   ],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "7{時|じ}に{予約|よやく}した{田中|たなか}です。",
+    "7{時|じ}に{予約|よやく}してください。",
+    "7{時|じ}に{予約|よやく}するつもりです。"
+   ],
+   "answer": 0,
+   "en": "You have arrived at the restaurant you booked. What do you say?",
+   "why": "You tell them your name and booking time."
+  },
+  {
+   "type": "utterance",
+   "setup": "{友|とも}だちが{引|ひ}っ{越|こ}しを{手伝|てつだ}ってくれました。{友|とも}だちに{何|なん}と{言|い}いますか。",
+   "lines": [
+    {
+     "s": "N",
+     "jp": "{友|とも}だちが{引|ひ}っ{越|こ}しを{手伝|てつだ}ってくれました。{友|とも}だちに{何|なん}と{言|い}いますか。"
+    }
+   ],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "{手伝|てつだ}ってあげて、ありがとう。",
+    "{手伝|てつだ}ってもらって、どういたしまして。",
+    "{手伝|てつだ}ってくれて、ありがとう。"
+   ],
+   "answer": 2,
+   "en": "A friend helped you move. What do you say?",
+   "why": "You thank them with 手伝ってくれて、ありがとう."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{今度|こんど}の{日曜日|にちようび}、{一緒|いっしょ}に{映画|えいが}を{見|み}に{行|い}かない？"
+    }
+   ],
+   "question": "{返事|へんじ}はどれですか。",
+   "options": [
+    "{行|い}ってらっしゃい。",
+    "うん、{見|み}に{行|い}ったよ。",
+    "いいね、{行|い}こう。"
+   ],
+   "answer": 2,
+   "en": "Do you want to go and see a film together this Sunday?",
+   "why": "It's an invitation, so you accept with 行こう."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "すみません、この{席|せき}、{空|あ}いていますか。"
+    }
+   ],
+   "question": "{返事|へんじ}はどれですか。",
+   "options": [
+    "はい、{空|あ}きましょう。",
+    "いいえ、{座|すわ}ってください。",
+    "ええ、どうぞ。"
+   ],
+   "answer": 2,
+   "en": "Excuse me, is this seat free?",
+   "why": "ええ、どうぞ tells them they can sit."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{料理|りょうり}{教室|きょうしつ}、どうだった？"
+    }
+   ],
+   "question": "{返事|へんじ}はどれですか。",
+   "options": [
+    "じゃあ、{行|い}ってみるね。",
+    "すごく{楽|たの}しかったよ。",
+    "うん、どうぞ。"
+   ],
+   "answer": 1,
+   "en": "How was the cooking class?",
+   "why": "He asks how it was, so you describe it."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "ちょっと{手伝|てつだ}ってもらえる？"
+    }
+   ],
+   "question": "{返事|へんじ}はどれですか。",
+   "options": [
+    "うん、{何|なに}をすればいい？",
+    "うん、{手伝|てつだ}ってもらうよ。",
+    "ありがとう、{助|たす}かったよ。"
+   ],
+   "answer": 0,
+   "en": "Can you help me for a moment?",
+   "why": "You agree and ask what to do."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "お{飲|の}み{物|もの}は{何|なに}になさいますか。"
+    }
+   ],
+   "question": "{返事|へんじ}はどれですか。",
+   "options": [
+    "コーヒーをお{願|ねが}いします。",
+    "コーヒーをいただきました。",
+    "コーヒーでございます。"
+   ],
+   "answer": 0,
+   "en": "What would you like to drink?",
+   "why": "The customer orders with お願いします."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{昨日|きのう}は、どうもお{世話|せわ}になりました。"
+    }
+   ],
+   "question": "{返事|へんじ}はどれですか。",
+   "options": [
+    "いいえ、お{世話|せわ}しました。",
+    "いいえ、こちらこそ。",
+    "ええ、お{世話|せわ}になりました。"
+   ],
+   "answer": 1,
+   "en": "Thank you for everything yesterday.",
+   "why": "こちらこそ is the polite reply."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{先生|せんせい}、{明日|あした}のレッスン、{休|やす}んでもいいですか。"
+    }
+   ],
+   "question": "{返事|へんじ}はどれですか。",
+   "options": [
+    "いいですよ。どうしたんですか。",
+    "いいえ、{休|やす}みました。",
+    "ええ、{休|やす}んでくださいました。"
+   ],
+   "answer": 0,
+   "en": "Teacher, may I miss tomorrow's lesson?",
+   "why": "The teacher gives permission and asks why."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "お{先|さき}に{失礼|しつれい}します。"
+    }
+   ],
+   "question": "{返事|へんじ}はどれですか。",
+   "options": [
+    "いってきます。",
+    "お{疲|つか}れさまでした。",
+    "いただきます。"
+   ],
+   "answer": 1,
+   "en": "I'm leaving before you. (said when leaving work)",
+   "why": "お疲れさまでした is the reply when someone leaves first."
+  }
+ ]
+}
