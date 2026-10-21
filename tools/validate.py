@@ -25,8 +25,8 @@ def check_text(s, where):
 
 def walk(o, where):
     if isinstance(o, dict):
-        if 'options' in o and 'answer' in o:
-            opts = o['options']
+        if ('options' in o or 'options_raw' in o) and 'answer' in o:
+            opts = o.get('options', o.get('options_raw'))
             if not isinstance(o['answer'], int) or not (0 <= o['answer'] < len(opts)):
                 problems.append(f'{where}: answer index out of range')
             if len(set(map(str, opts))) != len(opts):

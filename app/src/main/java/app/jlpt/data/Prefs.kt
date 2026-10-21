@@ -60,6 +60,8 @@ class Prefs(context: Context) {
     val speedBest = IntPref("speed_best", 0)
     /** How long one Study round is, in minutes. */
     val roundMinutes = IntPref("round_minutes", 15)
+    /** Mock papers already taken, so each test is a fresh one. */
+    val papersDone = StrPref("papers_done", "")
     /** Audio playlist: what to play and how long to pause between parts. */
     val listenKind = StrPref("listen_kind", "words")
     val listenGap = IntPref("listen_gap", 1500)

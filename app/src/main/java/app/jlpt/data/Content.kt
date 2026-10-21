@@ -175,6 +175,11 @@ class Content(private val context: Context) {
         }.getOrDefault(emptyList())
     }
 
+    /** Full mock papers in the real JLPT format, used only in mock tests and weekly checks. */
+    val papers: List<JSONObject> by lazy {
+        runCatching { array("mocks.json").objects() }.getOrDefault(emptyList())
+    }
+
     val kataWords: List<KataWord> by lazy {
         array("katakana.json").objects().map { KataWord(it.str("id"), it.str("jp"), it.str("en"), it.str("from_raw")) }
     }
