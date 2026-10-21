@@ -43,7 +43,7 @@
    "type": "kanji_reading",
    "q_raw": "新しい委員会が来月【発足】する予定だ。",
    "options": [
-    "はっそく",
+    "ほっそう",
     "ほっそく",
     "はつあし",
     "ほうそく"
@@ -430,16 +430,16 @@
    "before": "この{計画|けいかく}は、",
    "after": "{実現|じつげん}しえなかった。",
    "pieces": [
+    "なくして",
     "ご{協力|きょうりょく}",
     "は",
-    "{皆|みな}さんの",
-    "なくして"
+    "{皆|みな}さんの"
    ],
    "order": [
-    2,
-    0,
     3,
-    1
+    1,
+    0,
+    2
    ],
    "star": 2,
    "en": "This plan could not have been realized without everyone's cooperation.",
@@ -450,16 +450,16 @@
    "before": "{彼女|かのじょ}の{演奏|えんそう}は、",
    "after": "すばらしかった。",
    "pieces": [
-    "ようがない",
     "ほど",
+    "{言|い}い{表|あらわ}し",
     "{言葉|ことば}では",
-    "{言|い}い{表|あらわ}し"
+    "ようがない"
    ],
    "order": [
     2,
+    1,
     3,
-    0,
-    1
+    0
    ],
    "star": 1,
    "en": "Her performance was so wonderful that it cannot be put into words.",
@@ -472,13 +472,13 @@
    "pieces": [
     "とは",
     "ともなると",
-    "{一般|いっぱん}の",
-    "{社員|しゃいん}"
+    "{社員|しゃいん}",
+    "{一般|いっぱん}の"
    ],
    "order": [
     1,
-    2,
     3,
+    2,
     0
    ],
    "star": 2,
@@ -565,7 +565,7 @@
      "options": [
       "たにしては",
       "てこそ",
-      "たとたん",
+      "ないうちに",
       "すぎたあまり"
      ],
      "answer": 3
@@ -1898,23 +1898,23 @@
   },
   {
    "type": "integrated",
-   "setup": "{会社|かいしゃ}で{上司|じょうし}と{部下|ぶか}{二人|ふたり}が、{新入|しんにゅう}{社員|しゃいん}の{研修|けんしゅう}について{話|はな}しています。",
+   "setup": "{会社|かいしゃ}で{課長|かちょう}と{部下|ぶか}の{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が、{新入|しんにゅう}{社員|しゃいん}の{研修|けんしゅう}について{話|はな}しています。",
    "lines": [
     {
      "s": "M",
-     "jp": "（{上司|じょうし}）{来月|らいげつ}の{新人|しんじん}{研修|けんしゅう}だけど、{今年|ことし}はどこでやろうか。"
+     "jp": "{来月|らいげつ}の{新人|しんじん}{研修|けんしゅう}だけど、{今年|ことし}はどこでやろうか。"
     },
     {
      "s": "F",
-     "jp": "{去年|きょねん}は{本社|ほんしゃ}の{会議室|かいぎしつ}でしたよね。{費用|ひよう}はかかりませんでしたが、{普段|ふだん}の{職場|しょくば}と{変|か}わらないので、{新人|しんじん}{同士|どうし}がなかなか{打|う}ち{解|と}けなかったように{思|おも}います。"
+     "jp": "{課長|かちょう}、{去年|きょねん}は{本社|ほんしゃ}の{会議室|かいぎしつ}でしたよね。{費用|ひよう}はかかりませんでしたが、{普段|ふだん}の{職場|しょくば}と{変|か}わらないので、{新人|しんじん}{同士|どうし}がなかなか{打|う}ち{解|と}けなかったように{思|おも}います。"
     },
     {
      "s": "M",
-     "jp": "（{部下|ぶか}の{男|おとこ}）じゃあ、{郊外|こうがい}の{研修|けんしゅう}{施設|しせつ}はどうですか。{泊|と}まりがけで{行|い}けば、{交流|こうりゅう}も{深|ふか}まりますし。"
+     "jp": "じゃあ{課長|かちょう}、{郊外|こうがい}の{研修|けんしゅう}{施設|しせつ}はどうですか。{泊|と}まりがけで{行|い}けば、{交流|こうりゅう}も{深|ふか}まりますし。"
     },
     {
      "s": "M",
-     "jp": "（{上司|じょうし}）うーん、{宿泊|しゅくはく}となると{予算|よさん}が{厳|きび}しいなあ。"
+     "jp": "うーん、{木村|きむら}くん、{宿泊|しゅくはく}となると{予算|よさん}が{厳|きび}しいなあ。"
     },
     {
      "s": "F",
@@ -1922,11 +1922,11 @@
     },
     {
      "s": "M",
-     "jp": "（{部下|ぶか}の{男|おとこ}）{確|たし}かに。グループで{作業|さぎょう}できる{広|ひろ}い{部屋|へや}もあるみたいですね。"
+     "jp": "{確|たし}かに、それはいいですね、{課長|かちょう}。グループで{作業|さぎょう}できる{広|ひろ}い{部屋|へや}もあるみたいですよ。"
     },
     {
      "s": "M",
-     "jp": "（{上司|じょうし}）よし、それでいこう。"
+     "jp": "そうか。よし、{木村|きむら}くん、{鈴木|すずき}さん、それでいこう。"
     }
    ],
    "question": "{研修|けんしゅう}はどこで{行|おこな}うことになりましたか。",
@@ -1937,7 +1937,7 @@
     "{取引先|とりひきさき}の{会議室|かいぎしつ}"
    ],
    "answer": 0,
-   "en": "Boss (M1): Where shall we hold next month's training for new staff this year? F: Last year it was in the head office meeting room. It cost nothing, but because it was the same as the normal workplace, the new staff didn't really open up to each other. M2: Then how about the training facility in the suburbs? If we stay overnight, they'll get to know each other better. M1: Hmm, an overnight stay strains the budget. F: Then how about a rental meeting room in the city? It's outside the company so the mood changes, and it's a day trip so costs stay low. M2: True. They seem to have large rooms for group work too. M1: Right, let's go with that.",
+   "en": "Section chief (M): Where shall we hold next month's training for new staff this year? Suzuki (F): Chief, last year it was in the head office meeting room. It cost nothing, but because it was the same as the normal workplace, the new staff didn't really open up to each other. Kimura (M): Then, Chief, how about the training facility in the suburbs? If we stay overnight, they'll get to know each other better. Chief: Hmm, Kimura, an overnight stay strains the budget. Suzuki: Then how about a rental meeting room in the city? It's outside the company so the mood changes, and it's a day trip so costs stay low. Kimura: True, that's good, Chief. They seem to have large rooms for group work too. Chief: Right. OK, Kimura, Suzuki, let's go with that.",
    "why": "The boss rejects the overnight facility for budget reasons and agrees to the rental room in the city."
   },
   {
@@ -1946,39 +1946,39 @@
    "lines": [
     {
      "s": "M",
-     "jp": "（{父|ちち}）{夏休|なつやす}みの{旅行|りょこう}、どこに{行|い}こうか。"
+     "jp": "なあ、{母|かあ}さん、{健太|けんた}。{夏休|なつやす}みの{旅行|りょこう}、どこに{行|い}こうか。"
     },
     {
      "s": "F",
-     "jp": "（{母|はは}）{私|わたし}は{温泉|おんせん}がいいな。のんびりしたいし。"
+     "jp": "{私|わたし}は{温泉|おんせん}がいいな。のんびりしたいし。"
     },
     {
      "s": "M",
-     "jp": "（{息子|むすこ}）えー、{温泉|おんせん}は{去年|きょねん}{行|い}ったじゃない。{今年|ことし}は{海|うみ}がいいよ。{泳|およ}ぎたい。"
+     "jp": "えー、お{母|かあ}さん、{温泉|おんせん}は{去年|きょねん}{行|い}ったじゃない。お{父|とう}さん、{今年|ことし}は{海|うみ}がいいよ。{泳|およ}ぎたい。"
     },
     {
      "s": "M",
-     "jp": "（{父|ちち}）{海|うみ}か。でも、お{盆|ぼん}の{時期|じき}の{海|うみ}はどこも{混|こ}んでるぞ。"
+     "jp": "{海|うみ}か。でもな、{健太|けんた}、お{盆|ぼん}の{時期|じき}の{海|うみ}はどこも{混|こ}んでるぞ。"
     },
     {
      "s": "F",
-     "jp": "（{母|はは}）そうねえ。それなら、{山|やま}のキャンプ{場|じょう}は？{川|かわ}で{遊|あそ}べるところもあるし。"
+     "jp": "そうねえ。それなら、{山|やま}のキャンプ{場|じょう}は？{川|かわ}で{遊|あそ}べるところもあるし。"
     },
     {
      "s": "M",
-     "jp": "（{息子|むすこ}）{川|かわ}でもいいよ。{泳|およ}げるなら。"
+     "jp": "{川|かわ}でもいいよ、お{母|かあ}さん。{泳|およ}げるなら。"
     },
     {
      "s": "M",
-     "jp": "（{父|ちち}）キャンプか。{道具|どうぐ}を{一|いち}からそろえるのは{大変|たいへん}だな。"
+     "jp": "キャンプか。{父|とう}さんは、{道具|どうぐ}を{一|いち}からそろえるのは{大変|たいへん}だと{思|おも}うな。"
     },
     {
      "s": "F",
-     "jp": "（{母|はは}）{最近|さいきん}は、{道具|どうぐ}を{全部|ぜんぶ}{貸|か}してくれるところもあるみたいよ。"
+     "jp": "{最近|さいきん}は、{道具|どうぐ}を{全部|ぜんぶ}{貸|か}してくれるところもあるみたいよ。"
     },
     {
      "s": "M",
-     "jp": "（{父|ちち}）それなら{楽|らく}だな。じゃあ、そこにしよう。"
+     "jp": "それなら{楽|らく}だな。よし、じゃあ、そこにしよう。"
     }
    ],
    "question": "{家族|かぞく}はどこへ{行|い}くことになりましたか。",
@@ -1989,7 +1989,7 @@
     "{川|かわ}で{遊|あそ}べるキャンプ{場|じょう}"
    ],
    "answer": 3,
-   "en": "Father: Where shall we go on holiday this summer? Mother: I'd like a hot spring. I want to relax. Son: Oh no, we went to a hot spring last year. This year the sea is better. I want to swim. Father: The sea? But the sea is crowded everywhere during Obon. Mother: True. Then how about a campsite in the mountains? Some have a river to play in. Son: A river is fine too, if I can swim. Father: Camping? Buying all the gear from scratch is a lot of work. Mother: These days some places lend you all the gear. Father: That would be easy. OK, let's go there.",
+   "en": "Father: Hey, Mum, Kenta. Where shall we go on holiday this summer? Mother: I'd like a hot spring. I want to relax. Son: Oh no, Mum, we went to a hot spring last year. Dad, this year the sea is better. I want to swim. Father: The sea? But, Kenta, the sea is crowded everywhere during Obon. Mother: True. Then how about a campsite in the mountains? Some have a river to play in. Son: A river is fine too, Mum, if I can swim. Father: Camping? I think buying all the gear from scratch is a lot of work. Mother: These days some places lend you all the gear. Father: That would be easy. OK, let's go there.",
    "why": "They choose a campsite in the mountains with a river, where gear can be borrowed."
   },
   {
