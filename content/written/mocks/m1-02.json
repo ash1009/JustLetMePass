@@ -241,7 +241,7 @@
     "{彼女|かのじょ}は{手際|てぎわ}よく{料理|りょうり}を{作|つく}り、{三十分|さんじゅっぷん}で{五品|ごしな}も{並|なら}べた。"
    ],
    "answer": 3,
-   "en": "手際 = skill/efficiency in handling a task. Correct: She cooked efficiently and set out five dishes in thirty minutes."
+   "en": "Meaning: skill/efficiency in handling a task. Correct: She cooked efficiently and set out five dishes in thirty minutes."
   },
   {
    "type": "usage",
@@ -253,7 +253,7 @@
     "{雨|あめ}が{降|ふ}りそうなので、{裏腹|うらはら}に{傘|かさ}を{持|も}って{出|で}かけた。"
    ],
    "answer": 0,
-   "en": "裏腹 = the opposite of (what is said/shown). Correct: Contrary to his words 'I'm fine', his face had gone pale."
+   "en": "Meaning: the opposite of (what is said/shown). Correct: Contrary to his words 'I'm fine', his face had gone pale."
   },
   {
    "type": "usage",
@@ -265,7 +265,7 @@
     "{彼|かれ}は{自分|じぶん}の{将来|しょうらい}を{見計|みはか}らって、{何度|なんど}もため{息|いき}をついた。"
    ],
    "answer": 2,
-   "en": "見計らう = to judge the right moment. Correct: I waited for a moment when the manager was in a good mood and asked about taking leave."
+   "en": "Meaning: to judge the right moment. Correct: I waited for a moment when the manager was in a good mood and asked about taking leave."
   },
   {
    "type": "usage",
@@ -277,7 +277,7 @@
     "{赤字|あかじ}が{続|つづ}いているため、{経営|けいえい}の{抜本的|ばっぽんてき}な{見直|みなお}しが{求|もと}められている。"
    ],
    "answer": 3,
-   "en": "抜本的 = fundamental, drastic. Correct: Because losses continue, a fundamental review of management is needed."
+   "en": "Meaning: fundamental, drastic. Correct: Because losses continue, a fundamental review of management is needed."
   },
   {
    "type": "usage",
@@ -289,7 +289,7 @@
     "{会議|かいぎ}では{部長|ぶちょう}の{意見|いけん}に{差|さ}し{支|つか}える{人|ひと}は{誰|だれ}もいなかった。"
    ],
    "answer": 1,
-   "en": "差し支える = to interfere with, cause trouble for. Correct: Staying up late affects the next day's work."
+   "en": "Meaning: to interfere with, cause trouble for. Correct: Staying up late affects the next day's work."
   },
   {
    "type": "usage",
@@ -301,7 +301,7 @@
     "{試験|しけん}の{結果|けっか}を{打診|だしん}すると、{合格|ごうかく}していた。"
    ],
    "answer": 0,
-   "en": "打診 = sounding someone out (asking informally). Correct: When I sounded out the client about extending the deadline by a week, they kindly agreed."
+   "en": "Meaning: sounding someone out (asking informally). Correct: When I sounded out the client about extending the deadline by a week, they kindly agreed."
   }
  ],
  "grammar": [
@@ -443,7 +443,7 @@
    ],
    "star": 2,
    "en": "This plan could not have been realized without everyone's cooperation.",
-   "why": "{皆|みな}さんの ご{協力|きょうりょく} なくして は: 'without N' is N なくしては, and の links 皆さん to ご協力."
+   "why": "{皆|みな}さんの ご{協力|きょうりょく} なくして は: 'without N' is N なくしては, and の links {皆|みな}さん to ご{協力|きょうりょく}."
   },
   {
    "type": "star",
@@ -483,7 +483,7 @@
    ],
    "star": 2,
    "en": "Once you are the company president, the weight of responsibility is different from that of an ordinary employee.",
-   "why": "{社長|しゃちょう} ともなると {一般|いっぱん}の {社員|しゃいん} とは: N ともなると follows the noun directly, and AとはBが違う compares the two."
+   "why": "{社長|しゃちょう} ともなると {一般|いっぱん}の {社員|しゃいん} とは: N ともなると follows the noun directly, and AとはBが{違|ちが}う compares the two."
   },
   {
    "type": "star",
@@ -523,7 +523,7 @@
    ],
    "star": 0,
    "en": "Even though his doctor has told him many times to stop, he won't give up alcohol.",
-   "why": "{何度|なんど}も {止|と}められて いる にもかかわらず: 何度も comes before the verb, and にもかかわらず follows the plain form いる."
+   "why": "{何度|なんど}も {止|と}められて いる にもかかわらず: {何度|なんど}も comes before the verb, and にもかかわらず follows the plain form いる."
   },
   {
    "type": "text",
@@ -761,7 +761,7 @@
       "{国|くに}が{店|みせ}を{守|まも}る{取|と}り{組|く}みをすべきだ"
      ],
      "answer": 1,
-     "why": "He says it is no wonder (無理もない), since buying new is often faster and cheaper."
+     "why": "He says it is no wonder ({無理|むり}もない), since buying new is often faster and cheaper."
     },
     {
      "q": "{筆者|ひっしゃ}があの{店|みせ}が{続|つづ}いてほしいと{願|ねが}うのはなぜか。",
@@ -1685,7 +1685,7 @@
    ],
    "answer": 1,
    "en": "F: Sir, have you had a chance to look over the materials for tomorrow's meeting?",
-   "why": "お目通しいただけましたか asks if he has read them, so he says he read them."
+   "why": "お{目通|めどお}しいただけましたか asks if he has read them, so he says he read them."
   },
   {
    "type": "response",
@@ -1780,7 +1780,7 @@
    ],
    "answer": 0,
    "en": "M: The new manager is a friendly, easygoing person, isn't he?",
-   "why": "気さく means friendly and easy to talk to."
+   "why": "{気|き}さく means friendly and easy to talk to."
   },
   {
    "type": "response",
@@ -1875,7 +1875,7 @@
    ],
    "answer": 0,
    "en": "F: Those two argue every time they open their mouths.",
-   "why": "口を開けば means 'whenever they speak', so a comment on their relationship fits."
+   "why": "{口|くち}を{開|ひら}けば means 'whenever they speak', so a comment on their relationship fits."
   },
   {
    "type": "response",
@@ -1902,7 +1902,7 @@
    "lines": [
     {
      "s": "M",
-     "jp": "{来月|らいげつ}の{新人|しんじん}{研修|けんしゅう}だけど、{今年|ことし}はどこでやろうか。"
+     "jp": "（{上司|じょうし}）{来月|らいげつ}の{新人|しんじん}{研修|けんしゅう}だけど、{今年|ことし}はどこでやろうか。"
     },
     {
      "s": "F",
@@ -1910,11 +1910,11 @@
     },
     {
      "s": "M",
-     "jp": "じゃあ、{郊外|こうがい}の{研修|けんしゅう}{施設|しせつ}はどうですか。{泊|と}まりがけで{行|い}けば、{交流|こうりゅう}も{深|ふか}まりますし。"
+     "jp": "（{部下|ぶか}の{男|おとこ}）じゃあ、{郊外|こうがい}の{研修|けんしゅう}{施設|しせつ}はどうですか。{泊|と}まりがけで{行|い}けば、{交流|こうりゅう}も{深|ふか}まりますし。"
     },
     {
      "s": "M",
-     "jp": "うーん、{宿泊|しゅくはく}となると{予算|よさん}が{厳|きび}しいなあ。"
+     "jp": "（{上司|じょうし}）うーん、{宿泊|しゅくはく}となると{予算|よさん}が{厳|きび}しいなあ。"
     },
     {
      "s": "F",
@@ -1922,11 +1922,11 @@
     },
     {
      "s": "M",
-     "jp": "{確|たし}かに。グループで{作業|さぎょう}できる{広|ひろ}い{部屋|へや}もあるみたいですね。"
+     "jp": "（{部下|ぶか}の{男|おとこ}）{確|たし}かに。グループで{作業|さぎょう}できる{広|ひろ}い{部屋|へや}もあるみたいですね。"
     },
     {
      "s": "M",
-     "jp": "よし、それでいこう。"
+     "jp": "（{上司|じょうし}）よし、それでいこう。"
     }
    ],
    "question": "{研修|けんしゅう}はどこで{行|おこな}うことになりましたか。",
