@@ -225,7 +225,7 @@
    "options": [
     "ほそく",
     "せまく",
-    "ひくく",
+    "おもく",
     "みじかく"
    ],
    "answer": 3,
@@ -355,7 +355,7 @@
   },
   {
    "type": "form",
-   "q": "{先生|せんせい}は{今|いま}、{電話|でんわ}で{話|はな}して＿＿。",
+   "q": "（{学生|がくせい}が{友|とも}だちに）{先生|せんせい}は{今|いま}、{電話|でんわ}で{話|はな}して＿＿よ。",
    "options": [
     "まいります",
     "おります",
@@ -363,7 +363,7 @@
     "いたします"
    ],
    "answer": 2,
-   "en": "The teacher is talking on the phone now. (respectful form for the teacher)"
+   "en": "(A student to a friend) The teacher is on the phone now. (respectful form for the teacher)"
   },
   {
    "type": "form",
