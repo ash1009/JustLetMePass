@@ -29,7 +29,7 @@
   },
   {
    "type": "kanji_reading",
-   "q_raw": "【地震】のときは、机の下に入ってください。",
+   "q_raw": "昨日の夜、小さい【地震】がありました。",
    "options": [
     "ちしん",
     "じじん",
@@ -37,7 +37,7 @@
     "じしん"
    ],
    "answer": 3,
-   "en": "During an earthquake, please get under a desk."
+   "en": "There was a small earthquake last night."
   },
   {
    "type": "kanji_reading",
@@ -209,7 +209,7 @@
   },
   {
    "type": "context",
-   "q": "{空|そら}が{急|きゅう}に＿＿なって、{雷|かみなり}が{鳴|な}りはじめました。",
+   "q": "{夜|よる}になって{外|そと}が＿＿なったので、{電気|でんき}をつけました。",
    "options": [
     "うすく",
     "くらく",
@@ -217,7 +217,7 @@
     "ひくく"
    ],
    "answer": 1,
-   "en": "The sky suddenly got dark and thunder started."
+   "en": "It got dark outside at night, so I turned on the light."
   },
   {
    "type": "context",
@@ -250,7 +250,7 @@
     "{昨日|きのう}は{雨|あめ}が{少|すこ}し{降|ふ}りました。",
     "{昨日|きのう}は{雨|あめ}が{降|ふ}りませんでした。",
     "{昨日|きのう}は{雨|あめ}がとても{強|つよ}く{降|ふ}りました。",
-    "{昨日|きのう}は{雨|あめ}が{急|きゅう}にやみました。"
+    "{昨日|きのう}は{雨|あめ}ではなく、{雪|ゆき}が{降|ふ}りました。"
    ],
    "answer": 2,
    "en": "Yesterday it rained terribly."
@@ -308,24 +308,24 @@
    "word": "{小包|こづつみ}",
    "options": [
     "{寒|さむ}いので、{小包|こづつみ}を{着|き}て{出|で}かけました。",
-    "{国|くに}の{母|はは}から、お{菓子|かし}が{入|はい}った{小包|こづつみ}が{届|とど}きました。",
+    "{国|くに}の{母|はは}から、お{菓子|かし}が{入|はい}った{小包|こづつみ}をもらいました。",
     "{駅|えき}の{前|まえ}に、{大|おお}きい{小包|こづつみ}が{建|た}ちました。",
     "{明日|あした}は{大切|たいせつ}な{小包|こづつみ}があるので、{早|はや}く{寝|ね}ます。"
    ],
    "answer": 1,
-   "en": "{小包|こづつみ} = parcel. Correct: A parcel with sweets arrived from my mother back home."
+   "en": "{小包|こづつみ} = parcel. Correct: I got a parcel with sweets from my mother back home."
   },
   {
    "type": "usage",
    "word": "{急|きゅう}に",
    "options": [
-    "{空|そら}が{急|きゅう}に{暗|くら}くなって、{雨|あめ}が{降|ふ}ってきました。",
+    "{急|きゅう}に{雨|あめ}が{降|ふ}ってきたので、コンビニで{傘|かさ}を{買|か}いました。",
     "{時間|じかん}がないので、{急|きゅう}に{準備|じゅんび}してください。",
     "この{店|みせ}のラーメンは{急|きゅう}においしいです。",
     "{毎朝|まいあさ}、{急|きゅう}に{七時|しちじ}に{起|お}きています。"
    ],
    "answer": 0,
-   "en": "{急|きゅう}に = suddenly. Correct: The sky suddenly got dark and it started to rain."
+   "en": "{急|きゅう}に = suddenly. Correct: It suddenly started raining, so I bought an umbrella at a convenience store."
   },
   {
    "type": "usage",
@@ -333,11 +333,11 @@
    "options": [
     "{電車|でんしゃ}が{留守|るす}なので、バスで{行|い}きます。",
     "この{席|せき}は{留守|るす}ですか。",
-    "{留守|るす}のときに、{小包|こづつみ}が{届|とど}いたようです。",
+    "{留守|るす}のときに、{友|とも}だちが{来|き}たようです。",
     "{昨日|きのう}は{留守|るす}で、{一日中|いちにちじゅう}{家|いえ}で{寝|ね}ていました。"
    ],
    "answer": 2,
-   "en": "{留守|るす} = being away from home. Correct: It seems a parcel came while I was out."
+   "en": "{留守|るす} = being away from home. Correct: It seems a friend came while I was out."
   }
  ],
  "grammar": [

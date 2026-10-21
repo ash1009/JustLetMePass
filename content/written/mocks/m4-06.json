@@ -293,15 +293,15 @@
   },
   {
    "type": "usage",
-   "word": "おいわい",
+   "word": "{片付|かたづ}ける",
    "options": [
-    "かぜをひいた{友|とも}だちのおいわいに{行|い}きました。",
-    "{兄|あに}の{仕事|しごと}が{決|き}まったので、{家族|かぞく}でおいわいをしました。",
-    "バスがおいわいして、{約束|やくそく}に{遅|おく}れました。",
-    "{道|みち}がわからないので、おいわいしてください。"
+    "かぜが{片付|かたづ}いて、{元気|げんき}になりました。",
+    "{遊|あそ}んだあとは、おもちゃを{片付|かたづ}けなさい。",
+    "バスが{片付|かたづ}けて、{約束|やくそく}に{遅|おく}れました。",
+    "{道|みち}がわからないので、{片付|かたづ}けてください。"
    ],
    "answer": 1,
-   "en": "おいわい = a celebration. Correct: My brother got a job, so the family celebrated."
+   "en": "{片付|かたづ}ける = to tidy up, put away. Correct: After playing, put your toys away."
   },
   {
    "type": "usage",
@@ -499,7 +499,7 @@
   },
   {
    "type": "star",
-   "before": "{誕生日|たんじょうび}には、",
+   "before": "{母|はは}の{誕生日|たんじょうび}には、",
    "after": "{作|つく}ってあげるつもりです。",
    "pieces": [
     "{好|す}きな",
@@ -514,7 +514,7 @@
     1
    ],
    "star": 2,
-   "en": "For her birthday, I plan to make the cake my mother likes.",
+   "en": "On my mother's birthday, I plan to make her the cake she likes.",
    "why": "{母|はは}が{好|す}きな describes ケーキ, and ケーキを comes right before the verb {作|つく}って."
   },
   {
@@ -608,7 +608,7 @@
       "{送|おく}ってね",
       "{送|おく}ったね",
       "{送|おく}られてね",
-      "{送|おく}るね"
+      "{送|おく}らないね"
      ],
      "answer": 0
     },
