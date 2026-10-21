@@ -248,13 +248,16 @@ class Study(private val content: Content, private val dao: StudyDao, private val
         val minReviews = budget * 2 / 5 / 12
         val early = if (due.size < minReviews) {
             val now = System.currentTimeMillis()
-            _states.value.values.filter { it.stage > 0 && it.due > now && !skipReview(it.id) }
+            // Not ones seen in the last 3 hours, so each round brings different ones.
+            _states.value.values.filter { it.stage > 0 && it.due > now && it.lastSeen < now - 3 * 3_600_000L && !skipReview(it.id) }
                 .sortedBy { it.due }.take(minReviews - due.size).map { it.id }
         } else emptyList()
         val plan = plan()
         val left = (plan.newPerDay - newToday()).coerceAtLeast(0)
         val room = ((budget - (due.size + early.size) * 12) / 60).coerceAtLeast(0)
-        val newCount = if (more) maxOf(room, 5) else minOf(room, left) + extraNew
+        // Today's new things done and nothing due: "Learn extra" gives a full round of new ones.
+        val full = more || (left == 0 && due.isEmpty() && extraNew == 0)
+        val newCount = if (full) maxOf(room, 5) else minOf(room, left) + extraNew
         val focus = when (weakSection()?.first) {
             "Vocabulary" -> Kind.WORD
             "Grammar" -> Kind.GRAMMAR
