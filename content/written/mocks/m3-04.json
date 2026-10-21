@@ -1,0 +1,1764 @@
+{
+ "id": "m3-04",
+ "level": 3,
+ "title_en": "N3 practice test 4",
+ "vocab": [
+  {
+   "type": "kanji_reading",
+   "q_raw": "【祖父】は毎朝近くの公園を散歩しています。",
+   "options": [
+    "そうふ",
+    "そぶ",
+    "そふ",
+    "そうぶ"
+   ],
+   "answer": 2,
+   "en": "My grandfather takes a walk in the nearby park every morning."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "市役所で【住所】の変更の手続きをしました。",
+   "options": [
+    "じゅうしょ",
+    "じゅしょ",
+    "じゅうしょう",
+    "じゅしょう"
+   ],
+   "answer": 0,
+   "en": "I did the paperwork to change my address at city hall."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "姉は来月【結婚】することになりました。",
+   "options": [
+    "けつこん",
+    "けいこん",
+    "げっこん",
+    "けっこん"
+   ],
+   "answer": 3,
+   "en": "My older sister is getting married next month."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "趣味で古い切手を【集めて】います。",
+   "options": [
+    "まとめて",
+    "あつめて",
+    "もとめて",
+    "ためて"
+   ],
+   "answer": 1,
+   "en": "I collect old stamps as a hobby."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "図書館で借りた本を【返す】のを忘れていた。",
+   "options": [
+    "かやす",
+    "かえす",
+    "もどす",
+    "かわす"
+   ],
+   "answer": 1,
+   "en": "I forgot to return the book I borrowed from the library."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "父と兄は性格がよく【似て】いる。",
+   "options": [
+    "にえて",
+    "にって",
+    "にせて",
+    "にて"
+   ],
+   "answer": 3,
+   "en": "My father and my older brother have very similar personalities."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "【近所】の人とは昔から仲がいい。",
+   "options": [
+    "きんじょ",
+    "ちかじょ",
+    "きんしょ",
+    "きんじょう"
+   ],
+   "answer": 0,
+   "en": "I have got on well with my neighbours for a long time."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "郵便局の【窓口】は五時に閉まります。",
+   "options": [
+    "そうこう",
+    "まどくち",
+    "まどぐち",
+    "まとぐち"
+   ],
+   "answer": 2,
+   "en": "The post office counter closes at five."
+  },
+  {
+   "type": "orthography",
+   "q": "{母|はは}は{毎週|まいしゅう}{土曜日|どようび}に【おどり】を{習|なら}っています。",
+   "options_raw": [
+    "跳り",
+    "踊り",
+    "送り",
+    "通り"
+   ],
+   "answer": 1,
+   "en": "My mother takes dance lessons every Saturday."
+  },
+  {
+   "type": "orthography",
+   "q": "{市|し}の【けんこう】{診断|しんだん}を{受|う}けた。",
+   "options_raw": [
+    "健庫",
+    "建康",
+    "険康",
+    "健康"
+   ],
+   "answer": 3,
+   "en": "I had the city's health check."
+  },
+  {
+   "type": "orthography",
+   "q": "{弟|おとうと}とは{子|こ}どものころ、よく{川|かわ}で【あそんだ】。",
+   "options_raw": [
+    "遊んだ",
+    "送んだ",
+    "進んだ",
+    "運んだ"
+   ],
+   "answer": 0,
+   "en": "As children, my younger brother and I often played by the river."
+  },
+  {
+   "type": "orthography",
+   "q": "このはがきは{明日|あした}までに【とどく】でしょうか。",
+   "options_raw": [
+    "屈く",
+    "局く",
+    "届く",
+    "居く"
+   ],
+   "answer": 2,
+   "en": "Will this postcard arrive by tomorrow?"
+  },
+  {
+   "type": "orthography",
+   "q": "{図書館|としょかん}を{利用|りよう}するには【とうろく】が{必要|ひつよう}です。",
+   "options_raw": [
+    "登禄",
+    "答録",
+    "登緑",
+    "登録"
+   ],
+   "answer": 3,
+   "en": "You need to register to use the library."
+  },
+  {
+   "type": "orthography",
+   "q": "わたしの【しゅみ】は{写真|しゃしん}を{撮|と}ることです。",
+   "options_raw": [
+    "趣味",
+    "趣未",
+    "取味",
+    "主味"
+   ],
+   "answer": 0,
+   "en": "My hobby is taking photos."
+  },
+  {
+   "type": "context",
+   "q": "{兄|あに}とは{年|とし}が{十歳|じゅっさい}も＿＿いるので、{一緒|いっしょ}に{遊|あそ}んだ{記憶|きおく}があまりない。",
+   "options": [
+    "はなれて",
+    "わかれて",
+    "のこって",
+    "ずれて"
+   ],
+   "answer": 0,
+   "en": "My brother is ten years older than me, so I don't remember playing with him much."
+  },
+  {
+   "type": "context",
+   "q": "ギターを{習|なら}い{始|はじ}めたが、{指|ゆび}が{痛|いた}くて＿＿{一か月|いっかげつ}でやめてしまった。",
+   "options": [
+    "ぜひ",
+    "きっと",
+    "たった",
+    "ずっと"
+   ],
+   "answer": 2,
+   "en": "I started learning the guitar, but my fingers hurt and I quit after only one month."
+  },
+  {
+   "type": "context",
+   "q": "{用紙|ようし}に{名前|なまえ}と{住所|じゅうしょ}を＿＿して、{窓口|まどぐち}に{出|だ}してください。",
+   "options": [
+    "{記録|きろく}",
+    "{記入|きにゅう}",
+    "{登場|とうじょう}",
+    "{記念|きねん}"
+   ],
+   "answer": 1,
+   "en": "Fill in your name and address on the form and hand it in at the counter."
+  },
+  {
+   "type": "context",
+   "q": "{父|ちち}は{釣|つ}りに＿＿いて、{休|やす}みの{日|ひ}は{朝|あさ}から{海|うみ}へ{出|で}かけていく。",
+   "options": [
+    "はいって",
+    "つかって",
+    "とまって",
+    "はまって"
+   ],
+   "answer": 3,
+   "en": "My father is really into fishing, and on his days off he heads to the sea from early morning."
+  },
+  {
+   "type": "context",
+   "q": "ゴミは{決|き}められた{曜日|ようび}の{朝|あさ}に、＿＿の{場所|ばしょ}に{出|だ}してください。",
+   "options": [
+    "{予定|よてい}",
+    "{指示|しじ}",
+    "{指定|してい}",
+    "{限定|げんてい}"
+   ],
+   "answer": 2,
+   "en": "Put out rubbish on the set day, in the morning, at the designated place."
+  },
+  {
+   "type": "context",
+   "q": "{意見|いけん}が{違|ちが}っても、{相手|あいて}の{考|かんが}えを＿＿しようとすることが{大切|たいせつ}だ。",
+   "options": [
+    "{理解|りかい}",
+    "{解決|かいけつ}",
+    "{発見|はっけん}",
+    "{準備|じゅんび}"
+   ],
+   "answer": 0,
+   "en": "Even when your opinions differ, it is important to try to understand the other person's thinking."
+  },
+  {
+   "type": "context",
+   "q": "この{図書館|としょかん}では、{本|ほん}の{貸|か}し{出|だ}し＿＿は{二週間|にしゅうかん}です。",
+   "options": [
+    "{時間|じかん}",
+    "{期間|きかん}",
+    "{時期|じき}",
+    "{時代|じだい}"
+   ],
+   "answer": 1,
+   "en": "At this library, the loan period for books is two weeks."
+  },
+  {
+   "type": "context",
+   "q": "{娘|むすめ}が{初|はじ}めて{一人|ひとり}で{旅行|りょこう}に{行|い}くので、{親|おや}として＿＿でたまらない。",
+   "options": [
+    "{安心|あんしん}",
+    "{不満|ふまん}",
+    "{残念|ざんねん}",
+    "{心配|しんぱい}"
+   ],
+   "answer": 3,
+   "en": "My daughter is travelling alone for the first time, so as a parent I am terribly worried."
+  },
+  {
+   "type": "context",
+   "q": "{郵便局|ゆうびんきょく}で{荷物|にもつ}を{送|おく}るとき、{重|おも}さを＿＿もらった。",
+   "options": [
+    "はかって",
+    "かぞえて",
+    "くらべて",
+    "つつんで"
+   ],
+   "answer": 0,
+   "en": "When I sent a parcel at the post office, they weighed it for me."
+  },
+  {
+   "type": "context",
+   "q": "{料理|りょうり}{教室|きょうしつ}に{通|かよ}い{始|はじ}めてから、{料理|りょうり}の＿＿が{上|あ}がった。",
+   "options": [
+    "{気分|きぶん}",
+    "{調子|ちょうし}",
+    "{腕|うで}",
+    "{力|ちから}"
+   ],
+   "answer": 2,
+   "en": "Since I started going to cooking classes, my cooking skills have improved."
+  },
+  {
+   "type": "context",
+   "q": "{毎朝|まいあさ}、{保育園|ほいくえん}に{子|こ}どもを＿＿から{会社|かいしゃ}へ{行|い}く。",
+   "options": [
+    "{届|とど}けて",
+    "{預|あず}けて",
+    "{任|まか}せて",
+    "{貸|か}して"
+   ],
+   "answer": 1,
+   "en": "Every morning I drop my child off at nursery and then go to work."
+  },
+  {
+   "type": "paraphrase",
+   "q": "{兄|あに}は{最近|さいきん}【いらいらして】いる。",
+   "options": [
+    "{楽|たの}しそうにして",
+    "{疲|つか}れて",
+    "{悲|かな}しそうにして",
+    "{怒|おこ}りっぽくなって"
+   ],
+   "answer": 3,
+   "en": "My older brother has been irritable lately."
+  },
+  {
+   "type": "paraphrase",
+   "q": "{市|し}の{説明会|せつめいかい}は【{中止|ちゅうし}になった】。",
+   "options": [
+    "やらないことになった",
+    "{遅|おく}れて{始|はじ}まった",
+    "{場所|ばしょ}が{変|か}わった",
+    "{別|べつ}の{日|ひ}に{延|の}びた"
+   ],
+   "answer": 0,
+   "en": "The city's information session was cancelled."
+  },
+  {
+   "type": "paraphrase",
+   "q": "【たまに】{父|ちち}と{釣|つ}りに{行|い}く。",
+   "options": [
+    "いつも",
+    "よく",
+    "ときどき",
+    "{初|はじ}めて"
+   ],
+   "answer": 2,
+   "en": "Once in a while I go fishing with my father."
+  },
+  {
+   "type": "paraphrase",
+   "q": "{手続|てつづ}きには【{少|すく}なくとも】{一週間|いっしゅうかん}かかります。",
+   "options": [
+    "{多|おお}くても",
+    "{最低|さいてい}でも",
+    "ちょうど",
+    "だいたい"
+   ],
+   "answer": 1,
+   "en": "The procedure takes at least one week."
+  },
+  {
+   "type": "paraphrase",
+   "q": "{彼女|かのじょ}とは{高校|こうこう}のころからの【{親|した}しい】{友|とも}だちだ。",
+   "options": [
+    "{古|ふる}い",
+    "{新|あたら}しい",
+    "{同|おな}じクラスの",
+    "{仲|なか}のいい"
+   ],
+   "answer": 3,
+   "en": "She and I have been close friends since high school."
+  },
+  {
+   "type": "usage",
+   "q": "{世話|せわ}",
+   "word": "{世話|せわ}",
+   "options": [
+    "{駅|えき}までの{道|みち}を、{近|ちか}くの{人|ひと}に{世話|せわ}してもらった。",
+    "{旅行|りょこう}の{間|あいだ}、{隣|となり}の{人|ひと}に{犬|いぬ}の{世話|せわ}を{頼|たの}んだ。",
+    "{明日|あした}の{会議|かいぎ}の{時間|じかん}を{世話|せわ}してください。",
+    "{先生|せんせい}に{作文|さくぶん}の{間違|まちが}いを{世話|せわ}された。"
+   ],
+   "answer": 1,
+   "en": "Correct: While I was travelling, I asked my neighbour to look after my dog."
+  },
+  {
+   "type": "usage",
+   "q": "{届|とど}ける",
+   "word": "{届|とど}ける",
+   "options": [
+    "{毎朝|まいあさ}{七時|しちじ}に{家|いえ}を{届|とど}けて{会社|かいしゃ}に{行|い}く。",
+    "{先週|せんしゅう}からひどい{風邪|かぜ}を{届|とど}けている。",
+    "{道|みち}で{拾|ひろ}った{財布|さいふ}を{交番|こうばん}に{届|とど}けた。",
+    "{友|とも}だちと{駅前|えきまえ}で{三時|さんじ}に{届|とど}けた。"
+   ],
+   "answer": 2,
+   "en": "Correct: I handed in the wallet I found on the street at the police box."
+  },
+  {
+   "type": "usage",
+   "q": "{参加|さんか}",
+   "word": "{参加|さんか}",
+   "options": [
+    "{町|まち}の{掃除|そうじ}のボランティアに{家族|かぞく}で{参加|さんか}した。",
+    "{新|あたら}しいかばんに{本|ほん}を{参加|さんか}した。",
+    "{毎朝|まいあさ}バスに{参加|さんか}して{学校|がっこう}へ{行|い}く。",
+    "{部屋|へや}の{温度|おんど}が{少|すこ}しずつ{参加|さんか}した。"
+   ],
+   "answer": 0,
+   "en": "Correct: Our family took part in the town's clean-up volunteering."
+  },
+  {
+   "type": "usage",
+   "q": "{仲直|なかなお}り",
+   "word": "{仲直|なかなお}り",
+   "options": [
+    "{壊|こわ}れた{自転車|じてんしゃ}を{店|みせ}で{仲直|なかなお}りしてもらった。",
+    "{病気|びょうき}がやっと{仲直|なかなお}りして、{学校|がっこう}に{行|い}けるようになった。",
+    "{引|ひ}っ{越|こ}しのとき、{荷物|にもつ}を{全部|ぜんぶ}{仲直|なかなお}りした。",
+    "けんかした{弟|おとうと}と、{次|つぎ}の{日|ひ}には{仲直|なかなお}りした。"
+   ],
+   "answer": 3,
+   "en": "Correct: I made up with my younger brother the day after we fought."
+  },
+  {
+   "type": "usage",
+   "q": "{締|し}め{切|き}り",
+   "word": "{締|し}め{切|き}り",
+   "options": [
+    "{夏休|なつやす}みの{締|し}め{切|き}りに{家族|かぞく}で{海|うみ}へ{行|い}った。",
+    "{彼|かれ}は{話|はなし}の{締|し}め{切|き}りがとても{上手|じょうず}だ。",
+    "{市|し}の{写真|しゃしん}コンテストの{応募|おうぼ}の{締|し}め{切|き}りは{今月末|こんげつまつ}だ。",
+    "この{道|みち}は{工事|こうじ}のため、{車|くるま}は{締|し}め{切|き}りです。"
+   ],
+   "answer": 2,
+   "en": "Correct: The deadline for entering the city photo contest is the end of this month."
+  }
+ ],
+ "grammar": [
+  {
+   "type": "form",
+   "q": "{兄|あに}は{料理|りょうり}が{好|す}きな＿＿、{自分|じぶん}ではほとんど{作|つく}らない。",
+   "options": [
+    "わりに",
+    "ために",
+    "ように",
+    "とおりに"
+   ],
+   "answer": 0,
+   "en": "For someone who likes cooking, my brother hardly ever cooks himself.",
+   "why": "～わりに = 'considering / for someone who', showing an unexpected result."
+  },
+  {
+   "type": "form",
+   "q": "{市|し}の{図書館|としょかん}は、{学生|がくせい}＿＿{誰|だれ}でも{利用|りよう}できます。",
+   "options": [
+    "に{対|たい}して",
+    "に{限|かぎ}らず",
+    "について",
+    "によって"
+   ],
+   "answer": 1,
+   "en": "The city library can be used by anyone, not only students.",
+   "why": "～に限らず = 'not only'; the others do not fit before 誰でも."
+  },
+  {
+   "type": "form",
+   "q": "{子|こ}どもが{寝|ね}ている＿＿、{洗濯|せんたく}を{済|す}ませてしまおう。",
+   "options": [
+    "ながら",
+    "ところ",
+    "うちに",
+    "ばかりに"
+   ],
+   "answer": 2,
+   "en": "Let's get the washing done while the children are asleep.",
+   "why": "～うちに = do something while a state lasts."
+  },
+  {
+   "type": "form",
+   "q": "{父|ちち}に{留学|りゅうがく}のことを{相談|そうだん}した＿＿、すぐに{賛成|さんせい}してくれた。",
+   "options": [
+    "ばかりに",
+    "ものの",
+    "くせに",
+    "ところ"
+   ],
+   "answer": 3,
+   "en": "When I talked to my father about studying abroad, he agreed straight away.",
+   "why": "～たところ = 'when I did ..., (this happened)'."
+  },
+  {
+   "type": "form",
+   "q": "{郵便局|ゆうびんきょく}は{五時|ごじ}に{閉|し}まるから、{急|いそ}いで{出|で}＿＿{間|ま}に{合|あ}わない。",
+   "options": [
+    "れば",
+    "ないと",
+    "ては",
+    "たら"
+   ],
+   "answer": 1,
+   "en": "The post office closes at five, so unless we leave quickly we won't make it.",
+   "why": "出ないと間に合わない = 'unless we leave, we will be late'."
+  },
+  {
+   "type": "form",
+   "q": "{祖母|そぼ}は{目|め}が{悪|わる}くなって、{新聞|しんぶん}が{読|よ}み＿＿なったそうだ。",
+   "options": [
+    "にくく",
+    "やすく",
+    "がちに",
+    "っぽく"
+   ],
+   "answer": 0,
+   "en": "I hear my grandmother's eyesight has got worse and newspapers have become hard for her to read.",
+   "why": "Verb stem + にくい = hard to do."
+  },
+  {
+   "type": "form",
+   "q": "{先生|せんせい}が{教室|きょうしつ}に{入|はい}ってくる＿＿、{生徒|せいと}たちは{静|しず}かになった。",
+   "options": [
+    "うちに",
+    "ばかりに",
+    "までに",
+    "と{同時|どうじ}に"
+   ],
+   "answer": 3,
+   "en": "The moment the teacher came into the classroom, the students went quiet.",
+   "why": "～と同時に = at the same moment as."
+  },
+  {
+   "type": "form",
+   "q": "この{書類|しょるい}は、{本人|ほんにん}が{窓口|まどぐち}に{来|こ}＿＿{受|う}け{付|つ}けられません。",
+   "options": [
+    "ても",
+    "なくても",
+    "ないと",
+    "ように"
+   ],
+   "answer": 2,
+   "en": "This document cannot be accepted unless the person comes to the counter themselves.",
+   "why": "来ないと～られません = cannot be done unless they come."
+  },
+  {
+   "type": "form",
+   "q": "{趣味|しゅみ}＿＿{始|はじ}めたイラストが、{今|いま}では{仕事|しごと}になった。",
+   "options": [
+    "として",
+    "にとって",
+    "によって",
+    "に{対|たい}して"
+   ],
+   "answer": 0,
+   "en": "The drawing I started as a hobby has now become my job.",
+   "why": "～として = 'as' (in the role of)."
+  },
+  {
+   "type": "form",
+   "q": "{妹|いもうと}は{今|いま}にも{泣|な}き＿＿{顔|かお}で{帰|かえ}ってきた。",
+   "options": [
+    "ながら",
+    "ほど",
+    "そうな",
+    "らしい"
+   ],
+   "answer": 2,
+   "en": "My younger sister came home looking as if she was about to cry.",
+   "why": "Verb stem + そうな + noun = looks about to."
+  },
+  {
+   "type": "form",
+   "q": "{仕事|しごと}が{忙|いそが}しくても、{家族|かぞく}と{話|はな}す{時間|じかん}だけは{大切|たいせつ}にする＿＿。",
+   "options": [
+    "ところだ",
+    "ようにしている",
+    "わけがない",
+    "ばかりだ"
+   ],
+   "answer": 1,
+   "en": "However busy work is, I make a point of valuing my time talking with my family.",
+   "why": "～ようにしている = make an effort to do something regularly."
+  },
+  {
+   "type": "form",
+   "q": "A「お{子|こ}さん、{大|おお}きくなりましたね。」B「ええ、{来年|らいねん}{小学生|しょうがくせい}に＿＿んです。」",
+   "options": [
+    "なろう",
+    "なりそうな",
+    "なった",
+    "なる"
+   ],
+   "answer": 3,
+   "en": "A: Your child has grown so much. B: Yes, they start primary school next year.",
+   "why": "Plain form なる + んです for a fixed future fact."
+  },
+  {
+   "type": "form",
+   "q": "{館内|かんない}での{携帯電話|けいたいでんわ}の{通話|つうわ}はご{遠慮|えんりょ}＿＿。",
+   "options": [
+    "ください",
+    "いたします",
+    "もうします",
+    "まいります"
+   ],
+   "answer": 0,
+   "en": "Please refrain from phone calls inside the building.",
+   "why": "ご遠慮ください is the set phrase for 'please do not'."
+  },
+  {
+   "type": "star",
+   "before": "{弟|おとうと}は",
+   "after": "こもってゲームをしている。",
+   "pieces": [
+    "{帰|かえ}ってくる",
+    "{学校|がっこう}から",
+    "なり",
+    "{部屋|へや}に"
+   ],
+   "order": [
+    1,
+    0,
+    2,
+    3
+   ],
+   "star": 2,
+   "en": "As soon as my younger brother gets home from school, he shuts himself in his room playing games.",
+   "why": "学校から帰ってくるなり部屋にこもる: なり follows the dictionary form, and 部屋に goes with こもって."
+  },
+  {
+   "type": "star",
+   "before": "{市|し}の{図書館|としょかん}は{平日|へいじつ}なら",
+   "after": "ので{便利|べんり}だ。",
+   "pieces": [
+    "{利用|りよう}",
+    "{夜|よる}{九時|くじ}",
+    "できる",
+    "まで"
+   ],
+   "order": [
+    1,
+    3,
+    0,
+    2
+   ],
+   "star": 1,
+   "en": "The city library is handy because on weekdays you can use it until 9 p.m.",
+   "why": "夜九時まで利用できる: まで follows the time, and できる follows 利用."
+  },
+  {
+   "type": "star",
+   "before": "{母|はは}が",
+   "after": "{料理|りょうり}は、どれもおいしい。",
+   "pieces": [
+    "{通|とお}りに",
+    "{作|つく}った",
+    "{教|おし}えて",
+    "くれた"
+   ],
+   "order": [
+    2,
+    3,
+    0,
+    1
+   ],
+   "star": 3,
+   "en": "The dishes I made just as my mother taught me are all delicious.",
+   "why": "教えてくれた通りに作った料理: 通りに needs a verb before it and 作った describes 料理."
+  },
+  {
+   "type": "star",
+   "before": "{父|ちち}の{趣味|しゅみ}は",
+   "after": "が、{最近|さいきん}は{忙|いそが}しくてなかなか{行|い}けないらしい。",
+   "pieces": [
+    "ことだ",
+    "{登|のぼ}る",
+    "{山|やま}に",
+    "{近所|きんじょ}の"
+   ],
+   "order": [
+    3,
+    2,
+    1,
+    0
+   ],
+   "star": 0,
+   "en": "My father's hobby is climbing the local mountain, but he seems too busy to go lately.",
+   "why": "近所の山に登ることだ: の links two nouns, and ことだ ends the noun phrase before が."
+  },
+  {
+   "type": "star",
+   "before": "{窓口|まどぐち}で",
+   "after": "、{書類|しょるい}が{一枚|いちまい}{足|た}りないと{言|い}われた。",
+   "pieces": [
+    "{出|だ}そう",
+    "と",
+    "した",
+    "{申込書|もうしこみしょ}を"
+   ],
+   "order": [
+    3,
+    0,
+    1,
+    2
+   ],
+   "star": 2,
+   "en": "When I tried to hand in the application at the counter, I was told one document was missing.",
+   "why": "申込書を出そうとした = was about to hand in; を comes after the noun and と follows the volitional form."
+  },
+  {
+   "type": "text",
+   "passage": "「{祖父|そふ}と{将棋|しょうぎ}」\nわたしの{祖父|そふ}は{今年|ことし}{八十歳|はちじゅっさい}になります。{祖父|そふ}の{一番|いちばん}の{楽|たの}しみは{将棋|しょうぎ}です。わたしが{小学生|しょうがくせい}のとき、{祖父|そふ}が{将棋|しょうぎ}のルールを{教|おし}えてくれました。（１）、わたしは{毎週|まいしゅう}{日曜日|にちようび}に{祖父|そふ}の{家|いえ}へ{行|い}って、{将棋|しょうぎ}をするようになりました。\n{最初|さいしょ}は{一度|いちど}も{勝|か}てませんでした。{祖父|そふ}は{孫|まご}のわたしが{相手|あいて}でも、{少|すこ}しも{手|て}を{抜|ぬ}いて（２）。{悔|くや}しくて{泣|な}いたこともあります。でも、{祖父|そふ}は{負|ま}けたわたしに、どこが{悪|わる}かったのかを{丁寧|ていねい}に{説明|せつめい}してくれました。\n{中学生|ちゅうがくせい}になって、わたしは{初|はじ}めて{祖父|そふ}に{勝|か}ちました。そのとき{祖父|そふ}は、{自分|じぶん}が{負|ま}けた（３）、とてもうれしそうに{笑|わら}っていました。\n{今|いま}、わたしは{大学|だいがく}に{通|かよ}うために{一人|ひとり}で{暮|く}らしていて、{祖父|そふ}とはなかなか{会|あ}えません。（４）、{最近|さいきん}はインターネットで{将棋|しょうぎ}ができるので、{夜|よる}に{祖父|そふ}と{対局|たいきょく}しています。{画面|がめん}の{向|む}こうの{祖父|そふ}は、{今|いま}も{昔|むかし}と{同|おな}じように{厳|きび}しいです。これからも{祖父|そふ}と{将棋|しょうぎ}を（５）と{思|おも}います。",
+   "en": "'My grandfather and shogi.' My grandfather turns 80 this year. His greatest pleasure is shogi. When I was in primary school he taught me the rules. After that, I started going to his house every Sunday to play. At first I could not win even once. Even against his grandchild, he never went easy. Sometimes I cried from frustration. But he always explained carefully where I had gone wrong. In junior high school I beat him for the first time. Even though he had lost, he laughed and looked very happy. Now I live alone to attend university and rarely see him. But these days we can play shogi online, so we play at night. On the screen he is as strict as ever. I want to keep playing shogi with him.",
+   "questions": [
+    {
+     "q": "（１）",
+     "options": [
+      "ところが",
+      "それでも",
+      "それから",
+      "それなのに"
+     ],
+     "answer": 2,
+     "why": "それから = after that; the sentence simply continues the story."
+    },
+    {
+     "q": "（２）",
+     "options": [
+      "くれませんでした",
+      "あげませんでした",
+      "もらいませんでした",
+      "くださいました"
+     ],
+     "answer": 0,
+     "why": "Grandfather (giver) did not do a favour for the writer: ～てくれませんでした."
+    },
+    {
+     "q": "（３）",
+     "options": [
+      "ついでに",
+      "おかげで",
+      "ばかりに",
+      "のに"
+     ],
+     "answer": 3,
+     "why": "のに shows contrast: he lost, yet he looked happy."
+    },
+    {
+     "q": "（４）",
+     "options": [
+      "だから",
+      "でも",
+      "つまり",
+      "そのうえ"
+     ],
+     "answer": 1,
+     "why": "でも: they rarely meet, but they can play online."
+    },
+    {
+     "q": "（５）",
+     "options": [
+      "{続|つづ}けてほしい",
+      "{続|つづ}けさせたい",
+      "{続|つづ}けていきたい",
+      "{続|つづ}けてもらいたい"
+     ],
+     "answer": 2,
+     "why": "The writer states their own wish: 続けていきたい."
+    }
+   ]
+  }
+ ],
+ "reading": [
+  {
+   "type": "short",
+   "text": "{市民|しみん}の{皆様|みなさま}へ\n{家具|かぐ}や{自転車|じてんしゃ}などの{大|おお}きなごみ（{粗大|そだい}ごみ）は、{普通|ふつう}のごみの{日|ひ}には{出|だ}せません。{出|だ}したい{場合|ばあい}は、{出|だ}す{日|ひ}の{前|まえ}の{週|しゅう}の{金曜日|きんようび}までに、{電話|でんわ}かインターネットで{申|もう}し{込|こ}んでください。{申|もう}し{込|こ}みのあと、コンビニで「{粗大|そだい}ごみシール」を{買|か}い、ごみに{貼|は}ってから、{決|き}められた{日|ひ}の{朝|あさ}{八時|はちじ}までに{出|だ}してください。シールが{貼|は}っていないものは{持|も}っていきません。\nみどり{市役所|しやくしょ}　{環境課|かんきょうか}",
+   "en": "To all residents: Large rubbish such as furniture and bicycles cannot be put out on normal rubbish days. If you want to put it out, apply by phone or online by the Friday of the week before. After applying, buy a 'large rubbish sticker' at a convenience store, stick it on, and put the item out by 8 a.m. on the set day. Items without a sticker will not be collected. Midori City Hall, Environment Section.",
+   "questions": [
+    {
+     "q": "{古|ふる}いいすを{捨|す}てたい{人|ひと}は、まず{何|なに}をしなければなりませんか。",
+     "options": [
+      "コンビニでシールを{買|か}う",
+      "{電話|でんわ}かインターネットで{申|もう}し{込|こ}む",
+      "{普通|ふつう}のごみの{日|ひ}に{出|だ}す",
+      "{市役所|しやくしょ}へ{持|も}っていく"
+     ],
+     "answer": 1,
+     "why": "The notice says to apply first; the sticker is bought after applying."
+    }
+   ]
+  },
+  {
+   "type": "short",
+   "text": "{田中|たなか}さん\n{先日|せんじつ}は{写真|しゃしん}クラブの{見学|けんがく}に{来|き}てくださって、ありがとうございました。{来月|らいげつ}の{活動|かつどう}は{三日|みっか}の{日曜日|にちようび}で、{川|かわ}のそばで{秋|あき}の{花|はな}を{撮|と}る{予定|よてい}です。カメラを{持|も}っていなくても、スマートフォンで{大丈夫|だいじょうぶ}です。{参加|さんか}される{場合|ばあい}は、{雨|あめ}で{中止|ちゅうし}になったときに{連絡|れんらく}したいので、{前|まえ}の{日|ひ}までに{電話番号|でんわばんごう}を{教|おし}えてください。\n{山本|やまもと}",
+   "en": "Dear Tanaka-san, thank you for visiting the photo club the other day. Next month's activity is on Sunday the 3rd; we plan to photograph autumn flowers by the river. A smartphone is fine if you don't have a camera. If you join, please tell me your phone number by the day before, so I can contact you if it is cancelled because of rain. Yamamoto",
+   "questions": [
+    {
+     "q": "{田中|たなか}さんが{活動|かつどう}に{参加|さんか}したい{場合|ばあい}、どうしなければなりませんか。",
+     "options": [
+      "カメラを{買|か}っておく",
+      "{三日|みっか}に{山本|やまもと}さんに{電話|でんわ}する",
+      "{雨|あめ}の{日|ひ}は{家|いえ}で{連絡|れんらく}を{待|ま}つ",
+      "{二日|ふつか}までに{電話番号|でんわばんごう}を{知|し}らせる"
+     ],
+     "answer": 3,
+     "why": "The activity is on the 3rd, so the phone number must be given by the 2nd."
+    }
+   ]
+  },
+  {
+   "type": "short",
+   "text": "{最近|さいきん}、{父|ちち}と{二人|ふたり}で{話|はな}す{時間|じかん}が{増|ふ}えた。きっかけは、{父|ちち}が{定年|ていねん}で{仕事|しごと}を{辞|や}めてから{始|はじ}めた{料理|りょうり}だ。{以前|いぜん}は{会話|かいわ}といえば「{元気|げんき}か」「うん」くらいだったが、{今|いま}は{父|ちち}が{新|あたら}しく{覚|おぼ}えた{料理|りょうり}を{食|た}べながら、{味|あじ}について{意見|いけん}を{言|い}い{合|あ}う。{料理|りょうり}がおいしいかどうかより、{父|ちち}とこうして{話|はな}せることのほうがうれしいのだと、{最近|さいきん}{気|き}づいた。",
+   "en": "Recently I have been spending more time talking with my father. It started with the cooking he took up after he retired. Before, our conversations were about as long as 'You OK?' 'Yeah.' Now we eat the new dishes he has learned and share opinions about the taste. I recently realised that what makes me happy is not whether the food is good but being able to talk with him like this.",
+   "questions": [
+    {
+     "q": "「わたし」が{一番|いちばん}うれしいと{感|かん}じていることは{何|なん}ですか。",
+     "options": [
+      "{父|ちち}と{話|はな}す{機会|きかい}が{増|ふ}えたこと",
+      "{父|ちち}の{料理|りょうり}がおいしくなったこと",
+      "{父|ちち}が{仕事|しごと}を{辞|や}めて{元気|げんき}になったこと",
+      "{父|ちち}に{料理|りょうり}を{教|おし}えられるようになったこと"
+     ],
+     "answer": 0,
+     "why": "The last sentence says talking with father matters more than the taste."
+    }
+   ]
+  },
+  {
+   "type": "short",
+   "text": "{中央図書館|ちゅうおうとしょかん}からのお{知|し}らせ\n{館内|かんない}の{工事|こうじ}のため、11{月|がつ}1{日|ついたち}から11{月|がつ}15{日|にち}まで、2{階|かい}の{学習室|がくしゅうしつ}は{使|つか}えません。{本|ほん}の{貸|か}し{出|だ}しと{返却|へんきゃく}は、1{階|かい}のカウンターでいつも{通|どお}り{行|おこな}います。なお、この{期間|きかん}は{閉館|へいかん}{時間|じかん}が{午後|ごご}8{時|じ}から{午後|ごご}6{時|じ}に{変|か}わりますので、ご{注意|ちゅうい}ください。",
+   "en": "Notice from the Central Library: Because of building work, the second-floor study room cannot be used from 1 to 15 November. Borrowing and returning books will continue as usual at the first-floor counter. Please note that during this period closing time changes from 8 p.m. to 6 p.m.",
+   "questions": [
+    {
+     "q": "11{月|がつ}10{日|とおか}に{図書館|としょかん}でできることはどれですか。",
+     "options": [
+      "{午後|ごご}7{時|じ}に{本|ほん}を{返|かえ}す",
+      "2{階|かい}の{学習室|がくしゅうしつ}で{勉強|べんきょう}する",
+      "{午後|ごご}5{時|じ}に{本|ほん}を{借|か}りる",
+      "{午後|ごご}7{時|じ}まで{本|ほん}を{読|よ}む"
+     ],
+     "answer": 2,
+     "why": "On 10 November the library closes at 6 p.m. and the study room is closed, but lending continues."
+    }
+   ]
+  },
+  {
+   "type": "mid",
+   "text": "{母|はは}は{去年|きょねん}、{長|なが}く{勤|つと}めた{会社|かいしゃ}を{辞|や}めた。{仕事|しごと}をしていたころは{毎日|まいにち}{忙|いそが}しく、{家|いえ}に{帰|かえ}ると{疲|つか}れた{顔|かお}ばかりしていた。だから{仕事|しごと}を{辞|や}めたら、{家|いえ}でゆっくり{休|やす}むのだろうと{思|おも}っていた。\nところが、{母|はは}は{辞|や}めて{一か月|いっかげつ}もしないうちに、{近所|きんじょ}の{図書館|としょかん}で{子|こ}どもたちに{絵本|えほん}を{読|よ}むボランティアを{始|はじ}めた。{月|つき}に{二回|にかい}、{土曜日|どようび}の{午前中|ごぜんちゅう}だ。{最初|さいしょ}は「{子|こ}どもたちが{静|しず}かに{聞|き}いてくれない」と{困|こま}っていた。そこで{母|はは}は、{読|よ}む{前|まえ}に{家|いえ}で{何度|なんど}も{練習|れんしゅう}するようになった。{夜|よる}、{居間|いま}から{母|はは}の{声|こえ}で{動物|どうぶつ}の{話|はなし}が{聞|き}こえてくると、{子|こ}どものころを{思|おも}い{出|だ}して、{少|すこ}し{照|て}れくさい。\n{先月|せんげつ}、わたしも{一度|いちど}{見|み}に{行|い}った。{二十人|にじゅうにん}ほどの{子|こ}どもたちが{母|はは}の{前|まえ}に{座|すわ}って、{目|め}を{大|おお}きく{開|ひら}いて{話|はなし}を{聞|き}いていた。{家|いえ}で{見|み}る{母|はは}とは{違|ちが}って、{生|い}き{生|い}きとした{顔|かお}だった。{仕事|しごと}を{辞|や}めて{母|はは}が{手|て}に{入|い}れたのは、{休|やす}む{時間|じかん}ではなく、{誰|だれ}かに{喜|よろこ}んでもらう{時間|じかん}だったのかもしれない。",
+   "en": "Last year my mother quit the company she had worked at for a long time. While working she was busy every day and always looked tired when she came home. So I thought that after quitting she would rest at home. But less than a month after quitting, she started volunteering at the local library, reading picture books to children, twice a month on Saturday mornings. At first she was troubled because the children would not listen quietly. So she began practising many times at home before reading. When I hear her voice telling animal stories from the living room at night, I remember my childhood and feel a little embarrassed. Last month I went to watch once. About twenty children sat in front of her, listening with wide eyes. Unlike at home, her face was full of life. Perhaps what she gained by quitting was not time to rest, but time to make someone happy.",
+   "questions": [
+    {
+     "q": "「わたし」は、{母|はは}が{仕事|しごと}を{辞|や}めたあと、どうすると{思|おも}っていたか。",
+     "options": [
+      "すぐに{新|あたら}しい{仕事|しごと}を{探|さが}す",
+      "ボランティアを{始|はじ}める",
+      "{家|いえ}で{休|やす}んで{過|す}ごす",
+      "{子|こ}どもたちに{絵本|えほん}を{読|よ}む"
+     ],
+     "answer": 2,
+     "why": "The writer thought she would rest at home."
+    },
+    {
+     "q": "{母|はは}が{家|いえ}で{何度|なんど}も{練習|れんしゅう}するようになったのはなぜか。",
+     "options": [
+      "{子|こ}どもたちがあまり{話|はなし}を{聞|き}いてくれなかったから",
+      "{図書館|としょかん}の{人|ひと}に{練習|れんしゅう}するように{言|い}われたから",
+      "{家族|かぞく}に{読|よ}み{方|かた}が{下手|へた}だと{言|い}われたから",
+      "{動物|どうぶつ}の{話|はなし}が{難|むずか}しかったから"
+     ],
+     "answer": 0,
+     "why": "She practised because the children did not listen quietly."
+    },
+    {
+     "q": "「わたし」は{母|はは}についてどう{感|かん}じているか。",
+     "options": [
+      "{仕事|しごと}を{辞|や}めて{疲|つか}れが{取|と}れたようだ",
+      "{子|こ}どものころの{自分|じぶん}を{思|おも}い{出|だ}しているようだ",
+      "ボランティアを{辞|や}めたほうがいい",
+      "{人|ひと}の{役|やく}に{立|た}つことに{喜|よろこ}びを{見|み}つけたようだ"
+     ],
+     "answer": 3,
+     "why": "The last sentence says she found time to make others happy."
+    }
+   ]
+  },
+  {
+   "type": "mid",
+   "text": "{三年前|さんねんまえ}、{仕事|しごと}で{今|いま}の{町|まち}に{引|ひ}っ{越|こ}してきた。{知|し}り{合|あ}いが{一人|ひとり}もいなかったので、{休|やす}みの{日|ひ}は{家|いえ}でテレビを{見|み}るだけだった。\nそんなとき、{市|し}の{広報誌|こうほうし}で、{公民館|こうみんかん}の{合唱|がっしょう}サークルがメンバーを{募集|ぼしゅう}しているのを{見|み}つけた。{歌|うた}は{得意|とくい}ではないが、「{経験|けいけん}がなくても{大丈夫|だいじょうぶ}です」と{書|か}いてあったので、{思|おも}い{切|き}って{行|い}ってみた。\nメンバーは{二十代|にじゅうだい}から{七十代|ななじゅうだい}までいて、{仕事|しごと}も{生活|せいかつ}もばらばらだった。{練習|れんしゅう}のあとは、みんなでお{茶|ちゃ}を{飲|の}みながら{話|はな}す。{年上|としうえ}のメンバーからは、{安|やす}くておいしい{店|みせ}やいい{病院|びょういん}など、{町|まち}のことをたくさん{教|おし}えてもらった。\n{今|いま}では、{歌|うた}よりもその{時間|じかん}のほうが{楽|たの}しみになっている。{趣味|しゅみ}は{一人|ひとり}でも{楽|たの}しめるが、{誰|だれ}かと{一緒|いっしょ}にすることで、{思|おも}ってもいなかったつながりが{生|う}まれるのだと{思|おも}う。",
+   "en": "Three years ago I moved to this town for work. I knew no one, so on my days off I just watched TV at home. Then, in the city newsletter, I saw that the community centre choir was looking for members. I'm not good at singing, but it said 'No experience needed', so I plucked up courage and went. The members ranged from their twenties to their seventies, all with different jobs and lives. After practice we drink tea and chat. The older members taught me lots about the town, such as cheap, tasty restaurants and good clinics. Now I look forward to that time more than the singing. You can enjoy a hobby alone, but doing it with others creates connections you never expected.",
+   "questions": [
+    {
+     "q": "「わたし」が{合唱|がっしょう}サークルに{行|い}ってみたのはなぜか。",
+     "options": [
+      "{歌|うた}が{得意|とくい}だったから",
+      "{経験|けいけん}がない{人|ひと}でも{入|はい}れると{書|か}いてあったから",
+      "{友人|ゆうじん}に{誘|さそ}われたから",
+      "{仕事|しごと}で{必要|ひつよう}だったから"
+     ],
+     "answer": 1,
+     "why": "The newsletter said no experience was needed."
+    },
+    {
+     "q": "{年上|としうえ}のメンバーから{何|なに}を{教|おし}えてもらったか。",
+     "options": [
+      "{上手|じょうず}な{歌|うた}い{方|かた}",
+      "{仕事|しごと}の{探|さが}し{方|かた}",
+      "{公民館|こうみんかん}の{使|つか}い{方|かた}",
+      "{町|まち}での{生活|せいかつ}に{役立|やくだ}つこと"
+     ],
+     "answer": 3,
+     "why": "They told the writer about shops and clinics in the town."
+    },
+    {
+     "q": "この{文章|ぶんしょう}で「わたし」が{一番|いちばん}{言|い}いたいことは{何|なん}か。",
+     "options": [
+      "{趣味|しゅみ}を{人|ひと}と{一緒|いっしょ}にすると、{新|あたら}しいつながりができる",
+      "{引|ひ}っ{越|こ}したら、すぐに{趣味|しゅみ}を{始|はじ}めたほうがいい",
+      "{歌|うた}は{大勢|おおぜい}で{練習|れんしゅう}したほうが{上手|じょうず}になる",
+      "{公民館|こうみんかん}のサークルには{年上|としうえ}の{人|ひと}が{多|おお}い"
+     ],
+     "answer": 0,
+     "why": "The last sentence states the main point about connections."
+    }
+   ]
+  },
+  {
+   "type": "long",
+   "text": "{去年|きょねん}の{春|はる}、{長男|ちょうなん}が{生|う}まれたとき、わたしは{会社|かいしゃ}で{三か月|さんかげつ}の{育児休業|いくじきゅうぎょう}を{取|と}った。{会社|かいしゃ}の{男性|だんせい}で{取|と}ったのはわたしが{二人目|ふたりめ}だった。{上司|じょうし}は「{仕事|しごと}のことは{心配|しんぱい}しなくていい」と{言|い}ってくれたが、{同僚|どうりょう}に{迷惑|めいわく}をかけるのではないかと、{正直|しょうじき}に{言|い}えば{不安|ふあん}だった。\n{休|やす}みに{入|はい}って{一週間|いっしゅうかん}で、その{不安|ふあん}はすっかり{忘|わす}れてしまった。{仕事|しごと}より{大変|たいへん}なことが{目|め}の{前|まえ}にあったからだ。{赤|あか}ちゃんは{二|に}、{三時間|さんじかん}ごとに{泣|な}いて{目|め}を{覚|さ}ます。ミルクを{作|つく}り、おむつを{替|か}え、やっと{寝|ね}たと{思|おも}ったらまた{泣|な}く。{妻|つま}が{毎日|まいにち}こんな{生活|せいかつ}をしていたのかと{思|おも}うと、{今|いま}まで「{手伝|てつだ}う」という{気持|きも}ちでしかなかった{自分|じぶん}が{恥|は}ずかしくなった。\n{助|たす}けになったのは、{市|し}の{子育|こそだ}て{支援|しえん}センターだった。そこには{同|おな}じくらいの{子|こ}どもを{持|も}つ{親|おや}が{集|あつ}まり、{保健師|ほけんし}さんに{相談|そうだん}することもできる。{初|はじ}めて{行|い}ったとき、{父親|ちちおや}はわたし{一人|ひとり}で、{少|すこ}し{居心地|いごこち}が{悪|わる}かった。しかし、{母親|ははおや}たちは「お{父|とう}さんが{来|く}るなんて{珍|めずら}しいですね」と{気軽|きがる}に{話|はな}しかけてくれた。{夜泣|よな}きの{対策|たいさく}や{離乳食|りにゅうしょく}の{作|つく}り{方|かた}など、{本|ほん}には{書|か}いていない{知恵|ちえ}をたくさん{教|おし}えてもらった。\n{三か月|さんかげつ}はあっという{間|ま}だった。{仕事|しごと}に{戻|もど}った{今|いま}も、{夕食|ゆうしょく}の{準備|じゅんび}と{息子|むすこ}のお{風呂|ふろ}はわたしの{担当|たんとう}だ。{休業|きゅうぎょう}を{取|と}る{前|まえ}は、{家事|かじ}や{育児|いくじ}は「{時間|じかん}があるほうがやるもの」だと{考|かんが}えていた。{今|いま}は、{家族|かぞく}の{一人|ひとり}として{自分|じぶん}がするのは{当然|とうぜん}のことだと{思|おも}っている。{後輩|こうはい}の{男性|だんせい}{社員|しゃいん}に{相談|そうだん}されたら、わたしは{迷|まよ}わず「{取|と}ったほうがいい」と{言|い}うつもりだ。",
+   "en": "Last spring, when my first son was born, I took three months of childcare leave. I was only the second man at my company to do so. My boss told me not to worry about work, but honestly I was anxious that I would cause trouble for my colleagues. Within a week of starting my leave I had completely forgotten that worry, because something harder than work was in front of me. The baby woke up crying every two or three hours. I made milk, changed nappies, and just when I thought he was asleep he cried again. Realising my wife had lived like this every day, I felt ashamed that until then I had only thought of it as 'helping'. What helped was the city's childcare support centre. Parents with children of similar ages gather there, and you can consult a public health nurse. The first time I went, I was the only father and felt a bit uncomfortable. But the mothers chatted to me easily, saying it was unusual for a dad to come. They taught me lots of practical knowledge not in books, such as how to deal with night crying and how to make baby food. The three months flew by. Even now that I am back at work, making dinner and bathing my son are my jobs. Before the leave I thought housework and childcare were 'for whoever has time'. Now I think it is natural for me to do them as a member of the family. If a younger male colleague asks me, I will tell him without hesitation to take the leave.",
+   "questions": [
+    {
+     "q": "{休|やす}みに{入|はい}る{前|まえ}、「わたし」が{不安|ふあん}だったのはどんなことか。",
+     "options": [
+      "{赤|あか}ちゃんの{世話|せわ}がうまくできるかどうか",
+      "{上司|じょうし}に{反対|はんたい}されるかどうか",
+      "{休|やす}みの{間|あいだ}の{給料|きゅうりょう}がどうなるか",
+      "{会社|かいしゃ}の{人|ひと}に{負担|ふたん}をかけるかどうか"
+     ],
+     "answer": 3,
+     "why": "He worried about causing trouble for his colleagues."
+    },
+    {
+     "q": "「{自分|じぶん}が{恥|は}ずかしくなった」とあるが、それはなぜか。",
+     "options": [
+      "{赤|あか}ちゃんが{泣|な}いても{何|なに}もできなかったから",
+      "{育児|いくじ}を{自分|じぶん}のこととして{考|かんが}えていなかったから",
+      "{妻|つま}より{家事|かじ}が{下手|へた}だったから",
+      "{仕事|しごと}を{休|やす}んで{同僚|どうりょう}に{迷惑|めいわく}をかけたから"
+     ],
+     "answer": 1,
+     "why": "He had only seen childcare as 'helping' his wife, not his own job."
+    },
+    {
+     "q": "{子育|こそだ}て{支援|しえん}センターについて、{文章|ぶんしょう}の{内容|ないよう}と{合|あ}っているものはどれか。",
+     "options": [
+      "{父親|ちちおや}がたくさん{来|き}ていた",
+      "{保健師|ほけんし}さんが{本|ほん}を{貸|か}してくれた",
+      "ほかの{親|おや}から{役|やく}に{立|た}つことを{学|まな}べた",
+      "{最初|さいしょ}から{居心地|いごこち}がよかった"
+     ],
+     "answer": 2,
+     "why": "The mothers taught him useful tips not found in books."
+    },
+    {
+     "q": "「わたし」の{今|いま}の{考|かんが}えに{一番|いちばん}{近|ちか}いものはどれか。",
+     "options": [
+      "{家事|かじ}や{育児|いくじ}は{家族|かぞく}として{自分|じぶん}もするべきことだ",
+      "{家事|かじ}や{育児|いくじ}は{時間|じかん}がある{人|ひと}がすればいい",
+      "{育児休業|いくじきゅうぎょう}は{短|みじか}いほうがいい",
+      "{男性|だんせい}は{仕事|しごと}を{優先|ゆうせん}したほうがいい"
+     ],
+     "answer": 0,
+     "why": "He now thinks it is natural for him to do it as a family member."
+    }
+   ]
+  },
+  {
+   "type": "info",
+   "text": "みどり{市民|しみん}センター　{秋|あき}の{教室|きょうしつ}（10{月|がつ}〜12{月|がつ}）\n・{書道|しょどう}　{毎週|まいしゅう}{火曜日|かようび}　10:00〜12:00　{全|ぜん}10{回|かい}　3,000{円|えん}　{定員|ていいん}15{名|めい}\n・ヨガ　{毎週|まいしゅう}{水曜日|すいようび}　19:00〜20:30　{全|ぜん}10{回|かい}　4,000{円|えん}　{定員|ていいん}20{名|めい}\n・{料理|りょうり}　{第|だい}1・{第|だい}3{土曜日|どようび}　10:00〜13:00　{全|ぜん}6{回|かい}　6,000{円|えん}（{材料費|ざいりょうひ}{込|こ}み）　{定員|ていいん}12{名|めい}\n・{親子|おやこ}{工作|こうさく}　{毎月|まいつき}{第|だい}2{日曜日|にちようび}　14:00〜15:30　{全|ぜん}3{回|かい}　{一組|ひとくみ}1,500{円|えん}　{定員|ていいん}10{組|くみ}　※{小学生|しょうがくせい}とその{保護者|ほごしゃ}\n・{写真|しゃしん}　{毎週|まいしゅう}{土曜日|どようび}　14:00〜16:00　{全|ぜん}10{回|かい}　5,000{円|えん}　{定員|ていいん}15{名|めい}　※カメラは{各自|かくじ}でご{用意|ようい}ください\n【{申|もう}し{込|こ}み】9{月|がつ}20{日|はつか}までに、センターの{窓口|まどぐち}で{申込書|もうしこみしょ}を{出|だ}してください。{電話|でんわ}での{申|もう}し{込|こ}みはできません。{定員|ていいん}を{超|こ}えた{場合|ばあい}は{抽選|ちゅうせん}になります。{料金|りょうきん}は{初回|しょかい}の{授業|じゅぎょう}の{日|ひ}にお{払|はら}いください。",
+   "en": "Midori Community Centre autumn classes (Oct-Dec). Calligraphy: Tuesdays 10-12, 10 sessions, 3,000 yen, 15 places. Yoga: Wednesdays 19:00-20:30, 10 sessions, 4,000 yen, 20 places. Cooking: 1st and 3rd Saturdays 10-13, 6 sessions, 6,000 yen including ingredients, 12 places. Parent-and-child crafts: 2nd Sunday of each month 14:00-15:30, 3 sessions, 1,500 yen per pair, 10 pairs, for primary school children and a parent. Photography: Saturdays 14-16, 10 sessions, 5,000 yen, 15 places, bring your own camera. Applications: hand in the form at the centre counter by 20 September. No phone applications. If there are too many applicants, there will be a lottery. Pay on the day of the first class.",
+   "questions": [
+    {
+     "q": "リンさんは{平日|へいじつ}は{午後|ごご}6{時|じ}まで{仕事|しごと}があり、{日曜日|にちようび}は{毎週|まいしゅう}{用事|ようじ}があります。{料金|りょうきん}が5,000{円|えん}より{安|やす}い{教室|きょうしつ}に{入|はい}りたいです。リンさんが{参加|さんか}できる{教室|きょうしつ}はどれですか。",
+     "options": [
+      "{書道|しょどう}",
+      "ヨガ",
+      "{料理|りょうり}",
+      "{写真|しゃしん}"
+     ],
+     "answer": 1,
+     "why": "Calligraphy is during work hours, cooking and photography are 5,000 yen or more; only yoga fits."
+    },
+    {
+     "q": "{小学|しょうがく}3{年生|ねんせい}の{娘|むすめ}と{親子|おやこ}{工作|こうさく}に{参加|さんか}したい{人|ひと}は、どうしなければなりませんか。",
+     "options": [
+      "9{月|がつ}20{日|はつか}までに{電話|でんわ}で{申|もう}し{込|こ}む",
+      "{申|もう}し{込|こ}みのときに1,500{円|えん}を{払|はら}う",
+      "{申|もう}し{込|こ}みのときに3{回分|かいぶん}の4,500{円|えん}を{払|はら}う",
+      "9{月|がつ}20{日|はつか}までに{窓口|まどぐち}で{申込書|もうしこみしょ}を{出|だ}す"
+     ],
+     "answer": 3,
+     "why": "Applications are by form at the counter by 20 Sept; payment is on the first class day."
+    }
+   ]
+  }
+ ],
+ "listening": [
+  {
+   "type": "task",
+   "setup": "{市役所|しやくしょ}で{男|おとこ}の{人|ひと}と{係|かかり}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はこのあとまず{何|なに}をしますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "すみません、{引|ひ}っ{越|こ}してきたので、{住所|じゅうしょ}の{変更|へんこう}をしたいんですが。"
+    },
+    {
+     "s": "F",
+     "jp": "はい、では、こちらの{用紙|ようし}にご{記入|きにゅう}ください。それから、{本人|ほんにん}{確認|かくにん}のできるものはお{持|も}ちですか。"
+    },
+    {
+     "s": "M",
+     "jp": "{運転免許証|うんてんめんきょしょう}でいいですか。"
+    },
+    {
+     "s": "F",
+     "jp": "はい、{大丈夫|だいじょうぶ}です。{窓口|まどぐち}で{呼|よ}ばれたときに{見|み}せてください。あ、ご{家族|かぞく}の{分|ぶん}も{一緒|いっしょ}に{手続|てつづ}きされますか。"
+    },
+    {
+     "s": "M",
+     "jp": "ええ、{妻|つま}と{娘|むすめ}の{分|ぶん}も。"
+    },
+    {
+     "s": "F",
+     "jp": "でしたら、{用紙|ようし}に{全員|ぜんいん}のお{名前|なまえ}を{書|か}いてください。{書|か}き{終|お}わったら、{番号札|ばんごうふだ}を{取|と}ってお{待|ま}ちください。"
+    },
+    {
+     "s": "M",
+     "jp": "わかりました。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}はこのあとまず{何|なに}をしますか。",
+   "options": [
+    "{番号札|ばんごうふだ}を{取|と}る",
+    "{運転免許証|うんてんめんきょしょう}を{見|み}せる",
+    "{用紙|ようし}に{家族|かぞく}の{名前|なまえ}も{書|か}く",
+    "{妻|つま}に{電話|でんわ}する"
+   ],
+   "answer": 2,
+   "en": "At city hall. M: I've moved and want to change my address. F: Please fill in this form. Do you have ID? M: Is a driving licence OK? F: Yes, show it when you're called to the counter. Will you do your family too? M: Yes, my wife and daughter. F: Then write everyone's names on the form. When you've finished, take a number and wait.",
+   "why": "He must fill in the form with all names first; the number and the licence come later."
+  },
+  {
+   "type": "task",
+   "setup": "{家|いえ}で{母親|ははおや}と{息子|むすこ}が{話|はな}しています。{息子|むすこ}はこのあとすぐ{何|なに}をしますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "ゆうき、おばあちゃんの{誕生日|たんじょうび}のプレゼント、もう{決|き}めた？"
+    },
+    {
+     "s": "M",
+     "jp": "うん、{手袋|てぶくろ}にしようと{思|おも}って。でもまだ{買|か}ってない。"
+    },
+    {
+     "s": "F",
+     "jp": "{誕生日|たんじょうび}、{今度|こんど}の{日曜日|にちようび}よ。{送|おく}るなら、{明日|あした}には{出|だ}さないと{間|ま}に{合|あ}わないわよ。"
+    },
+    {
+     "s": "M",
+     "jp": "え、そうなの？じゃあ、{今|いま}から{駅前|えきまえ}のデパートに{行|い}ってくる。"
+    },
+    {
+     "s": "F",
+     "jp": "カードも{一緒|いっしょ}に{入|い}れたら？"
+    },
+    {
+     "s": "M",
+     "jp": "うん、それは{帰|かえ}ってきてから{書|か}くよ。"
+    }
+   ],
+   "question": "{息子|むすこ}はこのあとすぐ{何|なに}をしますか。",
+   "options": [
+    "デパートへ{手袋|てぶくろ}を{買|か}いに{行|い}く",
+    "カードを{書|か}く",
+    "{郵便局|ゆうびんきょく}で{荷物|にもつ}を{送|おく}る",
+    "おばあちゃんに{電話|でんわ}する"
+   ],
+   "answer": 0,
+   "en": "F: Yuki, have you decided on Grandma's birthday present? M: Gloves, but I haven't bought them. F: Her birthday is this Sunday. If you're posting it, you must send it tomorrow. M: Really? Then I'll go to the department store by the station now. F: Why not put a card in too? M: I'll write it when I get back.",
+   "why": "He goes to buy the gloves now and writes the card later."
+  },
+  {
+   "type": "task",
+   "setup": "{図書館|としょかん}で{女|おんな}の{人|ひと}と{係|かかり}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}は{次|つぎ}に{図書館|としょかん}に{来|く}るとき、{何|なに}をしなければなりませんか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "すみません、この{本|ほん}を{借|か}りたいんですが、カードを{家|いえ}に{忘|わす}れてしまって。"
+    },
+    {
+     "s": "M",
+     "jp": "そうですか。カードがないと{貸|か}し{出|だ}しはできないんです。でも、{予約|よやく}をしておけば、{一週間|いっしゅうかん}は{取|と}っておけますよ。"
+    },
+    {
+     "s": "F",
+     "jp": "あ、じゃあお{願|ねが}いします。"
+    },
+    {
+     "s": "M",
+     "jp": "では、この{紙|かみ}にお{名前|なまえ}と{電話番号|でんわばんごう}を{書|か}いてください。"
+    },
+    {
+     "s": "F",
+     "jp": "はい。……{書|か}きました。"
+    },
+    {
+     "s": "M",
+     "jp": "ありがとうございます。では、{次|つぎ}にいらっしゃるときは、{必|かなら}ずカードを{持|も}ってきてくださいね。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}は{次|つぎ}に{図書館|としょかん}に{来|く}るとき、{何|なに}をしなければなりませんか。",
+   "options": [
+    "{新|あたら}しいカードを{作|つく}る",
+    "{紙|かみ}に{名前|なまえ}を{書|か}く",
+    "{本|ほん}を{予約|よやく}する",
+    "カードを{持|も}ってくる"
+   ],
+   "answer": 3,
+   "en": "At the library. F: I want to borrow this book but left my card at home. M: We can't lend without a card, but if you reserve it we can keep it for a week. F: Please do. M: Write your name and phone number on this paper. F: Done. M: Thank you. Next time, please be sure to bring your card.",
+   "why": "The name and reservation are done today; next time she must bring her card."
+  },
+  {
+   "type": "task",
+   "setup": "{大学|だいがく}で{女|おんな}の{学生|がくせい}と{男|おとこ}の{学生|がくせい}が{話|はな}しています。{男|おとこ}の{学生|がくせい}は{何|なに}を{準備|じゅんび}しますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{来週|らいしゅう}の{山登|やまのぼ}りサークルのハイキング、{田中|たなか}くんも{来|く}るよね。"
+    },
+    {
+     "s": "M",
+     "jp": "うん。{何|なに}を{持|も}っていけばいい？{靴|くつ}は{運動靴|うんどうぐつ}でいい？"
+    },
+    {
+     "s": "F",
+     "jp": "{今回|こんかい}は{簡単|かんたん}なコースだから、{運動靴|うんどうぐつ}で{大丈夫|だいじょうぶ}。お{弁当|べんとう}はみんなの{分|ぶん}をわたしが{注文|ちゅうもん}しておくね。"
+    },
+    {
+     "s": "M",
+     "jp": "ありがとう。{飲|の}み{物|もの}は？"
+    },
+    {
+     "s": "F",
+     "jp": "{山|やま}の{上|うえ}には{自動販売機|じどうはんばいき}がないから、それは{自分|じぶん}で{持|も}ってきて。あと、{雨|あめ}が{降|ふ}るかもしれないから{雨具|あまぐ}もね。"
+    },
+    {
+     "s": "M",
+     "jp": "{雨具|あまぐ}か。{傘|かさ}なら{部室|ぶしつ}にたくさんあるよね。"
+    },
+    {
+     "s": "F",
+     "jp": "{山|やま}の{道|みち}は{狭|せま}いから、{傘|かさ}は{危|あぶ}ないよ。レインコートにして。"
+    },
+    {
+     "s": "M",
+     "jp": "わかった。"
+    }
+   ],
+   "question": "{男|おとこ}の{学生|がくせい}は{何|なに}を{準備|じゅんび}しますか。",
+   "options": [
+    "お{弁当|べんとう}と{飲|の}み{物|もの}",
+    "{飲|の}み{物|もの}とレインコート",
+    "{登山靴|とざんぐつ}とレインコート",
+    "{飲|の}み{物|もの}と{傘|かさ}"
+   ],
+   "answer": 1,
+   "en": "F: You're coming on the hiking club trip next week, right? M: Yes. What should I bring? Are trainers OK? F: It's an easy course, so trainers are fine. I'll order lunch boxes for everyone. M: Thanks. Drinks? F: There are no vending machines up the mountain, so bring your own. And rain gear, as it may rain. M: There are lots of umbrellas in the club room. F: The mountain paths are narrow, so umbrellas are dangerous. Bring a raincoat. M: OK.",
+   "why": "She orders the lunch; he brings a drink and a raincoat, not an umbrella."
+  },
+  {
+   "type": "task",
+   "setup": "{郵便局|ゆうびんきょく}で{女|おんな}の{人|ひと}と{局員|きょくいん}が{話|はな}しています。{女|おんな}の{人|ひと}は{全部|ぜんぶ}でいくら{払|はら}いますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "この{荷物|にもつ}を{大阪|おおさか}まで{送|おく}りたいんですが。"
+    },
+    {
+     "s": "M",
+     "jp": "はい。{重|おも}さを{量|はか}りますね。……800{円|えん}です。{明日|あした}の{午前中|ごぜんちゅう}に{着|つ}きます。"
+    },
+    {
+     "s": "F",
+     "jp": "{午前中|ごぜんちゅう}は{留守|るす}なので、{夕方|ゆうがた}に{届|とど}けてもらえますか。"
+    },
+    {
+     "s": "M",
+     "jp": "{時間|じかん}の{指定|してい}は{無料|むりょう}でできますよ。"
+    },
+    {
+     "s": "F",
+     "jp": "よかった。それと、この{封筒|ふうとう}は{速達|そくたつ}でお{願|ねが}いします。"
+    },
+    {
+     "s": "M",
+     "jp": "{封筒|ふうとう}は{普通|ふつう}なら110{円|えん}で、{速達|そくたつ}だとそれにプラス300{円|えん}になります。"
+    },
+    {
+     "s": "F",
+     "jp": "じゃあ、それでお{願|ねが}いします。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}は{全部|ぜんぶ}でいくら{払|はら}いますか。",
+   "options": [
+    "910{円|えん}",
+    "1,100{円|えん}",
+    "1,210{円|えん}",
+    "1,510{円|えん}"
+   ],
+   "answer": 2,
+   "en": "At the post office. F: I'd like to send this parcel to Osaka. M: Let me weigh it... 800 yen. It arrives tomorrow morning. F: I'm out in the morning; can it come in the evening? M: Choosing a time is free. F: Good. And this envelope by express, please. M: The envelope is 110 yen normally, plus 300 yen for express. F: That's fine.",
+   "why": "800 + 110 + 300 = 1,210 yen; the time choice is free."
+  },
+  {
+   "type": "task",
+   "setup": "{家|いえ}で{夫|おっと}と{妻|つま}が{話|はな}しています。{夫|おっと}は{土曜日|どようび}の{朝|あさ}、まず{何|なに}をしますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{土曜日|どようび}、お{義母|かあ}さんたちが{来|く}るでしょう。{駅|えき}まで{迎|むか}えに{行|い}ってくれる？"
+    },
+    {
+     "s": "M",
+     "jp": "いいよ。{何時|なんじ}の{電車|でんしゃ}？"
+    },
+    {
+     "s": "F",
+     "jp": "11{時|じ}{着|ちゃく}。その{前|まえ}に、{子|こ}どもたちをサッカーの{練習|れんしゅう}に{送|おく}ってもらえる？9{時|じ}からなの。"
+    },
+    {
+     "s": "M",
+     "jp": "わかった。じゃあ、{送|おく}ったあと、{帰|かえ}りにケーキでも{予約|よやく}してこようか。"
+    },
+    {
+     "s": "F",
+     "jp": "ケーキはもう{予約|よやく}してあるから、{迎|むか}えに{行|い}くときに{受|う}け{取|と}ってきて。"
+    },
+    {
+     "s": "M",
+     "jp": "{了解|りょうかい}。"
+    }
+   ],
+   "question": "{夫|おっと}は{土曜日|どようび}の{朝|あさ}、まず{何|なに}をしますか。",
+   "options": [
+    "{子|こ}どもたちを{練習|れんしゅう}に{送|おく}る",
+    "{駅|えき}へ{母親|ははおや}を{迎|むか}えに{行|い}く",
+    "ケーキを{予約|よやく}する",
+    "ケーキを{受|う}け{取|と}る"
+   ],
+   "answer": 0,
+   "en": "F: Your mother and the others are coming on Saturday. Can you pick them up at the station? M: Sure. What time? F: They arrive at 11. Before that, can you take the kids to football practice? It starts at 9. M: OK. Shall I order a cake on the way back? F: I've already ordered it, so pick it up when you go to the station. M: Got it.",
+   "why": "Practice at 9 comes before the 11 o'clock pick-up and the cake."
+  },
+  {
+   "type": "point",
+   "setup": "{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}はどうしてピアノを{習|なら}い{始|はじ}めましたか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{最近|さいきん}ピアノを{習|なら}ってるんだって？"
+    },
+    {
+     "s": "F",
+     "jp": "うん、{先月|せんげつ}から。{子|こ}どものころ{少|すこ}しやってたんだけど、すぐやめちゃって。"
+    },
+    {
+     "s": "M",
+     "jp": "{娘|むすめ}さんと{一緒|いっしょ}に{弾|ひ}きたいとか？"
+    },
+    {
+     "s": "F",
+     "jp": "ううん、{娘|むすめ}はもう{大学生|だいがくせい}で{家|いえ}にいないし。{実|じつ}は、{父|ちち}が{入院|にゅういん}してるの。{父|ちち}が{好|す}きだった{曲|きょく}を{弾|ひ}いて{聞|き}かせてあげたいなと{思|おも}って。"
+    },
+    {
+     "s": "M",
+     "jp": "そうなんだ。きっと{喜|よろこ}ぶよ。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}はどうしてピアノを{習|なら}い{始|はじ}めましたか。",
+   "options": [
+    "{子|こ}どものころの{夢|ゆめ}だったから",
+    "{父親|ちちおや}に{曲|きょく}を{聞|き}かせたいから",
+    "{娘|むすめ}と{一緒|いっしょ}に{弾|ひ}きたいから",
+    "{病院|びょういん}で{弾|ひ}く{仕事|しごと}をしたいから"
+   ],
+   "answer": 1,
+   "en": "M: I hear you're learning the piano. F: Yes, since last month. I did a little as a child but quit. M: Do you want to play with your daughter? F: No, she's at university and doesn't live at home. Actually my father is in hospital. I want to play him a song he used to love. M: I see. I'm sure he'll be happy.",
+   "why": "She wants to play her father's favourite song for him."
+  },
+  {
+   "type": "point",
+   "setup": "{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}は、{新|あたら}しい{図書館|としょかん}の{何|なに}が{一番|いちばん}いいと{言|い}っていますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{駅前|えきまえ}にできた{新|あたら}しい{図書館|としょかん}、もう{行|い}った？"
+    },
+    {
+     "s": "M",
+     "jp": "うん、{先週|せんしゅう}。{建物|たてもの}がきれいで、{本|ほん}の{数|かず}も{前|まえ}よりずっと{多|おお}いね。"
+    },
+    {
+     "s": "F",
+     "jp": "カフェもあるんでしょう？"
+    },
+    {
+     "s": "M",
+     "jp": "うん、でもいつも{混|こ}んでて{入|はい}れなかった。それより、{夜|よる}{十時|じゅうじ}まで{開|あ}いてるのが{何|なに}よりありがたいよ。{仕事|しごと}の{帰|かえ}りに{寄|よ}れるからね。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}は、{新|あたら}しい{図書館|としょかん}の{何|なに}が{一番|いちばん}いいと{言|い}っていますか。",
+   "options": [
+    "{建物|たてもの}がきれいなこと",
+    "{本|ほん}が{多|おお}いこと",
+    "カフェがあること",
+    "{夜|よる}{遅|おそ}くまで{開|あ}いていること"
+   ],
+   "answer": 3,
+   "en": "F: Have you been to the new library by the station? M: Yes, last week. The building is nice and there are many more books. F: There's a café too, right? M: Yes, but it was always too crowded. More than anything, I'm grateful it's open until 10 p.m., so I can drop in after work.",
+   "why": "何よりありがたい marks the late opening hours as the best point."
+  },
+  {
+   "type": "point",
+   "setup": "{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}が{一番|いちばん}{怒|おこ}っているのはどうしてですか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{元気|げんき}ないね。どうしたの？"
+    },
+    {
+     "s": "M",
+     "jp": "{昨日|きのう}、{弟|おとうと}とけんかしちゃって。"
+    },
+    {
+     "s": "F",
+     "jp": "{珍|めずら}しいね。{何|なに}があったの？"
+    },
+    {
+     "s": "M",
+     "jp": "{弟|おとうと}がぼくのカメラを{勝手|かって}に{持|も}っていったんだ。それは{別|べつ}にいいんだけど、{返|かえ}ってきたらレンズに{小|ちい}さい{傷|きず}がついてて。しかも{何|なに}も{言|い}わないで{棚|たな}に{戻|もど}してあったんだよ。"
+    },
+    {
+     "s": "F",
+     "jp": "{黙|だま}ってたのが{嫌|いや}だったんだね。"
+    },
+    {
+     "s": "M",
+     "jp": "そう。{言|い}ってくれれば{怒|おこ}らなかったのに。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}が{一番|いちばん}{怒|おこ}っているのはどうしてですか。",
+   "options": [
+    "{弟|おとうと}が{傷|きず}のことを{黙|だま}っていたから",
+    "{弟|おとうと}が{勝手|かって}にカメラを{使|つか}ったから",
+    "カメラが{壊|こわ}れて{使|つか}えなくなったから",
+    "{弟|おとうと}がカメラを{返|かえ}さなかったから"
+   ],
+   "answer": 0,
+   "en": "F: You look down. What's wrong? M: I had a fight with my younger brother yesterday. F: That's unusual. What happened? M: He took my camera without asking. I don't really mind that, but when it came back there was a small scratch on the lens. And he'd put it back on the shelf without saying anything. F: So it was his keeping quiet that upset you. M: Yes. If he'd told me, I wouldn't have been angry.",
+   "why": "Taking the camera is fine with him; he is angry that his brother said nothing."
+  },
+  {
+   "type": "point",
+   "setup": "{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}は{何曜日|なんようび}に{健康診断|けんこうしんだん}を{受|う}けますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{市|し}の{健康診断|けんこうしんだん}、もう{申|もう}し{込|こ}んだ？"
+    },
+    {
+     "s": "F",
+     "jp": "うん。{本当|ほんとう}は{来週|らいしゅう}の{月曜日|げつようび}がよかったんだけど、もういっぱいで。"
+    },
+    {
+     "s": "M",
+     "jp": "じゃあ、{火曜日|かようび}？"
+    },
+    {
+     "s": "F",
+     "jp": "{火曜日|かようび}は{仕事|しごと}が{休|やす}めないから、{水曜日|すいようび}にしたの。{朝|あさ}ご{飯|はん}を{食|た}べないで{行|い}かなきゃいけないのがつらいけど。"
+    },
+    {
+     "s": "M",
+     "jp": "ぼくは{木曜日|もくようび}だよ。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}は{何曜日|なんようび}に{健康診断|けんこうしんだん}を{受|う}けますか。",
+   "options": [
+    "{月曜日|げつようび}",
+    "{火曜日|かようび}",
+    "{水曜日|すいようび}",
+    "{木曜日|もくようび}"
+   ],
+   "answer": 2,
+   "en": "M: Have you applied for the city health check? F: Yes. I wanted next Monday, but it was full. M: Tuesday, then? F: I can't take Tuesday off work, so I chose Wednesday. It's hard having to go without breakfast. M: Mine is Thursday.",
+   "why": "Monday was full and Tuesday she works, so Wednesday."
+  },
+  {
+   "type": "point",
+   "setup": "{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}は{週末|しゅうまつ}{何|なに}をしましたか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{週末|しゅうまつ}は{何|なに}してたの？{前|まえ}に{言|い}ってた{映画|えいが}？"
+    },
+    {
+     "s": "F",
+     "jp": "それが、{行|い}くつもりだったんだけど、{妹|いもうと}が{急|きゅう}に{子|こ}どもを{連|つ}れてうちに{遊|あそ}びに{来|き}て。"
+    },
+    {
+     "s": "M",
+     "jp": "へえ。"
+    },
+    {
+     "s": "F",
+     "jp": "{甥|おい}がまだ{三歳|さんさい}で、{公園|こうえん}に{行|い}きたいって{言|い}うから、{一日中|いちにちじゅう}{一緒|いっしょ}に{遊|あそ}んでたの。もうくたくた。"
+    },
+    {
+     "s": "M",
+     "jp": "{映画|えいが}は？"
+    },
+    {
+     "s": "F",
+     "jp": "{来週|らいしゅう}{行|い}くことにした。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}は{週末|しゅうまつ}{何|なに}をしましたか。",
+   "options": [
+    "{妹|いもうと}と{映画|えいが}を{見|み}た",
+    "{妹|いもうと}の{家|いえ}へ{遊|あそ}びに{行|い}った",
+    "{一人|ひとり}で{映画|えいが}を{見|み}に{行|い}った",
+    "{甥|おい}と{公園|こうえん}で{遊|あそ}んだ"
+   ],
+   "answer": 3,
+   "en": "M: What did you do at the weekend? The film you mentioned? F: I was going to, but my sister suddenly came over with her child. M: Oh. F: My nephew is only three and wanted to go to the park, so I played with him all day. I'm exhausted. M: And the film? F: I'll go next week.",
+   "why": "Her sister came to her place and she played with her nephew in the park."
+  },
+  {
+   "type": "point",
+   "setup": "{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はどうしてボランティアに{参加|さんか}できませんか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{日曜日|にちようび}の{川|かわ}の{掃除|そうじ}のボランティア、{一緒|いっしょ}に{行|い}かない？"
+    },
+    {
+     "s": "M",
+     "jp": "{行|い}きたいんだけど、その{日|ひ}は{無理|むり}なんだ。"
+    },
+    {
+     "s": "F",
+     "jp": "{仕事|しごと}？"
+    },
+    {
+     "s": "M",
+     "jp": "ううん、{仕事|しごと}は{休|やす}み。{実|じつ}は{父|ちち}が{引|ひ}っ{越|こ}すことになって、{荷物|にもつ}を{運|はこ}ぶのを{手伝|てつだ}わなきゃいけないんだ。"
+    },
+    {
+     "s": "F",
+     "jp": "そうなんだ。じゃあ、また{今度|こんど}ね。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}はどうしてボランティアに{参加|さんか}できませんか。",
+   "options": [
+    "{仕事|しごと}があるから",
+    "{父親|ちちおや}の{引|ひ}っ{越|こ}しを{手伝|てつだ}うから",
+    "{自分|じぶん}が{引|ひ}っ{越|こ}しをするから",
+    "{体|からだ}の{具合|ぐあい}が{悪|わる}いから"
+   ],
+   "answer": 1,
+   "en": "F: Want to come to the river clean-up volunteering on Sunday? M: I'd like to, but I can't that day. F: Work? M: No, I'm off. My father is moving house and I have to help carry his things. F: I see. Next time, then.",
+   "why": "He has to help his father move."
+  },
+  {
+   "type": "summary",
+   "setup": "{市|し}のお{知|し}らせで、{男|おとこ}の{人|ひと}が{話|はな}しています。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{市民|しみん}の{皆様|みなさま}にお{知|し}らせします。{来月|らいげつ}から、ペットボトルの{出|だ}し{方|かた}が{変|か}わります。これまでは{燃|も}えないごみと{一緒|いっしょ}に{出|だ}していただいていましたが、{来月|らいげつ}からは{毎週|まいしゅう}{木曜日|もくようび}に、{別|べつ}に{出|だ}してください。キャップとラベルは{外|はず}して、{中|なか}を{軽|かる}く{洗|あら}ってからお{願|ねが}いします。{外|はず}したキャップとラベルは、プラスチックごみの{日|ひ}に{出|だ}してください。{詳|くわ}しくは{市|し}のホームページをご{覧|らん}ください。"
+    }
+   ],
+   "question": "{何|なに}についてのお{知|し}らせですか。",
+   "options": [
+    "{燃|も}えないごみを{出|だ}す{曜日|ようび}が{変|か}わること",
+    "{市|し}のホームページが{新|あたら}しくなること",
+    "ペットボトルの{新|あたら}しい{出|だ}し{方|かた}",
+    "プラスチックごみを{減|へ}らす{方法|ほうほう}"
+   ],
+   "answer": 2,
+   "en": "An announcement to residents: from next month, the way to put out plastic bottles changes. Until now they went out with non-burnable rubbish, but from next month put them out separately every Thursday. Remove caps and labels and rinse the inside lightly. Put the caps and labels out on plastic rubbish day. See the city website for details.",
+   "why": "The whole announcement is about the new rule for plastic bottles."
+  },
+  {
+   "type": "summary",
+   "setup": "ラジオで{女|おんな}の{人|ひと}が{話|はな}しています。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "わたしは{十年|じゅうねん}ほど{前|まえ}から、{家|いえ}の{庭|にわ}で{野菜|やさい}を{育|そだ}てています。{始|はじ}めたころは、{野菜|やさい}をたくさん{作|つく}って{家族|かぞく}を{喜|よろこ}ばせたいと{思|おも}っていました。でも{実際|じっさい}は、{虫|むし}に{食|た}べられたり、{雨|あめ}が{少|すく}なくて{枯|か}れてしまったり、{失敗|しっぱい}ばかりでした。それでも{続|つづ}けてきたのは、{土|つち}を{触|さわ}っている{時間|じかん}そのものが{好|す}きだからです。{毎朝|まいあさ}{庭|にわ}に{出|で}て、{小|ちい}さな{芽|め}が{出|で}ているのを{見|み}つけると、それだけで{一日|いちにち}を{明|あか}るい{気持|きも}ちで{始|はじ}められます。{野菜|やさい}がうまく{育|そだ}つかどうかは、わたしにとってそれほど{大切|たいせつ}なことではなくなりました。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}が{一番|いちばん}{言|い}いたいことは{何|なん}ですか。",
+   "options": [
+    "{野菜|やさい}を{育|そだ}てる{時間|じかん}そのものが{楽|たの}しい",
+    "{野菜|やさい}を{育|そだ}てるのは{難|むずか}しい",
+    "{家族|かぞく}のために{野菜|やさい}を{作|つく}るのがいい",
+    "{毎朝|まいあさ}{早|はや}く{起|お}きると{気持|きも}ちがいい"
+   ],
+   "answer": 0,
+   "en": "On the radio: I've grown vegetables in my garden for about ten years. At first I wanted to grow lots to please my family. But in reality I kept failing: insects ate them, or they withered from lack of rain. I kept going because I love the time touching the soil itself. Every morning when I go out and find a small sprout, I can start the day in a bright mood. Whether the vegetables grow well is no longer that important to me.",
+   "why": "She says the time spent gardening is what she loves, not the result."
+  },
+  {
+   "type": "summary",
+   "setup": "{保育園|ほいくえん}の{説明会|せつめいかい}で、{園長|えんちょう}が{話|はな}しています。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{本日|ほんじつ}はお{集|あつ}まりいただき、ありがとうございます。{最近|さいきん}、お{迎|むか}えが{遅|おく}れるというご{連絡|れんらく}を、{当日|とうじつ}の{夕方|ゆうがた}にいただくことが{増|ふ}えています。お{仕事|しごと}のご{都合|つごう}もあると{思|おも}いますが、{夕方|ゆうがた}は{職員|しょくいん}の{数|かず}が{少|すく}なくなるため、{急|きゅう}な{変更|へんこう}にはなかなか{対応|たいおう}できません。{遅|おく}れることがわかった{時点|じてん}で、できるだけ{早|はや}くご{連絡|れんらく}をお{願|ねが}いします。なお、{来月|らいげつ}からはアプリでもご{連絡|れんらく}を{受|う}け{付|つ}けますので、ぜひご{利用|りよう}ください。"
+    }
+   ],
+   "question": "{園長|えんちょう}が{一番|いちばん}{伝|つた}えたいことは{何|なん}ですか。",
+   "options": [
+    "{夕方|ゆうがた}の{職員|しょくいん}を{増|ふ}やすこと",
+    "{来月|らいげつ}から{新|あたら}しいアプリを{使|つか}うこと",
+    "{保育|ほいく}の{時間|じかん}を{長|なが}くすること",
+    "お{迎|むか}えが{遅|おく}れるときは{早|はや}めに{知|し}らせてほしいこと"
+   ],
+   "answer": 3,
+   "en": "At a nursery information meeting, the head says: Thank you for coming. Recently we often get calls on the same evening saying pick-up will be late. We understand work can be the reason, but in the evening there are fewer staff, so we can hardly handle sudden changes. Please contact us as soon as you know you will be late. Also, from next month we will accept messages through an app too, so please use it.",
+   "why": "The main request is early notice of late pick-up; the app is only an extra point."
+  },
+  {
+   "type": "utterance",
+   "setup": "{図書館|としょかん}で{読|よ}みたい{本|ほん}を{探|さが}していますが、{見|み}つかりません。{係|かかり}の{人|ひと}に{何|なん}と{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "この{本|ほん}、お{探|さが}ししましょうか。",
+    "すみません、この{本|ほん}はどこにありますか。",
+    "この{本|ほん}、{返|かえ}してもいいですか。"
+   ],
+   "answer": 1,
+   "en": "You can't find a book you want at the library. What do you say to the staff?",
+   "why": "You are asking where the book is; option 1 is what staff would say."
+  },
+  {
+   "type": "utterance",
+   "setup": "{友|とも}だちのお{母|かあ}さんが{病気|びょうき}で{入院|にゅういん}したと{聞|き}きました。{友|とも}だちに{何|なん}と{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "お{母|かあ}さん、{早|はや}くよくなるといいね。",
+    "お{母|かあ}さん、{入院|にゅういん}してもいい？",
+    "お{母|かあ}さんに{大事|だいじ}にしてもらったら？"
+   ],
+   "answer": 0,
+   "en": "You heard your friend's mother is in hospital. What do you say to your friend?",
+   "why": "Wishing a quick recovery is the natural thing to say."
+  },
+  {
+   "type": "utterance",
+   "setup": "{郵便局|ゆうびんきょく}で、{手紙|てがみ}を{速|はや}く{届|とど}けてほしいです。{何|なん}と{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "{速達|そくたつ}が{届|とど}きましたよ。",
+    "{速達|そくたつ}にしてあげましょうか。",
+    "これ、{速達|そくたつ}でお{願|ねが}いします。"
+   ],
+   "answer": 2,
+   "en": "At the post office you want a letter delivered quickly. What do you say?",
+   "why": "You ask the clerk to send it by express."
+  },
+  {
+   "type": "utterance",
+   "setup": "{家族|かぞく}で{食事|しょくじ}をしています。お{父|とう}さんの{近|ちか}くにあるしょうゆを{取|と}ってほしいです。{何|なん}と{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "お{父|とう}さん、しょうゆ、{取|と}ろうか。",
+    "お{父|とう}さん、しょうゆ{取|と}ってくれる？",
+    "お{父|とう}さん、しょうゆ、{取|と}ってあげたよ。"
+   ],
+   "answer": 1,
+   "en": "Your family is eating. You want the soy sauce near your father. What do you say?",
+   "why": "～てくれる？ asks someone to do something for you."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{週末|しゅうまつ}、よかったら{一緒|いっしょ}に{釣|つ}りに{行|い}きませんか。"
+    }
+   ],
+   "question": "{正|ただ}しい{返事|へんじ}はどれですか。",
+   "options": [
+    "いいですね。ぜひ。",
+    "はい、{釣|つ}りに{行|い}きました。",
+    "{釣|つ}りはどこでもいいですよ。"
+   ],
+   "answer": 0,
+   "en": "F: Would you like to go fishing together this weekend?",
+   "why": "Accepting an invitation: いいですね。ぜひ。"
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "お{子|こ}さん、もう{歩|ある}けるようになったんですか。"
+    }
+   ],
+   "question": "{正|ただ}しい{返事|へんじ}はどれですか。",
+   "options": [
+    "ええ、{歩|ある}いて{行|い}きましょう。",
+    "いいえ、{歩|ある}かせてください。",
+    "ええ、{最近|さいきん}やっと。"
+   ],
+   "answer": 2,
+   "en": "M: Can your child walk already?",
+   "why": "'Yes, just recently' answers the question."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "すみません、{窓口|まどぐち}はもう{閉|し}まってしまいましたか。"
+    }
+   ],
+   "question": "{正|ただ}しい{返事|へんじ}はどれですか。",
+   "options": [
+    "はい、{閉|し}めてください。",
+    "{申|もう}し{訳|わけ}ありません、{本日|ほんじつ}の{受付|うけつけ}は{終了|しゅうりょう}しました。",
+    "いいえ、{閉|し}まらなくてもいいです。"
+   ],
+   "answer": 1,
+   "en": "F: Excuse me, has the counter already closed?",
+   "why": "The clerk apologises that today's service has ended."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{田中|たなか}さんのお{兄|にい}さんって、{田中|たなか}さんにそっくりですね。"
+    }
+   ],
+   "question": "{正|ただ}しい{返事|へんじ}はどれですか。",
+   "options": [
+    "ええ、{兄|あに}に{会|あ}ったことがありません。",
+    "はい、{兄|あに}はとても{元気|げんき}です。",
+    "よく{言|い}われるんです。"
+   ],
+   "answer": 2,
+   "en": "M: Your older brother looks just like you, Tanaka-san.",
+   "why": "'People often tell me that' is the natural reply."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "この{書類|しょるい}、{明日|あした}{出|だ}しても{間|ま}に{合|あ}いますか。"
+    }
+   ],
+   "question": "{正|ただ}しい{返事|へんじ}はどれですか。",
+   "options": [
+    "ええ、{明日|あした}までなら{大丈夫|だいじょうぶ}ですよ。",
+    "はい、{間|ま}に{合|あ}いませんでした。",
+    "じゃあ、{明日|あした}{出|だ}してあげます。"
+   ],
+   "answer": 0,
+   "en": "F: Will it be in time if I hand in this document tomorrow?",
+   "why": "It confirms tomorrow is still OK."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{趣味|しゅみ}で{始|はじ}めたギター、まだ{続|つづ}いてる？"
+    }
+   ],
+   "question": "{正|ただ}しい{返事|へんじ}はどれですか。",
+   "options": [
+    "うん、{続|つづ}きが{読|よ}みたいな。",
+    "うん、{毎晩|まいばん}{少|すこ}しずつ{練習|れんしゅう}してるよ。",
+    "うん、{始|はじ}めたらいいよ。"
+   ],
+   "answer": 1,
+   "en": "M: Are you still keeping up the guitar you started as a hobby?",
+   "why": "Saying you practise every night answers 'still going?'."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{息子|むすこ}がいつもお{世話|せわ}になっております。"
+    }
+   ],
+   "question": "{正|ただ}しい{返事|へんじ}はどれですか。",
+   "options": [
+    "はい、お{世話|せわ}します。",
+    "いえ、こちらこそ。",
+    "いいえ、{世話|せわ}をしてください。"
+   ],
+   "answer": 1,
+   "en": "F: Thank you for always looking after my son.",
+   "why": "いえ、こちらこそ is the set polite reply."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{明日|あした}の{集合|しゅうごう}、{九時|くじ}じゃなくて{八時半|はちじはん}になったんだって。"
+    }
+   ],
+   "question": "{正|ただ}しい{返事|へんじ}はどれですか。",
+   "options": [
+    "え、{九時|くじ}に{集|あつ}まったの？",
+    "じゃあ、{九時|くじ}で{大丈夫|だいじょうぶ}だね。",
+    "え、{三十分|さんじゅっぷん}も{早|はや}くなったの？"
+   ],
+   "answer": 2,
+   "en": "M: I hear tomorrow's meeting time is 8:30, not 9.",
+   "why": "The time moved 30 minutes earlier."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{母|はは}がよろしくと{言|い}っていました。"
+    }
+   ],
+   "question": "{正|ただ}しい{返事|へんじ}はどれですか。",
+   "options": [
+    "ありがとうございます。お{母様|かあさま}にもよろしくお{伝|つた}えください。",
+    "はい、よろしくお{願|ねが}いしました。",
+    "お{母|かあ}さんによろしくと{言|い}いました。"
+   ],
+   "answer": 0,
+   "en": "F: My mother sends her regards.",
+   "why": "Thank them and send your regards back."
+  }
+ ]
+}
