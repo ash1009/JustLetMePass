@@ -67,7 +67,7 @@
    "type": "kanji_reading",
    "q_raw": "駅から 学校まで 【十分】ぐらい 歩きます。",
    "options": [
-    "じゅうぶん",
+    "じゅっぶん",
     "じゅっぷん",
     "じゅうふん",
     "とおふん"
@@ -355,7 +355,7 @@
   },
   {
    "type": "form",
-   "q": "この {道|みち}を まっすぐ {行|い}って、{二|ふた}つ{目|め}の かどを {左|ひだり}＿＿ まがって ください。",
+   "q": "{来年|らいねん}、{日本|にほん}の {大学|だいがく}＿＿ {入|はい}りたいです。",
    "options": [
     "を",
     "に",
@@ -363,7 +363,7 @@
     "が"
    ],
    "answer": 1,
-   "en": "Go straight along this road and turn left at the second corner."
+   "en": "Next year I want to enter a Japanese university."
   },
   {
    "type": "star",
@@ -381,7 +381,7 @@
     3,
     1
    ],
-   "star": 2,
+   "star": 1,
    "en": "My hobby is taking photos.",
    "why": "わたしの{趣味|しゅみ}は comes first, then {写真|しゃしん}をとる goes before ことです."
   },
@@ -421,7 +421,7 @@
     2,
     3
    ],
-   "star": 2,
+   "star": 0,
    "en": "My older brother is tall and handsome.",
    "why": "せが {高|たか}い is a set phrase; the て-form {高|たか}くて links it to ハンサム before です."
   },

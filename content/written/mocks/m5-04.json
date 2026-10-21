@@ -381,29 +381,29 @@
     0,
     1
    ],
-   "star": 2,
+   "star": 0,
    "en": "A: Who is that person wearing glasses? B: That is my friend Lin.",
    "why": "めがねを かけて いる describes {人|ひと}, then は and the question word だれ come last."
   },
   {
    "type": "star",
-   "before": "すみません、この　にもつを",
-   "after": "いくらですか。",
+   "before": "すみません、この　にもつを　アメリカ",
+   "after": "ですか。",
    "pieces": [
-    "おくる",
-    "アメリカ",
     "のは",
-    "まで"
+    "いくら",
+    "まで",
+    "おくる"
    ],
    "order": [
-    1,
+    2,
     3,
     0,
-    2
+    1
    ],
-   "star": 1,
+   "star": 2,
    "en": "Excuse me, how much is it to send this package to America?",
-   "why": "アメリカまで tells where, then おくる + のは makes 'sending it' the topic."
+   "why": "アメリカまで tells where, おくる + のは makes 'sending it' the topic, and いくら comes right before ですか."
   },
   {
    "type": "star",
@@ -421,7 +421,7 @@
     1,
     0
    ],
-   "star": 2,
+   "star": 3,
    "en": "My house has a kitchen and three rooms.",
    "why": "と joins だいどころ to {部屋|へや}, and the counter {三|みっ}つ comes after {部屋|へや}が, right before あります."
   },
@@ -441,7 +441,7 @@
     2,
     0
    ],
-   "star": 2,
+   "star": 1,
    "en": "Yesterday my friend helped me clean my room.",
    "why": "わたしの {部屋|へや}の そうじ is one noun phrase; を comes before the verb てつだって, which joins くれました."
   },
