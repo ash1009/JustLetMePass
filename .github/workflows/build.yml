@@ -32,7 +32,7 @@ jobs:
 
       - name: Check the study content
         run: |
-          for f in content/written/*; do python3 tools/validate.py "$f"; done
+          for f in content/written/*.json content/written/mocks/*.json; do python3 tools/validate.py "$f" || exit 1; done
 
       - name: Build the app
         run: ./gradlew --no-daemon assembleDebug
