@@ -69,7 +69,8 @@ private fun buildTest(a: JlptApp, level: Int, covered: Boolean = false): List<Mo
     val c = a.content
     val out = ArrayList<MockQ>()
     val met = { id: String -> a.study.stage(id) > 0 }
-    val levelWords = if (covered) c.words.filter { it.level >= level && met(it.id) } else c.words.filter { it.level == level }
+    val top = minOf(level, a.prefs.examLevel.value)
+    val levelWords = if (covered) c.words.filter { it.level >= top && met(it.id) } else c.words.filter { it.level == level }
     val words = levelWords.filter { it.hasKanji && it.word != it.reading }.shuffled().let { if (covered && it.size < 9) c.words.filter { w -> w.level == level && w.hasKanji && w.word != w.reading }.shuffled() else it }
     val pool = levelWords.ifEmpty { c.words.filter { it.level == level } }
     fun others(n: Int, pick: (app.jlpt.data.Word) -> String, not: String) =
@@ -93,7 +94,7 @@ private fun buildTest(a: JlptApp, level: Int, covered: Boolean = false): List<Mo
         out += MockQ("Vocabulary", Quiz("${w.markup}\nWhat does it mean?", opts, opts.indexOf(right), ""))
     }
     // Grammar.
-    val grammar = if (covered) c.grammar.filter { it.level >= level && met(it.id) }.ifEmpty { c.grammar.filter { it.level == level } } else c.grammar.filter { it.level == level }
+    val grammar = if (covered) c.grammar.filter { it.level >= top && met(it.id) }.ifEmpty { c.grammar.filter { it.level == level } } else c.grammar.filter { it.level == level }
     for (g in grammar.shuffled().take(8)) {
         val q = g.quiz.randomOrNull() ?: continue
         out += MockQ("Grammar", q)

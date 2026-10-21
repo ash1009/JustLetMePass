@@ -74,6 +74,7 @@ private fun systemPrompt(a: JlptApp): String {
         append("You are a friendly, patient Japanese tutor inside a study app. ")
         append("The learner speaks English, is studying for the JLPT N$level on ${a.prefs.exam()}, ")
         append("and also wants Japanese for everyday life. ")
+        append("Right now they are working through N${a.study.currentLevel()} material. ")
         append(if (a.prefs.hiraganaKnown.value) "They can read hiragana. " else "They are still learning hiragana. ")
         val kata = a.study.count(a.study.ids(Kind.KATA))
         if (kata.known < kata.total) append("They are still learning katakana. ")

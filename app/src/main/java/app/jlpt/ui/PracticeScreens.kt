@@ -73,8 +73,7 @@ import java.time.format.DateTimeFormatter
 @Composable
 fun PracticeScreen(nav: (Screen) -> Unit) {
     val a = app()
-    val examLevel by a.prefs.examLevel.state.collectAsState()
-    var level by rememberSaveable { mutableIntStateOf(examLevel) }
+    var level by rememberSaveable { mutableIntStateOf(a.study.currentLevel()) }
     val tests by remember { a.db.dao().testsFlow() }.collectAsState(initial = emptyList())
     val key by a.prefs.claudeKey.state.collectAsState()
 
@@ -480,7 +479,7 @@ fun AiReadingScreen(onBack: () -> Unit, explainInChat: (String) -> Unit) {
 
     LaunchedEffect(run) {
         reading = null; error = null
-        val level = a.prefs.examLevel.value
+        val level = a.study.currentLevel()
         val states = a.study.states.value
         val known = a.content.words.filter { (states[it.id]?.stage ?: 0) > 0 }.shuffled().take(40).joinToString("、") { it.word }
         val r = a.claude.ask(

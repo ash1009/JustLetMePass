@@ -62,15 +62,15 @@ fun TodayScreen(nav: (Screen) -> Unit) {
     val newLeft = (plan.newPerDay - (today?.newItems ?: 0)).coerceAtLeast(0)
     val minutes = (today?.seconds ?: 0) / 60
     val doneIds = remember(done) { done.map { it.id }.toSet() }
-    val reading = remember(doneIds, examLevel) {
-        a.content.readings.filter { it.level >= examLevel && it.id !in doneIds }.maxByOrNull { it.level }
+    val current = remember(states) { a.study.currentLevel() }
+    val reading = remember(doneIds, current) {
+        a.content.readings.firstOrNull { it.level == current && it.id !in doneIds }
     }
-    val listening = remember(doneIds, examLevel) {
-        a.content.listenings.filter { it.level >= examLevel && it.id !in doneIds }.maxByOrNull { it.level }
+    val listening = remember(doneIds, current) {
+        a.content.listenings.firstOrNull { it.level == current && it.id !in doneIds }
     }
-    val story = remember(doneIds, examLevel) {
-        a.content.stories.firstOrNull { it.level == examLevel && it.id !in doneIds }
-            ?: a.content.stories.firstOrNull { it.level >= examLevel && it.id !in doneIds }
+    val story = remember(doneIds, current) {
+        a.content.stories.firstOrNull { it.level == current && it.id !in doneIds }
     }
     val kataLeft = remember(states) { a.study.count(a.study.ids(Kind.KATA)).let { it.total - it.started } }
 
@@ -136,10 +136,10 @@ fun TodayScreen(nav: (Screen) -> Unit) {
 
         // A check-up once a week, inside the app (never a notification).
         val tests by remember { a.db.dao().testsFlow() }.collectAsState(initial = emptyList())
-        val lastWeekly = tests.firstOrNull { it.sections.startsWith("weekly") && it.level == examLevel }
+        val lastWeekly = tests.firstOrNull { it.sections.startsWith("weekly") }
         val weeklyDue = plan.daysLeft > 0 && (lastWeekly == null || System.currentTimeMillis() - lastWeekly.time > 7L * 86_400_000L)
         if (weeklyDue) {
-            Panel(onClick = { nav(Screen.MockTest(examLevel, weekly = true)) }, color = MaterialTheme.colorScheme.secondaryContainer) {
+            Panel(onClick = { nav(Screen.MockTest(current, weekly = true)) }, color = MaterialTheme.colorScheme.secondaryContainer) {
                 Label("Weekly check", color = MaterialTheme.colorScheme.onSecondaryContainer)
                 Text("Time for this week's mock", style = MaterialTheme.typography.titleMedium)
                 Text("About 25 minutes, on what you've covered so far. Your weakest part gets more practice next week.",

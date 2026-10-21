@@ -59,8 +59,7 @@ fun ListenScreen(onBack: () -> Unit) {
     val now by a.speech.now.collectAsState()
     val kind by a.prefs.listenKind.state.collectAsState()
     val gap by a.prefs.listenGap.state.collectAsState()
-    val examLevel by a.prefs.examLevel.state.collectAsState()
-    var level by rememberSaveable { mutableStateOf(examLevel) }
+    var level by rememberSaveable { mutableStateOf(a.study.currentLevel()) }
     var showEn by rememberSaveable { mutableStateOf(false) }
     val mine = now?.key == PlaylistService.KEY
     val playing = mine && now?.playing == true

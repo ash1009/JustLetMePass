@@ -68,6 +68,21 @@ class Study(private val content: Content, private val dao: StudyDao, private val
     private fun katakanaBasicsStarted(): Boolean =
         Kana.katakana.filter { it.group == "Basic" }.all { stage(it.id) > 0 }
 
+    /**
+     * The level you are working on: the easiest one where under 80% of the words, kanji and
+     * grammar are known. Screens open on this level; the plan still aims at the exam level.
+     */
+    fun currentLevel(): Int {
+        for (lvl in 5 downTo 1) {
+            val ids = content.words.filter { it.level == lvl }.map { it.id } +
+                content.kanji.filter { it.level == lvl }.map { it.id } +
+                content.grammar.filter { it.level == lvl }.map { it.id }
+            if (ids.isEmpty()) continue
+            if (count(ids).known < ids.size * 0.8) return lvl
+        }
+        return 1
+    }
+
     /** Everything up to the exam level (N5 counts towards N4 and so on). */
     private fun examScope(): List<String> {
         val lvl = prefs.examLevel.value
@@ -206,7 +221,7 @@ class Study(private val content: Content, private val dao: StudyDao, private val
     /** The section that went worst in the last mock at the exam level (in the past two weeks). */
     suspend fun weakSection(): Pair<String, Int>? {
         val since = System.currentTimeMillis() - 14L * 86_400_000L
-        val t = dao.tests().firstOrNull { it.level == prefs.examLevel.value && it.time >= since } ?: return null
+        val t = dao.tests().firstOrNull { it.time >= since } ?: return null
         return t.sections.split(';').mapNotNull { part ->
             val name = part.substringBefore('=')
             val (got, of) = part.substringAfter('=').split('/').map { it.toIntOrNull() ?: 0 }.let { it.getOrElse(0) { 0 } to it.getOrElse(1) { 0 } }

@@ -68,13 +68,14 @@ fun PlanScreen(nav: (Screen) -> Unit, onBack: () -> Unit) {
             a.content.grammar.filter { it.level >= examLevel }.map { it.id } + a.study.ids(Kind.KATA)
         a.study.count(ids)
     }
-    val weekly = tests.filter { it.sections.startsWith("weekly") && it.level == examLevel }
+    val weekly = tests.filter { it.sections.startsWith("weekly") }
+    val current = remember(states) { a.study.currentLevel() }
 
     Column(Modifier.fillMaxSize()) {
         BackBar("Your plan", onBack)
         Column(Modifier.fillMaxSize().verticalScroll(rememberScrollState()).padding(horizontal = 16.dp)) {
             Panel {
-                Label("${lvl(examLevel)} exam · ${exam.format(dayFmt)}")
+                Label("${lvl(examLevel)} exam · ${exam.format(dayFmt)} · working on ${lvl(current)}")
                 Text(
                     if (plan.daysLeft > 7) "Meet everything by ${doneBy.format(dayFmt)}" else "Last week: reviews and mocks only",
                     style = MaterialTheme.typography.titleLarge,
@@ -149,7 +150,7 @@ fun PlanScreen(nav: (Screen) -> Unit, onBack: () -> Unit) {
                 Text("It tests what you've covered so far, so the score shows whether it's sticking.",
                     style = MaterialTheme.typography.bodySmall, color = LocalExtra.current.muted)
                 Gap(8.dp)
-                OutlinedButton(onClick = { nav(Screen.MockTest(examLevel, weekly = true)) }, Modifier.fillMaxWidth()) { Text("Take the weekly check") }
+                OutlinedButton(onClick = { nav(Screen.MockTest(current, weekly = true)) }, Modifier.fillMaxWidth()) { Text("Take the weekly check") }
             }
             Gap()
             Row(verticalAlignment = Alignment.CenterVertically) {

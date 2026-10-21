@@ -77,8 +77,7 @@ private fun SectionRow(title: String, sub: String, started: Int, known: Int, tot
 fun LearnScreen(nav: (Screen) -> Unit) {
     val a = app()
     val states by a.study.states.collectAsState()
-    val examLevel by a.prefs.examLevel.state.collectAsState()
-    var level by rememberSaveable { mutableIntStateOf(examLevel) }
+    var level by rememberSaveable { mutableIntStateOf(a.study.currentLevel()) }
     val done by remember { a.db.dao().exercisesFlow() }.collectAsState(initial = emptyList())
 
     Column(Modifier.fillMaxSize().verticalScroll(rememberScrollState()).padding(horizontal = 16.dp)) {
