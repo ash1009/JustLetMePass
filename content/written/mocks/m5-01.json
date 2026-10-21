@@ -113,7 +113,7 @@
   },
   {
    "type": "orthography",
-   "q": "{父|ちち}は {毎朝|まいあさ} {会社|かいしゃ}へ 【いきます】。",
+   "q": "{父|ちち}は {朝|あさ} {会社|かいしゃ}へ 【いきます】。",
    "options_raw": [
     "伝きます",
     "行きます",
@@ -121,7 +121,7 @@
     "仕きます"
    ],
    "answer": 1,
-   "en": "My father goes to the office every morning."
+   "en": "My father goes to the office in the morning."
   },
   {
    "type": "orthography",
@@ -209,7 +209,7 @@
   },
   {
    "type": "context",
-   "q": "{父|ちち}は {毎晩|まいばん} {子|こ}どもに {本|ほん}を ＿＿。",
+   "q": "{父|ちち}は {夜|よる}、{子|こ}どもに {本|ほん}を ＿＿。",
    "options": [
     "あらいます",
     "ききます",
@@ -217,7 +217,7 @@
     "よみます"
    ],
    "answer": 3,
-   "en": "My father reads books to the children every night."
+   "en": "At night, my father reads books to the children."
   },
   {
    "type": "paraphrase",
@@ -381,7 +381,7 @@
     0,
     2
    ],
-   "star": 2,
+   "star": 3,
    "en": "My mother is making a delicious dinner in the kitchen.",
    "why": "Place + で comes first, then the adjective goes right before the noun it describes (おいしい ばんごはん)."
   },
@@ -441,7 +441,7 @@
     2,
     0
    ],
-   "star": 2,
+   "star": 0,
    "en": "This is a cake my mother made.",
    "why": "はは が つくった is a clause that describes ケーキ, so it comes before the noun."
   },

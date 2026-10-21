@@ -5,7 +5,7 @@
  "vocab": [
   {
    "type": "kanji_reading",
-   "q_raw": "電車が遅れて、【会議】に間に合いませんでした。",
+   "q_raw": "明日の【会議】は十時からです。",
    "options": [
     "かいき",
     "がいぎ",
@@ -13,7 +13,7 @@
     "がいき"
    ],
    "answer": 2,
-   "en": "The train was late, so I didn't make it to the meeting."
+   "en": "Tomorrow's meeting is from ten o'clock."
   },
   {
    "type": "kanji_reading",
@@ -209,15 +209,15 @@
   },
   {
    "type": "context",
-   "q": "{次|つぎ}の{駅|えき}で{地下鉄|ちかてつ}に＿＿ください。",
+   "q": "{次|つぎ}の{駅|えき}で{電車|でんしゃ}を＿＿ください。",
    "options": [
-    "{降|お}りて",
-    "{通|とお}って",
-    "{渡|わた}って",
-    "{乗|の}り{換|か}えて"
+    "{入|はい}って",
+    "{通|かよ}って",
+    "{落|お}として",
+    "{降|お}りて"
    ],
    "answer": 3,
-   "en": "Please change to the subway at the next station."
+   "en": "Please get off the train at the next station."
   },
   {
    "type": "context",
@@ -281,7 +281,7 @@
   },
   {
    "type": "paraphrase",
-   "q": "{母|はは}に{旅行|りょこう}のお{土産|みやげ}を【わたしました】。",
+   "q": "{母|はは}に{誕生日|たんじょうび}のプレゼントを【わたしました】。",
    "options": [
     "もらいました",
     "あげました",
@@ -289,7 +289,7 @@
     "{送|おく}りました"
    ],
    "answer": 1,
-   "en": "I handed my mother a souvenir from my trip."
+   "en": "I handed my mother a birthday present."
   },
   {
    "type": "usage",
@@ -309,11 +309,11 @@
    "options": [
     "{雨|あめ}がやっと{急|いそ}ぎました。",
     "この{部屋|へや}はとても{急|いそ}いでいます。",
-    "{電車|でんしゃ}に{間|ま}に{合|あ}うように、{駅|えき}まで{急|いそ}ぎました。",
+    "{時間|じかん}がないので、{駅|えき}まで{急|いそ}ぎました。",
     "{車|くるま}が{家|いえ}の{前|まえ}で{急|いそ}いでいます。"
    ],
    "answer": 2,
-   "en": "to hurry: I hurried to the station so I would make the train."
+   "en": "to hurry: I had no time, so I hurried to the station."
   },
   {
    "type": "usage",
@@ -334,10 +334,10 @@
     "{毎日|まいにち}{食|た}べるので、パンはめずらしいです。",
     "{明日|あした}はテストなので、めずらしいです。",
     "この{部屋|へや}はめずらしいので、{掃除|そうじ}が{大変|たいへん}です。",
-    "この{店|みせ}には、ほかの{店|みせ}にないめずらしいお{土産|みやげ}があります。"
+    "この{店|みせ}には、ほかの{店|みせ}にないめずらしい{果物|くだもの}があります。"
    ],
    "answer": 3,
-   "en": "rare, unusual: This shop has unusual souvenirs that other shops don't have."
+   "en": "rare, unusual: This shop has unusual fruit that other shops don't have."
   }
  ],
  "grammar": [
@@ -355,7 +355,7 @@
   },
   {
    "type": "form",
-   "q": "ホテルの{人|ひと}に{駅|えき}までの{道|みち}を{教|おし}えて＿＿。",
+   "q": "{道|みち}がわからなかったので、ホテルの{人|ひと}に{駅|えき}までの{道|みち}を{教|おし}えて＿＿。",
    "options": [
     "くれました",
     "あげました",
@@ -363,7 +363,7 @@
     "もらいました"
    ],
    "answer": 3,
-   "en": "I had the hotel staff tell me the way to the station."
+   "en": "I didn't know the way, so I had the hotel staff tell me the way to the station."
   },
   {
    "type": "form",
@@ -381,10 +381,10 @@
    "type": "form",
    "q": "{次|つぎ}の{旅行|りょこう}では、{北海道|ほっかいどう}へ{行|い}って＿＿と{思|おも}っています。",
    "options": [
-    "いる",
-    "ある",
+    "いた",
+    "あった",
     "みよう",
-    "みる"
+    "みた"
    ],
    "answer": 2,
    "en": "On my next trip, I am thinking of trying going to Hokkaido."
@@ -415,7 +415,7 @@
   },
   {
    "type": "form",
-   "q": "この{駅|えき}は{小|ちい}さいので、{各駅停車|かくえきていしゃ}＿＿{止|と}まりません。",
+   "q": "この{駅|えき}は{小|ちい}さいので、{普通|ふつう}{電車|でんしゃ}＿＿{止|と}まりません。",
    "options": [
     "だけ",
     "まで",
@@ -466,7 +466,7 @@
    "q": "{駅|えき}に{着|つ}いたら、{電話|でんわ}を＿＿。{車|くるま}で{迎|むか}えに{行|い}きますから。",
    "options": [
     "しておきました",
-    "しなくてもいいです",
+    "しませんでした",
     "したことがあります",
     "してください"
    ],
@@ -513,7 +513,7 @@
     0,
     1
    ],
-   "star": 1,
+   "star": 0,
    "en": "I have stayed at a famous ryokan.",
    "why": "{有名|ゆうめい}な describes {旅館|りょかん}, then {泊|と}まった + こと before があります."
   },
@@ -597,8 +597,8 @@
      "options": [
       "くれました",
       "あげました",
-      "もらいました",
-      "いただきました"
+      "さしあげました",
+      "やりました"
      ],
      "answer": 0
     },
@@ -618,7 +618,7 @@
       "くれて",
       "くれたら",
       "くれても",
-      "くれるので"
+      "くれるのに"
      ],
      "answer": 1
     }
