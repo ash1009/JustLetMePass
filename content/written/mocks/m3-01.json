@@ -1,0 +1,1697 @@
+{
+ "id": "m3-01",
+ "level": 3,
+ "title_en": "N3 practice test 1",
+ "vocab": [
+  {
+   "type": "kanji_reading",
+   "q_raw": "この町では、毎月第二日曜日に【清掃】活動が行われています。",
+   "options": [
+    "せいぞう",
+    "しょうそう",
+    "せいそう",
+    "せいそ"
+   ],
+   "answer": 2,
+   "en": "In this town, cleaning activities are held on the second Sunday of every month."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "会議の資料は、【必ず】前の日までに準備してください。",
+   "options": [
+    "かならず",
+    "ひつず",
+    "たしかず",
+    "かなず"
+   ],
+   "answer": 0,
+   "en": "Please be sure to prepare the meeting materials by the day before."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "工場から出る【煙】が問題になっている。",
+   "options": [
+    "くもり",
+    "けむい",
+    "ほのお",
+    "けむり"
+   ],
+   "answer": 3,
+   "en": "The smoke from the factory has become a problem."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "新しい店の【営業】時間は午前十時から午後八時までです。",
+   "options": [
+    "えいごう",
+    "えいぎょう",
+    "えいきょう",
+    "えぎょう"
+   ],
+   "answer": 1,
+   "en": "The new shop's business hours are from 10 a.m. to 8 p.m."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "地域の人々が【協力】して、公園に花を植えた。",
+   "options": [
+    "きょうりき",
+    "きょうりょく",
+    "きょりょく",
+    "こうりょく"
+   ],
+   "answer": 1,
+   "en": "People in the area worked together and planted flowers in the park."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "この川の水はとても【汚い】ので、泳がないでください。",
+   "options": [
+    "くさい",
+    "よごい",
+    "まずい",
+    "きたない"
+   ],
+   "answer": 3,
+   "en": "The water in this river is very dirty, so please do not swim."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "部長は今、【出張】で大阪に行っています。",
+   "options": [
+    "しゅっちょう",
+    "しゅちょう",
+    "しゅうちょう",
+    "しゅっじょう"
+   ],
+   "answer": 0,
+   "en": "The manager is in Osaka on a business trip now."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "ごみを【減らす】ために、買い物にはマイバッグを持っていきましょう。",
+   "options": [
+    "ふやす",
+    "げらす",
+    "へらす",
+    "からす"
+   ],
+   "answer": 2,
+   "en": "To reduce garbage, let's take our own bags when we go shopping."
+  },
+  {
+   "type": "orthography",
+   "q": "{来週|らいしゅう}の{会議|かいぎ}の{時間|じかん}が【へんこう】になりました。",
+   "options_raw": [
+    "返更",
+    "変更",
+    "変功",
+    "辺更"
+   ],
+   "answer": 1,
+   "en": "The time of next week's meeting has been changed."
+  },
+  {
+   "type": "orthography",
+   "q": "{地球|ちきゅう}の【かんきょう】を{守|まも}るために、できることから{始|はじ}めましょう。",
+   "options_raw": [
+    "環鏡",
+    "還境",
+    "換境",
+    "環境"
+   ],
+   "answer": 3,
+   "en": "To protect the Earth's environment, let's start with what we can do."
+  },
+  {
+   "type": "orthography",
+   "q": "この{書類|しょるい}に{名前|なまえ}と{住所|じゅうしょ}を【きにゅう】してください。",
+   "options_raw": [
+    "記入",
+    "記人",
+    "紀入",
+    "既入"
+   ],
+   "answer": 0,
+   "en": "Please fill in your name and address on this form."
+  },
+  {
+   "type": "orthography",
+   "q": "{市|し}の【せつめい】{会|かい}に{参加|さんか}しました。",
+   "options_raw": [
+    "設明",
+    "説名",
+    "説明",
+    "税明"
+   ],
+   "answer": 2,
+   "en": "I took part in the city's information session."
+  },
+  {
+   "type": "orthography",
+   "q": "{毎日|まいにち}、{会社|かいしゃ}まで{自転車|じてんしゃ}で【かよって】います。",
+   "options_raw": [
+    "過って",
+    "週って",
+    "運って",
+    "通って"
+   ],
+   "answer": 3,
+   "en": "I go to work by bicycle every day."
+  },
+  {
+   "type": "orthography",
+   "q": "{夜|よる}になると、{気温|きおん}が{急|きゅう}に【さがった】。",
+   "options_raw": [
+    "低がった",
+    "下がった",
+    "落がった",
+    "降がった"
+   ],
+   "answer": 1,
+   "en": "When night came, the temperature suddenly dropped."
+  },
+  {
+   "type": "context",
+   "q": "{会議|かいぎ}の{前|まえ}に、{資料|しりょう}を{全員|ぜんいん}に＿＿おいてください。",
+   "options": [
+    "ひろって",
+    "あずけて",
+    "くばって",
+    "ならべて"
+   ],
+   "answer": 2,
+   "en": "Before the meeting, please hand out the materials to everyone."
+  },
+  {
+   "type": "context",
+   "q": "{駅|えき}の{近|ちか}くに{大|おお}きなスーパーができて、{生活|せいかつ}がとても＿＿になった。",
+   "options": [
+    "{便利|べんり}",
+    "{丁寧|ていねい}",
+    "{熱心|ねっしん}",
+    "{正直|しょうじき}"
+   ],
+   "answer": 0,
+   "en": "A big supermarket opened near the station, and life became very convenient."
+  },
+  {
+   "type": "context",
+   "q": "この{町|まち}では、ごみは{燃|も}えるごみと{燃|も}えないごみに＿＿して{出|だ}すことになっています。",
+   "options": [
+    "{選択|せんたく}",
+    "{交換|こうかん}",
+    "{分解|ぶんかい}",
+    "{分別|ぶんべつ}"
+   ],
+   "answer": 3,
+   "en": "In this town, you must sort garbage into burnable and non-burnable before putting it out."
+  },
+  {
+   "type": "context",
+   "q": "{新|あたら}しいプロジェクトの{計画|けいかく}について、{部長|ぶちょう}に＿＿をもらった。",
+   "options": [
+    "スケジュール",
+    "アドバイス",
+    "サービス",
+    "チャンス"
+   ],
+   "answer": 1,
+   "en": "I got advice from the manager about the plan for the new project."
+  },
+  {
+   "type": "context",
+   "q": "{田中|たなか}さんはいつも{時間|じかん}を＿＿{守|まも}るので、みんなに{信頼|しんらい}されている。",
+   "options": [
+    "きちんと",
+    "ぐっすり",
+    "すっかり",
+    "はっきり"
+   ],
+   "answer": 0,
+   "en": "Mr. Tanaka always keeps to time properly, so everyone trusts him."
+  },
+  {
+   "type": "context",
+   "q": "{台風|たいふう}で{電車|でんしゃ}が{止|と}まり、{会社|かいしゃ}に{行|い}くのを＿＿しかなかった。",
+   "options": [
+    "くりかえす",
+    "まにあう",
+    "あきらめる",
+    "ことわる"
+   ],
+   "answer": 2,
+   "en": "The trains stopped because of the typhoon, so I had no choice but to give up going to work."
+  },
+  {
+   "type": "context",
+   "q": "{公園|こうえん}の{木|き}が{切|き}られることに、{多|おお}くの{住民|じゅうみん}が＿＿している。",
+   "options": [
+    "{反省|はんせい}",
+    "{相談|そうだん}",
+    "{延期|えんき}",
+    "{反対|はんたい}"
+   ],
+   "answer": 3,
+   "en": "Many residents are against the trees in the park being cut down."
+  },
+  {
+   "type": "context",
+   "q": "{電気代|でんきだい}を＿＿ために、{使|つか}っていない{部屋|へや}の{電気|でんき}は{消|け}しましょう。",
+   "options": [
+    "{貯金|ちょきん}する",
+    "{節約|せつやく}する",
+    "{利用|りよう}する",
+    "{注意|ちゅうい}する"
+   ],
+   "answer": 1,
+   "en": "To save on the electricity bill, let's turn off the lights in rooms we are not using."
+  },
+  {
+   "type": "context",
+   "q": "この{仕事|しごと}は{明日|あした}までに＿＿させなければならない。",
+   "options": [
+    "{完全|かんぜん}",
+    "{発生|はっせい}",
+    "{完成|かんせい}",
+    "{決定|けってい}"
+   ],
+   "answer": 2,
+   "en": "This work must be completed by tomorrow."
+  },
+  {
+   "type": "context",
+   "q": "{会議|かいぎ}が{長引|ながび}いて、{約束|やくそく}の{時間|じかん}に＿＿しまった。",
+   "options": [
+    "おくれて",
+    "すぎて",
+    "まよって",
+    "はずれて"
+   ],
+   "answer": 0,
+   "en": "The meeting ran long and I was late for my appointment."
+  },
+  {
+   "type": "context",
+   "q": "{山田|やまだ}さんは{仕事|しごと}が{速|はや}いうえに＿＿がないので、{安心|あんしん}して{任|まか}せられる。",
+   "options": [
+    "ルール",
+    "マナー",
+    "チェック",
+    "ミス"
+   ],
+   "answer": 3,
+   "en": "Ms. Yamada works fast and makes no mistakes, so I can leave things to her without worry."
+  },
+  {
+   "type": "paraphrase",
+   "q": "{会議|かいぎ}は【{延期|えんき}になりました】。",
+   "options": [
+    "{早|はや}く{始|はじ}まることになりました",
+    "{後|あと}の{日|ひ}にすることになりました",
+    "{中止|ちゅうし}することになりました",
+    "{場所|ばしょ}が{変|か}わりました"
+   ],
+   "answer": 1,
+   "en": "The meeting has been postponed."
+  },
+  {
+   "type": "paraphrase",
+   "q": "{彼|かれ}は【{相変|あいか}わらず】{忙|いそが}しそうだ。",
+   "options": [
+    "{前|まえ}よりもっと",
+    "ときどき",
+    "{前|まえ}とちがって",
+    "{前|まえ}と{同|おな}じように"
+   ],
+   "answer": 3,
+   "en": "He looks as busy as ever."
+  },
+  {
+   "type": "paraphrase",
+   "q": "{駅前|えきまえ}の{店|みせ}は【たいてい】{夜|よる}{九時|くじ}に{閉|し}まる。",
+   "options": [
+    "ほとんどいつも",
+    "かならず",
+    "ちょうど",
+    "ときどき"
+   ],
+   "answer": 0,
+   "en": "The shops in front of the station usually close at 9 p.m."
+  },
+  {
+   "type": "paraphrase",
+   "q": "{部長|ぶちょう}の{話|はなし}は【あいまいだった】。",
+   "options": [
+    "とても{長|なが}かった",
+    "よくわかった",
+    "はっきりしなかった",
+    "おもしろかった"
+   ],
+   "answer": 2,
+   "en": "What the manager said was vague."
+  },
+  {
+   "type": "paraphrase",
+   "q": "{川|かわ}の{掃除|そうじ}に{参加|さんか}する{人|ひと}が【{増|ふ}えてきた】。",
+   "options": [
+    "{少|すく}なくなってきた",
+    "{多|おお}くなってきた",
+    "いなくなった",
+    "{変|か}わらない"
+   ],
+   "answer": 1,
+   "en": "More and more people are joining the river clean-up."
+  },
+  {
+   "type": "usage",
+   "word": "{片付|かたづ}ける",
+   "options": [
+    "{寒|さむ}いので、まどを{片付|かたづ}けてください。",
+    "{新|あたら}しい{社員|しゃいん}に{仕事|しごと}を{片付|かたづ}けました。",
+    "{会議|かいぎ}が{終|お}わったら、{机|つくえ}の{上|うえ}を{片付|かたづ}けておいてください。",
+    "{友|とも}だちとの{約束|やくそく}を{片付|かたづ}けて、{家|いえ}に{帰|かえ}った。"
+   ],
+   "answer": 2,
+   "en": "katazukeru: to tidy up, put away"
+  },
+  {
+   "type": "usage",
+   "word": "{参加|さんか}",
+   "options": [
+    "{日曜日|にちようび}の{町|まち}のお{祭|まつ}りに{家族|かぞく}で{参加|さんか}した。",
+    "{毎朝|まいあさ}、{電車|でんしゃ}に{参加|さんか}して{会社|かいしゃ}へ{行|い}きます。",
+    "{新|あたら}しいパソコンを{参加|さんか}したので、{仕事|しごと}が{速|はや}くなった。",
+    "{駅|えき}で{友|とも}だちに{参加|さんか}して、いっしょに{帰|かえ}った。"
+   ],
+   "answer": 0,
+   "en": "sanka: taking part"
+  },
+  {
+   "type": "usage",
+   "word": "{夢中|むちゅう}",
+   "options": [
+    "{夢中|むちゅう}で{寝|ね}ていたので、{電話|でんわ}に{気|き}がつかなかった。",
+    "{明日|あした}は{夢中|むちゅう}の{会議|かいぎ}があるので{早|はや}く{来|き}てください。",
+    "この{料理|りょうり}は{夢中|むちゅう}な{味|あじ}がします。",
+    "{弟|おとうと}はゲームに{夢中|むちゅう}になって、{夕飯|ゆうはん}の{時間|じかん}も{忘|わす}れていた。"
+   ],
+   "answer": 3,
+   "en": "muchuu: absorbed in something"
+  },
+  {
+   "type": "usage",
+   "word": "{落|お}ち{着|つ}く",
+   "options": [
+    "{電車|でんしゃ}が{駅|えき}に{落|お}ち{着|つ}きました。",
+    "{引|ひ}っ{越|こ}しの{後|あと}、やっと{生活|せいかつ}が{落|お}ち{着|つ}いてきた。",
+    "{荷物|にもつ}を{棚|たな}に{落|お}ち{着|つ}いてください。",
+    "{木|き}の{葉|は}が{地面|じめん}に{落|お}ち{着|つ}いた。"
+   ],
+   "answer": 1,
+   "en": "ochitsuku: to settle down, calm down"
+  },
+  {
+   "type": "usage",
+   "word": "{期限|きげん}",
+   "options": [
+    "この{店|みせ}の{期限|きげん}は{午後|ごご}{六時|ろくじ}までです。",
+    "{夏|なつ}の{期限|きげん}は{海|うみ}に{行|い}きたい。",
+    "レポートの{提出|ていしゅつ}{期限|きげん}は{来週|らいしゅう}の{金曜日|きんようび}です。",
+    "{彼|かれ}とは{長|なが}い{期限|きげん}{会|あ}っていない。"
+   ],
+   "answer": 2,
+   "en": "kigen: deadline, time limit"
+  }
+ ],
+ "grammar": [
+  {
+   "type": "form",
+   "q": "{雨|あめ}が{降|ふ}っている＿＿、{子|こ}どもたちは{外|そと}で{遊|あそ}んでいる。",
+   "options": [
+    "のに",
+    "ので",
+    "ために",
+    "うちに"
+   ],
+   "answer": 0,
+   "en": "Even though it is raining, the children are playing outside."
+  },
+  {
+   "type": "form",
+   "q": "（{社員|しゃいん}が{同|おな}じ{会社|かいしゃ}の{人|ひと}に）{社長|しゃちょう}は{何時|なんじ}ごろ{会社|かいしゃ}に＿＿か。",
+   "options": [
+    "まいります",
+    "いらっしゃいます",
+    "うかがいます",
+    "おります"
+   ],
+   "answer": 1,
+   "en": "(An employee to a co-worker) About what time will the company president come to the office?"
+  },
+  {
+   "type": "form",
+   "q": "{田中|たなか}さんは{入社|にゅうしゃ}した＿＿なので、まだ{仕事|しごと}に{慣|な}れていない。",
+   "options": [
+    "だけ",
+    "はず",
+    "ばかり",
+    "まま"
+   ],
+   "answer": 2,
+   "en": "Mr. Tanaka has only just joined the company, so he is not used to the work yet."
+  },
+  {
+   "type": "form",
+   "q": "この{公園|こうえん}は、{住民|じゅうみん}の{意見|いけん}＿＿{作|つく}られた。",
+   "options": [
+    "について",
+    "にとって",
+    "に{比|くら}べて",
+    "をもとに"
+   ],
+   "answer": 3,
+   "en": "This park was made based on the residents' opinions."
+  },
+  {
+   "type": "form",
+   "q": "{明日|あした}は{雨|あめ}＿＿、{予定|よてい}どおり{川|かわ}の{掃除|そうじ}を{行|おこな}います。",
+   "options": [
+    "なら",
+    "でも",
+    "だから",
+    "のに"
+   ],
+   "answer": 1,
+   "en": "Even if it rains tomorrow, we will clean the river as planned."
+  },
+  {
+   "type": "form",
+   "q": "{先週|せんしゅう}から{始|はじ}めたジョギングだが、{三日|みっか}＿＿やめてしまった。",
+   "options": [
+    "しか",
+    "より",
+    "で",
+    "まで"
+   ],
+   "answer": 2,
+   "en": "I started jogging last week, but I quit after three days."
+  },
+  {
+   "type": "form",
+   "q": "{課長|かちょう}「この{書類|しょるい}、{明日|あした}までにお{願|ねが}いできる？」\n{部下|ぶか}「はい、{今日中|きょうじゅう}に＿＿。」",
+   "options": [
+    "やっておきます",
+    "やってあります",
+    "やっていました",
+    "やってみせます"
+   ],
+   "answer": 0,
+   "en": "Section chief: Can you do this document by tomorrow? Staff: Yes, I will get it done today."
+  },
+  {
+   "type": "form",
+   "q": "この{町|まち}は{夏|なつ}になる＿＿、{観光客|かんこうきゃく}で{込|こ}む。",
+   "options": [
+    "ても",
+    "なら",
+    "のに",
+    "と"
+   ],
+   "answer": 3,
+   "en": "When summer comes, this town gets crowded with tourists."
+  },
+  {
+   "type": "form",
+   "q": "{窓|まど}を{開|あ}けた＿＿{出|で}かけてしまった。",
+   "options": [
+    "ながら",
+    "うちに",
+    "まま",
+    "あいだ"
+   ],
+   "answer": 2,
+   "en": "I went out leaving the window open."
+  },
+  {
+   "type": "form",
+   "q": "{新|あたら}しい{社員|しゃいん}に{仕事|しごと}を{教|おし}える＿＿、{自分|じぶん}も{勉強|べんきょう}になった。",
+   "options": [
+    "ことに",
+    "ことで",
+    "ものの",
+    "わけで"
+   ],
+   "answer": 1,
+   "en": "By teaching the work to new staff, I learned a lot myself."
+  },
+  {
+   "type": "form",
+   "q": "{林|はやし}さんは{風邪|かぜ}を＿＿、{今日|きょう}は{会社|かいしゃ}を{休|やす}んでいる。",
+   "options": [
+    "ひくらしく",
+    "ひいたように",
+    "ひくように",
+    "ひいたらしく"
+   ],
+   "answer": 3,
+   "en": "Mr. Hayashi seems to have caught a cold and is off work today."
+  },
+  {
+   "type": "form",
+   "q": "{明日|あした}のイベントに{参加|さんか}するかどうか、{今日|きょう}＿＿{連絡|れんらく}してください。",
+   "options": [
+    "までに",
+    "まで",
+    "あいだ",
+    "うちに"
+   ],
+   "answer": 0,
+   "en": "Please let us know by today whether you will join tomorrow's event."
+  },
+  {
+   "type": "form",
+   "q": "{子|こ}どものころ、よく{母|はは}に{部屋|へや}を{掃除|そうじ}＿＿。",
+   "options": [
+    "させられる",
+    "されさせた",
+    "させられた",
+    "していた"
+   ],
+   "answer": 2,
+   "en": "When I was a child, my mother often made me clean my room."
+  },
+  {
+   "type": "star",
+   "before": "{地球|ちきゅう}のことを",
+   "after": "しています。",
+   "pieces": [
+    "ように",
+    "ごみを",
+    "{考|かんが}えて",
+    "{減|へ}らす"
+   ],
+   "order": [
+    2,
+    1,
+    3,
+    0
+   ],
+   "star": 2,
+   "en": "Thinking about the Earth, I try to reduce garbage.",
+   "why": "考えて follows のことを, ごみを is the object of 減らす, and ように comes right before している."
+  },
+  {
+   "type": "star",
+   "before": "{部長|ぶちょう}に{明日|あした}までに",
+   "after": "ので、{今夜|こんや}は{残業|ざんぎょう}です。",
+   "pieces": [
+    "ように",
+    "{言|い}われた",
+    "{書類|しょるい}を",
+    "{出|だ}す"
+   ],
+   "order": [
+    2,
+    3,
+    0,
+    1
+   ],
+   "star": 1,
+   "en": "The manager told me to hand in the documents by tomorrow, so I am working late tonight.",
+   "why": "書類を goes with 出す, ～ように言われた is one pattern, and 言われた must come before ので."
+  },
+  {
+   "type": "star",
+   "before": "この{町|まち}の{祭|まつ}りは",
+   "after": "います。",
+   "pieces": [
+    "に",
+    "{支|ささ}えられて",
+    "{多|おお}くの",
+    "{住民|じゅうみん}"
+   ],
+   "order": [
+    2,
+    3,
+    0,
+    1
+   ],
+   "star": 2,
+   "en": "This town's festival is supported by many residents.",
+   "why": "多くの must come before a noun (住民), に marks who does the supporting, and 支えられて joins います."
+  },
+  {
+   "type": "star",
+   "before": "{田中|たなか}さんは",
+   "after": "なので、みんなに{頼|たよ}りにされている。",
+   "pieces": [
+    "{正確|せいかく}",
+    "だけでなく",
+    "{仕事|しごと}が",
+    "{速|はや}い"
+   ],
+   "order": [
+    2,
+    3,
+    1,
+    0
+   ],
+   "star": 2,
+   "en": "Mr. Tanaka is not only fast at work but also accurate, so everyone relies on him.",
+   "why": "仕事が is the subject of 速い, だけでなく follows the i-adjective 速い, and 正確 must come right before なので."
+  },
+  {
+   "type": "star",
+   "before": "{会議|かいぎ}で{決|き}まった",
+   "after": "{私|わたし}の{仕事|しごと}です。",
+   "pieces": [
+    "{伝|つた}える",
+    "ことを",
+    "のが",
+    "{全員|ぜんいん}に"
+   ],
+   "order": [
+    1,
+    3,
+    0,
+    2
+   ],
+   "star": 2,
+   "en": "My job is to tell everyone what was decided at the meeting.",
+   "why": "決まった needs a noun (こと), 全員に and ことを go with 伝える, and のが turns the phrase into the subject."
+  },
+  {
+   "type": "text",
+   "passage": "{私|わたし}は{去年|きょねん}から、{日本|にほん}の{小|ちい}さな{町|まち}で{働|はたら}いています。{最初|さいしょ}は{近所|きんじょ}に{知|し}り{合|あ}いがいなくて、{少|すこ}しさびしかったです。\nある{日|ひ}、{会社|かいしゃ}の{先輩|せんぱい}に「{日曜日|にちようび}に{川|かわ}の{掃除|そうじ}があるから、いっしょに{行|い}かない？」と{誘|さそ}われました。（１）、{私|わたし}は{行|い}くかどうか{迷|まよ}いました。{日本語|にほんご}がまだ{上手|じょうず}ではないので、{町|まち}の{人|ひと}と{話|はな}せるか{心配|しんぱい}だったからです。\nでも、{行|い}ってみると、みなさんがとても{親切|しんせつ}に（２）。ごみを{拾|ひろ}いながら、{町|まち}の{歴史|れきし}や{川|かわ}に{住|す}む{鳥|とり}のことを{教|おし}えてもらいました。{川|かわ}には、{思|おも}っていた（３）たくさんのごみがありました。{特|とく}に{多|おお}かったのは、ペットボトルとお{菓子|かし}の{袋|ふくろ}です。\n{掃除|そうじ}が{終|お}わったあと、{一人|ひとり}のおばあさんが「また{来|き}てね」と{言|い}ってくれました。その{言葉|ことば}がとてもうれしくて、（４）。\n{今|いま}では{毎月|まいつき}{参加|さんか}しています。この{経験|けいけん}（５）、{町|まち}のことがもっと{好|す}きになりました。",
+   "en": "I have been working in a small town in Japan since last year. At first I had no friends in the neighborhood and felt a little lonely. One day, a senior colleague invited me: 'There's a river clean-up on Sunday. Want to come?' At that time, I wasn't sure whether to go, because my Japanese was not good yet and I was worried I couldn't talk with the local people. But when I went, everyone talked to me very kindly. While picking up garbage, they taught me about the town's history and the birds living by the river. There was much more garbage in the river than I had expected, especially plastic bottles and snack bags. After the clean-up, an old woman said, 'Come again.' I was so happy that I decided I would come again. Now I join every month. Through this experience, I have come to like the town even more.",
+   "questions": [
+    {
+     "q": "（１）",
+     "options": [
+      "そのうえ",
+      "それなら",
+      "そのとき",
+      "それでも"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "（２）",
+     "options": [
+      "{話|はな}しかけてあげました",
+      "{話|はな}しかけてくれました",
+      "{話|はな}しかけられました",
+      "{話|はな}しかけさせました"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "（３）",
+     "options": [
+      "ほど",
+      "だけ",
+      "まで",
+      "より"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "（４）",
+     "options": [
+      "また{来|こ}ようと{思|おも}いました",
+      "もう{来|こ}ないことにしました",
+      "{来|こ}られなくなりました",
+      "{来|く}るはずがありません"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "（５）",
+     "options": [
+      "について",
+      "に{対|たい}して",
+      "を{通|とお}して",
+      "によると"
+     ],
+     "answer": 2
+    }
+   ]
+  }
+ ],
+ "reading": [
+  {
+   "type": "short",
+   "text": "{社員|しゃいん}のみなさん\n{来週|らいしゅう}{月曜日|げつようび}から、{会議室|かいぎしつ}Aの{工事|こうじ}が{始|はじ}まります。{工事|こうじ}は{二週間|にしゅうかん}の{予定|よてい}です。その{間|あいだ}、{会議|かいぎ}には{三階|さんがい}の{会議室|かいぎしつ}Bを{使|つか}ってください。{会議室|かいぎしつ}Bを{使|つか}うときは、{前|まえ}の{日|ひ}までに{総務部|そうむぶ}の{山本|やまもと}に{予約|よやく}をお{願|ねが}いします。なお、{会議室|かいぎしつ}Bにはプロジェクターがありませんので、{必要|ひつよう}な{人|ひと}は{総務部|そうむぶ}で{借|か}りてください。\n{総務部|そうむぶ}　{山本|やまもと}",
+   "en": "To all staff: Construction work in Meeting Room A starts next Monday and is planned to last two weeks. During that time, please use Meeting Room B on the third floor. To use Room B, book it with Yamamoto in General Affairs by the day before. Room B has no projector, so anyone who needs one should borrow it from General Affairs.",
+   "questions": [
+    {
+     "q": "{来週|らいしゅう}、プロジェクターを{使|つか}って{会議|かいぎ}をしたい{人|ひと}は、どうしなければならないか。",
+     "options": [
+      "{会議室|かいぎしつ}Aを{予約|よやく}して、プロジェクターを{借|か}りる。",
+      "{会議室|かいぎしつ}Bを{予約|よやく}して、{総務部|そうむぶ}でプロジェクターを{借|か}りる。",
+      "{会議室|かいぎしつ}Bを{予約|よやく}するだけでいい。",
+      "{会議|かいぎ}の{当日|とうじつ}に、{山本|やまもと}さんに{会議室|かいぎしつ}Bを{予約|よやく}してもらう。"
+     ],
+     "answer": 1,
+     "why": "Room A is closed, Room B must be booked by the day before, and it has no projector, so one must be borrowed."
+    }
+   ]
+  },
+  {
+   "type": "short",
+   "text": "{緑町|みどりちょう}{町内会|ちょうないかい}からのお{知|し}らせ\n{年末年始|ねんまつねんし}のごみの{収集|しゅうしゅう}について\n12{月|がつ}30{日|にち}から1{月|がつ}3{日|か}まで、ごみの{収集|しゅうしゅう}はお{休|やす}みです。{燃|も}えるごみは、12{月|がつ}29{日|にち}が{年内|ねんない}{最後|さいご}の{収集日|しゅうしゅうび}になります。{新年|しんねん}の{収集|しゅうしゅう}は1{月|がつ}4{日|か}から{始|はじ}まります。お{休|やす}みの{間|あいだ}は、ごみを{収集|しゅうしゅう}{場所|ばしょ}に{出|だ}さず、{家|いえ}で{保管|ほかん}してください。カラスがごみを{散|ち}らかすことがありますので、よろしくお{願|ねが}いします。",
+   "en": "Notice from the Midori-cho Neighborhood Association: Garbage collection over the New Year. There is no collection from December 30 to January 3. The last burnable garbage collection of the year is December 29. Collection starts again on January 4. During the break, do not put garbage at the collection point; keep it at home. Crows may scatter the garbage, so thank you for your cooperation.",
+   "questions": [
+    {
+     "q": "このお{知|し}らせで、いちばん{伝|つた}えたいことは{何|なん}か。",
+     "options": [
+      "12{月|がつ}29{日|にち}までに、{家|いえ}のごみを{全部|ぜんぶ}{片付|かたづ}けてほしい。",
+      "カラスが{来|こ}ないように、ごみにネットをかけてほしい。",
+      "1{月|がつ}4{日|か}には、ごみを{朝早|あさはや}く{出|だ}してほしい。",
+      "12{月|がつ}30{日|にち}から1{月|がつ}3{日|か}までは、ごみを{出|だ}さないでほしい。"
+     ],
+     "answer": 3,
+     "why": "The notice asks people not to put out garbage during the break and to keep it at home."
+    }
+   ]
+  },
+  {
+   "type": "short",
+   "text": "{最近|さいきん}、{買|か}い{物|もの}のときにレジ{袋|ぶくろ}をもらわない{人|ひと}が{増|ふ}えた。{私|わたし}もマイバッグを{持|も}ち{歩|ある}くようにしている。しかし、{先日|せんじつ}{新聞|しんぶん}で、マイバッグを{何枚|なんまい}も{買|か}って、あまり{使|つか}わない{人|ひと}も{多|おお}いという{記事|きじ}を{読|よ}んだ。{一枚|いちまい}のバッグを{作|つく}るのにも、{資源|しげん}やエネルギーが{使|つか}われている。{大切|たいせつ}なのは、{新|あたら}しいものを{買|か}うことではなく、{持|も}っているものを{長|なが}く{使|つか}うことではないだろうか。",
+   "en": "Recently more people do not take plastic bags when shopping. I also try to carry my own bag. But the other day I read a newspaper article saying many people buy several reusable bags and hardly use them. Making even one bag uses resources and energy. Isn't the important thing not buying new things, but using what we have for a long time?",
+   "questions": [
+    {
+     "q": "この{文章|ぶんしょう}を{書|か}いた{人|ひと}の{考|かんが}えに{合|あ}うものはどれか。",
+     "options": [
+      "マイバッグより、レジ{袋|ぶくろ}を{使|つか}ったほうがいい。",
+      "マイバッグは{何枚|なんまい}か{持|も}っていたほうが{便利|べんり}だ。",
+      "{持|も}っているバッグを、できるだけ{長|なが}く{使|つか}うことが{大切|たいせつ}だ。",
+      "マイバッグは、{自分|じぶん}で{作|つく}ったほうがいい。"
+     ],
+     "answer": 2,
+     "why": "The last sentence says using what you already have for a long time is what matters."
+    }
+   ]
+  },
+  {
+   "type": "short",
+   "text": "{佐藤|さとう}さん\nお{疲|つか}れさまです。{木村|きむら}です。\n{明日|あした}の{取引先|とりひきさき}との{打|う}ち{合|あ}わせですが、{先方|せんぽう}の{都合|つごう}で、{時間|じかん}が{午後|ごご}{二時|にじ}から{四時|よじ}に{変|か}わりました。{場所|ばしょ}は{変|か}わりません。{私|わたし}は{明日|あした}、{朝|あさ}から{外出|がいしゅつ}していて、{会社|かいしゃ}に{戻|もど}るのは{三時|さんじ}ごろになります。すみませんが、{打|う}ち{合|あ}わせで{使|つか}う{資料|しりょう}を{十部|じゅうぶ}コピーしておいてもらえませんか。{資料|しりょう}は{私|わたし}の{机|つくえ}の{上|うえ}の{青|あお}いファイルに{入|はい}っています。\nよろしくお{願|ねが}いします。",
+   "en": "Ms. Sato, this is Kimura. Tomorrow's meeting with the client has been moved from 2 p.m. to 4 p.m. because of their schedule. The place is the same. I will be out from the morning tomorrow and will be back around 3. Could you make ten copies of the materials for the meeting? They are in the blue file on my desk.",
+   "questions": [
+    {
+     "q": "{佐藤|さとう}さんは{木村|きむら}さんに{何|なに}を{頼|たの}まれたか。",
+     "options": [
+      "{青|あお}いファイルの{資料|しりょう}をコピーしておくこと",
+      "{取引先|とりひきさき}に{電話|でんわ}して、{時間|じかん}を{変|か}えてもらうこと",
+      "{打|う}ち{合|あ}わせの{場所|ばしょ}を{探|さが}すこと",
+      "{三時|さんじ}に{木村|きむら}さんを{迎|むか}えに{行|い}くこと"
+     ],
+     "answer": 0,
+     "why": "Kimura asks Sato to copy the materials in the blue file ten times."
+    }
+   ]
+  },
+  {
+   "type": "mid",
+   "text": "{私|わたし}の{会社|かいしゃ}では、{去年|きょねん}から{毎週|まいしゅう}{水曜日|すいようび}を「{残業|ざんぎょう}しない{日|ひ}」にしている。この{日|ひ}は、{午後|ごご}{六時|ろくじ}になると{事務所|じむしょ}の{電気|でんき}が{消|き}えてしまう。\n{初|はじ}めは{反対|はんたい}する{人|ひと}も{多|おお}かった。{仕事|しごと}が{終|お}わらなかったらどうするのか、という{意見|いけん}だ。{私|わたし}も、{水曜日|すいようび}に{終|お}わらなかった{仕事|しごと}を{木曜日|もくようび}にするだけで、{結局|けっきょく}{同|おな}じではないかと{思|おも}っていた。\nところが、{実際|じっさい}にやってみると、{少|すこ}しずつ{変化|へんか}が{見|み}えてきた。{水曜日|すいようび}は、みんな{朝|あさ}のうちにその{日|ひ}{何|なに}をするかを{決|き}めて、{集中|しゅうちゅう}して{働|はたら}くようになった。{会議|かいぎ}も{短|みじか}くなった。そして、{早|はや}く{帰|かえ}れる{日|ひ}があると、{他|ほか}の{日|ひ}も{時間|じかん}の{使|つか}い{方|かた}を{考|かんが}えるようになったのだ。\n{今|いま}では、{水曜日|すいようび}の{夜|よる}に{料理|りょうり}を{習|なら}っている{同僚|どうりょう}もいる。{私|わたし}は、{早|はや}く{帰|かえ}れることより、{働|はたら}き{方|かた}を{見直|みなお}すきっかけになったことが、いちばんよかったと{思|おも}う。",
+   "en": "Since last year, my company has made every Wednesday a 'no overtime day'. On this day, the office lights go off at 6 p.m. At first many people were against it, asking what to do if work wasn't finished. I also thought it would just move Wednesday's unfinished work to Thursday, so nothing would really change. But when we actually tried it, changes slowly appeared. On Wednesdays everyone decides in the morning what to do that day and works with focus. Meetings became shorter too. And having a day when we can go home early made people think about how to use their time on other days as well. Now some colleagues take cooking lessons on Wednesday evenings. I think the best thing is not that we can go home early, but that it became a chance to rethink how we work.",
+   "questions": [
+    {
+     "q": "{初|はじ}め、「{私|わたし}」はこのルールについてどう{思|おも}っていたか。",
+     "options": [
+      "{早|はや}く{帰|かえ}れるので、とてもいいルールだ。",
+      "{電気|でんき}が{消|き}えるのは{危|あぶ}ないので、やめたほうがいい。",
+      "{会議|かいぎ}が{短|みじか}くなるので、{便利|べんり}だ。",
+      "{仕事|しごと}が{次|つぎ}の{日|ひ}に{移|うつ}るだけで、あまり{意味|いみ}がない。"
+     ],
+     "answer": 3,
+     "why": "The writer thought the unfinished work would just move to Thursday, so nothing would change."
+    },
+    {
+     "q": "{水曜日|すいようび}に{変|か}わったことは{何|なに}か。",
+     "options": [
+      "{朝|あさ}にその{日|ひ}の{仕事|しごと}を{決|き}めて、{集中|しゅうちゅう}して{働|はたら}くようになった。",
+      "{会議|かいぎ}の{数|かず}が{増|ふ}えた。",
+      "{午後|ごご}{六時|ろくじ}より{前|まえ}に{電気|でんき}が{消|き}えるようになった。",
+      "{全員|ぜんいん}が{料理|りょうり}を{習|なら}うようになった。"
+     ],
+     "answer": 0,
+     "why": "The text says people decide the day's work in the morning and work with focus."
+    },
+    {
+     "q": "「{私|わたし}」がいちばんよかったと{思|おも}っていることは{何|なに}か。",
+     "options": [
+      "{水曜日|すいようび}に{早|はや}く{家|いえ}に{帰|かえ}れるようになったこと",
+      "{同僚|どうりょう}と{料理|りょうり}を{習|なら}えるようになったこと",
+      "{働|はたら}き{方|かた}を{考|かんが}え{直|なお}すきっかけになったこと",
+      "{残業|ざんぎょう}に{反対|はんたい}する{人|ひと}がいなくなったこと"
+     ],
+     "answer": 2,
+     "why": "The last sentence says the best part was the chance to rethink how they work, more than going home early."
+    }
+   ]
+  },
+  {
+   "type": "mid",
+   "text": "{私|わたし}の{住|す}んでいる{町|まち}には、{古|ふる}い{商店街|しょうてんがい}がある。{十年|じゅうねん}ほど{前|まえ}は、シャッターが{閉|し}まったままの{店|みせ}が{多|おお}く、{歩|ある}いている{人|ひと}もほとんどいなかった。\nそこで、{商店街|しょうてんがい}の{人|ひと}たちは、{月|つき}に{一度|いちど}「{朝市|あさいち}」を{開|ひら}くことにした。{近|ちか}くの{農家|のうか}が{野菜|やさい}を{売|う}ったり、{高校生|こうこうせい}が{作|つく}ったパンを{売|う}ったりする。{最初|さいしょ}はお{客|きゃく}さんが{少|すく}なかったが、{若|わか}い{人|ひと}がインターネットで{紹介|しょうかい}してくれたことで、{少|すこ}しずつ{有名|ゆうめい}になった。\n{今|いま}では、{朝市|あさいち}の{日|ひ}には{町|まち}の{外|そと}からも{人|ひと}が{来|く}る。{空|あ}いていた{店|みせ}に、{新|あたら}しいカフェや{本屋|ほんや}もできた。\n{朝市|あさいち}を{始|はじ}めた{一人|ひとり}である{八百屋|やおや}の{主人|しゅじん}は、「{物|もの}を{売|う}るだけなら、スーパーのほうが{便利|べんり}です。でも、ここに{来|く}れば、{知|し}っている{顔|かお}に{会|あ}えて、{話|はなし}ができる。それが{商店街|しょうてんがい}のいいところなんです」と{話|はな}す。",
+   "en": "There is an old shopping street in my town. About ten years ago, many shops had their shutters down and almost nobody walked there. So the people of the shopping street decided to hold a 'morning market' once a month. Local farmers sell vegetables, and high school students sell bread they made. At first there were few customers, but it slowly became well known after young people introduced it on the internet. Now people come from outside the town on market days. New cafes and a bookshop have opened in empty shops. The owner of a vegetable shop, one of the people who started the market, says: 'If it's only about selling things, supermarkets are more convenient. But if you come here, you can meet familiar faces and talk. That's the good thing about a shopping street.'",
+   "questions": [
+    {
+     "q": "{十年|じゅうねん}ほど{前|まえ}の{商店街|しょうてんがい}はどうだったか。",
+     "options": [
+      "{新|あたら}しいカフェがたくさんあった。",
+      "{閉|し}まっている{店|みせ}が{多|おお}く、{人|ひと}が{少|すく}なかった。",
+      "{町|まち}の{外|そと}から{来|く}る{人|ひと}が{多|おお}かった。",
+      "{毎週|まいしゅう}{朝市|あさいち}が{開|ひら}かれていた。"
+     ],
+     "answer": 1,
+     "why": "Ten years ago many shops were closed and almost no one walked there."
+    },
+    {
+     "q": "{朝市|あさいち}が{有名|ゆうめい}になった{理由|りゆう}は{何|なに}か。",
+     "options": [
+      "{若|わか}い{人|ひと}がインターネットで{紹介|しょうかい}したから",
+      "{野菜|やさい}がスーパーより{安|やす}かったから",
+      "{町|まち}の{外|そと}に{広告|こうこく}を{出|だ}したから",
+      "{新|あたら}しい{本屋|ほんや}ができたから"
+     ],
+     "answer": 0,
+     "why": "It became known little by little after young people introduced it online."
+    },
+    {
+     "q": "{八百屋|やおや}の{主人|しゅじん}は、{商店街|しょうてんがい}のいいところは{何|なん}だと{言|い}っているか。",
+     "options": [
+      "スーパーより{便利|べんり}なところ",
+      "{品物|しなもの}の{種類|しゅるい}が{多|おお}いところ",
+      "{人|ひと}と{会|あ}って{話|はな}せるところ",
+      "{町|まち}の{外|そと}から{客|きゃく}が{来|く}るところ"
+     ],
+     "answer": 2,
+     "why": "He says you can meet familiar faces and talk there."
+    }
+   ]
+  },
+  {
+   "type": "long",
+   "text": "{日本|にほん}では、まだ{食|た}べられるのに{捨|す}てられてしまう{食品|しょくひん}が、{一年|いちねん}に{何百万|なんびゃくまん}トンもあると{言|い}われている。これを「{食品|しょくひん}ロス」という。{食品|しょくひん}ロスというと、レストランやスーパーの{問題|もんだい}だと{思|おも}う{人|ひと}が{多|おお}いかもしれない。しかし、{実|じつ}はその{半分|はんぶん}ぐらいは{家庭|かてい}から{出|で}ているそうだ。\n{私|わたし}も、{以前|いぜん}はよく{食|た}べ{物|もの}を{捨|す}てていた。{安|やす}いからといって{野菜|やさい}をたくさん{買|か}い、{使|つか}い{切|き}れずに{冷蔵庫|れいぞうこ}の{奥|おく}で{悪|わる}くしてしまうのだ。{捨|す}てるたびに「もったいない」と{思|おも}ったが、①{同|おな}じことを{繰|く}り{返|かえ}していた。\n{変|か}わったのは、{子|こ}どもの{一言|ひとこと}がきっかけだった。ある{日|ひ}、{小学生|しょうがくせい}の{娘|むすめ}が{学校|がっこう}で{食品|しょくひん}ロスについて{習|なら}ってきて、「うちの{冷蔵庫|れいぞうこ}にも、{捨|す}てられそうな{野菜|やさい}があるよ」と{言|い}ったのだ。{私|わたし}は{恥|は}ずかしくなった。\nそれから、{私|わたし}は{二|ふた}つのことを{始|はじ}めた。{一|ひと}つは、{買|か}い{物|もの}の{前|まえ}に{冷蔵庫|れいぞうこ}の{中|なか}を{写真|しゃしん}に{撮|と}ることだ。こうすれば、{店|みせ}で{家|いえ}にあるものを{確|たし}かめられるので、{同|おな}じものを{買|か}わずに{済|す}む。もう{一|ひと}つは、{週末|しゅうまつ}に{残|のこ}っている{野菜|やさい}を{全部|ぜんぶ}{使|つか}って、スープを{作|つく}ることだ。{家族|かぞく}は、{毎週|まいしゅう}{違|ちが}う{味|あじ}になるこのスープを{楽|たの}しみにしてくれている。\n{一人|ひとり}がやることは{小|ちい}さい。しかし、{多|おお}くの{家庭|かてい}が{少|すこ}しずつ{気|き}をつければ、{社会|しゃかい}{全体|ぜんたい}では{大|おお}きな{違|ちが}いになるはずだ。{大切|たいせつ}なのは、{完璧|かんぺき}を{目指|めざ}すことではなく、できることを{続|つづ}けることだと{思|おも}う。",
+   "en": "In Japan, it is said that millions of tons of food that could still be eaten are thrown away every year. This is called 'food loss'. Many people may think food loss is a problem for restaurants and supermarkets, but in fact about half of it comes from homes. I also used to throw food away often. I bought lots of vegetables because they were cheap, couldn't use them all, and let them go bad at the back of the fridge. Each time I threw them away I thought 'what a waste', but I kept doing the same thing. What changed me was something my child said. One day my daughter, who is in elementary school, learned about food loss at school and said, 'There are vegetables in our fridge that are going to be thrown away too.' I felt ashamed. After that, I started two things. One is taking a photo of the inside of the fridge before shopping. This way I can check what I have at home while in the shop, so I don't buy the same things. The other is making soup on weekends using all the leftover vegetables. My family looks forward to this soup, which tastes different every week. What one person does is small. But if many homes are a little careful, it should make a big difference for society as a whole. I think the important thing is not aiming for perfection but continuing to do what you can.",
+   "questions": [
+    {
+     "q": "①{同|おな}じこととは、どんなことか。",
+     "options": [
+      "{安|やす}い{野菜|やさい}を{買|か}いすぎて、{使|つか}う{前|まえ}に{悪|わる}くしてしまうこと",
+      "スーパーで{売|う}れ{残|のこ}った{食品|しょくひん}を{買|か}うこと",
+      "{冷蔵庫|れいぞうこ}の{中|なか}を{写真|しゃしん}に{撮|と}ること",
+      "{子|こ}どもに{食品|しょくひん}ロスについて{教|おし}えること"
+     ],
+     "answer": 0,
+     "why": "The sentence before explains buying too many cheap vegetables and letting them go bad."
+    },
+    {
+     "q": "「{私|わたし}」が{食品|しょくひん}ロスに{気|き}をつけるようになったきっかけは{何|なん}か。",
+     "options": [
+      "{新聞|しんぶん}で{食品|しょくひん}ロスの{記事|きじ}を{読|よ}んだこと",
+      "{娘|むすめ}に{冷蔵庫|れいぞうこ}の{野菜|やさい}のことを{言|い}われたこと",
+      "{自分|じぶん}が{学校|がっこう}で{食品|しょくひん}ロスについて{習|なら}ったこと",
+      "{家族|かぞく}にスープを{作|つく}ってほしいと{頼|たの}まれたこと"
+     ],
+     "answer": 1,
+     "why": "The change came from what the daughter said about the vegetables in the fridge."
+    },
+    {
+     "q": "{買|か}い{物|もの}の{前|まえ}に{冷蔵庫|れいぞうこ}の{中|なか}を{写真|しゃしん}に{撮|と}るのはなぜか。",
+     "options": [
+      "{家族|かぞく}に{料理|りょうり}を{見|み}せるため",
+      "{娘|むすめ}の{宿題|しゅくだい}に{使|つか}うため",
+      "{冷蔵庫|れいぞうこ}をきれいにするため",
+      "{家|いえ}にあるものと{同|おな}じものを{買|か}わないようにするため"
+     ],
+     "answer": 3,
+     "why": "The photo lets the writer check what is at home so as not to buy the same things."
+    },
+    {
+     "q": "この{文章|ぶんしょう}で{筆者|ひっしゃ}が{最|もっと}も{言|い}いたいことは{何|なに}か。",
+     "options": [
+      "{食品|しょくひん}ロスは、レストランやスーパーの{責任|せきにん}だ。",
+      "{食品|しょくひん}ロスをなくすには、{毎日|まいにち}スープを{作|つく}るべきだ。",
+      "{完璧|かんぺき}でなくても、できることを{続|つづ}けるのが{大切|たいせつ}だ。",
+      "{子|こ}どもに{料理|りょうり}を{教|おし}えることが{大切|たいせつ}だ。"
+     ],
+     "answer": 2,
+     "why": "The writer ends by saying it is important to keep doing what you can rather than aim for perfection."
+    }
+   ]
+  },
+  {
+   "type": "info",
+   "text": "{市民|しみん}センター　{秋|あき}のエコ{講座|こうざ}のご{案内|あんない}\n① {生|なま}ごみで{肥料|ひりょう}を{作|つく}ろう　10{月|がつ}5{日|か}（{土|ど}）10:00〜12:00　{定員|ていいん}20{名|めい}　{参加費|さんかひ}300{円|えん}（{材料費|ざいりょうひ}）\n② {古|ふる}い{服|ふく}でバッグ{作|づく}り　10{月|がつ}12{日|にち}（{土|ど}）13:00〜15:00　{定員|ていいん}15{名|めい}　{参加費|さんかひ}{無料|むりょう}　※{古|ふる}いTシャツを1{枚|まい}{持|も}ってきてください\n③ {親子|おやこ}で{学|まな}ぶ{川|かわ}の{生|い}き{物|もの}　10{月|がつ}19{日|にち}（{日|にち}）9:00〜11:30　{定員|ていいん}10{組|くみ}　{参加費|さんかひ}1{組|くみ}500{円|えん}　※{小学生|しょうがくせい}とその{保護者|ほごしゃ}\n④ {家|いえ}でできる{節電|せつでん}の{工夫|くふう}　10{月|がつ}26{日|にち}（{日|にち}）14:00〜15:30　{定員|ていいん}30{名|めい}　{参加費|さんかひ}{無料|むりょう}\n・{申|もう}し{込|こ}みは、{各講座|かくこうざ}の{一週間前|いっしゅうかんまえ}までに、{電話|でんわ}かセンターの{受付|うけつけ}でお{願|ねが}いします。\n・{定員|ていいん}になりしだい、{受付|うけつけ}を{終|お}わります。\n・③は、{雨|あめ}の{場合|ばあい}はセンターの{中|なか}で{行|おこな}います。",
+   "en": "Community Center autumn eco classes. 1) Making fertilizer from food scraps: Oct 5 (Sat) 10:00-12:00, 20 people, 300 yen (materials). 2) Making bags from old clothes: Oct 12 (Sat) 13:00-15:00, 15 people, free; bring one old T-shirt. 3) River creatures for parents and children: Oct 19 (Sun) 9:00-11:30, 10 pairs, 500 yen per pair; for elementary school children and their parent. 4) Ways to save electricity at home: Oct 26 (Sun) 14:00-15:30, 30 people, free. Apply by phone or at the center's front desk at least one week before each class. Applications close when the class is full. If it rains, class 3 will be held inside the center.",
+   "questions": [
+    {
+     "q": "{会社員|かいしゃいん}のリンさんは、{土曜日|どようび}の{午後|ごご}しか{時間|じかん}がない。お{金|かね}をかけずに{参加|さんか}したい。どの{講座|こうざ}がいいか。",
+     "options": [
+      "①",
+      "②",
+      "③",
+      "④"
+     ],
+     "answer": 1,
+     "why": "Only class 2 is on a Saturday afternoon, and it is free."
+    },
+    {
+     "q": "{小学生|しょうがくせい}の{子|こ}どもと③に{参加|さんか}したい。いつまでに、どのように{申|もう}し{込|こ}まなければならないか。",
+     "options": [
+      "10{月|がつ}12{日|にち}までに、インターネットで{申|もう}し{込|こ}む。",
+      "10{月|がつ}19{日|にち}の{当日|とうじつ}に、センターの{受付|うけつけ}で{申|もう}し{込|こ}む。",
+      "10{月|がつ}26{日|にち}までに、{電話|でんわ}で{申|もう}し{込|こ}む。",
+      "10{月|がつ}12{日|にち}までに、{電話|でんわ}かセンターの{受付|うけつけ}で{申|もう}し{込|こ}む。"
+     ],
+     "answer": 3,
+     "why": "Class 3 is on Oct 19, so you must apply one week before, by Oct 12, by phone or at the desk."
+    }
+   ]
+  }
+ ],
+ "listening": [
+  {
+   "type": "task",
+   "setup": "{会社|かいしゃ}で、{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はこのあとまず{何|なに}をしなければなりませんか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{森|もり}さん、{明日|あした}の{会議|かいぎ}の{準備|じゅんび}、どうなってる？"
+    },
+    {
+     "s": "M",
+     "jp": "はい、{資料|しりょう}はもう{作|つく}ってあります。これからコピーしようと{思|おも}っていました。"
+    },
+    {
+     "s": "F",
+     "jp": "あ、コピーの{前|まえ}に、{部長|ぶちょう}に{一度|いちど}{見|み}てもらってくれる？{数字|すうじ}が{変|か}わるかもしれないって{言|い}ってたから。"
+    },
+    {
+     "s": "M",
+     "jp": "わかりました。{会議室|かいぎしつ}の{予約|よやく}はどうしましょうか。"
+    },
+    {
+     "s": "F",
+     "jp": "それは{私|わたし}がもうしておいたから{大丈夫|だいじょうぶ}。"
+    },
+    {
+     "s": "M",
+     "jp": "ありがとうございます。じゃあ、すぐ{行|い}ってきます。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}はこのあとまず{何|なに}をしなければなりませんか。",
+   "options": [
+    "{資料|しりょう}を{作|つく}る",
+    "{資料|しりょう}をコピーする",
+    "{部長|ぶちょう}に{資料|しりょう}を{見|み}せる",
+    "{会議室|かいぎしつ}を{予約|よやく}する"
+   ],
+   "answer": 2,
+   "en": "F: Mori, how is the preparation for tomorrow's meeting going? M: The materials are already made. I was about to copy them. F: Before copying, could you have the manager look at them once? He said the numbers might change. M: OK. What about booking the room? F: I already did that. M: Thanks. I'll go right now.",
+   "why": "She asks him to show the materials to the manager before copying; the materials are done and the room is booked."
+  },
+  {
+   "type": "task",
+   "setup": "{市役所|しやくしょ}で、{女|おんな}の{人|ひと}が{係|かかり}の{人|ひと}と{話|はな}しています。{女|おんな}の{人|ひと}はこのあとまず{何|なに}をしますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "すみません、{古|ふる}いいすを{捨|す}てたいんですが、どうすればいいですか。"
+    },
+    {
+     "s": "M",
+     "jp": "{大|おお}きいごみですね。コンビニで{大型|おおがた}ごみの{処理券|しょりけん}を{買|か}って、お{電話|でんわ}で{収集|しゅうしゅう}の{日|ひ}を{予約|よやく}していただきます。"
+    },
+    {
+     "s": "F",
+     "jp": "じゃあ、{帰|かえ}りにコンビニで{券|けん}を{買|か}えばいいですね。"
+    },
+    {
+     "s": "M",
+     "jp": "あ、{券|けん}は{大|おお}きさによって{値段|ねだん}が{違|ちが}うんです。ですから、{先|さき}にお{電話|でんわ}で{予約|よやく}して、そのときにいくらの{券|けん}が{必要|ひつよう}か{聞|き}いてください。"
+    },
+    {
+     "s": "F",
+     "jp": "わかりました。じゃあ、{家|いえ}に{帰|かえ}ったらすぐ{電話|でんわ}します。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}はこのあとまず{何|なに}をしますか。",
+   "options": [
+    "{電話|でんわ}で{収集|しゅうしゅう}の{日|ひ}を{予約|よやく}する",
+    "コンビニで{処理券|しょりけん}を{買|か}う",
+    "いすを{収集|しゅうしゅう}{場所|ばしょ}に{出|だ}す",
+    "いすの{大|おお}きさを{測|はか}る"
+   ],
+   "answer": 0,
+   "en": "F: Excuse me, I want to throw away an old chair. What should I do? M: It's large garbage. You buy a large-garbage sticker at a convenience store and book a collection day by phone. F: So I just buy the sticker on my way home. M: Ah, the price depends on the size. So please book by phone first and ask then how much sticker you need. F: OK, I'll call as soon as I get home.",
+   "why": "The clerk says to phone and book first, because the phone call tells her which sticker to buy."
+  },
+  {
+   "type": "task",
+   "setup": "{男|おとこ}の{学生|がくせい}と{女|おんな}の{学生|がくせい}が{話|はな}しています。{男|おとこ}の{学生|がくせい}は{日曜日|にちようび}に{何|なに}を{持|も}っていきますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{日曜日|にちようび}の{海|うみ}のごみ{拾|ひろ}い、{何|なに}を{持|も}っていけばいい？"
+    },
+    {
+     "s": "F",
+     "jp": "{手袋|てぶくろ}とごみ{袋|ぶくろ}は、{会場|かいじょう}で{貸|か}してくれるよ。"
+    },
+    {
+     "s": "M",
+     "jp": "そうなんだ。{飲|の}み{物|もの}は？"
+    },
+    {
+     "s": "F",
+     "jp": "{水|みず}は{配|くば}るって。でも、{帽子|ぼうし}は{自分|じぶん}で{持|も}ってきてくださいって{書|か}いてあった。{日差|ひざ}しが{強|つよ}いから。"
+    },
+    {
+     "s": "M",
+     "jp": "わかった。タオルも{持|も}っていこうかな。"
+    },
+    {
+     "s": "F",
+     "jp": "タオルは、{参加|さんか}した{人|ひと}に{一枚|いちまい}ずつくれるみたいだよ。"
+    },
+    {
+     "s": "M",
+     "jp": "じゃあ、いらないね。"
+    }
+   ],
+   "question": "{男|おとこ}の{学生|がくせい}は{日曜日|にちようび}に{何|なに}を{持|も}っていきますか。",
+   "options": [
+    "{手袋|てぶくろ}",
+    "{水|みず}",
+    "タオル",
+    "{帽子|ぼうし}"
+   ],
+   "answer": 3,
+   "en": "M: What should I bring to Sunday's beach clean-up? F: They lend gloves and garbage bags there. M: I see. What about drinks? F: They'll hand out water. But it said to bring your own hat, because the sun is strong. M: OK. Maybe I'll bring a towel too. F: It seems they give each participant a towel. M: Then I don't need one.",
+   "why": "Gloves, bags, water and a towel are provided; only the hat must be brought."
+  },
+  {
+   "type": "task",
+   "setup": "{会社|かいしゃ}で、{課長|かちょう}が{新|あたら}しい{社員|しゃいん}に{話|はな}しています。{新|あたら}しい{社員|しゃいん}は{明日|あした}{会社|かいしゃ}に{来|き}たら、まず{何|なに}をしますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{明日|あした}は{九時|くじ}から{研修|けんしゅう}があります。{研修|けんしゅう}は{五階|ごかい}の{会議室|かいぎしつ}です。でも、その{前|まえ}に{一階|いっかい}の{受付|うけつけ}で{社員証|しゃいんしょう}を{受|う}け{取|と}ってください。{社員証|しゃいんしょう}がないと、エレベーターに{乗|の}れませんから。パソコンの{設定|せってい}は、{研修|けんしゅう}が{終|お}わってから、{自分|じぶん}の{席|せき}でやってもらいます。"
+    }
+   ],
+   "question": "{新|あたら}しい{社員|しゃいん}は{明日|あした}{会社|かいしゃ}に{来|き}たら、まず{何|なに}をしますか。",
+   "options": [
+    "{五階|ごかい}の{会議室|かいぎしつ}に{行|い}く",
+    "{受付|うけつけ}で{社員証|しゃいんしょう}をもらう",
+    "パソコンの{設定|せってい}をする",
+    "{自分|じぶん}の{席|せき}に{行|い}く"
+   ],
+   "answer": 1,
+   "en": "F: Tomorrow there is training from nine in the meeting room on the fifth floor. But before that, please pick up your staff ID at the reception on the first floor. Without the ID you can't use the elevator. You'll set up your computer at your own desk after the training.",
+   "why": "The ID must be picked up first, because without it you cannot take the elevator to the training room."
+  },
+  {
+   "type": "task",
+   "setup": "マンションの{管理人|かんりにん}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はこのあと{何|なに}をしますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{佐々木|ささき}さん、{来週|らいしゅう}の{防災訓練|ぼうさいくんれん}、{参加|さんか}できますか。"
+    },
+    {
+     "s": "M",
+     "jp": "はい、{出|で}るつもりです。{何|なに}か{準備|じゅんび}するものはありますか。"
+    },
+    {
+     "s": "F",
+     "jp": "この{紙|かみ}に{家族|かぞく}の{人数|にんずう}を{書|か}いて、{今週中|こんしゅうちゅう}に{出|だ}してほしいんです。"
+    },
+    {
+     "s": "M",
+     "jp": "あ、じゃあ{今|いま}ここで{書|か}きますね。"
+    },
+    {
+     "s": "F",
+     "jp": "ありがとうございます。それから、{当日|とうじつ}は{動|うご}きやすい{靴|くつ}で{来|き}てくださいね。"
+    },
+    {
+     "s": "M",
+     "jp": "わかりました。{運動靴|うんどうぐつ}なら{持|も}っているので{大丈夫|だいじょうぶ}です。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}はこのあと{何|なに}をしますか。",
+   "options": [
+    "{動|うご}きやすい{靴|くつ}を{買|か}いに{行|い}く",
+    "{家族|かぞく}に{訓練|くんれん}のことを{聞|き}く",
+    "{紙|かみ}に{家族|かぞく}の{人数|にんずう}を{書|か}く",
+    "{来週|らいしゅう}、{紙|かみ}を{管理人|かんりにん}に{出|だ}す"
+   ],
+   "answer": 2,
+   "en": "F: Mr. Sasaki, can you join next week's disaster drill? M: Yes, I plan to. Is there anything to prepare? F: Please write the number of people in your family on this paper and hand it in this week. M: Then I'll write it here now. F: Thank you. And please wear shoes that are easy to move in on the day. M: OK. I have sneakers, so that's fine.",
+   "why": "He says he will write the number of family members on the paper right now."
+  },
+  {
+   "type": "task",
+   "setup": "{会社|かいしゃ}で、{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}はこのあとまず{何|なに}をしますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{石井|いしい}さん、コピー{用紙|ようし}がもうないんだけど、{注文|ちゅうもん}してくれた？"
+    },
+    {
+     "s": "F",
+     "jp": "あ、すみません、まだです。すぐインターネットで{注文|ちゅうもん}します。"
+    },
+    {
+     "s": "M",
+     "jp": "でも、{届|とど}くのは{明後日|あさって}でしょう？{今日|きょう}の{午後|ごご}、{会議|かいぎ}の{資料|しりょう}を{印刷|いんさつ}しなきゃいけないんだ。"
+    },
+    {
+     "s": "F",
+     "jp": "じゃあ、{今|いま}から{近|ちか}くの{文房具屋|ぶんぼうぐや}で{少|すこ}し{買|か}ってきます。{注文|ちゅうもん}はそのあとでします。"
+    },
+    {
+     "s": "M",
+     "jp": "{悪|わる}いね。お{願|ねが}い。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}はこのあとまず{何|なに}をしますか。",
+   "options": [
+    "インターネットで{用紙|ようし}を{注文|ちゅうもん}する",
+    "{文房具屋|ぶんぼうぐや}で{用紙|ようし}を{買|か}う",
+    "{会議|かいぎ}の{資料|しりょう}を{印刷|いんさつ}する",
+    "{隣|となり}の{部署|ぶしょ}に{用紙|ようし}を{借|か}りに{行|い}く"
+   ],
+   "answer": 1,
+   "en": "M: Ishii, we're out of copy paper. Did you order some? F: Sorry, not yet. I'll order online right away. M: But it will arrive the day after tomorrow, right? I have to print meeting materials this afternoon. F: Then I'll go buy a little at the stationery shop nearby now. I'll order after that. M: Sorry, thanks.",
+   "why": "She will buy paper at the stationery shop first and order online afterwards."
+  },
+  {
+   "type": "point",
+   "setup": "{会社|かいしゃ}で、{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}はどうして{昨日|きのう}{会社|かいしゃ}を{休|やす}みましたか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{昨日|きのう}、{休|やす}みだったね。{風邪|かぜ}？"
+    },
+    {
+     "s": "F",
+     "jp": "ううん、{元気|げんき}だよ。{実|じつ}は、{子|こ}どもの{学校|がっこう}から{電話|でんわ}があってね。"
+    },
+    {
+     "s": "M",
+     "jp": "え、お{子|こ}さん、けがでもしたの？"
+    },
+    {
+     "s": "F",
+     "jp": "ううん、そうじゃなくて、{学校|がっこう}の{水道管|すいどうかん}が{壊|こわ}れて、{急|きゅう}に{休校|きゅうこう}になったの。{家|いえ}に{一人|ひとり}で{置|お}いておけないから。"
+    },
+    {
+     "s": "M",
+     "jp": "そうだったんだ。{大変|たいへん}だったね。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}はどうして{昨日|きのう}{会社|かいしゃ}を{休|やす}みましたか。",
+   "options": [
+    "{風邪|かぜ}をひいたから",
+    "{子|こ}どもがけがをしたから",
+    "{家|いえ}の{水道|すいどう}が{壊|こわ}れたから",
+    "{子|こ}どもの{学校|がっこう}が{急|きゅう}に{休|やす}みになったから"
+   ],
+   "answer": 3,
+   "en": "M: You were off yesterday. A cold? F: No, I'm fine. Actually, I got a call from my child's school. M: Oh, did your child get hurt? F: No, the school's water pipes broke and the school suddenly closed for the day. I couldn't leave my child at home alone. M: I see. That was tough.",
+   "why": "The school's pipes broke and it closed suddenly, so she stayed home with her child."
+  },
+  {
+   "type": "point",
+   "setup": "{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}が{町|まち}のお{祭|まつ}りの{手伝|てつだ}いをすることにしたいちばんの{理由|りゆう}は{何|なん}ですか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{田村|たむら}さん、{今年|ことし}はお{祭|まつ}りの{手伝|てつだ}いをするんですって？"
+    },
+    {
+     "s": "M",
+     "jp": "ええ。{去年|きょねん}{引|ひ}っ{越|こ}してきたばかりで、まだ{近所|きんじょ}に{知|し}り{合|あ}いが{少|すく}ないんですよ。"
+    },
+    {
+     "s": "F",
+     "jp": "そうですか。でも、{手伝|てつだ}いは{大変|たいへん}ですよ。"
+    },
+    {
+     "s": "M",
+     "jp": "ええ、{聞|き}いています。{子|こ}どもも{楽|たの}しみにしているし、{焼|や}きそばを{作|つく}るのも{好|す}きですしね。でも{何|なに}より、{近所|きんじょ}の{人|ひと}と{知|し}り{合|あ}いになりたいんです。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}が{町|まち}のお{祭|まつ}りの{手伝|てつだ}いをすることにしたいちばんの{理由|りゆう}は{何|なん}ですか。",
+   "options": [
+    "{子|こ}どもに{頼|たの}まれたから",
+    "{近所|きんじょ}の{人|ひと}と{知|し}り{合|あ}いになりたいから",
+    "{焼|や}きそばを{作|つく}るのが{好|す}きだから",
+    "{町内会|ちょうないかい}の{人|ひと}に{誘|さそ}われたから"
+   ],
+   "answer": 1,
+   "en": "F: Mr. Tamura, I hear you're helping with the festival this year? M: Yes. I only moved here last year, and I still don't know many people in the neighborhood. F: I see. But helping is hard work. M: Yes, I've heard. My kids are looking forward to it, and I like making yakisoba. But more than anything, I want to get to know my neighbors.",
+   "why": "He says 'more than anything' he wants to get to know his neighbors."
+  },
+  {
+   "type": "point",
+   "setup": "ラジオで{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}は、{川|かわ}の{魚|さかな}が{少|すく}なくなった{一番|いちばん}の{原因|げんいん}は{何|なん}だと{言|い}っていますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{最近|さいきん}、この{川|かわ}で{魚|さかな}が{少|すく}なくなっています。{工場|こうじょう}の{水|みず}が{原因|げんいん}ではないかと{言|い}う{人|ひと}もいますが、{調|しら}べてみると、{工場|こうじょう}の{水|みず}はきれいにしてから{流|なが}されていました。{問題|もんだい}は、{川|かわ}の{水|みず}の{温度|おんど}です。{夏|なつ}の{暑|あつ}さが{年々|ねんねん}{厳|きび}しくなり、{水|みず}が{温|あたた}かくなりすぎて、{魚|さかな}が{住|す}めなくなっているのです。ごみも{問題|もんだい}ですが、{魚|さかな}が{少|すく}なくなった{一番|いちばん}の{理由|りゆう}ではありません。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}は、{川|かわ}の{魚|さかな}が{少|すく}なくなった{一番|いちばん}の{原因|げんいん}は{何|なん}だと{言|い}っていますか。",
+   "options": [
+    "{川|かわ}の{水|みず}が{温|あたた}かくなったこと",
+    "{工場|こうじょう}の{水|みず}がきれいではないこと",
+    "{川|かわ}にごみが{多|おお}いこと",
+    "{魚|さかな}を{取|と}る{人|ひと}が{増|ふ}えたこと"
+   ],
+   "answer": 0,
+   "en": "M: Recently there are fewer fish in this river. Some people say the factory water is the cause, but when we checked, the factory cleans its water before releasing it. The problem is the water temperature. Summers are getting hotter every year, the water gets too warm, and fish can no longer live there. Garbage is also a problem, but it is not the main reason the fish have decreased.",
+   "why": "He says the factory water is clean and garbage is not the main reason; the water has become too warm."
+  },
+  {
+   "type": "point",
+   "setup": "{店|みせ}で、{女|おんな}の{人|ひと}と{店員|てんいん}が{話|はな}しています。{女|おんな}の{人|ひと}はどうしてこの{冷蔵庫|れいぞうこ}を{買|か}いませんか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "この{冷蔵庫|れいぞうこ}、{電気代|でんきだい}が{安|やす}いんですよね。"
+    },
+    {
+     "s": "M",
+     "jp": "はい、{古|ふる}いものと{比|くら}べると、{半分|はんぶん}ぐらいになります。"
+    },
+    {
+     "s": "F",
+     "jp": "{色|いろ}もいいし、{値段|ねだん}も{思|おも}ったより{高|たか}くないですね。サイズは…あ、{高|たか}さが180センチですか。うちの{台所|だいどころ}は{上|うえ}に{棚|たな}があるので、170センチまでしか{入|はい}らないんです。"
+    },
+    {
+     "s": "M",
+     "jp": "そうですか。{同|おな}じシリーズで、もう{少|すこ}し{低|ひく}いものもございますが…。"
+    },
+    {
+     "s": "F",
+     "jp": "うーん、それだと{中|なか}が{狭|せま}いので、もう{少|すこ}し{考|かんが}えます。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}はどうしてこの{冷蔵庫|れいぞうこ}を{買|か}いませんか。",
+   "options": [
+    "{電気代|でんきだい}が{高|たか}いから",
+    "{値段|ねだん}が{高|たか}いから",
+    "{台所|だいどころ}に{入|はい}らないから",
+    "{色|いろ}が{好|す}きではないから"
+   ],
+   "answer": 2,
+   "en": "F: This fridge has low electricity costs, right? M: Yes, about half compared with an old one. F: The color is nice and it's not as expensive as I thought. The size... oh, it's 180 cm tall? My kitchen has a shelf above, so only up to 170 cm fits. M: I see. There is a slightly lower one in the same series... F: Hmm, that one is too small inside, so I'll think about it more.",
+   "why": "This fridge is 180 cm tall, and only 170 cm fits in her kitchen."
+  },
+  {
+   "type": "point",
+   "setup": "{会社|かいしゃ}で、{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{明日|あした}の{会議|かいぎ}について、{何|なに}が{変|か}わりましたか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{明日|あした}の{会議|かいぎ}のこと、もう{聞|き}いた？"
+    },
+    {
+     "s": "M",
+     "jp": "いいえ。{時間|じかん}が{変|か}わったんですか。"
+    },
+    {
+     "s": "F",
+     "jp": "ううん、{時間|じかん}は{十時|じゅうじ}のまま。{会議室|かいぎしつ}のエアコンが{壊|こわ}れちゃって、{七階|ななかい}の{大会議室|だいかいぎしつ}でやることになったの。"
+    },
+    {
+     "s": "M",
+     "jp": "そうですか。{部長|ぶちょう}も{出|で}られますか。"
+    },
+    {
+     "s": "F",
+     "jp": "うん、{出席者|しゅっせきしゃ}は{前|まえ}と{同|おな}じ。"
+    }
+   ],
+   "question": "{明日|あした}の{会議|かいぎ}について、{何|なに}が{変|か}わりましたか。",
+   "options": [
+    "{会議|かいぎ}の{場所|ばしょ}",
+    "{会議|かいぎ}の{時間|じかん}",
+    "{会議|かいぎ}に{出|で}る{人|ひと}",
+    "{会議|かいぎ}の{日|ひ}"
+   ],
+   "answer": 0,
+   "en": "F: Have you heard about tomorrow's meeting? M: No. Did the time change? F: No, the time is still ten. The air conditioner in the meeting room broke, so we'll hold it in the large meeting room on the seventh floor. M: I see. Will the manager attend too? F: Yes, the attendees are the same as before.",
+   "why": "Only the room changed; the time and the people stay the same."
+  },
+  {
+   "type": "point",
+   "setup": "{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}は、{新|あたら}しい{町|まち}で{何|なに}がいちばん{大変|たいへん}だと{言|い}っていますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{新|あたら}しい{町|まち}にはもう{慣|な}れた？"
+    },
+    {
+     "s": "F",
+     "jp": "うん、だいぶね。{駅|えき}からはちょっと{遠|とお}いけど、バスがたくさんあるから{困|こま}らないし。"
+    },
+    {
+     "s": "M",
+     "jp": "{買|か}い{物|もの}は？"
+    },
+    {
+     "s": "F",
+     "jp": "{近|ちか}くに{大|おお}きいスーパーがあるから{便利|べんり}。ただ、ごみの{分|わ}け{方|かた}が{前|まえ}の{町|まち}よりずっと{細|こま}かくて、それが{一番|いちばん}{大変|たいへん}。プラスチックも{三種類|さんしゅるい}に{分|わ}けなきゃいけないんだよ。"
+    },
+    {
+     "s": "M",
+     "jp": "へえ、それは{大変|たいへん}だね。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}は、{新|あたら}しい{町|まち}で{何|なに}がいちばん{大変|たいへん}だと{言|い}っていますか。",
+   "options": [
+    "{駅|えき}から{遠|とお}いこと",
+    "バスが{少|すく}ないこと",
+    "{近|ちか}くにスーパーがないこと",
+    "ごみの{分|わ}け{方|かた}が{細|こま}かいこと"
+   ],
+   "answer": 3,
+   "en": "M: Are you used to your new town yet? F: Yes, mostly. It's a bit far from the station, but there are lots of buses, so it's no problem. M: What about shopping? F: There's a big supermarket nearby, so it's convenient. But the garbage sorting is much more detailed than in my old town, and that's the hardest part. I even have to split plastic into three types. M: Wow, that's tough.",
+   "why": "She says the detailed garbage sorting is the hardest thing; the station and shopping are fine."
+  },
+  {
+   "type": "summary",
+   "setup": "{会社|かいしゃ}の{朝|あさ}の{会|かい}で、{部長|ぶちょう}が{話|はな}しています。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "みなさん、おはようございます。{今月|こんげつ}から、{会社|かいしゃ}の{中|なか}で{紙|かみ}を{使|つか}う{量|りょう}を{少|すく}なくすることになりました。{会議|かいぎ}の{資料|しりょう}は{印刷|いんさつ}せずに、パソコンの{画面|がめん}で{見|み}るようにしてください。もちろん、お{客様|きゃくさま}に{渡|わた}す{書類|しょるい}は、これまでどおり{印刷|いんさつ}してかまいません。{最初|さいしょ}は{慣|な}れないかもしれませんが、{紙|かみ}の{代金|だいきん}も{安|やす}くなりますし、{地球|ちきゅう}のためにもなります。よろしくお{願|ねが}いします。"
+    }
+   ],
+   "question": "{部長|ぶちょう}が{言|い}いたいことは{何|なん}ですか。",
+   "options": [
+    "お{客様|きゃくさま}に{渡|わた}す{書類|しょるい}も{印刷|いんさつ}しないでほしい",
+    "{会議|かいぎ}の{資料|しりょう}は{印刷|いんさつ}しないでほしい",
+    "{新|あたら}しいパソコンを{使|つか}ってほしい",
+    "{紙|かみ}を{安|やす}い{店|みせ}で{買|か}ってほしい"
+   ],
+   "answer": 1,
+   "en": "M: Good morning, everyone. From this month, we will use less paper in the company. Please don't print meeting materials; look at them on your computer screen instead. Of course, you may still print documents for customers as before. It may feel strange at first, but it will lower paper costs and it's good for the planet. Thank you.",
+   "why": "The main request is to stop printing meeting materials; customer documents can still be printed."
+  },
+  {
+   "type": "summary",
+   "setup": "{町|まち}の{放送|ほうそう}で、{女|おんな}の{人|ひと}が{話|はな}しています。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{市|し}からのお{知|し}らせです。{来月|らいげつ}から、{駅前|えきまえ}や{市役所|しやくしょ}、{図書館|としょかん}など、{市内|しない}の{十|じゅっ}か{所|しょ}で{自転車|じてんしゃ}を{借|か}りられるようになります。{借|か}りた{場所|ばしょ}とは{違|ちが}う{場所|ばしょ}に{返|かえ}すこともできます。{最初|さいしょ}の{三十分|さんじゅっぷん}は{無料|むりょう}で、そのあとは{三十分|さんじゅっぷん}ごとに{百円|ひゃくえん}かかります。{車|くるま}の{代|か}わりに{自転車|じてんしゃ}を{使|つか}えば、{道|みち}も{混|こ}まなくなり、{空気|くうき}もきれいになります。ぜひご{利用|りよう}ください。"
+    }
+   ],
+   "question": "{何|なに}についてのお{知|し}らせですか。",
+   "options": [
+    "{自転車|じてんしゃ}の{正|ただ}しい{止|と}め{方|かた}",
+    "{駅前|えきまえ}の{道|みち}の{工事|こうじ}",
+    "{新|あたら}しく{始|はじ}まる{自転車|じてんしゃ}を{借|か}りるサービス",
+    "{車|くるま}を{使|つか}わない{日|ひ}のイベント"
+   ],
+   "answer": 2,
+   "en": "F: This is a notice from the city. From next month, you can rent bicycles at ten places in the city, such as in front of the station, the city hall and the library. You can return a bike to a different place from where you rented it. The first 30 minutes are free, and after that it costs 100 yen for every 30 minutes. If you use a bike instead of a car, the roads will be less crowded and the air will be cleaner. Please use it.",
+   "why": "The whole notice explains a new bike rental service starting next month."
+  },
+  {
+   "type": "summary",
+   "setup": "{市民|しみん}{講座|こうざ}で、{女|おんな}の{人|ひと}が{話|はな}しています。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{皆|みな}さんは「{緑|みどり}のカーテン」を{知|し}っていますか。{夏|なつ}に、{窓|まど}の{外|そと}でゴーヤやアサガオなどの{植物|しょくぶつ}を{育|そだ}てて、カーテンのようにするものです。{葉|は}が{日差|ひざ}しをさえぎるので、{部屋|へや}の{温度|おんど}が{上|あ}がりにくくなります。そのため、エアコンを{使|つか}う{時間|じかん}が{短|みじか}くなり、{電気|でんき}の{節約|せつやく}になるのです。それに、ゴーヤは{食|た}べることもできます。{今日|きょう}は{種|たね}のまき{方|かた}から{教|おし}えますので、ぜひ{家|いえ}でやってみてください。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}は{何|なに}について{話|はな}していますか。",
+   "options": [
+    "ゴーヤのおいしい{料理|りょうり}の{作|つく}り{方|かた}",
+    "エアコンの{正|ただ}しい{使|つか}い{方|かた}",
+    "カーテンの{選|えら}び{方|かた}",
+    "{植物|しょくぶつ}で{部屋|へや}を{涼|すず}しくする{方法|ほうほう}"
+   ],
+   "answer": 3,
+   "en": "F: Do you know about 'green curtains'? In summer you grow plants such as bitter melon or morning glory outside the window, like a curtain. The leaves block the sunlight, so the room does not get hot so easily. That means you use the air conditioner for a shorter time and save electricity. And you can eat the bitter melon too. Today I'll teach you from how to plant the seeds, so please try it at home.",
+   "why": "She explains growing plants outside the window to keep rooms cool and save electricity."
+  },
+  {
+   "type": "utterance",
+   "setup": "{絵|え}を{見|み}ながら{質問|しつもん}を{聞|き}いてください。",
+   "lines": [
+    {
+     "s": "N",
+     "jp": "{会社|かいしゃ}で、{先輩|せんぱい}に{仕事|しごと}を{手伝|てつだ}ってもらいたいです。{何|なん}と{言|い}いますか。"
+    }
+   ],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "すみません、ちょっと{手伝|てつだ}っていただけませんか。",
+    "すみません、ちょっと{手伝|てつだ}ってあげましょうか。",
+    "すみません、ちょっと{手伝|てつだ}ってもいいですか。"
+   ],
+   "answer": 0,
+   "en": "At work, you want a senior colleague to help you. What do you say?",
+   "why": "You are asking for help, so ～ていただけませんか is right; the others offer to help."
+  },
+  {
+   "type": "utterance",
+   "setup": "{絵|え}を{見|み}ながら{質問|しつもん}を{聞|き}いてください。",
+   "lines": [
+    {
+     "s": "N",
+     "jp": "{会議|かいぎ}に{遅|おく}れて{入|はい}ります。{何|なん}と{言|い}いますか。"
+    }
+   ],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "お{先|さき}に{失礼|しつれい}します。",
+    "{遅|おく}れて{申|もう}し{訳|わけ}ありません。",
+    "お{疲|つか}れさまでした。"
+   ],
+   "answer": 1,
+   "en": "You enter a meeting late. What do you say?",
+   "why": "You apologize for being late; the others are said when leaving."
+  },
+  {
+   "type": "utterance",
+   "setup": "{絵|え}を{見|み}ながら{質問|しつもん}を{聞|き}いてください。",
+   "lines": [
+    {
+     "s": "N",
+     "jp": "{近所|きんじょ}の{人|ひと}に、{旅行|りょこう}のお{土産|みやげ}を{渡|わた}します。{何|なん}と{言|い}いますか。"
+    }
+   ],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "これ、いただいてもいいですか。",
+    "これ、お{土産|みやげ}にいかがでしたか。",
+    "これ、{旅行|りょこう}のお{土産|みやげ}です。どうぞ。"
+   ],
+   "answer": 2,
+   "en": "You give a neighbor a souvenir from your trip. What do you say?",
+   "why": "Only the third option gives the souvenir; the first asks to receive something."
+  },
+  {
+   "type": "utterance",
+   "setup": "{絵|え}を{見|み}ながら{質問|しつもん}を{聞|き}いてください。",
+   "lines": [
+    {
+     "s": "N",
+     "jp": "ごみ{捨|す}て{場|ば}で、{近所|きんじょ}の{人|ひと}が{今日|きょう}は{出|だ}せない{燃|も}えないごみを{出|だ}そうとしています。{何|なん}と{言|い}いますか。"
+    }
+   ],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "あのう、{燃|も}えないごみを{出|だ}しましょうか。",
+    "あのう、{燃|も}えないごみは{明日|あした}ですよ。",
+    "あのう、{燃|も}えないごみを{出|だ}してもらえますか。"
+   ],
+   "answer": 1,
+   "en": "At the garbage spot, a neighbor is about to put out non-burnable garbage, which cannot go out today. What do you say?",
+   "why": "You politely tell them the right day; the others offer or ask them to put it out."
+  },
+  {
+   "type": "response",
+   "setup": "{文|ぶん}を{聞|き}いて、それに{対|たい}する{返事|へんじ}を{聞|き}いてください。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{今日|きょう}は{早|はや}く{帰|かえ}ってもいいよ。"
+    }
+   ],
+   "question": "{返事|へんじ}を{選|えら}んでください。",
+   "options": [
+    "ありがとうございます。では、お{先|さき}に{失礼|しつれい}します。",
+    "いえ、{早|はや}く{帰|かえ}ってください。",
+    "はい、お{疲|つか}れさまでした。"
+   ],
+   "answer": 0,
+   "en": "M: You can go home early today.",
+   "why": "You are the one leaving, so you thank them and say お先に失礼します."
+  },
+  {
+   "type": "response",
+   "setup": "{文|ぶん}を{聞|き}いて、それに{対|たい}する{返事|へんじ}を{聞|き}いてください。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{明日|あした}の{会議|かいぎ}、{何時|なんじ}からだったっけ？"
+    }
+   ],
+   "question": "{返事|へんじ}を{選|えら}んでください。",
+   "options": [
+    "{会議室|かいぎしつ}Aです。",
+    "{一時間|いちじかん}ぐらいでした。",
+    "{二時|にじ}からですよ。"
+   ],
+   "answer": 2,
+   "en": "F: What time does tomorrow's meeting start again?",
+   "why": "She asks the start time, so only 二時から answers it."
+  },
+  {
+   "type": "response",
+   "setup": "{文|ぶん}を{聞|き}いて、それに{対|たい}する{返事|へんじ}を{聞|き}いてください。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{山田|やまだ}さん、{今|いま}ちょっといいですか。"
+    }
+   ],
+   "question": "{返事|へんじ}を{選|えら}んでください。",
+   "options": [
+    "はい、ちょっといいです。",
+    "はい、{何|なん}でしょうか。",
+    "いいえ、どういたしまして。"
+   ],
+   "answer": 1,
+   "en": "M: Ms. Yamada, do you have a moment now?",
+   "why": "The natural reply to 'got a moment?' is 'Yes, what is it?'."
+  },
+  {
+   "type": "response",
+   "setup": "{文|ぶん}を{聞|き}いて、それに{対|たい}する{返事|へんじ}を{聞|き}いてください。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{日曜日|にちようび}の{公園|こうえん}の{掃除|そうじ}、{来|こ}られそう？"
+    }
+   ],
+   "question": "{返事|へんじ}を{選|えら}んでください。",
+   "options": [
+    "はい、{来|き}てください。",
+    "{掃除|そうじ}してもらえますか。",
+    "うん、{午前|ごぜん}だけなら{行|い}けるよ。"
+   ],
+   "answer": 2,
+   "en": "F: Do you think you can come to the park clean-up on Sunday?",
+   "why": "She asks if you can come; only the third option answers that."
+  },
+  {
+   "type": "response",
+   "setup": "{文|ぶん}を{聞|き}いて、それに{対|たい}する{返事|へんじ}を{聞|き}いてください。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "この{書類|しょるい}、{課長|かちょう}に{渡|わた}しておいてくれる？"
+    }
+   ],
+   "question": "{返事|へんじ}を{選|えら}んでください。",
+   "options": [
+    "はい、{渡|わた}しておきます。",
+    "はい、{渡|わた}してくれました。",
+    "いいえ、{渡|わた}しておいてください。"
+   ],
+   "answer": 0,
+   "en": "M: Could you give this document to the section chief?",
+   "why": "He asks you to hand it over, so you say you will."
+  },
+  {
+   "type": "response",
+   "setup": "{文|ぶん}を{聞|き}いて、それに{対|たい}する{返事|へんじ}を{聞|き}いてください。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{駅前|えきまえ}に{新|あたら}しいパン{屋|や}ができたの、{知|し}ってる？"
+    }
+   ],
+   "question": "{返事|へんじ}を{選|えら}んでください。",
+   "options": [
+    "うん、{知|し}ってもいいよ。",
+    "へえ、{知|し}らなかった。",
+    "うん、{作|つく}ってみたい。"
+   ],
+   "answer": 1,
+   "en": "F: Did you know a new bakery opened in front of the station?",
+   "why": "She asks if you knew; 'Oh, I didn't know' is the natural answer."
+  },
+  {
+   "type": "response",
+   "setup": "{文|ぶん}を{聞|き}いて、それに{対|たい}する{返事|へんじ}を{聞|き}いてください。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{遅|おそ}くなってすみません。{道|みち}が{混|こ}んでいて…。"
+    }
+   ],
+   "question": "{返事|へんじ}を{選|えら}んでください。",
+   "options": [
+    "いえ、{道|みち}は{混|こ}んでいませんよ。",
+    "それは{遅|おそ}くなりませんね。",
+    "{大丈夫|だいじょうぶ}ですよ。{私|わたし}も{今|いま}{来|き}たところです。"
+   ],
+   "answer": 2,
+   "en": "M: Sorry I'm late. The roads were crowded...",
+   "why": "You reassure him that it is fine; the others do not respond to the apology."
+  },
+  {
+   "type": "response",
+   "setup": "{文|ぶん}を{聞|き}いて、それに{対|たい}する{返事|へんじ}を{聞|き}いてください。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "このペットボトル、どこに{捨|す}てればいいかな。"
+    }
+   ],
+   "question": "{返事|へんじ}を{選|えら}んでください。",
+   "options": [
+    "{捨|す}ててもいいですよ。",
+    "あそこの{青|あお}い{箱|はこ}ですよ。",
+    "{昨日|きのう}{捨|す}てましたよ。"
+   ],
+   "answer": 1,
+   "en": "F: Where should I throw away this plastic bottle?",
+   "why": "She asks where, so only the answer naming a place fits."
+  },
+  {
+   "type": "response",
+   "setup": "{文|ぶん}を{聞|き}いて、それに{対|たい}する{返事|へんじ}を{聞|き}いてください。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{明日|あした}の{会議|かいぎ}、{代|か}わりに{出|で}てもらえないかな。"
+    }
+   ],
+   "question": "{返事|へんじ}を{選|えら}んでください。",
+   "options": [
+    "すみません、{明日|あした}はちょっと…。",
+    "はい、{出|で}てもらいます。",
+    "いいえ、{代|か}わりに{出|で}ませんでした。"
+   ],
+   "answer": 0,
+   "en": "M: Could you attend tomorrow's meeting in my place?",
+   "why": "Only the first option is a natural (polite refusal) reply; the others use the wrong form or tense."
+  }
+ ]
+}
