@@ -149,7 +149,7 @@
   },
   {
    "type": "word_formation",
-   "q": "{間違|まちが}いがあったので、{資料|しりょう}を＿＿{提出|ていしゅつ}してください。",
+   "q": "{念|ねん}のため、{明日|あした}の{予定|よてい}を＿＿{確認|かくにん}しておいた。",
    "options": [
     "{重|じゅう}",
     "{復|ふく}",
@@ -157,7 +157,7 @@
     "{再|さい}"
    ],
    "answer": 3,
-   "en": "There was a mistake, so please submit the documents again."
+   "en": "Just in case, I double-checked tomorrow's plans."
   },
   {
    "type": "context",
@@ -188,9 +188,9 @@
    "q": "{部長|ぶちょう}の{意見|いけん}に＿＿する{人|ひと}は{一人|ひとり}もいなかった。",
    "options": [
     "{反対|はんたい}",
-    "{対立|たいりつ}",
-    "{対抗|たいこう}",
-    "{反抗|はんこう}"
+    "{反映|はんえい}",
+    "{対象|たいしょう}",
+    "{反射|はんしゃ}"
    ],
    "answer": 0,
    "en": "Not a single person disagreed with the manager's opinion."
@@ -605,7 +605,7 @@
     1,
     2
    ],
-   "star": 3,
+   "star": 0,
    "en": "Since it was decided at the meeting, it can't be changed by my judgment alone.",
    "why": "{決|き}まった{以上|いじょう} comes first, then {私|わたし}{一人|ひとり}の{判断|はんだん}では before {変更|へんこう}できない."
   },
