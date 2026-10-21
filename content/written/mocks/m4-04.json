@@ -1,0 +1,1481 @@
+{
+ "id": "m4-04",
+ "level": 4,
+ "title_en": "N4 practice test 4",
+ "vocab": [
+  {
+   "type": "kanji_reading",
+   "q_raw": "昨日から頭が痛いので、【病院】に行きました。",
+   "options": [
+    "びよういん",
+    "びょいん",
+    "びょういん",
+    "ひょういん"
+   ],
+   "answer": 2,
+   "en": "I have had a headache since yesterday, so I went to the hospital."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "サッカーの【試合】は午後二時に始まります。",
+   "options": [
+    "しあい",
+    "じあい",
+    "しかい",
+    "しごう"
+   ],
+   "answer": 0,
+   "en": "The soccer match starts at 2 p.m."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "家の【近所】に新しいパン屋ができました。",
+   "options": [
+    "きんしょ",
+    "ぎんじょ",
+    "きんじょう",
+    "きんじょ"
+   ],
+   "answer": 3,
+   "en": "A new bakery opened near my house."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "医者に、たばこをやめるように【注意】されました。",
+   "options": [
+    "しゅうい",
+    "ちゅうい",
+    "ちゅい",
+    "ちゅうえ"
+   ],
+   "answer": 1,
+   "en": "The doctor warned me to stop smoking."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "食事のあとで、この【薬】を飲んでください。",
+   "options": [
+    "くずり",
+    "くすり",
+    "くさり",
+    "くつり"
+   ],
+   "answer": 1,
+   "en": "Please take this medicine after meals."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "駅の【東口】で友だちを待ちます。",
+   "options": [
+    "にしぐち",
+    "ひがしくち",
+    "みなみぐち",
+    "ひがしぐち"
+   ],
+   "answer": 3,
+   "en": "I will wait for my friend at the east exit of the station."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "父は毎朝、公園を【走って】います。",
+   "options": [
+    "はしって",
+    "はしりって",
+    "ばしって",
+    "はじって"
+   ],
+   "answer": 0,
+   "en": "My father runs in the park every morning."
+  },
+  {
+   "type": "orthography",
+   "q": "かぜをひいたので、【いしゃ】に{見|み}てもらいました。",
+   "options_raw": [
+    "医社",
+    "区者",
+    "医者",
+    "医著"
+   ],
+   "answer": 2,
+   "en": "I caught a cold, so I had a doctor look at me."
+  },
+  {
+   "type": "orthography",
+   "q": "{兄|あに}は{高校|こうこう}で【やきゅう】をしています。",
+   "options_raw": [
+    "野求",
+    "予球",
+    "野救",
+    "野球"
+   ],
+   "answer": 3,
+   "en": "My older brother plays baseball at high school."
+  },
+  {
+   "type": "orthography",
+   "q": "この{公園|こうえん}はとても【ひろい】です。",
+   "options_raw": [
+    "応い",
+    "広い",
+    "庄い",
+    "床い"
+   ],
+   "answer": 1,
+   "en": "This park is very big."
+  },
+  {
+   "type": "orthography",
+   "q": "{運動会|うんどうかい}は{九時|くじ}に【はじまります】。",
+   "options_raw": [
+    "治まります",
+    "姉まります",
+    "始まります",
+    "初まります"
+   ],
+   "answer": 2,
+   "en": "The sports day starts at nine."
+  },
+  {
+   "type": "orthography",
+   "q": "{私|わたし}はこの{町|まち}に{十年|じゅうねん}【すんで】います。",
+   "options_raw": [
+    "住んで",
+    "往んで",
+    "注んで",
+    "主んで"
+   ],
+   "answer": 0,
+   "en": "I have lived in this town for ten years."
+  },
+  {
+   "type": "context",
+   "q": "{病院|びょういん}に{着|つ}いたら、まず＿＿で{名前|なまえ}を{言|い}ってください。",
+   "options": [
+    "うけつけ",
+    "きっぷ",
+    "ちゅうしゃ",
+    "しゅくだい"
+   ],
+   "answer": 0,
+   "en": "When you arrive at the hospital, first say your name at reception."
+  },
+  {
+   "type": "context",
+   "q": "{私|わたし}たちのチームは{一点|いってん}も{取|と}れなくて、＿＿しまいました。",
+   "options": [
+    "かって",
+    "ひいて",
+    "まけて",
+    "おちて"
+   ],
+   "answer": 2,
+   "en": "Our team could not score a single point and lost."
+  },
+  {
+   "type": "context",
+   "q": "この{道|みち}は{車|くるま}が{多|おお}くて＿＿ですから、{子|こ}どもは{気|き}をつけてください。",
+   "options": [
+    "しずか",
+    "あぶない",
+    "やさしい",
+    "きれい"
+   ],
+   "answer": 1,
+   "en": "This road has a lot of cars and is dangerous, so children should be careful."
+  },
+  {
+   "type": "context",
+   "q": "{近所|きんじょ}の{人|ひと}に{会|あ}ったら、ちゃんと＿＿をしましょう。",
+   "options": [
+    "せつめい",
+    "けんぶつ",
+    "はいけん",
+    "あいさつ"
+   ],
+   "answer": 3,
+   "en": "When you meet your neighbours, be sure to greet them."
+  },
+  {
+   "type": "context",
+   "q": "{薬|くすり}を{飲|の}んだら、{頭|あたま}の{痛|いた}みが＿＿なくなりました。",
+   "options": [
+    "しっかり",
+    "はっきり",
+    "すっかり",
+    "びっくり"
+   ],
+   "answer": 2,
+   "en": "After I took the medicine, my headache went away completely."
+  },
+  {
+   "type": "context",
+   "q": "マラソン{大会|たいかい}に＿＿したい{人|ひと}は、{金曜日|きんようび}までに{申|もう}し{込|こ}んでください。",
+   "options": [
+    "さんか",
+    "しゅっぱつ",
+    "そうだん",
+    "ほうそう"
+   ],
+   "answer": 0,
+   "en": "People who want to take part in the marathon should apply by Friday."
+  },
+  {
+   "type": "context",
+   "q": "{体|からだ}が{熱|あつ}かったので{熱|ねつ}を＿＿ら、38{度|ど}ありました。",
+   "options": [
+    "かぞえた",
+    "きめた",
+    "つけた",
+    "はかった"
+   ],
+   "answer": 3,
+   "en": "My body felt hot, so I took my temperature, and it was 38 degrees."
+  },
+  {
+   "type": "context",
+   "q": "{駅|えき}の{近|ちか}くに{大|おお}きいスーパーができて、{買|か}い{物|もの}がとても＿＿になりました。",
+   "options": [
+    "ふべん",
+    "べんり",
+    "ていねい",
+    "ねっしん"
+   ],
+   "answer": 1,
+   "en": "A big supermarket opened near the station, and shopping became very convenient."
+  },
+  {
+   "type": "paraphrase",
+   "q": "【あの{店|みせ}はいつもすいています】。",
+   "options": [
+    "あの{店|みせ}はいつも{客|きゃく}が{多|おお}いです。",
+    "あの{店|みせ}はいつも{客|きゃく}が{少|すく}ないです。",
+    "あの{店|みせ}はいつも{品物|しなもの}が{少|すく}ないです。",
+    "あの{店|みせ}はいつも{品物|しなもの}が{安|やす}いです。"
+   ],
+   "answer": 1,
+   "en": "That shop is always empty (not crowded)."
+  },
+  {
+   "type": "paraphrase",
+   "q": "{雨|あめ}で、{野球|やきゅう}の{試合|しあい}は【{中止|ちゅうし}になりました】。",
+   "options": [
+    "{試合|しあい}は{遅|おそ}く{始|はじ}まることになりました。",
+    "{試合|しあい}は{早|はや}く{終|お}わりました。",
+    "{試合|しあい}の{場所|ばしょ}が{変|か}わりました。",
+    "{試合|しあい}はしないことになりました。"
+   ],
+   "answer": 3,
+   "en": "Because of the rain, the baseball game was cancelled."
+  },
+  {
+   "type": "paraphrase",
+   "q": "【{医者|いしゃ}にたばこをやめるように{言|い}われました】。",
+   "options": [
+    "{医者|いしゃ}は「たばこを{吸|す}わないでください」と{言|い}いました。",
+    "{医者|いしゃ}は「たばこを{吸|す}ってもいいです」と{言|い}いました。",
+    "{医者|いしゃ}は「たばこを{買|か}ってきてください」と{言|い}いました。",
+    "{医者|いしゃ}は「たばこを{吸|す}いますか」と{聞|き}きました。"
+   ],
+   "answer": 0,
+   "en": "The doctor told me to stop smoking."
+  },
+  {
+   "type": "paraphrase",
+   "q": "この{辺|へん}は【にぎやか】です。",
+   "options": [
+    "この{辺|へん}はとてもしずかです。",
+    "この{辺|へん}は{古|ふる}い{家|いえ}が{多|おお}いです。",
+    "この{辺|へん}は{人|ひと}や{店|みせ}が{多|おお}いです。",
+    "この{辺|へん}は{道|みち}がせまいです。"
+   ],
+   "answer": 2,
+   "en": "This area is lively."
+  },
+  {
+   "type": "usage",
+   "word": "けが",
+   "q": "けが",
+   "options": [
+    "{毎朝|まいあさ}、けがをするために{公園|こうえん}を{走|はし}ります。",
+    "かぜのけがで、{学校|がっこう}を{休|やす}みました。",
+    "{冷|つめ}たい{水|みず}を{飲|の}みすぎて、おなかがけがになりました。",
+    "{転|ころ}んで、{手|て}にけがをしてしまいました。"
+   ],
+   "answer": 3,
+   "en": "けが = injury"
+  },
+  {
+   "type": "usage",
+   "word": "{近所|きんじょ}",
+   "q": "{近所|きんじょ}",
+   "options": [
+    "{駅|えき}から{近所|きんじょ}まで{歩|ある}いて{五分|ごふん}です。",
+    "{近所|きんじょ}に{住|す}んでいる{人|ひと}たちと{公園|こうえん}の{掃除|そうじ}をしました。",
+    "テレビをもっと{近所|きんじょ}で{見|み}てください。",
+    "{試験|しけん}の{日|ひ}がだんだん{近所|きんじょ}になってきました。"
+   ],
+   "answer": 1,
+   "en": "{近所|きんじょ} = neighbourhood"
+  },
+  {
+   "type": "usage",
+   "word": "{集|あつ}まる",
+   "q": "{集|あつ}まる",
+   "options": [
+    "{弟|おとうと}は{毎日|まいにち}、{古|ふる}い{切手|きって}を{集|あつ}まっています。",
+    "{先生|せんせい}が{学生|がくせい}の{宿題|しゅくだい}を{集|あつ}まりました。",
+    "{日曜日|にちようび}の{朝|あさ}、{公園|こうえん}に{町|まち}の{人|ひと}たちが{集|あつ}まりました。",
+    "{寝|ね}る{前|まえ}に、{薬|くすり}を{集|あつ}まってください。"
+   ],
+   "answer": 2,
+   "en": "{集|あつ}まる = to gather (intransitive)"
+  },
+  {
+   "type": "usage",
+   "word": "{大切|たいせつ}",
+   "q": "{大切|たいせつ}",
+   "options": [
+    "{体|からだ}はお{金|かね}より{大切|たいせつ}だと{思|おも}います。",
+    "{大切|たいせつ}な{雨|あめ}が{降|ふ}って、{試合|しあい}が{中止|ちゅうし}になりました。",
+    "この{荷物|にもつ}は{大切|たいせつ}で、{一人|ひとり}では{持|も}てません。",
+    "{昨日|きのう}は{熱|ねつ}が{大切|たいせつ}に{高|たか}かったです。"
+   ],
+   "answer": 0,
+   "en": "{大切|たいせつ} = important, precious"
+  }
+ ],
+ "grammar": [
+  {
+   "type": "form",
+   "q": "{熱|ねつ}が{下|さ}がる＿＿、{家|いえ}で{休|やす}んでいてください。",
+   "options": [
+    "まで",
+    "までに",
+    "あいだに",
+    "ながら"
+   ],
+   "answer": 0,
+   "en": "Please rest at home until your fever goes down."
+  },
+  {
+   "type": "form",
+   "q": "「あまい{物|もの}を{食|た}べ＿＿」と{医者|いしゃ}に{注意|ちゅうい}されました。",
+   "options": [
+    "すぎてください",
+    "すぎてもいいです",
+    "すぎないでください",
+    "すぎたことがあります"
+   ],
+   "answer": 2,
+   "en": "The doctor warned me, \"Please don't eat too many sweet things.\""
+  },
+  {
+   "type": "form",
+   "q": "{少|すこ}しぐらい{雨|あめ}が{降|ふ}っ＿＿、{試合|しあい}は{中止|ちゅうし}になりません。",
+   "options": [
+    "たら",
+    "ても",
+    "たので",
+    "たり"
+   ],
+   "answer": 1,
+   "en": "Even if it rains a little, the match will not be cancelled."
+  },
+  {
+   "type": "form",
+   "q": "{隣|となり}の{家|いえ}に{新|あたら}しい{人|ひと}が{引|ひ}っ{越|こ}して{来|き}た＿＿。",
+   "options": [
+    "ようにします",
+    "ことにします",
+    "ほうがいいです",
+    "らしいです"
+   ],
+   "answer": 3,
+   "en": "It seems that new people have moved in next door."
+  },
+  {
+   "type": "form",
+   "q": "{電車|でんしゃ}の{中|なか}で、{知|し}らない{人|ひと}に{足|あし}を＿＿。",
+   "options": [
+    "ふみました",
+    "ふませました",
+    "ふまれました",
+    "ふんでいました"
+   ],
+   "answer": 2,
+   "en": "On the train, a stranger stepped on my foot."
+  },
+  {
+   "type": "form",
+   "q": "{母|はは}は{弟|おとうと}に{毎朝|まいあさ}{牛乳|ぎゅうにゅう}を＿＿。",
+   "options": [
+    "のませます",
+    "のみます",
+    "のめます",
+    "のまさせます"
+   ],
+   "answer": 0,
+   "en": "My mother makes my younger brother drink milk every morning."
+  },
+  {
+   "type": "form",
+   "q": "{病院|びょういん}の{中|なか}では、{静|しず}かにし＿＿なりません。",
+   "options": [
+    "ないで",
+    "なくても",
+    "なかったら",
+    "なければ"
+   ],
+   "answer": 3,
+   "en": "You must be quiet inside the hospital."
+  },
+  {
+   "type": "form",
+   "q": "（{病院|びょういん}の{受付|うけつけ}で）「こちらの{紙|かみ}にお{名前|なまえ}を＿＿ください。」",
+   "options": [
+    "お{書|か}きして",
+    "お{書|か}き",
+    "お{書|か}きに",
+    "{書|か}かれ"
+   ],
+   "answer": 1,
+   "en": "(At hospital reception) \"Please write your name on this paper.\""
+  },
+  {
+   "type": "form",
+   "q": "{健康|けんこう}のために、{来月|らいげつ}からジムに{通|かよ}う＿＿。",
+   "options": [
+    "ことがあります",
+    "ことにしました",
+    "ばかりです",
+    "ところでした"
+   ],
+   "answer": 1,
+   "en": "For my health, I have decided to go to a gym from next month."
+  },
+  {
+   "type": "form",
+   "q": "もっと{早|はや}く{薬|くすり}を{飲|の}め＿＿、こんなにひどくならなかったのに。",
+   "options": [
+    "ても",
+    "から",
+    "ので",
+    "ば"
+   ],
+   "answer": 3,
+   "en": "If I had taken the medicine sooner, it would not have got this bad."
+  },
+  {
+   "type": "form",
+   "q": "{私|わたし}は{音楽|おんがく}を{聞|き}き＿＿{走|はし}るのが{好|す}きです。",
+   "options": [
+    "ながら",
+    "ても",
+    "たり",
+    "ので"
+   ],
+   "answer": 0,
+   "en": "I like running while listening to music."
+  },
+  {
+   "type": "form",
+   "q": "{空|そら}が{暗|くら}くなってきました。{雨|あめ}が{降|ふ}り＿＿ですね。",
+   "options": [
+    "よう",
+    "らしい",
+    "そう",
+    "みたい"
+   ],
+   "answer": 2,
+   "en": "The sky has got dark. It looks like it is going to rain."
+  },
+  {
+   "type": "form",
+   "q": "{毎日|まいにち}{一生懸命|いっしょうけんめい}{練習|れんしゅう}した＿＿、{試合|しあい}に{負|ま}けてしまいました。",
+   "options": [
+    "ので",
+    "ために",
+    "から",
+    "のに"
+   ],
+   "answer": 3,
+   "en": "Even though we practised hard every day, we lost the match."
+  },
+  {
+   "type": "star",
+   "before": "{近所|きんじょ}の{公園|こうえん}で、",
+   "after": "が{行|おこな}われます。",
+   "pieces": [
+    "{子|こ}どもの",
+    "{来週|らいしゅう}の",
+    "{運動会|うんどうかい}",
+    "{日曜日|にちようび}に"
+   ],
+   "order": [
+    1,
+    3,
+    0,
+    2
+   ],
+   "star": 2,
+   "en": "A children's sports day will be held next Sunday at the park in my neighbourhood.",
+   "why": "{来週|らいしゅう}の goes before {日曜日|にちようび}に, and {子|こ}どもの comes right before {運動会|うんどうかい}, which is followed by が."
+  },
+  {
+   "type": "star",
+   "before": "{医者|いしゃ}に「しばらくは",
+   "after": "ですよ」と{言|い}われました。",
+   "pieces": [
+    "いい",
+    "しない",
+    "{運動|うんどう}を",
+    "ほうが"
+   ],
+   "order": [
+    2,
+    1,
+    3,
+    0
+   ],
+   "star": 1,
+   "en": "The doctor told me, \"For a while, it's better not to exercise.\"",
+   "why": "The pattern is ～ないほうがいい, with the object {運動|うんどう}を first."
+  },
+  {
+   "type": "star",
+   "before": "{父|ちち}は",
+   "after": "{毎朝|まいあさ}{散歩|さんぽ}しています。",
+   "pieces": [
+    "なって",
+    "は",
+    "から",
+    "{病気|びょうき}に"
+   ],
+   "order": [
+    3,
+    0,
+    2,
+    1
+   ],
+   "star": 2,
+   "en": "Since my father got ill, he has been taking a walk every morning.",
+   "why": "{病気|びょうき}になる + てから + は gives {病気|びょうき}になってからは."
+  },
+  {
+   "type": "star",
+   "before": "{試合|しあい}の",
+   "after": "{教|おし}えてください。",
+   "pieces": [
+    "{始|はじ}まる",
+    "わかったら",
+    "{時間|じかん}が",
+    "{私|わたし}にも"
+   ],
+   "order": [
+    0,
+    2,
+    1,
+    3
+   ],
+   "star": 1,
+   "en": "When you find out what time the match starts, please tell me too.",
+   "why": "{始|はじ}まる describes {時間|じかん}, {時間|じかん}が goes with わかったら, and {私|わたし}にも goes right before {教|おし}えてください."
+  },
+  {
+   "type": "text",
+   "passage": "{町|まち}の{運動会|うんどうかい}\n\n{私|わたし}は{去年|きょねん}の{春|はる}から、{大学|だいがく}の{近|ちか}くのアパートに{住|す}んでいます。{先月|せんげつ}、{町|まち}の{運動会|うんどうかい}がありました。（１）、{私|わたし}は{行|い}くつもりはありませんでした。{日本語|にほんご}がまだ{上手|じょうず}ではないし、{知|し}っている{人|ひと}も{少|すく}なかったからです。でも、{隣|となり}に{住|す}んでいる{田中|たなか}さんが「いっしょに{出|で}ましょう」と（２）。\n\n{当日|とうじつ}、{私|わたし}はリレーに{出|で}ました。{走|はし}っているとき、たくさんの{人|ひと}が{私|わたし}の{名前|なまえ}を{呼|よ}んで{応援|おうえん}して（３）。とてもうれしかったです。\n\n{運動会|うんどうかい}の{後|あと}、{町|まち}の{人|ひと}たちが{道|みち}で{私|わたし}に{声|こえ}をかけてくれるように（４）。{今|いま}は、この{町|まち}が{大好|だいす}きです。",
+   "en": "The town sports day. I have lived in an apartment near my university since last spring. Last month there was a town sports day. At first I did not plan to go, because my Japanese was not good yet and I knew few people. But Mr Tanaka, who lives next door, invited me, saying \"Let's take part together.\" On the day, I ran in the relay. While I was running, many people called my name and cheered for me. I was very happy. After the sports day, people in the town started to greet me in the street. Now I love this town.",
+   "questions": [
+    {
+     "q": "（１）",
+     "options": [
+      "それで",
+      "はじめは",
+      "それに",
+      "たとえば"
+     ],
+     "answer": 1
+    },
+    {
+     "q": "（２）",
+     "options": [
+      "さそってあげました",
+      "さそわれました",
+      "さそってくれました",
+      "さそってもらいました"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "（３）",
+     "options": [
+      "くれました",
+      "あげました",
+      "もらいました",
+      "やりました"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "（４）",
+     "options": [
+      "なりました",
+      "ありました",
+      "いました",
+      "もらいました"
+     ],
+     "answer": 0
+    }
+   ]
+  }
+ ],
+ "reading": [
+  {
+   "type": "short",
+   "text": "{山本|やまもと}クリニックからのお{知|し}らせ\n\n8{月|がつ}13{日|にち}（{水|すい}）から16{日|にち}（{土|ど}）まで、クリニックはお{休|やす}みです。17{日|にち}（{日|にち}）は{午前|ごぜん}だけ{開|あ}いています。\nお{休|やす}みの{間|あいだ}に{飲|の}む{薬|くすり}が{必要|ひつよう}な{方|かた}は、12{日|にち}（{火|か}）までにクリニックに{来|き}てください。{電話|でんわ}では{薬|くすり}を{出|だ}すことができません。",
+   "en": "Notice from Yamamoto Clinic. The clinic is closed from Wednesday 13 August to Saturday 16 August. On Sunday 17th it is open in the morning only. If you need medicine to take during the holiday, please come to the clinic by Tuesday 12th. We cannot give out medicine by phone.",
+   "questions": [
+    {
+     "q": "{休|やす}みの{間|あいだ}に{飲|の}む{薬|くすり}がほしい{人|ひと}は、どうしなければなりませんか。",
+     "options": [
+      "13{日|にち}にクリニックへ{行|い}く。",
+      "17{日|にち}の{午後|ごご}にクリニックへ{行|い}く。",
+      "12{日|にち}までにクリニックへ{行|い}く。",
+      "16{日|にち}までにクリニックに{電話|でんわ}する。"
+     ],
+     "answer": 2,
+     "why": "The notice says to come to the clinic by the 12th, and medicine cannot be given by phone."
+    }
+   ]
+  },
+  {
+   "type": "short",
+   "text": "サッカーチームのみなさんへ\n\n{日曜日|にちようび}の{試合|しあい}について{連絡|れんらく}します。{朝|あさ}{八時|はちじ}に{駅|えき}の{西口|にしぐち}に{集|あつ}まってください。ユニフォームは{私|わたし}が{持|も}って{行|い}きます。みなさんは、くつとタオルと{飲|の}み{物|もの}を{忘|わす}れないでください。\n{雨|あめ}の{場合|ばあい}は、{前|まえ}の{日|ひ}の{夜|よる}{七時|しちじ}までにメールで{知|し}らせます。\n\nコーチ　{木村|きむら}",
+   "en": "To everyone on the soccer team. About Sunday's match: please meet at the west exit of the station at 8 a.m. I will bring the uniforms. Please don't forget your shoes, a towel and a drink. If it rains, I will let you know by email by 7 p.m. the day before. Coach Kimura.",
+   "questions": [
+    {
+     "q": "チームの{人|ひと}が{持|も}って{行|い}かなくてもいいものはどれですか。",
+     "options": [
+      "くつ",
+      "ユニフォーム",
+      "タオル",
+      "{飲|の}み{物|もの}"
+     ],
+     "answer": 1,
+     "why": "The coach will bring the uniforms, so the players do not need to."
+    }
+   ]
+  },
+  {
+   "type": "short",
+   "text": "{私|わたし}は{前|まえ}はよくかぜをひいていましたが、{毎朝|まいあさ}{歩|ある}くようにしてから、あまりひかなくなりました。はじめは{十分|じゅっぷん}だけでしたが、{今|いま}は{三十分|さんじゅっぷん}{歩|ある}いています。{歩|ある}きながら、{近所|きんじょ}の{花|はな}や{新|あたら}しい{店|みせ}を{見|み}るのも{楽|たの}しみです。",
+   "en": "I used to catch colds often, but since I started walking every morning, I rarely catch them. At first I walked for only ten minutes, but now I walk for thirty minutes. While walking, I also enjoy looking at the flowers and new shops in my neighbourhood.",
+   "questions": [
+    {
+     "q": "この{人|ひと}について、{正|ただ}しいものはどれですか。",
+     "options": [
+      "{今|いま}も{毎朝|まいあさ}{十分|じゅっぷん}だけ{歩|ある}いている。",
+      "かぜをひいたので、{医者|いしゃ}に{歩|ある}くように{言|い}われた。",
+      "{歩|ある}くのは{好|す}きではないが、{健康|けんこう}のために{続|つづ}けている。",
+      "{毎朝|まいあさ}{歩|ある}くようになって、かぜをあまりひかなくなった。"
+     ],
+     "answer": 3,
+     "why": "The writer says they rarely catch colds since starting to walk every morning."
+    }
+   ]
+  },
+  {
+   "type": "mid",
+   "text": "{先月|せんげつ}、{私|わたし}は{自転車|じてんしゃ}で{転|ころ}んで、{足|あし}の{骨|ほね}を{折|お}りました。{近所|きんじょ}の{人|ひと}がすぐに{救急車|きゅうきゅうしゃ}を{呼|よ}んでくれて、{私|わたし}は{病院|びょういん}に{運|はこ}ばれました。そして、{二週間|にしゅうかん}{入院|にゅういん}することになりました。\n\n{入院|にゅういん}しているとき、いちばん{困|こま}ったのは{言葉|ことば}です。{医者|いしゃ}や{看護師|かんごし}さんの{話|はなし}は{難|むずか}しくて、よくわかりませんでした。でも、{看護師|かんごし}の{森|もり}さんは、いつもゆっくり、{簡単|かんたん}な{言葉|ことば}で{説明|せつめい}してくれました。わからない{言葉|ことば}は{紙|かみ}に{書|か}いてくれたので、{辞書|じしょ}で{調|しら}べることができました。\n\n{病院|びょういん}にいる{間|あいだ}に、{私|わたし}は{病院|びょういん}で{使|つか}う{言葉|ことば}をたくさん{覚|おぼ}えました。{退院|たいいん}の{日|ひ}、{森|もり}さんに「{日本語|にほんご}が{上手|じょうず}になりましたね」と{言|い}われて、とてもうれしかったです。{今|いま}は{一週間|いっしゅうかん}に{一回|いっかい}、{足|あし}の{運動|うんどう}をするために{病院|びょういん}に{通|かよ}っています。",
+   "en": "Last month I fell off my bicycle and broke a bone in my leg. A neighbour called an ambulance at once, and I was taken to hospital. I had to stay in hospital for two weeks. While I was in hospital, the hardest thing was the language. What the doctors and nurses said was difficult and I did not understand it well. But Ms Mori, a nurse, always explained slowly in simple words. She wrote words I did not know on paper, so I could look them up in my dictionary. While I was in hospital I learned many words used in hospitals. On the day I left, Ms Mori said, \"Your Japanese has got better,\" and I was very happy. Now I go to the hospital once a week to do exercises for my leg.",
+   "questions": [
+    {
+     "q": "この{人|ひと}はどうして{入院|にゅういん}しましたか。",
+     "options": [
+      "{近所|きんじょ}の{人|ひと}とけんかをしたから",
+      "{救急車|きゅうきゅうしゃ}にぶつかったから",
+      "{自転車|じてんしゃ}で{転|ころ}んで、{足|あし}の{骨|ほね}を{折|お}ったから",
+      "{病気|びょうき}で{足|あし}が{痛|いた}くなったから"
+     ],
+     "answer": 2,
+     "why": "The writer fell off a bicycle and broke a bone in their leg."
+    },
+    {
+     "q": "{入院|にゅういん}しているとき、いちばん{困|こま}ったことは{何|なん}ですか。",
+     "options": [
+      "{医者|いしゃ}や{看護師|かんごし}さんの{話|はなし}がよくわからなかったこと",
+      "{辞書|じしょ}を{持|も}っていなかったこと",
+      "{看護師|かんごし}さんが{少|すく}なかったこと",
+      "{足|あし}が{痛|いた}くて{眠|ねむ}れなかったこと"
+     ],
+     "answer": 0,
+     "why": "The writer says the hardest thing was not understanding what the doctors and nurses said."
+    },
+    {
+     "q": "この{人|ひと}は{今|いま}、どうしていますか。",
+     "options": [
+      "まだ{病院|びょういん}に{入院|にゅういん}している。",
+      "{毎日|まいにち}{病院|びょういん}へ{行|い}っている。",
+      "{森|もり}さんに{日本語|にほんご}を{教|おし}えてもらいに{行|い}っている。",
+      "{一週間|いっしゅうかん}に{一回|いっかい}、{病院|びょういん}に{通|かよ}っている。"
+     ],
+     "answer": 3,
+     "why": "The last sentence says the writer goes to the hospital once a week."
+    }
+   ]
+  },
+  {
+   "type": "info",
+   "text": "みどり{市|し}スポーツセンター　{秋|あき}の{教室|きょうしつ}\n\n①ヨガ　{月曜日|げつようび}　10:00～11:30　{大人|おとな}　1{回|かい}500{円|えん}\n②{水泳|すいえい}　{土曜日|どようび}　9:00～10:00　{小学生|しょうがくせい}　1{回|かい}300{円|えん}\n③テニス　{水曜日|すいようび}　19:00～21:00　{大人|おとな}　1{回|かい}800{円|えん}\n④{卓球|たっきゅう}　{土曜日|どようび}　14:00～16:00　{中学生|ちゅうがくせい}{以上|いじょう}　1{回|かい}400{円|えん}\n⑤バドミントン　{日曜日|にちようび}　10:00～12:00　{大人|おとな}　1{回|かい}600{円|えん}\n\n※{申|もう}し{込|こ}みは、{教室|きょうしつ}の{三日|みっか}{前|まえ}までに、{受付|うけつけ}か{電話|でんわ}でしてください。\n※みどり{市|し}に{住|す}んでいる{人|ひと}は、{料金|りょうきん}が{半分|はんぶん}になります。",
+   "en": "Midori City Sports Centre, autumn classes. (1) Yoga, Monday 10:00-11:30, adults, 500 yen per time. (2) Swimming, Saturday 9:00-10:00, elementary school children, 300 yen. (3) Tennis, Wednesday 19:00-21:00, adults, 800 yen. (4) Table tennis, Saturday 14:00-16:00, junior high school and older, 400 yen. (5) Badminton, Sunday 10:00-12:00, adults, 600 yen. Apply at reception or by phone at least three days before the class. People who live in Midori City pay half price.",
+   "questions": [
+    {
+     "q": "{会社員|かいしゃいん}のリンさんは、{月曜日|げつようび}から{金曜日|きんようび}まで{朝|あさ}{九時|くじ}から{夕方|ゆうがた}{六時|ろくじ}まで{仕事|しごと}をしています。{土曜日|どようび}と{日曜日|にちようび}はアルバイトがあります。リンさんが{参加|さんか}できる{教室|きょうしつ}はどれですか。",
+     "options": [
+      "①ヨガ",
+      "③テニス",
+      "④{卓球|たっきゅう}",
+      "⑤バドミントン"
+     ],
+     "answer": 1,
+     "why": "Only tennis is on a weekday evening, when Lin is free."
+    },
+    {
+     "q": "みどり{市|し}に{住|す}んでいる{中学生|ちゅうがくせい}のケンさんが、{卓球|たっきゅう}の{教室|きょうしつ}に{一回|いっかい}{行|い}きます。いくら{払|はら}いますか。",
+     "options": [
+      "400{円|えん}",
+      "200{円|えん}",
+      "150{円|えん}",
+      "800{円|えん}"
+     ],
+     "answer": 1,
+     "why": "Table tennis is 400 yen, and city residents pay half, so it is 200 yen."
+    }
+   ]
+  }
+ ],
+ "listening": [
+  {
+   "type": "task",
+   "setup": "{病院|びょういん}の{受付|うけつけ}で、{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はこのあとまず{何|なに}をしますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "こんにちは。こちらの{病院|びょういん}は{初|はじ}めてですか。"
+    },
+    {
+     "s": "M",
+     "jp": "はい、{初|はじ}めてです。"
+    },
+    {
+     "s": "F",
+     "jp": "では、まずこの{紙|かみ}にお{名前|なまえ}とご{住所|じゅうしょ}を{書|か}いてください。それから、あちらで{熱|ねつ}を{測|はか}ってください。{保険証|ほけんしょう}はお{持|も}ちですか。"
+    },
+    {
+     "s": "M",
+     "jp": "あ、{家|いえ}に{忘|わす}れてしまいました。"
+    },
+    {
+     "s": "F",
+     "jp": "{今日|きょう}はなくても{大丈夫|だいじょうぶ}ですよ。{次|つぎ}に{来|く}るときに{持|も}ってきてください。"
+    },
+    {
+     "s": "M",
+     "jp": "わかりました。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}はこのあとまず{何|なに}をしますか。",
+   "options": [
+    "{熱|ねつ}を{測|はか}る",
+    "{家|いえ}に{保険証|ほけんしょう}を{取|と}りに{帰|かえ}る",
+    "{医者|いしゃ}に{会|あ}う",
+    "{紙|かみ}に{名前|なまえ}と{住所|じゅうしょ}を{書|か}く"
+   ],
+   "answer": 3,
+   "en": "At hospital reception. F: Hello. Is this your first time at this hospital? M: Yes. F: Then first please write your name and address on this paper. After that, please take your temperature over there. Do you have your insurance card? M: Oh, I left it at home. F: It's fine without it today. Please bring it next time. M: I see.",
+   "why": "She says to write his name and address first, and then take his temperature."
+  },
+  {
+   "type": "task",
+   "setup": "マラソン{大会|たいかい}の{会場|かいじょう}で、{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はまず{何|なに}をしますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{田中|たなか}さん、{今日|きょう}はお{手伝|てつだ}い、ありがとうございます。まず、{水|みず}を{机|つくえ}の{上|うえ}に{並|なら}べてもらえますか。"
+    },
+    {
+     "s": "M",
+     "jp": "はい。あ、でも、{机|つくえ}がまだ{出|で}ていませんね。"
+    },
+    {
+     "s": "F",
+     "jp": "あ、そうですね。じゃあ、{先|さき}に{机|つくえ}を{出|だ}してください。{机|つくえ}は{体育館|たいいくかん}の{倉庫|そうこ}にあります。{倉庫|そうこ}の{鍵|かぎ}はもう{開|あ}いていますから。"
+    },
+    {
+     "s": "M",
+     "jp": "わかりました。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}はまず{何|なに}をしますか。",
+   "options": [
+    "{倉庫|そうこ}から{机|つくえ}を{出|だ}す",
+    "{机|つくえ}の{上|うえ}に{水|みず}を{並|なら}べる",
+    "{選手|せんしゅ}に{水|みず}を{渡|わた}す",
+    "{倉庫|そうこ}の{鍵|かぎ}を{借|か}りに{行|い}く"
+   ],
+   "answer": 0,
+   "en": "At a marathon. F: Mr Tanaka, thank you for helping today. First, could you line up the water on the tables? M: Yes. Oh, but the tables aren't out yet. F: Oh, that's right. Then please bring out the tables first. They are in the gym storeroom. The storeroom is already unlocked. M: I see.",
+   "why": "The tables are not out yet, so he must bring them out first; the storeroom is already open."
+  },
+  {
+   "type": "task",
+   "setup": "アパートの{前|まえ}で、{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}は{明日|あした}、{何|なに}を{出|だ}しますか。{今日|きょう}は{水曜日|すいようび}です。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "すみません、{先週|せんしゅう}{引|ひ}っ{越|こ}してきた{者|もの}ですが、{燃|も}えるごみは{何曜日|なんようび}ですか。"
+    },
+    {
+     "s": "F",
+     "jp": "{火曜日|かようび}と{金曜日|きんようび}です。{朝|あさ}{八時|はちじ}までに{出|だ}してくださいね。"
+    },
+    {
+     "s": "M",
+     "jp": "そうですか。{明日|あした}は{木曜日|もくようび}ですね。"
+    },
+    {
+     "s": "F",
+     "jp": "{木曜日|もくようび}は{缶|かん}とびんの{日|ひ}ですよ。"
+    },
+    {
+     "s": "M",
+     "jp": "じゃあ、この{缶|かん}は{明日|あした}{出|だ}します。{紙|かみ}のごみはどうしたらいいですか。"
+    },
+    {
+     "s": "F",
+     "jp": "{紙|かみ}は{燃|も}えるごみと{一緒|いっしょ}でいいですよ。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}は{明日|あした}、{何|なに}を{出|だ}しますか。",
+   "options": [
+    "{燃|も}えるごみ",
+    "{紙|かみ}のごみ",
+    "{缶|かん}",
+    "{缶|かん}と{紙|かみ}のごみ"
+   ],
+   "answer": 2,
+   "en": "In front of an apartment (today is Wednesday). M: Excuse me, I moved in last week. Which day is burnable rubbish? F: Tuesday and Friday. Please put it out by 8 a.m. M: I see. Tomorrow is Thursday. F: Thursday is the day for cans and bottles. M: Then I'll put these cans out tomorrow. What should I do with paper rubbish? F: Paper goes with burnable rubbish.",
+   "why": "Thursday is for cans and bottles; paper goes with burnable rubbish on Tuesday and Friday."
+  },
+  {
+   "type": "task",
+   "setup": "{病院|びょういん}で、{医者|いしゃ}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}は{今日|きょう}、いつ{薬|くすり}を{飲|の}み{始|はじ}めますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "このお{薬|くすり}は、{一日|いちにち}{三回|さんかい}、{食事|しょくじ}の{後|あと}に{飲|の}んでください。"
+    },
+    {
+     "s": "M",
+     "jp": "はい。{今日|きょう}はもう{昼|ひる}ご{飯|はん}を{食|た}べたんですが、{今|いま}から{飲|の}んでもいいですか。"
+    },
+    {
+     "s": "F",
+     "jp": "{食事|しょくじ}からもう{三時間|さんじかん}ぐらいたっていますね。じゃあ、{今日|きょう}は{晩|ばん}ご{飯|はん}の{後|あと}からにしてください。"
+    },
+    {
+     "s": "M",
+     "jp": "わかりました。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}は{今日|きょう}、いつ{薬|くすり}を{飲|の}み{始|はじ}めますか。",
+   "options": [
+    "{昼|ひる}ご{飯|はん}の{後|あと}",
+    "{今|いま}すぐ",
+    "{明日|あした}の{朝|あさ}ご{飯|はん}の{後|あと}",
+    "{晩|ばん}ご{飯|はん}の{後|あと}"
+   ],
+   "answer": 3,
+   "en": "At a hospital. F (doctor): Take this medicine three times a day, after meals. M: Yes. I've already had lunch today; can I take it now? F: It's been about three hours since you ate. Then today, please start after dinner. M: I understand.",
+   "why": "The doctor tells him to start after dinner today."
+  },
+  {
+   "type": "task",
+   "setup": "{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}はこのあと{何|なに}をしますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{土曜日|どようび}の{野球|やきゅう}の{試合|しあい}、チケット{買|か}った？"
+    },
+    {
+     "s": "F",
+     "jp": "まだ。インターネットで{買|か}おうと{思|おも}ったんだけど、もう{売|う}り{切|き}れだって。"
+    },
+    {
+     "s": "M",
+     "jp": "え、{本当|ほんとう}？{駅前|えきまえ}のコンビニでも{売|う}ってるらしいよ。"
+    },
+    {
+     "s": "F",
+     "jp": "じゃあ、{今|いま}から{行|い}ってみる。"
+    },
+    {
+     "s": "M",
+     "jp": "お{願|ねが}い。{二枚|にまい}ね。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}はこのあと{何|なに}をしますか。",
+   "options": [
+    "インターネットでチケットを{買|か}う",
+    "コンビニでチケットを{買|か}う",
+    "{野球場|やきゅうじょう}でチケットを{買|か}う",
+    "{男|おとこ}の{人|ひと}にチケットを{渡|わた}す"
+   ],
+   "answer": 1,
+   "en": "M: Did you buy tickets for Saturday's baseball game? F: Not yet. I was going to buy them online, but they say they're sold out. M: Really? I hear the convenience store by the station sells them too. F: Then I'll go there now. M: Please. Two tickets.",
+   "why": "Online is sold out, so she will go to the convenience store."
+  },
+  {
+   "type": "task",
+   "setup": "{学校|がっこう}で、{先生|せんせい}が{話|はな}しています。{明日|あした}{晴|は}れたら、{学生|がくせい}は{何|なに}を{持|も}っていきますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{明日|あした}の{運動会|うんどうかい}の{持|も}ち{物|もの}を{言|い}います。{体操服|たいそうふく}と{帽子|ぼうし}と{水筒|すいとう}を{持|も}ってきてください。お{弁当|べんとう}はいりません。{学校|がっこう}で{給食|きゅうしょく}があります。それから、{雨|あめ}の{場合|ばあい}は{運動会|うんどうかい}はなくて、ふつうの{授業|じゅぎょう}ですから、{教科書|きょうかしょ}を{持|も}ってきてください。"
+    },
+    {
+     "s": "F",
+     "jp": "{先生|せんせい}、{雨|あめ}かどうかは、いつわかりますか。"
+    },
+    {
+     "s": "M",
+     "jp": "{朝|あさ}{六時|ろくじ}に{学校|がっこう}のホームページに{書|か}きます。"
+    }
+   ],
+   "question": "{明日|あした}{晴|は}れたら、{学生|がくせい}は{何|なに}を{持|も}っていきますか。",
+   "options": [
+    "{体操服|たいそうふく}と{水筒|すいとう}とお{弁当|べんとう}",
+    "{教科書|きょうかしょ}と{水筒|すいとう}",
+    "{体操服|たいそうふく}と{帽子|ぼうし}と{水筒|すいとう}",
+    "{体操服|たいそうふく}と{帽子|ぼうし}と{教科書|きょうかしょ}"
+   ],
+   "answer": 2,
+   "en": "A teacher at school: Here's what to bring to tomorrow's sports day. Bring your gym clothes, a hat and a water bottle. You don't need a packed lunch; there is school lunch. If it rains there's no sports day, just normal lessons, so bring your textbooks. F: When will we know if it's raining? M: I'll write it on the school website at 6 a.m.",
+   "why": "For the sports day they need gym clothes, a hat and a water bottle; textbooks are only for rain."
+  },
+  {
+   "type": "task",
+   "setup": "{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}は{日曜日|にちようび}に{何|なに}を{持|も}っていきますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{来週|らいしゅう}の{日曜日|にちようび}、{町|まち}のみんなで{公園|こうえん}の{掃除|そうじ}をするんですけど、{来|こ}られますか。"
+    },
+    {
+     "s": "M",
+     "jp": "はい、{行|い}けます。{何時|なんじ}からですか。"
+    },
+    {
+     "s": "F",
+     "jp": "{九時|くじ}からです。{手袋|てぶくろ}とごみ{袋|ぶくろ}はこちらで{用意|ようい}しますから、{持|も}ってこなくていいですよ。あ、でも、{飲|の}み{物|もの}だけは{自分|じぶん}で{持|も}ってきてくださいね。"
+    },
+    {
+     "s": "M",
+     "jp": "わかりました。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}は{日曜日|にちようび}に{何|なに}を{持|も}っていきますか。",
+   "options": [
+    "{飲|の}み{物|もの}",
+    "{手袋|てぶくろ}",
+    "ごみ{袋|ぶくろ}",
+    "{何|なに}も{持|も}っていかない"
+   ],
+   "answer": 0,
+   "en": "F: Next Sunday everyone in the town is cleaning the park. Can you come? M: Yes, I can. From what time? F: From nine. We'll provide gloves and rubbish bags, so you don't need to bring them. But please bring your own drink. M: I see.",
+   "why": "Gloves and bags are provided; he only needs to bring a drink."
+  },
+  {
+   "type": "task",
+   "setup": "{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}は{何|なに}を{持|も}っていきますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{明日|あした}、{山田|やまだ}さんのお{見舞|みま}いに{行|い}くんだけど、{何|なに}を{持|も}っていったらいいかな。{花|はな}はどう？"
+    },
+    {
+     "s": "M",
+     "jp": "{病院|びょういん}によっては、{花|はな}はだめなところもあるよ。"
+    },
+    {
+     "s": "F",
+     "jp": "そうなんだ。じゃあ、{果物|くだもの}は？"
+    },
+    {
+     "s": "M",
+     "jp": "{山田|やまだ}さん、{今|いま}は{食|た}べ{物|もの}に{気|き}をつけなきゃいけないって{言|い}ってたよ。{雑誌|ざっし}とかがいいんじゃない？{毎日|まいにち}{暇|ひま}だって{言|い}ってたから。"
+    },
+    {
+     "s": "F",
+     "jp": "そうだね。そうする。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}は{何|なに}を{持|も}っていきますか。",
+   "options": [
+    "{雑誌|ざっし}",
+    "{花|はな}",
+    "{果物|くだもの}",
+    "お{菓子|かし}"
+   ],
+   "answer": 0,
+   "en": "F: Tomorrow I'm visiting Mr Yamada in hospital. What should I take? How about flowers? M: Some hospitals don't allow flowers. F: Really. Then fruit? M: He said he has to be careful about food now. Maybe magazines? He said he's bored every day. F: You're right. I'll do that.",
+   "why": "Flowers may not be allowed and he must be careful with food, so she takes magazines."
+  },
+  {
+   "type": "point",
+   "setup": "{会社|かいしゃ}で、{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はどうして{遅|おそ}くなりましたか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "おはようございます。{今日|きょう}は{遅|おそ}かったですね。{電車|でんしゃ}が{止|と}まったんですか。"
+    },
+    {
+     "s": "M",
+     "jp": "いいえ、{電車|でんしゃ}は{大丈夫|だいじょうぶ}でした。{今朝|けさ}、{歯|は}が{痛|いた}くて、{歯医者|はいしゃ}に{行|い}ってきたんです。"
+    },
+    {
+     "s": "F",
+     "jp": "そうでしたか。もう{大丈夫|だいじょうぶ}ですか。"
+    },
+    {
+     "s": "M",
+     "jp": "ええ、もう{痛|いた}くないです。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}はどうして{遅|おそ}くなりましたか。",
+   "options": [
+    "{電車|でんしゃ}が{止|と}まったから",
+    "{朝|あさ}、{起|お}きられなかったから",
+    "{歯医者|はいしゃ}に{行|い}ったから",
+    "{頭|あたま}が{痛|いた}かったから"
+   ],
+   "answer": 2,
+   "en": "At the office. F: Good morning. You were late today. Did the train stop? M: No, the train was fine. This morning my tooth hurt, so I went to the dentist. F: I see. Are you all right now? M: Yes, it doesn't hurt any more.",
+   "why": "He went to the dentist because his tooth hurt."
+  },
+  {
+   "type": "point",
+   "setup": "{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}は、どうして{去年|きょねん}より{遅|おそ}かったと{言|い}っていますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{昨日|きのう}のマラソン{大会|たいかい}、どうだった？"
+    },
+    {
+     "s": "M",
+     "jp": "{最後|さいご}まで{走|はし}れたよ。でも、{去年|きょねん}より{五分|ごふん}{遅|おそ}かったんだ。"
+    },
+    {
+     "s": "F",
+     "jp": "え、どうして？{練習|れんしゅう}、がんばってたのに。"
+    },
+    {
+     "s": "M",
+     "jp": "{途中|とちゅう}で{雨|あめ}が{降|ふ}ってきて、{寒|さむ}くて{体|からだ}が{動|うご}かなくなっちゃったんだ。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}は、どうして{去年|きょねん}より{遅|おそ}かったと{言|い}っていますか。",
+   "options": [
+    "{足|あし}にけがをしたから",
+    "{途中|とちゅう}で{雨|あめ}が{降|ふ}って{寒|さむ}くなったから",
+    "{練習|れんしゅう}をしなかったから",
+    "{途中|とちゅう}で{道|みち}を{間違|まちが}えたから"
+   ],
+   "answer": 1,
+   "en": "F: How was yesterday's marathon? M: I ran to the end. But I was five minutes slower than last year. F: Why? You practised so hard. M: It started raining on the way, and I got so cold my body wouldn't move.",
+   "why": "Rain started during the race and he got cold."
+  },
+  {
+   "type": "point",
+   "setup": "{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}は、{新|あたら}しいパン{屋|や}のどこがいちばん{気|き}に{入|い}りましたか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{駅|えき}の{前|まえ}に{新|あたら}しいパン{屋|や}ができたね。"
+    },
+    {
+     "s": "F",
+     "jp": "うん、{昨日|きのう}{行|い}ってみたよ。パンもおいしかったけど、いちばんいいと{思|おも}ったのは、{店|みせ}の{中|なか}でコーヒーが{飲|の}めること。"
+    },
+    {
+     "s": "M",
+     "jp": "へえ。{安|やす}いの？"
+    },
+    {
+     "s": "F",
+     "jp": "{値段|ねだん}はふつうかな。{夜|よる}は{七時|しちじ}に{閉|し}まっちゃうけどね。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}は、{新|あたら}しいパン{屋|や}のどこがいちばん{気|き}に{入|い}りましたか。",
+   "options": [
+    "パンが{安|やす}いこと",
+    "{駅|えき}から{近|ちか}いこと",
+    "{夜|よる}{遅|おそ}くまで{開|あ}いていること",
+    "{店|みせ}の{中|なか}でコーヒーが{飲|の}めること"
+   ],
+   "answer": 3,
+   "en": "M: A new bakery opened in front of the station. F: Yes, I went yesterday. The bread was good too, but what I liked best was that you can drink coffee in the shop. M: Oh, is it cheap? F: The prices are normal. It closes at seven in the evening, though.",
+   "why": "She says the best thing is that you can drink coffee inside."
+  },
+  {
+   "type": "point",
+   "setup": "{病院|びょういん}で、{医者|いしゃ}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はどこが{悪|わる}いですか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{今日|きょう}はどうしましたか。"
+    },
+    {
+     "s": "M",
+     "jp": "{三日|みっか}{前|まえ}からのどが{痛|いた}くて、{昨日|きのう}からせきも{出|で}るんです。"
+    },
+    {
+     "s": "F",
+     "jp": "そうですか。{熱|ねつ}はありますか。"
+    },
+    {
+     "s": "M",
+     "jp": "{熱|ねつ}はありません。{頭|あたま}も{痛|いた}くないです。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}はどこが{悪|わる}いですか。",
+   "options": [
+    "{熱|ねつ}があって、のどが{痛|いた}い",
+    "{頭|あたま}が{痛|いた}くて、せきが{出|で}る",
+    "のどが{痛|いた}くて、せきが{出|で}る",
+    "{熱|ねつ}があって、{頭|あたま}が{痛|いた}い"
+   ],
+   "answer": 2,
+   "en": "At a hospital. F (doctor): What's the problem today? M: My throat has hurt for three days, and since yesterday I've had a cough too. F: I see. Do you have a fever? M: No fever. And no headache.",
+   "why": "He has a sore throat and a cough, but no fever or headache."
+  },
+  {
+   "type": "point",
+   "setup": "{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。サッカーの{試合|しあい}はいつになりましたか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "サッカーの{試合|しあい}、{今週|こんしゅう}の{土曜日|どようび}だったよね？"
+    },
+    {
+     "s": "F",
+     "jp": "ううん、グラウンドの{工事|こうじ}があるから、{来週|らいしゅう}の{土曜日|どようび}になったよ。"
+    },
+    {
+     "s": "M",
+     "jp": "え、そうなんだ。{時間|じかん}は{同|おな}じ{一時|いちじ}？"
+    },
+    {
+     "s": "F",
+     "jp": "{時間|じかん}も{一時|いちじ}から{二時|にじ}に{変|か}わったって。"
+    }
+   ],
+   "question": "サッカーの{試合|しあい}はいつになりましたか。",
+   "options": [
+    "{来週|らいしゅう}の{土曜日|どようび}の{二時|にじ}",
+    "{今週|こんしゅう}の{土曜日|どようび}の{一時|いちじ}",
+    "{来週|らいしゅう}の{土曜日|どようび}の{一時|いちじ}",
+    "{今週|こんしゅう}の{土曜日|どようび}の{二時|にじ}"
+   ],
+   "answer": 0,
+   "en": "M: The soccer match was this Saturday, right? F: No, there's work on the ground, so it moved to next Saturday. M: Oh really. Is it the same time, one o'clock? F: The time changed too, from one to two.",
+   "why": "It moved to next Saturday, and the time changed from one to two."
+  },
+  {
+   "type": "point",
+   "setup": "{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}は、{町|まち}に{何|なに}があったらいいと{言|い}っていますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "この{町|まち}、{住|す}みやすい？"
+    },
+    {
+     "s": "F",
+     "jp": "うん。{静|しず}かだし、スーパーも{公園|こうえん}も{近|ちか}いし。でも、{図書館|としょかん}がないのが{残念|ざんねん}。"
+    },
+    {
+     "s": "M",
+     "jp": "{図書館|としょかん}なら、{隣|となり}の{駅|えき}にあるよ。"
+    },
+    {
+     "s": "F",
+     "jp": "そうだけど、{歩|ある}いて{行|い}けるところにあったらいいなと{思|おも}って。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}は、{町|まち}に{何|なに}があったらいいと{言|い}っていますか。",
+   "options": [
+    "スーパー",
+    "{駅|えき}",
+    "{公園|こうえん}",
+    "{図書館|としょかん}"
+   ],
+   "answer": 3,
+   "en": "M: Is this town easy to live in? F: Yes. It's quiet, and the supermarket and park are close. But it's a pity there's no library. M: There's a library at the next station. F: I know, but I wish there were one I could walk to.",
+   "why": "She wishes there were a library within walking distance."
+  },
+  {
+   "type": "point",
+   "setup": "{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はどうして{今|いま}テニスをしていませんか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{最近|さいきん}、テニスしてないの？"
+    },
+    {
+     "s": "M",
+     "jp": "うん。{先月|せんげつ}から、{週末|しゅうまつ}も{仕事|しごと}が{忙|いそが}しくて。"
+    },
+    {
+     "s": "F",
+     "jp": "そう。{腰|こし}はもう{大丈夫|だいじょうぶ}？"
+    },
+    {
+     "s": "M",
+     "jp": "うん、{腰|こし}はもう{治|なお}ったんだけどね。{早|はや}くまたやりたいよ。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}はどうして{今|いま}テニスをしていませんか。",
+   "options": [
+    "{腰|こし}が{痛|いた}いから",
+    "{仕事|しごと}が{忙|いそが}しいから",
+    "テニスが{嫌|きら}いになったから",
+    "いっしょにする{人|ひと}がいないから"
+   ],
+   "answer": 1,
+   "en": "F: Haven't you been playing tennis lately? M: No. Since last month I've been busy with work, even at weekends. F: I see. Is your back OK now? M: Yes, my back is better. I want to play again soon.",
+   "why": "He is busy with work; his back is already better."
+  },
+  {
+   "type": "utterance",
+   "setup": "{友|とも}だちのお{見舞|みま}いに{来|き}ました。もう{帰|かえ}ります。{何|なん}と{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "お{元気|げんき}で。",
+    "お{大事|だいじ}に。",
+    "お{疲|つか}れさまでした。"
+   ],
+   "answer": 1,
+   "en": "You visited a sick friend and are now leaving. What do you say?",
+   "why": "お{大事|だいじ}に is said to someone who is sick or hurt."
+  },
+  {
+   "type": "utterance",
+   "setup": "{病院|びょういん}で{長|なが}い{時間|じかん}{待|ま}っています。{受付|うけつけ}の{人|ひと}に{聞|き}きます。{何|なん}と{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "あとどのくらい{待|ま}たせますか。",
+    "もうすぐ{待|ま}ってください。",
+    "あとどのくらい{待|ま}ちますか。"
+   ],
+   "answer": 2,
+   "en": "You have been waiting a long time at a hospital. You ask the receptionist. What do you say?",
+   "why": "You are the one waiting, so {待|ま}ちますか is right; {待|ま}たせますか would mean you make someone wait."
+  },
+  {
+   "type": "utterance",
+   "setup": "{友|とも}だちがこれからリレーで{走|はし}ります。{何|なん}と{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "がんばってね。",
+    "がんばったね。",
+    "がんばってみた？"
+   ],
+   "answer": 0,
+   "en": "Your friend is about to run in a relay. What do you say?",
+   "why": "The race has not started yet, so you use がんばってね, not a past form."
+  },
+  {
+   "type": "utterance",
+   "setup": "{隣|となり}の{部屋|へや}に{引|ひ}っ{越|こ}してきました。{隣|となり}の{人|ひと}にあいさつします。{何|なん}と{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "どうぞお{先|さき}に。",
+    "おじゃましました。",
+    "これからよろしくお{願|ねが}いします。"
+   ],
+   "answer": 2,
+   "en": "You have just moved in next door. You greet your neighbour. What do you say?",
+   "why": "これからよろしくお{願|ねが}いします is the greeting for a new relationship."
+  },
+  {
+   "type": "utterance",
+   "setup": "{病院|びょういん}への{行|い}き{方|かた}がわかりません。{道|みち}を{歩|ある}いている{人|ひと}に{聞|き}きます。{何|なん}と{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "すみません、{病院|びょういん}へはどう{行|い}けばいいですか。",
+    "すみません、{病院|びょういん}へ{行|い}ってもいいですか。",
+    "すみません、{病院|びょういん}はどうでしたか。"
+   ],
+   "answer": 0,
+   "en": "You don't know how to get to the hospital. You ask someone walking on the street. What do you say?",
+   "why": "どう{行|い}けばいいですか asks for directions."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{顔色|かおいろ}が{悪|わる}いですね。どうしたんですか。"
+    }
+   ],
+   "question": "",
+   "options": [
+    "はい、{顔|かお}を{洗|あら}いました。",
+    "ちょっと{熱|ねつ}があるんです。",
+    "いいえ、その{色|いろ}は{好|す}きじゃないです。"
+   ],
+   "answer": 1,
+   "en": "F: You look pale. What's wrong?",
+   "why": "She is asking about your health, so you explain you have a slight fever."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{明日|あした}の{試合|しあい}、{見|み}に{来|き}てくれる？"
+    }
+   ],
+   "question": "",
+   "options": [
+    "うん、{絶対|ぜったい}{行|い}くよ。",
+    "うん、{見|み}に{来|き}たよ。",
+    "うん、{来|き}てくれてありがとう。"
+   ],
+   "answer": 0,
+   "en": "M: Will you come and watch tomorrow's match?",
+   "why": "It is about tomorrow, so you answer that you will go."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "すみません、このあたりに{郵便局|ゆうびんきょく}はありませんか。"
+    }
+   ],
+   "question": "",
+   "options": [
+    "はい、{郵便局|ゆうびんきょく}で{働|はたら}いています。",
+    "あそこの{角|かど}を{右|みぎ}に{曲|ま}がったところにありますよ。",
+    "{手紙|てがみ}を{出|だ}したことがありません。"
+   ],
+   "answer": 1,
+   "en": "F: Excuse me, is there a post office around here?",
+   "why": "She is asking where a post office is, so you give directions."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{風邪|かぜ}、{早|はや}くよくなるといいですね。お{大事|だいじ}に。"
+    }
+   ],
+   "question": "",
+   "options": [
+    "いいえ、{大事|だいじ}じゃありません。",
+    "どういたしまして。",
+    "ありがとうございます。"
+   ],
+   "answer": 2,
+   "en": "M: I hope your cold gets better soon. Take care.",
+   "why": "Someone is wishing you well, so you thank them."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{足|あし}のけが、もうよくなった？"
+    }
+   ],
+   "question": "",
+   "options": [
+    "うん、けがをしたよ。",
+    "うん、もう{走|はし}れるよ。",
+    "ううん、まだけがしてないよ。"
+   ],
+   "answer": 1,
+   "en": "F: Is your injured leg better now?",
+   "why": "Saying you can already run shows it has got better."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{今度|こんど}の{日曜日|にちようび}、{町|まち}のお{祭|まつ}りがあるんだけど、{一緒|いっしょ}に{行|い}かない？"
+    }
+   ],
+   "question": "",
+   "options": [
+    "うん、{行|い}かなかったよ。",
+    "お{祭|まつ}りは{日曜日|にちようび}だったよ。",
+    "いいね、{行|い}こう。"
+   ],
+   "answer": 2,
+   "en": "M: There's a town festival this Sunday. Do you want to go together?",
+   "why": "{行|い}かない？ is an invitation, and いいね、{行|い}こう accepts it."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "すみません、ここに{自転車|じてんしゃ}を{止|と}めないでください。"
+    }
+   ],
+   "question": "",
+   "options": [
+    "あ、すみません。すぐ{動|うご}かします。",
+    "はい、{止|と}めてもいいですよ。",
+    "いいえ、{止|と}めませんでした。"
+   ],
+   "answer": 0,
+   "en": "F: Excuse me, please don't park your bicycle here.",
+   "why": "You are being asked to move your bicycle, so you apologise and move it."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{試合|しあい}に{勝|か}ったんだって？おめでとう。"
+    }
+   ],
+   "question": "",
+   "options": [
+    "おめでとうございます。",
+    "うん、{残念|ざんねん}だったね。",
+    "ありがとう。みんなのおかげだよ。"
+   ],
+   "answer": 2,
+   "en": "M: I heard you won the match. Congratulations!",
+   "why": "You were congratulated, so you thank them."
+  }
+ ]
+}

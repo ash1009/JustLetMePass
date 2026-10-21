@@ -1288,7 +1288,7 @@
    ],
    "answer": 1,
    "en": "At a restaurant you want to see the menu. What do you say?",
-   "why": "見せてください asks the staff to show it."
+   "why": "{見|み}せてください asks the staff to show it."
   },
   {
    "type": "utterance",
@@ -1307,7 +1307,7 @@
    ],
    "answer": 0,
    "en": "You want to read a book your friend has. What do you say?",
-   "why": "You ask the friend to lend it: 貸してくれない."
+   "why": "You ask the friend to lend it: {貸|か}してくれない."
   },
   {
    "type": "utterance",
@@ -1326,7 +1326,7 @@
    ],
    "answer": 1,
    "en": "Your teacher's bag looks heavy. What do you say?",
-   "why": "お持ちしましょうか offers to carry it politely."
+   "why": "お{持|も}ちしましょうか offers to carry it politely."
   },
   {
    "type": "utterance",
@@ -1364,7 +1364,7 @@
    ],
    "answer": 2,
    "en": "A friend helped you move. What do you say?",
-   "why": "You thank them with 手伝ってくれて、ありがとう."
+   "why": "You thank them with {手伝|てつだ}ってくれて、ありがとう."
   },
   {
    "type": "response",
@@ -1383,7 +1383,7 @@
    ],
    "answer": 2,
    "en": "Do you want to go and see a film together this Sunday?",
-   "why": "It's an invitation, so you accept with 行こう."
+   "why": "It's an invitation, so you accept with {行|い}こう."
   },
   {
    "type": "response",
@@ -1459,7 +1459,7 @@
    ],
    "answer": 0,
    "en": "What would you like to drink?",
-   "why": "The customer orders with お願いします."
+   "why": "The customer orders with お{願|ねが}いします."
   },
   {
    "type": "response",
@@ -1516,7 +1516,7 @@
    ],
    "answer": 1,
    "en": "I'm leaving before you. (said when leaving work)",
-   "why": "お疲れさまでした is the reply when someone leaves first."
+   "why": "お{疲|つか}れさまでした is the reply when someone leaves first."
   }
  ]
 }
