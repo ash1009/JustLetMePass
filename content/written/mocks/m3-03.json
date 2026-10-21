@@ -185,7 +185,7 @@
   },
   {
    "type": "context",
-   "q": "{試験|しけん}に{合格|ごうかく}するために、{毎晩|まいばん}{遅|おそ}くまで＿＿{勉強|べんきょう}している。",
+   "q": "{試合|しあい}に{勝|か}つために、{毎日|まいにち}＿＿{練習|れんしゅう}している。",
    "options": [
     "すっかり",
     "はっきり",
@@ -193,7 +193,7 @@
     "しっかり"
    ],
    "answer": 3,
-   "en": "To pass the exam, I study hard until late every night."
+   "en": "To win the match, I practice hard every day."
   },
   {
    "type": "context",
@@ -245,7 +245,7 @@
   },
   {
    "type": "context",
-   "q": "{先生|せんせい}に{質問|しつもん}したら、{丁寧|ていねい}に＿＿してくれた。",
+   "q": "{先生|せんせい}に{数学|すうがく}の{問題|もんだい}について{質問|しつもん}したら、わかりやすく＿＿してくれた。",
    "options": [
     "{説明|せつめい}",
     "{案内|あんない}",
@@ -253,7 +253,7 @@
     "{紹介|しょうかい}"
    ],
    "answer": 0,
-   "en": "When I asked the teacher a question, she explained it carefully."
+   "en": "When I asked the teacher about a maths problem, she explained it clearly."
   },
   {
    "type": "context",
@@ -293,7 +293,7 @@
   },
   {
    "type": "context",
-   "q": "{電気屋|でんきや}で{店員|てんいん}に{勧|すす}められたが、{値段|ねだん}が{高|たか}かったので、{買|か}うのを＿＿。",
+   "q": "{電気屋|でんきや}で{店員|てんいん}に{勧|すす}められたが、とても{高|たか}かったので、{買|か}うのを＿＿。",
    "options": [
     "やめさせた",
     "あきらめた",
@@ -301,7 +301,7 @@
     "まちがえた"
    ],
    "answer": 1,
-   "en": "The clerk at the electronics store recommended it, but it was expensive, so I gave up on buying it."
+   "en": "The clerk at the electronics store recommended it, but it was very expensive, so I gave up on buying it."
   },
   {
    "type": "paraphrase",
@@ -343,8 +343,8 @@
    "type": "paraphrase",
    "q": "この{料理|りょうり}は【あっさりしている】。",
    "options": [
-    "{味|あじ}が{濃|こ}い",
-    "{油|あぶら}が{少|すく}なくて{軽|かる}い{味|あじ}だ",
+    "{濃|こ}くて{重|おも}い",
+    "{油|あぶら}が{少|すく}なくて{軽|かる}い",
     "とても{辛|から}い",
     "{量|りょう}が{多|おお}い"
    ],
@@ -355,7 +355,7 @@
    "type": "paraphrase",
    "q": "{田中|たなか}さんは【スケジュール】を{確認|かくにん}した。",
    "options": [
-    "{値段|ねだん}",
+    "{番号|ばんごう}",
     "{住所|じゅうしょ}",
     "{成績|せいせき}",
     "{予定|よてい}"
@@ -371,7 +371,7 @@
     "{料理|りょうり}を{注文|ちゅうもん}してから30{分|ぷん}も{待|ま}った。",
     "{先生|せんせい}に{宿題|しゅくだい}の{注文|ちゅうもん}を{聞|き}いた。",
     "{道|みち}がわからないので、{交番|こうばん}で{注文|ちゅうもん}した。",
-    "{友達|ともだち}に{明日|あした}の{注文|ちゅうもん}を{送|おく}った。"
+    "{友達|ともだち}に{会|あ}って、{久|ひさ}しぶりに{注文|ちゅうもん}を{話|はな}した。"
    ],
    "answer": 0,
    "en": "chuumon = an order (food, goods)",
@@ -412,7 +412,7 @@
    "options": [
     "この{店|みせ}は{苦手|にがて}なので、{客|きゃく}が{少|すく}ない。",
     "{明日|あした}は{苦手|にがて}だから、{早|はや}く{寝|ね}よう。",
-    "{試験|しけん}に{苦手|にがて}して、もう{一度|いちど}{受|う}けた。",
+    "テストに{苦手|にがて}して、もう{一度|いちど}{受|う}けた。",
     "{私|わたし}は{辛|から}い{料理|りょうり}が{苦手|にがて}なので、あまり{食|た}べません。"
    ],
    "answer": 3,
@@ -463,29 +463,29 @@
   },
   {
    "type": "form",
-   "q": "この{店|みせ}のケーキは、{見|み}た{目|め}＿＿{味|あじ}もすばらしい。",
+   "q": "{雨|あめ}が{降|ふ}っている＿＿、{試合|しあい}は{行|おこな}われた。",
    "options": [
-    "どころか",
-    "に{比|くら}べて",
-    "について",
-    "だけでなく"
+    "ばかりに",
+    "おかげで",
+    "せいで",
+    "にもかかわらず"
    ],
    "answer": 3,
-   "en": "This shop's cakes look great and taste great too.",
-   "why": "AだけでなくBも = not only A but also B."
+   "en": "Although it was raining, the match was held.",
+   "why": "〜にもかかわらず = even though; the others give a cause."
   },
   {
    "type": "form",
-   "q": "{子|こ}どもの＿＿、{野菜|やさい}が{嫌|きら}いだった。",
+   "q": "{冷|つめ}たい{物|もの}を{食|た}べ＿＿、おなかが{痛|いた}くなった。",
    "options": [
-    "うちに",
-    "ころは",
-    "ために",
-    "ままで"
+    "すぎに",
+    "すぎて",
+    "ことに",
+    "ように"
    ],
    "answer": 1,
-   "en": "When I was a child, I didn't like vegetables.",
-   "why": "〜のころ = at the time when."
+   "en": "I ate too many cold things and got a stomach ache.",
+   "why": "Verb stem + すぎて = did too much, so..."
   },
   {
    "type": "form",
@@ -582,7 +582,7 @@
    "type": "form",
    "q": "{明日|あした}までにレポートを{出|だ}す＿＿、{今夜|こんや}は{寝|ね}られない。",
    "options": [
-    "ことにしたら",
+    "ことはないので",
     "ことになっているので",
     "ようにすれば",
     "ことがあれば"
@@ -646,23 +646,23 @@
   },
   {
    "type": "star",
-   "before": "{日本|にほん}の{学校|がっこう}では、{生徒|せいと}が",
-   "after": "{決|き}まっています。",
+   "before": "{今朝|けさ}、",
+   "after": "しまった。",
    "pieces": [
-    "ことに",
-    "{掃除|そうじ}する",
-    "{自分|じぶん}たちの",
-    "{教室|きょうしつ}を"
+    "{作|つく}って",
+    "お{弁当|べんとう}を{忘|わす}れて",
+    "{母|はは}が",
+    "くれた"
    ],
    "order": [
     2,
+    0,
     3,
-    1,
-    0
+    1
    ],
    "star": 1,
-   "en": "In Japanese schools, it is the rule that students clean their own classrooms.",
-   "why": "{自分|じぶん}たちの{教室|きょうしつ}を{掃除|そうじ}する is the action, and ことに{決|き}まっています follows it."
+   "en": "This morning I forgot the lunch my mother made for me.",
+   "why": "{母|はは}が{作|つく}ってくれた describes お{弁当|べんとう}, and {忘|わす}れてしまった ends the sentence."
   },
   {
    "type": "star",
