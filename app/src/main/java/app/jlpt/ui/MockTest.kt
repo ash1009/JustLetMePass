@@ -138,7 +138,7 @@ private fun fromPaper(p: JSONObject): List<MockQ> {
     for (o in p.optJSONArray("vocab")?.objs().orEmpty()) {
         val type = o.optString("type")
         val raw = o.has("q_raw")
-        val q = if (raw) o.getString("q_raw") else o.optString("q")
+        val q = if (raw) o.getString("q_raw") else o.optString("q").ifBlank { o.optString("word") }
         val opts = (o.optJSONArray("options") ?: o.optJSONArray("options_raw"))?.strs() ?: continue
         out += MockQ("Vocabulary", Quiz(q, opts, o.optInt("answer"), o.optString("en"), "", o.optString("why")),
             noFurigana = raw, part = part(type), plainOptions = o.has("options_raw"))
