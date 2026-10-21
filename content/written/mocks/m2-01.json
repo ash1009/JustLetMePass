@@ -403,15 +403,15 @@
   },
   {
    "type": "form",
-   "q": "{天気|てんき}が{悪|わる}かった＿＿、{試合|しあい}は{予定|よてい}どおり{行|おこな}われた。",
+   "q": "{家|いえ}を{出|で}た＿＿、{雨|あめ}が{降|ふ}り{出|だ}した。",
    "options": [
-    "にもかかわらず",
     "からには",
     "とたんに",
-    "ついでに"
+    "ついでに",
+    "うえで"
    ],
-   "answer": 0,
-   "en": "Despite the bad weather, the match was held as planned."
+   "answer": 1,
+   "en": "The moment I left the house, it started to rain."
   },
   {
    "type": "form",
@@ -545,7 +545,7 @@
     3,
     1
    ],
-   "star": 2,
+   "star": 0,
    "en": "This town is famous not only for its hot springs but also for its delicious food.",
    "why": "AだけでなくBでも: {温泉|おんせん}だけでなく, then {料理|りょうり}がおいしいことでも before {有名|ゆうめい}だ."
   },
@@ -1057,12 +1057,12 @@
    ],
    "question": "{男|おとこ}の{人|ひと}は{出張|しゅっちょう}に{何|なに}を{持|も}っていきますか。",
    "options": [
-    "{見積書|みつもりしょ}とサンプル",
     "{見積書|みつもりしょ}とカタログ",
     "カタログとサンプル",
+    "{見積書|みつもりしょ}とサンプル",
     "{見積書|みつもりしょ}と{契約書|けいやくしょ}"
    ],
-   "answer": 0,
+   "answer": 2,
    "en": "F: Are you ready for tomorrow's Osaka business trip? M: Yes. I'm taking the quote and the new product catalogue. F: We already sent them the catalogue as data, so you don't need it. Take a sample of the new product instead. It's best if they can actually touch it. M: OK. Is a printed quote fine? F: Yes, two copies just in case. And the contract isn't needed yet this time. M: OK.",
    "why": "The catalogue and contract are not needed; he takes the quote and a sample."
   },
@@ -1121,12 +1121,12 @@
    ],
    "question": "{参加者|さんかしゃ}は{最初|さいしょ}に{何|なに}をしますか。",
    "options": [
-    "だしを{取|と}り{始|はじ}める",
     "{魚|さかな}の{下|した}ごしらえをする",
     "{野菜|やさい}を{切|き}る",
+    "だしを{取|と}り{始|はじ}める",
     "{昆布|こんぶ}を{水|みず}につける"
    ],
-   "answer": 0,
+   "answer": 2,
    "en": "F: Everyone, today we'll make simmered fish. I'd normally like to start by preparing the fish, but the flavour of a simmered dish depends on the stock. Stock takes time, so let's start with that. The kombu is already soaking in water, so put the pot on the heat. While the stock is cooking, cut the vegetables, and do the fish after that.",
    "why": "She says to start with the stock; the kombu is already soaking."
   },
