@@ -1,0 +1,1513 @@
+{
+ "id": "m4-05",
+ "level": 4,
+ "title_en": "N4 practice test 5",
+ "vocab": [
+  {
+   "type": "kanji_reading",
+   "q_raw": "この店の【店員】はとても親切です。",
+   "options": [
+    "てにん",
+    "てんいん",
+    "てんにん",
+    "みせいん"
+   ],
+   "answer": 1,
+   "en": "The staff at this shop are very kind."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "駅の近くのコンビニで【働いて】います。",
+   "options": [
+    "うごいて",
+    "はらたいて",
+    "はたらいて",
+    "ひらいて"
+   ],
+   "answer": 2,
+   "en": "I work at a convenience store near the station."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "この【品物】は来週まで返すことができます。",
+   "options": [
+    "しなもの",
+    "ひんもの",
+    "しなぶつ",
+    "ひんぶつ"
+   ],
+   "answer": 0,
+   "en": "You can return this item until next week."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "市役所で、この紙に【住所】を書いてください。",
+   "options": [
+    "じゅしょ",
+    "すみしょ",
+    "じゅうしょう",
+    "じゅうしょ"
+   ],
+   "answer": 3,
+   "en": "At the city hall, please write your address on this paper."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "くつの【売り場】は三階です。",
+   "options": [
+    "かいば",
+    "うりば",
+    "うりじょう",
+    "ばいば"
+   ],
+   "answer": 1,
+   "en": "The shoe section is on the third floor."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "アルバイトを休むときは、【店長】に電話してください。",
+   "options": [
+    "てんちょ",
+    "てんじょう",
+    "てんちょう",
+    "みせなが"
+   ],
+   "answer": 2,
+   "en": "When you take a day off from your part-time job, please call the store manager."
+  },
+  {
+   "type": "kanji_reading",
+   "q_raw": "けさは時間がなかったので、市役所まで【急いで】行きました。",
+   "options": [
+    "およいで",
+    "さわいで",
+    "ふさいで",
+    "いそいで"
+   ],
+   "answer": 3,
+   "en": "I had no time this morning, so I hurried to the city hall."
+  },
+  {
+   "type": "orthography",
+   "q": "スーパーで{牛乳|ぎゅうにゅう}を【かいました】。",
+   "options_raw": [
+    "貝いました",
+    "買いました",
+    "飼いました",
+    "価いました"
+   ],
+   "answer": 1,
+   "en": "I bought milk at the supermarket."
+  },
+  {
+   "type": "orthography",
+   "q": "{来月|らいげつ}から{本屋|ほんや}で【しごと】をします。",
+   "options_raw": [
+    "仕事",
+    "士事",
+    "使事",
+    "仕字"
+   ],
+   "answer": 0,
+   "en": "From next month I will work at a bookshop."
+  },
+  {
+   "type": "orthography",
+   "q": "{市役所|しやくしょ}は{何時|なんじ}に【しまります】か。",
+   "options_raw": [
+    "開まります",
+    "問まります",
+    "間まります",
+    "閉まります"
+   ],
+   "answer": 3,
+   "en": "What time does the city hall close?"
+  },
+  {
+   "type": "orthography",
+   "q": "このかばんは{少|すこ}し【おもい】です。",
+   "options_raw": [
+    "思い",
+    "動い",
+    "重い",
+    "里い"
+   ],
+   "answer": 2,
+   "en": "This bag is a little heavy."
+  },
+  {
+   "type": "orthography",
+   "q": "{店|みせ}の{前|まえ}で{友|とも}だちを【まちました】。",
+   "options_raw": [
+    "持ちました",
+    "待ちました",
+    "特ちました",
+    "時ちました"
+   ],
+   "answer": 1,
+   "en": "I waited for my friend in front of the shop."
+  },
+  {
+   "type": "context",
+   "q": "このシャツは{少|すこ}し{小|ちい}さかったので、{大|おお}きいのと＿＿もらいました。",
+   "options": [
+    "とりかえて",
+    "ひっこして",
+    "つつんで",
+    "はらって"
+   ],
+   "answer": 0,
+   "en": "This shirt was a little small, so I had it exchanged for a bigger one."
+  },
+  {
+   "type": "context",
+   "q": "アルバイトの＿＿に{行|い}って、{店長|てんちょう}といろいろ{話|はな}しました。",
+   "options": [
+    "けんぶつ",
+    "めんせつ",
+    "そつぎょう",
+    "しょうたい"
+   ],
+   "answer": 1,
+   "en": "I went to the part-time job interview and talked with the manager about many things."
+  },
+  {
+   "type": "context",
+   "q": "{市役所|しやくしょ}の＿＿で、どの{窓口|まどぐち}に{行|い}けばいいか{聞|き}きました。",
+   "options": [
+    "だいどころ",
+    "おくじょう",
+    "うけつけ",
+    "ほんだな"
+   ],
+   "answer": 2,
+   "en": "At the city hall reception desk, I asked which counter I should go to."
+  },
+  {
+   "type": "context",
+   "q": "{店員|てんいん}さんに{使|つか}い{方|かた}を{聞|き}いたら、＿＿{教|おし}えてくれました。",
+   "options": [
+    "ふかく",
+    "にがく",
+    "おもく",
+    "ていねいに"
+   ],
+   "answer": 3,
+   "en": "When I asked the shop assistant how to use it, they explained it carefully."
+  },
+  {
+   "type": "context",
+   "q": "この{店|みせ}では、{一万円|いちまんえん}{以上|いじょう}{買|か}うと、{家|いえ}まで{品物|しなもの}を＿＿くれます。",
+   "options": [
+    "あずけて",
+    "とどけて",
+    "ひろって",
+    "わたって"
+   ],
+   "answer": 1,
+   "en": "At this shop, if you buy 10,000 yen or more, they deliver the items to your home."
+  },
+  {
+   "type": "context",
+   "q": "{雨|あめ}の{日|ひ}はお{客|きゃく}さんが{少|すく}ないので、{店|みせ}は＿＿です。",
+   "options": [
+    "にぎやか",
+    "じょうず",
+    "ひま",
+    "まじめ"
+   ],
+   "answer": 2,
+   "en": "On rainy days there are few customers, so the shop is not busy."
+  },
+  {
+   "type": "context",
+   "q": "{市役所|しやくしょ}は{土曜日|どようび}と{日曜日|にちようび}は＿＿です。",
+   "options": [
+    "やすみ",
+    "るす",
+    "ひるま",
+    "ちゅうし"
+   ],
+   "answer": 0,
+   "en": "The city hall is closed on Saturdays and Sundays."
+  },
+  {
+   "type": "context",
+   "q": "{買|か}ったテレビがすぐ＿＿ので、{店|みせ}に{電話|でんわ}しました。",
+   "options": [
+    "ひえた",
+    "すいた",
+    "ふとった",
+    "こわれた"
+   ],
+   "answer": 3,
+   "en": "The TV I bought broke right away, so I called the shop."
+  },
+  {
+   "type": "paraphrase",
+   "q": "この{店|みせ}は【いつもこんでいます】。",
+   "options": [
+    "この{店|みせ}はいつも{人|ひと}が{少|すく}ないです。",
+    "この{店|みせ}はいつも{人|ひと}がおおぜいいます。",
+    "この{店|みせ}はいつも{静|しず}かです。",
+    "この{店|みせ}はいつも{物|もの}が{安|やす}いです。"
+   ],
+   "answer": 1,
+   "en": "This shop is always crowded."
+  },
+  {
+   "type": "paraphrase",
+   "q": "{来月|らいげつ}、アルバイトを【やめる】つもりです。",
+   "options": [
+    "{来月|らいげつ}、アルバイトを{始|はじ}めるつもりです。",
+    "{来月|らいげつ}、アルバイトを{少|すこ}し{休|やす}むつもりです。",
+    "{来月|らいげつ}、アルバイトを{増|ふ}やすつもりです。",
+    "{来月|らいげつ}、アルバイトの{仕事|しごと}を{終|お}わりにするつもりです。"
+   ],
+   "answer": 3,
+   "en": "I plan to quit my part-time job next month."
+  },
+  {
+   "type": "paraphrase",
+   "q": "{市役所|しやくしょ}の{人|ひと}に、【{書|か}き{方|かた}を{説明|せつめい}してもらいました】。",
+   "options": [
+    "{市役所|しやくしょ}の{人|ひと}に、{書|か}き{方|かた}を{教|おし}えてもらいました。",
+    "{市役所|しやくしょ}の{人|ひと}に、{書|か}き{方|かた}を{教|おし}えてあげました。",
+    "{市役所|しやくしょ}の{人|ひと}に、{代|か}わりに{書|か}いてもらいました。",
+    "{市役所|しやくしょ}の{人|ひと}に、{書|か}き{方|かた}を{聞|き}かれました。"
+   ],
+   "answer": 0,
+   "en": "A city hall worker explained to me how to fill it in."
+  },
+  {
+   "type": "paraphrase",
+   "q": "この{財布|さいふ}は【やすかった】です。",
+   "options": [
+    "この{財布|さいふ}は{高|たか}かったです。",
+    "この{財布|さいふ}は{軽|かる}かったです。",
+    "この{財布|さいふ}は{高|たか}くなかったです。",
+    "この{財布|さいふ}は{古|ふる}かったです。"
+   ],
+   "answer": 2,
+   "en": "This wallet was cheap."
+  },
+  {
+   "type": "usage",
+   "word": "おつり",
+   "options": [
+    "{毎日|まいにち}おつりをして、{体|からだ}を{強|つよ}くしています。",
+    "{電車|でんしゃ}のおつりに{遅|おく}れてしまいました。",
+    "{千円|せんえん}{出|だ}したら、{二百円|にひゃくえん}のおつりをもらいました。",
+    "{友|とも}だちにおつりの{手紙|てがみ}を{書|か}きました。"
+   ],
+   "answer": 2,
+   "en": "おつり = change (money you get back)."
+  },
+  {
+   "type": "usage",
+   "word": "{届|とど}ける",
+   "options": [
+    "{落|お}ちていた{財布|さいふ}を{交番|こうばん}に{届|とど}けました。",
+    "{毎朝|まいあさ}、{六時|ろくじ}に{目|め}を{届|とど}けます。",
+    "{暑|あつ}いので、まどを{届|とど}けました。",
+    "{来年|らいねん}、{大学|だいがく}を{届|とど}けるつもりです。"
+   ],
+   "answer": 0,
+   "en": "{届|とど}ける = to take something to someone / to deliver."
+  },
+  {
+   "type": "usage",
+   "word": "{準備|じゅんび}",
+   "options": [
+    "{準備|じゅんび}がとてもおいしかったです。",
+    "{弟|おとうと}は{準備|じゅんび}が{高|たか}いです。",
+    "この{道|みち}は{準備|じゅんび}なので、{気|き}をつけてください。",
+    "あしたのアルバイトの{準備|じゅんび}をしてから{寝|ね}ます。"
+   ],
+   "answer": 3,
+   "en": "{準備|じゅんび} = preparation."
+  },
+  {
+   "type": "usage",
+   "word": "{返|かえ}す",
+   "options": [
+    "{電気|でんき}を{返|かえ}してから、{部屋|へや}を{出|で}ました。",
+    "{買|か}ったセーターが{小|ちい}さかったので、{店|みせ}に{返|かえ}しに{行|い}きました。",
+    "{毎朝|まいあさ}、{顔|かお}を{返|かえ}してから{学校|がっこう}へ{行|い}きます。",
+    "{駅|えき}で{電車|でんしゃ}を{返|かえ}しました。"
+   ],
+   "answer": 1,
+   "en": "{返|かえ}す = to give back / to return."
+  }
+ ],
+ "grammar": [
+  {
+   "type": "form",
+   "q": "すみません、このシャツ、{着|き}て＿＿もいいですか。",
+   "options": [
+    "み",
+    "みる",
+    "みて",
+    "みた"
+   ],
+   "answer": 2,
+   "en": "Excuse me, may I try this shirt on?"
+  },
+  {
+   "type": "form",
+   "q": "アルバイトを＿＿、{旅行|りょこう}に{行|い}くお{金|かね}をためています。",
+   "options": [
+    "して",
+    "すると",
+    "したら",
+    "しても"
+   ],
+   "answer": 0,
+   "en": "I am doing a part-time job and saving money to go on a trip."
+  },
+  {
+   "type": "form",
+   "q": "{市役所|しやくしょ}は{駅|えき}から{歩|ある}いて{十分|じゅっぷん}＿＿です。",
+   "options": [
+    "ずつ",
+    "しか",
+    "まで",
+    "ぐらい"
+   ],
+   "answer": 3,
+   "en": "The city hall is about ten minutes' walk from the station."
+  },
+  {
+   "type": "form",
+   "q": "{店長|てんちょう}に、あしたは{早|はや}く{来|く}る＿＿{言|い}われました。",
+   "options": [
+    "ために",
+    "ように",
+    "ことに",
+    "そうに"
+   ],
+   "answer": 1,
+   "en": "The manager told me to come early tomorrow."
+  },
+  {
+   "type": "form",
+   "q": "この{電子|でんし}レンジは{買|か}った＿＿なのに、もう{動|うご}きません。",
+   "options": [
+    "ほう",
+    "ばかり",
+    "まま",
+    "はず"
+   ],
+   "answer": 1,
+   "en": "I only just bought this microwave, but it already doesn't work."
+  },
+  {
+   "type": "form",
+   "q": "{日曜日|にちようび}は{市役所|しやくしょ}が{休|やす}み＿＿、{月曜日|げつようび}に{行|い}きます。",
+   "options": [
+    "なのに",
+    "でも",
+    "だけ",
+    "なので"
+   ],
+   "answer": 3,
+   "en": "The city hall is closed on Sunday, so I will go on Monday."
+  },
+  {
+   "type": "form",
+   "q": "すみません、このセーターをもう{少|すこ}し{大|おお}きいのに{替|か}えて＿＿か。",
+   "options": [
+    "いただけません",
+    "さしあげません",
+    "いたしません",
+    "まいりません"
+   ],
+   "answer": 0,
+   "en": "Excuse me, could you change this sweater for a slightly bigger one?"
+  },
+  {
+   "type": "form",
+   "q": "{面接|めんせつ}の{前|まえ}に{店|みせ}の{場所|ばしょ}を{調|しら}べて＿＿ので、{迷|まよ}わずに{行|い}けました。",
+   "options": [
+    "あった",
+    "みせた",
+    "おいた",
+    "やった"
+   ],
+   "answer": 2,
+   "en": "I had looked up where the shop was before the interview, so I got there without getting lost."
+  },
+  {
+   "type": "form",
+   "q": "セールの{日|ひ}は{人|ひと}が{多|おお}すぎて、{店|みせ}に{入|はい}る＿＿できませんでした。",
+   "options": [
+    "ことに",
+    "ことを",
+    "ことで",
+    "ことが"
+   ],
+   "answer": 3,
+   "en": "On the sale day there were too many people, and I couldn't get into the shop."
+  },
+  {
+   "type": "form",
+   "q": "A「この{紙|かみ}は、どこに{出|だ}せばいいですか。」\nB「あちらの{三番|さんばん}の{窓口|まどぐち}に{出|だ}して＿＿。」",
+   "options": [
+    "ございます",
+    "ください",
+    "くださいました",
+    "いただきます"
+   ],
+   "answer": 1,
+   "en": "A: Where should I hand in this form? B: Please hand it in at counter 3 over there."
+  },
+  {
+   "type": "form",
+   "q": "{雨|あめ}が{降|ふ}り＿＿ので、{早|はや}く{帰|かえ}りましょう。",
+   "options": [
+    "そうな",
+    "そうだ",
+    "ような",
+    "らしい"
+   ],
+   "answer": 0,
+   "en": "It looks like it's going to rain, so let's go home early."
+  },
+  {
+   "type": "form",
+   "q": "{店員|てんいん}さんに{聞|き}いたら、このくつは{黒|くろ}い{色|いろ}＿＿ないそうです。",
+   "options": [
+    "だけ",
+    "まで",
+    "しか",
+    "より"
+   ],
+   "answer": 2,
+   "en": "I asked the shop assistant, and they said these shoes only come in black."
+  },
+  {
+   "type": "form",
+   "q": "{弟|おとうと}はアルバイトで{疲|つか}れて、{服|ふく}を{着|き}た＿＿{寝|ね}てしまいました。",
+   "options": [
+    "ながら",
+    "まま",
+    "あいだ",
+    "うちに"
+   ],
+   "answer": 1,
+   "en": "My younger brother was tired from his part-time job and fell asleep with his clothes on."
+  },
+  {
+   "type": "star",
+   "before": "{昨日|きのう}",
+   "after": "{取|と}り{替|か}えてもらいました。",
+   "pieces": [
+    "シャツが",
+    "{大|おお}きいサイズと",
+    "{買|か}った",
+    "{小|ちい}さかったので"
+   ],
+   "order": [
+    2,
+    0,
+    3,
+    1
+   ],
+   "star": 2,
+   "en": "The shirt I bought yesterday was small, so I had it exchanged for a bigger size.",
+   "why": "{買|か}った describes シャツが; then comes the reason {小|ちい}さかったので; then {大|おお}きいサイズと goes with {取|と}り{替|か}えて."
+  },
+  {
+   "type": "star",
+   "before": "{駅|えき}の{前|まえ}の",
+   "after": "{探|さが}しているそうです。",
+   "pieces": [
+    "してくれる",
+    "{人|ひと}を",
+    "パン{屋|や}で",
+    "アルバイトを"
+   ],
+   "order": [
+    2,
+    3,
+    0,
+    1
+   ],
+   "star": 0,
+   "en": "I hear the bakery in front of the station is looking for someone to work part-time.",
+   "why": "{駅|えき}の{前|まえ}の needs a noun, so パン{屋|や}で comes first; アルバイトをしてくれる describes {人|ひと}を, which goes with {探|さが}している."
+  },
+  {
+   "type": "star",
+   "before": "{市役所|しやくしょ}に",
+   "after": "おきました。",
+   "pieces": [
+    "{書類|しょるい}を",
+    "{行|い}く",
+    "{確認|かくにん}して",
+    "{前|まえ}に"
+   ],
+   "order": [
+    1,
+    3,
+    0,
+    2
+   ],
+   "star": 0,
+   "en": "Before going to the city hall, I checked my documents.",
+   "why": "{市役所|しやくしょ}に goes with {行|い}く; {行|い}く{前|まえ}に is one unit; {書類|しょるい}を{確認|かくにん}して connects to おきました."
+  },
+  {
+   "type": "star",
+   "before": "{母|はは}に",
+   "after": "しまいました。",
+   "pieces": [
+    "{牛乳|ぎゅうにゅう}を",
+    "{忘|わす}れて",
+    "{買|か}うのを",
+    "{頼|たの}まれた"
+   ],
+   "order": [
+    3,
+    0,
+    2,
+    1
+   ],
+   "star": 1,
+   "en": "I forgot to buy the milk my mother asked me to get.",
+   "why": "{母|はは}に{頼|たの}まれた describes {牛乳|ぎゅうにゅう}を; {買|か}うのを is the object of {忘|わす}れて, which joins しまいました."
+  },
+  {
+   "type": "text",
+   "passage": "わたしは{去年|きょねん}の{四月|しがつ}から、{駅|えき}の{近|ちか}くのスーパーでアルバイトをしています。{最初|さいしょ}は、レジの{仕事|しごと}が（１）、よく{間違|まちが}えました。でも、{店長|てんちょう}やほかの{店員|てんいん}さんが{何度|なんど}も{教|おし}えて（２）ので、{今|いま}は{一人|ひとり}でできるようになりました。\n{先週|せんしゅう}、あるお{客|きゃく}さんが、{買|か}った{卵|たまご}を{持|も}ってきました。{袋|ふくろ}の{中|なか}で{卵|たまご}が{割|わ}れていたそうです。わたしは{少|すこ}し{困|こま}りましたが、{店長|てんちょう}に{聞|き}いて、{新|あたら}しい{卵|たまご}と{取|と}り{替|か}えました。お{客|きゃく}さんは「ありがとう」と{言|い}って、{帰|かえ}って（３）。\nアルバイトは{大変|たいへん}なこともありますが、いろいろな{人|ひと}と{話|はな}せるので{楽|たの}しいです。{来年|らいねん}も（４）と{思|おも}っています。",
+   "en": "I have been working part-time at a supermarket near the station since April last year. At first the cash register work was difficult, and I often made mistakes. But the manager and the other staff taught me many times, so now I can do it by myself. Last week a customer brought back some eggs she had bought. The eggs had broken in the bag. I was a little worried, but I asked the manager and exchanged them for new eggs. The customer said 'thank you' and went home. A part-time job is sometimes hard, but it is fun because I can talk with many people. I think I will keep doing it next year too.",
+   "questions": [
+    {
+     "q": "（１）",
+     "options": [
+      "{難|むずか}しくて",
+      "{難|むずか}しいのに",
+      "{難|むずか}しければ",
+      "{難|むずか}しくても"
+     ],
+     "answer": 0
+    },
+    {
+     "q": "（２）",
+     "options": [
+      "もらった",
+      "あげた",
+      "くれた",
+      "やった"
+     ],
+     "answer": 2
+    },
+    {
+     "q": "（３）",
+     "options": [
+      "きました",
+      "いらっしゃいました",
+      "しまいたかったです",
+      "いきました"
+     ],
+     "answer": 3
+    },
+    {
+     "q": "（４）",
+     "options": [
+      "{続|つづ}けた",
+      "{続|つづ}けよう",
+      "{続|つづ}けている",
+      "{続|つづ}けられた"
+     ],
+     "answer": 1
+    }
+   ]
+  }
+ ],
+ "reading": [
+  {
+   "type": "short",
+   "text": "お{客|きゃく}さまへ\n\nみどり{屋|や}で{買|か}った{品物|しなもの}は、{買|か}った{日|ひ}から{七日|なのか}の{間|あいだ}なら、{返品|へんぴん}や{交換|こうかん}ができます。そのときは、かならずレシートを{持|も}ってきてください。レシートがないときは、{返品|へんぴん}も{交換|こうかん}もできません。\nまた、{下着|したぎ}と、セールで{買|か}った{品物|しなもの}は、{返品|へんぴん}できません。\n\nみどり{屋|や}",
+   "en": "To our customers: Items bought at Midoriya can be returned or exchanged within seven days of the day you bought them. Please be sure to bring the receipt. Without a receipt, we cannot accept returns or exchanges. Also, underwear and items bought in a sale cannot be returned. — Midoriya",
+   "questions": [
+    {
+     "q": "この{店|みせ}で{返品|へんぴん}できるのはどれですか。",
+     "options": [
+      "{十日前|とおかまえ}に{買|か}ったシャツで、レシートがある。",
+      "{三日前|みっかまえ}にセールで{買|か}ったズボンで、レシートがある。",
+      "{五日前|いつかまえ}に{買|か}ったセーターで、レシートがある。",
+      "{昨日|きのう}{買|か}ったぼうしで、レシートをなくした。"
+     ],
+     "answer": 2,
+     "why": "It is within seven days, not a sale item, and there is a receipt."
+    }
+   ]
+  },
+  {
+   "type": "short",
+   "text": "{山田|やまだ}さん\n\n{店長|てんちょう}の{木村|きむら}です。{来週|らいしゅう}の{土曜日|どようび}は、{午後|ごご}{一時|いちじ}から{六時|ろくじ}までアルバイトに{入|はい}ってもらう{予定|よてい}でしたが、その{日|ひ}は{店|みせ}の{中|なか}の{工事|こうじ}があるので、{店|みせ}は{休|やす}みになりました。\nその{代|か}わりに、{日曜日|にちようび}の{午前|ごぜん}{十時|じゅうじ}から{午後|ごご}{三時|さんじ}まで{来|き}てもらえませんか。{日曜日|にちようび}がだめなら、{金曜日|きんようび}の{夕方|ゆうがた}でもいいです。どちらがいいか、{水曜日|すいようび}までに{返事|へんじ}をください。\n\n{木村|きむら}",
+   "en": "Yamada-san, this is Kimura, the manager. You were going to work next Saturday from 1 to 6 pm, but the shop will be closed that day because of building work inside. Instead, could you come on Sunday from 10 am to 3 pm? If Sunday is not possible, Friday evening is also fine. Please reply by Wednesday and tell me which one is better. — Kimura",
+   "questions": [
+    {
+     "q": "{山田|やまだ}さんは、まず{何|なに}をしなければなりませんか。",
+     "options": [
+      "{土曜日|どようび}の{一時|いちじ}に{店|みせ}へ{行|い}く。",
+      "{日曜日|にちようび}と{金曜日|きんようび}のどちらに{来|こ}られるか、{水曜日|すいようび}までに{店長|てんちょう}に{知|し}らせる。",
+      "{日曜日|にちようび}の{十時|じゅうじ}に{店|みせ}へ{行|い}く。",
+      "{金曜日|きんようび}の{夕方|ゆうがた}に{店|みせ}の{工事|こうじ}を{手伝|てつだ}う。"
+     ],
+     "answer": 1,
+     "why": "The manager asks Yamada to reply by Wednesday saying which day is better."
+    }
+   ]
+  },
+  {
+   "type": "short",
+   "text": "{市役所|しやくしょ}からのお{知|し}らせ\n\n{十一月|じゅういちがつ}から、{市役所|しやくしょ}の{一階|いっかい}の{窓口|まどぐち}は、{毎週|まいしゅう}{木曜日|もくようび}だけ{夜|よる}{七時|しちじ}まで{開|あ}いています。ほかの{日|ひ}は、{今|いま}までと{同|おな}じで{午後|ごご}{五時|ごじ}までです。\n{夜|よる}（{五時|ごじ}から{七時|しちじ}まで）は、{住所|じゅうしょ}が{変|か}わったときの{手続|てつづ}きと、{書類|しょるい}をもらうことだけができます。{税金|ぜいきん}の{相談|そうだん}は、{夜|よる}はできませんので、{五時|ごじ}までに{来|き}てください。",
+   "en": "Notice from the city hall: From November, the first-floor counters at the city hall will be open until 7 pm on Thursdays only. On other days they are open until 5 pm, the same as now. In the evening (5 to 7 pm) you can only do the procedure for a change of address and get documents. Tax consultations are not available in the evening, so please come by 5 pm.",
+   "questions": [
+    {
+     "q": "{十一月|じゅういちがつ}から、{木曜日|もくようび}の{夜|よる}{六時|ろくじ}に{市役所|しやくしょ}でできることは{何|なん}ですか。",
+     "options": [
+      "{税金|ぜいきん}の{相談|そうだん}をすること",
+      "どの{手続|てつづ}きもできない",
+      "どんな{手続|てつづ}きでもできる",
+      "{引|ひ}っ{越|こ}して{住所|じゅうしょ}が{変|か}わったときの{手続|てつづ}きをすること"
+     ],
+     "answer": 3,
+     "why": "In the evening only change-of-address procedures and getting documents are possible."
+    }
+   ]
+  },
+  {
+   "type": "mid",
+   "text": "{私|わたし}は{三か月前|さんかげつまえ}に{日本|にほん}へ{来|き}ました。{来|き}てすぐ、{住所|じゅうしょ}を{届|とど}けるために、{市役所|しやくしょ}へ{行|い}かなければなりませんでした。でも、{私|わたし}はまだ{日本語|にほんご}があまりわからなかったので、とても{心配|しんぱい}でした。\n{市役所|しやくしょ}に{着|つ}くと、{人|ひと}がたくさんいて、どこへ{行|い}けばいいのかわかりませんでした。{入口|いりぐち}の{近|ちか}くに{立|た}っていたら、{女|おんな}の{人|ひと}が「どうしましたか」と{声|こえ}をかけてくれました。その{人|ひと}は{市役所|しやくしょ}で{働|はたら}いている{人|ひと}でした。{私|わたし}がパスポートを{見|み}せると、その{人|ひと}は{三番|さんばん}の{窓口|まどぐち}まで{一緒|いっしょ}に{行|い}ってくれました。そして、{書類|しょるい}の{書|か}き{方|かた}を、ゆっくり、やさしい{日本語|にほんご}で{説明|せつめい}してくれました。\n{手続|てつづ}きは{三十分|さんじゅっぷん}ぐらいで{終|お}わりました。{帰|かえ}るとき、{私|わたし}は「もっと{日本語|にほんご}を{勉強|べんきょう}して、{次|つぎ}は{一人|ひとり}で{来|こ}られるようになりたい」と{思|おも}いました。それで、{今|いま}は{毎日|まいにち}{一時間|いちじかん}、{日本語|にほんご}を{勉強|べんきょう}しています。",
+   "en": "I came to Japan three months ago. Right after I arrived, I had to go to the city hall to register my address. But I didn't understand much Japanese yet, so I was very worried. When I got to the city hall, there were many people and I didn't know where to go. While I was standing near the entrance, a woman asked me, 'What's wrong?' She worked at the city hall. When I showed her my passport, she went with me to counter 3. Then she explained how to fill in the form slowly, in easy Japanese. The procedure finished in about 30 minutes. On the way home I thought, 'I want to study more Japanese so that next time I can come by myself.' So now I study Japanese for one hour every day.",
+   "questions": [
+    {
+     "q": "「{私|わたし}」はどうして{心配|しんぱい}でしたか。",
+     "options": [
+      "{市役所|しやくしょ}が{遠|とお}かったから",
+      "{日本語|にほんご}があまりわからなかったから",
+      "パスポートを{忘|わす}れたから",
+      "{市役所|しやくしょ}が{休|やす}みだと{思|おも}ったから"
+     ],
+     "answer": 1,
+     "why": "The writer says they were worried because they didn't understand much Japanese."
+    },
+    {
+     "q": "{女|おんな}の{人|ひと}は{何|なに}をしてくれましたか。",
+     "options": [
+      "{窓口|まどぐち}まで{一緒|いっしょ}に{行|い}って、{書|か}き{方|かた}を{教|おし}えてくれた。",
+      "{書類|しょるい}を{全部|ぜんぶ}{代|か}わりに{書|か}いてくれた。",
+      "{英語|えいご}で{書|か}き{方|かた}を{説明|せつめい}してくれた。",
+      "{家|いえ}まで{送|おく}ってくれた。"
+     ],
+     "answer": 0,
+     "why": "She went with the writer to counter 3 and explained how to fill in the form."
+    },
+    {
+     "q": "「{私|わたし}」は{今|いま}、どうしていますか。",
+     "options": [
+      "{毎日|まいにち}{市役所|しやくしょ}へ{行|い}っている。",
+      "{市役所|しやくしょ}で{働|はたら}いている。",
+      "{毎日|まいにち}{三十分|さんじゅっぷん}{日本語|にほんご}を{勉強|べんきょう}している。",
+      "{毎日|まいにち}{一時間|いちじかん}{日本語|にほんご}を{勉強|べんきょう}している。"
+     ],
+     "answer": 3,
+     "why": "The last sentence says the writer studies Japanese for one hour every day."
+    }
+   ]
+  },
+  {
+   "type": "info",
+   "text": "アルバイトをしませんか\n\n①　コンビニ（{駅前|えきまえ}）\n　{時給|じきゅう}：1,100{円|えん}\n　{月曜日|げつようび}～{金曜日|きんようび}　{午後|ごご}{五時|ごじ}～{十時|じゅうじ}\n　{一週間|いっしゅうかん}に{三日|みっか}{以上|いじょう}\n\n②　パン{屋|や}「こむぎ」\n　{時給|じきゅう}：1,050{円|えん}\n　{土曜日|どようび}・{日曜日|にちようび}　{午前|ごぜん}{七時|しちじ}～{十二時|じゅうにじ}\n\n③　レストラン「さくら」\n　{時給|じきゅう}：1,200{円|えん}\n　{毎日|まいにち}　{午後|ごご}{六時|ろくじ}～{十一時|じゅういちじ}\n　{一週間|いっしゅうかん}に{四日|よっか}{以上|いじょう}\n\n④　{本屋|ほんや}「ひかり」\n　{時給|じきゅう}：1,000{円|えん}\n　{土曜日|どようび}・{日曜日|にちようび}　{午後|ごご}{一時|いちじ}～{六時|ろくじ}\n\n※{興味|きょうみ}がある{人|ひと}は、それぞれの{店|みせ}に{電話|でんわ}してください。",
+   "en": "Part-time jobs. (1) Convenience store (in front of the station): 1,100 yen an hour, Monday to Friday 5-10 pm, 3 or more days a week. (2) Bakery 'Komugi': 1,050 yen an hour, Saturday and Sunday 7 am-12 noon. (3) Restaurant 'Sakura': 1,200 yen an hour, every day 6-11 pm, 4 or more days a week. (4) Bookshop 'Hikari': 1,000 yen an hour, Saturday and Sunday 1-6 pm. If you are interested, please call each shop.",
+   "questions": [
+    {
+     "q": "リンさんは{大学生|だいがくせい}です。{授業|じゅぎょう}は{月曜日|げつようび}から{金曜日|きんようび}の{午後|ごご}{四時|よじ}までです。{土曜日|どようび}と{日曜日|にちようび}の{午前|ごぜん}は{日本語|にほんご}の{教室|きょうしつ}に{行|い}きます。{時給|じきゅう}が{一番|いちばん}{高|たか}い{仕事|しごと}がいいです。どれを{選|えら}びますか。",
+     "options": [
+      "①",
+      "②",
+      "③",
+      "④"
+     ],
+     "answer": 2,
+     "why": "Lin can work weekday evenings, and the restaurant pays the most (1,200 yen)."
+    },
+    {
+     "q": "キムさんは{土曜日|どようび}と{日曜日|にちようび}しか{働|はたら}けません。{朝|あさ}は{早|はや}く{起|お}きられないので、{午後|ごご}の{仕事|しごと}がいいです。どれがいいですか。",
+     "options": [
+      "①",
+      "②",
+      "③",
+      "④"
+     ],
+     "answer": 3,
+     "why": "Only the bookshop is a weekend afternoon job; the restaurant needs 4 days a week."
+    }
+   ]
+  }
+ ],
+ "listening": [
+  {
+   "type": "task",
+   "setup": "{店|みせ}で{女|おんな}の{人|ひと}と{店員|てんいん}が{話|はな}しています。{女|おんな}の{人|ひと}はこのあと{何|なに}をしますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "すみません、きのう{買|か}ったこのスカート、{返品|へんぴん}したいんですが。"
+    },
+    {
+     "s": "M",
+     "jp": "はい。レシートはお{持|も}ちですか。"
+    },
+    {
+     "s": "F",
+     "jp": "あ、{家|いえ}に{置|お}いてきてしまいました。"
+    },
+    {
+     "s": "M",
+     "jp": "そうですか。レシートがないと、{返品|へんぴん}はできないんです。でも、{同|おな}じ{値段|ねだん}のものとの{交換|こうかん}なら、できますよ。"
+    },
+    {
+     "s": "F",
+     "jp": "うーん、{交換|こうかん}はいいです。じゃあ、{家|いえ}に{取|と}りに{帰|かえ}ります。{家|いえ}は{近|ちか}いので、すぐ{戻|もど}ります。"
+    },
+    {
+     "s": "M",
+     "jp": "はい、お{待|ま}ちしております。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}はこのあと{何|なに}をしますか。",
+   "options": [
+    "{別|べつ}のスカートと{交換|こうかん}する",
+    "{家|いえ}へレシートを{取|と}りに{帰|かえ}る",
+    "スカートをもう{一枚|いちまい}{買|か}う",
+    "レシートなしで{返品|へんぴん}する"
+   ],
+   "answer": 1,
+   "en": "At a shop, a woman and a clerk are talking. What will the woman do next? F: Excuse me, I'd like to return this skirt I bought yesterday. M: Do you have the receipt? F: Oh, I left it at home. M: I see. Without a receipt we can't accept returns. But we can exchange it for something at the same price. F: Hmm, no exchange, thanks. I'll go home and get it. My house is close, so I'll be right back. M: Certainly, we'll be waiting.",
+   "why": "She says she will go home to get the receipt."
+  },
+  {
+   "type": "task",
+   "setup": "アルバイトの{店|みせ}で、{店長|てんちょう}と{男|おとこ}の{学生|がくせい}が{話|はな}しています。{男|おとこ}の{学生|がくせい}は、まず{何|なに}をしますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{今日|きょう}からよろしくね。じゃあ、まずこの{制服|せいふく}に{着替|きが}えてきて。"
+    },
+    {
+     "s": "M",
+     "jp": "はい。あの、{名前|なまえ}のカードはどうしますか。"
+    },
+    {
+     "s": "F",
+     "jp": "ああ、それは{着替|きが}えたあとで{渡|わた}すね。そのあと、レジの{使|つか}い{方|かた}を{教|おし}えるから。"
+    },
+    {
+     "s": "M",
+     "jp": "わかりました。{掃除|そうじ}はしなくていいですか。"
+    },
+    {
+     "s": "F",
+     "jp": "{掃除|そうじ}は{夕方|ゆうがた}、{店|みせ}が{閉|し}まる{前|まえ}にお{願|ねが}いします。"
+    }
+   ],
+   "question": "{男|おとこ}の{学生|がくせい}は、まず{何|なに}をしますか。",
+   "options": [
+    "レジの{使|つか}い{方|かた}を{習|なら}う",
+    "{店|みせ}を{掃除|そうじ}する",
+    "{名前|なまえ}のカードをもらう",
+    "{制服|せいふく}に{着替|きが}える"
+   ],
+   "answer": 3,
+   "en": "At a part-time workplace, the manager and a male student are talking. What will the student do first? F: Nice to have you from today. First, go and change into this uniform. M: OK. Um, what about my name card? F: I'll give it to you after you change. After that I'll teach you how to use the register. M: Understood. Don't I need to clean? F: Please clean in the evening, before the shop closes.",
+   "why": "The manager tells him to change into the uniform first."
+  },
+  {
+   "type": "task",
+   "setup": "{市役所|しやくしょ}で、{男|おとこ}の{人|ひと}と{係|かかり}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}は{明日|あした}{何|なに}を{持|も}ってきますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "すみません、{引|ひ}っ{越|こ}してきたので、{住所|じゅうしょ}の{手続|てつづ}きをしたいんですが。"
+    },
+    {
+     "s": "F",
+     "jp": "はい。{写真|しゃしん}のついたカードか、パスポートをお{持|も}ちですか。"
+    },
+    {
+     "s": "M",
+     "jp": "パスポートは{持|も}ってきました。{写真|しゃしん}も{要|い}りますか。"
+    },
+    {
+     "s": "F",
+     "jp": "{写真|しゃしん}は{要|い}りません。でも、{前|まえ}に{住|す}んでいた{町|まち}の{市役所|しやくしょ}でもらった{紙|かみ}が{必要|ひつよう}なんです。"
+    },
+    {
+     "s": "M",
+     "jp": "え、それは{家|いえ}にあります。"
+    },
+    {
+     "s": "F",
+     "jp": "では、{今日|きょう}はこちらの{書類|しょるい}を{書|か}いて{出|だ}してください。{明日|あした}、その{紙|かみ}を{持|も}ってきていただければ{大丈夫|だいじょうぶ}です。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}は{明日|あした}{何|なに}を{持|も}ってきますか。",
+   "options": [
+    "{前|まえ}の{町|まち}でもらった{紙|かみ}",
+    "パスポート",
+    "{写真|しゃしん}",
+    "はんこ"
+   ],
+   "answer": 0,
+   "en": "At the city hall, a man and a staff member are talking. What will the man bring tomorrow? M: Excuse me, I've just moved here, so I'd like to do the address procedure. F: Do you have an ID card with a photo, or a passport? M: I brought my passport. Do you need a photo too? F: No photo is needed. But we need the paper you got from the city hall of the town where you lived before. M: Oh, that's at home. F: Then today please fill in and hand in this form. If you bring that paper tomorrow, it will be fine.",
+   "why": "He needs to bring the paper from his old town tomorrow."
+  },
+  {
+   "type": "task",
+   "setup": "デパートで{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{二人|ふたり}は{何|なに}を{買|か}いますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{田中|たなか}さんの{誕生日|たんじょうび}のプレゼント、{何|なに}がいいかな。"
+    },
+    {
+     "s": "F",
+     "jp": "{田中|たなか}さん、よく{料理|りょうり}するから、きれいなお{皿|さら}はどう？"
+    },
+    {
+     "s": "M",
+     "jp": "お{皿|さら}は{先月|せんげつ}、{山田|やまだ}さんがあげてたよ。"
+    },
+    {
+     "s": "F",
+     "jp": "そう。じゃあ、エプロンは？"
+    },
+    {
+     "s": "M",
+     "jp": "いいね。あ、でもこのハンカチも{安|やす}くてかわいいね。"
+    },
+    {
+     "s": "F",
+     "jp": "ハンカチは{去年|きょねん}あげたから、やっぱりエプロンにしようよ。"
+    },
+    {
+     "s": "M",
+     "jp": "そうだね。そうしよう。"
+    }
+   ],
+   "question": "{二人|ふたり}は{何|なに}を{買|か}いますか。",
+   "options": [
+    "お{皿|さら}",
+    "ハンカチ",
+    "エプロン",
+    "コップ"
+   ],
+   "answer": 2,
+   "en": "At a department store, a man and a woman are talking. What will they buy? M: What would be good for Tanaka-san's birthday present? F: Tanaka-san cooks a lot, so how about a nice plate? M: Yamada-san gave plates last month. F: I see. Then how about an apron? M: Good idea. Oh, but this handkerchief is cheap and cute too. F: We gave a handkerchief last year, so let's go with the apron after all. M: Right, let's do that.",
+   "why": "They decide on the apron."
+  },
+  {
+   "type": "task",
+   "setup": "{男|おとこ}の{人|ひと}がアルバイトの{面接|めんせつ}について{電話|でんわ}で{話|はな}しています。{男|おとこ}の{人|ひと}は{面接|めんせつ}の{日|ひ}に{何|なに}を{持|も}っていきますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "では、{面接|めんせつ}は{金曜日|きんようび}の{三時|さんじ}です。{履歴書|りれきしょ}を{持|も}ってきてください。"
+    },
+    {
+     "s": "M",
+     "jp": "はい。{写真|しゃしん}も{要|い}りますか。"
+    },
+    {
+     "s": "F",
+     "jp": "はい。{写真|しゃしん}は{履歴書|りれきしょ}にはってきてください。"
+    },
+    {
+     "s": "M",
+     "jp": "わかりました。ペンも{持|も}っていったほうがいいですか。"
+    },
+    {
+     "s": "F",
+     "jp": "ペンはこちらにありますから、{要|い}りませんよ。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}は{面接|めんせつ}の{日|ひ}に{何|なに}を{持|も}っていきますか。",
+   "options": [
+    "{写真|しゃしん}をはった{履歴書|りれきしょ}",
+    "{写真|しゃしん}と{履歴書|りれきしょ}とペン",
+    "{写真|しゃしん}をはっていない{履歴書|りれきしょ}",
+    "{履歴書|りれきしょ}とペン"
+   ],
+   "answer": 0,
+   "en": "A man is talking on the phone about a part-time job interview. What will he take on the day of the interview? F: The interview is on Friday at 3. Please bring your résumé. M: OK. Do you need a photo too? F: Yes. Please stick the photo on your résumé. M: Understood. Should I bring a pen too? F: We have pens here, so you don't need one.",
+   "why": "He needs a résumé with the photo stuck on it, and no pen."
+  },
+  {
+   "type": "task",
+   "setup": "{市役所|しやくしょ}で{女|おんな}の{人|ひと}が{受付|うけつけ}の{人|ひと}と{話|はな}しています。{女|おんな}の{人|ひと}はまずどこへ{行|い}きますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "すみません、{子|こ}どもの{保育園|ほいくえん}のことで{相談|そうだん}したいんですが。"
+    },
+    {
+     "s": "M",
+     "jp": "{保育園|ほいくえん}でしたら、{三階|さんがい}の{窓口|まどぐち}です。でも、{今|いま}はお{昼休|ひるやす}みで、{一時|いちじ}からなんです。"
+    },
+    {
+     "s": "F",
+     "jp": "そうですか。あと{二十分|にじゅっぷん}ですね。"
+    },
+    {
+     "s": "M",
+     "jp": "{二階|にかい}に{喫茶店|きっさてん}がありますので、そちらでお{待|ま}ちになってはいかがですか。"
+    },
+    {
+     "s": "F",
+     "jp": "じゃあ、そうします。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}はまずどこへ{行|い}きますか。",
+   "options": [
+    "{一階|いっかい}の{受付|うけつけ}",
+    "{三階|さんがい}の{窓口|まどぐち}",
+    "{市役所|しやくしょ}の{外|そと}",
+    "{二階|にかい}の{喫茶店|きっさてん}"
+   ],
+   "answer": 3,
+   "en": "At the city hall, a woman is talking with the receptionist. Where will she go first? F: Excuse me, I'd like to ask about nursery school for my child. M: For nursery school, it's the counter on the third floor. But it's lunch break now, and it opens from 1. F: I see. That's 20 more minutes. M: There is a café on the second floor, so why not wait there? F: Then I'll do that.",
+   "why": "She agrees to wait in the café on the second floor first."
+  },
+  {
+   "type": "task",
+   "setup": "{家|いえ}で{母|はは}と{息子|むすこ}が{話|はな}しています。{息子|むすこ}は{何|なに}を{買|か}ってきますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "ちょっとスーパーに{行|い}ってきてくれる？{牛乳|ぎゅうにゅう}と{卵|たまご}をお{願|ねが}い。"
+    },
+    {
+     "s": "M",
+     "jp": "いいよ。パンは？"
+    },
+    {
+     "s": "F",
+     "jp": "パンはまだあるから{要|い}らない。あ、{卵|たまご}は{昨日|きのう}お{父|とう}さんが{買|か}ってきてたわ。"
+    },
+    {
+     "s": "M",
+     "jp": "じゃあ、{牛乳|ぎゅうにゅう}だけ？"
+    },
+    {
+     "s": "F",
+     "jp": "そうね。あ、それから、りんごも{三|みっ}つお{願|ねが}い。"
+    }
+   ],
+   "question": "{息子|むすこ}は{何|なに}を{買|か}ってきますか。",
+   "options": [
+    "{牛乳|ぎゅうにゅう}と{卵|たまご}",
+    "{牛乳|ぎゅうにゅう}とりんご",
+    "{卵|たまご}とパン",
+    "{牛乳|ぎゅうにゅう}とパンとりんご"
+   ],
+   "answer": 1,
+   "en": "At home, a mother and her son are talking. What will the son buy? F: Could you go to the supermarket for me? Milk and eggs, please. M: Sure. What about bread? F: We still have bread, so we don't need it. Oh, Dad bought eggs yesterday. M: So just milk? F: Yes. Oh, and three apples too, please.",
+   "why": "Eggs and bread are not needed; he buys milk and apples."
+  },
+  {
+   "type": "task",
+   "setup": "アルバイトの{店|みせ}で{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}は{来週|らいしゅう}、{何曜日|なんようび}に{働|はたら}きますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{鈴木|すずき}さん、{来週|らいしゅう}の{火曜日|かようび}、{代|か}わりに{入|はい}ってもらえないかな。"
+    },
+    {
+     "s": "F",
+     "jp": "{火曜日|かようび}は{授業|じゅぎょう}が{遅|おそ}くまであるので、ちょっと…。{水曜日|すいようび}ならいいですよ。"
+    },
+    {
+     "s": "M",
+     "jp": "{水曜日|すいようび}は{人|ひと}が{足|た}りてるんだ。{木曜日|もくようび}は？"
+    },
+    {
+     "s": "F",
+     "jp": "{木曜日|もくようび}は、いつも{入|はい}っていますよ。"
+    },
+    {
+     "s": "M",
+     "jp": "あ、そうだった。じゃあ、{火曜日|かようび}はほかの{人|ひと}に{頼|たの}むよ。それから、{金曜日|きんようび}も{入|はい}れる？"
+    },
+    {
+     "s": "F",
+     "jp": "{金曜日|きんようび}なら{大丈夫|だいじょうぶ}です。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}は{来週|らいしゅう}、{何曜日|なんようび}に{働|はたら}きますか。",
+   "options": [
+    "{火曜日|かようび}と{木曜日|もくようび}",
+    "{水曜日|すいようび}と{木曜日|もくようび}",
+    "{木曜日|もくようび}と{金曜日|きんようび}",
+    "{金曜日|きんようび}だけ"
+   ],
+   "answer": 2,
+   "en": "At a part-time workplace, a man and a woman are talking. Which days will the woman work next week? M: Suzuki-san, could you cover for someone next Tuesday? F: I have classes until late on Tuesday, so... Wednesday is fine, though. M: We have enough people on Wednesday. How about Thursday? F: I always work on Thursdays. M: Oh, that's right. Then I'll ask someone else for Tuesday. Also, can you work on Friday? F: Friday is fine.",
+   "why": "She always works Thursday and agrees to Friday."
+  },
+  {
+   "type": "point",
+   "setup": "{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}はどうしてくつを{返|かえ}しましたか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{先週|せんしゅう}{買|か}ったくつ、{今日|きょう}{返|かえ}してきたの。"
+    },
+    {
+     "s": "M",
+     "jp": "え、サイズが{合|あ}わなかったの？"
+    },
+    {
+     "s": "F",
+     "jp": "ううん、サイズはちょうどよかったんだけど、{色|いろ}が{写真|しゃしん}と{全然|ぜんぜん}{違|ちが}ったの。インターネットで{買|か}ったから。"
+    },
+    {
+     "s": "M",
+     "jp": "そうか。{高|たか}かったんでしょう？"
+    },
+    {
+     "s": "F",
+     "jp": "{値段|ねだん}はそんなに{高|たか}くなかったよ。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}はどうしてくつを{返|かえ}しましたか。",
+   "options": [
+    "サイズが{合|あ}わなかったから",
+    "{色|いろ}が{思|おも}っていたのと{違|ちが}ったから",
+    "{値段|ねだん}が{高|たか}かったから",
+    "くつが{汚|よご}れていたから"
+   ],
+   "answer": 1,
+   "en": "A woman and a man are talking. Why did the woman return the shoes? F: I returned the shoes I bought last week today. M: Oh, didn't they fit? F: No, the size was just right, but the colour was totally different from the photo. I bought them online. M: I see. They were expensive, right? F: The price wasn't that high.",
+   "why": "The colour was different from the photo."
+  },
+  {
+   "type": "point",
+   "setup": "{男|おとこ}の{学生|がくせい}と{女|おんな}の{学生|がくせい}が{話|はな}しています。{男|おとこ}の{学生|がくせい}はどうしてアルバイトをやめますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{聞|き}いたよ。レストランのアルバイト、やめるんだって？"
+    },
+    {
+     "s": "M",
+     "jp": "うん。{店|みせ}の{人|ひと}はみんな{優|やさ}しいし、{給料|きゅうりょう}も{悪|わる}くないんだけど。"
+    },
+    {
+     "s": "F",
+     "jp": "じゃあ、どうして？"
+    },
+    {
+     "s": "M",
+     "jp": "{来月|らいげつ}から{大学|だいがく}の{研究|けんきゅう}が{忙|いそが}しくなるんだ。{夜|よる}{遅|おそ}くまで{大学|だいがく}にいなきゃいけないから。"
+    },
+    {
+     "s": "F",
+     "jp": "そっか、{大変|たいへん}だね。"
+    }
+   ],
+   "question": "{男|おとこ}の{学生|がくせい}はどうしてアルバイトをやめますか。",
+   "options": [
+    "{大学|だいがく}の{研究|けんきゅう}が{忙|いそが}しくなるから",
+    "{給料|きゅうりょう}が{安|やす}いから",
+    "{店|みせ}の{人|ひと}と{合|あ}わないから",
+    "{引|ひ}っ{越|こ}すから"
+   ],
+   "answer": 0,
+   "en": "A male student and a female student are talking. Why is he quitting his part-time job? F: I heard you're quitting your restaurant job? M: Yeah. Everyone at the shop is kind, and the pay isn't bad, but... F: Then why? M: From next month my university research will get busy. I'll have to stay at the university until late at night. F: I see, that's tough.",
+   "why": "His university research will become busy."
+  },
+  {
+   "type": "point",
+   "setup": "{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はいつ{市役所|しやくしょ}に{行|い}きますか。",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "{市役所|しやくしょ}に{書類|しょるい}をもらいに{行|い}きたいんだけど、{平日|へいじつ}は{仕事|しごと}で{行|い}けないんだ。"
+    },
+    {
+     "s": "F",
+     "jp": "{土曜日|どようび}の{午前|ごぜん}は{開|あ}いてるよ。"
+    },
+    {
+     "s": "M",
+     "jp": "え、{本当|ほんとう}？でも{今週|こんしゅう}の{土曜日|どようび}は{友|とも}だちの{結婚式|けっこんしき}なんだ。"
+    },
+    {
+     "s": "F",
+     "jp": "じゃあ、{来週|らいしゅう}の{土曜日|どようび}は？"
+    },
+    {
+     "s": "M",
+     "jp": "うん、{来週|らいしゅう}の{土曜日|どようび}の{午前|ごぜん}に{行|い}くよ。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}はいつ{市役所|しやくしょ}に{行|い}きますか。",
+   "options": [
+    "{今週|こんしゅう}の{土曜日|どようび}の{午前|ごぜん}",
+    "{来週|らいしゅう}の{土曜日|どようび}の{午後|ごご}",
+    "{来週|らいしゅう}の{土曜日|どようび}の{午前|ごぜん}",
+    "{来週|らいしゅう}の{平日|へいじつ}"
+   ],
+   "answer": 2,
+   "en": "A man and a woman are talking. When will the man go to the city hall? M: I want to go to the city hall to get a document, but I can't go on weekdays because of work. F: It's open on Saturday mornings. M: Really? But this Saturday is my friend's wedding. F: Then how about next Saturday? M: Yes, I'll go next Saturday morning.",
+   "why": "He says he will go next Saturday morning."
+  },
+  {
+   "type": "point",
+   "setup": "{電話|でんわ}で{女|おんな}の{人|ひと}と{店|みせ}の{人|ひと}が{話|はな}しています。{女|おんな}の{人|ひと}は、{買|か}った{掃除機|そうじき}の{何|なに}が{問題|もんだい}だと{言|い}っていますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "もしもし、{先週|せんしゅう}そちらで{掃除機|そうじき}を{買|か}った{者|もの}ですが。"
+    },
+    {
+     "s": "M",
+     "jp": "はい、どうなさいましたか。"
+    },
+    {
+     "s": "F",
+     "jp": "スイッチは{入|はい}るし、{音|おと}もするんですが、ごみを{全然|ぜんぜん}{吸|す}わないんです。"
+    },
+    {
+     "s": "M",
+     "jp": "それは{申|もう}し{訳|わけ}ございません。すぐに{新|あたら}しいものをお{送|おく}りします。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}は、{掃除機|そうじき}の{何|なに}が{問題|もんだい}だと{言|い}っていますか。",
+   "options": [
+    "スイッチが{入|はい}らない",
+    "{音|おと}が{大|おお}きすぎる",
+    "まだ{届|とど}いていない",
+    "ごみを{吸|す}わない"
+   ],
+   "answer": 3,
+   "en": "A woman and a shop worker are talking on the phone. What does she say is wrong with the vacuum cleaner she bought? F: Hello, I bought a vacuum cleaner at your shop last week. M: Yes, what's the matter? F: It turns on and makes a sound, but it doesn't pick up any dirt at all. M: We are very sorry. We will send you a new one right away.",
+   "why": "She says it does not pick up dirt at all."
+  },
+  {
+   "type": "point",
+   "setup": "{女|おんな}の{人|ひと}が{新|あたら}しいアルバイトについて{話|はな}しています。{女|おんな}の{人|ひと}は、{何|なに}が{一番|いちばん}うれしいと{言|い}っていますか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{新|あたら}しいアルバイトは{本屋|ほんや}なんです。{時給|じきゅう}は{前|まえ}のコンビニより{少|すこ}し{安|やす}いし、{家|いえ}からも{少|すこ}し{遠|とお}くなりました。でも、{好|す}きな{本|ほん}の{話|はなし}をお{客|きゃく}さんとできるのが、{何|なに}よりうれしいです。"
+    }
+   ],
+   "question": "{女|おんな}の{人|ひと}は、{何|なに}が{一番|いちばん}うれしいと{言|い}っていますか。",
+   "options": [
+    "お{客|きゃく}さんと{本|ほん}の{話|はなし}ができること",
+    "{時給|じきゅう}が{高|たか}いこと",
+    "{家|いえ}から{近|ちか}いこと",
+    "{本|ほん}が{安|やす}く{買|か}えること"
+   ],
+   "answer": 0,
+   "en": "A woman is talking about her new part-time job. What does she say makes her happiest? F: My new part-time job is at a bookshop. The hourly pay is a little lower than at my old convenience store, and it's a bit farther from home. But more than anything, I'm happy that I can talk with customers about books I like.",
+   "why": "Talking with customers about books makes her happiest."
+  },
+  {
+   "type": "point",
+   "setup": "{市役所|しやくしょ}で{男|おとこ}の{人|ひと}と{係|かかり}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}は{何|なん}の{手続|てつづ}きをしに{来|き}ましたか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "こんにちは。{今日|きょう}はどうされましたか。"
+    },
+    {
+     "s": "M",
+     "jp": "{子|こ}どもが{生|う}まれたので、その{手続|てつづ}きに{来|き}ました。"
+    },
+    {
+     "s": "F",
+     "jp": "おめでとうございます。では、この{紙|かみ}に{書|か}いてください。"
+    },
+    {
+     "s": "M",
+     "jp": "あ、それから、ごみの{出|だ}し{方|かた}の{紙|かみ}ももらえますか。{先月|せんげつ}{引|ひ}っ{越|こ}してきたばかりなので。"
+    },
+    {
+     "s": "F",
+     "jp": "はい、どうぞ。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}は{何|なん}の{手続|てつづ}きをしに{来|き}ましたか。",
+   "options": [
+    "{引|ひ}っ{越|こ}しの{手続|てつづ}き",
+    "{子|こ}どもが{生|う}まれた{手続|てつづ}き",
+    "ごみの{手続|てつづ}き",
+    "{結婚|けっこん}の{手続|てつづ}き"
+   ],
+   "answer": 1,
+   "en": "At the city hall, a man and a staff member are talking. What procedure did the man come for? F: Hello. How can I help you today? M: My child was born, so I came to do the paperwork for that. F: Congratulations. Then please fill in this form. M: Oh, and could I also get the paper about how to put out rubbish? I only moved here last month. F: Yes, here you are.",
+   "why": "He came to register his newborn child; the rubbish paper is just extra."
+  },
+  {
+   "type": "point",
+   "setup": "{男|おとこ}の{人|ひと}と{女|おんな}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はどうしてかばんを{買|か}いませんでしたか。",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "あれ、{新|あたら}しいかばん、{買|か}わなかったの？"
+    },
+    {
+     "s": "M",
+     "jp": "うん。デザインはよかったし、{値段|ねだん}もセールで{安|やす}くなってたんだけど。"
+    },
+    {
+     "s": "F",
+     "jp": "{大|おお}きさは？"
+    },
+    {
+     "s": "M",
+     "jp": "{大|おお}きさもちょうどよかった。でも、{持|も}ってみたら{重|おも}くて。{毎日|まいにち}{使|つか}うから、{軽|かる}いのがいいんだ。"
+    }
+   ],
+   "question": "{男|おとこ}の{人|ひと}はどうしてかばんを{買|か}いませんでしたか。",
+   "options": [
+    "デザインがよくなかったから",
+    "{高|たか}かったから",
+    "{小|ちい}さかったから",
+    "{重|おも}かったから"
+   ],
+   "answer": 3,
+   "en": "A man and a woman are talking. Why didn't the man buy the bag? F: Oh, you didn't buy the new bag? M: No. The design was good, and the price was lower because of the sale, but... F: What about the size? M: The size was just right too. But when I held it, it was heavy. I use it every day, so I want a light one.",
+   "why": "The bag was too heavy."
+  },
+  {
+   "type": "utterance",
+   "setup": "{店|みせ}で{買|か}ったセーターを、{別|べつ}の{色|いろ}にしてほしいです。{店員|てんいん}に{何|なん}と{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "この{色|いろ}、{似合|にあ}いますか。",
+    "これ、{別|べつ}の{色|いろ}と{取|と}り{替|か}えてもらえますか。",
+    "{別|べつ}の{色|いろ}を{買|か}ってあげましょうか。"
+   ],
+   "answer": 1,
+   "en": "You want to change a sweater you bought for a different colour. What do you say to the clerk? 1 Does this colour suit me? 2 Could you exchange this for a different colour? 3 Shall I buy you a different colour?",
+   "why": "You are asking the clerk to exchange it."
+  },
+  {
+   "type": "utterance",
+   "setup": "アルバイトに{遅|おく}れそうです。{店長|てんちょう}に{電話|でんわ}で{何|なん}と{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "{遅|おく}れてもかまいませんよ。",
+    "{早|はや}く{来|き}てくださいね。",
+    "すみません、{十分|じゅっぷん}ぐらい{遅|おく}れそうです。"
+   ],
+   "answer": 2,
+   "en": "You are going to be late for your part-time job. What do you say to the manager on the phone? 1 It's fine if you're late. 2 Please come early. 3 I'm sorry, I think I'll be about ten minutes late.",
+   "why": "You apologise and say you will be late."
+  },
+  {
+   "type": "utterance",
+   "setup": "{市役所|しやくしょ}で、{書類|しょるい}の{書|か}き{方|かた}がわかりません。{係|かかり}の{人|ひと}に{何|なん}と{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "すみません、ここの{書|か}き{方|かた}を{教|おし}えていただけませんか。",
+    "ここに{書|か}いておきましょうか。",
+    "{書|か}き{方|かた}を{教|おし}えてあげます。"
+   ],
+   "answer": 0,
+   "en": "At the city hall, you don't know how to fill in a form. What do you say to the staff member? 1 Excuse me, could you tell me how to fill in this part? 2 Shall I write it here for you? 3 I'll teach you how to write it.",
+   "why": "You are politely asking to be taught."
+  },
+  {
+   "type": "utterance",
+   "setup": "{店|みせ}で、{気|き}に{入|い}ったセーターを{着|き}てみたいです。{店員|てんいん}に{何|なん}と{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "これ、{着|き}てもらえませんか。",
+    "{着|き}てみたらどうですか。",
+    "これ、{着|き}てみてもいいですか。"
+   ],
+   "answer": 2,
+   "en": "At a shop, you want to try on a sweater you like. What do you say to the clerk? 1 Could you wear this? 2 Why don't you try it on? 3 May I try this on?",
+   "why": "You are asking permission to try it on."
+  },
+  {
+   "type": "utterance",
+   "setup": "{買|か}い{物|もの}のあと、{友|とも}だちが{重|おも}い{袋|ふくろ}を{二|ふた}つ{持|も}っています。{友|とも}だちに{何|なん}と{言|い}いますか。",
+   "lines": [],
+   "question": "{何|なん}と{言|い}いますか。",
+   "options": [
+    "{一|ひと}つ{持|も}ってくれませんか。",
+    "{一|ひと}つ{持|も}ちましょうか。",
+    "{一|ひと}つ{持|も}ってもいいですよ。"
+   ],
+   "answer": 1,
+   "en": "After shopping, your friend is carrying two heavy bags. What do you say? 1 Could you carry one for me? 2 Shall I carry one? 3 You may carry one.",
+   "why": "You are offering to help carry one."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "このかばん、もう{少|すこ}し{安|やす}くなりませんか。"
+    }
+   ],
+   "question": "",
+   "options": [
+    "すみません、セールの{品物|しなもの}なので、これ{以上|いじょう}は…。",
+    "はい、{少|すこ}し{高|たか}くなりました。",
+    "じゃあ、{安|やす}くしてください。"
+   ],
+   "answer": 0,
+   "en": "M: Can't you make this bag a little cheaper? 1 Sorry, it's a sale item, so we can't go lower... 2 Yes, it got a little more expensive. 3 Then please make it cheaper.",
+   "why": "The clerk answers the customer's request for a lower price."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "{山田|やまだ}くん、{明日|あした}、{一時間|いちじかん}{早|はや}く{来|こ}られる？"
+    }
+   ],
+   "question": "",
+   "options": [
+    "はい、{来|き}てもいいですよ。",
+    "はい、{一時間|いちじかん}{早|はや}く{来|き}ました。",
+    "はい、{大丈夫|だいじょうぶ}です。"
+   ],
+   "answer": 2,
+   "en": "F: Yamada-kun, can you come an hour early tomorrow? 1 Yes, you may come. 2 Yes, I came an hour early. 3 Yes, that's fine.",
+   "why": "He says he can come."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "こちらにお{名前|なまえ}をお{書|か}きください。"
+    }
+   ],
+   "question": "",
+   "options": [
+    "はい、どうぞお{書|か}きください。",
+    "はい、ここですね。",
+    "いいえ、{書|か}いてもらいました。"
+   ],
+   "answer": 1,
+   "en": "M: Please write your name here. 1 Yes, please write it. 2 OK, here, right? 3 No, I had someone write it.",
+   "why": "You check the place before writing."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "いらっしゃいませ。{何|なに}かお{探|さが}しですか。"
+    }
+   ],
+   "question": "",
+   "options": [
+    "はい、どうぞ{探|さが}してください。",
+    "いいえ、{探|さが}しませんでした。",
+    "いえ、{見|み}ているだけです。"
+   ],
+   "answer": 2,
+   "en": "F: Welcome. Are you looking for something? 1 Yes, please look for it. 2 No, I didn't look for it. 3 No, I'm just looking.",
+   "why": "'Just looking' is the natural reply to a shop clerk."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "このシャツ、レシートがなくても{返品|へんぴん}できますか。"
+    }
+   ],
+   "question": "",
+   "options": [
+    "{申|もう}し{訳|わけ}ありません、レシートが{必要|ひつよう}なんです。",
+    "はい、レシートをお{返|かえ}しします。",
+    "いいえ、{返品|へんぴん}しませんでした。"
+   ],
+   "answer": 0,
+   "en": "M: Can I return this shirt without a receipt? 1 I'm sorry, a receipt is necessary. 2 Yes, I'll give you back the receipt. 3 No, I didn't return it.",
+   "why": "The clerk explains that a receipt is needed."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "アルバイト、もう{慣|な}れた？"
+    }
+   ],
+   "question": "",
+   "options": [
+    "うん、{慣|な}れたほうがいいよ。",
+    "うん、だいぶ{慣|な}れてきたよ。",
+    "うん、{慣|な}れさせたよ。"
+   ],
+   "answer": 1,
+   "en": "F: Have you got used to your part-time job yet? 1 Yeah, you'd better get used to it. 2 Yeah, I've got quite used to it. 3 Yeah, I made someone get used to it.",
+   "why": "It answers about yourself getting used to the job."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "M",
+     "jp": "すみません、{窓口|まどぐち}は{何時|なんじ}まで{開|あ}いていますか。"
+    }
+   ],
+   "question": "",
+   "options": [
+    "{九時|くじ}から{開|あ}きます。",
+    "{五時|ごじ}に{開|あ}けました。",
+    "{五時|ごじ}までです。"
+   ],
+   "answer": 2,
+   "en": "M: Excuse me, until what time is the counter open? 1 It opens from nine. 2 I opened it at five. 3 Until five.",
+   "why": "The question asks 'until when', so the answer gives the closing time."
+  },
+  {
+   "type": "response",
+   "setup": "",
+   "lines": [
+    {
+     "s": "F",
+     "jp": "お{会計|かいけい}は{三千円|さんぜんえん}になります。"
+    }
+   ],
+   "question": "",
+   "options": [
+    "いいえ、{三千円|さんぜんえん}になりません。",
+    "はい、{一万円|いちまんえん}でお{願|ねが}いします。",
+    "じゃあ、{三千円|さんぜんえん}あげます。"
+   ],
+   "answer": 1,
+   "en": "F: That will be 3,000 yen. 1 No, it won't become 3,000 yen. 2 OK, here's 10,000 yen. 3 Then I'll give you 3,000 yen.",
+   "why": "You pay with a 10,000 yen note."
+  }
+ ]
+}

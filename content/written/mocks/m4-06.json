@@ -313,7 +313,7 @@
     "{昨日|きのう}{送|おく}ったメールは、もう{届|とど}きましたか。"
    ],
    "answer": 3,
-   "en": "届く = to arrive (a letter, email, package). Correct: Has the email I sent yesterday arrived yet?"
+   "en": "{届|とど}く = to arrive (a letter, email, package). Correct: Has the email I sent yesterday arrived yet?"
   },
   {
    "type": "usage",
@@ -337,7 +337,7 @@
     "あしたは{途中|とちゅう}に{起|お}きてください。"
    ],
    "answer": 2,
-   "en": "途中 = on the way. Correct: I met a friend on the way to the station."
+   "en": "{途中|とちゅう} = on the way. Correct: I met a friend on the way to the station."
   }
  ],
  "grammar": [
@@ -833,7 +833,7 @@
    "lines": [
     {
      "s": "M",
-     "jp": "みなさん、あしたは{町|まち}のお{祭|まつ}りでおどる{踊|おど}りの{練習|れんしゅう}をします。"
+     "jp": "みなさん、あしたは{町|まち}のお{祭|まつ}りの{踊|おど}りの{練習|れんしゅう}をします。"
     },
     {
      "s": "M",
@@ -1293,7 +1293,7 @@
    ],
    "answer": 1,
    "en": "You want to use your friend's phone charger. What do you say? 1. Shall I lend you my charger? 2. Can I borrow your charger? 3. Will you borrow a charger for me?",
-   "why": "借りてもいい？ asks permission to borrow."
+   "why": "{借|か}りてもいい？ asks permission to borrow."
   },
   {
    "type": "utterance",
@@ -1346,7 +1346,7 @@
      "jp": "{結婚式|けっこんしき}の{写真|しゃしん}、{見|み}せてもらえますか。"
     }
    ],
-   "question": "",
+   "question": "{何|なん}と{答|こた}えますか。",
    "options": [
     "ええ、どうぞ。",
     "ええ、{見|み}せてもらいました。",
@@ -1365,7 +1365,7 @@
      "jp": "スマホの{電池|でんち}、もうすぐなくなりそう。"
     }
    ],
-   "question": "",
+   "question": "{何|なん}と{答|こた}えますか。",
    "options": [
     "それはよかったね。",
     "じゃ、{充電器|じゅうでんき}、{貸|か}そうか。",
@@ -1384,7 +1384,7 @@
      "jp": "{夏休|なつやす}みは、どこかへ{行|い}きましたか。"
     }
    ],
-   "question": "",
+   "question": "{何|なん}と{答|こた}えますか。",
    "options": [
     "はい、どこへも{行|い}きませんでした。",
     "いいえ、{海|うみ}へ{行|い}きました。",
@@ -1403,7 +1403,7 @@
      "jp": "お{母|かあ}さんの{具合|ぐあい}はどうですか。"
     }
    ],
-   "question": "",
+   "question": "{何|なん}と{答|こた}えますか。",
    "options": [
     "おかげさまで、だいぶよくなりました。",
     "お{大事|だいじ}にしてください。",
@@ -1422,7 +1422,7 @@
      "jp": "このアプリ、どうやってダウンロードするか、わかる？"
     }
    ],
-   "question": "",
+   "question": "{何|なん}と{答|こた}えますか。",
    "options": [
     "うん、ダウンロードしたことがないよ。",
     "ううん、もう{知|し}ってるよ。",
@@ -1441,7 +1441,7 @@
      "jp": "お{正月|しょうがつ}は、{国|くに}へ{帰|かえ}るんですか。"
     }
    ],
-   "question": "",
+   "question": "{何|なん}と{答|こた}えますか。",
    "options": [
     "いいえ、{帰|かえ}ってきました。",
     "ええ、{久|ひさ}しぶりに{家族|かぞく}に{会|あ}います。",
@@ -1460,7 +1460,7 @@
      "jp": "すみません、ここで{写真|しゃしん}をとってもいいですか。"
     }
    ],
-   "question": "",
+   "question": "{何|なん}と{答|こた}えますか。",
    "options": [
     "はい、とってもらいました。",
     "いいえ、とりませんでした。",
@@ -1479,7 +1479,7 @@
      "jp": "{来週|らいしゅう}の{誕生日|たんじょうび}パーティー、{来|こ}られる？"
     }
    ],
-   "question": "",
+   "question": "{何|なん}と{答|こた}えますか。",
    "options": [
     "うん、{来|き}てくれてありがとう。",
     "ごめん、その{日|ひ}はちょっと{用事|ようじ}があるんだ。",
