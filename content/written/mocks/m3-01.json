@@ -453,7 +453,7 @@
    "type": "form",
    "q": "{田中|たなか}さんは{入社|にゅうしゃ}した＿＿なので、まだ{仕事|しごと}に{慣|な}れていない。",
    "options": [
-    "だけ",
+    "ほど",
     "はず",
     "ばかり",
     "まま"
@@ -504,7 +504,7 @@
     "やっておきます",
     "やってあります",
     "やっていました",
-    "やってみせます"
+    "やってきました"
    ],
    "answer": 0,
    "en": "Section chief: Can you do this document by tomorrow? Staff: Yes, I will get it done today."
@@ -589,7 +589,7 @@
     "ように",
     "ごみを",
     "{考|かんが}えて",
-    "{減|へ}らす"
+    "{少|すく}なくする"
    ],
    "order": [
     2,
@@ -598,8 +598,8 @@
     0
    ],
    "star": 2,
-   "en": "Thinking about the Earth, I try to reduce garbage.",
-   "why": "考えて follows のことを, ごみを is the object of 減らす, and ように comes right before している."
+   "en": "Thinking about the Earth, I try to make less garbage.",
+   "why": "{考|かんが}えて follows のことを, ごみを is the object of {少|すく}なくする, and ように comes right before している."
   },
   {
    "type": "star",
@@ -619,7 +619,7 @@
    ],
    "star": 1,
    "en": "The manager told me to hand in the documents by tomorrow, so I am working late tonight.",
-   "why": "書類を goes with 出す, ～ように言われた is one pattern, and 言われた must come before ので."
+   "why": "{書類|しょるい}を goes with {出|だ}す, ～ように{言|い}われた is one pattern, and {言|い}われた must come before ので."
   },
   {
    "type": "star",
@@ -639,7 +639,7 @@
    ],
    "star": 2,
    "en": "This town's festival is supported by many residents.",
-   "why": "多くの must come before a noun (住民), に marks who does the supporting, and 支えられて joins います."
+   "why": "{多|おお}くの must come before a noun ({住民|じゅうみん}), に marks who does the supporting, and {支|ささ}えられて joins います."
   },
   {
    "type": "star",
@@ -659,7 +659,7 @@
    ],
    "star": 2,
    "en": "Mr. Tanaka is not only fast at work but also accurate, so everyone relies on him.",
-   "why": "仕事が is the subject of 速い, だけでなく follows the i-adjective 速い, and 正確 must come right before なので."
+   "why": "{仕事|しごと}が is the subject of {速|はや}い, だけでなく follows the i-adjective {速|はや}い, and {正確|せいかく} must come right before なので."
   },
   {
    "type": "star",
@@ -679,7 +679,7 @@
    ],
    "star": 2,
    "en": "My job is to tell everyone what was decided at the meeting.",
-   "why": "決まった needs a noun (こと), 全員に and ことを go with 伝える, and のが turns the phrase into the subject."
+   "why": "{決|き}まった needs a noun (こと), {全員|ぜんいん}に and ことを go with {伝|つた}える, and のが turns the phrase into the subject."
   },
   {
    "type": "text",
@@ -1539,7 +1539,7 @@
    ],
    "answer": 0,
    "en": "M: You can go home early today.",
-   "why": "You are the one leaving, so you thank them and say お先に失礼します."
+   "why": "You are the one leaving, so you thank them and say お{先|さき}に{失礼|しつれい}します."
   },
   {
    "type": "response",
@@ -1558,7 +1558,7 @@
    ],
    "answer": 2,
    "en": "F: What time does tomorrow's meeting start again?",
-   "why": "She asks the start time, so only 二時から answers it."
+   "why": "She asks the start time, so only {二時|にじ}から answers it."
   },
   {
    "type": "response",

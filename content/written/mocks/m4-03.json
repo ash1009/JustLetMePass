@@ -370,7 +370,7 @@
    "q": "{父|ちち}は{旅行|りょこう}の{写真|しゃしん}を{見|み}＿＿、{昔|むかし}の{話|はなし}をしました。",
    "options": [
     "ながら",
-    "たら",
+    "たり",
     "ても",
     "のに"
    ],
@@ -384,7 +384,7 @@
     "いる",
     "ある",
     "みよう",
-    "しまう"
+    "みる"
    ],
    "answer": 2,
    "en": "On my next trip, I am thinking of trying going to Hokkaido."
@@ -415,7 +415,7 @@
   },
   {
    "type": "form",
-   "q": "この{駅|えき}には{各駅停車|かくえきていしゃ}＿＿{止|と}まりません。",
+   "q": "この{駅|えき}は{小|ちい}さいので、{各駅停車|かくえきていしゃ}＿＿{止|と}まりません。",
    "options": [
     "だけ",
     "まで",
@@ -423,7 +423,7 @@
     "しか"
    ],
    "answer": 3,
-   "en": "Only local trains stop at this station."
+   "en": "This station is small, so only local trains stop here."
   },
   {
    "type": "form",

@@ -223,7 +223,7 @@
    "type": "context",
    "q": "ゴミは{決|き}められた{曜日|ようび}の{朝|あさ}に、＿＿の{場所|ばしょ}に{出|だ}してください。",
    "options": [
-    "{予定|よてい}",
+    "{予約|よやく}",
     "{指示|しじ}",
     "{指定|してい}",
     "{限定|げんてい}"
@@ -454,7 +454,7 @@
    ],
    "answer": 1,
    "en": "The city library can be used by anyone, not only students.",
-   "why": "～に限らず = 'not only'; the others do not fit before 誰でも."
+   "why": "～に{限|かぎ}らず = 'not only'; the others do not fit before {誰|だれ}でも."
   },
   {
    "type": "form",
@@ -493,7 +493,7 @@
    ],
    "answer": 1,
    "en": "The post office closes at five, so unless we leave quickly we won't make it.",
-   "why": "出ないと間に合わない = 'unless we leave, we will be late'."
+   "why": "{出|で}ないと{間|ま}に{合|あ}わない = 'unless we leave, we will be late'."
   },
   {
    "type": "form",
@@ -519,7 +519,7 @@
    ],
    "answer": 3,
    "en": "The moment the teacher came into the classroom, the students went quiet.",
-   "why": "～と同時に = at the same moment as."
+   "why": "～と{同時|どうじ}に = at the same moment as."
   },
   {
    "type": "form",
@@ -532,7 +532,7 @@
    ],
    "answer": 2,
    "en": "This document cannot be accepted unless the person comes to the counter themselves.",
-   "why": "来ないと～られません = cannot be done unless they come."
+   "why": "{来|こ}ないと～られません = cannot be done unless they come."
   },
   {
    "type": "form",
@@ -597,7 +597,7 @@
    ],
    "answer": 0,
    "en": "Please refrain from phone calls inside the building.",
-   "why": "ご遠慮ください is the set phrase for 'please do not'."
+   "why": "ご{遠慮|えんりょ}ください is the set phrase for 'please do not'."
   },
   {
    "type": "star",
@@ -617,7 +617,7 @@
    ],
    "star": 2,
    "en": "As soon as my younger brother gets home from school, he shuts himself in his room playing games.",
-   "why": "学校から帰ってくるなり部屋にこもる: なり follows the dictionary form, and 部屋に goes with こもって."
+   "why": "{学校|がっこう}から{帰|かえ}ってくるなり{部屋|へや}にこもる: なり follows the dictionary form, and {部屋|へや}に goes with こもって."
   },
   {
    "type": "star",
@@ -637,7 +637,7 @@
    ],
    "star": 1,
    "en": "The city library is handy because on weekdays you can use it until 9 p.m.",
-   "why": "夜九時まで利用できる: まで follows the time, and できる follows 利用."
+   "why": "{夜|よる}{九時|くじ}まで{利用|りよう}できる: まで follows the time, and できる follows {利用|りよう}."
   },
   {
    "type": "star",
@@ -657,7 +657,7 @@
    ],
    "star": 3,
    "en": "The dishes I made just as my mother taught me are all delicious.",
-   "why": "教えてくれた通りに作った料理: 通りに needs a verb before it and 作った describes 料理."
+   "why": "{教|おし}えてくれた{通|とお}りに{作|つく}った{料理|りょうり}: {通|とお}りに needs a verb before it and {作|つく}った describes {料理|りょうり}."
   },
   {
    "type": "star",
@@ -677,12 +677,12 @@
    ],
    "star": 0,
    "en": "My father's hobby is climbing the local mountain, but he seems too busy to go lately.",
-   "why": "近所の山に登ることだ: の links two nouns, and ことだ ends the noun phrase before が."
+   "why": "{近所|きんじょ}の{山|やま}に{登|のぼ}ることだ: の links two nouns, and ことだ ends the noun phrase before が."
   },
   {
    "type": "star",
    "before": "{窓口|まどぐち}で",
-   "after": "、{書類|しょるい}が{一枚|いちまい}{足|た}りないと{言|い}われた。",
+   "after": "ら、{書類|しょるい}が{一枚|いちまい}{足|た}りないと{言|い}われた。",
    "pieces": [
     "{出|だ}そう",
     "と",
@@ -697,7 +697,7 @@
    ],
    "star": 2,
    "en": "When I tried to hand in the application at the counter, I was told one document was missing.",
-   "why": "申込書を出そうとした = was about to hand in; を comes after the noun and と follows the volitional form."
+   "why": "{申込書|もうしこみしょ}を{出|だ}そうとした = was about to hand in; を comes after the noun and と follows the volitional form."
   },
   {
    "type": "text",
@@ -757,7 +757,7 @@
       "{続|つづ}けてもらいたい"
      ],
      "answer": 2,
-     "why": "The writer states their own wish: 続けていきたい."
+     "why": "The writer states their own wish: {続|つづ}けていきたい."
     }
    ]
   }
@@ -1319,7 +1319,7 @@
    ],
    "answer": 3,
    "en": "F: Have you been to the new library by the station? M: Yes, last week. The building is nice and there are many more books. F: There's a café too, right? M: Yes, but it was always too crowded. More than anything, I'm grateful it's open until 10 p.m., so I can drop in after work.",
-   "why": "何よりありがたい marks the late opening hours as the best point."
+   "why": "{何|なに}よりありがたい marks the late opening hours as the best point."
   },
   {
    "type": "point",

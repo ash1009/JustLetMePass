@@ -417,7 +417,7 @@
    ],
    "answer": 3,
    "en": "nigate = not good with, dislike",
-   "why": "Nigate describes something a person is bad at or dislikes, used as 〜が苦手."
+   "why": "Nigate describes something a person is bad at or dislikes, used as 〜が{苦手|にがて}."
   },
   {
    "type": "usage",
@@ -437,10 +437,10 @@
  "grammar": [
   {
    "type": "form",
-   "q": "{明日|あした}は{試験|しけん}だから、{今夜|こんや}はゲームをしている＿＿。",
+   "q": "{明日|あした}は{試験|しけん}だから、{私|わたし}は{今夜|こんや}ゲームをしている＿＿。",
    "options": [
     "わけではない",
-    "はずがない",
+    "ところだ",
     "わけにはいかない",
     "ことはない"
    ],
@@ -459,7 +459,7 @@
    ],
    "answer": 0,
    "en": "Since coming to Japan, I have eaten Japanese food every day.",
-   "why": "〜て以来 = ever since, for a state that continues."
+   "why": "〜て{以来|いらい} = ever since, for a state that continues."
   },
   {
    "type": "form",
@@ -550,7 +550,7 @@
    ],
    "answer": 0,
    "en": "(At a restaurant) Staff: 'Are you ready to order?'",
-   "why": "ご注文はお決まりですか is the set polite phrase."
+   "why": "ご{注文|ちゅうもん}はお{決|き}まりですか is the set polite phrase."
   },
   {
    "type": "form",
@@ -563,7 +563,7 @@
    ],
    "answer": 2,
    "en": "My brother is a good cook; he makes food as good as a restaurant's.",
-   "why": "〜に負けないぐらい = just as good as."
+   "why": "〜に{負|ま}けないぐらい = just as good as."
   },
   {
    "type": "form",
@@ -622,7 +622,7 @@
    ],
    "star": 2,
    "en": "This shop is popular because it is not only cheap but also tasty.",
-   "why": "値段が安い makes one phrase, then だけでなく links it to 味もいいので."
+   "why": "{値段|ねだん}が{安|やす}い makes one phrase, then だけでなく links it to {味|あじ}もいいので."
   },
   {
    "type": "star",
@@ -642,7 +642,7 @@
    ],
    "star": 2,
    "en": "The cookbook (book on how to cook) I borrowed from my teacher was very useful.",
-   "why": "先生に貸してもらった describes 本, and 料理の作り方の sits right before 本."
+   "why": "{先生|せんせい}に{貸|か}してもらった describes {本|ほん}, and {料理|りょうり}の{作|つく}り{方|かた}の sits right before {本|ほん}."
   },
   {
    "type": "star",
@@ -662,7 +662,7 @@
    ],
    "star": 1,
    "en": "In Japanese schools, it is the rule that students clean their own classrooms.",
-   "why": "自分たちの教室を掃除する is the action, and ことに決まっています follows it."
+   "why": "{自分|じぶん}たちの{教室|きょうしつ}を{掃除|そうじ}する is the action, and ことに{決|き}まっています follows it."
   },
   {
    "type": "star",
@@ -682,7 +682,7 @@
    ],
    "star": 3,
    "en": "My brother studies until late every night to pass the exam.",
-   "why": "試験に合格するために is the purpose; 毎晩 goes with 遅くまで勉強している."
+   "why": "{試験|しけん}に{合格|ごうかく}するために is the purpose; {毎晩|まいばん} goes with {遅|おそ}くまで{勉強|べんきょう}している."
   },
   {
    "type": "star",
@@ -702,7 +702,7 @@
    ],
    "star": 0,
    "en": "At the supermarket, when I tried to pay for what I had bought, I noticed I didn't have my wallet.",
-   "why": "買った物のお金 is one noun phrase; 払おうとしたとき = when I tried to pay."
+   "why": "{買|か}った{物|もの}のお{金|かね} is one noun phrase; {払|はら}おうとしたとき = when I tried to pay."
   },
   {
    "type": "text",
@@ -1563,7 +1563,7 @@
    ],
    "answer": 0,
    "en": "N: You wrote an essay. You want the teacher to check it. What do you say to the teacher?",
-   "why": "見ていただけませんか politely asks the teacher to look at it."
+   "why": "{見|み}ていただけませんか politely asks the teacher to look at it."
   },
   {
    "type": "utterance",
@@ -1615,7 +1615,7 @@
    ],
    "answer": 0,
    "en": "N: You have finished dinner at a friend's house. What do you say to your friend's mother?",
-   "why": "ごちそうさまでした is said after eating; お粗末さまでした is what the cook says."
+   "why": "ごちそうさまでした is said after eating; お{粗末|そまつ}さまでした is what the cook says."
   },
   {
    "type": "response",
