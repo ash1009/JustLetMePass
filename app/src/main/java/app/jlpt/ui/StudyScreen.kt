@@ -102,7 +102,7 @@ fun StudyScreen(extraNew: Int, onClose: () -> Unit, onExplainInChat: (String) ->
 
     LaunchedEffect(round) {
         loading = true
-        val list = if (weak) a.study.buildWeakRound(seenWeak) else a.study.buildRound(if (round == 0) extraNew else 5)
+        val list = if (weak) a.study.buildWeakRound(seenWeak) else if (round == 0) a.study.buildRound(extraNew) else a.study.buildRound(more = true)
         if (weak) seenWeak += list.map { it.id }
         steps.clear(); steps.addAll(list)
         index = 0
@@ -143,11 +143,11 @@ fun StudyScreen(extraNew: Int, onClose: () -> Unit, onExplainInChat: (String) ->
                             asked++
                             if (correct) right++
                             val wasNew = a.study.stage(step.id) == 0 && countedNew.add(step.id)
-                            scope.launch { a.study.answer(step.id, correct, wasNew, way) }
+                            scope.launch { a.study.answer(step.id, correct, wasNew, way, step.practice) }
                             // Ask again a few cards later, once.
                             if (!correct && retried.add(step.id)) {
                                 val at = minOf(steps.size, index + 4)
-                                steps.add(at, Step.Ask(step.id))
+                                steps.add(at, Step.Ask(step.id, practice = true))
                             }
                         },
                         onNext = next,

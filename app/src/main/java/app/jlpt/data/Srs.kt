@@ -23,7 +23,7 @@ enum class Kind(val label: String) {
  * Stage 0 is not started yet, 5 and up counts as known, 9 is mastered.
  */
 object Srs {
-    private val hours = intArrayOf(0, 4, 20, 44, 92, 188, 356, 716, 1436, 2876)
+    private val hours = intArrayOf(0, 1, 8, 24, 48, 96, 192, 360, 720, 1440)
     const val KNOWN = 5
     const val MAX = 9
 

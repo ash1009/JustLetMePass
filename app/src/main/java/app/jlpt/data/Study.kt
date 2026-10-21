@@ -12,7 +12,8 @@ import kotlin.math.ceil
 sealed interface Step {
     val id: String
     data class Meet(override val id: String) : Step
-    data class Ask(override val id: String) : Step
+    /** [practice]: an extra go (a repeat, or before it is due). Right does not move it up; wrong still counts. */
+    data class Ask(override val id: String, val practice: Boolean = false) : Step
 }
 
 data class Plan(
@@ -233,17 +234,27 @@ class Study(private val content: Content, private val dao: StudyDao, private val
      * A round sized to fit [minutes]: the reviews that are due, then new items (towards today's
      * target) until the time is full. A review takes about 12 seconds, a new item about 40.
      */
-    suspend fun buildRound(extraNew: Int = 0, minutes: Int = prefs.roundMinutes.value): List<Step> {
+    /**
+     * A round that fills [minutes]. Due reviews first (12 s each), then new things (about a minute
+     * each, as each one is asked three times). If few reviews are due, the ones coming up soonest
+     * fill in, so every round has plenty of reviews. [more] true ("Keep going"): as many new
+     * things as fit, past the plan's number for today.
+     */
+    suspend fun buildRound(extraNew: Int = 0, minutes: Int = prefs.roundMinutes.value, more: Boolean = false): List<Step> {
         load()
         val budget = minutes * 60
-        val allDue = dueIds()
-        val due = allDue.take((budget / 12).coerceAtLeast(10))
+        val due = dueIds().take((budget / 12).coerceAtLeast(10))
+        // At least 40% of the round is reviews: top up with ones that are due soon.
+        val minReviews = budget * 2 / 5 / 12
+        val early = if (due.size < minReviews) {
+            val now = System.currentTimeMillis()
+            _states.value.values.filter { it.stage > 0 && it.due > now && !skipReview(it.id) }
+                .sortedBy { it.due }.take(minReviews - due.size).map { it.id }
+        } else emptyList()
         val plan = plan()
         val left = (plan.newPerDay - newToday()).coerceAtLeast(0)
-        val room = ((budget - due.size * 12) / 40).coerceAtLeast(0)
-        var newCount = minOf(room, left) + extraNew
-        // With a big pile of reviews, catch up before adding more.
-        if (allDue.size > 150) newCount = minOf(newCount, 5 + extraNew)
+        val room = ((budget - (due.size + early.size) * 12) / 60).coerceAtLeast(0)
+        val newCount = if (more) maxOf(room, 5) else minOf(room, left) + extraNew
         val focus = when (weakSection()?.first) {
             "Vocabulary" -> Kind.WORD
             "Grammar" -> Kind.GRAMMAR
@@ -252,21 +263,29 @@ class Study(private val content: Content, private val dao: StudyDao, private val
         val fresh = pickNew(newCount, focus)
 
         val steps = ArrayList<Step>()
-        val reviews = ArrayDeque(due.shuffled())
+        val reviews = ArrayDeque(due.shuffled().map { Step.Ask(it) } + early.shuffled().map { Step.Ask(it, practice = true) })
         val pendingAsks = ArrayDeque<String>()
         // Start with a few reviews to warm up.
-        repeat(minOf(3, reviews.size)) { steps += Step.Ask(reviews.removeFirst()) }
+        repeat(minOf(3, reviews.size)) { steps += reviews.removeFirst() }
         for (id in fresh) {
             steps += Step.Meet(id)
             if (pendingAsks.isNotEmpty()) steps += Step.Ask(pendingAsks.removeFirst())
             pendingAsks += id
-            if (reviews.isNotEmpty()) steps += Step.Ask(reviews.removeFirst())
+            if (reviews.isNotEmpty()) steps += reviews.removeFirst()
         }
         while (pendingAsks.isNotEmpty()) {
             steps += Step.Ask(pendingAsks.removeFirst())
-            if (reviews.isNotEmpty()) steps += Step.Ask(reviews.removeFirst())
+            if (reviews.isNotEmpty()) steps += reviews.removeFirst()
         }
-        while (reviews.isNotEmpty()) steps += Step.Ask(reviews.removeFirst())
+        while (reviews.isNotEmpty()) steps += reviews.removeFirst()
+        // Each new thing comes back twice more in the round: a few cards later, and near the end.
+        for (id in fresh) {
+            val first = steps.indexOfFirst { it is Step.Ask && it.id == id }
+            if (first < 0) continue
+            steps.add(minOf(steps.size, first + 6), Step.Ask(id, practice = true))
+        }
+        val tail = fresh.shuffled().map { Step.Ask(it, practice = true) }
+        tail.forEachIndexed { i, st -> steps.add(maxOf(0, steps.size - i * 2), st) }
         return steps
     }
 
@@ -285,10 +304,12 @@ class Study(private val content: Content, private val dao: StudyDao, private val
         return neededWays(id).filter { got and (1 shl it) == 0 }.toSet()
     }
 
-    suspend fun answer(id: String, correct: Boolean, wasNew: Boolean, way: Int = -1) = lock.withLock {
+    suspend fun answer(id: String, correct: Boolean, wasNew: Boolean, way: Int = -1, practice: Boolean = false) = lock.withLock {
         val now = System.currentTimeMillis()
         val old = _states.value[id] ?: ItemState(id, Kind.of(id).name)
-        var updated = Srs.answer(old, correct, now, prefs.spacing.value)
+        // An extra go answered right keeps its place in the schedule; a wrong one counts fully.
+        var updated = if (practice && correct && old.stage > 0) old.copy(right = old.right + 1, lastSeen = now)
+            else Srs.answer(old, correct, now, prefs.spacing.value)
         if (correct && way >= 0) updated = updated.copy(ways = updated.ways or (1 shl way))
         // Not known until it has been answered right every way: hold it just below known.
         val missing = neededWays(id).any { updated.ways and (1 shl it) == 0 }
