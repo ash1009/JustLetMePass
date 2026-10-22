@@ -127,7 +127,14 @@ class Study(private val content: Content, private val dao: StudyDao, private val
         if (n <= 0) return emptyList()
         val queues = HashMap<Kind, ArrayDeque<String>>()
         fun queue(kind: Kind): ArrayDeque<String> = queues.getOrPut(kind) {
-            ArrayDeque(ids(kind).filter { stage(it) == 0 })
+            val fresh = ids(kind).filter { stage(it) == 0 }
+            if (kind != Kind.KANJI) ArrayDeque(fresh) else {
+                // Kanji used in words you have already started come first, so they catch up.
+                val inMyWords = _states.value.values.asSequence().filter { it.stage > 0 && Kind.of(it.id) == Kind.WORD }
+                    .mapNotNull { content.wordById[it.id]?.word }.flatMap { it.asSequence() }
+                    .filter { Furigana.isKanji(it) }.map { "c:$it" }.toSet()
+                ArrayDeque(fresh.filter { it in inMyWords } + fresh.filter { it !in inMyWords })
+            }
         }
         val hira = !prefs.hiraganaKnown.value && queue(Kind.HIRA).isNotEmpty()
         val kata = queue(Kind.KATA).isNotEmpty()
@@ -150,8 +157,9 @@ class Study(private val content: Content, private val dao: StudyDao, private val
             if (w != null) {
                 for (c in w.word.filter { Furigana.isKanji(it) }.toSet()) {
                     val kid = "c:$c"
-                    val k = content.kanjiByChar[c.toString()] ?: continue
-                    if (stage(kid) == 0 && kid !in out && k.level >= w.level && out.size < n - 1) {
+                    if (content.kanjiByChar[c.toString()] == null) continue
+                    // Always teach a word's new kanji just before the word.
+                    if (stage(kid) == 0 && kid !in out) {
                         queue(Kind.KANJI).remove(kid)
                         out += kid
                     }
@@ -193,7 +201,8 @@ class Study(private val content: Content, private val dao: StudyDao, private val
             }
             misses = 0
         }
-        return out.distinct().take(n)
+        // A word's kanji can push the count a little over, so the word itself is never cut off.
+        return out.distinct().take(n + 4)
     }
 
     /**
