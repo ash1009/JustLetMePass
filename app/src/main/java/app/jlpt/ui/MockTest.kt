@@ -278,7 +278,12 @@ fun MockTestScreen(level: Int, onBack: () -> Unit, covered: Boolean = false) {
                 val q = test[i]
                 val idx = session?.second ?: test.indices.toList()
                 val pos = idx.indexOf(i)
-                Column(Modifier.weight(1f).verticalScroll(remember(i) { androidx.compose.foundation.ScrollState(0) }).padding(horizontal = 16.dp)) {
+                // Swipe between questions in a part, like turning pages (not in listening, like the real test).
+                val canSwipe = q.listening == null
+                Column(Modifier.weight(1f).swipeNav(
+                    onPrev = if (canSwipe && pos > 0) ({ a.speech.stop(); i = idx[pos - 1] }) else null,
+                    onNext = if (canSwipe && pos < idx.lastIndex) ({ a.speech.stop(); i = idx[pos + 1] }) else null,
+                ).verticalScroll(remember(i) { androidx.compose.foundation.ScrollState(0) }).padding(horizontal = 16.dp)) {
                     Row(verticalAlignment = Alignment.CenterVertically) {
                         Label(q.part.ifBlank { q.section }, Modifier.weight(1f))
                         Text("${pos + 1} / ${idx.size}", style = MaterialTheme.typography.labelLarge, color = LocalExtra.current.muted)

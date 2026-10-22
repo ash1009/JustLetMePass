@@ -53,19 +53,19 @@ sealed interface Screen {
     data class Words(val level: Int) : Screen
     data class KanjiList(val level: Int) : Screen
     data class GrammarList(val level: Int) : Screen
-    data class Item(val id: String) : Screen
+    data class Item(val id: String, val list: List<String> = emptyList()) : Screen
     data class Readings(val level: Int) : Screen
-    data class ReadingOne(val id: String) : Screen
+    data class ReadingOne(val id: String, val list: List<String> = emptyList()) : Screen
     data class Listenings(val level: Int) : Screen
-    data class ListeningOne(val id: String) : Screen
+    data class ListeningOne(val id: String, val list: List<String> = emptyList()) : Screen
     data object PhraseSets : Screen
-    data class PhraseSetOne(val id: String) : Screen
+    data class PhraseSetOne(val id: String, val list: List<String> = emptyList()) : Screen
     data object FuriganaPractice : Screen
     data class MockTest(val level: Int, val weekly: Boolean = false) : Screen
     data object Plan : Screen
     data object AiReading : Screen
     data class Stories(val level: Int) : Screen
-    data class StoryOne(val id: String) : Screen
+    data class StoryOne(val id: String, val list: List<String> = emptyList()) : Screen
 }
 
 private val tabs = listOf(Screen.Today, Screen.Learn, Screen.Practice, Screen.Chat)
@@ -208,7 +208,10 @@ private fun Main(start: String?) {
     }
 
     Column(Modifier.fillMaxSize()) {
-        Box(Modifier.weight(1f).statusBarsPadding()) {
+        Box(Modifier.weight(1f).statusBarsPadding().swipeNav(
+            onPrev = if (tab > 0) ({ tab-- }) else null,
+            onNext = if (tab < tabs.lastIndex) ({ tab++ }) else null,
+        )) {
             when (tab) {
                 0 -> TodayScreen(nav)
                 1 -> LearnScreen(nav)
@@ -238,6 +241,7 @@ private fun Main(start: String?) {
 
 @Composable
 private fun Page(s: Screen, nav: (Screen) -> Unit, back: () -> Unit, explainInChat: (String) -> Unit, replace: (Screen) -> Unit) {
+    val a = app()
     when (s) {
         is Screen.Study -> StudyScreen(s.extra, onClose = back, onExplainInChat = explainInChat, weak = s.weak)
         Screen.Speed -> SpeedScreen(back)
@@ -251,19 +255,33 @@ private fun Page(s: Screen, nav: (Screen) -> Unit, back: () -> Unit, explainInCh
         is Screen.Words -> WordsScreen(s.level, nav, back)
         is Screen.KanjiList -> KanjiListScreen(s.level, nav, back)
         is Screen.GrammarList -> GrammarListScreen(s.level, nav, back)
-        is Screen.Item -> ItemScreen(s.id, back)
+        is Screen.Item -> SwipePages(s.list, s.id, { replace(s.copy(id = it)) }) { id ->
+            ItemScreen(id, back, pos = s.list.indexOf(id).takeIf { it >= 0 }?.let { "${it + 1} / ${s.list.size}" })
+        }
         is Screen.Readings -> ReadingsScreen(s.level, nav, back)
-        is Screen.ReadingOne -> ReadingScreen(s.id, back, explainInChat) { replace(Screen.ReadingOne(it)) }
+        is Screen.ReadingOne -> {
+            val ids = s.list.ifEmpty { a.content.readings.let { all -> val l = all.firstOrNull { it.id == s.id }?.level; all.filter { it.level == l }.map { it.id } } }
+            SwipePages(ids, s.id, { replace(s.copy(id = it, list = ids)) }) { id -> ReadingScreen(id, back, explainInChat) { replace(s.copy(id = it, list = ids)) } }
+        }
         is Screen.Listenings -> ListeningsScreen(s.level, nav, back)
-        is Screen.ListeningOne -> ListeningScreen(s.id, back, explainInChat) { replace(Screen.ListeningOne(it)) }
+        is Screen.ListeningOne -> {
+            val ids = s.list.ifEmpty { a.content.listenings.let { all -> val l = all.firstOrNull { it.id == s.id }?.level; all.filter { it.level == l }.map { it.id } } }
+            SwipePages(ids, s.id, { replace(s.copy(id = it, list = ids)) }) { id -> ListeningScreen(id, back, explainInChat) { replace(s.copy(id = it, list = ids)) } }
+        }
         Screen.PhraseSets -> PhraseSetsScreen(nav, back)
-        is Screen.PhraseSetOne -> PhraseSetScreen(s.id, nav, back)
+        is Screen.PhraseSetOne -> {
+            val ids = s.list.ifEmpty { a.content.phraseSets.map { it.id } }
+            SwipePages(ids, s.id, { replace(s.copy(id = it, list = ids)) }) { id -> PhraseSetScreen(id, nav, back) }
+        }
         Screen.FuriganaPractice -> FuriganaPracticeScreen(back)
         is Screen.MockTest -> MockTestScreen(s.level, back, covered = s.weekly)
         Screen.Plan -> PlanScreen(nav, back)
         Screen.AiReading -> AiReadingScreen(back, explainInChat)
         is Screen.Stories -> StoriesScreen(s.level, nav, back)
-        is Screen.StoryOne -> StoryScreen(s.id, back, { replace(Screen.StoryOne(it)) }, explainInChat)
+        is Screen.StoryOne -> {
+            val ids = s.list.ifEmpty { a.content.stories.let { all -> val l = all.firstOrNull { it.id == s.id }?.level; all.filter { it.level == l }.map { it.id } } }
+            SwipePages(ids, s.id, { replace(s.copy(id = it, list = ids)) }) { id -> StoryScreen(id, back, { replace(s.copy(id = it, list = ids)) }, explainInChat) }
+        }
         else -> {}
     }
 }

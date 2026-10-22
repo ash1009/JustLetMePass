@@ -172,7 +172,7 @@ fun WordsScreen(startLevel: Int, nav: (Screen) -> Unit, onBack: () -> Unit) {
         LazyColumn(contentPadding = PaddingValues(16.dp), verticalArrangement = Arrangement.spacedBy(2.dp)) {
             items(list, key = { it.id }) { w ->
                 Row(
-                    Modifier.fillMaxWidth().clip(RoundedCornerShape(12.dp)).clickable { nav(Screen.Item(w.id)) }
+                    Modifier.fillMaxWidth().clip(RoundedCornerShape(12.dp)).clickable { nav(Screen.Item(w.id, list.map { it.id })) }
                         .padding(vertical = 8.dp, horizontal = 6.dp),
                     verticalAlignment = Alignment.CenterVertically,
                 ) {
@@ -204,7 +204,7 @@ fun KanjiListScreen(startLevel: Int, nav: (Screen) -> Unit, onBack: () -> Unit) 
                 val st = states[k.id]?.stage ?: 0
                 Column(
                     Modifier.clip(RoundedCornerShape(12.dp)).background(LocalExtra.current.card)
-                        .clickable { nav(Screen.Item(k.id)) }.padding(vertical = 6.dp),
+                        .clickable { nav(Screen.Item(k.id, list.map { it.id })) }.padding(vertical = 6.dp),
                     horizontalAlignment = Alignment.CenterHorizontally,
                 ) {
                     Text(k.char, fontSize = 30.sp, fontFamily = JpBig)
@@ -230,7 +230,7 @@ fun GrammarListScreen(startLevel: Int, nav: (Screen) -> Unit, onBack: () -> Unit
         LevelTabs(level) { level = it }
         LazyColumn(contentPadding = PaddingValues(16.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
             items(list, key = { it.id }) { g ->
-                Panel(onClick = { nav(Screen.Item(g.id)) }, padding = PaddingValues(14.dp)) {
+                Panel(onClick = { nav(Screen.Item(g.id, list.map { it.id })) }, padding = PaddingValues(14.dp)) {
                     Row(verticalAlignment = Alignment.CenterVertically) {
                         StageDot(states[g.id]?.stage ?: 0)
                         HGap(12.dp)
@@ -263,7 +263,7 @@ fun KanaListScreen(katakana: Boolean, nav: (Screen) -> Unit, onBack: () -> Unit)
                     val st = states[k.id]?.stage ?: 0
                     Column(
                         Modifier.aspectRatio(0.9f).clip(RoundedCornerShape(12.dp)).background(LocalExtra.current.card)
-                            .clickable { nav(Screen.Item(k.id)) },
+                            .clickable { nav(Screen.Item(k.id, groups.values.flatten().map { it.id })) },
                         horizontalAlignment = Alignment.CenterHorizontally,
                         verticalArrangement = Arrangement.Center,
                     ) {
@@ -288,7 +288,7 @@ fun KataWordsScreen(nav: (Screen) -> Unit, onBack: () -> Unit) {
         LazyColumn(contentPadding = PaddingValues(16.dp)) {
             items(a.content.kataWords, key = { it.id }) { w ->
                 Row(
-                    Modifier.fillMaxWidth().clip(RoundedCornerShape(12.dp)).clickable { nav(Screen.Item("kw:${w.id}")) }
+                    Modifier.fillMaxWidth().clip(RoundedCornerShape(12.dp)).clickable { nav(Screen.Item("kw:${w.id}", a.content.kataWords.map { "kw:${it.id}" })) }
                         .padding(vertical = 10.dp, horizontal = 6.dp),
                     verticalAlignment = Alignment.CenterVertically,
                 ) {
@@ -311,7 +311,7 @@ fun PhraseSetsScreen(nav: (Screen) -> Unit, onBack: () -> Unit) {
         LazyColumn(contentPadding = PaddingValues(16.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
             items(a.content.phraseSets, key = { it.id }) { s ->
                 val c = remember(states) { a.study.count(s.phrases.map { it.id }) }
-                Panel(onClick = { nav(Screen.PhraseSetOne(s.id)) }, padding = PaddingValues(14.dp)) {
+                Panel(onClick = { nav(Screen.PhraseSetOne(s.id, a.content.phraseSets.map { it.id })) }, padding = PaddingValues(14.dp)) {
                     Row(verticalAlignment = Alignment.CenterVertically) {
                         Text(s.emoji, fontSize = 26.sp)
                         HGap(12.dp)
@@ -360,13 +360,15 @@ fun PhraseSetScreen(id: String, nav: (Screen) -> Unit, onBack: () -> Unit) {
 }
 
 @Composable
-fun ItemScreen(id: String, onBack: () -> Unit) {
+fun ItemScreen(id: String, onBack: () -> Unit, pos: String? = null) {
     val a = app()
     val scope = rememberCoroutineScope()
     val states by a.study.states.collectAsState()
     val st = states[id]
     Column(Modifier.fillMaxSize()) {
-        BackBar(Kind.of(id).label, onBack)
+        BackBar(Kind.of(id).label, onBack, actions = {
+            if (pos != null) Text("$pos · swipe", Modifier.padding(end = 16.dp), style = MaterialTheme.typography.labelLarge, color = LocalExtra.current.muted)
+        })
         Column(Modifier.fillMaxSize().verticalScroll(rememberScrollState()).padding(horizontal = 20.dp)) {
             ItemCard(id)
             Gap(24.dp)

@@ -153,7 +153,7 @@ fun ReadingsScreen(startLevel: Int, nav: (Screen) -> Unit, onBack: () -> Unit) {
         Box(Modifier.padding(horizontal = 16.dp)) { ChoiceRow((5 downTo 1).map { it to lvl(it) }, level) { level = it } }
         LazyColumn(contentPadding = PaddingValues(16.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
             items(list, key = { it.id }) { r ->
-                ExerciseRow(r.title, "${r.kind} · ${plural(r.questions.size, "question")}", byId[r.id]) { nav(Screen.ReadingOne(r.id)) }
+                ExerciseRow(r.title, "${r.kind} · ${plural(r.questions.size, "question")}", byId[r.id]) { nav(Screen.ReadingOne(r.id, list.map { it.id })) }
             }
         }
     }
@@ -308,7 +308,7 @@ fun ListeningsScreen(startLevel: Int, nav: (Screen) -> Unit, onBack: () -> Unit)
         Box(Modifier.padding(horizontal = 16.dp)) { ChoiceRow((5 downTo 1).map { it to lvl(it) }, level) { level = it } }
         LazyColumn(contentPadding = PaddingValues(16.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
             items(list, key = { it.id }) { l ->
-                ExerciseRow(l.title, kindLabel(l.kind), byId[l.id]) { nav(Screen.ListeningOne(l.id)) }
+                ExerciseRow(l.title, kindLabel(l.kind), byId[l.id]) { nav(Screen.ListeningOne(l.id, list.map { it.id })) }
             }
         }
     }

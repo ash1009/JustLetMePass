@@ -82,7 +82,7 @@ fun StoriesScreen(startLevel: Int, nav: (Screen) -> Unit, onBack: () -> Unit) {
         }
         LazyColumn(contentPadding = PaddingValues(16.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
             items(list, key = { it.id }) { s ->
-                Panel(onClick = { nav(Screen.StoryOne(s.id)) }, padding = PaddingValues(14.dp)) {
+                Panel(onClick = { nav(Screen.StoryOne(s.id, list.map { it.id })) }, padding = PaddingValues(14.dp)) {
                     Row(verticalAlignment = Alignment.CenterVertically) {
                         Column(Modifier.weight(1f)) {
                             Ruby(s.title, size = 18.sp)

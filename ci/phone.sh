@@ -50,6 +50,18 @@ shot 12_story_paused 2
 tap "Play"
 shot 13_story_resumed 3
 
+# Swipes: tabs, then from one reading to the next.
+start
+shot 14_today 3
+adb shell input swipe 900 1300 150 1300 200
+shot 15_swiped_to_learn 2
+start --es route reading
+shot 16_reading 3
+python3 ci/ui.py texts > "$OUT/16_texts.txt" 2>&1 || true
+adb shell input swipe 900 1300 150 1300 200
+shot 17_next_reading 2
+python3 ci/ui.py texts > "$OUT/17_texts.txt" 2>&1 || true
+
 # Mock test: a full paper, each timed part, a listening question played once.
 start --es route test
 shot 20_mock_start 4
