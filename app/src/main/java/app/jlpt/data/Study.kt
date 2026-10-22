@@ -302,6 +302,21 @@ class Study(private val content: Content, private val dao: StudyDao, private val
         else -> emptySet()
     }
 
+    /** Names of the ways a question can ask about [id], for showing what is still needed. */
+    fun wayName(id: String, way: Int): String = when (Kind.of(id)) {
+        Kind.WORD -> listOf("meaning", "English to Japanese", "reading").getOrElse(way) { "" }
+        Kind.KANJI -> listOf("meaning", "reading", "English to kanji").getOrElse(way) { "" }
+        Kind.HIRA, Kind.KATA -> listOf("reading it", "picking it from the sound").getOrElse(way) { "" }
+        else -> listOf("meaning", "English to Japanese").getOrElse(way) { "" }
+    }
+
+    /** What [id] still needs to count as known: right reviews (when due) and ways not answered yet. */
+    fun toKnown(id: String): Pair<Int, List<String>> {
+        val st = _states.value[id] ?: return Srs.KNOWN to emptyList()
+        if (st.stage >= Srs.KNOWN) return 0 to emptyList()
+        return (Srs.KNOWN - st.stage) to missingWays(id).sorted().map { wayName(id, it) }.filter { it.isNotBlank() }
+    }
+
     fun missingWays(id: String): Set<Int> {
         val got = _states.value[id]?.ways ?: 0
         return neededWays(id).filter { got and (1 shl it) == 0 }.toSet()

@@ -377,6 +377,26 @@ fun ItemScreen(id: String, onBack: () -> Unit) {
                         Text(Srs.stageName(st?.stage ?: 0), style = MaterialTheme.typography.titleMedium)
                         if (st != null && st.stage > 0) {
                             Text("Right ${st.right} · Wrong ${st.wrong}", style = MaterialTheme.typography.bodySmall, color = LocalExtra.current.muted)
+                            val (more, ways) = a.study.toKnown(id)
+                            if (more > 0) {
+                                Gap(6.dp)
+                                Text(
+                                    "To be known: $more more right ${if (more == 1) "review" else "reviews"} when due" +
+                                        if (ways.isNotEmpty()) ", and right at least once on: ${ways.joinToString(", ")}" else "",
+                                    style = MaterialTheme.typography.bodyMedium,
+                                )
+                            }
+                            val wait = st.due - System.currentTimeMillis()
+                            Text(
+                                when {
+                                    wait <= 0 -> "Next review: due now"
+                                    wait < 3_600_000L -> "Next review: in ${wait / 60_000 + 1} min"
+                                    wait < 48 * 3_600_000L -> "Next review: in ${wait / 3_600_000L + 1} h"
+                                    else -> "Next review: in ${wait / 86_400_000L + 1} days"
+                                },
+                                style = MaterialTheme.typography.bodySmall, color = LocalExtra.current.muted,
+                            )
+                            Text("Extra goes in a round add to Right but don't move it up.", style = MaterialTheme.typography.bodySmall, color = LocalExtra.current.muted)
                         }
                     }
                     if ((st?.stage ?: 0) == 0) {
