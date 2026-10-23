@@ -1,5 +1,9 @@
 package app.jlpt.ui
 
+import androidx.compose.foundation.background
+import androidx.compose.foundation.clickable
+import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.ui.draw.clip
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
@@ -139,8 +143,9 @@ private fun KanjiCard(id: String, modifier: Modifier) {
         Gap()
         Text(k.meanings.joinToString(", "), style = MaterialTheme.typography.titleLarge)
         Gap(8.dp)
-        if (k.on.isNotEmpty()) ReadingLine("On", k.on.joinToString("、"))
-        if (k.kun.isNotEmpty()) ReadingLine("Kun", k.kun.joinToString("、"))
+        if (k.on.isNotEmpty()) ReadingLine("On", k.on)
+        if (k.kun.isNotEmpty()) ReadingLine("Kun", k.kun)
+        Text("Tap a reading to hear it", style = MaterialTheme.typography.bodySmall, color = LocalExtra.current.muted)
         if (examples.isNotEmpty()) {
             Gap()
             Panel(color = MaterialTheme.colorScheme.surfaceContainer) {
@@ -151,6 +156,7 @@ private fun KanjiCard(id: String, modifier: Modifier) {
                         Ruby(w.markup, size = 20.sp)
                         HGap()
                         Text(w.meaning, style = MaterialTheme.typography.bodyMedium, modifier = Modifier.weight(1f), maxLines = 2)
+                        SpeakButton(w.reading, size = 36.dp)
                     }
                 }
             }
@@ -158,12 +164,28 @@ private fun KanjiCard(id: String, modifier: Modifier) {
     }
 }
 
+/** The readings, each one a chip you tap to hear. */
+@OptIn(androidx.compose.foundation.layout.ExperimentalLayoutApi::class)
 @Composable
-private fun ReadingLine(label: String, text: String) {
-    Row(verticalAlignment = Alignment.CenterVertically, modifier = Modifier.padding(vertical = 2.dp)) {
+private fun ReadingLine(label: String, readings: List<String>) {
+    val a = app()
+    Row(verticalAlignment = Alignment.CenterVertically, modifier = Modifier.padding(vertical = 3.dp)) {
         Text(label, style = SmallCaps, color = LocalExtra.current.muted)
         HGap(8.dp)
-        Text(text, fontSize = 18.sp)
+        androidx.compose.foundation.layout.FlowRow(
+            horizontalArrangement = androidx.compose.foundation.layout.Arrangement.spacedBy(6.dp),
+            verticalArrangement = androidx.compose.foundation.layout.Arrangement.spacedBy(6.dp),
+        ) {
+            for (r in readings) {
+                // Dictionary marks like あ.う or -ぶ are not said out loud.
+                val said = r.substringBefore('(').replace(".", "").replace("-", "").replace("‐", "")
+                Text(
+                    r, fontSize = 18.sp,
+                    modifier = Modifier.clip(RoundedCornerShape(50)).background(MaterialTheme.colorScheme.secondaryContainer)
+                        .clickable { a.speech.say(said) }.padding(horizontal = 12.dp, vertical = 4.dp),
+                )
+            }
+        }
     }
 }
 

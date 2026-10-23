@@ -123,17 +123,40 @@ class Study(private val content: Content, private val dao: StudyDao, private val
     suspend fun newToday(): Int = dao.day(today())?.newItems ?: 0
 
     /** The next items to meet, mixed across words, kanji, grammar, katakana and daily phrases. */
+    /**
+     * The hardest kanji level open for new kanji (5 = N5). N5 is always open. The next level opens
+     * once every kanji at the level before is started, or half of that level's words are.
+     * Words at a level open together with its kanji.
+     */
+    fun openLevel(): Int {
+        var open = 5
+        while (open > 1) {
+            val kanji = content.kanji.filter { it.level == open }
+            val words = content.words.filter { it.level == open }
+            val allKanji = kanji.all { stage(it.id) > 0 }
+            val halfWords = words.isNotEmpty() && words.count { stage(it.id) > 0 } * 2 >= words.size
+            if (allKanji || halfWords) open-- else break
+        }
+        return open
+    }
+
     fun pickNew(n: Int, focus: Kind? = null): List<String> {
         if (n <= 0) return emptyList()
+        val open = openLevel()
         val queues = HashMap<Kind, ArrayDeque<String>>()
         fun queue(kind: Kind): ArrayDeque<String> = queues.getOrPut(kind) {
             val fresh = ids(kind).filter { stage(it) == 0 }
-            if (kind != Kind.KANJI) ArrayDeque(fresh) else {
-                // Kanji used in words you have already started come first, so they catch up.
-                val inMyWords = _states.value.values.asSequence().filter { it.stage > 0 && Kind.of(it.id) == Kind.WORD }
-                    .mapNotNull { content.wordById[it.id]?.word }.flatMap { it.asSequence() }
-                    .filter { Furigana.isKanji(it) }.map { "c:$it" }.toSet()
-                ArrayDeque(fresh.filter { it in inMyWords } + fresh.filter { it !in inMyWords })
+            when (kind) {
+                Kind.WORD -> ArrayDeque(fresh.filter { level(it) >= open })
+                Kind.KANJI -> {
+                    val ready = fresh.filter { level(it) >= open }
+                    // Kanji used in words you have already started come first, so they catch up.
+                    val inMyWords = _states.value.values.asSequence().filter { it.stage > 0 && Kind.of(it.id) == Kind.WORD }
+                        .mapNotNull { content.wordById[it.id]?.word }.flatMap { it.asSequence() }
+                        .filter { Furigana.isKanji(it) }.map { "c:$it" }.toSet()
+                    ArrayDeque(ready.filter { it in inMyWords } + ready.filter { it !in inMyWords })
+                }
+                else -> ArrayDeque(fresh)
             }
         }
         val hira = !prefs.hiraganaKnown.value && queue(Kind.HIRA).isNotEmpty()
@@ -157,9 +180,9 @@ class Study(private val content: Content, private val dao: StudyDao, private val
             if (w != null) {
                 for (c in w.word.filter { Furigana.isKanji(it) }.toSet()) {
                     val kid = "c:$c"
-                    if (content.kanjiByChar[c.toString()] == null) continue
-                    // Always teach a word's new kanji just before the word.
-                    if (stage(kid) == 0 && kid !in out) {
+                    val k = content.kanjiByChar[c.toString()] ?: continue
+                    // A word's new kanji comes just before it, if it is the word's level or easier.
+                    if (stage(kid) == 0 && kid !in out && k.level >= w.level && k.level >= open) {
                         queue(Kind.KANJI).remove(kid)
                         out += kid
                     }
