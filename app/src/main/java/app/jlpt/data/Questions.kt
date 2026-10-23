@@ -247,7 +247,7 @@ class QuestionMaker(private val content: Content) {
         val (opts, ans) = shuffle(right, q.options.filterIndexed { i, _ -> i != q.answer })
         return Question(id, "Fill the gap", q.q, false, options = opts, optionsEnglish = false,
             answer = ans, revealJp = q.q.replace("＿＿", right), revealEn = q.en,
-            revealNote = "${g.title}: ${g.meaning}", audio = Furigana.plain(q.q.replace("＿＿", right)))
+            revealNote = q.why.ifBlank { "${g.title}: ${g.meaning}" }, audio = Furigana.plain(q.q.replace("＿＿", right)))
     }
 
     private fun phrase(id: String, stage: Int, audioOk: Boolean): Question? {
