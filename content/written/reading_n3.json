@@ -23,13 +23,13 @@
     "q": "{明日|あした}の{会議|かいぎ}について、{正|ただ}しいものはどれですか。",
     "q_en": "Which is correct about tomorrow's meeting?",
     "options": [
-     "{二時|にじ}に{始|はじ}まる",
+     "{時間|じかん}は{変|か}わらない",
      "{場所|ばしょ}が{変|か}わった",
-     "{四時|よじ}に{始|はじ}まる",
+     "{三階|さんがい}の{会議室|かいぎしつ}で{行|おこな}われる",
      "{部長|ぶちょう}は{来|こ}ない"
     ],
     "answer": 2,
-    "why": "The meeting was moved from 2 p.m. to 4 p.m., but the room is the same."
+    "why": "The time was changed, but the place is the same: the third-floor meeting room."
    }
   ]
  },

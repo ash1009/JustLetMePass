@@ -255,12 +255,12 @@
   "id": "sb2-013",
   "level": 2,
   "before": "この{店|みせ}は",
-  "after": "{客|きゃく}でいっぱいだ。",
+  "after": "{客|きゃく}が{訪|おとず}れる。",
   "pieces": [
    "に{限|かぎ}らず",
    "{週末|しゅうまつ}",
-   "{平日|へいじつ}",
-   "も"
+   "{毎日|まいにち}",
+   "{多|おお}くの"
   ],
   "order": [
    1,
@@ -269,8 +269,8 @@
    3
   ],
   "star": 2,
-  "en": "This shop is full of customers not only on weekends but on weekdays too.",
-  "why": "に{限|かぎ}らず follows the first noun, and も marks the second one."
+  "en": "Many customers visit this shop every day, not only on weekends.",
+  "why": "Nに{限|かぎ}らず comes first, then {毎日|まいにち} and {多|おお}くの before {客|きゃく}."
  },
  {
   "id": "sb2-014",
@@ -402,22 +402,22 @@
   "id": "sb2-020",
   "level": 2,
   "before": "{実際|じっさい}に",
-  "after": "{分|わ}からない。",
+  "after": "どんな{人|ひと}か{分|わ}からない。",
   "pieces": [
-   "{話|はな}さない",
+   "みない",
    "ことには",
-   "どんな{人|ひと}か",
+   "{話|はな}して",
    "{会|あ}って"
   ],
   "order": [
    3,
+   2,
    0,
-   1,
-   2
+   1
   ],
   "star": 2,
-  "en": "You can't tell what kind of person someone is without actually meeting and talking to them.",
-  "why": "ないことには follows the negative verb, and the question どんな{人|ひと}か goes before {分|わ}からない."
+  "en": "You can't know what kind of person someone is without actually meeting and talking to them.",
+  "why": "{会|あ}って{話|はな}して + みないことには: you can't know unless you try."
  },
  {
   "id": "sb2-021",
