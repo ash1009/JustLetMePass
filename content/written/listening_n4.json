@@ -184,7 +184,7 @@
   "level": 4,
   "title_raw": "Getting ready for the trip",
   "kind": "task",
-  "setup": "{家|いえ}で{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はこのあと{何|なに}をしますか。",
+  "setup": "{家|いえ}で{女|おんな}の{人|ひと}と{男|おとこ}の{人|ひと}が{話|はな}しています。{男|おとこ}の{人|ひと}はこのあとすぐ{何|なに}をしますか。",
   "lines": [
    {
     "s": "F",
@@ -219,8 +219,8 @@
     "jp": "わかった、すぐ{探|さが}すよ。"
    }
   ],
-  "question": "{男|おとこ}の{人|ひと}はこのあと{何|なに}をしますか。",
-  "q_en": "What will the man do next?",
+  "question": "{男|おとこ}の{人|ひと}はこのあとすぐ{何|なに}をしますか。",
+  "q_en": "What will the man do right after this?",
   "options": [
    "{服|ふく}をかばんに{入|い}れる",
    "{切符|きっぷ}を{探|さが}す",
@@ -824,7 +824,7 @@
   "options": [
    "{持|も}ちましょうか。",
    "{持|も}ってくださいませんか。",
-   "{持|も}ってもいいですか。"
+   "{持|も}たなくてもいいですか。"
   ],
   "answer": 0,
   "en": "N: You are at the office. The department manager is carrying a box that looks heavy. You want to help. What do you say?",

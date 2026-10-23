@@ -890,17 +890,17 @@
    "して",
    "ばかり",
    "いて",
-   "ゲーム"
+   "ゲームを"
   ],
   "order": [
    3,
-   1,
    0,
+   1,
    2
   ],
   "star": 2,
   "en": "My brother does nothing but play games every day and doesn't study.",
-  "why": "ばかり follows the noun ゲーム, then して, then いて."
+  "why": "With ゲームを, ばかり attaches to the て-form: ゲームをしてばかりいて (\"do nothing but\")."
  },
  {
   "id": "sb4-124",
@@ -908,7 +908,7 @@
   "before": "{日本|にほん}に",
   "after": "{友|とも}だちがいません。",
   "pieces": [
-   "まだ",
+   "{日本|にほん}の",
    "{来|き}た",
    "なので",
    "ばかり"
@@ -920,8 +920,8 @@
    0
   ],
   "star": 3,
-  "en": "I've only just come to Japan, so I don't have friends yet.",
-  "why": "{来|き}たばかり is followed by なので, and まだ goes before the final clause."
+  "en": "I've only just come to Japan, so I don't have any Japanese friends.",
+  "why": "{来|き}たばかり is followed by なので, and {日本|にほん}の goes before {友|とも}だち."
  },
  {
   "id": "sb4-125",
@@ -1430,23 +1430,23 @@
  {
   "id": "sb4-149",
   "level": 4,
-  "before": "この{問題|もんだい}は",
+  "before": "この{問題|もんだい}は{私|わたし}には",
   "after": "。",
   "pieces": [
    "{難|むずか}し",
    "わかりません",
    "すぎて",
-   "{私|わたし}には"
+   "{全然|ぜんぜん}"
   ],
   "order": [
-   3,
    0,
    2,
+   3,
    1
   ],
   "star": 2,
-  "en": "This problem is too hard for me, so I can't understand it.",
-  "why": "すぎて joins to the stem {難|むずか}し, and わかりません is the result."
+  "en": "This problem is too hard for me, so I can't understand it at all.",
+  "why": "すぎて joins to the stem {難|むずか}し, and {全然|ぜんぜん} goes right before the negative わかりません."
  },
  {
   "id": "sb4-150",
