@@ -1,5 +1,7 @@
 package app.jlpt.ui
 
+import app.jlpt.data.progressReport
+
 import android.app.DatePickerDialog
 import android.app.TimePickerDialog
 import android.content.Intent
@@ -20,6 +22,7 @@ import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.rounded.ExpandLess
 import androidx.compose.material.icons.rounded.ExpandMore
 import androidx.compose.material3.AlertDialog
+import androidx.compose.material3.Button
 import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
@@ -133,6 +136,8 @@ fun SettingsScreen(onBack: () -> Unit) {
             Label("Your plan")
             Gap(12.dp)
             PlanSettings()
+            Gap(20.dp)
+            ProgressShare()
             Gap(28.dp)
             HorizontalDivider(color = LocalExtra.current.line)
             Gap(20.dp)
@@ -296,4 +301,42 @@ private fun LastCrash() {
         }
     }
     Gap(16.dp)
+}
+
+/** Copy or share a summary of your progress, for example to send to Claude. */
+@Composable
+private fun ProgressShare() {
+    val a = app()
+    val ctx = LocalContext.current
+    val scope = rememberCoroutineScope()
+    val clipboard = androidx.compose.ui.platform.LocalClipboardManager.current
+    var note by remember { mutableStateOf<String?>(null) }
+    Panel(color = MaterialTheme.colorScheme.surfaceContainer) {
+        Label("My progress")
+        Gap(4.dp)
+        Text(
+            "A summary of your stages, what's close to known, reviews coming and recent days. Send it to Claude to ask how you're doing.",
+            style = MaterialTheme.typography.bodySmall, color = LocalExtra.current.muted,
+        )
+        Gap(10.dp)
+        androidx.compose.foundation.layout.Row(horizontalArrangement = androidx.compose.foundation.layout.Arrangement.spacedBy(10.dp)) {
+            OutlinedButton(onClick = {
+                scope.launch {
+                    clipboard.setText(androidx.compose.ui.text.AnnotatedString(a.study.progressReport(a.db.dao(), a.prefs, a.content)))
+                    note = "Copied"
+                }
+            }, Modifier.weight(1f)) { Text("Copy") }
+            Button(onClick = {
+                scope.launch {
+                    val text = a.study.progressReport(a.db.dao(), a.prefs, a.content)
+                    val send = android.content.Intent(android.content.Intent.ACTION_SEND).apply {
+                        type = "text/plain"
+                        putExtra(android.content.Intent.EXTRA_TEXT, text)
+                    }
+                    ctx.startActivity(android.content.Intent.createChooser(send, "Share progress"))
+                }
+            }, Modifier.weight(1f)) { Text("Share") }
+        }
+        note?.let { Text(it, style = MaterialTheme.typography.bodySmall, color = LocalExtra.current.good) }
+    }
 }
