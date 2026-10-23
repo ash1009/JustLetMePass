@@ -62,6 +62,17 @@ adb shell input swipe 900 1300 150 1300 200
 shot 17_next_reading 2
 python3 ci/ui.py texts > "$OUT/17_texts.txt" 2>&1 || true
 
+# Back keeps the scroll place: scroll the word list, open a word, go back.
+start --es route words
+shot 18a_words_top 3
+for _ in 1 2 3; do adb shell input swipe 540 1800 540 500 300; sleep 1; done
+python3 ci/ui.py texts > "$OUT/18b_before.txt" 2>&1 || true
+adb shell input tap 540 1200
+shot 18c_word_open 2
+adb shell input keyevent KEYCODE_BACK
+shot 18d_after_back 2
+python3 ci/ui.py texts > "$OUT/18e_after_back.txt" 2>&1 || true
+
 # Mock test: a full paper, each timed part, a listening question played once.
 start --es route test
 shot 20_mock_start 4

@@ -199,10 +199,15 @@ private fun Main(start: String?) {
         if (stack.isNotEmpty()) back() else tab = 0
     }
 
+    // Each page keeps its scroll place (and other saved state) while pages open on top of it,
+    // so Back returns to the same spot.
+    val saved = androidx.compose.runtime.saveable.rememberSaveableStateHolder()
     val top = stack.lastOrNull()
     if (top != null) {
         Box(Modifier.fillMaxSize().statusBarsPadding().navigationBarsPadding()) {
-            Page(top, nav, back, explainInChat) { s -> stack[stack.lastIndex] = s }
+            saved.SaveableStateProvider("page${stack.lastIndex}:${top.hashCode()}") {
+                Page(top, nav, back, explainInChat) { s -> stack[stack.lastIndex] = s }
+            }
         }
         return
     }
@@ -212,12 +217,12 @@ private fun Main(start: String?) {
             onPrev = if (tab > 0) ({ tab-- }) else null,
             onNext = if (tab < tabs.lastIndex) ({ tab++ }) else null,
         )) {
-            when (tab) {
+            saved.SaveableStateProvider("tab$tab") { when (tab) {
                 0 -> TodayScreen(nav)
                 1 -> LearnScreen(nav)
                 2 -> PracticeScreen(nav)
                 else -> ChatScreen(seed = chatSeed, onSeedUsed = { chatSeed = null })
-            }
+            } }
         }
         NavigationBar(containerColor = MaterialTheme.colorScheme.surfaceContainer) {
             val items = listOf<Triple<String, ImageVector, Int>>(
