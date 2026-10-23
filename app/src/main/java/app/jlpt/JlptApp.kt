@@ -47,6 +47,7 @@ class JlptApp : Application() {
         Reminder.schedule(this, prefs)
         scope.launch(Dispatchers.IO) {
             content.warmUp()
+            study.forgiveBrokenQuestions()
             study.load()
         }
     }

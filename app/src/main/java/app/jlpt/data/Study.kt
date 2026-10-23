@@ -349,6 +349,27 @@ class Study(private val content: Content, private val dao: StudyDao, private val
         return (Srs.KNOWN - st.stage) to missingWays(id).sorted().map { wayName(id, it) }.filter { it.isNotBlank() }
     }
 
+    /**
+     * Items marked wrong by a question that had two right answers (since fixed). Each one gets
+     * back the 2 stages and the wrong mark, once.
+     */
+    private val brokenQuestionItems = listOf("g5-051")
+
+    suspend fun forgiveBrokenQuestions() {
+        val done = prefs.forgiven.value.split(',').filter { it.isNotBlank() }.toSet()
+        val now = System.currentTimeMillis()
+        for (id in brokenQuestionItems - done) {
+            val st = dao.state(id)
+            if (st != null && st.wrong > 0) {
+                val stage = (st.stage + 2).coerceAtMost(Srs.MAX)
+                val fixed = st.copy(stage = stage, wrong = st.wrong - 1, due = now + Srs.interval(stage, prefs.spacing.value))
+                dao.putState(fixed)
+                lock.withLock { if (loaded) _states.value = _states.value + (id to fixed) }
+            }
+        }
+        prefs.forgiven.value = (done + brokenQuestionItems).joinToString(",")
+    }
+
     fun missingWays(id: String): Set<Int> {
         val got = _states.value[id]?.ways ?: 0
         return neededWays(id).filter { got and (1 shl it) == 0 }.toSet()

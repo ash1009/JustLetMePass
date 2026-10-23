@@ -62,6 +62,8 @@ class Prefs(context: Context) {
     val roundMinutes = IntPref("round_minutes", 15)
     /** Mock papers already taken, so each test is a fresh one. */
     val papersDone = StrPref("papers_done", "")
+    /** Items already given back a wrong mark from a broken question. */
+    val forgiven = StrPref("forgiven", "")
     /** Audio playlist: what to play and how long to pause between parts. */
     val listenKind = StrPref("listen_kind", "words")
     val listenGap = IntPref("listen_gap", 1500)
