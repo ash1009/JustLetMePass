@@ -1,0 +1,802 @@
+[
+ {
+  "id": "v3-1680",
+  "hook": "日 is the sun: from one sunrise to the next is one day, like 毎日 (every day)."
+ },
+ {
+  "id": "v3-1685",
+  "hook": "Sun (日) + origin (本): land where the sun rises; にっぽん is the strong, sporty way to say it."
+ },
+ {
+  "id": "v3-1686",
+  "hook": "Sun (日) + origin (本): the land of the rising sun, Japan."
+ },
+ {
+  "id": "v3-1354",
+  "hook": "大 looks like a person with arms stretched wide: big! As in 大学 (big school, university)."
+ },
+ {
+  "id": "v3-0364",
+  "hook": "From 行く (to go): 行き is the going, like 東京行き (bound for Tokyo)."
+ },
+ {
+  "id": "v3-0365",
+  "hook": "From 行く (to go), older reading ゆく: 東京行き on train signs means bound for Tokyo."
+ },
+ {
+  "id": "v3-1132",
+  "hook": "Shining star (曜) + day (日): weekdays are named after sky bodies, like 月曜日 (moon day)."
+ },
+ {
+  "id": "v3-1472",
+  "hook": "A line through the middle of a box: inside, middle, like 中国 (middle country, China)."
+ },
+ {
+  "id": "v3-1155",
+  "hook": "来 means come: 来週 is the week that is coming, next week."
+ },
+ {
+  "id": "v3-0254",
+  "hook": "生 is a plant sprouting from the ground: life, birth, as in 先生 and 学生."
+ },
+ {
+  "id": "v3-1663",
+  "hook": "生 means life: food still \"alive\", not cooked, is raw, like 生ビール (draft beer)."
+ },
+ {
+  "id": "v3-1535",
+  "hook": "From 出る (to go out): 出口 is the way out."
+ },
+ {
+  "id": "v3-1961",
+  "hook": "Sun (日) shining through a gap in a gate (門): a space or pause between things."
+ },
+ {
+  "id": "v3-0953",
+  "hook": "Now (今) + day (日): this day; こんにち is the formal reading, heard in こんにちは."
+ },
+ {
+  "id": "v3-1856",
+  "hook": "A knife (刀) cutting something apart: a part; 五分五分 means fifty-fifty."
+ },
+ {
+  "id": "v3-1907",
+  "hook": "A knife (刀) splitting (八) something: a part or share, as in 自分 (oneself)."
+ },
+ {
+  "id": "v3-0129",
+  "hook": "上 means up or above: じょう is the higher, better one, like 上級 (advanced level)."
+ },
+ {
+  "id": "v3-0435",
+  "hook": "上 means up or above: うわ is the outer, top layer, like 上着 (jacket over clothes)."
+ },
+ {
+  "id": "v3-0641",
+  "hook": "上 means up: かみ is the upper end, like 川上 (upstream)."
+ },
+ {
+  "id": "v3-0582",
+  "hook": "A child (子) under a roof, learning: 学 is study, as in 大学 and 学生."
+ },
+ {
+  "id": "v3-0871",
+  "hook": "後 means after or behind: 午後 is after noon, the afternoon."
+ },
+ {
+  "id": "v3-1723",
+  "hook": "後 means after: のち is a formal \"later\", as in weather news 晴れ後雨 (sunny, later rain)."
+ },
+ {
+  "id": "v3-0663",
+  "hook": "From 考える (to think): 考え is a thought or idea in your head."
+ },
+ {
+  "id": "v3-0126",
+  "hook": "小 shows something split into tiny bits: small, as in 小学校 (elementary school)."
+ },
+ {
+  "id": "v3-1120",
+  "hook": "夜 is night: よ appears in 夜中 (middle of the night) and 夜明け (dawn)."
+ },
+ {
+  "id": "v3-1351",
+  "hook": "田 looks like a rice field seen from above, cut into four plots."
+ },
+ {
+  "id": "v3-1292",
+  "hook": "From 作る (to make): 作 is a thing made, a work or harvest, as in 作品 (artwork)."
+ },
+ {
+  "id": "v3-1673",
+  "hook": "What (何) + で (by): \"by what reason?\", so: why?"
+ },
+ {
+  "id": "v3-0635",
+  "hook": "金 is gold or metal: お金 is money, the metal coins in your pocket."
+ },
+ {
+  "id": "v3-0765",
+  "hook": "金 is gold: 金メダル is a gold medal, and 金曜日 is Friday (metal day)."
+ },
+ {
+  "id": "v3-1231",
+  "hook": "From 教える (to teach): 教え is what is taught, a teaching."
+ },
+ {
+  "id": "v3-0087",
+  "hook": "週 means week; sound hook: a shoe (しゅう) walking through the week, 今週 (this week)."
+ },
+ {
+  "id": "v3-1080",
+  "hook": "者 means person: もの here is \"someone\", as in 若者 (young person)."
+ },
+ {
+  "id": "v3-0518",
+  "hook": "Rice field (田) + power (力) = man (男): the strong person working the field."
+ },
+ {
+  "id": "v3-1147",
+  "hook": "From 読む (to read): 読み is a reading, like a kanji's reading."
+ },
+ {
+  "id": "v3-1422",
+  "hook": "度 means times: たび is each time, as in この度 (this time)."
+ },
+ {
+  "id": "v3-1957",
+  "hook": "True (本) + hit (当): it hits the truth; ほんと is the casual short form of ほんとう."
+ },
+ {
+  "id": "v3-1925",
+  "hook": "方 means direction or side: こっちの方 is this side, this way."
+ },
+ {
+  "id": "v3-1200",
+  "hook": "From 笑う (to laugh): 笑 has bamboo (竹) on top, like eyes crinkled up laughing."
+ },
+ {
+  "id": "v3-1624",
+  "hook": "友 is two hands together: a friend, as in 友だち."
+ },
+ {
+  "id": "v3-1660",
+  "hook": "What (何) + か (question marker): \"some what\", something."
+ },
+ {
+  "id": "v3-1230",
+  "hook": "From 遅れる (to be late): 遅れ is a delay; 遅 has the road radical (⻌), slow on the road."
+ },
+ {
+  "id": "v3-0083",
+  "hook": "下 means below: しも is the lower end, like 川下 (downstream)."
+ },
+ {
+  "id": "v3-0821",
+  "hook": "下 means down: げ is in 下車 (getting off a train) and 下水 (sewage)."
+ },
+ {
+  "id": "v3-1641",
+  "hook": "Evening (夕) + mouth (口): in the dark you call out your name, as in 名前."
+ },
+ {
+  "id": "v3-1734",
+  "hook": "場 has earth (土) on the left: a piece of ground, a place, like 場所."
+ },
+ {
+  "id": "v3-1300",
+  "hook": "全 means all: 全部 is all the parts, everything."
+ },
+ {
+  "id": "v3-1213",
+  "hook": "Sound (音) over heart (心): the voice of your heart, your will or meaning, as in 意味."
+ },
+ {
+  "id": "v3-1504",
+  "hook": "From 疲れる (to get tired): 疲 has the sickness radical (疒), tired like being ill."
+ },
+ {
+  "id": "v3-1707",
+  "hook": "野 means field: 野原 (のはら) is an open grassy field."
+ },
+ {
+  "id": "v3-1908",
+  "hook": "文 means writing: 文 is a sentence, and 作文 is writing an essay."
+ },
+ {
+  "id": "v3-2015",
+  "hook": "Person (亻) + master (主): where a person is master, their home; 住所 is your address."
+ },
+ {
+  "id": "v3-0530",
+  "hook": "Think (思い) + come out (出): thoughts that come out from the past, memories."
+ },
+ {
+  "id": "v3-1611",
+  "hook": "Drawing (図) + writing (書): books; 図書館 is the library."
+ },
+ {
+  "id": "v3-1353",
+  "hook": "対 means opposite or versus: 日本対ブラジル is Japan versus Brazil."
+ },
+ {
+  "id": "v3-2067",
+  "hook": "対 means facing each other: つい is a matching pair, like two cups made as a set."
+ },
+ {
+  "id": "v3-1355",
+  "hook": "題 means title or topic: 問題 is a question, 宿題 is homework."
+ },
+ {
+  "id": "v3-1469",
+  "hook": "Grass (艹) on top, a person and tree under: leaves from a plant, tea."
+ },
+ {
+  "id": "v3-1697",
+  "hook": "From 願う (to wish): 願い is a wish; お願いします means please."
+ },
+ {
+  "id": "v3-0649",
+  "hook": "空 means sky or empty: an empty box is like empty sky, nothing inside."
+ },
+ {
+  "id": "v3-0822",
+  "hook": "Words (言) + ten (十): counting by tens, a total; 時計 counts time, a clock."
+ },
+ {
+  "id": "v3-1157",
+  "hook": "楽 means fun and ease: らく is comfort, an easy relaxed feeling."
+ },
+ {
+  "id": "v3-1457",
+  "hook": "From 違う (to differ): 違い is a difference."
+ },
+ {
+  "id": "v3-0539",
+  "hook": "音 means sound: 音楽 (sound + fun) is music."
+ },
+ {
+  "id": "v3-0882",
+  "hook": "Fit (合) the standard (格): you meet the level, so you pass the exam."
+ },
+ {
+  "id": "v3-1771",
+  "hook": "Person (亻) + move (動): a person moving to work; from 働く (to work)."
+ },
+ {
+  "id": "v3-2094",
+  "hook": "音 means sound: ね is a soft, nice sound, like a bell's tone or 虫の音 (insect song)."
+ },
+ {
+  "id": "v3-0389",
+  "hook": "One (一) + time (時): for one time period, temporarily; also one o'clock."
+ },
+ {
+  "id": "v3-1263",
+  "hook": "From 切る (to cut): 切り is the cut, the place where you stop."
+ },
+ {
+  "id": "v3-1423",
+  "hook": "旅 means journey: 旅に出る is to set out on a trip; 旅行 is travel."
+ },
+ {
+  "id": "v3-0218",
+  "hook": "A tree (木) with a long top line: the tip of the branch, the end."
+ },
+ {
+  "id": "v3-2123",
+  "hook": "A tree (木) with the top line longest: the very tip, the end, like 週末 (weekend)."
+ },
+ {
+  "id": "v3-1244",
+  "hook": "From 借りる (to borrow): 借り is something borrowed, a debt."
+ },
+ {
+  "id": "v3-0478",
+  "hook": "円 means circle: Japan's money, the yen, is named after round coins."
+ },
+ {
+  "id": "v3-1004",
+  "hook": "円 means circle: まる is a round shape, a circle drawn on paper."
+ },
+ {
+  "id": "v3-1450",
+  "hook": "Earth (土) on the left: 地 is ground or land, as in 地図 (land drawing, map)."
+ },
+ {
+  "id": "v3-1853",
+  "hook": "不 means not: 不便 is not convenient, inconvenient."
+ },
+ {
+  "id": "v3-1854",
+  "hook": "不 means not: read ぶ in a few words like 不用心 (not careful)."
+ },
+ {
+  "id": "v3-1534",
+  "hook": "From 連れる (to take along): 連れ is the person you take with you, your companion."
+ },
+ {
+  "id": "v3-0253",
+  "hook": "正 means correct: せい is what is right and regular, as in 正解 (correct answer)."
+ },
+ {
+  "id": "v3-1924",
+  "hook": "Sound hook: you bend (べん) over your tote (とう) bag to grab your box lunch."
+ },
+ {
+  "id": "v3-0290",
+  "hook": "Words (言) on the left: 説 is explaining with words, a theory; 小説 is a novel."
+ },
+ {
+  "id": "v3-0975",
+  "hook": "Sun (日) on the left: 昨 is time that has passed, as in 昨年 (last year)."
+ },
+ {
+  "id": "v3-1154",
+  "hook": "四 is four, a box with four sides; say よん, since し sounds like death (死)."
+ },
+ {
+  "id": "v3-0841",
+  "hook": "Tie up (結) + fruit (果): the fruit that grows at the end, the result."
+ },
+ {
+  "id": "v3-1089",
+  "hook": "約 means promise or about: 約十分 is about ten minutes."
+ },
+ {
+  "id": "v3-0210",
+  "hook": "図 means drawing: 地図 is a land drawing, a map."
+ },
+ {
+  "id": "v3-1074",
+  "hook": "元 means origin: もと is where something started, the original or former state."
+ },
+ {
+  "id": "v3-1009",
+  "hook": "実 means fruit or truth: み is the fruit a tree gives, its good result."
+ },
+ {
+  "id": "v3-1054",
+  "hook": "面 means face or surface: お面 is a mask you wear on your face."
+ },
+ {
+  "id": "v3-0464",
+  "hook": "Carry (運) + turn (転): moving and turning a car, driving."
+ },
+ {
+  "id": "v3-0671",
+  "hook": "From 感じる (to feel): 感 has heart (心) at the bottom, a feeling."
+ },
+ {
+  "id": "v3-1207",
+  "hook": "悪 has heart (心) at the bottom: a bad heart, evil."
+ },
+ {
+  "id": "v3-1444",
+  "hook": "Birth (誕) + life (生): coming to life; 誕生日 is your birthday."
+ },
+ {
+  "id": "v3-0045",
+  "hook": "Next (次) + order (第): things come in order, each depending on the one before."
+ },
+ {
+  "id": "v3-0704",
+  "hook": "Write down (記) + thing (事): things written down, a news article."
+ },
+ {
+  "id": "v3-0026",
+  "hook": "直 means straight, direct: with no detour, it comes soon, right away."
+ },
+ {
+  "id": "v3-0215",
+  "hook": "数 means number: 数学 (number study) is mathematics."
+ },
+ {
+  "id": "v3-0301",
+  "hook": "Each other (相) + hand (手): the hand facing yours, your partner or opponent."
+ },
+ {
+  "id": "v3-0609",
+  "hook": "数 means number: かず is how many, like counting things on your fingers."
+ },
+ {
+  "id": "v3-0742",
+  "hook": "急 means hurry: 急に is suddenly, as if in a rush."
+ },
+ {
+  "id": "v3-1516",
+  "hook": "土 looks like a plant sprouting from the ground: soil, earth."
+ },
+ {
+  "id": "v3-0463",
+  "hook": "運 means carry: luck is what life carries to you."
+ },
+ {
+  "id": "v3-1019",
+  "hook": "都 means capital: みやこ is the old capital city, like Kyoto."
+ },
+ {
+  "id": "v3-0455",
+  "hook": "From 生まれる (to be born): 生 means life, so 生まれ is your birth or birthplace."
+ },
+ {
+  "id": "v3-1090",
+  "hook": "Words (言) on the left: 訳 is turning words into another language, translation."
+ },
+ {
+  "id": "v3-1693",
+  "hook": "布 has cloth (巾) at the bottom: a piece of cloth."
+ },
+ {
+  "id": "v3-2093",
+  "hook": "難 means difficult: なん is a hardship, as in 困難 (difficulty)."
+ },
+ {
+  "id": "v3-1958",
+  "hook": "Real (本) + person (人): the real person himself, not someone else."
+ },
+ {
+  "id": "v3-0255",
+  "hook": "Heart (忄) + birth (生): what you are born with, your nature or gender."
+ },
+ {
+  "id": "v3-0604",
+  "hook": "From 貸す (to lend): 貸 has money (貝, shell) at the bottom, money lent out."
+ },
+ {
+  "id": "v3-1026",
+  "hook": "無 means nothing: む is zero, as in 無理 (no reason, impossible)."
+ },
+ {
+  "id": "v3-1855",
+  "hook": "無 means without: ぶ is in 無事 (without incident, safe)."
+ },
+ {
+  "id": "v3-1872",
+  "hook": "Not (不) + think (思) + discuss (議): beyond thinking and talking about, a mystery."
+ },
+ {
+  "id": "v3-1051",
+  "hook": "Eat (食) on the left: 飯 is cooked rice, a meal; ご飯 is the polite word."
+ },
+ {
+  "id": "v3-0319",
+  "hook": "Water (氵) on the left: 温 is warm, like warm water or a warm meal."
+ },
+ {
+  "id": "v3-0590",
+  "hook": "Sure (確) + accept (認): make sure and accept it, confirm."
+ },
+ {
+  "id": "v3-1972",
+  "hook": "From 負ける (to lose): 負け is a defeat."
+ },
+ {
+  "id": "v3-0033",
+  "hook": "Thing (事) + matter (件): something that happened, an incident, like a crime."
+ },
+ {
+  "id": "v3-0060",
+  "hook": "Truth (実) + は: \"as for the truth...\", actually."
+ },
+ {
+  "id": "v3-0743",
+  "hook": "Give (給) + fee (料): the money given to you, your salary."
+ },
+ {
+  "id": "v3-1166",
+  "hook": "Stay (留) + study (学): staying in another country to study."
+ },
+ {
+  "id": "v3-1851",
+  "hook": "便 means convenience or mail: びん is a flight or delivery, like 航空便 (airmail)."
+ },
+ {
+  "id": "v3-0436",
+  "hook": "魚 is a picture of a fish with tail fins (灬); うお is old, as in 魚市場 (fish market)."
+ },
+ {
+  "id": "v3-0605",
+  "hook": "Fruit (菓) + small thing (子): small sweet things; お菓子 is sweets."
+ },
+ {
+  "id": "v3-0763",
+  "hook": "Write down (記) + record (録): writing things down to keep, a record."
+ },
+ {
+  "id": "v3-0067",
+  "hook": "Three boxes (口) stacked up: lots of goods, things for sale."
+ },
+ {
+  "id": "v3-1849",
+  "hook": "品 is goods: ひん is also quality or class, as in 上品 (classy, elegant)."
+ },
+ {
+  "id": "v3-2048",
+  "hook": "Tree (木) + eye (目): looking closely at something, its appearance or aspect."
+ },
+ {
+  "id": "v3-0669",
+  "hook": "Look at (観) + light (光): go look at the shining sights, sightseeing."
+ },
+ {
+  "id": "v3-1095",
+  "hook": "Roof (宀) + person (亻) + hundred (百): a roof where many people stay, an inn."
+ },
+ {
+  "id": "v3-1237",
+  "hook": "格 means status or level: 合格 is reaching the level, passing."
+ },
+ {
+  "id": "v3-0178",
+  "hook": "From 知らせる (to let know): 知 means know, so 知らせ is news, a notice."
+ },
+ {
+  "id": "v3-0418",
+  "hook": "From (以) + come (来): from that point coming up to now, since."
+ },
+ {
+  "id": "v3-0798",
+  "hook": "From 暮らす (to live): 暮 has sun (日) at the bottom, day after day of living."
+ },
+ {
+  "id": "v3-0177",
+  "hook": "Writing (書) + kind (類): all kinds of written papers, documents."
+ },
+ {
+  "id": "v3-0857",
+  "hook": "Healthy (健) + peaceful (康): a strong, calm body, good health."
+ },
+ {
+  "id": "v3-0963",
+  "hook": "Most (最) + middle (中): right in the middle of doing something."
+ },
+ {
+  "id": "v3-1477",
+  "hook": "Middle (中) + stop (止): stop in the middle, call it off."
+ },
+ {
+  "id": "v3-0692",
+  "hook": "Both kanji have tree (木) on the left: early machines were made of wood."
+ },
+ {
+  "id": "v3-1093",
+  "hook": "House (家) + fee (賃): the money you pay for a house, rent."
+ },
+ {
+  "id": "v3-1465",
+  "hook": "Father (父) + parent (親): the father parent."
+ },
+ {
+  "id": "v3-2021",
+  "hook": "Above (上) + in charge (司): the person above you at work, your boss."
+ },
+ {
+  "id": "v3-2131",
+  "hook": "世 means world or generation: よ is the world we live in, as in この世 (this world)."
+ },
+ {
+  "id": "v3-1439",
+  "hook": "段 means step: 階段 is stairs, step after step."
+ },
+ {
+  "id": "v3-2129",
+  "hook": "Person (亻) + worry (憂): a caring person is kind and excellent; 優 is the top grade."
+ },
+ {
+  "id": "v3-0725",
+  "hook": "Feeling (気) + taste (味): a slight touch of something, like 風邪気味 (a bit of a cold)."
+ },
+ {
+  "id": "v3-0774",
+  "hook": "Tight (緊) + stretch (張): stretched tight, nervous and tense."
+ },
+ {
+  "id": "v3-0843",
+  "hook": "Tie up (結) + game (局): when the game is tied up at the end, after all."
+ },
+ {
+  "id": "v3-1111",
+  "hook": "Post (郵) + delivery (便): the postal service; 郵便局 is the post office."
+ },
+ {
+  "id": "v3-1358",
+  "hook": "Big (大) + meeting (会): a big meeting, a tournament."
+ },
+ {
+  "id": "v3-1814",
+  "hook": "Fly (飛) + go (行): going by flying; 飛行機 is a flying machine, a plane."
+ },
+ {
+  "id": "v3-1891",
+  "hook": "Bamboo (竹) on top of a hand holding a brush (聿): a bamboo writing brush."
+ },
+ {
+  "id": "v3-1173",
+  "hook": "Altar (礻) on the left: showing respect, a bow or thanks; 失礼 is losing manners."
+ },
+ {
+  "id": "v3-2089",
+  "hook": "Person (亻) + together (共): a person who goes along with you, a companion."
+ },
+ {
+  "id": "v3-0012",
+  "hook": "Join (参) + add (加): add yourself to the group, take part."
+ },
+ {
+  "id": "v3-0472",
+  "hook": "Laugh (笑) + face (顔): a laughing face, a smile."
+ },
+ {
+  "id": "v3-1242",
+  "hook": "One side (片) + attach (付): put each thing back in its place, tidying up."
+ },
+ {
+  "id": "v3-1473",
+  "hook": "Water (氵) on the left: 注 is to pour; a note pours extra meaning into a text."
+ },
+ {
+  "id": "v3-1689",
+  "hook": "People (人) + spirit (気): the good feeling people have for something, popularity."
+ },
+ {
+  "id": "v3-1690",
+  "hook": "Person (人) + between (間): people living among each other, human beings."
+ },
+ {
+  "id": "v3-1696",
+  "hook": "Person (亻) + straight (直): a fair, straight price; 値段 is price."
+ },
+ {
+  "id": "v3-1702",
+  "hook": "Year (年) + span (間): over the span of a year, yearly."
+ },
+ {
+  "id": "v3-1805",
+  "hook": "Judge (判) + cut off (断): judge and cut off the other choices, a decision."
+ },
+ {
+  "id": "v3-1806",
+  "hook": "Crime (犯) + person (人): the person who did the crime."
+ },
+ {
+  "id": "v3-1807",
+  "hook": "Sell (販) + sell (売): selling; 自動販売機 is a vending machine."
+ },
+ {
+  "id": "v3-2113",
+  "hook": "From 振る (to swing, wave): 振り is your way of moving, your style or manner."
+ },
+ {
+  "id": "v3-1838",
+  "hook": "表 means surface or show: ひょう is a chart that shows data at a glance."
+ },
+ {
+  "id": "v3-0500",
+  "hook": "奥 means the deep inside: the back room, far from the door."
+ },
+ {
+  "id": "v3-0065",
+  "hook": "Self (自) + move (動): moves by itself, automatic."
+ },
+ {
+  "id": "v3-0153",
+  "hook": "Trade (商) + goods (品): goods for trade, merchandise."
+ },
+ {
+  "id": "v3-0396",
+  "hook": "One (一) + life (生): one whole life, all your life."
+ },
+ {
+  "id": "v3-0992",
+  "hook": "Make (作) + expert (家): an expert who makes stories, a writer."
+ },
+ {
+  "id": "v3-1142",
+  "hook": "Night (夜) + middle (中): the middle of the night."
+ },
+ {
+  "id": "v3-1482",
+  "hook": "Pour (注) + writing (文): pour your wishes into words, an order."
+ },
+ {
+  "id": "v3-1762",
+  "hook": "From 始まる (to begin): 始まり is the beginning."
+ },
+ {
+  "id": "v3-0978",
+  "hook": "Tree (木) on the left: 桜 is the cherry tree, Japan's spring flower."
+ },
+ {
+  "id": "v3-1420",
+  "hook": "A tree (木) with a band (口) tied around it: a bundle tied together."
+ },
+ {
+  "id": "v3-0757",
+  "hook": "局 means office or bureau: 郵便局 is the post office."
+ },
+ {
+  "id": "v3-1276",
+  "hook": "Person (亻) + cow (牛): a matter or case to deal with; 事件 is an incident."
+ },
+ {
+  "id": "v3-0686",
+  "hook": "Control (管) + order (理): keeping things in order, management."
+ },
+ {
+  "id": "v3-1145",
+  "hook": "Before (予) + report (報): a report before it happens, a forecast."
+ },
+ {
+  "id": "v3-1458",
+  "hook": "Difference (違い) + none (ない): no chance it is different, so it must be true."
+ },
+ {
+  "id": "v3-1462",
+  "hook": "Late (遅) + moment (刻): late for the set time."
+ },
+ {
+  "id": "v3-1678",
+  "hook": "Bitter (苦) + hand (手): something bitter in your hands, so you are weak at it."
+ },
+ {
+  "id": "v3-1683",
+  "hook": "Sun (日) + middle (中): while the sun is up, in the daytime."
+ },
+ {
+  "id": "v3-1991",
+  "hook": "Altar (示) at the bottom: a hand offering meat to the gods, a festival."
+ },
+ {
+  "id": "v3-0049",
+  "hook": "Money (貝, shell) at the bottom: 質 is what something is worth, its quality."
+ },
+ {
+  "id": "v3-0366",
+  "hook": "Self (自, a nose) over heart (心): air through your nose to the heart, breath."
+ },
+ {
+  "id": "v3-0403",
+  "hook": "One (一) + side (方): on one side... and on the other hand."
+ },
+ {
+  "id": "v3-1038",
+  "hook": "No (無) + poor horse (駄): a useless horse, a waste."
+ },
+ {
+  "id": "v3-1061",
+  "hook": "Say (申し) + reason (訳): saying your reasons, an excuse; 申し訳ない means I am sorry."
+ },
+ {
+  "id": "v3-1171",
+  "hook": "Fee (料) + money (金): money you pay, a charge."
+ },
+ {
+  "id": "v3-1507",
+  "hook": "Next (次) + repeat mark (々): next, next, one after another."
+ },
+ {
+  "id": "v3-1612",
+  "hook": "Years (年) + come close (寄): someone the years have come to, an old person."
+ },
+ {
+  "id": "v3-1266",
+  "hook": "Grass (艹) + old (古): old bitter herbs; 苦 is bitterness, suffering."
+ },
+ {
+  "id": "v3-0386",
+  "hook": "至 shows an arrow hitting the ground: to arrive, to reach."
+ },
+ {
+  "id": "v3-0552",
+  "hook": "Sea (海) + outside (外): beyond the sea, overseas."
+ },
+ {
+  "id": "v3-0973",
+  "hook": "Make (作) + job (業): making things as a job, work or an operation."
+ },
+ {
+  "id": "v3-1109",
+  "hook": "Friend (友) + person (人): a friend; the formal word for 友だち."
+ }
+]

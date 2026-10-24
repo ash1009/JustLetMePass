@@ -1,0 +1,802 @@
+[
+ {
+  "id": "v3-0942",
+  "hook": "Small (小) grain (麦, wheat or barley): the little grains that make bread, wheat."
+ },
+ {
+  "id": "v3-1097",
+  "hook": "House (屋) + root (根): the roof is like a root for the house, but on top."
+ },
+ {
+  "id": "v3-1203",
+  "hook": "我 means I or self; 々 repeats it: many selves together means we."
+ },
+ {
+  "id": "v3-1325",
+  "hook": "Put together (組) and woven (織): people woven into one group, an organization."
+ },
+ {
+  "id": "v3-1365",
+  "hook": "Body (体) + heavy (重): how heavy your body is, your weight."
+ },
+ {
+  "id": "v3-1369",
+  "hook": "対 means opposite or facing: to face or stand against someone."
+ },
+ {
+  "id": "v3-1518",
+  "hook": "From 包む (to wrap): something wrapped up, a package."
+ },
+ {
+  "id": "v3-1519",
+  "hook": "From 勤める (to work for a company): your job, your employment."
+ },
+ {
+  "id": "v3-1542",
+  "hook": "Hold out (提) and put out (出): hand in your homework, a submission."
+ },
+ {
+  "id": "v3-1566",
+  "hook": "Electric (電) + small thing (子): a tiny electric particle, an electron."
+ },
+ {
+  "id": "v3-1608",
+  "hook": "Climb (登) a mountain (山): mountain climbing."
+ },
+ {
+  "id": "v3-1616",
+  "hook": "突 means thrust or sudden, 然 means \"in that way\": suddenly, out of nowhere."
+ },
+ {
+  "id": "v3-1675",
+  "hook": "何 (what) + とか: \"somehow or other\", you manage in some way."
+ },
+ {
+  "id": "v3-1758",
+  "hook": "激 means fierce, like crashing water (氵): violent, intense."
+ },
+ {
+  "id": "v3-1816",
+  "hook": "Not (非) usual (常): not normal at all, so an emergency or extraordinary."
+ },
+ {
+  "id": "v3-1819",
+  "hook": "Day (日) + attach (付): the day you attach to a letter, the date."
+ },
+ {
+  "id": "v3-1876",
+  "hook": "Not (不) right (正): unfair, unjust."
+ },
+ {
+  "id": "v3-1881",
+  "hook": "再 means again, like in 再来週 (the week after next): once more, again."
+ },
+ {
+  "id": "v3-1886",
+  "hook": "Things (物) + price (価): the prices of things."
+ },
+ {
+  "id": "v3-1895",
+  "hook": "Not (不) full (満): not satisfied, so you complain."
+ },
+ {
+  "id": "v3-1903",
+  "hook": "震 has rain (雨) on top, like a storm shaking the ground: to shake or shiver."
+ },
+ {
+  "id": "v3-1959",
+  "hook": "Real (本) thing (物): the genuine article, not a fake."
+ },
+ {
+  "id": "v3-1994",
+  "hook": "学 is study, as in 学校 (school): to learn."
+ },
+ {
+  "id": "v3-2085",
+  "hook": "当 means right or proper, 然 means \"so\": rightly so, of course."
+ },
+ {
+  "id": "v3-0258",
+  "hook": "税 has grain (禾) on the left: in old times, tax was paid in rice."
+ },
+ {
+  "id": "v3-0380",
+  "hook": "Tree (木) on the left: a flat piece of wood, a board."
+ },
+ {
+  "id": "v3-0583",
+  "hook": "額 has head (頁) on the right: a frame hangs on a wall like a big forehead; also an amount of money."
+ },
+ {
+  "id": "v3-0661",
+  "hook": "Sounds like English \"can\": a can or tin."
+ },
+ {
+  "id": "v3-0729",
+  "hook": "逆 has the moving part (辶): going the wrong way, the reverse."
+ },
+ {
+  "id": "v3-1818",
+  "hook": "額 has head (頁) on the right: the top front of your head, your forehead."
+ },
+ {
+  "id": "v3-0182",
+  "hook": "Earth (土) on the left: castles had big earth walls, a castle."
+ },
+ {
+  "id": "v3-0618",
+  "hook": "刀 looks like a curved blade: a sword (katana)."
+ },
+ {
+  "id": "v3-0707",
+  "hook": "Person (亻) on the left: a hurt on a person, a wound."
+ },
+ {
+  "id": "v3-0922",
+  "hook": "Body part (月) + vital (要): the vital middle part of your body, your waist and hips."
+ },
+ {
+  "id": "v3-1527",
+  "hook": "A net (罒) over wrong (非): wrong acts caught in the net of the law, a crime."
+ },
+ {
+  "id": "v3-1799",
+  "hook": "Metal (金) + ten (十): a thin metal needle."
+ },
+ {
+  "id": "v3-0011",
+  "hook": "騒 has horse (馬): noisy horses running wild, an uproar."
+ },
+ {
+  "id": "v3-0025",
+  "hook": "Four (四) seasons (季): spring, summer, autumn and winter."
+ },
+ {
+  "id": "v3-0027",
+  "hook": "Time (時) + period (期): a time or season."
+ },
+ {
+  "id": "v3-0080",
+  "hook": "示 is in 表示 (display): to show or point out."
+ },
+ {
+  "id": "v3-0128",
+  "hook": "賞 has shell (貝, old money) at the bottom: a prize, often with money."
+ },
+ {
+  "id": "v3-0141",
+  "hook": "Illness (症, with the sickness part 疒) + state (状): the state of your sickness, symptoms."
+ },
+ {
+  "id": "v3-0148",
+  "hook": "Trade (商) person (人): a merchant."
+ },
+ {
+  "id": "v3-0150",
+  "hook": "Few (少) years (年): a young boy."
+ },
+ {
+  "id": "v3-0183",
+  "hook": "Advance (進) in learning (学): go on to a higher school."
+ },
+ {
+  "id": "v3-0185",
+  "hook": "Real (真) sword (剣): fighting with a real sword makes you serious."
+ },
+ {
+  "id": "v3-0195",
+  "hook": "New (新) + fresh (鮮, with fish 魚): fresh like a fish just caught."
+ },
+ {
+  "id": "v3-0204",
+  "hook": "Believe (信) + use (用): you trust someone enough to rely on them, confidence."
+ },
+ {
+  "id": "v3-0212",
+  "hook": "Push (推) forward + offer (薦): push someone forward as a good choice, recommend."
+ },
+ {
+  "id": "v3-0214",
+  "hook": "Both kanji have eye (目): eyes closed, sleep."
+ },
+ {
+  "id": "v3-0226",
+  "hook": "少し (a little) + も: not even a little, not one bit."
+ },
+ {
+  "id": "v3-0265",
+  "hook": "Control (制) + limit (限): a restriction."
+ },
+ {
+  "id": "v3-0280",
+  "hook": "Made (製) goods (品): manufactured products."
+ },
+ {
+  "id": "v3-0291",
+  "hook": "Pile up (積) to the extreme (極) + \"like\" (的): very active and positive."
+ },
+ {
+  "id": "v3-0306",
+  "hook": "From 空く (to become empty): an empty space or opening."
+ },
+ {
+  "id": "v3-0331",
+  "hook": "跡 has foot (足) on the left: footprints, a trace left behind."
+ },
+ {
+  "id": "v3-0370",
+  "hook": "Medicine (医) + master (師): a doctor."
+ },
+ {
+  "id": "v3-0388",
+  "hook": "Place (位) + put (置): where something is put, its position."
+ },
+ {
+  "id": "v3-0391",
+  "hook": "City (市) + place (場): the place in town where you buy food, a market."
+ },
+ {
+  "id": "v3-0394",
+  "hook": "One (一) kind (種): a kind or sort."
+ },
+ {
+  "id": "v3-0402",
+  "hook": "One (一) + sort (般), all as one: general, ordinary."
+ },
+ {
+  "id": "v3-0431",
+  "hook": "Pull (引) back (退): retire from work or sport."
+ },
+ {
+  "id": "v3-0442",
+  "hook": "失 means lose, as in 失礼: to lose."
+ },
+ {
+  "id": "v3-0490",
+  "hook": "King (王) + polite 様: the king."
+ },
+ {
+  "id": "v3-0570",
+  "hook": "Picture (画) + expert (家): a painter."
+ },
+ {
+  "id": "v3-0640",
+  "hook": "Self (我) + pride (慢): keep your pride and self quiet, be patient."
+ },
+ {
+  "id": "v3-0666",
+  "hook": "Watch (観) + guest (客): guests who watch, the audience."
+ },
+ {
+  "id": "v3-0668",
+  "hook": "Joy (歓) + meet (迎): meet someone with joy, welcome."
+ },
+ {
+  "id": "v3-0685",
+  "hook": "Watch over (監) + command (督): the person who watches and leads, the director."
+ },
+ {
+  "id": "v3-0700",
+  "hook": "嫌 means dislike: your 機嫌 shows if you like or dislike things now, your mood."
+ },
+ {
+  "id": "v3-0723",
+  "hook": "Base (基) + origin (本): the basics."
+ },
+ {
+  "id": "v3-0751",
+  "hook": "Together (共) + pass through (通): something that runs through all, in common."
+ },
+ {
+  "id": "v3-0752",
+  "hook": "Together (共) + same (同): working together, cooperation."
+ },
+ {
+  "id": "v3-0756",
+  "hook": "Allow (許) + OK (可): permission."
+ },
+ {
+  "id": "v3-0779",
+  "hook": "By chance (偶) + \"so\" (然): it just happened so, by chance."
+ },
+ {
+  "id": "v3-0785",
+  "hook": "Tool (具) + body (体): something with a real body you can touch, concrete."
+ },
+ {
+  "id": "v3-0800",
+  "hook": "暮 is sunset (日 in the grass): day after day until sunset, you live."
+ },
+ {
+  "id": "v3-0824",
+  "hook": "Pass through (経) + run (営): run a business, management."
+ },
+ {
+  "id": "v3-0828",
+  "hook": "Measure (計) + count (算): calculation."
+ },
+ {
+  "id": "v3-0831",
+  "hook": "Art skill (芸) + technique (術): the fine arts."
+ },
+ {
+  "id": "v3-0837",
+  "hook": "Drama (劇) + place (場): a theater."
+ },
+ {
+  "id": "v3-0846",
+  "hook": "Decide (決) + fix (定): a final decision."
+ },
+ {
+  "id": "v3-0848",
+  "hook": "Tie up (結) the argument (論): the conclusion."
+ },
+ {
+  "id": "v3-0854",
+  "hook": "Limit (限) + boundary (界): the limit."
+ },
+ {
+  "id": "v3-0866",
+  "hook": "See (見) + hit (当): see where it will hit, a guess."
+ },
+ {
+  "id": "v3-0885",
+  "hook": "Light (光) + view (景): a scene."
+ },
+ {
+  "id": "v3-0899",
+  "hook": "After (後) + fellows (輩): people who came after you, juniors."
+ },
+ {
+  "id": "v3-0902",
+  "hook": "Wait (候) + fill in (補): someone waiting to fill a place, a candidate."
+ },
+ {
+  "id": "v3-0912",
+  "hook": "Language (語) + study (学): language study."
+ },
+ {
+  "id": "v3-0960",
+  "hook": "Most (最) high (高): the highest, the best."
+ },
+ {
+  "id": "v3-0965",
+  "hook": "Talent (才) + ability (能): talent."
+ },
+ {
+  "id": "v3-0968",
+  "hook": "幸 means happiness, as in 幸せ: luckily, fortunately."
+ },
+ {
+  "id": "v3-0972",
+  "hook": "盛 means heap up: a heaped plate is a serving; life heaped up high is its peak (さかり)."
+ },
+ {
+  "id": "v3-0981",
+  "hook": "避 has the moving part (辶): move away to avoid something."
+ },
+ {
+  "id": "v3-0991",
+  "hook": "Tree (木) on the left: first a wooden tag, now a paper note (bill)."
+ },
+ {
+  "id": "v3-1016",
+  "hook": "認 has words (言): say yes, admit or recognize."
+ },
+ {
+  "id": "v3-1017",
+  "hook": "See (見) a sick friend and dance (舞) around them with kindness: a get-well visit."
+ },
+ {
+  "id": "v3-1031",
+  "hook": "向 means facing, as in 向こう: to turn something toward."
+ },
+ {
+  "id": "v3-1050",
+  "hook": "Eye (目) + up (上): someone you look up to, your senior."
+ },
+ {
+  "id": "v3-1077",
+  "hook": "From 戻る (to go back): to put back."
+ },
+ {
+  "id": "v3-1079",
+  "hook": "求 means seek, as in 要求 (demand): to ask for or look for."
+ },
+ {
+  "id": "v3-1102",
+  "hook": "Only (唯) one (一): the only one."
+ },
+ {
+  "id": "v3-1105",
+  "hook": "Have (有) effect (効): valid, it works."
+ },
+ {
+  "id": "v3-1119",
+  "hook": "許 has words (言): say \"yes, you may\", to allow or forgive."
+ },
+ {
+  "id": "v3-1167",
+  "hook": "Flow (流) + go (行): what flows through the town, a trend."
+ },
+ {
+  "id": "v3-1177",
+  "hook": "列 is in 行列 (a line of people): a line or row."
+ },
+ {
+  "id": "v3-1187",
+  "hook": "Argument (論) + writing (文): a thesis or paper."
+ },
+ {
+  "id": "v3-1278",
+  "hook": "Public (公) + perform (演): a public performance."
+ },
+ {
+  "id": "v3-1316",
+  "hook": "Increase (増) + add (加): an increase."
+ },
+ {
+  "id": "v3-1322",
+  "hook": "Fast (速) + degree (度): how fast, the speed."
+ },
+ {
+  "id": "v3-1349",
+  "hook": "Exist (存) + be there (在): existence."
+ },
+ {
+  "id": "v3-1357",
+  "hook": "Body (体) + warm (温): body temperature."
+ },
+ {
+  "id": "v3-1425",
+  "hook": "玉 is a jewel (王 with a dot): a ball or round thing."
+ },
+ {
+  "id": "v3-1464",
+  "hook": "Know (知) + recognize (識): knowledge."
+ },
+ {
+  "id": "v3-1544",
+  "hook": "Extent (程) + degree (度): level, degree."
+ },
+ {
+  "id": "v3-1562",
+  "hook": "Hand (手) + time (間): hand work and time, effort."
+ },
+ {
+  "id": "v3-1578",
+  "hook": "Same (同) time (時): at the same time."
+ },
+ {
+  "id": "v3-1597",
+  "hook": "Read (読) books (書): reading."
+ },
+ {
+  "id": "v3-1610",
+  "hook": "Years (年, とし) and months (月, つき): a long time passing."
+ },
+ {
+  "id": "v3-1614",
+  "hook": "Way (途) + edge (端): at the edge of an action, just as it happens."
+ },
+ {
+  "id": "v3-1615",
+  "hook": "Earth (土) + ground (地): land."
+ },
+ {
+  "id": "v3-1648",
+  "hook": "Inside (中) + body (身): what is inside, the contents."
+ },
+ {
+  "id": "v3-1659",
+  "hook": "Put in (納) + gain (得): take it in and get it, understanding."
+ },
+ {
+  "id": "v3-1662",
+  "hook": "Metal (金) on the left: a metal pot."
+ },
+ {
+  "id": "v3-1703",
+  "hook": "Years (年, ねん) and months (月, げつ) in on readings: a long period of time."
+ },
+ {
+  "id": "v3-1704",
+  "hook": "Through (中) the year (年): all year round, always."
+ },
+ {
+  "id": "v3-1786",
+  "hook": "放 means release, as in 放送 (broadcast): let go, set free."
+ },
+ {
+  "id": "v3-1789",
+  "hook": "羽 looks like two feathers side by side: a wing."
+ },
+ {
+  "id": "v3-1821",
+  "hook": "Sure (必) death (死): fight as if facing certain death, desperate."
+ },
+ {
+  "id": "v3-1830",
+  "hook": "One person (一人), one person (一人): each person, one by one."
+ },
+ {
+  "id": "v3-1831",
+  "hook": "Criticize (批) + judge (判): criticism."
+ },
+ {
+  "id": "v3-1837",
+  "hook": "Spend (費) + use (用): cost."
+ },
+ {
+  "id": "v3-1910",
+  "hook": "Divide (分) + split (析): break into parts, analysis."
+ },
+ {
+  "id": "v3-1916",
+  "hook": "別 means separate or other: \"nothing in particular\"."
+ },
+ {
+  "id": "v3-1917",
+  "hook": "減 has water (氵): water level going down, to reduce."
+ },
+ {
+  "id": "v3-1929",
+  "hook": "Direction (方) + facing (向): direction."
+ },
+ {
+  "id": "v3-1946",
+  "hook": "Keep (保) + exist (存): keep something so it lasts, save."
+ },
+ {
+  "id": "v3-2008",
+  "hook": "Self (自) + self (己): oneself."
+ },
+ {
+  "id": "v3-2031",
+  "hook": "True (真) + reason (理): the truth."
+ },
+ {
+  "id": "v3-2116",
+  "hook": "Protect (保) + barrier (障): a wall of protection, a guarantee or security."
+ },
+ {
+  "id": "v3-0018",
+  "hook": "Words (言) + temple (寺): words chanted like at a temple, a poem."
+ },
+ {
+  "id": "v3-0836",
+  "hook": "劇 has knife (刂): strong action on stage, a drama or play."
+ },
+ {
+  "id": "v3-0873",
+  "hook": "恋 has heart (心) at the bottom: love."
+ },
+ {
+  "id": "v3-1161",
+  "hook": "陸 has hill (阝 on the left): land, not sea."
+ },
+ {
+  "id": "v3-1212",
+  "hook": "異 means different, as in 異なる: a difference."
+ },
+ {
+  "id": "v3-1293",
+  "hook": "策 is in 対策 (countermeasure): a plan or policy."
+ },
+ {
+  "id": "v3-1314",
+  "hook": "象 was a picture of an elephant with its trunk on top: elephant."
+ },
+ {
+  "id": "v3-1714",
+  "hook": "Cart (車) + dry (干): the roof edge that keeps carts dry, the eaves."
+ },
+ {
+  "id": "v3-1761",
+  "hook": "Stand (立) on the left: stand at the very edge, the end or edge."
+ },
+ {
+  "id": "v3-0228",
+  "hook": "Bamboo (竹) + flesh (月) + power (力): strong lines in your body, muscle."
+ },
+ {
+  "id": "v3-0317",
+  "hook": "Water (氵) + dry (干): water that dries on your skin, sweat."
+ },
+ {
+  "id": "v3-0333",
+  "hook": "Water (氵) on the left: a liquid, oil."
+ },
+ {
+  "id": "v3-0454",
+  "hook": "馬 is a picture of a horse with four legs: horse."
+ },
+ {
+  "id": "v3-0499",
+  "hook": "Water (氵) + middle (中): the middle of the water, the open sea."
+ },
+ {
+  "id": "v3-0643",
+  "hook": "Rain (雨) over a field (田): what crashes over the fields in a storm, thunder."
+ },
+ {
+  "id": "v3-0733",
+  "hook": "Thread (糸) on the left: steps in a row like on a thread, a class or grade."
+ },
+ {
+  "id": "v3-0851",
+  "hook": "券 has knife (刀) at the bottom: a ticket you cut or tear."
+ },
+ {
+  "id": "v3-1533",
+  "hook": "Metal (金) on the left, like a metal hook: fishing."
+ },
+ {
+  "id": "v3-1665",
+  "hook": "Water (氵) + skin (皮): the skin of the water, a wave."
+ },
+ {
+  "id": "v3-1737",
+  "hook": "Fire (火) inside: what is left after a fire, ash."
+ },
+ {
+  "id": "v3-1839",
+  "hook": "Grain (禾) + few (少): a tiny bit of time, a second."
+ },
+ {
+  "id": "v3-2109",
+  "hook": "票 is in 投票 (voting): a ballot, label or slip."
+ },
+ {
+  "id": "v3-0022",
+  "hook": "Four (四) corners (角): a square."
+ },
+ {
+  "id": "v3-0031",
+  "hook": "Stab (刺) + violent (激): a sharp poke, a stimulus."
+ },
+ {
+  "id": "v3-0039",
+  "hook": "Poem (詩) person (人): a poet."
+ },
+ {
+  "id": "v3-0043",
+  "hook": "Think (思) + idea (想): a way of thinking, thought."
+ },
+ {
+  "id": "v3-0053",
+  "hook": "Real (実) + appear (現): make it appear for real, realization."
+ },
+ {
+  "id": "v3-0061",
+  "hook": "Lose (失) hope (望): disappointment."
+ },
+ {
+  "id": "v3-0062",
+  "hook": "Real (実) power (力): your true ability."
+ },
+ {
+  "id": "v3-0069",
+  "hook": "Grass (芝) + sit (居): people once sat on the grass to watch plays."
+ },
+ {
+  "id": "v3-0071",
+  "hook": "Grass (芝) grows (生): a lawn."
+ },
+ {
+  "id": "v3-0078",
+  "hook": "Self (自) + pride (慢): boasting about yourself."
+ },
+ {
+  "id": "v3-0090",
+  "hook": "Around (周) + enclose (囲): what is all around you, surroundings."
+ },
+ {
+  "id": "v3-0091",
+  "hook": "Gather (収) + harvest (穫, with grain 禾): harvest."
+ },
+ {
+  "id": "v3-0103",
+  "hook": "Gather (収) + come in (入): money that comes in, income."
+ },
+ {
+  "id": "v3-0111",
+  "hook": "Hand (手) + step (段): the steps you take, a means."
+ },
+ {
+  "id": "v3-0115",
+  "hook": "Put out (出) + printing block (版): publication."
+ },
+ {
+  "id": "v3-0120",
+  "hook": "Kind (種) + type (類): variety, kind."
+ },
+ {
+  "id": "v3-0132",
+  "hook": "Ride (乗) + guest (客): a passenger."
+ },
+ {
+  "id": "v3-0152",
+  "hook": "Use up (消) + spend (費): consumption."
+ },
+ {
+  "id": "v3-0155",
+  "hook": "Put out (消) fires + defend (防): fire fighting."
+ },
+ {
+  "id": "v3-0167",
+  "hook": "Food (食) + materials (料): food supplies."
+ },
+ {
+  "id": "v3-0171",
+  "hook": "Help (助) + hand (手): a helping hand, an assistant."
+ },
+ {
+  "id": "v3-0199",
+  "hook": "Careful (慎) + heavy (重): careful and serious."
+ },
+ {
+  "id": "v3-0202",
+  "hook": "Advance (進) step (歩): progress."
+ },
+ {
+  "id": "v3-0206",
+  "hook": "Mind (心) + logic (理): how the mind works, mentality."
+ },
+ {
+  "id": "v3-0261",
+  "hook": "Age (世) + record (紀): a recorded age of 100 years, a century."
+ },
+ {
+  "id": "v3-0269",
+  "hook": "Spirit (精) + god (神): your mind or spirit."
+ },
+ {
+  "id": "v3-0278",
+  "hook": "Green (青, young) + years (年): a young man."
+ },
+ {
+  "id": "v3-0284",
+  "hook": "Arrange (整) + order (理): sorting things out."
+ },
+ {
+  "id": "v3-0298",
+  "hook": "Match (合) + picture (図): a sign everyone agrees on, a signal."
+ },
+ {
+  "id": "v3-0312",
+  "hook": "明 is bright (sun 日 + moon 月): the sky gets bright, dawn."
+ },
+ {
+  "id": "v3-0316",
+  "hook": "預 is in 預金 (savings): leave something with someone, deposit."
+ },
+ {
+  "id": "v3-0324",
+  "hook": "辺 means area or side, as in この辺: the area nearby."
+ },
+ {
+  "id": "v3-0335",
+  "hook": "誤 has words (言): wrong words, an error."
+ },
+ {
+  "id": "v3-0362",
+  "hook": "Entrust (委) + member (員): a committee member."
+ },
+ {
+  "id": "v3-0368",
+  "hook": "Living (生き) thing (物): a creature."
+ },
+ {
+  "id": "v3-0372",
+  "hook": "Mind (意) + aim (志): your will."
+ },
+ {
+  "id": "v3-0438",
+  "hook": "Receive (受け) + take (取る): to receive."
+ },
+ {
+  "id": "v3-0456",
+  "hook": "Have (有) or not have (無): yes or no, presence or absence."
+ }
+]

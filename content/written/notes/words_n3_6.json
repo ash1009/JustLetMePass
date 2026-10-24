@@ -1,0 +1,802 @@
+[
+ {
+  "id": "v3-0186",
+  "hook": "Believe (信) in and look up (仰) to a god: your faith."
+ },
+ {
+  "id": "v3-0189",
+  "hook": "Carved (刻) deep (深): a problem that cuts deep is serious."
+ },
+ {
+  "id": "v3-0191",
+  "hook": "People (人) sorted by type, like seeds (種): race."
+ },
+ {
+  "id": "v3-0197",
+  "hook": "Body (身) + body (体): the whole body, said formally."
+ },
+ {
+  "id": "v3-0198",
+  "hook": "Body (身) length (長): how tall you are."
+ },
+ {
+  "id": "v3-0200",
+  "hook": "Examine (審) and judge (判): the referee decides who wins."
+ },
+ {
+  "id": "v3-0211",
+  "hook": "Water (水) always finds a flat level (準): a level or standard."
+ },
+ {
+  "id": "v3-0229",
+  "hook": "進 means advance (like 進む): you push something forward."
+ },
+ {
+  "id": "v3-0234",
+  "hook": "Head (頭) pain (痛): a headache."
+ },
+ {
+  "id": "v3-0241",
+  "hook": "全 means whole, all: すべて is everything."
+ },
+ {
+  "id": "v3-0242",
+  "hook": "済 means finished, settled (like 済む): get something done and over with."
+ },
+ {
+  "id": "v3-0250",
+  "hook": "鋭 has metal (金) on the left: a sharp, pointed blade."
+ },
+ {
+  "id": "v3-0251",
+  "hook": "Brush past (すれ) going in different (違) directions: pass each other."
+ },
+ {
+  "id": "v3-0257",
+  "hook": "The place (所) where the doing (為) started: the cause, whose fault it is."
+ },
+ {
+  "id": "v3-0262",
+  "hook": "Request (請) and demand (求): a claim or bill for money."
+ },
+ {
+  "id": "v3-0264",
+  "hook": "Clean (清) and pure (潔): spotlessly clean."
+ },
+ {
+  "id": "v3-0268",
+  "hook": "Nature (性) + quality (質): what something is like inside."
+ },
+ {
+  "id": "v3-0270",
+  "hook": "A person (人) who has become (成) grown up: an adult."
+ },
+ {
+  "id": "v3-0271",
+  "hook": "Even with all your energy (精), that's the most you can do: at best."
+ },
+ {
+  "id": "v3-0273",
+  "hook": "Make (製) and build (造): manufacture in a factory."
+ },
+ {
+  "id": "v3-0276",
+  "hook": "Life (生) getting long (長): a plant growing taller."
+ },
+ {
+  "id": "v3-0279",
+  "hook": "Birth (生) year (年) month (月) day (日): your date of birth."
+ },
+ {
+  "id": "v3-0283",
+  "hook": "Life (生) + life, fate (命): life itself."
+ },
+ {
+  "id": "v3-0286",
+  "hook": "Stone (石) charcoal (炭): coal, black rock that burns."
+ },
+ {
+  "id": "v3-0297",
+  "hook": "Love (愛) + feelings (情): warm affection."
+ },
+ {
+  "id": "v3-0300",
+  "hook": "愛 is love: 愛する means to love."
+ },
+ {
+  "id": "v3-0311",
+  "hook": "Evil (悪) + demon (魔): the devil."
+ },
+ {
+  "id": "v3-0318",
+  "hook": "与 means give (like 給与, salary): to give or grant."
+ },
+ {
+  "id": "v3-0338",
+  "hook": "争 means fight, compete (like 戦争, war): to argue or fight."
+ },
+ {
+  "id": "v3-0354",
+  "hook": "哀 means sorrow (like 哀しい): something so sad it is pitiful."
+ },
+ {
+  "id": "v3-0356",
+  "hook": "Outside (外) your plan (案): it happened unexpectedly."
+ },
+ {
+  "id": "v3-0357",
+  "hook": "Write it down (記) in your head, even in the dark (暗): learn by heart."
+ },
+ {
+  "id": "v3-0358",
+  "hook": "Peaceful (安) and fixed (定): stable."
+ },
+ {
+  "id": "v3-0373",
+  "hook": "Tie (維) and hold (持) it in place: keep it going, maintain."
+ },
+ {
+  "id": "v3-0376",
+  "hook": "A bad (悪) disposition (意地): mean and nasty."
+ },
+ {
+  "id": "v3-0381",
+  "hook": "Great (偉) and big (大): greatness."
+ },
+ {
+  "id": "v3-0390",
+  "hook": "In one (一) time (度): all at once."
+ },
+ {
+  "id": "v3-0393",
+  "hook": "One (一) house (家): the whole family."
+ },
+ {
+  "id": "v3-0398",
+  "hook": "One (一) body (体): one unit; also used for 'what on earth?'"
+ },
+ {
+  "id": "v3-0406",
+  "hook": "Brothers (兄弟) one step down (従) the family tree: your male cousin."
+ },
+ {
+  "id": "v3-0407",
+  "hook": "Sisters (姉妹) one step down (従): your female cousins."
+ },
+ {
+  "id": "v3-0411",
+  "hook": "Differ from (違) and go against (反) the rules: a violation."
+ },
+ {
+  "id": "v3-0412",
+  "hook": "Garment (衣) + clothes (服): clothing."
+ },
+ {
+  "id": "v3-0425",
+  "hook": "祝 means celebrate (like 祝日, a public holiday): to celebrate."
+ },
+ {
+  "id": "v3-0426",
+  "hook": "If (ば) you were to say (言わ) it: so to speak."
+ },
+ {
+  "id": "v3-0430",
+  "hook": "A stamp (印) of an image (象) left in your mind: an impression."
+ },
+ {
+  "id": "v3-0433",
+  "hook": "Pull (引) out someone's words and use (用) them: a quotation."
+ },
+ {
+  "id": "v3-0449",
+  "hook": "訴 has words (言) on the left: use words to complain, appeal or sue."
+ },
+ {
+  "id": "v3-0453",
+  "hook": "奪 means snatch: to rob, to take away."
+ },
+ {
+  "id": "v3-0459",
+  "hook": "Cut (切) someone from behind (裏): betray them."
+ },
+ {
+  "id": "v3-0460",
+  "hook": "羨 means envy: うらやましい, I'm jealous of you."
+ },
+ {
+  "id": "v3-0466",
+  "hook": "Eternal (永) and far away (遠): forever."
+ },
+ {
+  "id": "v3-0467",
+  "hook": "Eternal (永) and long lasting (久): permanent."
+ },
+ {
+  "id": "v3-0470",
+  "hook": "A guard (衛) star (星): a satellite that circles and watches a planet."
+ },
+ {
+  "id": "v3-0473",
+  "hook": "描 has a hand (扌): draw or depict a picture."
+ },
+ {
+  "id": "v3-0493",
+  "hook": "Cut (断) across sideways (横): crossing a road."
+ },
+ {
+  "id": "v3-0495",
+  "hook": "大 means big: in a big way, greatly."
+ },
+ {
+  "id": "v3-0502",
+  "hook": "起 means rise (like 起きる): something rises up, it happens."
+ },
+ {
+  "id": "v3-0509",
+  "hook": "Sound hook: 'Oh, sharp!': someone dressed sharp and stylish."
+ },
+ {
+  "id": "v3-0510",
+  "hook": "喋 has a mouth (口): someone whose mouth never stops, chatter."
+ },
+ {
+  "id": "v3-0512",
+  "hook": "恐 means fear: 'I fear that...', so perhaps, probably."
+ },
+ {
+  "id": "v3-0541",
+  "hook": "Warm (温) + warm (暖): a mild, warm climate."
+ },
+ {
+  "id": "v3-0555",
+  "hook": "Meet (会) and come together (合): a meeting."
+ },
+ {
+  "id": "v3-0556",
+  "hook": "Mixing (交) with the outside (外) world: diplomacy."
+ },
+ {
+  "id": "v3-0557",
+  "hook": "Open (開) + begin (始): the start."
+ },
+ {
+  "id": "v3-0558",
+  "hook": "Untie (解) and explain (釈): how you interpret something."
+ },
+ {
+  "id": "v3-0559",
+  "hook": "Go out (出) outside (外): going out."
+ },
+ {
+  "id": "v3-0573",
+  "hook": "Study (学) of change (化): chemistry, how things change into other things."
+ },
+ {
+  "id": "v3-0579",
+  "hook": "描 has a hand (扌): to draw; sounds like 書く (write)."
+ },
+ {
+  "id": "v3-0588",
+  "hook": "隠 means hide: to conceal something."
+ },
+ {
+  "id": "v3-0589",
+  "hook": "Spread (拡) out big (大): enlarge, zoom in."
+ },
+ {
+  "id": "v3-0591",
+  "hook": "Study (学) and ask questions (問): learning, scholarship."
+ },
+ {
+  "id": "v3-0596",
+  "hook": "Add (加) and subtract (減): adjust until it's just right."
+ },
+ {
+  "id": "v3-0615",
+  "hook": "硬 has stone (石): hard as a stone."
+ },
+ {
+  "id": "v3-0617",
+  "hook": "Each piece (片) gets attached (付く) to its place: tidied up, settled."
+ },
+ {
+  "id": "v3-0628",
+  "hook": "Lively (活) use (用): put to practical use; also verb conjugation."
+ },
+ {
+  "id": "v3-0629",
+  "hook": "Temporarily (仮) fixed (定): an assumption."
+ },
+ {
+  "id": "v3-0631",
+  "hook": "Lessons (課) taken in set stages (程): a course of study."
+ },
+ {
+  "id": "v3-0644",
+  "hook": "The hairs (毛) of your head hair (髪): the hair on your head."
+ },
+ {
+  "id": "v3-0645",
+  "hook": "Department (科) item (目): a school subject."
+ },
+ {
+  "id": "v3-0648",
+  "hook": "Song (歌) + chant (謡): a popular song or ballad."
+ },
+ {
+  "id": "v3-0656",
+  "hook": "Looks like (そう) it needs love (可愛): poor thing."
+ },
+ {
+  "id": "v3-0657",
+  "hook": "Can (可) be loved (愛): lovely, sweet."
+ },
+ {
+  "id": "v3-0674",
+  "hook": "Check (勘) and settle (定): count up the bill."
+ },
+ {
+  "id": "v3-0687",
+  "hook": "Complete (完) and finished (了): done."
+ },
+ {
+  "id": "v3-0689",
+  "hook": "Member (員) of the debate (議): a member of parliament."
+ },
+ {
+  "id": "v3-0693",
+  "hook": "Tool (器) + machine (械): an instrument."
+ },
+ {
+  "id": "v3-0694",
+  "hook": "Debate (議) meeting (会): parliament."
+ },
+ {
+  "id": "v3-0698",
+  "hook": "効 means effect (like 効果): the medicine works."
+ },
+ {
+  "id": "v3-0705",
+  "hook": "Skill (技) master (師): an engineer."
+ },
+ {
+  "id": "v3-0709",
+  "hook": "Air (気) body (体): a gas."
+ },
+ {
+  "id": "v3-0710",
+  "hook": "Return (帰) home (宅): getting home."
+ },
+ {
+  "id": "v3-0711",
+  "hook": "Noble (貴) and weighty (重): precious, valuable."
+ },
+ {
+  "id": "v3-0712",
+  "hook": "Head (長) of the debate (議): the chairman."
+ },
+ {
+  "id": "v3-0720",
+  "hook": "Poison (毒) to your spirit (気): what a pity."
+ },
+ {
+  "id": "v3-0737",
+  "hook": "Sudden (急) and violent (激): sharp and sudden."
+ },
+ {
+  "id": "v3-0738",
+  "hook": "Suck in (吸) and take in (収): absorb."
+ },
+ {
+  "id": "v3-0741",
+  "hook": "Rest (休) and breathe (息): relaxation."
+ },
+ {
+  "id": "v3-0747",
+  "hook": "Conduct (行) + ceremony (儀): manners."
+ },
+ {
+  "id": "v3-0749",
+  "hook": "Teach (教) and give (授) knowledge: a professor."
+ },
+ {
+  "id": "v3-0750",
+  "hook": "Strong (強) tone (調): emphasis."
+ },
+ {
+  "id": "v3-0753",
+  "hook": "Fear (恐) + fright (怖): terror."
+ },
+ {
+  "id": "v3-0755",
+  "hook": "Strong (強) power (力): powerful."
+ },
+ {
+  "id": "v3-0771",
+  "hook": "Money (金) + coins (銭): cash."
+ },
+ {
+  "id": "v3-0772",
+  "hook": "Things belonging (属) to the metal (金) group: metal."
+ },
+ {
+  "id": "v3-0773",
+  "hook": "The near (近) era (代): modern times."
+ },
+ {
+  "id": "v3-0775",
+  "hook": "Sinew (筋) + flesh (肉): muscle."
+ },
+ {
+  "id": "v3-0776",
+  "hook": "Money (金) melting and flowing (融) around: finance."
+ },
+ {
+  "id": "v3-0778",
+  "hook": "食 is eat: a rough, casual way to say eat."
+ },
+ {
+  "id": "v3-0780",
+  "hook": "臭 means bad smell: 'Kusai!' it stinks."
+ },
+ {
+  "id": "v3-0787",
+  "hook": "下 means down: to go down."
+ },
+ {
+  "id": "v3-0792",
+  "hook": "Group (組) together (合): a union."
+ },
+ {
+  "id": "v3-0804",
+  "hook": "Reel it in (繰り) and send it back (返す): do it again and again."
+ },
+ {
+  "id": "v3-0809",
+  "hook": "苦 means suffering, bitter: to suffer."
+ },
+ {
+  "id": "v3-0815",
+  "hook": "加 means add: to be added, to join in."
+ },
+ {
+  "id": "v3-0819",
+  "hook": "Army (軍) squad (隊): troops."
+ },
+ {
+  "id": "v3-0823",
+  "hook": "Respect (敬) in your mind (意): respect."
+ },
+ {
+  "id": "v3-0826",
+  "hook": "Lean (傾) toward (向) something: a tendency."
+ },
+ {
+  "id": "v3-0827",
+  "hook": "Warn (警) and tell (告): a warning."
+ },
+ {
+  "id": "v3-0829",
+  "hook": "Put up (掲) and show (示): a notice on a board."
+ },
+ {
+  "id": "v3-0833",
+  "hook": "Pass through (経) by way of (由): via."
+ },
+ {
+  "id": "v3-0838",
+  "hook": "Change (化) and adorn (粧) your face: makeup."
+ },
+ {
+  "id": "v3-0840",
+  "hook": "Blood (血) liquid (液): blood."
+ },
+ {
+  "id": "v3-0842",
+  "hook": "Lacking (欠) + a pit to fall in (陥): a defect."
+ },
+ {
+  "id": "v3-0853",
+  "hook": "See (見) and understand (解): your point of view."
+ },
+ {
+  "id": "v3-0855",
+  "hook": "Money (金) present (現) in your hand: cash."
+ },
+ {
+  "id": "v3-0859",
+  "hook": "Appear (現) + exist (在): what exists now, the present."
+ },
+ {
+  "id": "v3-0861",
+  "hook": "An image (象) that appears (現): a phenomenon."
+ },
+ {
+  "id": "v3-0863",
+  "hook": "Build (建) and set up (設): construction."
+ },
+ {
+  "id": "v3-0869",
+  "hook": "Constitution (憲) + law (法): the constitution."
+ },
+ {
+  "id": "v3-0874",
+  "hook": "濃 has water (氵): a thick, strong drink or colour."
+ },
+ {
+  "id": "v3-0876",
+  "hook": "Happy (幸) luck (運): good luck."
+ },
+ {
+  "id": "v3-0879",
+  "hook": "Hard (硬) money (貨): a coin."
+ },
+ {
+  "id": "v3-0881",
+  "hook": "Grand (豪) + flowery (華): luxurious."
+ },
+ {
+  "id": "v3-0884",
+  "hook": "Sail (航) through the sky (空): aviation."
+ },
+ {
+  "id": "v3-0887",
+  "hook": "Attack (攻) + strike (撃): an attack."
+ },
+ {
+  "id": "v3-0888",
+  "hook": "Tribute (貢) + offering (献): a contribution."
+ },
+ {
+  "id": "v3-0890",
+  "hook": "Mix (交) with people on occasions (際): friendship, dating."
+ },
+ {
+  "id": "v3-0894",
+  "hook": "Public (公) and correct (正): fair, just."
+ },
+ {
+  "id": "v3-0895",
+  "hook": "Build (構) and form (成): how something is put together."
+ },
+ {
+  "id": "v3-0896",
+  "hook": "High (高) speed (速)."
+ },
+ {
+  "id": "v3-0898",
+  "hook": "A thief (盗) using strength (強): a robber."
+ },
+ {
+  "id": "v3-0900",
+  "hook": "Happiness (幸) + good fortune (福)."
+ },
+ {
+  "id": "v3-0901",
+  "hook": "Public (公) and flat, even (平): fair."
+ },
+ {
+  "id": "v3-0903",
+  "hook": "Think (考) + consider (慮): take into account."
+ },
+ {
+  "id": "v3-0919",
+  "hook": "Overcome (克) and make it submit (服): conquer a problem."
+ },
+ {
+  "id": "v3-0921",
+  "hook": "Grain (穀) things (物): cereals."
+ },
+ {
+  "id": "v3-0923",
+  "hook": "Pepper (椒) from foreign lands (胡): black pepper."
+ },
+ {
+  "id": "v3-0927",
+  "hook": "A country (国) as one house (家): the nation."
+ },
+ {
+  "id": "v3-0929",
+  "hook": "Country (国) boundary (境): a national border."
+ },
+ {
+  "id": "v3-0933",
+  "hook": "異 means different: to differ."
+ },
+ {
+  "id": "v3-0944",
+  "hook": "Small (小) building (屋): a hut."
+ },
+ {
+  "id": "v3-0949",
+  "hook": "Now (今) and after (後): from now on."
+ },
+ {
+  "id": "v3-0952",
+  "hook": "Troubled (困) + difficult (難): hardship."
+ },
+ {
+  "id": "v3-0955",
+  "hook": "Marriage (婚) promise (約): engagement."
+ },
+ {
+  "id": "v3-0961",
+  "hook": "Wealth (財) you produce (産): property."
+ },
+ {
+  "id": "v3-0966",
+  "hook": "Judge (裁) and decide (判): a trial."
+ },
+ {
+  "id": "v3-0977",
+  "hook": "Things (物) you make, grow (作): crops."
+ },
+ {
+  "id": "v3-0985",
+  "hook": "指 is finger: point at it."
+ },
+ {
+  "id": "v3-0990",
+  "hook": "誘 has words (言): use words to invite or tempt."
+ },
+ {
+  "id": "v3-0993",
+  "hook": "Make (作) a tune (曲): compose music."
+ },
+ {
+  "id": "v3-0997",
+  "hook": "Sand (砂) that's vast (漠): a desert."
+ },
+ {
+  "id": "v3-0998",
+  "hook": "Difference (差) + separate (別): treating people differently, discrimination."
+ },
+ {
+  "id": "v3-1006",
+  "hook": "One (一) in ten thousand (万): if by any chance."
+ },
+ {
+  "id": "v3-1010",
+  "hook": "Watch (見) and send off (送り): seeing someone off."
+ },
+ {
+  "id": "v3-1011",
+  "hook": "方 means side: the person on your side, an ally."
+ },
+ {
+  "id": "v3-1032",
+  "hook": "No (無) looking (視): ignore."
+ },
+ {
+  "id": "v3-1034",
+  "hook": "Bug (虫) tooth (歯): a cavity, as if bugs ate it."
+ },
+ {
+  "id": "v3-1035",
+  "hook": "寧 means rather: むしろ, I'd rather do this instead."
+ },
+ {
+  "id": "v3-1044",
+  "hook": "Name (名) + card (刺): a business card."
+ },
+ {
+  "id": "v3-1052",
+  "hook": "Sound hook: 'I met a (めった) ghost? Rarely!': seldom, used with a negative verb."
+ },
+ {
+  "id": "v3-1060",
+  "hook": "Say (申し) and push in (込む): apply for something."
+ },
+ {
+  "id": "v3-1073",
+  "hook": "尤 means indeed, naturally: quite right, that makes sense."
+ },
+ {
+  "id": "v3-1078",
+  "hook": "基 means base (like 基本): to be based on."
+ },
+ {
+  "id": "v3-1081",
+  "hook": "Thing (物) sound (音): a noise."
+ },
+ {
+  "id": "v3-1085",
+  "hook": "Model (模) + style (様): a pattern or design."
+ },
+ {
+  "id": "v3-1098",
+  "hook": "破 means tear, break: tear paper, break a rule, beat a rival."
+ },
+ {
+  "id": "v3-1104",
+  "hook": "Friend (友) + like (好): friendship."
+ },
+ {
+  "id": "v3-1110",
+  "hook": "Have (有) ability (能): capable."
+ },
+ {
+  "id": "v3-1113",
+  "hook": "Have (有) the advantage (利): advantageous."
+ },
+ {
+  "id": "v3-1115",
+  "hook": "Pleasant (愉) + cheerful (快): fun, happy."
+ },
+ {
+  "id": "v3-1123",
+  "hook": "易 means easy (like 簡易): easy, simple."
+ },
+ {
+  "id": "v3-1126",
+  "hook": "Need (要) and seek (求): a demand."
+ },
+ {
+  "id": "v3-1129",
+  "hook": "要 means the main point: in short."
+ },
+ {
+  "id": "v3-1130",
+  "hook": "Key (要) + element (素): an element."
+ },
+ {
+  "id": "v3-1134",
+  "hook": "Expect (期) in advance (予): expectation."
+ },
+ {
+  "id": "v3-1140",
+  "hook": "Measure (測) in advance (予): predict."
+ },
+ {
+  "id": "v3-1144",
+  "hook": "Extra (余) portion (分): surplus."
+ },
+ {
+  "id": "v3-1146",
+  "hook": "Defend (防) in advance (予): prevention."
+ },
+ {
+  "id": "v3-1151",
+  "hook": "因 means cause (like 原因): to come from, be due to."
+ },
+ {
+  "id": "v3-1162",
+  "hook": "Sharp (利) mouth (口): clever."
+ },
+ {
+  "id": "v3-1163",
+  "hook": "Separate (離) the marriage (婚): divorce."
+ },
+ {
+  "id": "v3-1164",
+  "hook": "Reason (理) + idea (想): an ideal."
+ },
+ {
+  "id": "v3-1170",
+  "hook": "Swap (替) both (両) ways: change money."
+ },
+ {
+  "id": "v3-1175",
+  "hook": "Courtesy (礼) + ceremony (儀): good manners."
+ },
+ {
+  "id": "v3-1178",
+  "hook": "A line (列) of cars (車): a train."
+ },
+ {
+  "id": "v3-1181",
+  "hook": "Link (連) + continue (続): one after another, in a row."
+ },
+ {
+  "id": "v3-1186",
+  "hook": "Argue (論) + fight (争): a dispute."
+ },
+ {
+  "id": "v3-1197",
+  "hook": "僅 means a tiny bit: only a little."
+ },
+ {
+  "id": "v3-1201",
+  "hook": "割 means divide (like 割引, discount): to split or break."
+ }
+]

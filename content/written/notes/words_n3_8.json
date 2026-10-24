@@ -1,0 +1,802 @@
+[
+ {
+  "id": "v3-0336",
+  "hook": "粗 means rough or coarse: \"Ah, rough!\" (あら) you groan when you spot the flaw."
+ },
+ {
+  "id": "v3-0423",
+  "hook": "A mountain (山) over a stone (石): a big rock. \"Ee-wah, heavy!\""
+ },
+ {
+  "id": "v3-0440",
+  "hook": "\"Ooh, saggy\" ears? No, a rabbit's long ears stand straight up: うさぎ."
+ },
+ {
+  "id": "v3-0638",
+  "hook": "Tree (木) radical: the stump left of a tree; new shoots grow from it, like stocks in a company."
+ },
+ {
+  "id": "v3-0662",
+  "hook": "Power (力) radical: you just \"can\" (かん) feel it, your sixth sense."
+ },
+ {
+  "id": "v3-0817",
+  "hook": "A cover (冖) over a vehicle (車): war chariots, an army with \"guns\" (ぐん)."
+ },
+ {
+  "id": "v3-1193",
+  "hook": "Flesh (月) radical: your side, where your arms hang. \"Walk-ee\" at someone's side (わき)."
+ },
+ {
+  "id": "v3-1331",
+  "hook": "Clothing (衤) radical: the part of clothes your arm comes out of. \"So, then\" (そで), roll up your sleeves."
+ },
+ {
+  "id": "v3-1417",
+  "hook": "Water runs between two hills to make a valley; \"Tanny\" hikes down into the たに."
+ },
+ {
+  "id": "v3-1571",
+  "hook": "A political party: all members \"tow\" (とう) the same party line."
+ },
+ {
+  "id": "v3-1595",
+  "hook": "\"Doc!\" (どく), I drank poison!"
+ },
+ {
+  "id": "v3-1658",
+  "hook": "Words (言) + lost (迷): words that leave you lost, a riddle. \"Nah, so?\" (なぞ)"
+ },
+ {
+  "id": "v3-1835",
+  "hook": "Thread (糸) radical: a string or cord. \"He moves\" it with a string: ひも."
+ },
+ {
+  "id": "v3-1944",
+  "hook": "Earth (土) radical: dust. \"Ho, Cory!\" Cory sneezes in the dust (ほこり)."
+ },
+ {
+  "id": "v3-1951",
+  "hook": "Head (頁) radical: your cheeks. \"Ho ho!\" (ほほ) says Santa with round red cheeks."
+ },
+ {
+  "id": "v3-1952",
+  "hook": "Head (頁) radical: your cheeks. \"Oh!\" (ほお) you say, hands on your cheeks."
+ },
+ {
+  "id": "v3-2044",
+  "hook": "Altar (礻) + single (単): one quiet mind at the altar, Zen (ぜん)."
+ },
+ {
+  "id": "v3-2120",
+  "hook": "Flesh (月) radical: a thin skin in the body, like the film you peel off a new \"Mac\" (まく) screen."
+ },
+ {
+  "id": "v3-2122",
+  "hook": "Flesh (月) radical: the thigh, where your legs split apart like a fork (また)."
+ },
+ {
+  "id": "v3-0044",
+  "hook": "A tongue sticking out of a mouth (口); it sits \"shita\" (下, below) your nose."
+ },
+ {
+  "id": "v3-0179",
+  "hook": "Body (尸) radical: your bottom. Falling on it looks \"silly\" (しり)."
+ },
+ {
+  "id": "v3-0209",
+  "hook": "Sake jar (酉) radical: drink gone sour turns into vinegar. \"Sue!\" (す) it's sour!"
+ },
+ {
+  "id": "v3-0244",
+  "hook": "Black (黒) over earth (土): black ink made from soot. \"Sue me\" (すみ) for spilling it."
+ },
+ {
+  "id": "v3-0348",
+  "hook": "或 means a certain: 或る日 is \"one day\", some certain day in a story."
+ },
+ {
+  "id": "v3-0351",
+  "hook": "Water (氵) + wrap (包): water wrapped around air, a bubble. \"Ah, wow!\" (あわ)"
+ },
+ {
+  "id": "v3-0361",
+  "hook": "Field (田) over flesh (月): the body part full of food, your stomach. \"Eee!\" (い) it hurts."
+ },
+ {
+  "id": "v3-0474",
+  "hook": "Food (食) radical: food you put out as bait. \"Eh, sir\" (えさ), feed the fish."
+ },
+ {
+  "id": "v3-0548",
+  "hook": "貝 is a picture of a shell. Shells were old money, so 貝 shows up in money kanji."
+ },
+ {
+  "id": "v3-0650",
+  "hook": "Shell or husk; から also means empty (空), like a shell with nothing inside."
+ },
+ {
+  "id": "v3-0653",
+  "hook": "Water (氵) radical: a big river, read かわ like 川 but bigger."
+ },
+ {
+  "id": "v3-0781",
+  "hook": "Metal (金) radical: a metal chain. \"Coo, sorry\" (くさり), you're chained up."
+ },
+ {
+  "id": "v3-0818",
+  "hook": "Lord (君) + village (阝): the land a lord rules, a district."
+ },
+ {
+  "id": "v3-0872",
+  "hook": "Stone (石) radical: the board game played with black and white stones, Go (ご)."
+ },
+ {
+  "id": "v3-0932",
+  "hook": "Jewels (王王) on top: a fine harp, the koto (こと)."
+ },
+ {
+  "id": "v3-0934",
+  "hook": "Words (言) radical: a saying. ことわざ is word (こと) + skill (わざ): skillful words."
+ },
+ {
+  "id": "v3-0941",
+  "hook": "Earth (土) under a deer (鹿): dust kicked up, rubbish. \"Go, me!\" (ごみ) taking out the trash."
+ },
+ {
+  "id": "v3-1042",
+  "hook": "Grass (艹) radical: a sprout poking up from the soil, like a little eye (目, め) opening."
+ },
+ {
+  "id": "v3-1148",
+  "hook": "Woman (女) + house (家): the woman who joins your house, a bride."
+ },
+ {
+  "id": "v3-1204",
+  "hook": "Water (氵) radical: water inside a bend of the coast, a bay. \"One\" (わん) big bay."
+ },
+ {
+  "id": "v3-1205",
+  "hook": "Wood (木) radical: a wooden bowl for miso soup. \"One\" (わん) bowl, please."
+ },
+ {
+  "id": "v3-1216",
+  "hook": "Rice (米) radical: pure like polished white rice; a stylish person is \"eek, cool\" (いき)."
+ },
+ {
+  "id": "v3-1224",
+  "hook": "Water (氵) radical: water spinning in a swirl. Goo \"oozes\" (うず) round the drain."
+ },
+ {
+  "id": "v3-1228",
+  "hook": "Body (尸) + hair (毛): hair at the end of the body, a tail."
+ },
+ {
+  "id": "v3-1236",
+  "hook": "Tree (木) radical: the hard kernel inside a fruit, the core or nucleus."
+ },
+ {
+  "id": "v3-1248",
+  "hook": "Sickness (疒) + rocks (嵒): a hard lump of sickness, cancer."
+ },
+ {
+  "id": "v3-1267",
+  "hook": "Lord (君) + sheep (羊): sheep crowd around their leader, a group."
+ },
+ {
+  "id": "v3-1401",
+  "hook": "\"Ta-da!\" (ただ) it's free, only for you."
+ },
+ {
+  "id": "v3-1525",
+  "hook": "Feathers (羽) on top: wings. \"Tsu-basa\" flaps her wings (つばさ)."
+ },
+ {
+  "id": "v3-1572",
+  "hook": "Earth (土) radical: a tall tower or pagoda; とう sounds like \"tower\"."
+ },
+ {
+  "id": "v3-1626",
+  "hook": "Tiger (虍) radical: a tiger. \"Tora!\" (とら) roars the tiger."
+ },
+ {
+  "id": "v3-1699",
+  "hook": "A picture of a mouse with teeth and tail; its \"nez\" (nose) twitches: ねずみ."
+ },
+ {
+  "id": "v3-1746",
+  "hook": "Earth (土) under a setting sun in grass (莫): earth where life ends, a grave."
+ },
+ {
+  "id": "v3-1767",
+  "hook": "A flag flapping \"hata hata\" (はた) in the wind."
+ },
+ {
+  "id": "v3-1769",
+  "hook": "Clothes (衤) + fruit (果): peeled like fruit, no clothes, your skin (肌, はだ) shows."
+ },
+ {
+  "id": "v3-1913",
+  "hook": "Earth (土) radical: an earth wall or fence. \"Hey!\" (へい) you shout over it."
+ },
+ {
+  "id": "v3-1950",
+  "hook": "Fire (火) on fire (火): a big flame. \"Oh no!\" (ほのお)"
+ },
+ {
+  "id": "v3-1956",
+  "hook": "Water (氵) radical: a ditch dug (掘る, ほる) around a castle and filled with water, a moat."
+ },
+ {
+  "id": "v3-1998",
+  "hook": "Tree (木) + 冊 (slats tied in a row): wooden slats in a line, a fence."
+ },
+ {
+  "id": "v3-2014",
+  "hook": "Blood (血) over people: crowds of people, the masses."
+ },
+ {
+  "id": "v3-2043",
+  "hook": "Flesh (月) + good (善): good food on a small tray, a meal."
+ },
+ {
+  "id": "v3-2062",
+  "hook": "A shield stands upright (縦, たて, vertical) in front of you."
+ },
+ {
+  "id": "v3-2071",
+  "hook": "Rain (雨) + road (路): drops on the road in the morning, dew."
+ },
+ {
+  "id": "v3-2081",
+  "hook": "Tree (木) + east (東): the wooden ridge beam on top of a roof."
+ },
+ {
+  "id": "v3-2098",
+  "hook": "Flesh (月) radical: the lungs. Take a deep breath and say \"Hi!\" (はい)."
+ },
+ {
+  "id": "v3-2107",
+  "hook": "Stone (石) radical: a stone with writing on it, a monument. \"He\" (ひ) is remembered there."
+ },
+ {
+  "id": "v3-2138",
+  "hook": "Tree (木) radical: a wooden frame. \"Walk\" (わく) inside the frame."
+ },
+ {
+  "id": "v3-0002",
+  "hook": "冷 means cold: leave hot tea so it cools; 冷ます is to let it cool."
+ },
+ {
+  "id": "v3-0003",
+  "hook": "覚 means wake or remember: 目を覚ます, to wake someone (or yourself) up."
+ },
+ {
+  "id": "v3-0004",
+  "hook": "冷 means cold: soup left out becomes cool; feelings can cool off too."
+ },
+ {
+  "id": "v3-0073",
+  "hook": "Support (支) + pay (払う): to pay a bill or fee."
+ },
+ {
+  "id": "v3-0081",
+  "hook": "占 means occupy: to take up space, or take up a share of the total."
+ },
+ {
+  "id": "v3-0082",
+  "hook": "Water (氵) radical: to become damp. \"She melts\" (しめる) in the damp heat."
+ },
+ {
+  "id": "v3-0142",
+  "hook": "生 means life or birth: something is born, it arises or occurs."
+ },
+ {
+  "id": "v3-0192",
+  "hook": "Person (亻) + word (言): a person whose word you trust, to believe."
+ },
+ {
+  "id": "v3-0223",
+  "hook": "優 means excellent: to be better than others, to excel."
+ },
+ {
+  "id": "v3-0230",
+  "hook": "Power (力) radical: give someone a push forward, to recommend or urge."
+ },
+ {
+  "id": "v3-0246",
+  "hook": "Water (氵) radical: water becomes clear. Same sound as 住む (live), different meaning."
+ },
+ {
+  "id": "v3-0247",
+  "hook": "Water (氵) + blue (青): clear blue water, to become clear."
+ },
+ {
+  "id": "v3-0248",
+  "hook": "Knife (刂) radical: old printing used carved blocks, to print."
+ },
+ {
+  "id": "v3-0249",
+  "hook": "為 means do or for the sake of: it is just する (to do) written in kanji."
+ },
+ {
+  "id": "v3-0308",
+  "hook": "Words (言) + emperor (帝): when the emperor speaks, you give up arguing."
+ },
+ {
+  "id": "v3-0309",
+  "hook": "Food (食) radical: eat the same food too often and you get tired of it."
+ },
+ {
+  "id": "v3-0313",
+  "hook": "Hand (扌) radical: to lift up; also to deep-fry, like 唐揚げ (からあげ)."
+ },
+ {
+  "id": "v3-0314",
+  "hook": "Hand (手) at the bottom: raise your hand to give examples."
+ },
+ {
+  "id": "v3-0320",
+  "hook": "Sun (日) radical: the sun warms the room up."
+ },
+ {
+  "id": "v3-0321",
+  "hook": "Water (氵) radical: warm water warms you up, like a hot bath."
+ },
+ {
+  "id": "v3-0322",
+  "hook": "Sun (日) radical: to warm something, like the sun heats the air."
+ },
+ {
+  "id": "v3-0328",
+  "hook": "Hand (扌) radical: things you handle with your hands, to treat or deal with."
+ },
+ {
+  "id": "v3-0330",
+  "hook": "当 means hit or right: to hit the target, or put something against it."
+ },
+ {
+  "id": "v3-0343",
+  "hook": "著 means author (著者): to write and publish a book."
+ },
+ {
+  "id": "v3-0345",
+  "hook": "現 means present or real (現在): to appear, to show up for real."
+ },
+ {
+  "id": "v3-0347",
+  "hook": "在 means exist (存在), 有 means have (有名): both read ある, to be or have."
+ },
+ {
+  "id": "v3-0353",
+  "hook": "Heart (忄) + wild (荒): a wild heart, to panic."
+ },
+ {
+  "id": "v3-0382",
+  "hook": "Hand (扌) + wrap (包): hands wrap around it, to hold, or to hold a feeling inside."
+ },
+ {
+  "id": "v3-0439",
+  "hook": "Heavy (重) + power (力): use power to move heavy things."
+ },
+ {
+  "id": "v3-0445",
+  "hook": "Words (言) + hand (寸): fight with words and hands, to attack or take revenge."
+ },
+ {
+  "id": "v3-0446",
+  "hook": "Hand (手) at the bottom: pull the trigger, to shoot."
+ },
+ {
+  "id": "v3-0450",
+  "hook": "写 means copy (写真, photo): your image is copied into the photo."
+ },
+ {
+  "id": "v3-0486",
+  "hook": "Chase (追う) + stick to (付く): chase until you are right behind, to catch up."
+ },
+ {
+  "id": "v3-0492",
+  "hook": "Heart (心) radical: answer from the heart, to respond or comply."
+ },
+ {
+  "id": "v3-0496",
+  "hook": "覀 (cover) on top: put a cover over it, to cover or hide."
+ },
+ {
+  "id": "v3-0501",
+  "hook": "Money (貝) radical: send something valuable, to give a present."
+ },
+ {
+  "id": "v3-0503",
+  "hook": "Push (押す) with your hand: push down and hold, to restrain."
+ },
+ {
+  "id": "v3-0505",
+  "hook": "収 means collect (収入, income): collect things and put them away."
+ },
+ {
+  "id": "v3-0506",
+  "hook": "Thread (糸) + inside (内): put things inside, to store, or to pay (taxes)."
+ },
+ {
+  "id": "v3-0507",
+  "hook": "Water (氵) radical: control the rivers and you govern the land."
+ },
+ {
+  "id": "v3-0515",
+  "hook": "教 means teach: 教える is to teach, 教わる is to be taught."
+ },
+ {
+  "id": "v3-0520",
+  "hook": "Few (少) + power (力): less power, to be worse than others."
+ },
+ {
+  "id": "v3-0525",
+  "hook": "Water (氵) + weak (弱): weak in the water, to drown."
+ },
+ {
+  "id": "v3-0528",
+  "hook": "Hang (掛かる) on someone's eyes (目): come into their sight, polite \"to meet\"."
+ },
+ {
+  "id": "v3-0529",
+  "hook": "A thought (思い) sticks (付く): an idea comes to you."
+ },
+ {
+  "id": "v3-0535",
+  "hook": "及 means reach: let your effect reach others, to cause or exert."
+ },
+ {
+  "id": "v3-0537",
+  "hook": "降 means go down (降りる): to bring something or someone down."
+ },
+ {
+  "id": "v3-0538",
+  "hook": "Sell goods down to shops, wholesale; also to grate, like 大根おろし."
+ },
+ {
+  "id": "v3-0564",
+  "hook": "帰 means return (帰る): to send someone back home."
+ },
+ {
+  "id": "v3-0565",
+  "hook": "Person (亻) radical: one person takes another's place, to substitute."
+ },
+ {
+  "id": "v3-0568",
+  "hook": "反 means against or reverse: wood bends back the other way, to warp."
+ },
+ {
+  "id": "v3-0571",
+  "hook": "Hand (扌) + wrap (包): wrap your arms around it, to carry in your arms."
+ },
+ {
+  "id": "v3-0574",
+  "hook": "Light (光) + army (軍): an army's shining armor, to shine and sparkle."
+ },
+ {
+  "id": "v3-0576",
+  "hook": "Net (罒) radical: caught in the net of a sickness, to catch an illness."
+ },
+ {
+  "id": "v3-0578",
+  "hook": "Hand (扌) radical: use your nails, to scratch."
+ },
+ {
+  "id": "v3-0580",
+  "hook": "Mouth (口) + smell (臭): use your nose, to sniff."
+ },
+ {
+  "id": "v3-0592",
+  "hook": "Hill (阝) radical: hide behind a hill, to be hidden."
+ },
+ {
+  "id": "v3-0595",
+  "hook": "欠 means lack (欠席, absence): something is missing or chipped."
+ },
+ {
+  "id": "v3-0599",
+  "hook": "Enclosure (囗) radical: draw a box around it, to surround."
+ },
+ {
+  "id": "v3-0601",
+  "hook": "重 means heavy or layer: things lie on top of each other."
+ },
+ {
+  "id": "v3-0602",
+  "hook": "重 means layer: you put one thing on top of another."
+ },
+ {
+  "id": "v3-0610",
+  "hook": "Grain (禾) + house (家): grow grain for your house, to earn a living."
+ },
+ {
+  "id": "v3-0611",
+  "hook": "数 means number (数学, math): to count."
+ },
+ {
+  "id": "v3-0632",
+  "hook": "Not (非) + heart (心): a heart saying no, to be sad."
+ },
+ {
+  "id": "v3-0639",
+  "hook": "Clothes (衤) + skin (皮): cover your skin, to wear a hat; also to be covered with."
+ },
+ {
+  "id": "v3-0652",
+  "hook": "Knife (刂) radical: cut grass or hair with a blade."
+ },
+ {
+  "id": "v3-0658",
+  "hook": "乾 means dry (乾燥): to make something dry."
+ },
+ {
+  "id": "v3-0659",
+  "hook": "Water (氵) radical: you have no water, your throat is dry and thirsty."
+ },
+ {
+  "id": "v3-0660",
+  "hook": "Person (亻) radical: one person takes another's place."
+ },
+ {
+  "id": "v3-0715",
+  "hook": "Mind (気) + stick (付く): it sticks in your mind, you notice."
+ },
+ {
+  "id": "v3-0716",
+  "hook": "It enters (入る) your mind (気): you like it."
+ },
+ {
+  "id": "v3-0759",
+  "hook": "嫌 means dislike (嫌い): 嫌う is the verb, to hate."
+ },
+ {
+  "id": "v3-0782",
+  "hook": "Meat (肉) in a storehouse (府): meat left in storage goes bad."
+ },
+ {
+  "id": "v3-0793",
+  "hook": "Thread (糸) radical: tie threads together, to put together or team up (組, group)."
+ },
+ {
+  "id": "v3-0794",
+  "hook": "Water (氵) radical: to scoop up water."
+ },
+ {
+  "id": "v3-0795",
+  "hook": "Sake jar (酉) + ladle (勺): ladle out sake, to pour it for someone."
+ },
+ {
+  "id": "v3-0806",
+  "hook": "Dog (犭) + king (王): a dog acting like a king has gone crazy."
+ },
+ {
+  "id": "v3-0812",
+  "hook": "Power (力) + mouth (口): add your voice and your strength, to add."
+ },
+ {
+  "id": "v3-0813",
+  "hook": "Mouth (口) radical: to hold something in your mouth."
+ },
+ {
+  "id": "v3-0850",
+  "hook": "Foot (足) radical: use your foot, to kick."
+ },
+ {
+  "id": "v3-0909",
+  "hook": "Ice (冫) radical: water turns to ice (氷, こおり), to freeze."
+ },
+ {
+  "id": "v3-0926",
+  "hook": "Run (走) radical: run past it, to go over or beyond."
+ },
+ {
+  "id": "v3-0938",
+  "hook": "Woman (女) + child (子): what you love most, to like or prefer."
+ },
+ {
+  "id": "v3-0946",
+  "hook": "殺 means kill (殺人, murder): to kill."
+ },
+ {
+  "id": "v3-0947",
+  "hook": "Vehicle (車) radical: wheels roll over, and so do you, to fall down."
+ },
+ {
+  "id": "v3-0971",
+  "hook": "Road (辶) radical: walking the wrong way down the road, to go against."
+ },
+ {
+  "id": "v3-0974",
+  "hook": "Clothes (衣) at the bottom: tear the cloth, to split."
+ },
+ {
+  "id": "v3-0983",
+  "hook": "Knife (刂) radical: something sharp gets stuck in."
+ },
+ {
+  "id": "v3-0984",
+  "hook": "Knife (刂) radical: stab or sting with a sharp point."
+ },
+ {
+  "id": "v3-0986",
+  "hook": "Hand (扌) radical: put in with your hand, like flowers in a vase."
+ },
+ {
+  "id": "v3-0987",
+  "hook": "Water (氵) radical: pour a liquid in, like drops or a drink."
+ },
+ {
+  "id": "v3-0988",
+  "hook": "射 means shoot (arrows): light shoots in, to shine."
+ },
+ {
+  "id": "v3-1014",
+  "hook": "Water (氵) radical: water fills to the top, to be full."
+ },
+ {
+  "id": "v3-1024",
+  "hook": "Words (言) radical: a doctor looks and asks questions, to examine a patient."
+ },
+ {
+  "id": "v3-1030",
+  "hook": "Knife (刂) radical: use a knife to peel the skin."
+ },
+ {
+  "id": "v3-1036",
+  "hook": "Grass (艹) on top, fire (灬) below: cook food in steam over a fire."
+ },
+ {
+  "id": "v3-1046",
+  "hook": "命 means order or life (命令, command): to command."
+ },
+ {
+  "id": "v3-1070",
+  "hook": "Hold (持つ) + raise (上げる): hold it and lift it up."
+ },
+ {
+  "id": "v3-1071",
+  "hook": "用 means use (用事, errand): to make use of."
+ },
+ {
+  "id": "v3-1084",
+  "hook": "Fire (火) radical: to make something burn."
+ },
+ {
+  "id": "v3-1096",
+  "hook": "Door (戸) radical: bring someone in your door to work, to hire."
+ },
+ {
+  "id": "v3-1099",
+  "hook": "Stone (石) + skin (皮): a stone tears the skin, to get torn."
+ },
+ {
+  "id": "v3-1116",
+  "hook": "Words (言) radical: politely give way, like handing over your seat."
+ },
+ {
+  "id": "v3-1118",
+  "hook": "Grass (艹) radical: boil vegetables in hot water. \"You'd\" (ゆで) boil them."
+ },
+ {
+  "id": "v3-1122",
+  "hook": "Sake jar (酉) radical: too much drink, you get drunk."
+ },
+ {
+  "id": "v3-1135",
+  "hook": "Side (横) + cut (切る): cut across sideways, to cross."
+ },
+ {
+  "id": "v3-1136",
+  "hook": "Water (氵) radical: dirty water, to make something dirty."
+ },
+ {
+  "id": "v3-1139",
+  "hook": "寄 means come near (寄る): bring things close together."
+ },
+ {
+  "id": "v3-1185",
+  "hook": "Words (言) radical: put your words in order, to argue or discuss."
+ },
+ {
+  "id": "v3-1192",
+  "hook": "分 means divide: the road divides, to branch off."
+ },
+ {
+  "id": "v3-1194",
+  "hook": "Water (氵) + brave (勇): water bravely springs up from the ground, to well up. (Boil is 沸く.)"
+ },
+ {
+  "id": "v3-1208",
+  "hook": "当 means hit: a hit, when you hit the mark."
+ },
+ {
+  "id": "v3-1210",
+  "hook": "宛 is used in 宛先 (address): write who a letter is for."
+ },
+ {
+  "id": "v3-1219",
+  "hook": "傷 means wound (傷, きず): to hurt or damage."
+ },
+ {
+  "id": "v3-1220",
+  "hook": "Fire (火) + little (少): quick cooking over a fire, to stir-fry."
+ },
+ {
+  "id": "v3-1225",
+  "hook": "Earth (土) radical: covered with earth, to be buried or filled."
+ },
+ {
+  "id": "v3-1226",
+  "hook": "産 means birth or produce (生産): to give birth."
+ },
+ {
+  "id": "v3-1229",
+  "hook": "A person (⺈) carrying money (貝): carry a debt, to bear or owe."
+ },
+ {
+  "id": "v3-1239",
+  "hook": "Horse (馬) radical: run fast like a horse."
+ },
+ {
+  "id": "v3-1240",
+  "hook": "Money (貝) radical: put money on it, to bet."
+ },
+ {
+  "id": "v3-1257",
+  "hook": "Bamboo (竹) radical: build with bamboo and wood, to build."
+ },
+ {
+  "id": "v3-1297",
+  "hook": "攻 means attack (攻撃): to attack."
+ },
+ {
+  "id": "v3-1298",
+  "hook": "責 means blame or duty (責任): to blame."
+ },
+ {
+  "id": "v3-1332",
+  "hook": "Person (亻) radical: a person gets ready, to prepare."
+ },
+ {
+  "id": "v3-1333",
+  "hook": "具 means tool (道具): to be equipped with tools."
+ },
+ {
+  "id": "v3-1344",
+  "hook": "Hand (扌) + front (前): line things up in front of you, to be complete or match."
+ },
+ {
+  "id": "v3-1384",
+  "hook": "Person (亻) + arrive (到): to knock a person down."
+ },
+ {
+  "id": "v3-1391",
+  "hook": "Fire (火) radical: cook rice over the fire (炊飯器, rice cooker)."
+ },
+ {
+  "id": "v3-1392",
+  "hook": "Woods (林) over fire (火): burn wood, to build a fire."
+ },
+ {
+  "id": "v3-1393",
+  "hook": "Hand (扌) + wrap (包): wrap someone in your arms, to hug."
+ },
+ {
+  "id": "v3-1404",
+  "hook": "戦 means war (戦争): to fight."
+ },
+ {
+  "id": "v3-1408",
+  "hook": "Stand (立つ) + go up (上がる): to stand up."
+ },
+ {
+  "id": "v3-1410",
+  "hook": "建 means build (建物, building): a building stands."
+ },
+ {
+  "id": "v3-1429",
+  "hook": "Horse (馬) radical: like the Trojan horse, to trick someone."
+ }
+]

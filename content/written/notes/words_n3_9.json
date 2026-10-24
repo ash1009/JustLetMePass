@@ -1,0 +1,394 @@
+[
+ {
+  "id": "v3-1432",
+  "hook": "溜 has the water radical: water that pools and collects (たまる) in one place."
+ },
+ {
+  "id": "v3-1433",
+  "hook": "黙 is black (黒) plus dog (犬): a black dog sitting silent in the dark, saying nothing."
+ },
+ {
+  "id": "v3-1435",
+  "hook": "Words (言) plus a formula (式): you test an idea by trying it out."
+ },
+ {
+  "id": "v3-1436",
+  "hook": "Water (氵) you collect on purpose: ためる is to save up, like a tank you fill."
+ },
+ {
+  "id": "v3-1491",
+  "hook": "散 means scatter: ちらす is to scatter things around on purpose, like throwing paper everywhere."
+ },
+ {
+  "id": "v3-1492",
+  "hook": "散 means scatter: cherry blossoms scatter and fall (ちる) from the tree."
+ },
+ {
+  "id": "v3-1502",
+  "hook": "捕 has the hand radical: a hand catches the thief, so he gets caught (つかまる)."
+ },
+ {
+  "id": "v3-1503",
+  "hook": "掴 has the hand radical (扌): your hand grabs and grasps something tight."
+ },
+ {
+  "id": "v3-1506",
+  "hook": "Attach (付) plus fit together (合): people who stick together keep company with each other."
+ },
+ {
+  "id": "v3-1509",
+  "hook": "就 means take up a position: you settle into a job or a seat (就職 is getting a job)."
+ },
+ {
+  "id": "v3-1510",
+  "hook": "突 means thrust: you poke or strike forward suddenly, like 突然 (suddenly)."
+ },
+ {
+  "id": "v3-1511",
+  "hook": "次 means next: つぐ is to come next, to rank right after someone."
+ },
+ {
+  "id": "v3-1514",
+  "hook": "着 means wear (着る): つける is to put something on, like a mask or a seatbelt."
+ },
+ {
+  "id": "v3-1521",
+  "hook": "繋 has thread (糸) at the bottom: things tied with thread become connected (つながる)."
+ },
+ {
+  "id": "v3-1522",
+  "hook": "Thread (糸) ties things: つなぐ is to tie or connect, like holding hands (手をつなぐ)."
+ },
+ {
+  "id": "v3-1523",
+  "hook": "Thread (糸) joins things: つなげる is to connect one thing to another."
+ },
+ {
+  "id": "v3-1529",
+  "hook": "詰 means pack or cram: you pack things tightly into a box until it is full."
+ },
+ {
+  "id": "v3-1530",
+  "hook": "積 means pile up: snow piles up (雪が積もる) little by little."
+ },
+ {
+  "id": "v3-1549",
+  "hook": "適 means suitable (適当, 適切): てきする is to suit or be right for something."
+ },
+ {
+  "id": "v3-1590",
+  "hook": "Pass through (通り) plus go past (過ぎる): to walk right past a place without stopping."
+ },
+ {
+  "id": "v3-1592",
+  "hook": "溶 has water (氵): you mix paint or powder into water so it dissolves."
+ },
+ {
+  "id": "v3-1594",
+  "hook": "退 means retreat: どく is to step back and get out of the way. どいて means move!"
+ },
+ {
+  "id": "v3-1603",
+  "hook": "Water (氵) appears when ice melts: とける is to melt or dissolve."
+ },
+ {
+  "id": "v3-1620",
+  "hook": "飛 means fly: you make something fly past, so you skip over it (とばす)."
+ },
+ {
+  "id": "v3-1621",
+  "hook": "Fly (飛) plus out (出): to fly or rush out suddenly, like a cat jumping out."
+ },
+ {
+  "id": "v3-1622",
+  "hook": "留 means stop or fasten: you fasten something so it stays in place."
+ },
+ {
+  "id": "v3-1623",
+  "hook": "泊 means stay overnight (一泊 is one night): とめる is to let a friend stay the night."
+ },
+ {
+  "id": "v3-1631",
+  "hook": "Take (取り) plus up (上げる): pick something up, or a teacher takes your phone away."
+ },
+ {
+  "id": "v3-1635",
+  "hook": "取 means take: とれる is when something comes off by itself, like a loose button."
+ },
+ {
+  "id": "v3-1654",
+  "hook": "亡 means dead or gone (死亡): なくす written this way is to lose a person to death."
+ },
+ {
+  "id": "v3-1668",
+  "hook": "鳴 is mouth (口) plus bird (鳥): make a bell sing like a bird, to ring it."
+ },
+ {
+  "id": "v3-1669",
+  "hook": "為 means do or purpose (ために): なる, to become or change into something."
+ },
+ {
+  "id": "v3-1670",
+  "hook": "生 means life and grow: a tree grows and bears fruit (実が生る)."
+ },
+ {
+  "id": "v3-1671",
+  "hook": "馴 has horse (馬): a wild horse slowly gets used to people and becomes tame."
+ },
+ {
+  "id": "v3-1677",
+  "hook": "煮 has fire dots (灬) at the bottom: food on the fire boils and gets cooked."
+ },
+ {
+  "id": "v3-1679",
+  "hook": "握 has the hand radical (扌): grip with your hand, like making an onigiri (おにぎり)."
+ },
+ {
+  "id": "v3-1692",
+  "hook": "抜 means pull out: ぬける is when something comes out or falls out, like hair."
+ },
+ {
+  "id": "v3-1694",
+  "hook": "濡 has water (氵): to make something wet, to soak it."
+ },
+ {
+  "id": "v3-1717",
+  "hook": "乗 means ride (乗る): のせる is to let someone ride, or put something on top."
+ },
+ {
+  "id": "v3-1719",
+  "hook": "覗 has see (見): you secretly look in through a small gap, to peek."
+ },
+ {
+  "id": "v3-1720",
+  "hook": "除 means remove (掃除 is cleaning): のぞく is to take something out, to exclude."
+ },
+ {
+  "id": "v3-1726",
+  "hook": "延 means extend or prolong: のばす is to make something longer, like a deadline."
+ },
+ {
+  "id": "v3-1727",
+  "hook": "伸 means stretch: のびる is to stretch out or grow, like a child getting taller."
+ },
+ {
+  "id": "v3-1728",
+  "hook": "延 means prolong (延長 is extension): のびる here is when time or a date gets longer."
+ },
+ {
+  "id": "v3-1729",
+  "hook": "述 means state: のべる is to say your opinion clearly, as in a speech or essay."
+ },
+ {
+  "id": "v3-1731",
+  "hook": "昇 has the sun (日) on top: the sun rises and goes up (日が昇る)."
+ },
+ {
+  "id": "v3-1732",
+  "hook": "載 means load or print (記載): your name rides (のる) on the page, so it appears in print."
+ },
+ {
+  "id": "v3-1745",
+  "hook": "生 means grow: grass, hair or a baby's teeth grow and spring up (はえる)."
+ },
+ {
+  "id": "v3-1750",
+  "hook": "量 means quantity: はかる is to measure how much, to weigh it."
+ },
+ {
+  "id": "v3-1753",
+  "hook": "吐 is mouth (口) plus earth (土): something comes out of your mouth onto the ground, to throw up."
+ },
+ {
+  "id": "v3-1764",
+  "hook": "外 means outside: はずす is to take something off and put it outside, like glasses."
+ },
+ {
+  "id": "v3-1766",
+  "hook": "外 means outside: はずれる is to come off or miss, to end up outside the target."
+ },
+ {
+  "id": "v3-1777",
+  "hook": "罰 means punishment (罰金 is a fine): ばっする is to punish someone."
+ },
+ {
+  "id": "v3-1785",
+  "hook": "離 means separate (距離 is distance): はなす is to move things apart."
+ },
+ {
+  "id": "v3-1788",
+  "hook": "放 means release (放す): はなれる written this way is to break free and get away."
+ },
+ {
+  "id": "v3-1795",
+  "hook": "Flow (流) plus go (行): a fashion that flows and goes everywhere is popular."
+ },
+ {
+  "id": "v3-1823",
+  "hook": "Pull (引) plus stretch (張): to pull hard and drag something along."
+ },
+ {
+  "id": "v3-1836",
+  "hook": "冷 means cold: ひやす is to make something cold, like putting a drink in the fridge."
+ },
+ {
+  "id": "v3-1846",
+  "hook": "広 means wide: ひろがる is to become wider, to spread out."
+ },
+ {
+  "id": "v3-1848",
+  "hook": "広 means wide: ひろめる is to make something widely known, to spread it."
+ },
+ {
+  "id": "v3-1862",
+  "hook": "深 means deep: ふかまる is to become deeper, like a friendship or autumn."
+ },
+ {
+  "id": "v3-1864",
+  "hook": "拭 has the hand radical (扌): your hand wipes the table with a cloth."
+ },
+ {
+  "id": "v3-1866",
+  "hook": "含 has a mouth (口) under a lid: something held inside the mouth, so it contains it."
+ },
+ {
+  "id": "v3-1867",
+  "hook": "含 means contain: ふくめる is to include something, to put it in the group."
+ },
+ {
+  "id": "v3-1937",
+  "hook": "吠 is mouth (口) plus dog (犬): a dog opens its mouth and barks."
+ },
+ {
+  "id": "v3-1954",
+  "hook": "Tiny (微) plus laugh (笑): a small laugh, a gentle smile."
+ },
+ {
+  "id": "v3-1968",
+  "hook": "巻 means roll or scroll: まく is to wind or roll something, like a scarf or sushi roll."
+ },
+ {
+  "id": "v3-1969",
+  "hook": "蒔 is grass (艹) plus time (時): at the right time you sow seeds for plants."
+ },
+ {
+  "id": "v3-1970",
+  "hook": "撒 has the hand radical (扌): your hand throws water or seeds all around, to scatter."
+ },
+ {
+  "id": "v3-1976",
+  "hook": "混 means mix (混雑 is crowded): まざる is when things get mixed together."
+ },
+ {
+  "id": "v3-1977",
+  "hook": "交 means cross or mix (交差点 is a crossing): different things mix but stay separate."
+ },
+ {
+  "id": "v3-1978",
+  "hook": "混 means mix: まじる is to be mixed in, like water and paint blending."
+ },
+ {
+  "id": "v3-1979",
+  "hook": "交 means cross: まじる here is to mingle, like one person mixed into a crowd."
+ },
+ {
+  "id": "v3-1980",
+  "hook": "増 means increase (増える): ます is to grow more, to gain."
+ },
+ {
+  "id": "v3-1985",
+  "hook": "交 means cross or mix: まぜる is to mix things in, like cards in a deck."
+ },
+ {
+  "id": "v3-1999",
+  "hook": "裂 has clothes (衣) at the bottom: cloth that rips and splits open."
+ },
+ {
+  "id": "v3-2049",
+  "hook": "沿 has water (氵): you walk along beside a river, following its line."
+ },
+ {
+  "id": "v3-2060",
+  "hook": "高 means high: たかまる is to become higher, to rise, like hopes or tension."
+ },
+ {
+  "id": "v3-2070",
+  "hook": "摘 has the hand radical (扌): your fingers pick flowers or tea leaves."
+ },
+ {
+  "id": "v3-2072",
+  "hook": "強 means strong: つよまる is to become stronger, like wind or rain."
+ },
+ {
+  "id": "v3-2073",
+  "hook": "強 means strong: つよめる is to make something stronger, to emphasize it."
+ },
+ {
+  "id": "v3-2080",
+  "hook": "問 is a mouth (口) at a gate (門): someone at the gate asks a question (問題)."
+ },
+ {
+  "id": "v3-2087",
+  "hook": "説 means explain (説明 is explanation): とく is to explain or preach an idea."
+ },
+ {
+  "id": "v3-2088",
+  "hook": "綴 has thread (糸): you bind pages together with thread, or file papers."
+ },
+ {
+  "id": "v3-2091",
+  "hook": "慣 means get used to (慣れる): ならす is to make someone used to something."
+ },
+ {
+  "id": "v3-2092",
+  "hook": "馴 has horse (馬): you train a horse so it becomes tame."
+ },
+ {
+  "id": "v3-2097",
+  "hook": "臨 means face or be present (臨時 is temporary): you face the sea, or attend an event."
+ },
+ {
+  "id": "v3-2100",
+  "hook": "映 has the sun (日): sunlight makes things shine and look beautiful."
+ },
+ {
+  "id": "v3-2101",
+  "hook": "諮 has words (言): you use words to ask others for advice, to consult."
+ },
+ {
+  "id": "v3-2102",
+  "hook": "図 means plan or drawing (地図 is map): はかる is to plan or try to achieve something."
+ },
+ {
+  "id": "v3-2103",
+  "hook": "生 means grow: はやす is to let something grow, like a beard."
+ },
+ {
+  "id": "v3-2110",
+  "hook": "広 means wide: ひろまる is when news spreads widely by itself."
+ },
+ {
+  "id": "v3-2111",
+  "hook": "深 means deep: ふかめる is to make something deeper, like your knowledge."
+ },
+ {
+  "id": "v3-2114",
+  "hook": "経 means pass through (経験 is experience): へる is to pass through time or places."
+ },
+ {
+  "id": "v3-2125",
+  "hook": "See (見) plus hang (掛ける): something catches on your eyes, so you happen to see it."
+ },
+ {
+  "id": "v3-2126",
+  "hook": "捲 is hand (扌) plus roll (巻): your hand rolls back pages, to turn them over."
+ },
+ {
+  "id": "v3-2134",
+  "hook": "弱 means weak: よわまる is to become weaker, like a storm dying down."
+ },
+ {
+  "id": "v3-2135",
+  "hook": "弱 means weak: よわめる is to make something weaker, like turning down a fire."
+ }
+]

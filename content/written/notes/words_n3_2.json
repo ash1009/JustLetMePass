@@ -1,0 +1,802 @@
+[
+ {
+  "id": "v3-1808",
+  "hook": "灯 has fire (火) on the left: a small fire that gives light, like a lamp."
+ },
+ {
+  "id": "v3-0243",
+  "hook": "角 is an angle; where two walls meet at an angle is the corner."
+ },
+ {
+  "id": "v3-0295",
+  "hook": "Sounds like \"I\" in \"I love you\": 愛 is love."
+ },
+ {
+  "id": "v3-0417",
+  "hook": "Not (不) over a mouth (口): a mouth saying not, いや, no!"
+ },
+ {
+  "id": "v3-0522",
+  "hook": "A band or sash: the obi is the wide belt tied around a kimono."
+ },
+ {
+  "id": "v3-1235",
+  "hook": "角 means angle: 三角 is a triangle, three angles."
+ },
+ {
+  "id": "v3-0109",
+  "hook": "Hand (手) + skill (術): a doctor's skilled hands doing an operation."
+ },
+ {
+  "id": "v3-0201",
+  "hook": "Person (人) + thing (物): what kind of thing a person is, their character."
+ },
+ {
+  "id": "v3-0227",
+  "hook": "過 means pass: you pass your time, spend the holidays."
+ },
+ {
+  "id": "v3-0277",
+  "hook": "Control (制) + rule or measure (度): the rules that control things, a system."
+ },
+ {
+  "id": "v3-0344",
+  "hook": "現 means appear: what appears outside is a sign of what is inside."
+ },
+ {
+  "id": "v3-0379",
+  "hook": "From (以) before (前): in the past, earlier."
+ },
+ {
+  "id": "v3-0385",
+  "hook": "痛 has the sickness sign (疒): the feeling of being sick or hurt, pain."
+ },
+ {
+  "id": "v3-0419",
+  "hook": "Depend on (依) + rely on (頼): you rely on someone, so you make a request."
+ },
+ {
+  "id": "v3-0429",
+  "hook": "Stamp or mark (印) + print (刷): stamping marks onto paper, printing."
+ },
+ {
+  "id": "v3-0468",
+  "hook": "Shadow (影) + echo (響): one thing follows another like a shadow or echo, influence."
+ },
+ {
+  "id": "v3-0676",
+  "hook": "感 has heart (心) at the bottom: what your heart feels, to feel."
+ },
+ {
+  "id": "v3-0718",
+  "hook": "Write down (記) + thought (念): writing it down to keep the memory, commemoration."
+ },
+ {
+  "id": "v3-0734",
+  "hook": "球 has jewel (王, a form of 玉) on the left: a round jewel, a ball."
+ },
+ {
+  "id": "v3-0739",
+  "hook": "Save (救) + help (助): saving and helping people, a rescue."
+ },
+ {
+  "id": "v3-0810",
+  "hook": "暮 has the sun (日) sinking at the bottom: the day or year getting dark, the year end."
+ },
+ {
+  "id": "v3-0924",
+  "hook": "Individual (個) + person (人): one single person, an individual."
+ },
+ {
+  "id": "v3-1039",
+  "hook": "Inside (中) a dream (夢): so into something it feels like a dream, totally hooked."
+ },
+ {
+  "id": "v3-1058",
+  "hook": "Face (面) + fall over (倒): your face falls, what a bother, trouble."
+ },
+ {
+  "id": "v3-1103",
+  "hook": "Brave (勇) + spirit (気): a brave spirit, courage."
+ },
+ {
+  "id": "v3-1121",
+  "hook": "Night (夜) + get bright (明け): when the night opens into light, dawn."
+ },
+ {
+  "id": "v3-1124",
+  "hook": "Contain (容) + vessel (器): a thing that holds stuff, a container."
+ },
+ {
+  "id": "v3-1182",
+  "hook": "Old (老) + person (人): an old person."
+ },
+ {
+  "id": "v3-1188",
+  "hook": "輪 has car (車) on the left: a wheel, so a ring or circle."
+ },
+ {
+  "id": "v3-1303",
+  "hook": "All (全) + country (国): the whole country, nationwide."
+ },
+ {
+  "id": "v3-1356",
+  "hook": "Body (体) + raise or grow (育): growing your body, P.E. class."
+ },
+ {
+  "id": "v3-1390",
+  "hook": "宅 has a roof (宀) on top: a roof over you, your house."
+ },
+ {
+  "id": "v3-1426",
+  "hook": "球 means ball: a round たま, like a ball you throw."
+ },
+ {
+  "id": "v3-1427",
+  "hook": "弾 has bow (弓) on the left: what flies from a bow or gun, a bullet."
+ },
+ {
+  "id": "v3-1484",
+  "hook": "Look into (調) + check (査): checking things carefully, a survey or investigation."
+ },
+ {
+  "id": "v3-1517",
+  "hook": "続 means continue: the part that continues, the sequel."
+ },
+ {
+  "id": "v3-1576",
+  "hook": "That (当) + time (時): at that time, in those days."
+ },
+ {
+  "id": "v3-1706",
+  "hook": "Year (年) + age (齢, which has tooth 歯): count years like teeth, your age."
+ },
+ {
+  "id": "v3-1709",
+  "hook": "Farming (農) + house (家): a farming house, a farmer's family."
+ },
+ {
+  "id": "v3-1741",
+  "hook": "Hand out (配) + reach (達): handing things out until they reach you, delivery."
+ },
+ {
+  "id": "v3-1840",
+  "hook": "Judge (評) + value (価): judging the value of something, an evaluation."
+ },
+ {
+  "id": "v3-1875",
+  "hook": "Lady (婦, has woman 女) + person (人): a woman, a lady."
+ },
+ {
+  "id": "v3-1893",
+  "hook": "Section (部) + divide (分): a divided section, a part."
+ },
+ {
+  "id": "v3-1922",
+  "hook": "Change (変) + change again (更): changing the plan, a modification."
+ },
+ {
+  "id": "v3-0487",
+  "hook": "Three lines (heaven, people, earth) joined by one line: the king who connects them."
+ },
+ {
+  "id": "v3-0970",
+  "hook": "境 has earth (土) on the left: where one piece of land ends, the border."
+ },
+ {
+  "id": "v3-1114",
+  "hook": "Wood (木) under a roof (广): the wooden floor of a house."
+ },
+ {
+  "id": "v3-1927",
+  "hook": "棒 has tree (木) on the left: a long piece of wood, a pole or stick."
+ },
+ {
+  "id": "v3-0593",
+  "hook": "景 (view) + light rays (彡): where the light is blocked, a shadow."
+ },
+ {
+  "id": "v3-1003",
+  "hook": "九 with a dot: picture a dot rolling round and round, a circle, まる."
+ },
+ {
+  "id": "v3-1015",
+  "hook": "密 has a roof (宀) over a mountain (山): things packed close together, thick, dense."
+ },
+ {
+  "id": "v3-1172",
+  "hook": "例 has person (亻) on the left: one person shown as an example."
+ },
+ {
+  "id": "v3-1352",
+  "hook": "他 has person (亻): that other person over there, so \"other\"."
+ },
+ {
+  "id": "v3-1389",
+  "hook": "A jewel (玉) under a roof (宀): treasure kept safe in the house."
+ },
+ {
+  "id": "v3-1942",
+  "hook": "他 has person (亻): someone else, so ほか means other, else."
+ },
+ {
+  "id": "v3-0036",
+  "hook": "Thing (事) + real (実): a real thing that happened, a fact."
+ },
+ {
+  "id": "v3-0063",
+  "hook": "Branch (支) + shop (店): a branch shop or office."
+ },
+ {
+  "id": "v3-0140",
+  "hook": "A little (少) twice (々): just a little bit, polite for 少し."
+ },
+ {
+  "id": "v3-0259",
+  "hook": "Nature (性) + standard (格): your nature, your character."
+ },
+ {
+  "id": "v3-0272",
+  "hook": "Become (成) + achievements (績): the results you achieve at school, your grades."
+ },
+ {
+  "id": "v3-0341",
+  "hook": "表 means surface: you bring feelings to the surface, to express."
+ },
+ {
+  "id": "v3-0363",
+  "hook": "Thought (意) + outside (外): outside what you thought, unexpected."
+ },
+ {
+  "id": "v3-0414",
+  "hook": "今 means now: soon it will be \"now\", before long."
+ },
+ {
+  "id": "v3-0424",
+  "hook": "祝 has the altar sign (礻): praying at the altar for good things, a celebration."
+ },
+ {
+  "id": "v3-0489",
+  "hook": "Respond (応) + help (援): answering with help, cheering someone on."
+ },
+ {
+  "id": "v3-0572",
+  "hook": "Value (価) + standard (格): the set value, the price."
+ },
+ {
+  "id": "v3-0584",
+  "hook": "Wake up (覚) + realize (悟): you see clearly and are ready, resolution."
+ },
+ {
+  "id": "v3-0606",
+  "hook": "House (家) + work or matter (事): house work, housework."
+ },
+ {
+  "id": "v3-0695",
+  "hook": "Set time (期) + interval (間): the time between two points, a period."
+ },
+ {
+  "id": "v3-0764",
+  "hook": "Discuss (議) + argue (論): talking ideas through, a discussion."
+ },
+ {
+  "id": "v3-0897",
+  "hook": "Go (行) + move (動): going and moving, your actions."
+ },
+ {
+  "id": "v3-0911",
+  "hook": "Mistake (誤) + understand (解): understanding wrongly, a misunderstanding."
+ },
+ {
+  "id": "v3-0918",
+  "hook": "Black (黒) + board (板): a blackboard."
+ },
+ {
+  "id": "v3-0935",
+  "hook": "断 means cut off: you cut off the request, you refuse."
+ },
+ {
+  "id": "v3-1027",
+  "hook": "向 means face toward: the place facing you, across the street."
+ },
+ {
+  "id": "v3-1092",
+  "hook": "Role (役) + divide (割): dividing up the roles, your part or duty."
+ },
+ {
+  "id": "v3-1117",
+  "hook": "豊 looks like a dish piled high with food: plenty, rich."
+ },
+ {
+  "id": "v3-1374",
+  "hook": "Stand in for (代) + show (表): someone who stands in for the group, a representative."
+ },
+ {
+  "id": "v3-1447",
+  "hook": "Carry on your shoulder (担) + assigned (当): the job on your shoulders, in charge."
+ },
+ {
+  "id": "v3-1468",
+  "hook": "Land (地) + direction (方): land out in some direction, a region."
+ },
+ {
+  "id": "v3-1478",
+  "hook": "Stay (駐, has horse 馬) + car (車): where horses once stopped, now cars, parking."
+ },
+ {
+  "id": "v3-1486",
+  "hook": "Top of the head (頂) + up (上): the very top, the summit."
+ },
+ {
+  "id": "v3-1515",
+  "hook": "伝 means pass on: to be passed on, handed down."
+ },
+ {
+  "id": "v3-1757",
+  "hook": "Wide (博) + things (物) + building (館): a building with a wide range of things, a museum."
+ },
+ {
+  "id": "v3-1918",
+  "hook": "減 has water (氵): the water level going down, to decrease."
+ },
+ {
+  "id": "v3-1040",
+  "hook": "胸 has the body part sign (月): the body part at the front, the chest."
+ },
+ {
+  "id": "v3-1076",
+  "hook": "素 has thread (糸) at the bottom: raw thread, the plain basic stuff, the base."
+ },
+ {
+  "id": "v3-1796",
+  "hook": "腹 has the body part sign (月): the belly."
+ },
+ {
+  "id": "v3-0332",
+  "hook": "穴 has a roof (宀) with an opening (八): a cave, a hole."
+ },
+ {
+  "id": "v3-0543",
+  "hook": "可 means can, OK: a grade that says \"OK, you pass\"."
+ },
+ {
+  "id": "v3-0613",
+  "hook": "肩 has the body part sign (月) under 戸: the body part at the top of your arm, the shoulder."
+ },
+ {
+  "id": "v3-0797",
+  "hook": "Person (亻) + stand (立): where a person stands, their rank."
+ },
+ {
+  "id": "v3-1973",
+  "hook": "Child (子) + line (系): the child who continues the family line, a grandchild."
+ },
+ {
+  "id": "v3-0064",
+  "hook": "Point (指) + guide (導): pointing the way and guiding, coaching."
+ },
+ {
+  "id": "v3-0085",
+  "hook": "Borrow (借) + money (金): borrowed money, debt."
+ },
+ {
+  "id": "v3-0094",
+  "hook": "Take up (就) + job (職): taking up a job, finding work."
+ },
+ {
+  "id": "v3-0100",
+  "hook": "Live (住) + house (宅): a house you live in, housing."
+ },
+ {
+  "id": "v3-0105",
+  "hook": "Heavy (重) + needed (要): heavy and needed, important."
+ },
+ {
+  "id": "v3-0106",
+  "hook": "Fix (修) + put in order (理): fixing it properly, repair."
+ },
+ {
+  "id": "v3-0112",
+  "hook": "Main (主) + stretch (張): stretching out your main point, a claim."
+ },
+ {
+  "id": "v3-0127",
+  "hook": "章 has sound (音) on top: a piece of music or writing, a chapter."
+ },
+ {
+  "id": "v3-0135",
+  "hook": "Item (条) + matter (件): the items you must meet, the conditions."
+ },
+ {
+  "id": "v3-0143",
+  "hook": "State (状) + look (態): how things look now, the condition."
+ },
+ {
+  "id": "v3-0196",
+  "hook": "Heart (心) + body organ (臓): the heart."
+ },
+ {
+  "id": "v3-0325",
+  "hook": "Hits (当たり) right in front (前) of you: so obvious, of course."
+ },
+ {
+  "id": "v3-0352",
+  "hook": "合 means fit together: to put together, to combine."
+ },
+ {
+  "id": "v3-0479",
+  "hook": "Stretch (延) + set date (期): stretching the date out, postponement."
+ },
+ {
+  "id": "v3-0504",
+  "hook": "幼 is small thread (幺) + power (力): little strength, very young."
+ },
+ {
+  "id": "v3-0603",
+  "hook": "飾 has food (食) on the left: like making food look nice, decoration."
+ },
+ {
+  "id": "v3-0627",
+  "hook": "Lively (活) + leap (躍): leaping into lively action, being active."
+ },
+ {
+  "id": "v3-0630",
+  "hook": "Pass (過) + stage (程): the stages you pass through, the process."
+ },
+ {
+  "id": "v3-0673",
+  "hook": "Be ill (患) + person (者): a person who is ill, a patient."
+ },
+ {
+  "id": "v3-0719",
+  "hook": "Machine (機) + ability (能): what a machine can do, its function."
+ },
+ {
+  "id": "v3-0768",
+  "hook": "Money (金) + amount (額): the amount of money."
+ },
+ {
+  "id": "v3-0814",
+  "hook": "詳 has words (言): lots of words that give detail, detailed."
+ },
+ {
+  "id": "v3-0920",
+  "hook": "Country (国) + people (民): the people of a country, citizens."
+ },
+ {
+  "id": "v3-0962",
+  "hook": "Most (最) + end (終): the very end, the last."
+ },
+ {
+  "id": "v3-0982",
+  "hook": "支 means support: like a branch holding something up, to support."
+ },
+ {
+  "id": "v3-1018",
+  "hook": "Land (土) + product (産): a product from the place you visited, a souvenir."
+ },
+ {
+  "id": "v3-1022",
+  "hook": "Not yet (未) + come (来): what has not come yet, the future."
+ },
+ {
+  "id": "v3-1048",
+  "hook": "Command (命) + order (令): an order you must follow, a command."
+ },
+ {
+  "id": "v3-1056",
+  "hook": "Excuse (免) + allow (許): officially allowed to do something, a license."
+ },
+ {
+  "id": "v3-1063",
+  "hook": "燃 has fire (火): on fire, to burn."
+ },
+ {
+  "id": "v3-1065",
+  "hook": "Eye (目) + mark (標): the mark you keep your eye on, a target."
+ },
+ {
+  "id": "v3-1279",
+  "hook": "After (後) + regret (悔): the bad feeling that comes after, regret."
+ },
+ {
+  "id": "v3-1305",
+  "hook": "Before (先) + day (日): a day before now, the other day."
+ },
+ {
+  "id": "v3-1323",
+  "hook": "Low (氐) under a roof (广): the lowest part, the bottom."
+ },
+ {
+  "id": "v3-1360",
+  "hook": "In exchange for (代) + money (金): the money you give in exchange, the price."
+ },
+ {
+  "id": "v3-1377",
+  "hook": "Catch up to (逮) + capture (捕): chase and catch, an arrest."
+ },
+ {
+  "id": "v3-1399",
+  "hook": "助 has power (力): giving your power to someone, to help."
+ },
+ {
+  "id": "v3-1434",
+  "hook": "試 means try or test: a try, a trial."
+ },
+ {
+  "id": "v3-1441",
+  "hook": "Single (単) + word (語): a single word, vocabulary."
+ },
+ {
+  "id": "v3-1449",
+  "hook": "単 means single, simple: simply, merely."
+ },
+ {
+  "id": "v3-1456",
+  "hook": "Ground (地) + below (下): below the ground, underground or basement."
+ },
+ {
+  "id": "v3-1466",
+  "hook": "Know (知) + ability (能): the ability to know, intelligence."
+ },
+ {
+  "id": "v3-1485",
+  "hook": "Tune (調): how well you are tuned today, your condition."
+ },
+ {
+  "id": "v3-1520",
+  "hook": "務 has power (力): putting your strength into work, your duty."
+ },
+ {
+  "id": "v3-1531",
+  "hook": "Plum (梅) + rain (雨): the rain that comes when plums ripen, rainy season."
+ },
+ {
+  "id": "v3-1543",
+  "hook": "Stop (停) + electricity (電): the power stops, a blackout."
+ },
+ {
+  "id": "v3-1545",
+  "hook": "Stop (停) + stay (留) + place (所): the place where buses stop and wait."
+ },
+ {
+  "id": "v3-1583",
+  "hook": "Throw (投) + ballot slip (票): throwing in your paper slip, voting."
+ },
+ {
+  "id": "v3-1625",
+  "hook": "共 means together: together, with each other."
+ },
+ {
+  "id": "v3-1691",
+  "hook": "抜 has hand (扌): pull out with your hand, to extract."
+ },
+ {
+  "id": "v3-1738",
+  "hook": "Plum (梅, ばい) + rain (雨, う): plum rain, the rainy season."
+ },
+ {
+  "id": "v3-1842",
+  "hook": "Show (表) + feeling (情): feelings shown on your face, a facial expression."
+ },
+ {
+  "id": "v3-1844",
+  "hook": "Comment (評) + judgment (判): what people judge about you, your reputation."
+ },
+ {
+  "id": "v3-1871",
+  "hook": "No (無) + matter (事): nothing bad happened, safe and sound."
+ },
+ {
+  "id": "v3-1882",
+  "hook": "Normal (普) + step (段): your normal steps, usually."
+ },
+ {
+  "id": "v3-1884",
+  "hook": "打 has hand (扌): strike with your hand, to hit."
+ },
+ {
+  "id": "v3-1896",
+  "hook": "増 has earth (土): adding more earth to the pile, to increase."
+ },
+ {
+  "id": "v3-1902",
+  "hook": "振 has hand (扌): moving your hand back and forth, to wave or shake."
+ },
+ {
+  "id": "v3-1931",
+  "hook": "Treasure (宝) + stone (石): a treasure stone, a jewel."
+ },
+ {
+  "id": "v3-1995",
+  "hook": "True (真) + resemble (似): making it look like the real one, imitation."
+ },
+ {
+  "id": "v3-2002",
+  "hook": "し is death; that is why 4 (し) is an unlucky number in Japan."
+ },
+ {
+  "id": "v3-2063",
+  "hook": "例 means example: たとえ, for example."
+ },
+ {
+  "id": "v3-2132",
+  "hook": "良 means good: よい is the formal form of いい, good."
+ },
+ {
+  "id": "v3-0521",
+  "hook": "鬼 is a figure with a big scary head (田 shape): an ogre, a demon."
+ },
+ {
+  "id": "v3-1168",
+  "hook": "量 means measure: how much there is, the amount."
+ },
+ {
+  "id": "v3-1206",
+  "hook": "碗 has stone (石): a stone or pottery bowl."
+ },
+ {
+  "id": "v3-1695",
+  "hook": "根 has tree (木): the part of the tree under the ground, the root."
+ },
+ {
+  "id": "v3-1770",
+  "hook": "Fire (火) + rice field (田): a field cleared with fire, a dry farm field."
+ },
+ {
+  "id": "v3-1949",
+  "hook": "骨 has the body part sign (月) at the bottom: the hard part of the body, bone."
+ },
+ {
+  "id": "v3-0181",
+  "hook": "印 means stamp, mark: a mark or sign that shows something."
+ },
+ {
+  "id": "v3-0908",
+  "hook": "Water (水) with an extra dot: water that has frozen, ice."
+ },
+ {
+  "id": "v3-1227",
+  "hook": "縁 has thread (糸): a thread tying people together, a relationship or fate."
+ },
+ {
+  "id": "v3-1419",
+  "hook": "種 has grain (禾): a grain you plant, a seed."
+ },
+ {
+  "id": "v3-1883",
+  "hook": "縁 has thread (糸): the thread sewn along the edge, the rim."
+ },
+ {
+  "id": "v3-0034",
+  "hook": "Time (時) + carve (刻): a time marked like a notch, the exact time."
+ },
+ {
+  "id": "v3-0038",
+  "hook": "Matter (事) + feeling (情): the facts and feelings around it, the circumstances."
+ },
+ {
+  "id": "v3-0059",
+  "hook": "実 means real, true: truly, indeed."
+ },
+ {
+  "id": "v3-0125",
+  "hook": "Use (使) + use (用): using something, use."
+ },
+ {
+  "id": "v3-0134",
+  "hook": "State (状) + situation (況): the state of things, the situation."
+ },
+ {
+  "id": "v3-0149",
+  "hook": "Accept (承) + recognize (認): accepting and recognizing, approval."
+ },
+ {
+  "id": "v3-0157",
+  "hook": "Proof (証) + clear (明): making it clear with proof, verification."
+ },
+ {
+  "id": "v3-0188",
+  "hook": "Person (人) + craft (工): made by people's work, artificial."
+ },
+ {
+  "id": "v3-0190",
+  "hook": "Examine (診) + inspect (察): the doctor checks you, a medical exam."
+ },
+ {
+  "id": "v3-0203",
+  "hook": "Close (親) + friend (友): a close friend."
+ },
+ {
+  "id": "v3-0274",
+  "hook": "Too much (贅) + plenty (沢): far more than needed, luxury."
+ },
+ {
+  "id": "v3-0289",
+  "hook": "World (世) + between (間): the space between people in the world, society."
+ },
+ {
+  "id": "v3-0296",
+  "hook": "Each other (相) + not changing (変わらず): still not changed, as usual."
+ },
+ {
+  "id": "v3-0307",
+  "hook": "明 means bright: clear as bright light, obvious."
+ },
+ {
+  "id": "v3-0415",
+  "hook": "今にも is \"even now\": it could happen even now, any moment."
+ },
+ {
+  "id": "v3-0517",
+  "hook": "穏 means calm: calm and gentle."
+ },
+ {
+  "id": "v3-0531",
+  "hook": "主 means main: mainly."
+ },
+ {
+  "id": "v3-0542",
+  "hook": "Warm (温) + degree (度): degrees of warmth, temperature."
+ },
+ {
+  "id": "v3-0553",
+  "hook": "Meet (会) + count (計): counting the money together, the accounts or bill."
+ },
+ {
+  "id": "v3-0567",
+  "hook": "換 has hand (扌): swap something from hand to hand, to exchange."
+ },
+ {
+  "id": "v3-0569",
+  "hook": "香 is grain (禾) over sun (日): the smell of grain in the sun, a fragrance."
+ },
+ {
+  "id": "v3-0633",
+  "hook": "必ず means always: with しも and a negative, not always."
+ },
+ {
+  "id": "v3-0637",
+  "hook": "Can (可) + ability (能): you have the ability, so it is possible."
+ },
+ {
+  "id": "v3-0736",
+  "hook": "Rest (休) + catch your breath (憩, has 息): a break."
+ },
+ {
+  "id": "v3-0769",
+  "hook": "Money (金) + storehouse (庫): a store for money, a safe."
+ },
+ {
+  "id": "v3-0811",
+  "hook": "Bitter (苦) + labour (労): hard, bitter work, hardship."
+ },
+ {
+  "id": "v3-0830",
+  "hook": "Punishment (刑) + matter (事): crime matters, a police detective."
+ },
+ {
+  "id": "v3-0858",
+  "hook": "Examine (検) + check (査): checking carefully, an inspection."
+ },
+ {
+  "id": "v3-0865",
+  "hook": "Build (建) + construct (築): building, architecture."
+ },
+ {
+  "id": "v3-0875",
+  "hook": "Romantic love (恋) + person (人): the person you love, a lover."
+ },
+ {
+  "id": "v3-0883",
+  "hook": "Cross (交) + swap (換): swapping things across, an exchange."
+ },
+ {
+  "id": "v3-0905",
+  "hook": "超 has run (走): run past the line, to exceed."
+ },
+ {
+  "id": "v3-0913",
+  "hook": "Breathe out (呼) + breathe in (吸): out and in, breathing."
+ }
+]

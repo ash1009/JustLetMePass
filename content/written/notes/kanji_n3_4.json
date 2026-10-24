@@ -1,0 +1,1647 @@
+[
+ {
+  "kanji": "悲",
+  "readings": [
+   {
+    "r": "かな",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{悲|かな}しい",
+      "en": "sad",
+      "lvl": 4
+     },
+     {
+      "w": "{悲|かな}しむ",
+      "en": "to feel sad, to grieve",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "ひ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{悲劇|ひげき}",
+      "en": "tragedy",
+      "lvl": 2
+     },
+     {
+      "w": "{悲鳴|ひめい}",
+      "en": "scream",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "For N4 you need かな in 悲しい. ひ appears in harder words like 悲鳴."
+ },
+ {
+  "kanji": "晴",
+  "readings": [
+   {
+    "r": "は",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{晴|は}れる",
+      "en": "to clear up (weather)",
+      "lvl": 4
+     },
+     {
+      "w": "{晴|は}れ",
+      "en": "sunny weather",
+      "lvl": 4
+     },
+     {
+      "w": "{素晴|すば}らしい",
+      "en": "wonderful",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "せい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{晴天|せいてん}",
+      "en": "fine, clear weather",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "は is the key reading (晴れ, 晴れる). Trap: in 素晴らしい it changes sound to ば."
+ },
+ {
+  "kanji": "掛",
+  "readings": [
+   {
+    "r": "か",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{掛|か}ける",
+      "en": "to hang, to put on",
+      "lvl": 4
+     },
+     {
+      "w": "{出掛|でか}ける",
+      "en": "to go out",
+      "lvl": 4
+     },
+     {
+      "w": "{掛|か}かる",
+      "en": "to hang, to take (time, money)",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "Only か matters. These words are very often written in kana (かける, 出かける, かかる)."
+ },
+ {
+  "kanji": "到",
+  "readings": [
+   {
+    "r": "とう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{到着|とうちゃく}",
+      "en": "arrival",
+      "lvl": 3
+     },
+     {
+      "w": "{到達|とうたつ}",
+      "en": "reaching, attaining",
+      "lvl": 2
+     },
+     {
+      "w": "{到底|とうてい}",
+      "en": "(not) at all, no way",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "いた",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{到|いた}る",
+      "en": "to reach, to lead to",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn 到着 (arrival), seen at airports and stations. Do not mix it up with 倒 (fall), which looks similar."
+ },
+ {
+  "kanji": "寝",
+  "readings": [
+   {
+    "r": "ね",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{寝|ね}る",
+      "en": "to sleep, to go to bed",
+      "lvl": 5
+     },
+     {
+      "w": "{寝坊|ねぼう}",
+      "en": "oversleeping",
+      "lvl": 4
+     },
+     {
+      "w": "{昼寝|ひるね}",
+      "en": "nap",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "しん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{寝室|しんしつ}",
+      "en": "bedroom",
+      "lvl": 3
+     },
+     {
+      "w": "{寝台|しんだい}",
+      "en": "bed, sleeping berth",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "ね in 寝る is the one you need now. 寝る means go to bed or lie down; 眠る means actually be asleep."
+ },
+ {
+  "kanji": "暗",
+  "readings": [
+   {
+    "r": "くら",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{暗|くら}い",
+      "en": "dark",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "あん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{暗記|あんき}",
+      "en": "learning by heart",
+      "lvl": 3
+     },
+     {
+      "w": "{暗号|あんごう}",
+      "en": "code, cipher",
+      "lvl": 2
+     },
+     {
+      "w": "{暗証番号|あんしょうばんごう}",
+      "en": "PIN number",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "暗い (dark) is the opposite of 明るい (bright); both have 日 on the left. あん comes later, in 暗記."
+ },
+ {
+  "kanji": "盗",
+  "readings": [
+   {
+    "r": "ぬす",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{盗|ぬす}む",
+      "en": "to steal",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "とう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{強盗|ごうとう}",
+      "en": "robbery, robber",
+      "lvl": 2
+     },
+     {
+      "w": "{盗難|とうなん}",
+      "en": "theft",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "For N4 learn 盗む. A thief is usually 泥棒 (どろぼう), which does not use this kanji."
+ },
+ {
+  "kanji": "吸",
+  "readings": [
+   {
+    "r": "す",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{吸|す}う",
+      "en": "to breathe in, to smoke, to suck",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "きゅう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{呼吸|こきゅう}",
+      "en": "breathing",
+      "lvl": 2
+     },
+     {
+      "w": "{吸収|きゅうしゅう}",
+      "en": "absorption",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "す in 吸う is the key one (タバコを吸う: to smoke). Do not confuse 吸 with 級 (class), also read きゅう."
+ },
+ {
+  "kanji": "陽",
+  "readings": [
+   {
+    "r": "よう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{太陽|たいよう}",
+      "en": "the sun",
+      "lvl": 3
+     },
+     {
+      "w": "{陽気|ようき}",
+      "en": "cheerful, lively",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Learn よう in 太陽 (the sun). The right side looks like 場 and 湯, so check the left part."
+ },
+ {
+  "kanji": "御",
+  "readings": [
+   {
+    "r": "ご",
+    "type": "on",
+    "words": [
+     {
+      "w": "{御飯|ごはん}",
+      "en": "cooked rice, meal",
+      "lvl": 5
+     },
+     {
+      "w": "{御馳走|ごちそう}",
+      "en": "a feast, treat",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "ぎょ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{制御|せいぎょ}",
+      "en": "control (of a machine)",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "お",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{御礼|おれい}",
+      "en": "thanks, thank-you gift",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "おん",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{御中|おんちゅう}",
+      "en": "to (a company, on letters)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "This is the polite ご or お. Today it is usually written in hiragana (ご飯, お礼), so just recognise it on signs and letters."
+ },
+ {
+  "kanji": "歯",
+  "readings": [
+   {
+    "r": "は",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{歯|は}",
+      "en": "tooth",
+      "lvl": 5
+     },
+     {
+      "w": "{歯医者|はいしゃ}",
+      "en": "dentist",
+      "lvl": 4
+     },
+     {
+      "w": "{虫歯|むしば}",
+      "en": "tooth decay, cavity",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "し",
+    "type": "on",
+    "words": [
+     {
+      "w": "{歯科|しか}",
+      "en": "dentistry",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "は is the one to know (歯, 歯医者). Trap: it becomes ば in 虫歯."
+ },
+ {
+  "kanji": "忘",
+  "readings": [
+   {
+    "r": "わす",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{忘|わす}れる",
+      "en": "to forget",
+      "lvl": 5
+     },
+     {
+      "w": "{忘|わす}れ{物|もの}",
+      "en": "something left behind",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "ぼう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{忘年会|ぼうねんかい}",
+      "en": "year-end party",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "わす in 忘れる is essential. Memory aid: 亡 (gone) on top of 心 (heart, mind)."
+ },
+ {
+  "kanji": "雪",
+  "readings": [
+   {
+    "r": "ゆき",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{雪|ゆき}",
+      "en": "snow",
+      "lvl": 5
+     },
+     {
+      "w": "{大雪|おおゆき}",
+      "en": "heavy snow",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "せつ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{積雪|せきせつ}",
+      "en": "fallen snow",
+      "lvl": 1
+     },
+     {
+      "w": "{除雪|じょせつ}",
+      "en": "snow clearing",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "For N5 and N4 you only need ゆき. せつ shows up in weather news, like 積雪."
+ },
+ {
+  "kanji": "吹",
+  "readings": [
+   {
+    "r": "ふ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{吹|ふ}く",
+      "en": "to blow (wind, a whistle)",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "すい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{吹奏楽|すいそうがく}",
+      "en": "brass band music",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "special",
+    "type": "special",
+    "words": [
+     {
+      "w": "{吹雪|ふぶき}",
+      "en": "snowstorm",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn ふ in 吹く (風が吹く: the wind blows). 吹雪 (ふぶき) is a special whole-word reading."
+ },
+ {
+  "kanji": "娘",
+  "readings": [
+   {
+    "r": "むすめ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{娘|むすめ}",
+      "en": "daughter (your own), girl",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "Only むすめ is needed. Someone else's daughter is usually お嬢さん, a different kanji."
+ },
+ {
+  "kanji": "誤",
+  "readings": [
+   {
+    "r": "ご",
+    "type": "on",
+    "words": [
+     {
+      "w": "{誤解|ごかい}",
+      "en": "misunderstanding",
+      "lvl": 3
+     },
+     {
+      "w": "{誤字|ごじ}",
+      "en": "wrong character, typo",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "あやま",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{誤|あやま}り",
+      "en": "mistake, error",
+      "lvl": 2
+     },
+     {
+      "w": "{誤|あやま}る",
+      "en": "to make a mistake",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn 誤解. Trap: 誤る (make a mistake) and 謝る (apologise) are both あやまる; the common N4 one is 謝る."
+ },
+ {
+  "kanji": "洗",
+  "readings": [
+   {
+    "r": "あら",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{洗|あら}う",
+      "en": "to wash",
+      "lvl": 5
+     },
+     {
+      "w": "お{手洗|てあら}い",
+      "en": "toilet, restroom",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "せん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{洗濯|せんたく}",
+      "en": "laundry, washing clothes",
+      "lvl": 4
+     },
+     {
+      "w": "{洗面所|せんめんじょ}",
+      "en": "washroom, bathroom sink area",
+      "lvl": 2
+     },
+     {
+      "w": "{洗剤|せんざい}",
+      "en": "detergent",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Both readings matter at N4: あら in 洗う and せん in 洗濯."
+ },
+ {
+  "kanji": "慣",
+  "readings": [
+   {
+    "r": "な",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{慣|な}れる",
+      "en": "to get used to",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "かん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{習慣|しゅうかん}",
+      "en": "habit, custom",
+      "lvl": 3
+     },
+     {
+      "w": "{慣用句|かんようく}",
+      "en": "idiom",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn 慣れる (日本の生活に慣れる: get used to life in Japan) and 習慣."
+ },
+ {
+  "kanji": "礼",
+  "readings": [
+   {
+    "r": "れい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{失礼|しつれい}",
+      "en": "rudeness, excuse me",
+      "lvl": 5
+     },
+     {
+      "w": "お{礼|れい}",
+      "en": "thanks, thank-you gift",
+      "lvl": 4
+     },
+     {
+      "w": "{礼儀|れいぎ}",
+      "en": "manners",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "れい is the only reading you need: 失礼します is a must-know phrase."
+ },
+ {
+  "kanji": "窓",
+  "readings": [
+   {
+    "r": "まど",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{窓|まど}",
+      "en": "window",
+      "lvl": 5
+     },
+     {
+      "w": "{窓口|まどぐち}",
+      "en": "service counter, ticket window",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "そう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{同窓会|どうそうかい}",
+      "en": "class reunion",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "まど is the one you need. 窓口 (counter) is useful at banks and stations."
+ },
+ {
+  "kanji": "昔",
+  "readings": [
+   {
+    "r": "むかし",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{昔|むかし}",
+      "en": "long ago, old days",
+      "lvl": 4
+     },
+     {
+      "w": "{昔話|むかしばなし}",
+      "en": "folk tale",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "This kanji is almost always むかし. Its on readings are rare. Do not mix it up with 借 (borrow)."
+ },
+ {
+  "kanji": "貧",
+  "readings": [
+   {
+    "r": "まず",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{貧|まず}しい",
+      "en": "poor",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "びん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{貧乏|びんぼう}",
+      "en": "poor, poverty",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "ひん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{貧血|ひんけつ}",
+      "en": "anaemia",
+      "lvl": 1
+     },
+     {
+      "w": "{貧困|ひんこん}",
+      "en": "poverty",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "In daily talk 貧乏 (びんぼう) is the common word. Trap: びん in 貧乏 but ひん in 貧血."
+ },
+ {
+  "kanji": "怒",
+  "readings": [
+   {
+    "r": "おこ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{怒|おこ}る",
+      "en": "to get angry, to scold",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "いか",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{怒|いか}り",
+      "en": "anger",
+      "lvl": 2
+     },
+     {
+      "w": "{怒|いか}る",
+      "en": "to get angry (written style)",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "ど",
+    "type": "on",
+    "words": [
+     {
+      "w": "{怒鳴|どな}る",
+      "en": "to shout, to yell",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Learn おこる. Trap: 怒る can be read おこる or いかる; in speech it is おこる."
+ },
+ {
+  "kanji": "泳",
+  "readings": [
+   {
+    "r": "およ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{泳|およ}ぐ",
+      "en": "to swim",
+      "lvl": 5
+     },
+     {
+      "w": "{平泳|ひらおよ}ぎ",
+      "en": "breaststroke",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "えい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{水泳|すいえい}",
+      "en": "swimming",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "およ in 泳ぐ is essential; 水泳 is the sport. Compare 永 (long) on the right."
+ },
+ {
+  "kanji": "祖",
+  "readings": [
+   {
+    "r": "そ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{祖父|そふ}",
+      "en": "(my) grandfather",
+      "lvl": 4
+     },
+     {
+      "w": "{祖母|そぼ}",
+      "en": "(my) grandmother",
+      "lvl": 4
+     },
+     {
+      "w": "{先祖|せんぞ}",
+      "en": "ancestors",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "そ is the only reading; it becomes ぞ in 先祖. Use 祖父 and 祖母 for your own grandparents, おじいさん and おばあさん for others."
+ },
+ {
+  "kanji": "杯",
+  "readings": [
+   {
+    "r": "はい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{一杯|いっぱい}",
+      "en": "one cupful, full",
+      "lvl": 4
+     },
+     {
+      "w": "{二杯|にはい}",
+      "en": "two cupfuls",
+      "lvl": 4
+     },
+     {
+      "w": "{乾杯|かんぱい}",
+      "en": "cheers! (a toast)",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "はい is the counter for cups and bowls. Trap: the sound changes, いっぱい, にはい, さんばい."
+ },
+ {
+  "kanji": "疲",
+  "readings": [
+   {
+    "r": "つか",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{疲|つか}れる",
+      "en": "to get tired",
+      "lvl": 4
+     },
+     {
+      "w": "{疲|つか}れ",
+      "en": "tiredness",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "ひ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{疲労|ひろう}",
+      "en": "fatigue",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn つか in 疲れる and the phrase お疲れ様です. ひ is for formal words like 疲労."
+ },
+ {
+  "kanji": "皆",
+  "readings": [
+   {
+    "r": "みな",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{皆|みな}さん",
+      "en": "everyone (polite)",
+      "lvl": 5
+     },
+     {
+      "w": "{皆|みな}",
+      "en": "everyone, all",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "みんな",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{皆|みんな}",
+      "en": "everyone, all (casual)",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "かい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{皆無|かいむ}",
+      "en": "none at all",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "皆さん (みなさん) and みんな are what you need. みんな is usually written in hiragana."
+ },
+ {
+  "kanji": "鳴",
+  "readings": [
+   {
+    "r": "な",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{鳴|な}く",
+      "en": "to cry, sing (animals, birds)",
+      "lvl": 4
+     },
+     {
+      "w": "{鳴|な}る",
+      "en": "to ring, to sound",
+      "lvl": 4
+     },
+     {
+      "w": "{鳴|な}らす",
+      "en": "to ring (a bell), to sound",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "めい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{悲鳴|ひめい}",
+      "en": "scream",
+      "lvl": 2
+     },
+     {
+      "w": "{共鳴|きょうめい}",
+      "en": "resonance, sympathy",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "な matters most. Trap: 鳴く is for animals and birds (口 + 鳥), 泣く is for people crying."
+ },
+ {
+  "kanji": "腹",
+  "readings": [
+   {
+    "r": "はら",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{腹|はら}",
+      "en": "belly, stomach",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "ふく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{空腹|くうふく}",
+      "en": "hunger, empty stomach",
+      "lvl": 2
+     },
+     {
+      "w": "{満腹|まんぷく}",
+      "en": "full stomach",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "special",
+    "type": "special",
+    "words": [
+     {
+      "w": "お{腹|なか}",
+      "en": "stomach, tummy",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "The everyday word is お腹 (おなか), a special reading. はら is rougher; ふく becomes ぷく in 満腹."
+ },
+ {
+  "kanji": "煙",
+  "readings": [
+   {
+    "r": "けむり",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{煙|けむり}",
+      "en": "smoke",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "けむ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{煙|けむ}い",
+      "en": "smoky",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "えん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{禁煙|きんえん}",
+      "en": "no smoking",
+      "lvl": 3
+     },
+     {
+      "w": "{煙突|えんとつ}",
+      "en": "chimney",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn 禁煙 (no smoking), seen on signs everywhere, and 煙 (けむり)."
+ },
+ {
+  "kanji": "眠",
+  "readings": [
+   {
+    "r": "ねむ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{眠|ねむ}い",
+      "en": "sleepy",
+      "lvl": 4
+     },
+     {
+      "w": "{眠|ねむ}る",
+      "en": "to sleep, to be asleep",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "みん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{睡眠|すいみん}",
+      "en": "sleep",
+      "lvl": 2
+     },
+     {
+      "w": "{冬眠|とうみん}",
+      "en": "hibernation",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "ねむ in 眠い is the key one. Do not mix up 眠る (be asleep) and 寝る (go to bed)."
+ },
+ {
+  "kanji": "怖",
+  "readings": [
+   {
+    "r": "こわ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{怖|こわ}い",
+      "en": "scary, afraid",
+      "lvl": 4
+     },
+     {
+      "w": "{怖|こわ}がる",
+      "en": "to be afraid",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "ふ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{恐怖|きょうふ}",
+      "en": "fear, terror",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "こわ in 怖い is what you need. Trap: こわい is also used for 恐い, but 怖い is the usual spelling."
+ },
+ {
+  "kanji": "耳",
+  "readings": [
+   {
+    "r": "みみ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{耳|みみ}",
+      "en": "ear",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "じ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{耳鼻科|じびか}",
+      "en": "ear, nose and throat clinic",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only みみ matters at N5 and N4. You can also spot 耳 inside 聞 (hear): an ear at the gate 門."
+ },
+ {
+  "kanji": "頂",
+  "readings": [
+   {
+    "r": "いただ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{頂|いただ}く",
+      "en": "to receive (humble), to eat",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "いただき",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{頂|いただき}",
+      "en": "top, summit",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "ちょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{頂上|ちょうじょう}",
+      "en": "summit, peak",
+      "lvl": 2
+     },
+     {
+      "w": "{頂点|ちょうてん}",
+      "en": "top, peak",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "いただく is key for N4 polite speech, but it is often written in kana (いただきます)."
+ },
+ {
+  "kanji": "箱",
+  "readings": [
+   {
+    "r": "はこ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{箱|はこ}",
+      "en": "box",
+      "lvl": 4
+     },
+     {
+      "w": "{筆箱|ふでばこ}",
+      "en": "pencil case",
+      "lvl": 3
+     },
+     {
+      "w": "{本箱|ほんばこ}",
+      "en": "bookcase",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "Only はこ is needed. Trap: it becomes ばこ after another word, as in 筆箱."
+ },
+ {
+  "kanji": "晩",
+  "readings": [
+   {
+    "r": "ばん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{今晩|こんばん}",
+      "en": "tonight, this evening",
+      "lvl": 5
+     },
+     {
+      "w": "{晩|ばん}ご{飯|はん}",
+      "en": "dinner",
+      "lvl": 5
+     },
+     {
+      "w": "{晩|ばん}",
+      "en": "evening, night",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "ばん is the only reading, as in こんばんは (good evening). Do not confuse 晩 with 勉 (effort)."
+ },
+ {
+  "kanji": "寒",
+  "readings": [
+   {
+    "r": "さむ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{寒|さむ}い",
+      "en": "cold (weather)",
+      "lvl": 5
+     },
+     {
+      "w": "{寒|さむ}さ",
+      "en": "the cold",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "かん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{寒波|かんぱ}",
+      "en": "cold wave",
+      "lvl": 1
+     },
+     {
+      "w": "{防寒|ぼうかん}",
+      "en": "protection against cold",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn 寒い. Trap: 寒い is for weather or air; for cold things you touch, use 冷たい."
+ },
+ {
+  "kanji": "髪",
+  "readings": [
+   {
+    "r": "かみ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{髪|かみ}",
+      "en": "hair (on the head)",
+      "lvl": 4
+     },
+     {
+      "w": "{髪|かみ}の{毛|け}",
+      "en": "hair",
+      "lvl": 4
+     },
+     {
+      "w": "{前髪|まえがみ}",
+      "en": "fringe, bangs",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "はつ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{散髪|さんぱつ}",
+      "en": "haircut",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "special",
+    "type": "special",
+    "words": [
+     {
+      "w": "{白髪|しらが}",
+      "en": "grey or white hair",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "かみ is the key reading. Trap: 髪 (hair) and 紙 (paper) are both かみ; かみ becomes がみ in 前髪."
+ },
+ {
+  "kanji": "忙",
+  "readings": [
+   {
+    "r": "いそが",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{忙|いそが}しい",
+      "en": "busy",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "せわ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{忙|せわ}しい",
+      "en": "restless, hectic",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "ぼう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{多忙|たぼう}",
+      "en": "very busy",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn 忙しい (いそがしい). Memory aid: 忄 (heart) + 亡 (lost), compare 忘 (forget)."
+ },
+ {
+  "kanji": "才",
+  "readings": [
+   {
+    "r": "さい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{五才|ごさい}",
+      "en": "five years old",
+      "lvl": 4
+     },
+     {
+      "w": "{天才|てんさい}",
+      "en": "genius",
+      "lvl": 3
+     },
+     {
+      "w": "{才能|さいのう}",
+      "en": "talent",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "さい is the only reading. For ages, 才 is a simple way to write 歳; both are read さい."
+ },
+ {
+  "kanji": "靴",
+  "readings": [
+   {
+    "r": "くつ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{靴|くつ}",
+      "en": "shoes",
+      "lvl": 5
+     },
+     {
+      "w": "{靴下|くつした}",
+      "en": "socks",
+      "lvl": 5
+     },
+     {
+      "w": "{長靴|ながぐつ}",
+      "en": "boots, rain boots",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "Only くつ is needed. Trap: it becomes ぐつ in 長靴."
+ },
+ {
+  "kanji": "恥",
+  "readings": [
+   {
+    "r": "は",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{恥|は}ずかしい",
+      "en": "embarrassed, shy",
+      "lvl": 4
+     },
+     {
+      "w": "{恥|は}じる",
+      "en": "to feel ashamed",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "はじ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{恥|はじ}",
+      "en": "shame",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Learn 恥ずかしい (はずかしい). Memory aid: 耳 (ear) + 心 (heart), your ears go red."
+ },
+ {
+  "kanji": "偶",
+  "readings": [
+   {
+    "r": "ぐう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{偶然|ぐうぜん}",
+      "en": "by chance",
+      "lvl": 3
+     },
+     {
+      "w": "{偶数|ぐうすう}",
+      "en": "even number",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "たま",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{偶|たま}に",
+      "en": "sometimes, once in a while",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "Learn 偶然. たまに is usually written in hiragana."
+ },
+ {
+  "kanji": "偉",
+  "readings": [
+   {
+    "r": "えら",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{偉|えら}い",
+      "en": "great, admirable, important",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "い",
+    "type": "on",
+    "words": [
+     {
+      "w": "{偉大|いだい}",
+      "en": "great, mighty",
+      "lvl": 2
+     },
+     {
+      "w": "{偉人|いじん}",
+      "en": "great person",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn えら in 偉い. Do not confuse 偉 with 違 (different), which has the same right side."
+ },
+ {
+  "kanji": "猫",
+  "readings": [
+   {
+    "r": "ねこ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{猫|ねこ}",
+      "en": "cat",
+      "lvl": 5
+     },
+     {
+      "w": "{子猫|こねこ}",
+      "en": "kitten",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "Only ねこ is needed. The on reading びょう is very rare."
+ },
+ {
+  "kanji": "幾",
+  "readings": [
+   {
+    "r": "いく",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{幾|いく}つ",
+      "en": "how many, how old",
+      "lvl": 5
+     },
+     {
+      "w": "{幾|いく}ら",
+      "en": "how much",
+      "lvl": 5
+     },
+     {
+      "w": "{幾日|いくにち}",
+      "en": "how many days",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "き",
+    "type": "on",
+    "words": [
+     {
+      "w": "{幾何学|きかがく}",
+      "en": "geometry",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "いく matters, but いくつ and いくら are almost always written in hiragana."
+ }
+]
