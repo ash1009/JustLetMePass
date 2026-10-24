@@ -159,7 +159,7 @@ private fun KanjiCard(id: String, modifier: Modifier) {
                 Label("Readings in words")
                 for (r in note.readings) {
                     Gap(10.dp)
-                    Text("${r.reading}  ·  ${if (r.type == "on") "on" else "kun"}", style = MaterialTheme.typography.titleSmall)
+                    Text(if (r.type == "special") "Special readings" else "${r.reading}  ·  ${if (r.type == "on") "on" else "kun"}", style = MaterialTheme.typography.titleSmall)
                     for ((w, en, l) in r.words) {
                         Row(verticalAlignment = Alignment.CenterVertically, modifier = Modifier.padding(vertical = 2.dp)) {
                             SpeakButton(w, size = 32.dp)
