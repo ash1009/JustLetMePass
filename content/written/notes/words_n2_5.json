@@ -1,0 +1,802 @@
+[
+ {
+  "id": "v2-0937",
+  "hook": "Water (水) + produce (産): things the water produces, like fish and seaweed."
+ },
+ {
+  "id": "v2-0938",
+  "hook": "Cook rice (炊) + task (事): the job of cooking meals."
+ },
+ {
+  "id": "v2-0939",
+  "hook": "Water (水) + steam (蒸) + air (気): water that has turned into steam."
+ },
+ {
+  "id": "v2-0940",
+  "hook": "Water (水) + element (素): the basic element in water, hydrogen."
+ },
+ {
+  "id": "v2-0941",
+  "hook": "Hang down (垂) + straight (直): a line that hangs straight down, vertical."
+ },
+ {
+  "id": "v2-0942",
+  "hook": "Guess (推) + decide (定): you guess, then decide on a number, an estimate."
+ },
+ {
+  "id": "v2-0943",
+  "hook": "Water (水) + drip (滴): one little drip of water."
+ },
+ {
+  "id": "v2-0944",
+  "hook": "Water (水) + tube (筒): a tube you carry water in, a water bottle."
+ },
+ {
+  "id": "v2-0945",
+  "hook": "Follow (随) + brush (筆): let your brush follow your thoughts, and you write an essay."
+ },
+ {
+  "id": "v2-0946",
+  "hook": "Water (水) + part (分): the water part of something, its moisture."
+ },
+ {
+  "id": "v2-0951",
+  "hook": "Sounds like 'zoo zoo': walking into the zoo without a ticket, so shameless!"
+ },
+ {
+  "id": "v2-0953",
+  "hook": "End (末) + child (子): the child at the end of the line, the youngest."
+ },
+ {
+  "id": "v2-0957",
+  "hook": "Tree (木) on the left: 杉 is a tall tree, the Japanese cedar."
+ },
+ {
+  "id": "v2-0959",
+  "hook": "Like (好き) + like (好き): each person likes different things, it's a matter of taste."
+ },
+ {
+  "id": "v2-0960",
+  "hook": "See-through (透) + pass (通る): light passes right through it, so it is transparent."
+ },
+ {
+  "id": "v2-0964",
+  "hook": "Drawing (図) + shape (形): a shape you draw, like a triangle or circle."
+ },
+ {
+  "id": "v2-0966",
+  "hook": "Cool (涼): on a hot day you sit in the shade to cool off."
+ },
+ {
+  "id": "v2-0974",
+  "hook": "Head (頭) + brain (脳): what is inside your head, your brains."
+ },
+ {
+  "id": "v2-0976",
+  "hook": "Drawing (図) + table (表): drawings and tables, so charts and graphs."
+ },
+ {
+  "id": "v2-0986",
+  "hook": "Sounds like 'zoo-ray': a sly ray slips out of the zoo, so cunning!"
+ },
+ {
+  "id": "v2-0989",
+  "hook": "Tax (税) + barrier (関): the barrier where you pay tax on goods, customs."
+ },
+ {
+  "id": "v2-0990",
+  "hook": "Manufacture (製) + make (作): making things in a factory."
+ },
+ {
+  "id": "v2-0991",
+  "hook": "Control (制) + make (作): creating a work like a film or book under your control."
+ },
+ {
+  "id": "v2-0993",
+  "hook": "Clean (清) + write (書): write it again, clean and neat."
+ },
+ {
+  "id": "v2-0994",
+  "hook": "Blue/young (青) + few (少) + year (年): people with few years, the youth."
+ },
+ {
+  "id": "v2-0995",
+  "hook": "Whole/neat (整) + number (数): neat, whole numbers with no fractions."
+ },
+ {
+  "id": "v2-0997",
+  "hook": "Live (生) + exist (存): to stay alive and keep existing, survival."
+ },
+ {
+  "id": "v2-0999",
+  "hook": "Politics (政) + party (党): a party in politics."
+ },
+ {
+  "id": "v2-1003",
+  "hook": "Make up (成) + part (分): the parts that make up something, its ingredients."
+ },
+ {
+  "id": "v2-1005",
+  "hook": "Correct (正) + side (方) + shape (形): a shape with all sides correct and equal, a square."
+ },
+ {
+  "id": "v2-1006",
+  "hook": "Main/correct (正) + gate (門): the main gate."
+ },
+ {
+  "id": "v2-1007",
+  "hook": "Become (成) + stand (立): something becomes able to stand, it is formed."
+ },
+ {
+  "id": "v2-1008",
+  "hook": "West (西) + calendar (暦): the Western calendar, years in A.D."
+ },
+ {
+  "id": "v2-1009",
+  "hook": "Back (背) + carry (負う): to carry something on your back."
+ },
+ {
+  "id": "v2-1010",
+  "hook": "Red (赤) + road (道): the hot red line around the middle of the Earth, the equator."
+ },
+ {
+  "id": "v2-1011",
+  "hook": "Break (折) + horn (角): you broke a horn trying so hard, so don't waste the effort."
+ },
+ {
+  "id": "v2-1015",
+  "hook": "Touch (接) + continue (続): parts touch and continue on, a connection."
+ },
+ {
+  "id": "v2-1016",
+  "hook": "Seto (瀬戸, a pottery town) + thing (物): pottery from Seto, so china and crockery."
+ },
+ {
+  "id": "v2-1018",
+  "hook": "Press (迫): the walls draw near and press in on you."
+ },
+ {
+  "id": "v2-1023",
+  "hook": "Stage (台) + words (詞): the words an actor says on stage, their lines."
+ },
+ {
+  "id": "v2-1024",
+  "hook": "Tree (木) + all (全): a wooden piece that closes the whole bottle, a stopper."
+ },
+ {
+  "id": "v2-1028",
+  "hook": "All (全) + collect (集): all of a writer's works collected together."
+ },
+ {
+  "id": "v2-1030",
+  "hook": "Fan (扇) + small thing (子): a small hand fan that folds."
+ },
+ {
+  "id": "v2-1031",
+  "hook": "Only (専) + control (制): only one person controls everything, a despot."
+ },
+ {
+  "id": "v2-1032",
+  "hook": "Before (先) + before (々) + month (月): the month before last month."
+ },
+ {
+  "id": "v2-1033",
+  "hook": "Before (先) + before (々) + week (週): the week before last week."
+ },
+ {
+  "id": "v2-1034",
+  "hook": "Before (先) + grandparent (祖): the family that came before your grandparents, ancestors."
+ },
+ {
+  "id": "v2-1035",
+  "hook": "Front (先) + end (端): the very front end, the tip."
+ },
+ {
+  "id": "v2-1038",
+  "hook": "Front (先) + head (頭): the head at the very front, the leader of the line."
+ },
+ {
+  "id": "v2-1039",
+  "hook": "All (全) + general (般): all of it in general, the whole."
+ },
+ {
+  "id": "v2-1040",
+  "hook": "Fan (扇) + wind (風) + machine (機): a fan machine that makes wind."
+ },
+ {
+  "id": "v2-1041",
+  "hook": "Wash (洗) + face (面): to wash your face."
+ },
+ {
+  "id": "v2-1042",
+  "hook": "All (全) + power (力): using all your power."
+ },
+ {
+  "id": "v2-1045",
+  "hook": "Each other (相) + differ (違): two things differ from each other."
+ },
+ {
+  "id": "v2-1048",
+  "hook": "Increase (増) + decrease (減): going up and going down."
+ },
+ {
+  "id": "v2-1050",
+  "hook": "Each other (相) + mutual (互): both sides do it to each other."
+ },
+ {
+  "id": "v2-1052",
+  "hook": "Bury (葬) + ceremony (式): the ceremony for burying someone, a funeral."
+ },
+ {
+  "id": "v2-1053",
+  "hook": "Build (造) + ship (船): building ships."
+ },
+ {
+  "id": "v2-1054",
+  "hook": "Noise (騒) repeated (々): noise, noise, noise, so very noisy."
+ },
+ {
+  "id": "v2-1055",
+  "hook": "Increase (増) + big (大): it increases and gets big."
+ },
+ {
+  "id": "v2-1058",
+  "hook": "Grass (草) + footwear (履): sandals made from woven grass."
+ },
+ {
+  "id": "v2-1059",
+  "hook": "Overall (総) + manage (理) + big (大) + minister (臣): the big minister who manages everything, the Prime Minister."
+ },
+ {
+  "id": "v2-1062",
+  "hook": "Continue (続) repeated (々): they keep coming, one after another."
+ },
+ {
+  "id": "v2-1063",
+  "hook": "Fast (速) + reach (達): mail that reaches you fast, express delivery."
+ },
+ {
+  "id": "v2-1065",
+  "hook": "Measure (測) + amount (量): measuring amounts and land, surveying."
+ },
+ {
+  "id": "v2-1066",
+  "hook": "Fast (速) + power (力): how much fast power something has, its speed."
+ },
+ {
+  "id": "v2-1067",
+  "hook": "Basic (素) + quality (質): the basic quality you are born with, talent."
+ },
+ {
+  "id": "v2-1068",
+  "hook": "Grandparent (祖) + before (先): the grandparents who came before, ancestors."
+ },
+ {
+  "id": "v2-1070",
+  "hook": "Sudden (卒) + straight (直): you say it suddenly and straight, so frank."
+ },
+ {
+  "id": "v2-1074",
+  "hook": "That (その) + other (他): other than that, besides."
+ },
+ {
+  "id": "v2-1076",
+  "hook": "Sounds like 'soar': your razor soars over your chin as you shave."
+ },
+ {
+  "id": "v2-1080",
+  "hook": "Escape (逸): the ball escapes the path and goes astray."
+ },
+ {
+  "id": "v2-1082",
+  "hook": "Calculate (算) + board (盤): a board for calculating, the abacus."
+ },
+ {
+  "id": "v2-1083",
+  "hook": "Exist (存): something exists in my mind, so (humbly) I know it."
+ },
+ {
+  "id": "v2-1084",
+  "hook": "Exist (存): like 存じる, something exists in my mind, so I humbly know it."
+ },
+ {
+  "id": "v2-1085",
+  "hook": "Loss (損) + gain (得): loss and gain."
+ },
+ {
+  "id": "v2-1090",
+  "hook": "Big (大) + craft (工): a big craftsman who builds houses, a carpenter."
+ },
+ {
+  "id": "v2-1091",
+  "hook": "Body (体) + lineage (系): a whole body of ideas linked in order, a system."
+ },
+ {
+  "id": "v2-1097",
+  "hook": "Body (体) + system (制): the body and rules of a group, its structure."
+ },
+ {
+  "id": "v2-1098",
+  "hook": "Body (体) + pile up (積): how much a body can pile up inside, its volume."
+ },
+ {
+  "id": "v2-1099",
+  "hook": "Big (大) + layer (層): a big pile of layers, so very much."
+ },
+ {
+  "id": "v2-1102",
+  "hook": "Big (大) + tree (木): a big tree."
+ },
+ {
+  "id": "v2-1104",
+  "hook": "Replace (代) + name (名) + word (詞): a word that replaces a name, a pronoun."
+ },
+ {
+  "id": "v2-1111",
+  "hook": "Oval (楕) + circle (円): a circle stretched into an oval, an ellipse."
+ },
+ {
+  "id": "v2-1113",
+  "hook": "Plough (耒) on the left of 耕: you plough the field."
+ },
+ {
+  "id": "v2-1114",
+  "hook": "Water (氵) + dragon (竜): water roaring down like a dragon, a waterfall."
+ },
+ {
+  "id": "v2-1115",
+  "hook": "Grass (艹) on top of 蓄: farmers store grass and food for winter."
+ },
+ {
+  "id": "v2-1118",
+  "hook": "Sounds like 'tada, she...': ta-da, it's free, but there is one condition."
+ },
+ {
+  "id": "v2-1123",
+  "hook": "Remove (脱) + line (線): the train comes off the line, derailment."
+ },
+ {
+  "id": "v2-1124",
+  "hook": "Calm (妥) + right (当): a calm, right answer, so it is appropriate."
+ },
+ {
+  "id": "v2-1125",
+  "hook": "Example (例): you give an example to compare one thing to another."
+ },
+ {
+  "id": "v2-1126",
+  "hook": "Rely (頼): someone you can rely on is reliable."
+ },
+ {
+  "id": "v2-1135",
+  "hook": "Step (段) + floor (階): steps and floors, so stages."
+ },
+ {
+  "id": "v2-1136",
+  "hook": "Short (短) + period (期): a short period of time."
+ },
+ {
+  "id": "v2-1137",
+  "hook": "Coal (炭) + mine (鉱): a mine for coal."
+ },
+ {
+  "id": "v2-1138",
+  "hook": "Short (短) + place (所): the place where you fall short, a weak point."
+ },
+ {
+  "id": "v2-1140",
+  "hook": "Light/pale (淡) + water (水): light water with no salt, fresh water."
+ },
+ {
+  "id": "v2-1141",
+  "hook": "Cut off (断) + water (水): the water is cut off."
+ },
+ {
+  "id": "v2-1142",
+  "hook": "Single (単) + number (数): a single number, singular."
+ },
+ {
+  "id": "v2-1145",
+  "hook": "Short (短) + edit/compile (編): a short piece of writing or film."
+ },
+ {
+  "id": "v2-1146",
+  "hook": "Rice field (田): 田んぼ is the wet rice field."
+ },
+ {
+  "id": "v2-1147",
+  "hook": "Words (言) at the bottom of 誓: you give your words as a promise, a vow."
+ },
+ {
+  "id": "v2-1148",
+  "hook": "Ground (地) + under (下) + water (水): water under the ground."
+ },
+ {
+  "id": "v2-1149",
+  "hook": "Near (近) repeated (々): it is near, near in time, so soon."
+ },
+ {
+  "id": "v2-1150",
+  "hook": "Near (近) + attach (付ける): you attach it near, bring it close."
+ },
+ {
+  "id": "v2-1151",
+  "hook": "Near (近) + come close (寄る): to come close and get near."
+ },
+ {
+  "id": "v2-1152",
+  "hook": "Power (力) + strong (強い): strong with power."
+ },
+ {
+  "id": "v2-1154",
+  "hook": "Earth (地) + quality (質): the quality of the earth, its rocks and soil."
+ },
+ {
+  "id": "v2-1156",
+  "hook": "Land (地) + belt (帯): a belt of land, a zone."
+ },
+ {
+  "id": "v2-1157",
+  "hook": "Thread (糸) on the left of 縮: wool thread in hot water shrinks."
+ },
+ {
+  "id": "v2-1158",
+  "hook": "Shrink (縮) with める: you make it shrink, shorten it."
+ },
+ {
+  "id": "v2-1159",
+  "hook": "Shrink (縮) with れる: hair shrinks up into curls and waves."
+ },
+ {
+  "id": "v2-1161",
+  "hook": "Ground (地) + point (点): a point on the ground or map."
+ },
+ {
+  "id": "v2-1162",
+  "hook": "Place (地) + name (名): the name of a place."
+ },
+ {
+  "id": "v2-1164",
+  "hook": "Arrive (着) repeated (々): arriving step by step, steadily."
+ },
+ {
+  "id": "v2-1165",
+  "hook": "Middle (中) + space (間): the space in the middle."
+ },
+ {
+  "id": "v2-1166",
+  "hook": "Middle (中) + ten days (旬): the middle ten days of a month."
+ },
+ {
+  "id": "v2-1167",
+  "hook": "Pull out (抽) + image (象): pull out the idea from the picture, abstract."
+ },
+ {
+  "id": "v2-1168",
+  "hook": "Middle (中) + age/era (世): the middle era of history, the Middle Ages."
+ },
+ {
+  "id": "v2-1169",
+  "hook": "Middle (中) + nature/sex (性): in the middle, neither one nor the other, neutral."
+ },
+ {
+  "id": "v2-1170",
+  "hook": "Middle (中) + route (途): in the middle of the route, half-way."
+ },
+ {
+  "id": "v2-1171",
+  "hook": "Middle (中) + year/age (年): the middle years of life, middle-aged."
+ },
+ {
+  "id": "v2-1174",
+  "hook": "Go beyond (超) + pass (過): it passes beyond the limit, an excess."
+ },
+ {
+  "id": "v2-1175",
+  "hook": "Carve (彫) + engrave (刻): carving and engraving, sculpture."
+ },
+ {
+  "id": "v2-1177",
+  "hook": "Eldest (長) + woman (女): the eldest daughter."
+ },
+ {
+  "id": "v2-1179",
+  "hook": "Adjust (調) + joint/moderate (節): adjust it to a moderate level."
+ },
+ {
+  "id": "v2-1180",
+  "hook": "Long (長) + short (短): long and short, good points and bad points."
+ },
+ {
+  "id": "v2-1181",
+  "hook": "Top of head (頂) + point (点): the top point, the summit."
+ },
+ {
+  "id": "v2-1182",
+  "hook": "Eldest (長) + man (男): the eldest son."
+ },
+ {
+  "id": "v2-1183",
+  "hook": "Long (長) + side (方) + shape (形): a shape with long sides, a rectangle."
+ },
+ {
+  "id": "v2-1184",
+  "hook": "Adjust (調) + taste (味) + material (料): stuff you add to adjust taste, seasoning."
+ },
+ {
+  "id": "v2-1186",
+  "hook": "Straight (直) + line (線): a straight line."
+ },
+ {
+  "id": "v2-1188",
+  "hook": "Direct (直) + go through (通): goes straight through with no change, direct."
+ },
+ {
+  "id": "v2-1189",
+  "hook": "Direct (直) + flow (流): electricity that flows one direct way, direct current."
+ },
+ {
+  "id": "v2-1190",
+  "hook": "Save (貯) + storehouse (蔵): saving things in a storehouse."
+ },
+ {
+  "id": "v2-1191",
+  "hook": "Straight (直) + angle (角): the straight, square corner, a right angle."
+ },
+ {
+  "id": "v2-1192",
+  "hook": "Straight (直) + path/diameter (径): the straight path across a circle."
+ },
+ {
+  "id": "v2-1194",
+  "hook": "Scatter (散): things are scattered all over, a mess."
+ },
+ {
+  "id": "v2-1195",
+  "hook": "Dust (塵) + paper (紙): paper for wiping dust and dirt, tissue."
+ },
+ {
+  "id": "v2-1196",
+  "hook": "Chase/follow (追) + add (加): add more after, an addition."
+ },
+ {
+  "id": "v2-1200",
+  "hook": "Go through (通): like 通じる, a road goes through and leads somewhere."
+ },
+ {
+  "id": "v2-1202",
+  "hook": "Go through (通) + notebook (帳): the notebook that goes through every bank visit."
+ },
+ {
+  "id": "v2-1205",
+  "hook": "Go through (通) + road (路): a road you go through, a passage."
+ },
+ {
+  "id": "v2-1206",
+  "hook": "Thrust (突き) + hit (当たり): where you push forward and hit the wall, the end of a street."
+ },
+ {
+  "id": "v2-1207",
+  "hook": "Thrust (突き) + hit (当たる): push forward and hit something."
+ },
+ {
+  "id": "v2-1211",
+  "hook": "Thrust (突っ) + pack in (込む): push and pack it in, plunge into."
+ },
+ {
+  "id": "v2-1212",
+  "hook": "Duty (務): you serve in a role and do its duty."
+ },
+ {
+  "id": "v2-1213",
+  "hook": "Effort (努): you make an effort, you try hard."
+ },
+ {
+  "id": "v2-1219",
+  "hook": "Crush (潰): the box is crushed flat, or the shop is crushed by debt."
+ },
+ {
+  "id": "v2-1221",
+  "hook": "Foot (足) on the left of 躓: your foot hits a stone and you trip."
+ },
+ {
+  "id": "v2-1225",
+  "hook": "Color (色) on the right of 艶: a rich color that shines, gloss."
+ },
+ {
+  "id": "v2-1226",
+  "hook": "Strong (強) + spirit (気): a strong spirit, firm and confident."
+ },
+ {
+  "id": "v2-1227",
+  "hook": "Hang/fish (釣り) + match (合う): two sides hanging in balance, they match."
+ },
+ {
+  "id": "v2-1228",
+  "hook": "Hang (吊): to hang something up."
+ },
+ {
+  "id": "v2-1229",
+  "hook": "Hang (吊): like 吊る, to hang something down."
+ },
+ {
+  "id": "v2-1233",
+  "hook": "Fixed (定) + member (員): a fixed number of members, the capacity."
+ },
+ {
+  "id": "v2-1235",
+  "hook": "Low (低) + down (下): going down lower, a decline."
+ },
+ {
+  "id": "v2-1236",
+  "hook": "Fixed (定) + period (期) + ticket (券): a ticket for a fixed period, a commuter pass."
+ },
+ {
+  "id": "v2-1237",
+  "hook": "Fixed (定) + rest (休) + day (日): the fixed day the shop rests."
+ },
+ {
+  "id": "v2-1242",
+  "hook": "Exit (出) + enter (入) + mouth (口): the opening where you go out and in."
+ },
+ {
+  "id": "v2-1243",
+  "hook": "Same as 出入口: out (出) + in (入り) + opening (口), a doorway."
+ },
+ {
+  "id": "v2-1245",
+  "hook": "Can do (出来) + go up (上がり): it is done and up, finished."
+ },
+ {
+  "id": "v2-1246",
+  "hook": "Can do (出来) + go up (上がる): the work is complete and ready."
+ },
+ {
+  "id": "v2-1247",
+  "hook": "Target (的) + sure (確): sure to hit the target, so accurate."
+ },
+ {
+  "id": "v2-1248",
+  "hook": "Suitable (適) + sure (確): surely suitable, so precise."
+ },
+ {
+  "id": "v2-1250",
+  "hook": "Bump out (凸) + dent in (凹): the kanji look like bumps and dents, uneven."
+ },
+ {
+  "id": "v2-1251",
+  "hook": "Hand (手) + about (頃): about the right size for your hand, handy and reasonable."
+ },
+ {
+  "id": "v2-1252",
+  "hook": "Hand (手) + about (ごろ): just right for your hand, handy and reasonable."
+ },
+ {
+  "id": "v2-1256",
+  "hook": "Iron (鉄) + bridge (橋): a bridge made of iron."
+ },
+ {
+  "id": "v2-1258",
+  "hook": "Iron (鉄) + cannon (砲): a small iron cannon, a gun."
+ },
+ {
+  "id": "v2-1260",
+  "hook": "Hand (手) + wipe (拭い): a cloth to wipe your hands."
+ },
+ {
+  "id": "v2-1262",
+  "hook": "Go out (出) + welcome (迎え): going out to welcome someone."
+ },
+ {
+  "id": "v2-1263",
+  "hook": "Go out (出) + welcome (迎える): to go out and greet someone."
+ },
+ {
+  "id": "v2-1265",
+  "hook": "Sun (日) and fire (灬) are both in 照: they shine."
+ },
+ {
+  "id": "v2-1267",
+  "hook": "Pass on (伝) + record (記): a record that passes on someone's life story."
+ },
+ {
+  "id": "v2-1270",
+  "hook": "Pass on (伝) + dye (染): a sickness passes on and dyes everyone, contagion."
+ },
+ {
+  "id": "v2-1272",
+  "hook": "Electric (電) + pillar (柱): a pillar for electric wires."
+ },
+ {
+  "id": "v2-1273",
+  "hook": "Dot (点) repeated (々): dot, dot, dot, here and there."
+ },
+ {
+  "id": "v2-1274",
+  "hook": "Roll/turn (転) repeated (々): rolling from place to place."
+ },
+ {
+  "id": "v2-1275",
+  "hook": "Heaven (天) + emperor (皇): the emperor from heaven, the Emperor of Japan."
+ },
+ {
+  "id": "v2-1278",
+  "hook": "Electric (電) + flow (流): the flow of electricity."
+ },
+ {
+  "id": "v2-1279",
+  "hook": "Electric (電) + power (力): electric power."
+ },
+ {
+  "id": "v2-1284",
+  "hook": "Unite (統) + one (一): unite them into one."
+ },
+ {
+  "id": "v2-1285",
+  "hook": "Same (同) + rank (格): the same rank."
+ },
+ {
+  "id": "v2-1286",
+  "hook": "Mountain (山) + up (上) + down (下): the place where the path stops going up and starts down."
+ },
+ {
+  "id": "v2-1287",
+  "hook": "Unite (統) + measure (計): gathering and measuring numbers, statistics."
+ },
+ {
+  "id": "v2-1288",
+  "hook": "Move (動) + make (作): the moves you make, actions."
+ },
+ {
+  "id": "v2-1289",
+  "hook": "East (東) + west (西): east and west."
+ },
+ {
+  "id": "v2-1291",
+  "hook": "Throw (投) + writing (書): throw your writing in to a newspaper, a reader's letter."
+ },
+ {
+  "id": "v2-1295",
+  "hook": "Steal (盗) + trouble (難): the trouble of being stolen from, theft."
+ },
+ {
+  "id": "v2-1296",
+  "hook": "Hit/assigned (当) + number/turn (番): it's your assigned turn, on duty."
+ },
+ {
+  "id": "v2-1297",
+  "hook": "Equal (等) + divide (分): divide into equal parts."
+ },
+ {
+  "id": "v2-1299",
+  "hook": "Lamp (灯) + oil (油): oil for lamps, kerosene."
+ },
+ {
+  "id": "v2-1301",
+  "hook": "Child (童) + story (話): a story for children, a fairy tale."
+ },
+ {
+  "id": "v2-1302",
+  "hook": "Pass (通り) + happen on (掛かる): you happen to pass by."
+ },
+ {
+  "id": "v2-1303",
+  "hook": "Water (氵) in 溶: water makes sugar melt and dissolve."
+ },
+ {
+  "id": "v2-1304",
+  "hook": "Small (小) on top of big (大): small at the top, big at the bottom, a sharp point."
+ },
+ {
+  "id": "v2-1306",
+  "hook": "Special (特) + different (殊): special and different, unique."
+ },
+ {
+  "id": "v2-1307",
+  "hook": "Special (特) + color (色): its special color, a feature."
+ },
+ {
+  "id": "v2-1310",
+  "hook": "Melt (溶け) + go into (込む): melt into it and become part of it."
+ }
+]

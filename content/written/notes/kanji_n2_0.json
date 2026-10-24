@@ -1,0 +1,2654 @@
+[
+ {
+  "kanji": "党",
+  "readings": [
+   {
+    "r": "とう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{政党|せいとう}",
+      "en": "political party",
+      "lvl": 2
+     },
+     {
+      "w": "{野党|やとう}",
+      "en": "opposition party",
+      "lvl": 1
+     },
+     {
+      "w": "{与党|よとう}",
+      "en": "ruling party",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only とう is used, in party words from the news. Same sound as 島 and 東, so read the context."
+ },
+ {
+  "kanji": "協",
+  "readings": [
+   {
+    "r": "きょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{協力|きょうりょく}",
+      "en": "cooperation",
+      "lvl": 3
+     },
+     {
+      "w": "{協会|きょうかい}",
+      "en": "association",
+      "lvl": 2
+     },
+     {
+      "w": "{協議|きょうぎ}",
+      "en": "discussion, talks",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only きょう. Learn 協力 (cooperation) first."
+ },
+ {
+  "kanji": "総",
+  "readings": [
+   {
+    "r": "そう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{総理大臣|そうりだいじん}",
+      "en": "prime minister",
+      "lvl": 2
+     },
+     {
+      "w": "{総合|そうごう}",
+      "en": "overall, combined",
+      "lvl": 2
+     },
+     {
+      "w": "{総額|そうがく}",
+      "en": "total amount",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only そう in common words. すべて (all) is normally written in kana."
+ },
+ {
+  "kanji": "区",
+  "readings": [
+   {
+    "r": "く",
+    "type": "on",
+    "words": [
+     {
+      "w": "{区|く}",
+      "en": "ward (city district)",
+      "lvl": 2
+     },
+     {
+      "w": "{地区|ちく}",
+      "en": "district",
+      "lvl": 2
+     },
+     {
+      "w": "{区別|くべつ}",
+      "en": "difference, telling apart",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Only く. You see it in Tokyo addresses like 新宿区 (しんじゅくく)."
+ },
+ {
+  "kanji": "領",
+  "readings": [
+   {
+    "r": "りょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{大統領|だいとうりょう}",
+      "en": "president (of a country)",
+      "lvl": 2
+     },
+     {
+      "w": "{領収書|りょうしゅうしょ}",
+      "en": "receipt",
+      "lvl": 2
+     },
+     {
+      "w": "{領土|りょうど}",
+      "en": "territory",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only りょう. 領収書 (receipt) is useful in shops and offices."
+ },
+ {
+  "kanji": "県",
+  "readings": [
+   {
+    "r": "けん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{県|けん}",
+      "en": "prefecture",
+      "lvl": 3
+     },
+     {
+      "w": "{県民|けんみん}",
+      "en": "people of a prefecture",
+      "lvl": 2
+     },
+     {
+      "w": "{県庁|けんちょう}",
+      "en": "prefectural office",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only けん, as in 千葉県 (ちばけん). Japan has 47 prefectures: 都, 道, 府 and 43 県."
+ },
+ {
+  "kanji": "設",
+  "readings": [
+   {
+    "r": "せつ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{設備|せつび}",
+      "en": "equipment, facilities",
+      "lvl": 2
+     },
+     {
+      "w": "{建設|けんせつ}",
+      "en": "construction",
+      "lvl": 2
+     },
+     {
+      "w": "{設計|せっけい}",
+      "en": "design, plan",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "もう",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{設|もう}ける",
+      "en": "to set up, to establish",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "せつ is the main reading. Trap: in 設計 it becomes せっ."
+ },
+ {
+  "kanji": "改",
+  "readings": [
+   {
+    "r": "かい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{改札口|かいさつぐち}",
+      "en": "ticket gate",
+      "lvl": 3
+     },
+     {
+      "w": "{改正|かいせい}",
+      "en": "revision (of a law)",
+      "lvl": 2
+     },
+     {
+      "w": "{改善|かいぜん}",
+      "en": "improvement",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "あらた",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{改|あらた}めて",
+      "en": "again, anew",
+      "lvl": 2
+     },
+     {
+      "w": "{改|あらた}める",
+      "en": "to change, to correct",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "改札口 (ticket gate) is the most useful word at train stations. Don't confuse 改 with 攻 or 故."
+ },
+ {
+  "kanji": "府",
+  "readings": [
+   {
+    "r": "ふ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{政府|せいふ}",
+      "en": "government",
+      "lvl": 2
+     },
+     {
+      "w": "{大阪府|おおさかふ}",
+      "en": "Osaka Prefecture",
+      "lvl": 2
+     },
+     {
+      "w": "{京都府|きょうとふ}",
+      "en": "Kyoto Prefecture",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Only ふ. Only Osaka and Kyoto are 府. Don't mix it up with 付 or 符."
+ },
+ {
+  "kanji": "査",
+  "readings": [
+   {
+    "r": "さ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{調査|ちょうさ}",
+      "en": "survey, investigation",
+      "lvl": 2
+     },
+     {
+      "w": "{検査|けんさ}",
+      "en": "inspection, test",
+      "lvl": 2
+     },
+     {
+      "w": "{審査|しんさ}",
+      "en": "judging, screening",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only さ, always at the end of these words. 検査 (test) is common at hospitals."
+ },
+ {
+  "kanji": "委",
+  "readings": [
+   {
+    "r": "い",
+    "type": "on",
+    "words": [
+     {
+      "w": "{委員|いいん}",
+      "en": "committee member",
+      "lvl": 2
+     },
+     {
+      "w": "{委員会|いいんかい}",
+      "en": "committee",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "ゆだ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{委|ゆだ}ねる",
+      "en": "to entrust, to leave to",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "い is the reading you need. 委 looks like 季 (season) and 香 (smell): check the bottom part."
+ },
+ {
+  "kanji": "軍",
+  "readings": [
+   {
+    "r": "ぐん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{軍隊|ぐんたい}",
+      "en": "army, troops",
+      "lvl": 2
+     },
+     {
+      "w": "{軍人|ぐんじん}",
+      "en": "soldier, military person",
+      "lvl": 2
+     },
+     {
+      "w": "{空軍|くうぐん}",
+      "en": "air force",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only ぐん in common words. It has 車 (car) inside, but it is not read くるま."
+ },
+ {
+  "kanji": "団",
+  "readings": [
+   {
+    "r": "だん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{団体|だんたい}",
+      "en": "group, organization",
+      "lvl": 2
+     },
+     {
+      "w": "{集団|しゅうだん}",
+      "en": "group, crowd",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "とん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{布団|ふとん}",
+      "en": "futon, bedding",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "だん is the main reading. Trap: 布団 (futon) uses とん."
+ },
+ {
+  "kanji": "各",
+  "readings": [
+   {
+    "r": "かく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{各地|かくち}",
+      "en": "each place, various places",
+      "lvl": 2
+     },
+     {
+      "w": "{各自|かくじ}",
+      "en": "each person",
+      "lvl": 2
+     },
+     {
+      "w": "{各国|かっこく}",
+      "en": "each country",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "おのおの",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{各|おのおの}",
+      "en": "each, every one",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "かく is the main reading. Trap: 各国 is かっこく. Don't confuse 各 with 名 or 客."
+ },
+ {
+  "kanji": "島",
+  "readings": [
+   {
+    "r": "しま",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{島|しま}",
+      "en": "island",
+      "lvl": 3
+     },
+     {
+      "w": "{島国|しまぐに}",
+      "en": "island country",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "とう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{半島|はんとう}",
+      "en": "peninsula",
+      "lvl": 2
+     },
+     {
+      "w": "{無人島|むじんとう}",
+      "en": "uninhabited island",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Alone it is しま; in compound words it is often とう. Trap: in names しま can become じま, like 桜島 (さくらじま)."
+ },
+ {
+  "kanji": "革",
+  "readings": [
+   {
+    "r": "かわ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{革|かわ}",
+      "en": "leather",
+      "lvl": 2
+     },
+     {
+      "w": "{革靴|かわぐつ}",
+      "en": "leather shoes",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "かく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{改革|かいかく}",
+      "en": "reform",
+      "lvl": 2
+     },
+     {
+      "w": "{革命|かくめい}",
+      "en": "revolution",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Alone it is かわ (leather). Trap: 皮 is also かわ but means skin or peel."
+ },
+ {
+  "kanji": "村",
+  "readings": [
+   {
+    "r": "むら",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{村|むら}",
+      "en": "village",
+      "lvl": 3
+     },
+     {
+      "w": "{村人|むらびと}",
+      "en": "villager",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "そん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{農村|のうそん}",
+      "en": "farming village",
+      "lvl": 2
+     },
+     {
+      "w": "{市町村|しちょうそん}",
+      "en": "cities, towns and villages",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Alone it is むら. Don't confuse 村 with 材 (wood, ざい)."
+ },
+ {
+  "kanji": "勢",
+  "readings": [
+   {
+    "r": "せい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{大勢|おおぜい}",
+      "en": "many people, a crowd",
+      "lvl": 3
+     },
+     {
+      "w": "{姿勢|しせい}",
+      "en": "posture, attitude",
+      "lvl": 2
+     },
+     {
+      "w": "{情勢|じょうせい}",
+      "en": "situation, state of affairs",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "いきお",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{勢|いきお}い",
+      "en": "force, momentum",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "大勢 (many people) is the key N4 word. Trap: there せい becomes ぜい."
+ },
+ {
+  "kanji": "減",
+  "readings": [
+   {
+    "r": "へ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{減|へ}る",
+      "en": "to decrease, to go down",
+      "lvl": 3
+     },
+     {
+      "w": "{減|へ}らす",
+      "en": "to reduce",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "げん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{減少|げんしょう}",
+      "en": "decrease",
+      "lvl": 2
+     },
+     {
+      "w": "{削減|さくげん}",
+      "en": "cut, reduction",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "へる and へらす matter most. お腹が減る means to get hungry. Opposite: 増える."
+ },
+ {
+  "kanji": "再",
+  "readings": [
+   {
+    "r": "さい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{再開|さいかい}",
+      "en": "reopening, restart",
+      "lvl": 2
+     },
+     {
+      "w": "{再生|さいせい}",
+      "en": "playback, rebirth",
+      "lvl": 2
+     },
+     {
+      "w": "{再利用|さいりよう}",
+      "en": "reuse, recycling",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "さ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{再来週|さらいしゅう}",
+      "en": "the week after next",
+      "lvl": 3
+     },
+     {
+      "w": "{再来年|さらいねん}",
+      "en": "the year after next",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "ふたた",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{再|ふたた}び",
+      "en": "again, once more",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "さい is the main reading. Trap: 再来週 and 再来年 use さ."
+ },
+ {
+  "kanji": "税",
+  "readings": [
+   {
+    "r": "ぜい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{税金|ぜいきん}",
+      "en": "tax",
+      "lvl": 2
+     },
+     {
+      "w": "{消費税|しょうひぜい}",
+      "en": "consumption tax, sales tax",
+      "lvl": 2
+     },
+     {
+      "w": "{税関|ぜいかん}",
+      "en": "customs (at the border)",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Only ぜい. Shop prices may say 税込 (tax included). Don't confuse 税 with 説 or 脱."
+ },
+ {
+  "kanji": "営",
+  "readings": [
+   {
+    "r": "えい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{営業|えいぎょう}",
+      "en": "business, sales",
+      "lvl": 2
+     },
+     {
+      "w": "{営業中|えいぎょうちゅう}",
+      "en": "open (for business)",
+      "lvl": 2
+     },
+     {
+      "w": "{経営|けいえい}",
+      "en": "management, running a business",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "いとな",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{営|いとな}む",
+      "en": "to run (a business)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "えい is the reading you need. 営業中 on a shop sign means it is open."
+ },
+ {
+  "kanji": "比",
+  "readings": [
+   {
+    "r": "くら",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{比|くら}べる",
+      "en": "to compare",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "ひ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{比較|ひかく}",
+      "en": "comparison",
+      "lvl": 2
+     },
+     {
+      "w": "{比例|ひれい}",
+      "en": "proportion",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "くらべる is the useful word at N4. Don't confuse 比 with 北 (north)."
+ },
+ {
+  "kanji": "防",
+  "readings": [
+   {
+    "r": "ぼう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{予防|よぼう}",
+      "en": "prevention",
+      "lvl": 2
+     },
+     {
+      "w": "{消防署|しょうぼうしょ}",
+      "en": "fire station",
+      "lvl": 2
+     },
+     {
+      "w": "{防止|ぼうし}",
+      "en": "prevention, stopping",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "ふせ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{防|ふせ}ぐ",
+      "en": "to prevent, to protect against",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "ぼう is the main reading. Trap: 防止 ぼうし sounds like 帽子 (hat)."
+ },
+ {
+  "kanji": "補",
+  "readings": [
+   {
+    "r": "ほ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{候補|こうほ}",
+      "en": "candidate",
+      "lvl": 2
+     },
+     {
+      "w": "{補足|ほそく}",
+      "en": "supplement, extra note",
+      "lvl": 1
+     },
+     {
+      "w": "{補助|ほじょ}",
+      "en": "assistance, support",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "おぎな",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{補|おぎな}う",
+      "en": "to make up for, to supplement",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "ほ is the main reading, as in 候補 (candidate). The left side is 衣 (clothes), not 示."
+ },
+ {
+  "kanji": "境",
+  "readings": [
+   {
+    "r": "きょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{環境|かんきょう}",
+      "en": "environment",
+      "lvl": 2
+     },
+     {
+      "w": "{国境|こっきょう}",
+      "en": "national border",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "さかい",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{境|さかい}",
+      "en": "boundary, border",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "けい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{境内|けいだい}",
+      "en": "temple or shrine grounds",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "きょう is the main reading, as in 環境. Trap: 境内 (shrine grounds) uses けい."
+ },
+ {
+  "kanji": "導",
+  "readings": [
+   {
+    "r": "どう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{指導|しどう}",
+      "en": "guidance, coaching",
+      "lvl": 2
+     },
+     {
+      "w": "{導入|どうにゅう}",
+      "en": "introduction (of a system)",
+      "lvl": 1
+     },
+     {
+      "w": "{半導体|はんどうたい}",
+      "en": "semiconductor",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "みちび",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{導|みちび}く",
+      "en": "to guide, to lead",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "どう is the reading you need. 導 is 道 (road) with 寸 under it: guiding someone along the road."
+ },
+ {
+  "kanji": "副",
+  "readings": [
+   {
+    "r": "ふく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{副作用|ふくさよう}",
+      "en": "side effect",
+      "lvl": 2
+     },
+     {
+      "w": "{副詞|ふくし}",
+      "en": "adverb",
+      "lvl": 2
+     },
+     {
+      "w": "{副社長|ふくしゃちょう}",
+      "en": "vice president (of a company)",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Only ふく. Don't confuse 副 (vice, sub) with 福 (luck), also ふく."
+ },
+ {
+  "kanji": "算",
+  "readings": [
+   {
+    "r": "さん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{計算|けいさん}",
+      "en": "calculation",
+      "lvl": 3
+     },
+     {
+      "w": "{予算|よさん}",
+      "en": "budget",
+      "lvl": 2
+     },
+     {
+      "w": "{引|ひ}き{算|ざん}",
+      "en": "subtraction",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Only さん. Trap: after another word it can become ざん, as in 引き算 and 足し算."
+ },
+ {
+  "kanji": "輸",
+  "readings": [
+   {
+    "r": "ゆ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{輸入|ゆにゅう}",
+      "en": "import",
+      "lvl": 2
+     },
+     {
+      "w": "{輸出|ゆしゅつ}",
+      "en": "export",
+      "lvl": 2
+     },
+     {
+      "w": "{輸送|ゆそう}",
+      "en": "transport",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only ゆ in common words. Don't confuse 輸 with 輪 (ring, わ)."
+ },
+ {
+  "kanji": "述",
+  "readings": [
+   {
+    "r": "の",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{述|の}べる",
+      "en": "to state, to express",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "じゅつ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{記述|きじゅつ}",
+      "en": "description, written account",
+      "lvl": 1
+     },
+     {
+      "w": "{前述|ぜんじゅつ}",
+      "en": "mentioned above",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "のべる is the most useful word. Don't confuse 述 with 術 (じゅつ, as in 技術)."
+ },
+ {
+  "kanji": "線",
+  "readings": [
+   {
+    "r": "せん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{線|せん}",
+      "en": "line",
+      "lvl": 3
+     },
+     {
+      "w": "{新幹線|しんかんせん}",
+      "en": "bullet train",
+      "lvl": 3
+     },
+     {
+      "w": "{路線|ろせん}",
+      "en": "route, line (train or bus)",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Only せん in common words. At stations, 3番線 (さんばんせん) means platform 3."
+ },
+ {
+  "kanji": "農",
+  "readings": [
+   {
+    "r": "のう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{農業|のうぎょう}",
+      "en": "farming, agriculture",
+      "lvl": 2
+     },
+     {
+      "w": "{農家|のうか}",
+      "en": "farmer, farm family",
+      "lvl": 2
+     },
+     {
+      "w": "{農薬|のうやく}",
+      "en": "pesticide",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only のう. Don't confuse 農 with 濃 (thick, dark), which has water on the left."
+ },
+ {
+  "kanji": "州",
+  "readings": [
+   {
+    "r": "しゅう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{九州|きゅうしゅう}",
+      "en": "Kyushu (island)",
+      "lvl": 2
+     },
+     {
+      "w": "{本州|ほんしゅう}",
+      "en": "Honshu (main island)",
+      "lvl": 2
+     },
+     {
+      "w": "{州|しゅう}",
+      "en": "state, province",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Only しゅう in common words. Don't confuse 州 with 川 (river) or 洲."
+ },
+ {
+  "kanji": "武",
+  "readings": [
+   {
+    "r": "ぶ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{武器|ぶき}",
+      "en": "weapon",
+      "lvl": 2
+     },
+     {
+      "w": "{武士|ぶし}",
+      "en": "samurai, warrior",
+      "lvl": 2
+     },
+     {
+      "w": "{武道|ぶどう}",
+      "en": "martial arts",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "ぶ is the reading you need. Trap: 武道 ぶどう sounds like ぶどう (grapes)."
+ },
+ {
+  "kanji": "象",
+  "readings": [
+   {
+    "r": "ぞう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{象|ぞう}",
+      "en": "elephant",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "しょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{印象|いんしょう}",
+      "en": "impression",
+      "lvl": 2
+     },
+     {
+      "w": "{現象|げんしょう}",
+      "en": "phenomenon",
+      "lvl": 2
+     },
+     {
+      "w": "{対象|たいしょう}",
+      "en": "target, subject",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Alone it is ぞう (elephant). In compound words it is usually しょう."
+ },
+ {
+  "kanji": "域",
+  "readings": [
+   {
+    "r": "いき",
+    "type": "on",
+    "words": [
+     {
+      "w": "{地域|ちいき}",
+      "en": "region, area",
+      "lvl": 2
+     },
+     {
+      "w": "{区域|くいき}",
+      "en": "zone, area",
+      "lvl": 1
+     },
+     {
+      "w": "{領域|りょういき}",
+      "en": "field, domain",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only いき. 地域 (area) is the word to learn."
+ },
+ {
+  "kanji": "額",
+  "readings": [
+   {
+    "r": "がく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{金額|きんがく}",
+      "en": "amount of money",
+      "lvl": 2
+     },
+     {
+      "w": "{額|がく}",
+      "en": "picture frame, amount",
+      "lvl": 2
+     },
+     {
+      "w": "{全額|ぜんがく}",
+      "en": "full amount",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "ひたい",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{額|ひたい}",
+      "en": "forehead",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "がく is the main reading. Alone it can be がく (frame) or ひたい (forehead): context decides."
+ },
+ {
+  "kanji": "欧",
+  "readings": [
+   {
+    "r": "おう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{欧米|おうべい}",
+      "en": "Europe and America, the West",
+      "lvl": 2
+     },
+     {
+      "w": "{西欧|せいおう}",
+      "en": "Western Europe",
+      "lvl": 1
+     },
+     {
+      "w": "{北欧|ほくおう}",
+      "en": "Northern Europe",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only おう in common words. It means Europe. Don't confuse 欧 with 区 or 次."
+ },
+ {
+  "kanji": "担",
+  "readings": [
+   {
+    "r": "たん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{担当|たんとう}",
+      "en": "being in charge",
+      "lvl": 2
+     },
+     {
+      "w": "{負担|ふたん}",
+      "en": "burden",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "かつ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{担|かつ}ぐ",
+      "en": "to carry on the shoulder",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "にな",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{担|にな}う",
+      "en": "to bear, to take on",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "たん is the main reading. 担当 (person in charge) is very common at work."
+ },
+ {
+  "kanji": "準",
+  "readings": [
+   {
+    "r": "じゅん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{準備|じゅんび}",
+      "en": "preparation",
+      "lvl": 4
+     },
+     {
+      "w": "{基準|きじゅん}",
+      "en": "standard, basis",
+      "lvl": 2
+     },
+     {
+      "w": "{水準|すいじゅん}",
+      "en": "level, standard",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only じゅん. 準備 (preparation) is an N4 word, so learn it now."
+ },
+ {
+  "kanji": "賞",
+  "readings": [
+   {
+    "r": "しょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{賞|しょう}",
+      "en": "prize, award",
+      "lvl": 2
+     },
+     {
+      "w": "{賞品|しょうひん}",
+      "en": "prize (an item)",
+      "lvl": 2
+     },
+     {
+      "w": "{受賞|じゅしょう}",
+      "en": "winning a prize",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only しょう. Don't confuse 賞 with 党 or 常: they share the top part."
+ },
+ {
+  "kanji": "辺",
+  "readings": [
+   {
+    "r": "へん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{辺|へん}",
+      "en": "area, around here",
+      "lvl": 3
+     },
+     {
+      "w": "{周辺|しゅうへん}",
+      "en": "surroundings, vicinity",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "あた",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{辺|あた}り",
+      "en": "neighborhood, around",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "べ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{海辺|うみべ}",
+      "en": "seaside, beach",
+      "lvl": 2
+     },
+     {
+      "w": "{窓辺|まどべ}",
+      "en": "by the window",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "この辺 (around here) and この辺り mean almost the same. Watch the reading: へん vs あたり."
+ },
+ {
+  "kanji": "造",
+  "readings": [
+   {
+    "r": "ぞう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{製造|せいぞう}",
+      "en": "manufacturing",
+      "lvl": 2
+     },
+     {
+      "w": "{構造|こうぞう}",
+      "en": "structure",
+      "lvl": 2
+     },
+     {
+      "w": "{木造|もくぞう}",
+      "en": "wooden (building)",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "つく",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{造|つく}る",
+      "en": "to make, to build (big things)",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "ぞう is the main reading. Trap: 作る is the everyday つくる; 造る is for ships, buildings or sake."
+ },
+ {
+  "kanji": "被",
+  "readings": [
+   {
+    "r": "ひ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{被害|ひがい}",
+      "en": "damage, harm",
+      "lvl": 2
+     },
+     {
+      "w": "{被害者|ひがいしゃ}",
+      "en": "victim",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "かぶ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{被|かぶ}る",
+      "en": "to put on (a hat)",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "こうむ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{被|こうむ}る",
+      "en": "to suffer (damage)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "かぶる (put on a hat) is the N4 word, often written in kana. ひ appears in news words like 被害."
+ },
+ {
+  "kanji": "技",
+  "readings": [
+   {
+    "r": "ぎ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{技術|ぎじゅつ}",
+      "en": "technology, skill",
+      "lvl": 2
+     },
+     {
+      "w": "{競技|きょうぎ}",
+      "en": "competition, sport event",
+      "lvl": 2
+     },
+     {
+      "w": "{演技|えんぎ}",
+      "en": "acting, performance",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "わざ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{技|わざ}",
+      "en": "technique, move",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "ぎ is the main reading, as in 技術. Don't confuse 技 with 枝 (branch)."
+ },
+ {
+  "kanji": "低",
+  "readings": [
+   {
+    "r": "ひく",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{低|ひく}い",
+      "en": "low, short",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "てい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{最低|さいてい}",
+      "en": "lowest, the worst",
+      "lvl": 2
+     },
+     {
+      "w": "{低下|ていか}",
+      "en": "fall, decline",
+      "lvl": 1
+     },
+     {
+      "w": "{低温|ていおん}",
+      "en": "low temperature",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "ひくい is the N4 word. Opposite: 高い. 最低 can also mean awful."
+ },
+ {
+  "kanji": "復",
+  "readings": [
+   {
+    "r": "ふく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{復習|ふくしゅう}",
+      "en": "review (of lessons)",
+      "lvl": 3
+     },
+     {
+      "w": "{往復|おうふく}",
+      "en": "round trip",
+      "lvl": 2
+     },
+     {
+      "w": "{回復|かいふく}",
+      "en": "recovery",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Only ふく. Don't confuse 復 with 複 (double) or 腹 (belly), also ふく."
+ },
+ {
+  "kanji": "移",
+  "readings": [
+   {
+    "r": "うつ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{移|うつ}る",
+      "en": "to move, to change (place)",
+      "lvl": 2
+     },
+     {
+      "w": "{移|うつ}す",
+      "en": "to move (something), to pass on",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "い",
+    "type": "on",
+    "words": [
+     {
+      "w": "{移動|いどう}",
+      "en": "moving, travel",
+      "lvl": 2
+     },
+     {
+      "w": "{移民|いみん}",
+      "en": "immigrant, immigration",
+      "lvl": 1
+     },
+     {
+      "w": "{移転|いてん}",
+      "en": "moving (an office)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "移動 and うつる are the useful ones. Trap: 写す and 映す are also うつす."
+ },
+ {
+  "kanji": "個",
+  "readings": [
+   {
+    "r": "こ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{一個|いっこ}",
+      "en": "one (small thing)",
+      "lvl": 4
+     },
+     {
+      "w": "{個人|こじん}",
+      "en": "individual, person",
+      "lvl": 2
+     },
+     {
+      "w": "{個性|こせい}",
+      "en": "personality",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "こ is the counter for small things. Trap: 一個 いっこ, 六個 ろっこ, 十個 じゅっこ."
+ },
+ {
+  "kanji": "門",
+  "readings": [
+   {
+    "r": "もん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{門|もん}",
+      "en": "gate",
+      "lvl": 3
+     },
+     {
+      "w": "{専門|せんもん}",
+      "en": "speciality, major",
+      "lvl": 3
+     },
+     {
+      "w": "{入門|にゅうもん}",
+      "en": "introduction, beginner's guide",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only もん in common words. Don't mix up 門 (gate), 問 (question) and 間 (between)."
+ },
+ {
+  "kanji": "課",
+  "readings": [
+   {
+    "r": "か",
+    "type": "on",
+    "words": [
+     {
+      "w": "{課|か}",
+      "en": "lesson, section",
+      "lvl": 2
+     },
+     {
+      "w": "{課長|かちょう}",
+      "en": "section manager",
+      "lvl": 2
+     },
+     {
+      "w": "{課題|かだい}",
+      "en": "task, assignment",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Only か. Textbooks use it: 第1課 (だいいっか) is lesson 1."
+ },
+ {
+  "kanji": "脳",
+  "readings": [
+   {
+    "r": "のう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{脳|のう}",
+      "en": "brain",
+      "lvl": 2
+     },
+     {
+      "w": "{頭脳|ずのう}",
+      "en": "brains, intelligence",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only のう. Don't confuse 脳 (brain) with 悩 (worry, as in 悩む)."
+ },
+ {
+  "kanji": "極",
+  "readings": [
+   {
+    "r": "きょく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{積極的|せっきょくてき}",
+      "en": "active, positive",
+      "lvl": 2
+     },
+     {
+      "w": "{北極|ほっきょく}",
+      "en": "North Pole",
+      "lvl": 2
+     },
+     {
+      "w": "{南極|なんきょく}",
+      "en": "South Pole",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "ごく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{極楽|ごくらく}",
+      "en": "paradise",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "きわ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{極|きわ}めて",
+      "en": "extremely",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "きょく is the main reading. Trap: 北極 is ほっきょく, and 積極的 is せっきょくてき."
+ },
+ {
+  "kanji": "含",
+  "readings": [
+   {
+    "r": "ふく",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{含|ふく}む",
+      "en": "to contain, to include",
+      "lvl": 2
+     },
+     {
+      "w": "{含|ふく}める",
+      "en": "to include (something)",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "You only need ふくむ and ふくめる. Example: 税金を含む (tax included)."
+ },
+ {
+  "kanji": "蔵",
+  "readings": [
+   {
+    "r": "ぞう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{冷蔵庫|れいぞうこ}",
+      "en": "refrigerator",
+      "lvl": 3
+     },
+     {
+      "w": "{貯蔵|ちょぞう}",
+      "en": "storage",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "くら",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{蔵|くら}",
+      "en": "storehouse, warehouse",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "冷蔵庫 (fridge) is the word to learn. Don't confuse 蔵 with 臓 (organ), also ぞう."
+ },
+ {
+  "kanji": "量",
+  "readings": [
+   {
+    "r": "りょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{量|りょう}",
+      "en": "amount, quantity",
+      "lvl": 2
+     },
+     {
+      "w": "{大量|たいりょう}",
+      "en": "large amount",
+      "lvl": 2
+     },
+     {
+      "w": "{重量|じゅうりょう}",
+      "en": "weight",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "はか",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{量|はか}る",
+      "en": "to measure (weight, amount)",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "りょう is the main reading. Trap: はかる can also be 計る or 測る."
+ },
+ {
+  "kanji": "型",
+  "readings": [
+   {
+    "r": "かた",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{型|かた}",
+      "en": "model, type, mold",
+      "lvl": 2
+     },
+     {
+      "w": "{血液型|けつえきがた}",
+      "en": "blood type",
+      "lvl": 2
+     },
+     {
+      "w": "{大型|おおがた}",
+      "en": "large size",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "けい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{典型的|てんけいてき}",
+      "en": "typical",
+      "lvl": 1
+     },
+     {
+      "w": "{模型|もけい}",
+      "en": "model (small copy)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "After another word かた often becomes がた, as in 血液型. Don't confuse 型 with 形 (shape), also かた."
+ },
+ {
+  "kanji": "況",
+  "readings": [
+   {
+    "r": "きょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{状況|じょうきょう}",
+      "en": "situation, conditions",
+      "lvl": 2
+     },
+     {
+      "w": "{不況|ふきょう}",
+      "en": "recession",
+      "lvl": 1
+     },
+     {
+      "w": "{実況|じっきょう}",
+      "en": "live report",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only きょう. 状況 (situation) is very common."
+ },
+ {
+  "kanji": "針",
+  "readings": [
+   {
+    "r": "はり",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{針|はり}",
+      "en": "needle, clock hand",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "しん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{方針|ほうしん}",
+      "en": "policy, plan",
+      "lvl": 2
+     },
+     {
+      "w": "{秒針|びょうしん}",
+      "en": "second hand (of a clock)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Alone it is はり (needle). しん is in 方針 (policy)."
+ },
+ {
+  "kanji": "専",
+  "readings": [
+   {
+    "r": "せん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{専門|せんもん}",
+      "en": "speciality, major",
+      "lvl": 3
+     },
+     {
+      "w": "{専門家|せんもんか}",
+      "en": "expert",
+      "lvl": 2
+     },
+     {
+      "w": "{専用|せんよう}",
+      "en": "for use only by",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "もっぱ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{専|もっぱ}ら",
+      "en": "mainly, mostly",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "せん is the reading you need. Trap: 専 has no dot on the right, unlike 博."
+ },
+ {
+  "kanji": "谷",
+  "readings": [
+   {
+    "r": "たに",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{谷|たに}",
+      "en": "valley",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "や",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{渋谷|しぶや}",
+      "en": "Shibuya (in Tokyo)",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "Alone it is たに. In place names it is often や, like 渋谷 and 四谷."
+ },
+ {
+  "kanji": "史",
+  "readings": [
+   {
+    "r": "し",
+    "type": "on",
+    "words": [
+     {
+      "w": "{歴史|れきし}",
+      "en": "history",
+      "lvl": 3
+     },
+     {
+      "w": "{日本史|にほんし}",
+      "en": "Japanese history",
+      "lvl": 2
+     },
+     {
+      "w": "{世界史|せかいし}",
+      "en": "world history",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Only し. Don't confuse 史 (history) with 吏 or 使."
+ },
+ {
+  "kanji": "階",
+  "readings": [
+   {
+    "r": "かい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{一階|いっかい}",
+      "en": "first floor",
+      "lvl": 5
+     },
+     {
+      "w": "{三階|さんがい}",
+      "en": "third floor",
+      "lvl": 5
+     },
+     {
+      "w": "{階段|かいだん}",
+      "en": "stairs",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "かい is the floor counter. Trap: 一階 いっかい, 三階 さんがい, 何階 なんがい."
+ },
+ {
+  "kanji": "管",
+  "readings": [
+   {
+    "r": "かん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{管理|かんり}",
+      "en": "management, control",
+      "lvl": 2
+     },
+     {
+      "w": "{保管|ほかん}",
+      "en": "storage, keeping",
+      "lvl": 1
+     },
+     {
+      "w": "{血管|けっかん}",
+      "en": "blood vessel",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "くだ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{管|くだ}",
+      "en": "tube, pipe",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "かん is the reading you need. Don't confuse 管 (pipe) with 官 (official), also かん."
+ },
+ {
+  "kanji": "兵",
+  "readings": [
+   {
+    "r": "へい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{兵士|へいし}",
+      "en": "soldier",
+      "lvl": 2
+     },
+     {
+      "w": "{兵隊|へいたい}",
+      "en": "soldier, troops",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "ひょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{兵庫県|ひょうごけん}",
+      "en": "Hyogo Prefecture",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "へい is the main reading. Trap: 兵庫県 (near Kobe) uses ひょう."
+ },
+ {
+  "kanji": "接",
+  "readings": [
+   {
+    "r": "せつ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{直接|ちょくせつ}",
+      "en": "directly",
+      "lvl": 2
+     },
+     {
+      "w": "{面接|めんせつ}",
+      "en": "interview",
+      "lvl": 2
+     },
+     {
+      "w": "{接続|せつぞく}",
+      "en": "connection",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Only せつ in common words. 面接 (job interview) is useful."
+ },
+ {
+  "kanji": "細",
+  "readings": [
+   {
+    "r": "ほそ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{細|ほそ}い",
+      "en": "thin, narrow",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "こま",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{細|こま}かい",
+      "en": "small, detailed",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "さい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{詳細|しょうさい}",
+      "en": "details",
+      "lvl": 1
+     },
+     {
+      "w": "{細胞|さいぼう}",
+      "en": "cell (biology)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Trap: 細い (ほそい, thin) and 細かい (こまかい, small, detailed) look alike. Check the okurigana."
+ },
+ {
+  "kanji": "効",
+  "readings": [
+   {
+    "r": "き",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{効|き}く",
+      "en": "to work, to be effective",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "こう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{効果|こうか}",
+      "en": "effect",
+      "lvl": 2
+     },
+     {
+      "w": "{有効|ゆうこう}",
+      "en": "valid, effective",
+      "lvl": 2
+     },
+     {
+      "w": "{効率|こうりつ}",
+      "en": "efficiency",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Trap: 効く (medicine works) and 聞く (listen) are both きく."
+ },
+ {
+  "kanji": "丸",
+  "readings": [
+   {
+    "r": "まる",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{丸|まる}",
+      "en": "circle",
+      "lvl": 3
+     },
+     {
+      "w": "{丸|まる}い",
+      "en": "round",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "がん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{弾丸|だんがん}",
+      "en": "bullet",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "まる is the reading you need. Don't confuse 丸 with 九 (nine)."
+ },
+ {
+  "kanji": "湾",
+  "readings": [
+   {
+    "r": "わん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{台湾|たいわん}",
+      "en": "Taiwan",
+      "lvl": 2
+     },
+     {
+      "w": "{東京湾|とうきょうわん}",
+      "en": "Tokyo Bay",
+      "lvl": 2
+     },
+     {
+      "w": "{湾|わん}",
+      "en": "bay",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only わん. You see it in 台湾 (Taiwan)."
+ },
+ {
+  "kanji": "録",
+  "readings": [
+   {
+    "r": "ろく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{記録|きろく}",
+      "en": "record",
+      "lvl": 2
+     },
+     {
+      "w": "{録音|ろくおん}",
+      "en": "audio recording",
+      "lvl": 2
+     },
+     {
+      "w": "{登録|とうろく}",
+      "en": "registration",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Only ろく. Don't confuse 録 with 緑 (green, みどり)."
+ },
+ {
+  "kanji": "省",
+  "readings": [
+   {
+    "r": "しょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{省|しょう}",
+      "en": "ministry (of government)",
+      "lvl": 2
+     },
+     {
+      "w": "{外務省|がいむしょう}",
+      "en": "Ministry of Foreign Affairs",
+      "lvl": 2
+     },
+     {
+      "w": "{省略|しょうりゃく}",
+      "en": "omission, short form",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "せい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{反省|はんせい}",
+      "en": "reflection, regret",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "はぶ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{省|はぶ}く",
+      "en": "to leave out, to save (time)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "しょう is for ministries. Trap: 反省 (reflecting on your mistake) uses せい. Don't confuse 省 with 少."
+ },
+ {
+  "kanji": "旧",
+  "readings": [
+   {
+    "r": "きゅう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{新旧|しんきゅう}",
+      "en": "new and old",
+      "lvl": 1
+     },
+     {
+      "w": "{旧正月|きゅうしょうがつ}",
+      "en": "Lunar New Year",
+      "lvl": 1
+     },
+     {
+      "w": "{復旧|ふっきゅう}",
+      "en": "restoration (after damage)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only きゅう. It means old or former. Don't confuse 旧 with 日 or 申."
+ },
+ {
+  "kanji": "橋",
+  "readings": [
+   {
+    "r": "はし",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{橋|はし}",
+      "en": "bridge",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "きょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{歩道橋|ほどうきょう}",
+      "en": "pedestrian bridge",
+      "lvl": 2
+     },
+     {
+      "w": "{鉄橋|てっきょう}",
+      "en": "railway bridge",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Alone it is はし. Trap: 箸 (chopsticks) is also はし; in names it can be ばし, like 日本橋."
+ },
+ {
+  "kanji": "岸",
+  "readings": [
+   {
+    "r": "きし",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{岸|きし}",
+      "en": "shore, bank",
+      "lvl": 2
+     },
+     {
+      "w": "{川岸|かわぎし}",
+      "en": "riverbank",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "がん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{海岸|かいがん}",
+      "en": "coast, seashore",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Alone it is きし. In 川岸 it becomes ぎし. 海岸 uses がん."
+ },
+ {
+  "kanji": "周",
+  "readings": [
+   {
+    "r": "まわ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{周|まわ}り",
+      "en": "surroundings, around",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "しゅう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{一周|いっしゅう}",
+      "en": "one lap, going around",
+      "lvl": 2
+     },
+     {
+      "w": "{周辺|しゅうへん}",
+      "en": "surroundings",
+      "lvl": 2
+     },
+     {
+      "w": "{周囲|しゅうい}",
+      "en": "surroundings, circumference",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "まわり is the useful one. Trap: 回り is also まわり (turning around)."
+ },
+ {
+  "kanji": "材",
+  "readings": [
+   {
+    "r": "ざい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{材料|ざいりょう}",
+      "en": "ingredients, materials",
+      "lvl": 3
+     },
+     {
+      "w": "{教材|きょうざい}",
+      "en": "teaching materials",
+      "lvl": 2
+     },
+     {
+      "w": "{木材|もくざい}",
+      "en": "wood, timber",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only ざい. Don't confuse 材 (material) with 村 (village)."
+ },
+ {
+  "kanji": "戸",
+  "readings": [
+   {
+    "r": "と",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{戸|と}",
+      "en": "door",
+      "lvl": 4
+     },
+     {
+      "w": "{雨戸|あまど}",
+      "en": "storm shutters",
+      "lvl": 2
+     },
+     {
+      "w": "{戸棚|とだな}",
+      "en": "cupboard",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "こ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{一戸建|いっこだ}て",
+      "en": "detached house",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "と is the reading you need. Trap: it can become ど, as in 雨戸 and 江戸."
+ },
+ {
+  "kanji": "央",
+  "readings": [
+   {
+    "r": "おう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{中央|ちゅうおう}",
+      "en": "center, middle",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Only おう, almost always in 中央 (center). Don't confuse 央 with 英 or 史."
+ }
+]

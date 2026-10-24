@@ -1,0 +1,802 @@
+[
+ {
+  "id": "v2-0337",
+  "hook": "Woman (女) + of (の) + person (人): a woman."
+ },
+ {
+  "id": "v2-0007",
+  "hook": "日 is sun or day; it is read か when counting days, like 三日 (みっか, three days)."
+ },
+ {
+  "id": "v2-0047",
+  "hook": "日 (day) is read じつ in formal words like 平日 (weekday) and 休日 (day off)."
+ },
+ {
+  "id": "v2-1504",
+  "hook": "一 (one) is read ひと before words: 一つ (one thing), 一言 (ひとこと, one word)."
+ },
+ {
+  "id": "v2-1502",
+  "hook": "Brush or writing (筆) + person (者): the person holding the pen, the writer."
+ },
+ {
+  "id": "v2-0026",
+  "hook": "行 can mean a line or row: 一行 (いちぎょう) is one line of text."
+ },
+ {
+  "id": "v2-1500",
+  "hook": "Pull (引) your things across (越) to a new home: moving house."
+ },
+ {
+  "id": "v2-0914",
+  "hook": "Resources (資) + materials (料): the papers and data you need."
+ },
+ {
+  "id": "v2-0368",
+  "hook": "限 means limit: かぎり is the limit, as far as it goes."
+ },
+ {
+  "id": "v2-0051",
+  "hook": "手 (hand) can mean a skilled person: 選手 (せんしゅ) is a chosen hand, a player."
+ },
+ {
+  "id": "v2-0031",
+  "hook": "家 (house) is read け after family names: 田中家 is the Tanaka family."
+ },
+ {
+  "id": "v2-0069",
+  "hook": "前 (before) is read ぜん: 食前 (しょくぜん) means before meals."
+ },
+ {
+  "id": "v2-1025",
+  "hook": "前 (before) at the front: 前首相 is the former prime minister."
+ },
+ {
+  "id": "v2-0017",
+  "hook": "間 is the sun (日) seen through a gate (門): the gap between, like 一週間 (a week's span)."
+ },
+ {
+  "id": "v2-0310",
+  "hook": "願 means wish or request: polite お + wish + します, I humbly ask, please."
+ },
+ {
+  "id": "v2-0686",
+  "hook": "今 (now) is read こん: 今月 (this month), 今週 (this week)."
+ },
+ {
+  "id": "v2-0850",
+  "hook": "Master or main (主) + person (人): the main person of the house, your husband."
+ },
+ {
+  "id": "v2-1439",
+  "hook": "発 means start or set off: 東京発 means departing from Tokyo."
+ },
+ {
+  "id": "v2-0950",
+  "hook": "Water (水) + day of the week (曜): water day, Wednesday."
+ },
+ {
+  "id": "v2-0246",
+  "hook": "上 (up, above) is read うわ in words like 上着 (うわぎ, outer jacket)."
+ },
+ {
+  "id": "v2-0334",
+  "hook": "Warm (温) + spring (泉): a warm spring, a hot spring."
+ },
+ {
+  "id": "v2-0101",
+  "hook": "部 means section or part: 一部 (いちぶ) is one part."
+ },
+ {
+  "id": "v2-0884",
+  "hook": "Trade (商) + shop (店): a shop where trade happens."
+ },
+ {
+  "id": "v2-1452",
+  "hook": "Flower (花) + fire (火): fire flowers in the sky, fireworks."
+ },
+ {
+  "id": "v2-0048",
+  "hook": "車 (car, vehicle) is read しゃ: 電車 (electric car, train), 自動車 (car)."
+ },
+ {
+  "id": "v2-0050",
+  "hook": "社 means company: 三社 (さんしゃ) is three companies, like 会社."
+ },
+ {
+  "id": "v2-1638",
+  "hook": "Named after Ding, a legendary Chinese cook: \"whoa, chop!\" (ほうちょう) with the kitchen knife."
+ },
+ {
+  "id": "v2-0039",
+  "hook": "毎 means every: after a word it is read ごと, like 一時間毎 (いちじかんごと, every hour)."
+ },
+ {
+  "id": "v2-1664",
+  "hook": "毎 (every) is read まい: 毎日 (every day), 毎朝 (every morning)."
+ },
+ {
+  "id": "v2-0603",
+  "hook": "小 (small) is read こ: 小鳥 (ことり, little bird), 小雨 (こさめ, light rain)."
+ },
+ {
+  "id": "v2-0114",
+  "hook": "夜 (night) is read や when counting nights: 一夜 (いちや, one night)."
+ },
+ {
+  "id": "v2-0695",
+  "hook": "最 means most: 最高 (most high, the best), 最初 (the very first)."
+ },
+ {
+  "id": "v2-0078",
+  "hook": "長 (long) also means chief or head: 社長 (company head), 校長 (principal)."
+ },
+ {
+  "id": "v2-1173",
+  "hook": "長 (long) is read ちょう: 長時間 (long hours), 長距離 (long distance)."
+ },
+ {
+  "id": "v2-1337",
+  "hook": "長い (ながい) means long: 長袖 (ながそで, long sleeves), 長生き (long life)."
+ },
+ {
+  "id": "v2-0617",
+  "hook": "Construction (工) + work or matter (事): building work, construction."
+ },
+ {
+  "id": "v2-0056",
+  "hook": "女 (woman) is read じょ: 長女 (eldest daughter), 次女 (second daughter)."
+ },
+ {
+  "id": "v2-0865",
+  "hook": "女 (woman) is read じょ at the front: 女子 (girl), 女性 (woman)."
+ },
+ {
+  "id": "v2-0599",
+  "hook": "Hang (懸) your life (命) on it: giving everything, as in 一生懸命."
+ },
+ {
+  "id": "v2-0868",
+  "hook": "小学 (small learning, elementary school) + 生 (student): an elementary school pupil."
+ },
+ {
+  "id": "v2-1133",
+  "hook": "足 means foot but also enough: 足りる and the older 足る both mean to be enough."
+ },
+ {
+  "id": "v2-0117",
+  "hook": "料 means fee: 入場料 (entry fee), 送料 (shipping fee)."
+ },
+ {
+  "id": "v2-0049",
+  "hook": "者 means person: 学者 (scholar), 医者 (doctor)."
+ },
+ {
+  "id": "v2-1873",
+  "hook": "Fishing (漁) + master or expert (師): a fishing pro, a fisherman."
+ },
+ {
+  "id": "v2-0040",
+  "hook": "山 (mountain) is read さん after names: 富士山 (Mount Fuji)."
+ },
+ {
+  "id": "v2-0517",
+  "hook": "Gold (金) + fish (魚): the little gold fish, a goldfish."
+ },
+ {
+  "id": "v2-0589",
+  "hook": "Original (原) + draft (稿): the original draft, a manuscript."
+ },
+ {
+  "id": "v2-1611",
+  "hook": "Flat or ordinary (平) + day (日): an ordinary day, a weekday."
+ },
+ {
+  "id": "v2-0924",
+  "hook": "State (申) + request (請): formally state your request, an application."
+ },
+ {
+  "id": "v2-0955",
+  "hook": "Picture (図) + mirror or model (鑑): a book of pictures to look things up, a field guide."
+ },
+ {
+  "id": "v2-1696",
+  "hook": "Full (満) + members (員): every person's spot is filled, a full house."
+ },
+ {
+  "id": "v2-0987",
+  "hook": "寸 (an old inch unit) + method (法): the way of measuring, size."
+ },
+ {
+  "id": "v2-1622",
+  "hook": "Compile or knit (編) + collect (集): collect pieces and knit them together, editing."
+ },
+ {
+  "id": "v2-0043",
+  "hook": "紙 (paper) is read し: 新聞紙 (newspaper), 和紙 (Japanese paper)."
+ },
+ {
+  "id": "v2-0556",
+  "hook": "Respect (敬) + language (語): respectful language, honorifics."
+ },
+ {
+  "id": "v2-0919",
+  "hook": "New (新) + trunk or main (幹) + line (線): the new main line, the bullet train."
+ },
+ {
+  "id": "v2-1412",
+  "hook": "Playful art (俳) + phrase (句): a short playful poem of 5, 7, 5 sounds."
+ },
+ {
+  "id": "v2-1818",
+  "hook": "Bath (浴) + clothes (衣): what you wear after the bath, a summer kimono."
+ },
+ {
+  "id": "v2-0607",
+  "hook": "高 (high) is read こう: 高校 (high school), 高速 (high speed)."
+ },
+ {
+  "id": "v2-0008",
+  "hook": "下 (under) is read か: 以下 (いか, below), 地下 (ちか, underground)."
+ },
+ {
+  "id": "v2-0025",
+  "hook": "教 (teach) is read きょう: a teaching becomes a religion, like 仏教 (Buddhism)."
+ },
+ {
+  "id": "v2-0091",
+  "hook": "道 (road) also means a way of life: 柔道 (the gentle way, judo), 書道 (calligraphy)."
+ },
+ {
+  "id": "v2-0863",
+  "hook": "初 (first) is read しょ: 初日 (しょにち, first day), 初級 (beginner level)."
+ },
+ {
+  "id": "v2-0054",
+  "hook": "所 (place) is read しょ: 住所 (address), 事務所 (じむしょ, office)."
+ },
+ {
+  "id": "v2-0055",
+  "hook": "所 (place) is read じょ in some words: 近所 (きんじょ, neighbourhood)."
+ },
+ {
+  "id": "v2-0111",
+  "hook": "名 (name) is read めい to count people: 三名 (three people) is the polite way."
+ },
+ {
+  "id": "v2-1738",
+  "hook": "名 (name) is read めい for famous things: 名所 (famous place), 名作 (masterpiece)."
+ },
+ {
+  "id": "v2-0291",
+  "hook": "元気 (origin + energy, healthy): stay full of energy, take care."
+ },
+ {
+  "id": "v2-0318",
+  "hook": "From 待つ (wait) + ください (please): please wait, said politely."
+ },
+ {
+  "id": "v2-1253",
+  "hook": "Younger brother (弟) + child (子): like a little brother to the master, a pupil."
+ },
+ {
+  "id": "v2-1294",
+  "hook": "Lamp (灯) + stand (台): a lamp on a tall stand, a lighthouse."
+ },
+ {
+  "id": "v2-0061",
+  "hook": "場 (place) is read じょう: 会場 (meeting place, venue), 工場 (factory)."
+ },
+ {
+  "id": "v2-0106",
+  "hook": "歩 (walk) is read ほ to count steps: 一歩 (いっぽ, one step), 二歩 (にほ)."
+ },
+ {
+  "id": "v2-0113",
+  "hook": "問 (question) is read もん to count questions: 第一問 (question one)."
+ },
+ {
+  "id": "v2-0185",
+  "hook": "From (以) + go down (降): from that point on down the line, hereafter."
+ },
+ {
+  "id": "v2-0262",
+  "hook": "Extend (延) + long (長): make it longer, an extension (like overtime)."
+ },
+ {
+  "id": "v2-0327",
+  "hook": "From 休む (rest): お休み is a rest, a day off, or good night."
+ },
+ {
+  "id": "v2-0853",
+  "hook": "Go out (出) + stretch (張): stretching out to work far away, a business trip."
+ },
+ {
+  "id": "v2-1589",
+  "hook": "Old or former (故) + home village (郷): your old home village, your hometown."
+ },
+ {
+  "id": "v2-0013",
+  "hook": "外 (outside) is read がい: 予想外 (beyond expectations), 時間外 (out of hours)."
+ },
+ {
+  "id": "v2-0341",
+  "hook": "外 (outside) is read がい at the front: 外国 (foreign country), 外食 (eating out)."
+ },
+ {
+  "id": "v2-0012",
+  "hook": "画 (picture) is read が: 映画 (えいが, movie), 日本画 (Japanese painting)."
+ },
+ {
+  "id": "v2-0075",
+  "hook": "着 means wear and also arrive: 一着 (one suit, or first to arrive)."
+ },
+ {
+  "id": "v2-0035",
+  "hook": "校 (school) is read こう: 学校, 高校; 三校 means three schools."
+ },
+ {
+  "id": "v2-0419",
+  "hook": "Win (勝) + hand (手): your hand always wins, so you do things your own way."
+ },
+ {
+  "id": "v2-1093",
+  "hook": "Against (対) + plan (策): a plan against a problem, a countermeasure."
+ },
+ {
+  "id": "v2-1261",
+  "hook": "Hand (手) + front (前): right in front of your hand, this side."
+ },
+ {
+  "id": "v2-1271",
+  "hook": "Electricity (電) + pond (池): a little pond of electricity, a battery."
+ },
+ {
+  "id": "v2-1290",
+  "hook": "That very (当) + day (日): on the day itself."
+ },
+ {
+  "id": "v2-1380",
+  "hook": "Enter (入) + company (社): joining a company."
+ },
+ {
+  "id": "v2-0081",
+  "hook": "通 (pass through) is read つう: letters pass through the post, 一通 (one letter)."
+ },
+ {
+  "id": "v2-1282",
+  "hook": "同 (same) is read どう: 同時 (same time), 同級生 (classmate)."
+ },
+ {
+  "id": "v2-0027",
+  "hook": "業 (business, work) is read ぎょう: 工業 (industry), 農業 (farming)."
+ },
+ {
+  "id": "v2-0072",
+  "hook": "足 (foot) is read そく to count pairs of shoes: 一足 (いっそく, one pair)."
+ },
+ {
+  "id": "v2-0102",
+  "hook": "風 (wind) also means style: 和風 (Japanese style), 洋風 (Western style)."
+ },
+ {
+  "id": "v2-0240",
+  "hook": "Sell (売) + raise (上): the money raised by selling, sales."
+ },
+ {
+  "id": "v2-0475",
+  "hook": "Wear (着) + change (替): change what you wear, a change of clothes."
+ },
+ {
+  "id": "v2-0592",
+  "hook": "Polish (研) + study (修): polishing your skills, job training."
+ },
+ {
+  "id": "v2-0769",
+  "hook": "Figure (姿) + force (勢): how your body holds itself, posture or attitude."
+ },
+ {
+  "id": "v2-1445",
+  "hook": "Send out (発) + sell (売): sending it out for sale, a release."
+ },
+ {
+  "id": "v2-1515",
+  "hook": "Day (日) + day (日): which day it is, a date."
+ },
+ {
+  "id": "v2-1563",
+  "hook": "Military (武) + warrior (士): a samurai."
+ },
+ {
+  "id": "v2-0520",
+  "hook": "空 (sky, empty) is read くう: 空港 (airport), 空席 (empty seat)."
+ },
+ {
+  "id": "v2-1588",
+  "hook": "古い (ふるい) means old: 古本 (ふるほん, used book), 古着 (used clothes)."
+ },
+ {
+  "id": "v2-0019",
+  "hook": "館 (large building) is read かん: 図書館 (library), 美術館 (art museum)."
+ },
+ {
+  "id": "v2-0038",
+  "hook": "国 (country) is read こく: 外国 (foreign country), 中国 (China)."
+ },
+ {
+  "id": "v2-0100",
+  "hook": "病 (illness) is read びょう: 病気 (illness), 心臓病 (heart disease)."
+ },
+ {
+  "id": "v2-0280",
+  "hook": "From 帰る (return home): お帰り is welcome back."
+ },
+ {
+  "id": "v2-0432",
+  "hook": "釜 is father (父) on top of metal (金): father's big metal pot."
+ },
+ {
+  "id": "v2-0465",
+  "hook": "Can (缶) + packed (詰): food packed in a can."
+ },
+ {
+  "id": "v2-0507",
+  "hook": "Carry out (行) + matter (事): things carried out each year, events."
+ },
+ {
+  "id": "v2-0545",
+  "hook": "配 means hand out: くばる is giving things to everyone."
+ },
+ {
+  "id": "v2-0740",
+  "hook": "Calculate (算) + number (数): calculating numbers, arithmetic."
+ },
+ {
+  "id": "v2-0819",
+  "hook": "Vehicle (車) + manage (掌): the person who manages the train car, the conductor."
+ },
+ {
+  "id": "v2-0880",
+  "hook": "Ride (乗) + vehicle (車): getting on a train or car."
+ },
+ {
+  "id": "v2-1255",
+  "hook": "Hand (手) + notebook (帳): a notebook that fits in your hand."
+ },
+ {
+  "id": "v2-1276",
+  "hook": "Electric (電) + wave (波): electric waves, radio signals."
+ },
+ {
+  "id": "v2-1448",
+  "hook": "Talk (話) + together (合): talking together, a discussion."
+ },
+ {
+  "id": "v2-1526",
+  "hook": "Beauty (美) + appearance (容): beauty care, like a beauty salon (美容院)."
+ },
+ {
+  "id": "v2-1661",
+  "hook": "Main (本) + section (部): the main section, headquarters."
+ },
+ {
+  "id": "v2-1775",
+  "hook": "Food (食 side) + join (并): rice pounded and joined into one sticky cake."
+ },
+ {
+  "id": "v2-0011",
+  "hook": "歌 (song) is read か: 国歌 (national anthem), 校歌 (school song)."
+ },
+ {
+  "id": "v2-0023",
+  "hook": "機 (machine) is read き: 飛行機 (airplane), 洗濯機 (washing machine)."
+ },
+ {
+  "id": "v2-0030",
+  "hook": "口 (mouth) means an opening: 入り口 (entrance), 出口 (でぐち, exit)."
+ },
+ {
+  "id": "v2-0046",
+  "hook": "室 (room) is read しつ: 教室 (classroom), 和室 (Japanese style room)."
+ },
+ {
+  "id": "v2-0778",
+  "hook": "室 (room) is read しつ at the front: 室内 (indoors), 室温 (room temperature)."
+ },
+ {
+  "id": "v2-0158",
+  "hook": "怪 means strange or mysterious: あやしい is something strange, suspicious."
+ },
+ {
+  "id": "v2-0294",
+  "hook": "先 means ahead: お先に is I will go ahead first, or please go first."
+ },
+ {
+  "id": "v2-0302",
+  "hook": "世話 means care: you took care of me, thank you."
+ },
+ {
+  "id": "v2-0344",
+  "hook": "Inspect (改) + ticket (札): where tickets are checked, the ticket gate."
+ },
+ {
+  "id": "v2-0580",
+  "hook": "Month (月) + end (末): the end of the month."
+ },
+ {
+  "id": "v2-0672",
+  "hook": "Words (言葉) + use (遣い): how you use your words."
+ },
+ {
+  "id": "v2-0808",
+  "hook": "Tie shut (締) + cut (切): shut and cut off, the deadline."
+ },
+ {
+  "id": "v2-0846",
+  "hook": "Celebrate (祝) + day (日): a day of celebration, a national holiday."
+ },
+ {
+  "id": "v2-0901",
+  "hook": "Job or skill (職) + person (人): a person with a skilled trade, a craftsman."
+ },
+ {
+  "id": "v2-0902",
+  "hook": "Job (職) + place (場): the place of your job, the workplace."
+ },
+ {
+  "id": "v2-1089",
+  "hook": "University (大学) + institution (院): the school after university, graduate school."
+ },
+ {
+  "id": "v2-1201",
+  "hook": "Pass on (通) + know (知): passing it on so others know, a notice."
+ },
+ {
+  "id": "v2-1767",
+  "hook": "申し訳 (an excuse I offer) + ない (none): I have no excuse, I am sorry."
+ },
+ {
+  "id": "v2-0020",
+  "hook": "感 (feeling) is read かん: 安心感 (sense of safety), 責任感 (sense of duty)."
+ },
+ {
+  "id": "v2-0088",
+  "hook": "頭 (head) is read とう to count big animals by the head: 牛三頭 (three cows)."
+ },
+ {
+  "id": "v2-0053",
+  "hook": "集 (collect) is read しゅう: 写真集 (photo collection), 作品集 (collected works)."
+ },
+ {
+  "id": "v2-0119",
+  "hook": "力 (power) is read りょく: 体力 (body strength), 学力 (school ability)."
+ },
+ {
+  "id": "v2-0191",
+  "hook": "One or first (一) + stream or class (流): first class, top level."
+ },
+ {
+  "id": "v2-0241",
+  "hook": "Sell (売) + cut off (切): selling until the stock is cut off, sold out."
+ },
+ {
+  "id": "v2-0494",
+  "hook": "Guest (客) + seat (席): seats for the guests, the audience seats."
+ },
+ {
+  "id": "v2-0498",
+  "hook": "Rest (休) + business (業): the business is resting, closed."
+ },
+ {
+  "id": "v2-0555",
+  "hook": "Think about (稽) + the old (古): studying the old ways, practice."
+ },
+ {
+  "id": "v2-0633",
+  "hook": "School (校) + garden or yard (庭): the school yard."
+ },
+ {
+  "id": "v2-0713",
+  "hook": "Make (作) + person (者): the person who made it, the author."
+ },
+ {
+  "id": "v2-0921",
+  "hook": "People (人) + matters (事): matters about people, human resources."
+ },
+ {
+  "id": "v2-0927",
+  "hook": "Examine (診) + judge (断): examine, then judge, a diagnosis."
+ },
+ {
+  "id": "v2-0965",
+  "hook": "Metal (金) + order (令): a metal thing that rings out, a bell."
+ },
+ {
+  "id": "v2-0980",
+  "hook": "Each other (相) + strike (撲): striking each other, sumo wrestling."
+ },
+ {
+  "id": "v2-1049",
+  "hook": "Storehouse (倉) + storage (庫): a building for storing things, a warehouse."
+ },
+ {
+  "id": "v2-1354",
+  "hook": "What (何) + part (分): whatever the case, so please, by all means."
+ },
+ {
+  "id": "v2-1437",
+  "hook": "From 果たす (carry out; 果 is fruit or result): when the result comes, sure enough."
+ },
+ {
+  "id": "v2-1516",
+  "hook": "日 (day) + にち (day again): which day, the date."
+ },
+ {
+  "id": "v2-1519",
+  "hook": "Sun (日) + の + come out (出): the sun comes out, sunrise."
+ },
+ {
+  "id": "v2-1520",
+  "hook": "響 means echo: ひびき is a sound echoing around."
+ },
+ {
+  "id": "v2-1530",
+  "hook": "Mark (標) + origin (本): a marked example kept as a model, a specimen."
+ },
+ {
+  "id": "v2-1662",
+  "hook": "Origin (本) + come (来): what comes from the origin, by nature."
+ },
+ {
+  "id": "v2-1683",
+  "hook": "True (真) + blue (青): truly blue, or pale as a ghost."
+ },
+ {
+  "id": "v2-1685",
+  "hook": "True (真) + white (白): truly white, pure white."
+ },
+ {
+  "id": "v2-1716",
+  "hook": "Look (見) + fix (直): look again to fix it, review."
+ },
+ {
+  "id": "v2-1734",
+  "hook": "No (無) + number (数): too many to number, countless."
+ },
+ {
+  "id": "v2-1778",
+  "hook": "Things (物) + put (置): a place to put things, a storeroom."
+ },
+ {
+  "id": "v2-0005",
+  "hook": "園 (garden) is read えん: 公園 (park), 動物園 (zoo)."
+ },
+ {
+  "id": "v2-0097",
+  "hook": "発 (fire, shoot) is read はつ to count shots: 一発 (いっぱつ, one shot)."
+ },
+ {
+  "id": "v2-0828",
+  "hook": "重 (heavy) is read じゅう: 重工業 (heavy industry), 重要 (important)."
+ },
+ {
+  "id": "v2-0063",
+  "hook": "色 (colour) is read しょく: 三色 (さんしょく, three colours)."
+ },
+ {
+  "id": "v2-1464",
+  "hook": "反 (against) is read はん: 反対 (opposite), 反戦 (anti war)."
+ },
+ {
+  "id": "v2-0059",
+  "hook": "勝 (win) is read しょう to count wins: 三勝 (three wins)."
+ },
+ {
+  "id": "v2-0083",
+  "hook": "From 付く (attach): 付き means comes with, like 朝食付き (breakfast included)."
+ },
+ {
+  "id": "v2-0094",
+  "hook": "内 (inside) is read ない: 国内 (in the country), 社内 (in the company)."
+ },
+ {
+  "id": "v2-1116",
+  "hook": "竹 looks like two bamboo stalks with leaves hanging down: bamboo."
+ },
+ {
+  "id": "v2-0087",
+  "hook": "点 (dot, point) is read てん: 百点 (a hundred points, full marks)."
+ },
+ {
+  "id": "v2-0021",
+  "hook": "期 (period of time) is read き: 学期 (school term), 時期 (time, season)."
+ },
+ {
+  "id": "v2-0136",
+  "hook": "Foot (足) + base (元): the ground at your feet."
+ },
+ {
+  "id": "v2-0163",
+  "hook": "改 means renew: 改めて is doing it again, anew."
+ },
+ {
+  "id": "v2-0266",
+  "hook": "From 追う (chase): 追いかける is running after someone."
+ },
+ {
+  "id": "v2-0378",
+  "hook": "Study (学) + section (部): a study section of a university, a faculty."
+ },
+ {
+  "id": "v2-0435",
+  "hook": "God (神) + honoured (様): the honoured god."
+ },
+ {
+  "id": "v2-0469",
+  "hook": "Dry (乾) + cup (杯): drink until the cup is dry, cheers!"
+ },
+ {
+  "id": "v2-0476",
+  "hook": "Wear (着) + replace (替): replace what you wear, change clothes."
+ },
+ {
+  "id": "v2-0483",
+  "hook": "Ceremony (儀) + form (式): a formal ceremony, a ritual."
+ },
+ {
+  "id": "v2-0546",
+  "hook": "Craft (工) + man (夫): the craftsman's clever ideas, ingenuity."
+ },
+ {
+  "id": "v2-0558",
+  "hook": "Shape (形) + style (式): the shape something takes, a format."
+ },
+ {
+  "id": "v2-0612",
+  "hook": "Public (公) + together (共): shared together by the public."
+ },
+ {
+  "id": "v2-0630",
+  "hook": "Exchange (交) + replace (代): take turns, swap."
+ },
+ {
+  "id": "v2-0756",
+  "hook": "Four (四) + corners (角): four cornered, square."
+ },
+ {
+  "id": "v2-0779",
+  "hook": "Real (実) + feeling (感): a real feeling, truly sensing it."
+ },
+ {
+  "id": "v2-0851",
+  "hook": "Go out (出) + work duty (勤): going out to work."
+ },
+ {
+  "id": "v2-0878",
+  "hook": "Block (障) + 子 (noun ending): a paper screen that blocks the view, a sliding door."
+ },
+ {
+  "id": "v2-0890",
+  "hook": "Upper (上) + quality (品): high quality, refined."
+ },
+ {
+  "id": "v2-0931",
+  "hook": "Deep (深) + night (夜): deep in the night."
+ },
+ {
+  "id": "v2-0963",
+  "hook": "From 少ない (few): even counting few, at least."
+ },
+ {
+  "id": "v2-1004",
+  "hook": "Sex or nature (性) + separate (別): separating by sex, gender."
+ },
+ {
+  "id": "v2-1163",
+  "hook": "Tea (茶) + colour (色): tea coloured, brown."
+ },
+ {
+  "id": "v2-1208",
+  "hook": "Months (月) + days (日): the months and days that pass, time."
+ }
+]

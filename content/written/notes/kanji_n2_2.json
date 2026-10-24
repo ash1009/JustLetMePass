@@ -1,0 +1,2723 @@
+[
+ {
+  "kanji": "募",
+  "readings": [
+   {
+    "r": "ぼ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{募集|ぼしゅう}",
+      "en": "recruiting, call for people",
+      "lvl": 2
+     },
+     {
+      "w": "{応募|おうぼ}",
+      "en": "applying (for a job, contest)",
+      "lvl": 2
+     },
+     {
+      "w": "{募金|ぼきん}",
+      "en": "fundraising",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "つの",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{募|つの}る",
+      "en": "to gather, to call for",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "ぼ is the one to know, as in 募集 on job ads. Not needed for N5/N4."
+ },
+ {
+  "kanji": "裏",
+  "readings": [
+   {
+    "r": "うら",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{裏|うら}",
+      "en": "back, reverse side",
+      "lvl": 3
+     },
+     {
+      "w": "{裏口|うらぐち}",
+      "en": "back door",
+      "lvl": 2
+     },
+     {
+      "w": "{裏切|うらぎ}る",
+      "en": "to betray",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "り",
+    "type": "on",
+    "words": [
+     {
+      "w": "{表裏|ひょうり}",
+      "en": "both sides, front and back",
+      "lvl": 1
+     },
+     {
+      "w": "{脳裏|のうり}",
+      "en": "the back of your mind",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "うら matters most. Its opposite is 表 おもて (front)."
+ },
+ {
+  "kanji": "仏",
+  "readings": [
+   {
+    "r": "ほとけ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{仏|ほとけ}",
+      "en": "Buddha",
+      "lvl": 2
+     },
+     {
+      "w": "{仏様|ほとけさま}",
+      "en": "Buddha (polite)",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "ぶつ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{仏教|ぶっきょう}",
+      "en": "Buddhism",
+      "lvl": 2
+     },
+     {
+      "w": "{仏像|ぶつぞう}",
+      "en": "Buddha statue",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "ふつ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{日仏|にちふつ}",
+      "en": "Japan and France",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn 仏教 ぶっきょう first: ぶつ becomes ぶっ. ふつ means France, as in 日仏."
+ },
+ {
+  "kanji": "績",
+  "readings": [
+   {
+    "r": "せき",
+    "type": "on",
+    "words": [
+     {
+      "w": "{成績|せいせき}",
+      "en": "grades, results",
+      "lvl": 3
+     },
+     {
+      "w": "{実績|じっせき}",
+      "en": "track record",
+      "lvl": 1
+     },
+     {
+      "w": "{業績|ぎょうせき}",
+      "en": "achievements, business results",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "成績 (school grades) is the useful word. Do not mix up 績, 積 and 責 (all せき)."
+ },
+ {
+  "kanji": "築",
+  "readings": [
+   {
+    "r": "ちく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{建築|けんちく}",
+      "en": "architecture, building",
+      "lvl": 2
+     },
+     {
+      "w": "{新築|しんちく}",
+      "en": "newly built",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "きず",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{築|きず}く",
+      "en": "to build (a relationship, a wall)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "ちく in 建築 is the one to know. Not needed for N5/N4."
+ },
+ {
+  "kanji": "貨",
+  "readings": [
+   {
+    "r": "か",
+    "type": "on",
+    "words": [
+     {
+      "w": "{硬貨|こうか}",
+      "en": "coin",
+      "lvl": 2
+     },
+     {
+      "w": "{通貨|つうか}",
+      "en": "currency",
+      "lvl": 1
+     },
+     {
+      "w": "{貨物|かもつ}",
+      "en": "freight, cargo",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only か is used. Do not mix up 貨 with 貸 (lend)."
+ },
+ {
+  "kanji": "混",
+  "readings": [
+   {
+    "r": "こ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{混|こ}む",
+      "en": "to be crowded",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "ま",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{混|ま}ぜる",
+      "en": "to mix (something)",
+      "lvl": 3
+     },
+     {
+      "w": "{混|ま}ざる",
+      "en": "to be mixed",
+      "lvl": 2
+     },
+     {
+      "w": "{混|ま}じる",
+      "en": "to be mixed in",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "こん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{混雑|こんざつ}",
+      "en": "crowding, congestion",
+      "lvl": 2
+     },
+     {
+      "w": "{混乱|こんらん}",
+      "en": "confusion",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "For N4, know 混む (こむ): 電車が混んでいる means the train is crowded."
+ },
+ {
+  "kanji": "昇",
+  "readings": [
+   {
+    "r": "のぼ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{昇|のぼ}る",
+      "en": "to rise (sun, smoke)",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "しょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{上昇|じょうしょう}",
+      "en": "rise, going up",
+      "lvl": 1
+     },
+     {
+      "w": "{昇進|しょうしん}",
+      "en": "promotion",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Trap: 上る, 登る and 昇る are all のぼる. At N4 you mostly see 上る and 登る."
+ },
+ {
+  "kanji": "池",
+  "readings": [
+   {
+    "r": "いけ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{池|いけ}",
+      "en": "pond",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "ち",
+    "type": "on",
+    "words": [
+     {
+      "w": "{電池|でんち}",
+      "en": "battery",
+      "lvl": 3
+     },
+     {
+      "w": "{貯水池|ちょすいち}",
+      "en": "reservoir",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "いけ and 電池 are the useful ones. Do not mix up 池 with 地 and 他."
+ },
+ {
+  "kanji": "血",
+  "readings": [
+   {
+    "r": "ち",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{血|ち}",
+      "en": "blood",
+      "lvl": 3
+     },
+     {
+      "w": "{鼻血|はなぢ}",
+      "en": "nosebleed",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "けつ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{血液|けつえき}",
+      "en": "blood (formal)",
+      "lvl": 2
+     },
+     {
+      "w": "{出血|しゅっけつ}",
+      "en": "bleeding",
+      "lvl": 2
+     },
+     {
+      "w": "{血圧|けつあつ}",
+      "en": "blood pressure",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "血 alone is ち. Note 鼻血 はなぢ: ち becomes ぢ."
+ },
+ {
+  "kanji": "温",
+  "readings": [
+   {
+    "r": "あたた",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{温|あたた}かい",
+      "en": "warm (food, heart)",
+      "lvl": 3
+     },
+     {
+      "w": "{温|あたた}める",
+      "en": "to warm up",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "おん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{温度|おんど}",
+      "en": "temperature",
+      "lvl": 3
+     },
+     {
+      "w": "{気温|きおん}",
+      "en": "air temperature",
+      "lvl": 3
+     },
+     {
+      "w": "{温泉|おんせん}",
+      "en": "hot spring",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Trap: 温かい is for things (soup), 暖かい is for weather. Both are あたたかい."
+ },
+ {
+  "kanji": "季",
+  "readings": [
+   {
+    "r": "き",
+    "type": "on",
+    "words": [
+     {
+      "w": "{季節|きせつ}",
+      "en": "season",
+      "lvl": 3
+     },
+     {
+      "w": "{四季|しき}",
+      "en": "the four seasons",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "季節 is the word to know. Do not mix up 季 with 李 or 委."
+ },
+ {
+  "kanji": "星",
+  "readings": [
+   {
+    "r": "ほし",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{星|ほし}",
+      "en": "star",
+      "lvl": 3
+     },
+     {
+      "w": "{流|なが}れ{星|ぼし}",
+      "en": "shooting star",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "せい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{火星|かせい}",
+      "en": "Mars",
+      "lvl": 2
+     },
+     {
+      "w": "{惑星|わくせい}",
+      "en": "planet",
+      "lvl": 1
+     },
+     {
+      "w": "{衛星|えいせい}",
+      "en": "satellite",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "星 alone is ほし (becomes ぼし in 流れ星). Planet names use せい."
+ },
+ {
+  "kanji": "永",
+  "readings": [
+   {
+    "r": "えい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{永遠|えいえん}",
+      "en": "forever, eternity",
+      "lvl": 2
+     },
+     {
+      "w": "{永久|えいきゅう}",
+      "en": "permanent",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "なが",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{永|なが}い",
+      "en": "long (lasting), eternal",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "えい is the main reading. For normal long, use 長い, not 永い."
+ },
+ {
+  "kanji": "著",
+  "readings": [
+   {
+    "r": "ちょ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{著者|ちょしゃ}",
+      "en": "author",
+      "lvl": 2
+     },
+     {
+      "w": "{著名|ちょめい}",
+      "en": "famous",
+      "lvl": 1
+     },
+     {
+      "w": "{著作|ちょさく}",
+      "en": "written work",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "いちじる",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{著|いちじる}しい",
+      "en": "remarkable, striking",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "あらわ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{著|あらわ}す",
+      "en": "to write (a book)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "ちょ in 著者 is the one to know. Do not mix up 著 with 箸 (chopsticks)."
+ },
+ {
+  "kanji": "誌",
+  "readings": [
+   {
+    "r": "し",
+    "type": "on",
+    "words": [
+     {
+      "w": "{雑誌|ざっし}",
+      "en": "magazine",
+      "lvl": 4
+     },
+     {
+      "w": "{日誌|にっし}",
+      "en": "diary, log",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn 雑誌 ざっし, an N4 word."
+ },
+ {
+  "kanji": "庫",
+  "readings": [
+   {
+    "r": "こ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{冷蔵庫|れいぞうこ}",
+      "en": "fridge",
+      "lvl": 3
+     },
+     {
+      "w": "{車庫|しゃこ}",
+      "en": "garage",
+      "lvl": 2
+     },
+     {
+      "w": "{倉庫|そうこ}",
+      "en": "warehouse",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Only こ is common. 冷蔵庫 (fridge) is the useful word."
+ },
+ {
+  "kanji": "刊",
+  "readings": [
+   {
+    "r": "かん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{朝刊|ちょうかん}",
+      "en": "morning newspaper",
+      "lvl": 2
+     },
+     {
+      "w": "{夕刊|ゆうかん}",
+      "en": "evening newspaper",
+      "lvl": 2
+     },
+     {
+      "w": "{週刊誌|しゅうかんし}",
+      "en": "weekly magazine",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only かん is used. Not needed for N5/N4."
+ },
+ {
+  "kanji": "像",
+  "readings": [
+   {
+    "r": "ぞう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{想像|そうぞう}",
+      "en": "imagination",
+      "lvl": 3
+     },
+     {
+      "w": "{画像|がぞう}",
+      "en": "image, picture",
+      "lvl": 2
+     },
+     {
+      "w": "{映像|えいぞう}",
+      "en": "video, picture",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Trap: 像 (image) and 象 (elephant) are both ぞう. 像 has the person part 亻."
+ },
+ {
+  "kanji": "香",
+  "readings": [
+   {
+    "r": "かお",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{香|かお}り",
+      "en": "nice smell, fragrance",
+      "lvl": 2
+     },
+     {
+      "w": "{香|かお}る",
+      "en": "to smell nice",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "こう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{香水|こうすい}",
+      "en": "perfume",
+      "lvl": 2
+     },
+     {
+      "w": "{線香|せんこう}",
+      "en": "incense stick",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "かおり is the useful word. 匂い (におい) is the everyday word for smell."
+ },
+ {
+  "kanji": "坂",
+  "readings": [
+   {
+    "r": "さか",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{坂|さか}",
+      "en": "slope, hill",
+      "lvl": 3
+     },
+     {
+      "w": "{坂道|さかみち}",
+      "en": "sloping road",
+      "lvl": 2
+     },
+     {
+      "w": "{上|のぼ}り{坂|ざか}",
+      "en": "uphill slope",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Only さか is common (ざか after another word). Do not mix up 坂 with 阪 in 大阪."
+ },
+ {
+  "kanji": "底",
+  "readings": [
+   {
+    "r": "そこ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{底|そこ}",
+      "en": "bottom",
+      "lvl": 2
+     },
+     {
+      "w": "{靴底|くつぞこ}",
+      "en": "shoe sole",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "てい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{海底|かいてい}",
+      "en": "sea floor",
+      "lvl": 1
+     },
+     {
+      "w": "{徹底|てってい}",
+      "en": "thoroughness",
+      "lvl": 1
+     },
+     {
+      "w": "{到底|とうてい}",
+      "en": "(not) at all",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "そこ is the useful reading. Do not confuse it with そこ (there), written in kana."
+ },
+ {
+  "kanji": "布",
+  "readings": [
+   {
+    "r": "ふ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{財布|さいふ}",
+      "en": "wallet",
+      "lvl": 4
+     },
+     {
+      "w": "{毛布|もうふ}",
+      "en": "blanket",
+      "lvl": 3
+     },
+     {
+      "w": "{配布|はいふ}",
+      "en": "handing out",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "ぬの",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{布|ぬの}",
+      "en": "cloth",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Learn 財布 さいふ for N4. Do not mix up 布 with 希 (which contains 布)."
+ },
+ {
+  "kanji": "寺",
+  "readings": [
+   {
+    "r": "てら",
+    "type": "kun",
+    "words": [
+     {
+      "w": "お{寺|てら}",
+      "en": "temple",
+      "lvl": 4
+     },
+     {
+      "w": "{山寺|やまでら}",
+      "en": "mountain temple",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "じ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{寺院|じいん}",
+      "en": "temple (formal)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Say お寺 (おてら). Temple names end in じ, like 金閣寺 きんかくじ. Do not mix up 寺 with 時 and 持."
+ },
+ {
+  "kanji": "宇",
+  "readings": [
+   {
+    "r": "う",
+    "type": "on",
+    "words": [
+     {
+      "w": "{宇宙|うちゅう}",
+      "en": "space, universe",
+      "lvl": 2
+     },
+     {
+      "w": "{宇宙人|うちゅうじん}",
+      "en": "alien",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Almost only used in 宇宙. Not needed for N5/N4."
+ },
+ {
+  "kanji": "巨",
+  "readings": [
+   {
+    "r": "きょ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{巨大|きょだい}",
+      "en": "huge",
+      "lvl": 1
+     },
+     {
+      "w": "{巨人|きょじん}",
+      "en": "giant",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only きょ is used. Not needed for N5/N4."
+ },
+ {
+  "kanji": "震",
+  "readings": [
+   {
+    "r": "しん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{地震|じしん}",
+      "en": "earthquake",
+      "lvl": 4
+     },
+     {
+      "w": "{震度|しんど}",
+      "en": "earthquake strength",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "ふる",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{震|ふる}える",
+      "en": "to shake, to tremble",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Learn 地震 じしん for N4. Note 地 is じ here, not ち."
+ },
+ {
+  "kanji": "希",
+  "readings": [
+   {
+    "r": "き",
+    "type": "on",
+    "words": [
+     {
+      "w": "{希望|きぼう}",
+      "en": "hope, wish",
+      "lvl": 2
+     },
+     {
+      "w": "{希少|きしょう}",
+      "en": "rare, scarce",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "希望 is the word to know. Do not mix up 希 with 布 (cloth)."
+ },
+ {
+  "kanji": "触",
+  "readings": [
+   {
+    "r": "さわ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{触|さわ}る",
+      "en": "to touch",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "ふ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{触|ふ}れる",
+      "en": "to touch lightly, to mention",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "しょく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{接触|せっしょく}",
+      "en": "contact",
+      "lvl": 1
+     },
+     {
+      "w": "{触覚|しょっかく}",
+      "en": "sense of touch",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "For N4, know 触る さわる. Same kanji, different reading in 触れる ふれる."
+ },
+ {
+  "kanji": "依",
+  "readings": [
+   {
+    "r": "い",
+    "type": "on",
+    "words": [
+     {
+      "w": "{依頼|いらい}",
+      "en": "request",
+      "lvl": 1
+     },
+     {
+      "w": "{依存|いぞん}",
+      "en": "dependence",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only い is common. Not needed for N5/N4."
+ },
+ {
+  "kanji": "籍",
+  "readings": [
+   {
+    "r": "せき",
+    "type": "on",
+    "words": [
+     {
+      "w": "{国籍|こくせき}",
+      "en": "nationality",
+      "lvl": 2
+     },
+     {
+      "w": "{書籍|しょせき}",
+      "en": "books",
+      "lvl": 1
+     },
+     {
+      "w": "{戸籍|こせき}",
+      "en": "family register",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only せき is used. Do not mix up 籍 with 績 and 積."
+ },
+ {
+  "kanji": "汚",
+  "readings": [
+   {
+    "r": "きたな",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{汚|きたな}い",
+      "en": "dirty",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "よご",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{汚|よご}れる",
+      "en": "to get dirty",
+      "lvl": 2
+     },
+     {
+      "w": "{汚|よご}す",
+      "en": "to make dirty",
+      "lvl": 2
+     },
+     {
+      "w": "{汚|よご}れ",
+      "en": "dirt, stain",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "お",
+    "type": "on",
+    "words": [
+     {
+      "w": "{汚染|おせん}",
+      "en": "pollution",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "For N5/N4, know 汚い きたない. Same kanji is よご in 汚れる."
+ },
+ {
+  "kanji": "枚",
+  "readings": [
+   {
+    "r": "まい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{一枚|いちまい}",
+      "en": "one (flat thing)",
+      "lvl": 5
+     },
+     {
+      "w": "{何枚|なんまい}",
+      "en": "how many (flat things)",
+      "lvl": 5
+     },
+     {
+      "w": "{枚数|まいすう}",
+      "en": "number of sheets",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "まい is a counter for flat things (paper, shirts, tickets). N5 must know."
+ },
+ {
+  "kanji": "複",
+  "readings": [
+   {
+    "r": "ふく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{複雑|ふくざつ}",
+      "en": "complicated",
+      "lvl": 3
+     },
+     {
+      "w": "{複数|ふくすう}",
+      "en": "several, plural",
+      "lvl": 2
+     },
+     {
+      "w": "{複写|ふくしゃ}",
+      "en": "copy",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only ふく is used. Do not mix up 複 with 復 and 腹."
+ },
+ {
+  "kanji": "郵",
+  "readings": [
+   {
+    "r": "ゆう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{郵便局|ゆうびんきょく}",
+      "en": "post office",
+      "lvl": 5
+     },
+     {
+      "w": "{郵便|ゆうびん}",
+      "en": "mail, post",
+      "lvl": 3
+     },
+     {
+      "w": "{郵送|ゆうそう}",
+      "en": "sending by post",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn 郵便局 for N5/N4. Only ゆう is used."
+ },
+ {
+  "kanji": "仲",
+  "readings": [
+   {
+    "r": "なか",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{仲間|なかま}",
+      "en": "friend, teammate",
+      "lvl": 2
+     },
+     {
+      "w": "{仲|なか}",
+      "en": "relationship",
+      "lvl": 2
+     },
+     {
+      "w": "{仲良|なかよ}し",
+      "en": "good friends",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "ちゅう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{仲介|ちゅうかい}",
+      "en": "acting as go-between",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "なか matters most. Trap: 仲 (relationship) and 中 (inside) are both なか."
+ },
+ {
+  "kanji": "栄",
+  "readings": [
+   {
+    "r": "えい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{栄養|えいよう}",
+      "en": "nutrition",
+      "lvl": 2
+     },
+     {
+      "w": "{光栄|こうえい}",
+      "en": "honor",
+      "lvl": 1
+     },
+     {
+      "w": "{繁栄|はんえい}",
+      "en": "prosperity",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "さか",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{栄|さか}える",
+      "en": "to prosper",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "えい in 栄養 is the useful one. Not needed for N5/N4."
+ },
+ {
+  "kanji": "札",
+  "readings": [
+   {
+    "r": "さつ",
+    "type": "on",
+    "words": [
+     {
+      "w": "お{札|さつ}",
+      "en": "banknote",
+      "lvl": 2
+     },
+     {
+      "w": "{千円札|せんえんさつ}",
+      "en": "1000 yen note",
+      "lvl": 2
+     },
+     {
+      "w": "{改札|かいさつ}",
+      "en": "ticket gate",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "ふだ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{名札|なふだ}",
+      "en": "name tag",
+      "lvl": 1
+     },
+     {
+      "w": "{札|ふだ}",
+      "en": "card, tag",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "さつ (paper money) and 改札 are useful. お札 can also be おふだ (a lucky charm)."
+ },
+ {
+  "kanji": "板",
+  "readings": [
+   {
+    "r": "ばん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{黒板|こくばん}",
+      "en": "blackboard",
+      "lvl": 3
+     },
+     {
+      "w": "{看板|かんばん}",
+      "en": "signboard",
+      "lvl": 2
+     },
+     {
+      "w": "{掲示板|けいじばん}",
+      "en": "notice board",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "いた",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{板|いた}",
+      "en": "board, plank",
+      "lvl": 2
+     },
+     {
+      "w": "まな{板|いた}",
+      "en": "cutting board",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "はん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{鉄板|てっぱん}",
+      "en": "iron plate",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn 黒板 こくばん. Alone it is いた. はん becomes ぱん in 鉄板."
+ },
+ {
+  "kanji": "骨",
+  "readings": [
+   {
+    "r": "ほね",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{骨|ほね}",
+      "en": "bone",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "こつ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{骨折|こっせつ}",
+      "en": "broken bone",
+      "lvl": 1
+     },
+     {
+      "w": "{鉄骨|てっこつ}",
+      "en": "steel frame",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "骨 alone is ほね. こつ becomes こっ in 骨折."
+ },
+ {
+  "kanji": "傾",
+  "readings": [
+   {
+    "r": "けい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{傾向|けいこう}",
+      "en": "tendency, trend",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "かたむ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{傾|かたむ}く",
+      "en": "to lean, to tilt",
+      "lvl": 1
+     },
+     {
+      "w": "{傾|かたむ}ける",
+      "en": "to tilt (something)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "傾向 けいこう is the most useful word. Not needed for N5/N4."
+ },
+ {
+  "kanji": "届",
+  "readings": [
+   {
+    "r": "とど",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{届|とど}ける",
+      "en": "to deliver, to hand in",
+      "lvl": 4
+     },
+     {
+      "w": "{届|とど}く",
+      "en": "to arrive, to reach",
+      "lvl": 2
+     },
+     {
+      "w": "{届|とど}け",
+      "en": "notice, report (to an office)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only とど is used. 届ける (send) and 届く (arrive) are a useful pair for N4."
+ },
+ {
+  "kanji": "巻",
+  "readings": [
+   {
+    "r": "ま",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{巻|ま}く",
+      "en": "to wrap, to roll",
+      "lvl": 2
+     },
+     {
+      "w": "{春巻|はるま}き",
+      "en": "spring roll",
+      "lvl": 2
+     },
+     {
+      "w": "{竜巻|たつまき}",
+      "en": "tornado",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "かん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{上巻|じょうかん}",
+      "en": "first volume",
+      "lvl": 1
+     },
+     {
+      "w": "{全巻|ぜんかん}",
+      "en": "all volumes",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "ま (巻く) is the main reading. かん counts book volumes."
+ },
+ {
+  "kanji": "燃",
+  "readings": [
+   {
+    "r": "も",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{燃|も}える",
+      "en": "to burn",
+      "lvl": 2
+     },
+     {
+      "w": "{燃|も}やす",
+      "en": "to burn (something)",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "ねん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{燃料|ねんりょう}",
+      "en": "fuel",
+      "lvl": 1
+     },
+     {
+      "w": "{燃費|ねんぴ}",
+      "en": "fuel economy",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "も matters most: 燃えるごみ is burnable trash, seen on every bin."
+ },
+ {
+  "kanji": "跡",
+  "readings": [
+   {
+    "r": "あと",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{足跡|あしあと}",
+      "en": "footprint",
+      "lvl": 1
+     },
+     {
+      "w": "{跡|あと}",
+      "en": "mark, trace",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "せき",
+    "type": "on",
+    "words": [
+     {
+      "w": "{遺跡|いせき}",
+      "en": "ruins",
+      "lvl": 1
+     },
+     {
+      "w": "{奇跡|きせき}",
+      "en": "miracle",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Trap: 跡 (mark) and 後 (after) are both あと. Not needed for N5/N4."
+ },
+ {
+  "kanji": "包",
+  "readings": [
+   {
+    "r": "つつ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{包|つつ}む",
+      "en": "to wrap",
+      "lvl": 2
+     },
+     {
+      "w": "{包|つつ}み",
+      "en": "package",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "ほう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{包丁|ほうちょう}",
+      "en": "kitchen knife",
+      "lvl": 2
+     },
+     {
+      "w": "{包装|ほうそう}",
+      "en": "wrapping",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "つつむ and 包丁 are the useful words."
+ },
+ {
+  "kanji": "駐",
+  "readings": [
+   {
+    "r": "ちゅう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{駐車場|ちゅうしゃじょう}",
+      "en": "car park",
+      "lvl": 4
+     },
+     {
+      "w": "{駐車|ちゅうしゃ}",
+      "en": "parking",
+      "lvl": 2
+     },
+     {
+      "w": "{駐輪場|ちゅうりんじょう}",
+      "en": "bike parking",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn 駐車場 for N4. Do not mix up 駐 (馬, horse) with 注 and 住."
+ },
+ {
+  "kanji": "弱",
+  "readings": [
+   {
+    "r": "よわ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{弱|よわ}い",
+      "en": "weak",
+      "lvl": 5
+     },
+     {
+      "w": "{弱虫|よわむし}",
+      "en": "coward",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "じゃく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{弱点|じゃくてん}",
+      "en": "weak point",
+      "lvl": 1
+     },
+     {
+      "w": "{強弱|きょうじゃく}",
+      "en": "strength and weakness",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "For N5/N4, know 弱い よわい, the opposite of 強い つよい."
+ },
+ {
+  "kanji": "紹",
+  "readings": [
+   {
+    "r": "しょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{紹介|しょうかい}",
+      "en": "introduction",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "Almost only in 紹介 (しょうかい), an N4 word: 紹介します means let me introduce."
+ },
+ {
+  "kanji": "雇",
+  "readings": [
+   {
+    "r": "やと",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{雇|やと}う",
+      "en": "to hire",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "こ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{雇用|こよう}",
+      "en": "employment",
+      "lvl": 1
+     },
+     {
+      "w": "{解雇|かいこ}",
+      "en": "firing (from a job)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "やとう is the useful word. Do not mix up 雇 with 顧."
+ },
+ {
+  "kanji": "替",
+  "readings": [
+   {
+    "r": "か",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{着替|きが}える",
+      "en": "to change clothes",
+      "lvl": 3
+     },
+     {
+      "w": "{両替|りょうがえ}",
+      "en": "money exchange",
+      "lvl": 2
+     },
+     {
+      "w": "{替|か}える",
+      "en": "to replace, to swap",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "たい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{代替|だいたい}",
+      "en": "alternative, substitute",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "か matters most (がえ after another word). Trap: 替える, 変える and 換える are all かえる."
+ },
+ {
+  "kanji": "預",
+  "readings": [
+   {
+    "r": "あず",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{預|あず}ける",
+      "en": "to leave (with someone), to deposit",
+      "lvl": 2
+     },
+     {
+      "w": "{預|あず}かる",
+      "en": "to look after (something)",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "よ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{預金|よきん}",
+      "en": "bank savings",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "あず is the useful reading. Do not mix up 預 with 予 (also よ)."
+ },
+ {
+  "kanji": "焼",
+  "readings": [
+   {
+    "r": "や",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{焼|や}く",
+      "en": "to grill, to bake",
+      "lvl": 3
+     },
+     {
+      "w": "{焼|や}ける",
+      "en": "to be grilled, to burn",
+      "lvl": 3
+     },
+     {
+      "w": "{焼|や}き{鳥|とり}",
+      "en": "grilled chicken skewers",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "しょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{燃焼|ねんしょう}",
+      "en": "burning (science)",
+      "lvl": 1
+     },
+     {
+      "w": "{焼却|しょうきゃく}",
+      "en": "burning (rubbish)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "や matters most: 焼く, 焼き鳥, 夕焼け (sunset)."
+ },
+ {
+  "kanji": "簡",
+  "readings": [
+   {
+    "r": "かん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{簡単|かんたん}",
+      "en": "easy, simple",
+      "lvl": 5
+     },
+     {
+      "w": "{簡潔|かんけつ}",
+      "en": "short and clear",
+      "lvl": 1
+     },
+     {
+      "w": "{書簡|しょかん}",
+      "en": "letter (formal)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn 簡単 かんたん for N5/N4. Only かん is common."
+ },
+ {
+  "kanji": "章",
+  "readings": [
+   {
+    "r": "しょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{文章|ぶんしょう}",
+      "en": "sentences, writing",
+      "lvl": 3
+     },
+     {
+      "w": "{第一章|だいいっしょう}",
+      "en": "chapter one",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Only しょう is used. In 第一章, 一 changes to いっ, not 章."
+ },
+ {
+  "kanji": "臓",
+  "readings": [
+   {
+    "r": "ぞう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{心臓|しんぞう}",
+      "en": "heart (organ)",
+      "lvl": 2
+     },
+     {
+      "w": "{内臓|ないぞう}",
+      "en": "internal organs",
+      "lvl": 1
+     },
+     {
+      "w": "{臓器|ぞうき}",
+      "en": "organ (body)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only ぞう is used. Do not mix up 臓 with 蔵 (storehouse)."
+ },
+ {
+  "kanji": "律",
+  "readings": [
+   {
+    "r": "りつ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{法律|ほうりつ}",
+      "en": "law",
+      "lvl": 2
+     },
+     {
+      "w": "{規律|きりつ}",
+      "en": "rules, discipline",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "りち",
+    "type": "on",
+    "words": [
+     {
+      "w": "{律儀|りちぎ}",
+      "en": "honest, dutiful",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "りつ in 法律 is the one to know. Not needed for N5/N4."
+ },
+ {
+  "kanji": "贈",
+  "readings": [
+   {
+    "r": "おく",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{贈|おく}る",
+      "en": "to give (a gift)",
+      "lvl": 2
+     },
+     {
+      "w": "{贈|おく}り{物|もの}",
+      "en": "present, gift",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "ぞう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{寄贈|きぞう}",
+      "en": "donation",
+      "lvl": 1
+     },
+     {
+      "w": "{贈呈|ぞうてい}",
+      "en": "presentation (of a gift)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Trap: 贈る (give a gift) and 送る (send) are both おくる."
+ },
+ {
+  "kanji": "照",
+  "readings": [
+   {
+    "r": "て",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{照|て}らす",
+      "en": "to shine on",
+      "lvl": 1
+     },
+     {
+      "w": "{照|て}れる",
+      "en": "to feel shy",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "しょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{照明|しょうめい}",
+      "en": "lighting",
+      "lvl": 1
+     },
+     {
+      "w": "{参照|さんしょう}",
+      "en": "reference",
+      "lvl": 1
+     },
+     {
+      "w": "{対照|たいしょう}",
+      "en": "contrast",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "照れる (feel shy) is common in speech. Not needed for N5/N4."
+ },
+ {
+  "kanji": "薄",
+  "readings": [
+   {
+    "r": "うす",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{薄|うす}い",
+      "en": "thin, weak, light (color)",
+      "lvl": 3
+     },
+     {
+      "w": "{薄|うす}める",
+      "en": "to make weaker (a drink)",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "はく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{軽薄|けいはく}",
+      "en": "shallow, frivolous",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "うすい matters most: thin (book), weak (tea), light (color). Opposite of 厚い and 濃い."
+ },
+ {
+  "kanji": "群",
+  "readings": [
+   {
+    "r": "む",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{群|む}れ",
+      "en": "group, flock",
+      "lvl": 1
+     },
+     {
+      "w": "{群|む}れる",
+      "en": "to crowd together",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "ぐん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{群衆|ぐんしゅう}",
+      "en": "crowd",
+      "lvl": 1
+     },
+     {
+      "w": "{大群|たいぐん}",
+      "en": "large herd, swarm",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Not needed for N5/N4. ぐん also appears in 群馬 (ぐんま), a prefecture."
+ },
+ {
+  "kanji": "秒",
+  "readings": [
+   {
+    "r": "びょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{秒|びょう}",
+      "en": "second (time)",
+      "lvl": 3
+     },
+     {
+      "w": "{一秒|いちびょう}",
+      "en": "one second",
+      "lvl": 3
+     },
+     {
+      "w": "{秒針|びょうしん}",
+      "en": "second hand",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only びょう is used. Do not mix up 秒 with 砂 (sand) and 少."
+ },
+ {
+  "kanji": "奥",
+  "readings": [
+   {
+    "r": "おく",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{奥|おく}さん",
+      "en": "(someone's) wife",
+      "lvl": 4
+     },
+     {
+      "w": "{奥|おく}",
+      "en": "the back, inner part",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Learn 奥さん おくさん for N5/N4. おう is rare."
+ },
+ {
+  "kanji": "詰",
+  "readings": [
+   {
+    "r": "つ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{詰|つ}める",
+      "en": "to pack, to fill",
+      "lvl": 2
+     },
+     {
+      "w": "{詰|つ}まる",
+      "en": "to be blocked, to be packed",
+      "lvl": 2
+     },
+     {
+      "w": "{缶詰|かんづめ}",
+      "en": "canned food",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only つ is common (づ in 缶詰). Not needed for N5/N4."
+ },
+ {
+  "kanji": "双",
+  "readings": [
+   {
+    "r": "ふた",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{双子|ふたご}",
+      "en": "twins",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "そう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{双方|そうほう}",
+      "en": "both sides",
+      "lvl": 1
+     },
+     {
+      "w": "{双眼鏡|そうがんきょう}",
+      "en": "binoculars",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "双子 ふたご is the useful word. Not needed for N5/N4."
+ },
+ {
+  "kanji": "刺",
+  "readings": [
+   {
+    "r": "さ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{刺|さ}す",
+      "en": "to stab, to sting",
+      "lvl": 2
+     },
+     {
+      "w": "{刺|さ}さる",
+      "en": "to stick into",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "さし",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{刺身|さしみ}",
+      "en": "sashimi (raw fish)",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "し",
+    "type": "on",
+    "words": [
+     {
+      "w": "{名刺|めいし}",
+      "en": "business card",
+      "lvl": 2
+     },
+     {
+      "w": "{刺激|しげき}",
+      "en": "stimulus, excitement",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "刺身 さしみ and 名刺 めいし are the useful words. Do not mix up 刺 with 制."
+ },
+ {
+  "kanji": "純",
+  "readings": [
+   {
+    "r": "じゅん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{単純|たんじゅん}",
+      "en": "simple",
+      "lvl": 2
+     },
+     {
+      "w": "{純粋|じゅんすい}",
+      "en": "pure",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only じゅん is used. Not needed for N5/N4."
+ },
+ {
+  "kanji": "翌",
+  "readings": [
+   {
+    "r": "よく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{翌日|よくじつ}",
+      "en": "the next day",
+      "lvl": 2
+     },
+     {
+      "w": "{翌朝|よくあさ}",
+      "en": "the next morning",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only よく is used. Note 翌日 is よくじつ, not よくにち."
+ },
+ {
+  "kanji": "快",
+  "readings": [
+   {
+    "r": "かい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{快適|かいてき}",
+      "en": "comfortable",
+      "lvl": 2
+     },
+     {
+      "w": "{快晴|かいせい}",
+      "en": "clear sunny weather",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "こころよ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{快|こころよ}い",
+      "en": "pleasant, willing",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "かい is the main reading. Not needed for N5/N4."
+ },
+ {
+  "kanji": "片",
+  "readings": [
+   {
+    "r": "かた",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{片付|かたづ}ける",
+      "en": "to tidy up",
+      "lvl": 4
+     },
+     {
+      "w": "{片道|かたみち}",
+      "en": "one way (ticket)",
+      "lvl": 2
+     },
+     {
+      "w": "{片方|かたほう}",
+      "en": "one side, one of a pair",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "へん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{破片|はへん}",
+      "en": "broken piece",
+      "lvl": 1
+     },
+     {
+      "w": "{断片|だんぺん}",
+      "en": "fragment",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "かた matters most: 片付ける is an N4 word. へん becomes ぺん in 断片."
+ },
+ {
+  "kanji": "敬",
+  "readings": [
+   {
+    "r": "けい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{敬語|けいご}",
+      "en": "polite language",
+      "lvl": 2
+     },
+     {
+      "w": "{尊敬|そんけい}",
+      "en": "respect",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "うやま",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{敬|うやま}う",
+      "en": "to respect",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "敬語 (polite Japanese) is the useful word. Do not mix up 敬 with 警 and 驚."
+ },
+ {
+  "kanji": "悩",
+  "readings": [
+   {
+    "r": "なや",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{悩|なや}む",
+      "en": "to worry, to be troubled",
+      "lvl": 2
+     },
+     {
+      "w": "{悩|なや}み",
+      "en": "worry, problem",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "のう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{苦悩|くのう}",
+      "en": "anguish",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "なや is the useful reading. Do not mix up 悩 with 脳 (brain)."
+ },
+ {
+  "kanji": "泉",
+  "readings": [
+   {
+    "r": "せん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{温泉|おんせん}",
+      "en": "hot spring",
+      "lvl": 2
+     },
+     {
+      "w": "{源泉|げんせん}",
+      "en": "source (of a spring)",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "いずみ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{泉|いずみ}",
+      "en": "spring, fountain",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "温泉 おんせん is the word to know. 泉 is white (白) over water (水)."
+ },
+ {
+  "kanji": "皮",
+  "readings": [
+   {
+    "r": "かわ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{皮|かわ}",
+      "en": "skin, peel",
+      "lvl": 2
+     },
+     {
+      "w": "{毛皮|けがわ}",
+      "en": "fur",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "ひ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{皮膚|ひふ}",
+      "en": "skin (body)",
+      "lvl": 1
+     },
+     {
+      "w": "{皮肉|ひにく}",
+      "en": "irony, sarcasm",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "皮 alone is かわ. Trap: 皮 (skin), 革 (leather) and 川 (river) are all かわ."
+ },
+ {
+  "kanji": "漁",
+  "readings": [
+   {
+    "r": "ぎょ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{漁業|ぎょぎょう}",
+      "en": "fishing industry",
+      "lvl": 1
+     },
+     {
+      "w": "{漁船|ぎょせん}",
+      "en": "fishing boat",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "りょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{漁師|りょうし}",
+      "en": "fisherman",
+      "lvl": 1
+     },
+     {
+      "w": "{大漁|たいりょう}",
+      "en": "big catch of fish",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Trap: 漁師 is りょうし, not ぎょし. Not needed for N5/N4."
+ },
+ {
+  "kanji": "荒",
+  "readings": [
+   {
+    "r": "あ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{荒|あ}れる",
+      "en": "to be rough, to be stormy",
+      "lvl": 1
+     },
+     {
+      "w": "{荒|あ}らす",
+      "en": "to damage, to ruin",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "あら",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{荒|あら}い",
+      "en": "rough, wild",
+      "lvl": 1
+     },
+     {
+      "w": "{荒波|あらなみ}",
+      "en": "rough waves",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "こう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{荒野|こうや}",
+      "en": "wilderness",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Not needed for N5/N4. Do not mix up 荒 with 流."
+ },
+ {
+  "kanji": "貯",
+  "readings": [
+   {
+    "r": "ちょ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{貯金|ちょきん}",
+      "en": "savings",
+      "lvl": 4
+     },
+     {
+      "w": "{貯蓄|ちょちく}",
+      "en": "savings (formal)",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "た",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{貯|た}める",
+      "en": "to save up (money)",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "貯金 ちょきん is the word to know for N4."
+ },
+ {
+  "kanji": "硬",
+  "readings": [
+   {
+    "r": "かた",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{硬|かた}い",
+      "en": "hard, stiff",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "こう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{硬貨|こうか}",
+      "en": "coin",
+      "lvl": 2
+     },
+     {
+      "w": "{強硬|きょうこう}",
+      "en": "firm, tough",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Trap: 硬い, 固い and 堅い are all かたい. 硬 means hard like stone."
+ },
+ {
+  "kanji": "埋",
+  "readings": [
+   {
+    "r": "う",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{埋|う}める",
+      "en": "to bury, to fill in",
+      "lvl": 1
+     },
+     {
+      "w": "{埋|う}まる",
+      "en": "to be filled, to be buried",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "まい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{埋蔵|まいぞう}",
+      "en": "buried (treasure, oil)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "う is the useful reading. Not needed for N5/N4."
+ },
+ {
+  "kanji": "柱",
+  "readings": [
+   {
+    "r": "はしら",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{柱|はしら}",
+      "en": "pillar, post",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "ちゅう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{電柱|でんちゅう}",
+      "en": "utility pole",
+      "lvl": 1
+     },
+     {
+      "w": "{支柱|しちゅう}",
+      "en": "support, prop",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "柱 alone is はしら. Do not mix up 柱 with 注 and 住 (all have 主)."
+ }
+]

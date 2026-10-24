@@ -1,0 +1,1402 @@
+[
+ {
+  "kanji": "銅",
+  "readings": [
+   {
+    "r": "どう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{銅|どう}",
+      "en": "copper",
+      "lvl": 2
+     },
+     {
+      "w": "{銅|どう}メダル",
+      "en": "bronze medal",
+      "lvl": 2
+     },
+     {
+      "w": "{青銅|せいどう}",
+      "en": "bronze",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only どう matters, as in 銅メダル (bronze medal). Don't mix 銅 up with 同 (same), also どう."
+ },
+ {
+  "kanji": "湿",
+  "readings": [
+   {
+    "r": "しつ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{湿度|しつど}",
+      "en": "humidity",
+      "lvl": 2
+     },
+     {
+      "w": "{湿気|しっけ}",
+      "en": "damp, moisture",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "しめ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{湿|しめ}る",
+      "en": "to get damp",
+      "lvl": 2
+     },
+     {
+      "w": "{湿|しめ}っぽい",
+      "en": "damp, gloomy",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "湿度 (humidity) is in weather reports. Sound change: 湿気 is しっけ."
+ },
+ {
+  "kanji": "瓶",
+  "readings": [
+   {
+    "r": "びん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{瓶|びん}",
+      "en": "bottle (glass)",
+      "lvl": 3
+     },
+     {
+      "w": "{花瓶|かびん}",
+      "en": "vase",
+      "lvl": 2
+     },
+     {
+      "w": "{空|あ}き{瓶|びん}",
+      "en": "empty bottle",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "瓶 びん is a glass bottle, often written in kana. 花瓶 (vase) is the other common word."
+ },
+ {
+  "kanji": "咲",
+  "readings": [
+   {
+    "r": "さ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{咲|さ}く",
+      "en": "to bloom",
+      "lvl": 4
+     },
+     {
+      "w": "{遅咲|おそざ}き",
+      "en": "late blooming",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "咲く is the N4 word: 花が咲く (flowers bloom). さき can become ざき after another word, like 遅咲き."
+ },
+ {
+  "kanji": "召",
+  "readings": [
+   {
+    "r": "め",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{召|め}し{上|あ}がる",
+      "en": "to eat, to drink (polite)",
+      "lvl": 4
+     },
+     {
+      "w": "{召|め}す",
+      "en": "to wear, to eat (polite)",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "しょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{召集|しょうしゅう}",
+      "en": "calling together (a meeting)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "召し上がる is keigo for 食べる and 飲む, and it is in N4: どうぞ召し上がってください."
+ },
+ {
+  "kanji": "缶",
+  "readings": [
+   {
+    "r": "かん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{缶|かん}",
+      "en": "can, tin",
+      "lvl": 3
+     },
+     {
+      "w": "{缶|かん}ビール",
+      "en": "canned beer",
+      "lvl": 2
+     },
+     {
+      "w": "{缶詰|かんづめ}",
+      "en": "canned food",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Only かん matters. Easy hook: 缶 かん sounds like English can."
+ },
+ {
+  "kanji": "隻",
+  "readings": [
+   {
+    "r": "せき",
+    "type": "on",
+    "words": [
+     {
+      "w": "{隻|せき}",
+      "en": "counter for ships",
+      "lvl": 1
+     },
+     {
+      "w": "{一隻|いっせき}",
+      "en": "one ship",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Not needed for N5/N4. 隻 counts ships, mostly in news. Sound change: 一隻 is いっせき."
+ },
+ {
+  "kanji": "脂",
+  "readings": [
+   {
+    "r": "あぶら",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{脂|あぶら}",
+      "en": "fat, grease",
+      "lvl": 2
+     },
+     {
+      "w": "{脂身|あぶらみ}",
+      "en": "fatty part of meat",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "し",
+    "type": "on",
+    "words": [
+     {
+      "w": "{脂肪|しぼう}",
+      "en": "body fat",
+      "lvl": 2
+     },
+     {
+      "w": "{油脂|ゆし}",
+      "en": "oils and fats",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "脂 and 油 are both あぶら: 脂 is animal fat, 油 is oil. 脂肪 (body fat) is the main し word."
+ },
+ {
+  "kanji": "蒸",
+  "readings": [
+   {
+    "r": "む",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{蒸|む}し{暑|あつ}い",
+      "en": "hot and humid",
+      "lvl": 3
+     },
+     {
+      "w": "{蒸|む}す",
+      "en": "to steam (food)",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "じょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{蒸気|じょうき}",
+      "en": "steam",
+      "lvl": 2
+     },
+     {
+      "w": "{蒸発|じょうはつ}",
+      "en": "evaporation",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "蒸し暑い (hot and humid) is the most useful word, perfect for Japanese summers."
+ },
+ {
+  "kanji": "肌",
+  "readings": [
+   {
+    "r": "はだ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{肌|はだ}",
+      "en": "skin",
+      "lvl": 2
+     },
+     {
+      "w": "{鳥肌|とりはだ}",
+      "en": "goosebumps",
+      "lvl": 1
+     },
+     {
+      "w": "{肌着|はだぎ}",
+      "en": "underwear",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only はだ matters: 肌 is skin. 鳥肌 (goosebumps) is literally bird skin."
+ },
+ {
+  "kanji": "耕",
+  "readings": [
+   {
+    "r": "たがや",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{耕|たがや}す",
+      "en": "to plow, to farm",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "こう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{農耕|のうこう}",
+      "en": "farming",
+      "lvl": 1
+     },
+     {
+      "w": "{耕地|こうち}",
+      "en": "farmland",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Not needed for N5/N4. 耕す (to plow a field) is the word to know."
+ },
+ {
+  "kanji": "鈍",
+  "readings": [
+   {
+    "r": "にぶ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{鈍|にぶ}い",
+      "en": "dull, slow",
+      "lvl": 2
+     },
+     {
+      "w": "{鈍|にぶ}る",
+      "en": "to weaken, to get rusty",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "どん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{鈍感|どんかん}",
+      "en": "not sensitive",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "鈍い means dull or slow to react. 鈍感 (not sensitive) is the opposite of 敏感."
+ },
+ {
+  "kanji": "泥",
+  "readings": [
+   {
+    "r": "どろ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{泥|どろ}",
+      "en": "mud",
+      "lvl": 2
+     },
+     {
+      "w": "{泥棒|どろぼう}",
+      "en": "thief",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "でい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{泥酔|でいすい}",
+      "en": "dead drunk",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "泥棒 (thief) is the useful word, and it uses どろ (mud)."
+ },
+ {
+  "kanji": "隅",
+  "readings": [
+   {
+    "r": "すみ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{隅|すみ}",
+      "en": "corner (inside)",
+      "lvl": 2
+     },
+     {
+      "w": "{片隅|かたすみ}",
+      "en": "a corner, nook",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only すみ matters. 隅 is the inside corner of a room; 角 かど is an outside corner, like a street corner."
+ },
+ {
+  "kanji": "灯",
+  "readings": [
+   {
+    "r": "とう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{電灯|でんとう}",
+      "en": "electric light",
+      "lvl": 2
+     },
+     {
+      "w": "{灯台|とうだい}",
+      "en": "lighthouse",
+      "lvl": 2
+     },
+     {
+      "w": "{灯油|とうゆ}",
+      "en": "kerosene",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "とう is the reading you will meet: 電灯 (electric light). 灯 has 火 (fire) on the left: a light."
+ },
+ {
+  "kanji": "辛",
+  "readings": [
+   {
+    "r": "から",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{辛|から}い",
+      "en": "spicy, salty",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "つら",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{辛|つら}い",
+      "en": "painful, hard",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "しん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{辛抱|しんぼう}",
+      "en": "patience",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "辛い can be からい (spicy) or つらい (painful), so read the context. からい is the N4 word."
+ },
+ {
+  "kanji": "磨",
+  "readings": [
+   {
+    "r": "みが",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{磨|みが}く",
+      "en": "to polish, to brush (teeth)",
+      "lvl": 4
+     },
+     {
+      "w": "{歯磨|はみが}き",
+      "en": "brushing teeth, toothpaste",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "ま",
+    "type": "on",
+    "words": [
+     {
+      "w": "{研磨|けんま}",
+      "en": "polishing",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "磨く is the N4 word: 歯を磨く (brush your teeth). Don't mix 磨 up with 麻 or 魔."
+ },
+ {
+  "kanji": "麦",
+  "readings": [
+   {
+    "r": "むぎ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{麦|むぎ}",
+      "en": "wheat, barley",
+      "lvl": 2
+     },
+     {
+      "w": "{小麦|こむぎ}",
+      "en": "wheat",
+      "lvl": 2
+     },
+     {
+      "w": "{麦茶|むぎちゃ}",
+      "en": "barley tea",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "ばく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{麦芽|ばくが}",
+      "en": "malt",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "むぎ is the reading you need: 麦茶 is the cold barley tea drunk in Japanese summers."
+ },
+ {
+  "kanji": "姓",
+  "readings": [
+   {
+    "r": "せい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{姓|せい}",
+      "en": "family name",
+      "lvl": 2
+     },
+     {
+      "w": "{姓名|せいめい}",
+      "en": "full name",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "しょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{百姓|ひゃくしょう}",
+      "en": "farmer (old word)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "姓 is the family name on forms; in speech people say 名字 みょうじ. Don't confuse 姓 with 性, also せい."
+ },
+ {
+  "kanji": "筒",
+  "readings": [
+   {
+    "r": "とう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{封筒|ふうとう}",
+      "en": "envelope",
+      "lvl": 4
+     },
+     {
+      "w": "{水筒|すいとう}",
+      "en": "water bottle, flask",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "つつ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{筒|つつ}",
+      "en": "tube, pipe",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "封筒 (envelope) is the N4 word. The other words are rare at this level."
+ },
+ {
+  "kanji": "鼻",
+  "readings": [
+   {
+    "r": "はな",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{鼻|はな}",
+      "en": "nose",
+      "lvl": 5
+     },
+     {
+      "w": "{鼻水|はなみず}",
+      "en": "runny nose",
+      "lvl": 3
+     },
+     {
+      "w": "{鼻血|はなぢ}",
+      "en": "nosebleed",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "び",
+    "type": "on",
+    "words": [
+     {
+      "w": "{耳鼻科|じびか}",
+      "en": "ear, nose and throat clinic",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Learn 鼻 はな (nose). Trap: 花 (flower) is also はな."
+ },
+ {
+  "kanji": "粒",
+  "readings": [
+   {
+    "r": "つぶ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{粒|つぶ}",
+      "en": "grain, drop",
+      "lvl": 2
+     },
+     {
+      "w": "{一粒|ひとつぶ}",
+      "en": "one grain",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "りゅう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{粒子|りゅうし}",
+      "en": "particle",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only つぶ matters: 粒 is a small round thing like a grain of rice. It also counts them: 一粒, 二粒."
+ },
+ {
+  "kanji": "詞",
+  "readings": [
+   {
+    "r": "し",
+    "type": "on",
+    "words": [
+     {
+      "w": "{名詞|めいし}",
+      "en": "noun",
+      "lvl": 2
+     },
+     {
+      "w": "{動詞|どうし}",
+      "en": "verb",
+      "lvl": 2
+     },
+     {
+      "w": "{形容詞|けいようし}",
+      "en": "adjective",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Learn 名詞, 動詞 and 形容詞 now: grammar books use them a lot. Trap: 名詞 (noun) sounds like 名刺 (business card)."
+ },
+ {
+  "kanji": "胃",
+  "readings": [
+   {
+    "r": "い",
+    "type": "on",
+    "words": [
+     {
+      "w": "{胃|い}",
+      "en": "stomach",
+      "lvl": 2
+     },
+     {
+      "w": "{胃腸|いちょう}",
+      "en": "stomach and bowels",
+      "lvl": 1
+     },
+     {
+      "w": "{胃薬|いぐすり}",
+      "en": "stomach medicine",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only い matters. 胃が痛い (my stomach hurts) is a useful phrase at the doctor."
+ },
+ {
+  "kanji": "畳",
+  "readings": [
+   {
+    "r": "たたみ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{畳|たたみ}",
+      "en": "tatami mat",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "たた",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{畳|たた}む",
+      "en": "to fold",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "じょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{六畳|ろくじょう}",
+      "en": "six mat room",
+      "lvl": 2
+     },
+     {
+      "w": "{四畳半|よじょうはん}",
+      "en": "four and a half mat room",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "畳む (to fold) and 畳 (tatami) are the useful words. じょう counts mats for room size: 六畳 is about 10 square meters."
+ },
+ {
+  "kanji": "机",
+  "readings": [
+   {
+    "r": "つくえ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{机|つくえ}",
+      "en": "desk",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "き",
+    "type": "on",
+    "words": [
+     {
+      "w": "{机上|きじょう}",
+      "en": "on paper, in theory",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "机 つくえ (desk) is an N5 word. The on reading き is rare."
+ },
+ {
+  "kanji": "膚",
+  "readings": [
+   {
+    "r": "ふ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{皮膚|ひふ}",
+      "en": "skin",
+      "lvl": 2
+     },
+     {
+      "w": "{皮膚科|ひふか}",
+      "en": "skin clinic, dermatology",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "皮膚 (skin) is the word to know. In daily talk people often say 肌 はだ for skin."
+ },
+ {
+  "kanji": "濯",
+  "readings": [
+   {
+    "r": "たく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{洗濯|せんたく}",
+      "en": "laundry, washing",
+      "lvl": 4
+     },
+     {
+      "w": "{洗濯機|せんたくき}",
+      "en": "washing machine",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "洗濯 (laundry) is an N4 word: 洗濯します. 濯 is almost only used in 洗濯."
+ },
+ {
+  "kanji": "塔",
+  "readings": [
+   {
+    "r": "とう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{塔|とう}",
+      "en": "tower",
+      "lvl": 2
+     },
+     {
+      "w": "{五重塔|ごじゅうのとう}",
+      "en": "five storey pagoda",
+      "lvl": 1
+     },
+     {
+      "w": "{管制塔|かんせいとう}",
+      "en": "control tower",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only とう matters. 塔 is a tower, like the 五重塔 (five storey pagoda) at temples."
+ },
+ {
+  "kanji": "沸",
+  "readings": [
+   {
+    "r": "わ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{沸|わ}く",
+      "en": "to boil (water boils)",
+      "lvl": 2
+     },
+     {
+      "w": "{沸|わ}かす",
+      "en": "to boil (water)",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "ふつ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{沸騰|ふっとう}",
+      "en": "boiling",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "お湯を沸かす means to boil water. 沸く (it boils) vs 沸かす (I boil it). Sound change: 沸騰 is ふっとう."
+ },
+ {
+  "kanji": "灰",
+  "readings": [
+   {
+    "r": "はい",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{灰色|はいいろ}",
+      "en": "gray",
+      "lvl": 3
+     },
+     {
+      "w": "{灰皿|はいざら}",
+      "en": "ashtray",
+      "lvl": 3
+     },
+     {
+      "w": "{灰|はい}",
+      "en": "ash",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "かい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{石灰|せっかい}",
+      "en": "lime (white powder)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "灰色 はいいろ (gray) is the most useful word. Sound change: 石灰 is せっかい."
+ },
+ {
+  "kanji": "菓",
+  "readings": [
+   {
+    "r": "か",
+    "type": "on",
+    "words": [
+     {
+      "w": "お{菓子|かし}",
+      "en": "sweets, snacks",
+      "lvl": 5
+     },
+     {
+      "w": "{和菓子|わがし}",
+      "en": "Japanese sweets",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "お菓子 (snacks) is an N5 word. か becomes が in 和菓子."
+ },
+ {
+  "kanji": "帽",
+  "readings": [
+   {
+    "r": "ぼう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{帽子|ぼうし}",
+      "en": "hat, cap",
+      "lvl": 5
+     },
+     {
+      "w": "{野球帽|やきゅうぼう}",
+      "en": "baseball cap",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "帽子 ぼうし (hat) is the N5 word. Don't confuse 帽 with 冒 (risk), also ぼう."
+ },
+ {
+  "kanji": "枯",
+  "readings": [
+   {
+    "r": "か",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{枯|か}れる",
+      "en": "to wither, to die (plants)",
+      "lvl": 2
+     },
+     {
+      "w": "{枯|か}れ{葉|は}",
+      "en": "dead leaves",
+      "lvl": 1
+     },
+     {
+      "w": "{枯|か}らす",
+      "en": "to let (a plant) die",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "こ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{枯渇|こかつ}",
+      "en": "running dry",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "枯れる (plants wither) is the useful word. Memory: 木 (tree) + 古 (old) = a withered tree."
+ },
+ {
+  "kanji": "涼",
+  "readings": [
+   {
+    "r": "すず",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{涼|すず}しい",
+      "en": "cool (nice weather)",
+      "lvl": 5
+     },
+     {
+      "w": "{涼|すず}む",
+      "en": "to cool off",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "りょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{清涼|せいりょう}",
+      "en": "refreshing",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "涼しい (cool) is an N5 word for nice cool weather. Cold weather is 寒い."
+ },
+ {
+  "kanji": "舟",
+  "readings": [
+   {
+    "r": "ふね",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{舟|ふね}",
+      "en": "small boat",
+      "lvl": 2
+     },
+     {
+      "w": "{小舟|こぶね}",
+      "en": "little boat",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "舟 is a small boat; 船 (also ふね) is the usual word for ships. ふね often becomes ぶね after a word, like 小舟."
+ },
+ {
+  "kanji": "貝",
+  "readings": [
+   {
+    "r": "かい",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{貝|かい}",
+      "en": "shellfish",
+      "lvl": 2
+     },
+     {
+      "w": "{貝殻|かいがら}",
+      "en": "seashell",
+      "lvl": 2
+     },
+     {
+      "w": "{巻|ま}き{貝|がい}",
+      "en": "spiral shell, sea snail",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only かい matters. 貝 is inside money kanji like 買う (buy): long ago, shells were money."
+ },
+ {
+  "kanji": "符",
+  "readings": [
+   {
+    "r": "ふ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{切符|きっぷ}",
+      "en": "ticket",
+      "lvl": 5
+     },
+     {
+      "w": "{音符|おんぷ}",
+      "en": "musical note",
+      "lvl": 1
+     },
+     {
+      "w": "{符号|ふごう}",
+      "en": "sign, code",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "切符 きっぷ (ticket) is an N5 word. Sound change: ふ becomes ぷ in 切符."
+ },
+ {
+  "kanji": "憎",
+  "readings": [
+   {
+    "r": "にく",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{憎|にく}い",
+      "en": "hateful",
+      "lvl": 2
+     },
+     {
+      "w": "{憎|にく}む",
+      "en": "to hate",
+      "lvl": 2
+     },
+     {
+      "w": "{憎|にく}しみ",
+      "en": "hatred",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "ぞう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{憎悪|ぞうお}",
+      "en": "hatred, loathing",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Not needed for N4. Trap: にくい after a verb (読みにくい, hard to read) is written in kana, not 憎い."
+ },
+ {
+  "kanji": "皿",
+  "readings": [
+   {
+    "r": "さら",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{皿|さら}",
+      "en": "plate, dish",
+      "lvl": 5
+     },
+     {
+      "w": "お{皿|さら}",
+      "en": "plate (polite)",
+      "lvl": 5
+     },
+     {
+      "w": "{灰皿|はいざら}",
+      "en": "ashtray",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "皿 さら (plate) is an N5 word. After another word it often becomes ざら: 灰皿 はいざら."
+ },
+ {
+  "kanji": "肯",
+  "readings": [
+   {
+    "r": "こう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{肯定|こうてい}",
+      "en": "saying yes, affirmation",
+      "lvl": 1
+     },
+     {
+      "w": "{肯定的|こうていてき}",
+      "en": "positive",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Not needed for N5/N4. 肯定 (saying yes) is the opposite of 否定 (saying no)."
+ },
+ {
+  "kanji": "燥",
+  "readings": [
+   {
+    "r": "そう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{乾燥|かんそう}",
+      "en": "dryness, drying",
+      "lvl": 2
+     },
+     {
+      "w": "{乾燥機|かんそうき}",
+      "en": "clothes dryer",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Only 乾燥 (dry) matters, often in weather news. Trap: 乾燥 sounds like 感想 (opinion)."
+ },
+ {
+  "kanji": "畜",
+  "readings": [
+   {
+    "r": "ちく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{家畜|かちく}",
+      "en": "farm animals",
+      "lvl": 1
+     },
+     {
+      "w": "{畜産|ちくさん}",
+      "en": "livestock farming",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Not needed for N5/N4. Don't confuse 畜 with 蓄 (store up), also ちく."
+ },
+ {
+  "kanji": "挟",
+  "readings": [
+   {
+    "r": "はさ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{挟|はさ}む",
+      "en": "to put between, to pinch",
+      "lvl": 2
+     },
+     {
+      "w": "{挟|はさ}まる",
+      "en": "to get caught between",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "挟む (put between) vs 挟まる (be caught): パンにハムを挟む, ドアに挟まる."
+ },
+ {
+  "kanji": "曇",
+  "readings": [
+   {
+    "r": "くも",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{曇|くも}り",
+      "en": "cloudy weather",
+      "lvl": 5
+     },
+     {
+      "w": "{曇|くも}る",
+      "en": "to become cloudy",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "どん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{曇天|どんてん}",
+      "en": "cloudy sky",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "曇り くもり (cloudy) is an N5 weather word. Memory: 日 (sun) over 雲 (cloud)."
+ },
+ {
+  "kanji": "滴",
+  "readings": [
+   {
+    "r": "てき",
+    "type": "on",
+    "words": [
+     {
+      "w": "{点滴|てんてき}",
+      "en": "IV drip (hospital)",
+      "lvl": 2
+     },
+     {
+      "w": "{水滴|すいてき}",
+      "en": "water drop",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "しずく",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{滴|しずく}",
+      "en": "a drop",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "したた",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{滴|したた}る",
+      "en": "to drip",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Not needed for N5/N4. Don't confuse 滴 with 適 (suitable), also てき."
+ },
+ {
+  "kanji": "伺",
+  "readings": [
+   {
+    "r": "うかが",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{伺|うかが}う",
+      "en": "to visit, to ask (humble)",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "伺う is humble keigo for 聞く and 行く, in N4: お伺いします. Don't confuse 伺 with 何 (what)."
+ }
+]

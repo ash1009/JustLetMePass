@@ -1,0 +1,458 @@
+[
+ {
+  "id": "v2-1691",
+  "hook": "Between (間) times there is none (無): almost no gap left, so it happens soon."
+ },
+ {
+  "id": "v2-1692",
+  "hook": "Not even (もなく) a gap (間) of time left: it comes soon."
+ },
+ {
+  "id": "v2-1694",
+  "hook": "稀 means rare: a unicorn mare (まれ) is very rare."
+ },
+ {
+  "id": "v2-1695",
+  "hook": "Go around (回り) + road (道): a road that goes the long way around, a detour."
+ },
+ {
+  "id": "v2-1702",
+  "hook": "See (見) + down (下ろす): look down from a high place."
+ },
+ {
+  "id": "v2-1704",
+  "hook": "The moon (月) on day three (三日) of its cycle: a thin crescent."
+ },
+ {
+  "id": "v2-1707",
+  "hook": "惨 means cruel or tragic: a bullied (いじめ, close in sound) child feels miserable."
+ },
+ {
+  "id": "v2-1711",
+  "hook": "Shop (店) + seller's house (屋): a shop."
+ },
+ {
+  "id": "v2-1713",
+  "hook": "Road (道) + order (順): the order of roads to take, your route."
+ },
+ {
+  "id": "v2-1715",
+  "hook": "See (見) + pack tight (詰める): keep your eyes packed on one thing, stare."
+ },
+ {
+  "id": "v2-1717",
+  "hook": "See (見) + get used to (慣れる): you see it so often it feels normal."
+ },
+ {
+  "id": "v2-1718",
+  "hook": "醜 means ugly: みにくい sounds like 見にくい, hard to look at."
+ },
+ {
+  "id": "v2-1719",
+  "hook": "実 means fruit: a plant makes its fruit (実), it ripens."
+ },
+ {
+  "id": "v2-1721",
+  "hook": "See (見) + basis (本): the thing you look at as the model, a sample."
+ },
+ {
+  "id": "v2-1722",
+  "hook": "See (見) + dance (舞う): visit a sick friend and cheer them up."
+ },
+ {
+  "id": "v2-1724",
+  "hook": "Name (名) + character (字): the family name characters you write first."
+ },
+ {
+  "id": "v2-1727",
+  "hook": "People (民) + among (間): among ordinary people, not the government."
+ },
+ {
+  "id": "v2-1728",
+  "hook": "People (民) + master (主): the people are the masters, democratic."
+ },
+ {
+  "id": "v2-1729",
+  "hook": "People (民) + song (謡): songs of ordinary people, folk songs."
+ },
+ {
+  "id": "v2-1730",
+  "hook": "No (無) + limit (限): without limit, infinite."
+ },
+ {
+  "id": "v2-1731",
+  "hook": "No (無) + pattern on the base cloth (地): nothing on it, plain."
+ },
+ {
+  "id": "v2-1733",
+  "hook": "Spear (矛) + shield (盾): a spear that pierces all and a shield that stops all, a contradiction."
+ },
+ {
+  "id": "v2-1736",
+  "hook": "群 means group, and it has sheep (羊) inside: a flock of sheep."
+ },
+ {
+  "id": "v2-1737",
+  "hook": "Woman (女) + arrive (至): the little girl who arrives in your sibling's family, your niece."
+ },
+ {
+  "id": "v2-1739",
+  "hook": "Famous (名) + work (作): a famous work, a masterpiece."
+ },
+ {
+  "id": "v2-1742",
+  "hook": "Famous (名) + place (所): a famous place."
+ },
+ {
+  "id": "v2-1743",
+  "hook": "Astray (迷) + belief (信): a belief that leads you astray, superstition."
+ },
+ {
+  "id": "v2-1744",
+  "hook": "命 means command (and life): to give a command."
+ },
+ {
+  "id": "v2-1746",
+  "hook": "銘 is a name carved on something: each person has their own, so each one."
+ },
+ {
+  "id": "v2-1747",
+  "hook": "恵 means blessing: to receive blessings, to be blessed with."
+ },
+ {
+  "id": "v2-1748",
+  "hook": "巡 means patrol or tour: walk around in a circle like a patrol officer."
+ },
+ {
+  "id": "v2-1750",
+  "hook": "Eye (目) + wake (覚): the thing that opens your eyes, an alarm clock."
+ },
+ {
+  "id": "v2-1751",
+  "hook": "Below (下) your eyes (目): read めした it means someone below you; read もっか, what is before you now."
+ },
+ {
+  "id": "v2-1752",
+  "hook": "Eye (目) + mark (印): a mark for your eyes, a landmark."
+ },
+ {
+  "id": "v2-1753",
+  "hook": "Eye (目) + stand (立つ): it stands up in your eyes, it stands out."
+ },
+ {
+  "id": "v2-1761",
+  "hook": "Surface (面) + product (積): length times width of a surface, area."
+ },
+ {
+  "id": "v2-1763",
+  "hook": "Trouble (面倒) + smelly (臭い): a task that stinks of trouble, so annoying."
+ },
+ {
+  "id": "v2-1765",
+  "hook": "儲 means profit: more cash (もうかる) comes in, it pays."
+ },
+ {
+  "id": "v2-1766",
+  "hook": "儲 means profit: you make money (儲ける), while with 儲かる money comes to you."
+ },
+ {
+  "id": "v2-1768",
+  "hook": "Wood (木) + material (材): wood used as material, timber."
+ },
+ {
+  "id": "v2-1769",
+  "hook": "Item (目) + order (次): the items in order, the table of contents."
+ },
+ {
+  "id": "v2-1770",
+  "hook": "潜 means dive or hide, with water (氵) on the left: go under the water."
+ },
+ {
+  "id": "v2-1773",
+  "hook": "凭 means lean on, with a small table (几) under it: lean on the table."
+ },
+ {
+  "id": "v2-1777",
+  "hook": "Origin (元) twice: from the very origin, originally."
+ },
+ {
+  "id": "v2-1779",
+  "hook": "Thing (物) + tell (語る): tell the story of things (物語 is a story)."
+ },
+ {
+  "id": "v2-1781",
+  "hook": "Thing (物) + fierce (凄い): something fierce and amazing, tremendous."
+ },
+ {
+  "id": "v2-1784",
+  "hook": "Hand (扌) + soft (柔): hands rub something to make it soft."
+ },
+ {
+  "id": "v2-1786",
+  "hook": "催 means hold (an event): something held for people, an event."
+ },
+ {
+  "id": "v2-1787",
+  "hook": "盛 means pile up: pile food high on a plate."
+ },
+ {
+  "id": "v2-1788",
+  "hook": "Question (問) + answer (答): questions and answers."
+ },
+ {
+  "id": "v2-1790",
+  "hook": "喧 has a mouth (口): mouths making noise, so noisy (like 喧嘩, a fight)."
+ },
+ {
+  "id": "v2-1791",
+  "hook": "Night (夜) + interval (間): the time during the night."
+ },
+ {
+  "id": "v2-1794",
+  "hook": "Role (役) + person (者): a person who plays a role, an actor."
+ },
+ {
+  "id": "v2-1797",
+  "hook": "Medicine (薬) + goods (品): medicines and chemical goods."
+ },
+ {
+  "id": "v2-1799",
+  "hook": "Fire (火) + wound (傷): a wound from fire, a burn."
+ },
+ {
+  "id": "v2-1801",
+  "hook": "Arrow (矢) + mark (印): an arrow mark."
+ },
+ {
+  "id": "v2-1806",
+  "hook": "House (家) + owner (主): the owner of the house, the landlord."
+ },
+ {
+  "id": "v2-1807",
+  "hook": "破 means tear or break: tear paper, like 破る."
+ },
+ {
+  "id": "v2-1809",
+  "hook": "軟 means soft (as in 柔軟, flexible): soft and tender."
+ },
+ {
+  "id": "v2-1811",
+  "hook": "Evening (夕) + publish (刊): the paper published in the evening."
+ },
+ {
+  "id": "v2-1814",
+  "hook": "Evening (夕) + stand up (立): rain that suddenly stands up in the evening."
+ },
+ {
+  "id": "v2-1815",
+  "hook": "Evening (夕) + sun (日): the setting sun."
+ },
+ {
+  "id": "v2-1816",
+  "hook": "悠 means calm and far away: doubled, very calm and relaxed."
+ },
+ {
+  "id": "v2-1817",
+  "hook": "Have (有) + fee (料): there is a fee, it is paid."
+ },
+ {
+  "id": "v2-1819",
+  "hook": "Go (行) + direction (方): the direction someone went, their whereabouts."
+ },
+ {
+  "id": "v2-1820",
+  "hook": "Hot water (湯) + air (気): air rising from hot water, steam."
+ },
+ {
+  "id": "v2-1821",
+  "hook": "Transport (輸) + blood (血): moving blood into someone, a transfusion."
+ },
+ {
+  "id": "v2-1822",
+  "hook": "Transport (輸) + send (送): sending things by transport."
+ },
+ {
+  "id": "v2-1824",
+  "hook": "Hot water (湯) + drink (飲み): a cup for drinking hot tea."
+ },
+ {
+  "id": "v2-1825",
+  "hook": "Hot water (湯) + drink (飲): a cup for hot drinks, a teacup."
+ },
+ {
+  "id": "v2-1826",
+  "hook": "緩 has thread (糸): a slack thread, so loose or slow."
+ },
+ {
+  "id": "v2-1827",
+  "hook": "Melt (溶) + rock (岩): melted rock, lava."
+ },
+ {
+  "id": "v2-1829",
+  "hook": "Use (用) + word (語): words used in a field, terms."
+ },
+ {
+  "id": "v2-1830",
+  "hook": "Main point (要) + meaning (旨): the main meaning, the gist."
+ },
+ {
+  "id": "v2-1831",
+  "hook": "Young (幼) + child (児): a very young child."
+ },
+ {
+  "id": "v2-1832",
+  "hook": "Contain (容) + amount (積): how much it can contain, its volume."
+ },
+ {
+  "id": "v2-1833",
+  "hook": "Young (幼) + immature (稚): like a little kid, childish."
+ },
+ {
+  "id": "v2-1834",
+  "hook": "Little kids (幼稚) + garden (園): a garden for little kids, kindergarten."
+ },
+ {
+  "id": "v2-1835",
+  "hook": "Use (用) + way (途): the way something is used."
+ },
+ {
+  "id": "v2-1836",
+  "hook": "Western (洋) + goods (品) + shop (店): a shop for Western clothes and goods."
+ },
+ {
+  "id": "v2-1837",
+  "hook": "Nourish (養) + part (分): the part that nourishes, nutrients."
+ },
+ {
+  "id": "v2-1838",
+  "hook": "Sheep (羊) + hair (毛): wool."
+ },
+ {
+  "id": "v2-1839",
+  "hook": "漸 means gradually: step by step, until at last."
+ },
+ {
+  "id": "v2-1840",
+  "hook": "Waist (要) + neck (領): the two key parts of the body, so the key points, the gist."
+ },
+ {
+  "id": "v2-1842",
+  "hook": "Desire (欲) + stretch (張り): stretching your desires too far, greedy."
+ },
+ {
+  "id": "v2-1847",
+  "hook": "Other (余) + place (所): some other place."
+ },
+ {
+  "id": "v2-1848",
+  "hook": "Four (四つ) + corner (角): where four corners meet, a crossroads."
+ },
+ {
+  "id": "v2-1849",
+  "hook": "Drunk (酔) + sweep away (払い): so drunk his sense is swept away, a drunkard."
+ },
+ {
+  "id": "v2-1850",
+  "hook": "Before (予) + prepare (備): prepared beforehand, a spare."
+ },
+ {
+  "id": "v2-1851",
+  "hook": "Call (呼び) + hang on (掛ける): hang your call on someone, call out to them."
+ },
+ {
+  "id": "v2-1852",
+  "hook": "Call (呼び) + out (出す): call someone out, summon them."
+ },
+ {
+  "id": "v2-1853",
+  "hook": "蘇 means revive: return (かえる) from the underworld (よみ), come back to life."
+ },
+ {
+  "id": "v2-1854",
+  "hook": "慶 means celebration: be glad, like at a celebration."
+ },
+ {
+  "id": "v2-1855",
+  "hook": "Come (来) + Japan (日, short for 日本): come to Japan."
+ },
+ {
+  "id": "v2-1856",
+  "hook": "Fall (落) + grade (第): fall out of your grade, fail."
+ },
+ {
+  "id": "v2-1858",
+  "hook": "欄 has wood (木) and means railing: a boxed-in column in a newspaper or form."
+ },
+ {
+  "id": "v2-1863",
+  "hook": "Profit (利) + harm (害): gains and losses, interests."
+ },
+ {
+  "id": "v2-1868",
+  "hook": "略 means shorten or omit: cut a word short, abbreviate."
+ },
+ {
+  "id": "v2-1869",
+  "hook": "Flow (流) + area (域): the area where a river flows, its basin."
+ },
+ {
+  "id": "v2-1874",
+  "hook": "Territory (領) + affairs (事): an official who handles his country's affairs in a foreign city, a consul."
+ },
+ {
+  "id": "v2-1875",
+  "hook": "Receive (領) + collect (収): proof you received money, a receipt."
+ },
+ {
+  "id": "v2-1879",
+  "hook": "Zero (零) + points (点): zero points."
+ },
+ {
+  "id": "v2-1884",
+  "hook": "Row (列) + island (島): islands in a row, a chain of islands."
+ },
+ {
+  "id": "v2-1885",
+  "hook": "Fire-refined (煉) + tile (瓦): clay fired hard like a tile, a brick."
+ },
+ {
+  "id": "v2-1886",
+  "hook": "Link (連) + join (合): groups linked and joined together, a union."
+ },
+ {
+  "id": "v2-1888",
+  "hook": "Rome (ローマ) + letters (字): Roman letters."
+ },
+ {
+  "id": "v2-1890",
+  "hook": "Record (録) + sound (音): recording sound."
+ },
+ {
+  "id": "v2-1893",
+  "hook": "論 means argument or theory: to argue or discuss."
+ },
+ {
+  "id": "v2-1895",
+  "hook": "Japan (和) + England (英): Japanese to English."
+ },
+ {
+  "id": "v2-1898",
+  "hook": "Young (若) twice: very young looking, youthful."
+ },
+ {
+  "id": "v2-1899",
+  "hook": "詫 has words (言): use words to apologize."
+ },
+ {
+  "id": "v2-1900",
+  "hook": "Japanese (和) + clothes (服): Japanese clothes, like a kimono."
+ },
+ {
+  "id": "v2-1901",
+  "hook": "Divide (割) + match (合): comparing proportions, so relatively."
+ },
+ {
+  "id": "v2-1902",
+  "hook": "Divide (割) + calculate (算): division."
+ }
+]

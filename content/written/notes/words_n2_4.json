@@ -1,0 +1,802 @@
+[
+ {
+  "id": "v2-0588",
+  "hook": "Humble (謙) and empty (虚) of pride: a modest person."
+ },
+ {
+  "id": "v2-0590",
+  "hook": "Where it was first (原) produced (産): its place of origin."
+ },
+ {
+  "id": "v2-0591",
+  "hook": "Origin (原) plus beginning (始): the very first, primeval times."
+ },
+ {
+  "id": "v2-0593",
+  "hook": "Strict (厳) and heavy (重): very strict, severe security."
+ },
+ {
+  "id": "v2-0594",
+  "hook": "Humble (謙) and yielding (遜): you lower yourself and play down your skills."
+ },
+ {
+  "id": "v2-0595",
+  "hook": "Prefecture (県) plus government office (庁): the prefectural office."
+ },
+ {
+  "id": "v2-0596",
+  "hook": "Limit (限) plus degree (度): the furthest degree you can go, the limit."
+ },
+ {
+  "id": "v2-0597",
+  "hook": "現 means present, appear: it is present right now, so actually, really."
+ },
+ {
+  "id": "v2-0600",
+  "hook": "Origin (原) plus logic (理): the basic logic at the root, a principle."
+ },
+ {
+  "id": "v2-0601",
+  "hook": "Original (原) materials (料): the raw stuff before you make anything."
+ },
+ {
+  "id": "v2-0606",
+  "hook": "恋 is romantic love: you love and miss someone dear."
+ },
+ {
+  "id": "v2-0608",
+  "hook": "Factory work (工) plus member (員): a member of the factory staff."
+ },
+ {
+  "id": "v2-0609",
+  "hook": "Strong (強) pull (引): pulling people your way by force, pushy."
+ },
+ {
+  "id": "v2-0613",
+  "hook": "Craft (工) plus art (芸): beautiful things made by skilled hands."
+ },
+ {
+  "id": "v2-0614",
+  "hook": "Filial piety (孝) put into action (行): being good to your parents."
+ },
+ {
+  "id": "v2-0619",
+  "hook": "Words from the mouth (口) dressed up as truth (実): an excuse."
+ },
+ {
+  "id": "v2-0622",
+  "hook": "Public (公) crowd (衆): everyone, the general public, like a 公衆電話."
+ },
+ {
+  "id": "v2-0623",
+  "hook": "Fragrant (香) water (水): perfume."
+ },
+ {
+  "id": "v2-0625",
+  "hook": "Merit (功) plus results (績): the good things you achieved."
+ },
+ {
+  "id": "v2-0626",
+  "hook": "Light (光) in a line (線): a light beam."
+ },
+ {
+  "id": "v2-0627",
+  "hook": "High (高) layers (層) of floors: a high rise building."
+ },
+ {
+  "id": "v2-0628",
+  "hook": "Build (構) plus make (造): how something is built, its structure."
+ },
+ {
+  "id": "v2-0629",
+  "hook": "Exchange (交) and replace (替): workers take turns and swap shifts."
+ },
+ {
+  "id": "v2-0631",
+  "hook": "Plowed (耕) land (地): land you can farm."
+ },
+ {
+  "id": "v2-0634",
+  "hook": "Agree (肯) and fix (定) it: say yes, affirm."
+ },
+ {
+  "id": "v2-0635",
+  "hook": "High (高) degree (度): altitude, or a high, advanced level."
+ },
+ {
+  "id": "v2-0636",
+  "hook": "High (高) grade (等): high class, advanced level."
+ },
+ {
+  "id": "v2-0637",
+  "hook": "Join (合) into the same (同) group: combined, joint."
+ },
+ {
+  "id": "v2-0638",
+  "hook": "High grade (高等) school (学校): senior high school, short form 高校."
+ },
+ {
+  "id": "v2-0639",
+  "hook": "Make it public (公) and show (表) it: an official announcement."
+ },
+ {
+  "id": "v2-0640",
+  "hook": "Ore (鉱) thing (物): a mineral dug from the ground."
+ },
+ {
+  "id": "v2-0642",
+  "hook": "Clause (項) plus item (目): one item on a list."
+ },
+ {
+  "id": "v2-0647",
+  "hook": "Join (合) flows (流): two rivers or groups merge."
+ },
+ {
+  "id": "v2-0648",
+  "hook": "Effect (効) plus power (力): how strongly something works."
+ },
+ {
+  "id": "v2-0649",
+  "hook": "焦 is scorch (fire dots at the bottom): you burn the toast."
+ },
+ {
+  "id": "v2-0650",
+  "hook": "Country (国) plus king (王): the king of a country."
+ },
+ {
+  "id": "v2-0652",
+  "hook": "Set up (立) by the country (国): national, like a national university."
+ },
+ {
+  "id": "v2-0653",
+  "hook": "Polite ご + hardship (苦) + labor (労) + 様: thanks for your hard work."
+ },
+ {
+  "id": "v2-0654",
+  "hook": "焦 is scorch (fire dots below): the food gets burnt."
+ },
+ {
+  "id": "v2-0655",
+  "hook": "凍 means freeze (ice radical): you are freezing cold."
+ },
+ {
+  "id": "v2-0656",
+  "hook": "Something hits (当たり) your heart (心): you have an idea who or what it is."
+ },
+ {
+  "id": "v2-0657",
+  "hook": "Get (得る) it in your heart (心): understand it well."
+ },
+ {
+  "id": "v2-0658",
+  "hook": "Hang (掛け) your hips (腰) on it: a seat or bench."
+ },
+ {
+  "id": "v2-0659",
+  "hook": "Hang (掛) your hips (腰) on it: a seat, same as 腰掛け."
+ },
+ {
+  "id": "v2-0660",
+  "hook": "Hang (掛ける) your hips (腰) on something: sit down."
+ },
+ {
+  "id": "v2-0661",
+  "hook": "Fifty (五十) sounds (音): the kana chart, about 50 sounds."
+ },
+ {
+  "id": "v2-0664",
+  "hook": "Individual (個) body (体): one single individual living thing."
+ },
+ {
+  "id": "v2-0670",
+  "hook": "Old (古) classic texts (典): the classics."
+ },
+ {
+  "id": "v2-0671",
+  "hook": "Attach (付ける) words (言) for someone: leave a message."
+ },
+ {
+  "id": "v2-0674",
+  "hook": "Polite 御 + no (無) news (沙汰): sorry I have not been in touch."
+ },
+ {
+  "id": "v2-0679",
+  "hook": "堪 means endure: hold back tears and bear it."
+ },
+ {
+  "id": "v2-0680",
+  "hook": "Amusement (娯) plus fun (楽): entertainment, recreation."
+ },
+ {
+  "id": "v2-0681",
+  "hook": "Honorable (御) look (覧): polite please look, as in ご覧ください."
+ },
+ {
+  "id": "v2-0683",
+  "hook": "転 means turn or roll over: you roll a ball."
+ },
+ {
+  "id": "v2-0684",
+  "hook": "転 means turn or roll over: the ball rolls on its own."
+ },
+ {
+  "id": "v2-0685",
+  "hook": "Thread (糸) dyed deep: navy blue cloth, like old indigo work clothes."
+ },
+ {
+  "id": "v2-0689",
+  "hook": "Mix (混) and join (合): a mixture."
+ },
+ {
+  "id": "v2-0691",
+  "hook": "Dishes offered (献) and set up (立) in order: the menu."
+ },
+ {
+  "id": "v2-0696",
+  "hook": "Be in (在) study (学): enrolled at school now."
+ },
+ {
+  "id": "v2-0697",
+  "hook": "Again (再) and three (三) times: again and again."
+ },
+ {
+  "id": "v2-0698",
+  "hook": "Festival (祭) day (日): a national holiday."
+ },
+ {
+  "id": "v2-0699",
+  "hook": "Urge (催) and push (促): press someone to pay or act."
+ },
+ {
+  "id": "v2-0700",
+  "hook": "Pick out (採) points (点): mark tests and give scores."
+ },
+ {
+  "id": "v2-0701",
+  "hook": "Disaster (災) plus difficulty (難): bad luck, a calamity."
+ },
+ {
+  "id": "v2-0702",
+  "hook": "Cut cloth (裁) and sew (縫): sewing."
+ },
+ {
+  "id": "v2-0703",
+  "hook": "Material (材) from trees (木): lumber, timber."
+ },
+ {
+  "id": "v2-0705",
+  "hook": "逆 means reverse: upside down, the wrong way round."
+ },
+ {
+  "id": "v2-0706",
+  "hook": "Reverse (逆) state (様): upside down."
+ },
+ {
+  "id": "v2-0707",
+  "hook": "捜 is search with your hand (扌): look for something lost, like police searching."
+ },
+ {
+  "id": "v2-0708",
+  "hook": "遡 means go upstream: go back up the river of time."
+ },
+ {
+  "id": "v2-0709",
+  "hook": "Alcohol (酒) place (場): a bar."
+ },
+ {
+  "id": "v2-0710",
+  "hook": "一昨日 is two days ago; add one more before (昨): three days ago."
+ },
+ {
+  "id": "v2-0711",
+  "hook": "A little extent (程) before (先) now: a while ago."
+ },
+ {
+  "id": "v2-0712",
+  "hook": "Search (索) and pull (引) out: the index at the back of a book."
+ },
+ {
+  "id": "v2-0714",
+  "hook": "Shave off (削) and remove (除): delete."
+ },
+ {
+  "id": "v2-0716",
+  "hook": "Make (作) plus manufacture (製): produce, make."
+ },
+ {
+  "id": "v2-0718",
+  "hook": "A mouth (口) next to three ears (耳): whisper."
+ },
+ {
+  "id": "v2-0720",
+  "hook": "匕 inside 匙 is an old spoon shape: a spoon."
+ },
+ {
+  "id": "v2-0721",
+  "hook": "A room to sit (座) on spread out (敷) tatami: a tatami room."
+ },
+ {
+  "id": "v2-0722",
+  "hook": "Something stuck in (差し) that blocks (支え) things: a hindrance, a problem."
+ },
+ {
+  "id": "v2-0723",
+  "hook": "Insert (差し) and pull out (引き): add and subtract, what is left is the balance."
+ },
+ {
+  "id": "v2-0724",
+  "hook": "Pierced (刺) flesh (身): raw fish slices."
+ },
+ {
+  "id": "v2-0726",
+  "hook": "Special reading: flowing (流) stone (石); think stones stay solid in a river, as expected."
+ },
+ {
+  "id": "v2-0727",
+  "hook": "Take a photo (撮) of the image (影): photographing, filming."
+ },
+ {
+  "id": "v2-0728",
+  "hook": "Mixed (雑) sound (音): noise."
+ },
+ {
+  "id": "v2-0730",
+  "hook": "Early (早) and fast (速): right away."
+ },
+ {
+  "id": "v2-0732",
+  "hook": "錆 has the metal radical (金): metal goes rusty."
+ },
+ {
+  "id": "v2-0734",
+  "hook": "妨 means obstruct: get in the way, prevent."
+ },
+ {
+  "id": "v2-0737",
+  "hook": "騒 has a horse (馬): horses making a noisy fuss."
+ },
+ {
+  "id": "v2-0742",
+  "hook": "Produce (産) land (地): where something is grown or made."
+ },
+ {
+  "id": "v2-0744",
+  "hook": "Mountain (山) woods (林): mountain forest."
+ },
+ {
+  "id": "v2-0747",
+  "hook": "Work done (仕) rises up (上がる) to the end: it is finished."
+ },
+ {
+  "id": "v2-0748",
+  "hook": "明後日 is the day after tomorrow; add one more 明: three days from now."
+ },
+ {
+  "id": "v2-0749",
+  "hook": "Temple (寺) plus institution (院): a temple."
+ },
+ {
+  "id": "v2-0751",
+  "hook": "Self (自) defense (衛): self defense."
+ },
+ {
+  "id": "v2-0752",
+  "hook": "Salt (塩) plus spicy, sharp (辛): very salty."
+ },
+ {
+  "id": "v2-0753",
+  "hook": "Salt (塩) plus sharp taste (辛い): salty."
+ },
+ {
+  "id": "v2-0754",
+  "hook": "Run (司) the meeting (会): host or chairperson."
+ },
+ {
+  "id": "v2-0757",
+  "hook": "There is no (ない) way of doing (仕方) it: it can't be helped."
+ },
+ {
+  "id": "v2-0758",
+  "hook": "Time (時間) divided (割) up: a timetable."
+ },
+ {
+  "id": "v2-0760",
+  "hook": "Land (地) laid out (敷): the site of a building."
+ },
+ {
+  "id": "v2-0761",
+  "hook": "敷 means spread: lay out a futon on the floor."
+ },
+ {
+  "id": "v2-0762",
+  "hook": "茂 has the grass radical (艹): plants grow thick."
+ },
+ {
+  "id": "v2-0763",
+  "hook": "Hold (持) and go (参): bring it with you."
+ },
+ {
+  "id": "v2-0764",
+  "hook": "Magnetic (磁) stone (石): a magnet."
+ },
+ {
+  "id": "v2-0765",
+  "hook": "Throw away (捨) four (四), put in (入) five (五): rounding numbers."
+ },
+ {
+  "id": "v2-0766",
+  "hook": "Start (始) to end (終): from beginning to end, always."
+ },
+ {
+  "id": "v2-0767",
+  "hook": "Learn (習) by yourself (自): self study."
+ },
+ {
+  "id": "v2-0768",
+  "hook": "静 means quiet: things become quiet and calm."
+ },
+ {
+  "id": "v2-0770",
+  "hook": "Nature (自然) science (科学): natural science."
+ },
+ {
+  "id": "v2-0771",
+  "hook": "Speed (速) per hour (時): kilometres per hour."
+ },
+ {
+  "id": "v2-0772",
+  "hook": "Children (子) and grandchildren (孫): descendants."
+ },
+ {
+  "id": "v2-0773",
+  "hook": "Dead (死) body (体): a corpse."
+ },
+ {
+  "id": "v2-0774",
+  "hook": "Writing (書き) underneath (下) the final one: a draft."
+ },
+ {
+  "id": "v2-0782",
+  "hook": "Real (実) learning (習): hands on practice, training."
+ },
+ {
+  "id": "v2-0785",
+  "hook": "Hold (執) the brush (筆): write a book or article."
+ },
+ {
+  "id": "v2-0788",
+  "hook": "Real (実) use (用): practical use."
+ },
+ {
+  "id": "v2-0790",
+  "hook": "Real (実) example (例): a real example."
+ },
+ {
+  "id": "v2-0792",
+  "hook": "Lose (失) love (恋): a broken heart."
+ },
+ {
+  "id": "v2-0793",
+  "hook": "Point (指) and fix (定): designate, like 指定席 reserved seat."
+ },
+ {
+  "id": "v2-0794",
+  "hook": "Private (私) iron (鉄) road: a private railway."
+ },
+ {
+  "id": "v2-0796",
+  "hook": "縛 has the thread radical (糸): tie up with rope."
+ },
+ {
+  "id": "v2-0797",
+  "hook": "Ground (地) base (盤): the ground under buildings."
+ },
+ {
+  "id": "v2-0799",
+  "hook": "Paper (紙) money (幣): bank notes."
+ },
+ {
+  "id": "v2-0801",
+  "hook": "萎 has the grass radical (艹): a plant wilts."
+ },
+ {
+  "id": "v2-0802",
+  "hook": "絞 has the thread radical (糸): twist and wring out a towel."
+ },
+ {
+  "id": "v2-0803",
+  "hook": "縞 has the thread radical (糸): woven threads make stripes."
+ },
+ {
+  "id": "v2-0806",
+  "hook": "Family name (氏) plus name (名): your full name."
+ },
+ {
+  "id": "v2-0809",
+  "hook": "Close (締め) and cut (切る) off: shut, close; 締め切り is a deadline."
+ },
+ {
+  "id": "v2-0812",
+  "hook": "Ground (地) surface (面): the ground."
+ },
+ {
+  "id": "v2-0814",
+  "hook": "Society (社会) science (科学): social science."
+ },
+ {
+  "id": "v2-0816",
+  "hook": "Snake (蛇) mouth (口): the tap, a snake head spitting water."
+ },
+ {
+  "id": "v2-0817",
+  "hook": "Weak (弱) point (点): a weakness."
+ },
+ {
+  "id": "v2-0818",
+  "hook": "Car (車) storehouse (庫): a garage."
+ },
+ {
+  "id": "v2-0820",
+  "hook": "Copy (写) life (生): sketch from real life."
+ },
+ {
+  "id": "v2-0821",
+  "hook": "Company's (社) opinion (説): a newspaper editorial."
+ },
+ {
+  "id": "v2-0825",
+  "hook": "Car (車) ring (輪): a wheel."
+ },
+ {
+  "id": "v2-0829",
+  "hook": "Gather (集) and meet (会): a meeting, assembly."
+ },
+ {
+  "id": "v2-0830",
+  "hook": "Live (住) plus reside (居): your home."
+ },
+ {
+  "id": "v2-0831",
+  "hook": "Gather (集) money (金): collect money."
+ },
+ {
+  "id": "v2-0833",
+  "hook": "Learn (習) characters (字): practice handwriting."
+ },
+ {
+  "id": "v2-0834",
+  "hook": "Repair (修) and mend (繕): fix something."
+ },
+ {
+  "id": "v2-0838",
+  "hook": "Heavy (重) point (点): the important point."
+ },
+ {
+  "id": "v2-0839",
+  "hook": "Take up (就) a duty (任): start a new post."
+ },
+ {
+  "id": "v2-0840",
+  "hook": "Around (周) the edges (辺): the surrounding area."
+ },
+ {
+  "id": "v2-0841",
+  "hook": "Heavy (重) role (役): an important role, a company director."
+ },
+ {
+  "id": "v2-0843",
+  "hook": "Heavy (重) amount (量): weight."
+ },
+ {
+  "id": "v2-0844",
+  "hook": "Heavy (重) power (力): gravity."
+ },
+ {
+  "id": "v2-0845",
+  "hook": "Ripe (熟) words (語): set phrases, kanji compounds."
+ },
+ {
+  "id": "v2-0847",
+  "hook": "Shrink (縮) small (小): reduce."
+ },
+ {
+  "id": "v2-0849",
+  "hook": "Main (主) word (語): the subject of a sentence."
+ },
+ {
+  "id": "v2-0852",
+  "hook": "Word that states (述) something: the predicate."
+ },
+ {
+  "id": "v2-0854",
+  "hook": "Long life (寿) plus life (命): life span."
+ },
+ {
+  "id": "v2-0855",
+  "hook": "Main (主) role (役): the lead part."
+ },
+ {
+  "id": "v2-0857",
+  "hook": "Follow (循) round a ring (環): circulation, a cycle."
+ },
+ {
+  "id": "v2-0858",
+  "hook": "Patrol (巡) and inspect (査): a police officer on patrol."
+ },
+ {
+  "id": "v2-0859",
+  "hook": "Order (順) repeated (々): one by one, in turn."
+ },
+ {
+  "id": "v2-0860",
+  "hook": "Order (順) plus sequence (序): the order of steps."
+ },
+ {
+  "id": "v2-0861",
+  "hook": "Pure (純) feelings (情): innocent, pure hearted."
+ },
+ {
+  "id": "v2-0862",
+  "hook": "Pure (純) plus pure essence (粋): completely pure, genuine."
+ },
+ {
+  "id": "v2-0864",
+  "hook": "諸 has words (言) for many things: various, like 諸国 various countries."
+ },
+ {
+  "id": "v2-0867",
+  "hook": "Make food vanish (消) and change (化): digestion."
+ },
+ {
+  "id": "v2-0870",
+  "hook": "Generals (将) on a game board (棋): Japanese chess."
+ },
+ {
+  "id": "v2-0872",
+  "hook": "Fixed (定) standard (規): a ruler for straight lines."
+ },
+ {
+  "id": "v2-0873",
+  "hook": "Upper (上) rank (級): advanced level."
+ },
+ {
+  "id": "v2-0874",
+  "hook": "Trade (商) business (業): commerce."
+ },
+ {
+  "id": "v2-0875",
+  "hook": "The fading (消) pole (極), opposite of 積極的: passive."
+ },
+ {
+  "id": "v2-0876",
+  "hook": "Prize (賞) money (金): prize money."
+ },
+ {
+  "id": "v2-0882",
+  "hook": "Small (小) number (数): a decimal less than one."
+ },
+ {
+  "id": "v2-0883",
+  "hook": "生 means be born: something is born, arises."
+ },
+ {
+  "id": "v2-0885",
+  "hook": "The point (点) where a lens can scorch (焦) paper: the focus."
+ },
+ {
+  "id": "v2-0886",
+  "hook": "Wipe out (消) poison (毒): disinfect."
+ },
+ {
+  "id": "v2-0887",
+  "hook": "Win (勝) or lose (敗): the result of a match."
+ },
+ {
+  "id": "v2-0888",
+  "hook": "Steam (蒸) goes off (発): evaporation, or a person vanishes."
+ },
+ {
+  "id": "v2-0892",
+  "hook": "Small (小) toilet business (便): urine."
+ },
+ {
+  "id": "v2-0893",
+  "hook": "Put out (消) and prevent (防) fires, office (署): fire station."
+ },
+ {
+  "id": "v2-0894",
+  "hook": "The true (正) content (味): net weight without the packaging."
+ },
+ {
+  "id": "v2-0896",
+  "hook": "Use up (消) and wear down (耗): exhaustion."
+ },
+ {
+  "id": "v2-0898",
+  "hook": "First (初) rank (級): beginner level."
+ },
+ {
+  "id": "v2-0899",
+  "hook": "Helper (助) professor (教授): assistant professor."
+ },
+ {
+  "id": "v2-0900",
+  "hook": "Eating (食) salt (塩): table salt."
+ },
+ {
+  "id": "v2-0903",
+  "hook": "First (初) ten days (旬) of the month."
+ },
+ {
+  "id": "v2-0904",
+  "hook": "Book (書) records (籍): books, publications."
+ },
+ {
+  "id": "v2-0907",
+  "hook": "Book (書) shop (店): a bookshop."
+ },
+ {
+  "id": "v2-0909",
+  "hook": "First (初) step (歩): the basics."
+ },
+ {
+  "id": "v2-0910",
+  "hook": "White (白) hair (髪), special reading しらが: grey hair."
+ },
+ {
+  "id": "v2-0913",
+  "hook": "Set up (立) privately (私): private school; trap, 市立 is also しりつ."
+ },
+ {
+  "id": "v2-0918",
+  "hook": "Grass (艹) with a heart (心) inside: the core or wick."
+ },
+ {
+  "id": "v2-0920",
+  "hook": "Truly (真) empty (空): a vacuum."
+ },
+ {
+  "id": "v2-0922",
+  "hook": "Heart (心) and body (身): mind and body."
+ },
+ {
+  "id": "v2-0923",
+  "hook": "信 means trust: an older form of 信じる, to believe."
+ },
+ {
+  "id": "v2-0925",
+  "hook": "Made (造) by people (人): man made."
+ },
+ {
+  "id": "v2-0926",
+  "hook": "Sleep (寝) stand (台): a bed, like a sleeper train berth."
+ },
+ {
+  "id": "v2-0928",
+  "hook": "Invade (侵) and enter (入): break in."
+ },
+ {
+  "id": "v2-0929",
+  "hook": "Human (人) culture (文) science (科学): the humanities."
+ },
+ {
+  "id": "v2-0930",
+  "hook": "Human (人) life (命): human life."
+ },
+ {
+  "id": "v2-0932",
+  "hook": "Many trees (森) plus woods (林): forest."
+ },
+ {
+  "id": "v2-0933",
+  "hook": "Parent's (親) kind (類): your relatives."
+ },
+ {
+  "id": "v2-0934",
+  "hook": "Compass needle (針) road (路): the course a ship takes."
+ },
+ {
+  "id": "v2-0935",
+  "hook": "God (神) story (話): a myth."
+ }
+]

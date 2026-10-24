@@ -1,0 +1,802 @@
+[
+ {
+  "id": "v2-1047",
+  "hook": "Mixed, rough (雑) cloth (巾): an everyday cloth for wiping floors."
+ },
+ {
+  "id": "v2-1057",
+  "hook": "Send (送) someone off at a parting (別): a farewell."
+ },
+ {
+  "id": "v2-1060",
+  "hook": "Send (送) + fee (料): the fee you pay to send something, postage."
+ },
+ {
+  "id": "v2-1061",
+  "hook": "属 means belong to a group: 属する is to belong to or be part of something."
+ },
+ {
+  "id": "v2-1064",
+  "hook": "Measure (測) and fix (定) the number: a measurement."
+ },
+ {
+  "id": "v2-1071",
+  "hook": "Plain (率) and straight (直): saying things directly, frank."
+ },
+ {
+  "id": "v2-1094",
+  "hook": "Big (大) + して, used with a negative: \"not a big amount\", so not very much."
+ },
+ {
+  "id": "v2-1096",
+  "hook": "Big (大) and small (小): together they mean size."
+ },
+ {
+  "id": "v2-1100",
+  "hook": "Body (体) + operate, work (操): working your body, physical exercise."
+ },
+ {
+  "id": "v2-1101",
+  "hook": "A big (大) part (分): considerably, a lot."
+ },
+ {
+  "id": "v2-1108",
+  "hook": "Standing (立) facing (対) each other: two sides in opposition."
+ },
+ {
+  "id": "v2-1120",
+  "hook": "Stand (立ち) + stop (止まる): you stop walking and stand still."
+ },
+ {
+  "id": "v2-1130",
+  "hook": "Collected (溜) breath (息): the breath you let out all at once, a sigh."
+ },
+ {
+  "id": "v2-1143",
+  "hook": "A group (団) of homes on one piece of land (地): a housing complex."
+ },
+ {
+  "id": "v2-1144",
+  "hook": "Cut off (断) doubt and fix (定) it: to decide firmly, a conclusion."
+ },
+ {
+  "id": "v2-1176",
+  "hook": "Your long, excellent (長) point (所): a strong point. Opposite: 短所, short point."
+ },
+ {
+  "id": "v2-1185",
+  "hook": "Directly (直) after (後): immediately following."
+ },
+ {
+  "id": "v2-1193",
+  "hook": "散 means scatter: 散らかす is to scatter things around and make a mess."
+ },
+ {
+  "id": "v2-1204",
+  "hook": "Pass through (通) and be used (用): accepted and usable everywhere."
+ },
+ {
+  "id": "v2-1215",
+  "hook": "繋 means tie or link: 繋がり is a link between things or people."
+ },
+ {
+  "id": "v2-1218",
+  "hook": "潰 means crush: 潰す is to smash flat, or to kill time (時間を潰す)."
+ },
+ {
+  "id": "v2-1222",
+  "hook": "詰 means pack in tight: when too much is packed in, it gets blocked."
+ },
+ {
+  "id": "v2-1238",
+  "hook": "Stop (停) + stop (止): a double stop, a full stoppage."
+ },
+ {
+  "id": "v2-1241",
+  "hook": "Out (出) and in (入り): coming and going."
+ },
+ {
+  "id": "v2-1244",
+  "hook": "Put (入れ) your hands (手) into it: care and maintenance."
+ },
+ {
+  "id": "v2-1249",
+  "hook": "The neck (首) of the hand (手): your wrist."
+ },
+ {
+  "id": "v2-1257",
+  "hook": "Hand (手) steps that continue (続き) one after another: a procedure."
+ },
+ {
+  "id": "v2-1264",
+  "hook": "照 means shine light: 照らす is to shine light on something."
+ },
+ {
+  "id": "v2-1266",
+  "hook": "Spread out (展) and open (開): to unfold or develop."
+ },
+ {
+  "id": "v2-1298",
+  "hook": "See through (透) and clear, bright (明): transparent."
+ },
+ {
+  "id": "v2-1308",
+  "hook": "Specially (特) fixed (定): a specific, particular one."
+ },
+ {
+  "id": "v2-1309",
+  "hook": "Special (特) selling (売): a special sale."
+ },
+ {
+  "id": "v2-1313",
+  "hook": "The floor (床) space (間): a raised alcove in a Japanese room."
+ },
+ {
+  "id": "v2-1330",
+  "hook": "Take (取り) and bring out (出す): to take something out."
+ },
+ {
+  "id": "v2-1363",
+  "hook": "何 (what) + とも: \"I can't say what it is\", so really, extremely."
+ },
+ {
+  "id": "v2-1376",
+  "hook": "Day (日) use (用) goods (品): things you use every day."
+ },
+ {
+  "id": "v2-1379",
+  "hook": "鈍 has metal (金): a dull, blunt blade, and also a slow, dull mind."
+ },
+ {
+  "id": "v2-1401",
+  "hook": "Not remaining (残らず): nothing is left over, so all of it, without exception."
+ },
+ {
+  "id": "v2-1406",
+  "hook": "Ride (乗り) over, past (越し) your stop: riding past your station."
+ },
+ {
+  "id": "v2-1407",
+  "hook": "Same 鈍 (dull) as にぶい, but のろい means slow moving; のろのろ is \"slowly\"."
+ },
+ {
+  "id": "v2-1411",
+  "hook": "Ash (灰) color (色): grey."
+ },
+ {
+  "id": "v2-1421",
+  "hook": "The feeling (気) of wanting to throw up (吐き): nausea."
+ },
+ {
+  "id": "v2-1427",
+  "hook": "挟 has a hand (扌): your hand holds something between two things."
+ },
+ {
+  "id": "v2-1429",
+  "hook": "At the start (始め): to begin with, first of all."
+ },
+ {
+  "id": "v2-1450",
+  "hook": "In the middle (中) of talking (話): the phone line is busy."
+ },
+ {
+  "id": "v2-1456",
+  "hook": "Broken (破) piece (片): a fragment."
+ },
+ {
+  "id": "v2-1462",
+  "hook": "Needle (針) metal (金): thin metal like a needle, wire."
+ },
+ {
+  "id": "v2-1465",
+  "hook": "Reflect (映) back (反): an image reflected back, or something that shows an influence."
+ },
+ {
+  "id": "v2-1485",
+  "hook": "Pull (引き) out (出す): pull out a drawer, or take money out of the bank."
+ },
+ {
+  "id": "v2-1531",
+  "hook": "Judge (評) and discuss (論): a critique or review."
+ },
+ {
+  "id": "v2-1535",
+  "hook": "広い (wide) + さ (how much): how wide it is, the extent."
+ },
+ {
+  "id": "v2-1546",
+  "hook": "Widely (普) reach (及): something spreads to everyone."
+ },
+ {
+  "id": "v2-1556",
+  "hook": "更 (further, late at night, as in 夜更け): the night goes further on, it gets late."
+ },
+ {
+  "id": "v2-1575",
+  "hook": "Blowing (吹) snow (雪): a snowstorm."
+ },
+ {
+  "id": "v2-1586",
+  "hook": "Swing (振り) to face (向く) another way: to turn around."
+ },
+ {
+  "id": "v2-1597",
+  "hook": "Divide (分) and undo (解): take apart, break down."
+ },
+ {
+  "id": "v2-1602",
+  "hook": "The body, form (体) of the writing (文): writing style."
+ },
+ {
+  "id": "v2-1609",
+  "hook": "Flat, calm (平) feeling (気): cool and calm, \"I'm fine\"."
+ },
+ {
+  "id": "v2-1619",
+  "hook": "Separate (別), written twice (々 repeats it): each one separately."
+ },
+ {
+  "id": "v2-1628",
+  "hook": "Direction (方) + angle, corner (角): which way, a direction."
+ },
+ {
+  "id": "v2-1630",
+  "hook": "Area (方, as in 地方) + words (言): the way people talk in one area, a dialect."
+ },
+ {
+  "id": "v2-1633",
+  "hook": "Direction (方) needle (針): like a compass needle, a policy shows the way."
+ },
+ {
+  "id": "v2-1636",
+  "hook": "Wrap (包) + band, belt (帯): a band you wrap around a wound."
+ },
+ {
+  "id": "v2-1654",
+  "hook": "解 means undo: ほどく is to undo a knot or untie."
+ },
+ {
+  "id": "v2-1680",
+  "hook": "Street (街) corner (角): a street corner."
+ },
+ {
+  "id": "v2-1684",
+  "hook": "The very (真っ) front, tip (先): the very first."
+ },
+ {
+  "id": "v2-1698",
+  "hook": "Full (満) points (点): a perfect score."
+ },
+ {
+  "id": "v2-1700",
+  "hook": "Look (見) up (上げる): to look up at, or look up to someone."
+ },
+ {
+  "id": "v2-1701",
+  "hook": "Watch (見) as you send (送る) them off: to see someone off."
+ },
+ {
+  "id": "v2-1703",
+  "hook": "見掛ける means to catch sight of: 見掛け is what you see at first, the outward look."
+ },
+ {
+  "id": "v2-1720",
+  "hook": "Your body's (身) share, place (分): your position or status in society."
+ },
+ {
+  "id": "v2-1723",
+  "hook": "Not yet (未) full (満): less than; 18歳未満 means under 18."
+ },
+ {
+  "id": "v2-1749",
+  "hook": "Point (指す) your eyes (目) at it: to aim for a goal."
+ },
+ {
+  "id": "v2-1759",
+  "hook": "目 (eye, mark) + 安 (easy): an easy mark to check against, a rough guide."
+ },
+ {
+  "id": "v2-1760",
+  "hook": "Excused from (免) tax (税): tax free."
+ },
+ {
+  "id": "v2-1780",
+  "hook": "A thing (物) you hold up (差し) against something to measure it: a ruler."
+ },
+ {
+  "id": "v2-1810",
+  "hook": "Play (遊) garden (園) land (地): an amusement park."
+ },
+ {
+  "id": "v2-1813",
+  "hook": "Mail (郵) + send (送): to send by post."
+ },
+ {
+  "id": "v2-1823",
+  "hook": "Like letting the lamp oil (油) run out, cut off (断): a careless moment."
+ },
+ {
+  "id": "v2-1841",
+  "hook": "翌 means the next one: 翌日 is the next day, 翌年 the next year."
+ },
+ {
+  "id": "v2-1861",
+  "hook": "Wild, messy (乱) + violent (暴): rough and violent behaviour."
+ },
+ {
+  "id": "v2-1872",
+  "hook": "Both (両) sides (側): both sides."
+ },
+ {
+  "id": "v2-1876",
+  "hook": "Facing (臨) the time (時), just for now: temporary, special."
+ },
+ {
+  "id": "v2-1877",
+  "hook": "Your turn (番) to watch the house while people are away (留守): house sitting."
+ },
+ {
+  "id": "v2-1903",
+  "hook": "割 (ratio, compared): 割と means \"compared to what you expect\", fairly, quite."
+ },
+ {
+  "id": "v2-0096",
+  "hook": "泊 has water (氵): a boat stops at shore for the night; 二泊 is two nights."
+ },
+ {
+  "id": "v2-0694",
+  "hook": "再 means again: 再開 is to open again."
+ },
+ {
+  "id": "v2-1232",
+  "hook": "低 means low: 低温 is low temperature, 低価格 is low price."
+ },
+ {
+  "id": "v2-0003",
+  "hook": "位 means rank, a person (亻) standing (立) in their place: 一位 is first place."
+ },
+ {
+  "id": "v2-0092",
+  "hook": "通り is the road you pass along (通る): a street, or \"along the lines of\", as said."
+ },
+ {
+  "id": "v2-0956",
+  "hook": "隙 is a small gap: a gap in your guard, a chance for someone else."
+ },
+ {
+  "id": "v2-1896",
+  "hook": "我 means I, we, self: 我が国 is our country."
+ },
+ {
+  "id": "v2-0042",
+  "hook": "史 means history: 日本史 is Japanese history."
+ },
+ {
+  "id": "v2-0085",
+  "hook": "辛い (painful) after a verb: painful to do, hard to do; 読みづらい is hard to read."
+ },
+ {
+  "id": "v2-0029",
+  "hook": "切れ means cut off, run out: 時間切れ is time cut off, out of time."
+ },
+ {
+  "id": "v2-1626",
+  "hook": "防 means protect against: 防水 is waterproof, 防犯 is crime prevention."
+ },
+ {
+  "id": "v2-0110",
+  "hook": "向け comes from 向く (to face): made facing a group; 子供向け is for children."
+ },
+ {
+  "id": "v2-0121",
+  "hook": "羽 means feather, wing: so you count birds (and rabbits, by tradition) with 羽."
+ },
+ {
+  "id": "v2-0018",
+  "hook": "巻 means roll: old books were scrolls you rolled, so 巻 counts volumes."
+ },
+ {
+  "id": "v2-0057",
+  "hook": "省 is a government ministry: 外務省 is the Ministry of Foreign Affairs."
+ },
+ {
+  "id": "v2-0060",
+  "hook": "条 means a line, an article: 第九条 is Article 9 of a law."
+ },
+ {
+  "id": "v2-0062",
+  "hook": "畳 is a tatami mat: 六畳 is a room the size of six mats."
+ },
+ {
+  "id": "v2-0369",
+  "hook": "各 means each: 各国 is each country."
+ },
+ {
+  "id": "v2-0866",
+  "hook": "省 also means cut down, save: 省エネ is saving energy."
+ },
+ {
+  "id": "v2-1476",
+  "hook": "非 means not, wrong: 非常識 is lacking common sense."
+ },
+ {
+  "id": "v2-1699",
+  "hook": "未 means not yet: 未完成 is not yet finished."
+ },
+ {
+  "id": "v2-0082",
+  "hook": "遣う means to use: 言葉遣い is the way you use words, 無駄遣い is wasting money."
+ },
+ {
+  "id": "v2-0516",
+  "hook": "Two jade pieces (王王) over 今 (giving the sound きん): a fine string instrument, a zither."
+ },
+ {
+  "id": "v2-1044",
+  "hook": "総 means all, whole: 総数 is the total number."
+ },
+ {
+  "id": "v2-1224",
+  "hook": "爪 is a picture of a hand reaching down with claws: your nails."
+ },
+ {
+  "id": "v2-1281",
+  "hook": "Metal (金) + 同 (sound どう): copper; 銅メダル is the bronze medal."
+ },
+ {
+  "id": "v2-1322",
+  "hook": "殿 means palace, lord: writing 殿 after a name honours them, like Mr."
+ },
+ {
+  "id": "v2-1333",
+  "hook": "丼 looks like a well (井) with food dropped in: a bowl of rice with food on top."
+ },
+ {
+  "id": "v2-1569",
+  "hook": "蓋 has grass (艹) on top: something that covers the top, a lid."
+ },
+ {
+  "id": "v2-1668",
+  "hook": "Wood (木) + 冘: old Japanese pillows were wooden blocks for your head."
+ },
+ {
+  "id": "v2-1705",
+  "hook": "Mountain (山) + 甲 (shell, armour): hard land that sticks out into the sea, a cape."
+ },
+ {
+  "id": "v2-1735",
+  "hook": "紫 has thread (糸): thread dyed purple, an old royal colour."
+ },
+ {
+  "id": "v2-0079",
+  "hook": "帳 has cloth (巾): sheets bound into a book; 手帳 is a notebook, 通帳 a bankbook."
+ },
+ {
+  "id": "v2-0089",
+  "hook": "等 means rank, grade: 一等 is first class, first prize."
+ },
+ {
+  "id": "v2-0115",
+  "hook": "等 means \"and others\": 彼等 (かれら) is he and the others, they."
+ },
+ {
+  "id": "v2-0084",
+  "hook": "続く means continue: 雨が続く, the rain goes on."
+ },
+ {
+  "id": "v2-0014",
+  "hook": "難 means difficult: 信じ難い is hard to believe."
+ },
+ {
+  "id": "v2-0016",
+  "hook": "刊 means publish: 朝刊 is the morning paper, 週刊 is weekly."
+ },
+ {
+  "id": "v2-0118",
+  "hook": "領 means rule over land: 日本領 is Japanese territory."
+ },
+ {
+  "id": "v2-1548",
+  "hook": "副 means second, sub: 副社長 is the vice president of a company."
+ },
+ {
+  "id": "v2-0033",
+  "hook": "系 has thread (糸): a line of connected things, a system or group; 理系 is science."
+ },
+ {
+  "id": "v2-0070",
+  "hook": "沿 has water (氵): following along a river; 川沿い is along the river."
+ },
+ {
+  "id": "v2-0098",
+  "hook": "Number (番) + 目 (the ~th): 三番目 is the third one."
+ },
+ {
+  "id": "v2-0331",
+  "hook": "御 makes words polite: 御中 (おんちゅう) is written after a company name on letters."
+ },
+ {
+  "id": "v2-0002",
+  "hook": "式 means style, method: 日本式 is Japanese style."
+ },
+ {
+  "id": "v2-0034",
+  "hook": "圏 is inside a box (囗): a closed area; 首都圏 is the capital area."
+ },
+ {
+  "id": "v2-0045",
+  "hook": "Hour (時間) + 目 (the ~th): 二時間目 is second period at school."
+ },
+ {
+  "id": "v2-0064",
+  "hook": "過ぎる means go past: go past the limit, too much; 食べ過ぎる is eat too much."
+ },
+ {
+  "id": "v2-0071",
+  "hook": "艘 has boat (舟): counts boats; 一艘 is one boat."
+ },
+ {
+  "id": "v2-0076",
+  "hook": "庁 has a roof (广): a government office; 気象庁 is the weather agency."
+ },
+ {
+  "id": "v2-0077",
+  "hook": "兆 means sign, omen, and also trillion: 一兆円 is one trillion yen."
+ },
+ {
+  "id": "v2-0080",
+  "hook": "丁 counts town blocks + 目 (the ~th): 三丁目 is the 3rd block in an address."
+ },
+ {
+  "id": "v2-0086",
+  "hook": "滴 has water (氵): a drop of water; 一滴 is one drop."
+ },
+ {
+  "id": "v2-0104",
+  "hook": "遍 means all over, times: 一遍 is once, 何遍も is many times."
+ },
+ {
+  "id": "v2-0125",
+  "hook": "扇 is a fan, a door (戸) with feathers (羽): to fan yourself."
+ },
+ {
+  "id": "v2-0127",
+  "hook": "呆 looks like a mouth (口) on a tree (木), mouth open in shock: to be appalled."
+ },
+ {
+  "id": "v2-0130",
+  "hook": "Until (まで) you are fed up (飽く): to the very end, stubbornly."
+ },
+ {
+  "id": "v2-0131",
+  "hook": "明 (bright): when it gets light, the next day comes; 明くる日 is the next day."
+ },
+ {
+  "id": "v2-0133",
+  "hook": "憧 has heart (忄): your heart longs for something, to admire."
+ },
+ {
+  "id": "v2-0134",
+  "hook": "Morning (朝) sleep (寝) boy (坊): a boy who sleeps late, oversleeping."
+ },
+ {
+  "id": "v2-0142",
+  "hook": "Thick (厚) skinned: so bold you feel no shame, cheeky."
+ },
+ {
+  "id": "v2-0143",
+  "hook": "Press (圧) and shrink (縮): compress."
+ },
+ {
+  "id": "v2-0144",
+  "hook": "The name (名) it is sent to (宛): the address on a letter."
+ },
+ {
+  "id": "v2-0145",
+  "hook": "It hits (当て) and fits in (はまる): to apply, to fit a category."
+ },
+ {
+  "id": "v2-0146",
+  "hook": "Hit (当て) and fit it in (はめる): to apply a rule to something."
+ },
+ {
+  "id": "v2-0147",
+  "hook": "暴 means violent: 暴れる is to act wildly, to rage."
+ },
+ {
+  "id": "v2-0151",
+  "hook": "Rain (雨) + door (戸): the door you shut against the rain."
+ },
+ {
+  "id": "v2-0152",
+  "hook": "甘い (sweet) + やかす: being too sweet with a child, spoiling them."
+ },
+ {
+  "id": "v2-0153",
+  "hook": "余 means extra: 余る is to be left over."
+ },
+ {
+  "id": "v2-0154",
+  "hook": "Knitted (編み) things (物): knitting."
+ },
+ {
+  "id": "v2-0156",
+  "hook": "編 has thread (糸): you knit threads together."
+ },
+ {
+  "id": "v2-0157",
+  "hook": "危 means danger (as in 危ない): 危うい is dangerous, at risk."
+ },
+ {
+  "id": "v2-0159",
+  "hook": "荒 has grass (艹): wild, overgrown land, so rough and wild."
+ },
+ {
+  "id": "v2-0160",
+  "hook": "粗 has rice (米): rice not finely ground, so coarse, rough."
+ },
+ {
+  "id": "v2-0161",
+  "hook": "Rough (粗) lines (筋): the rough outline of a story, a synopsis."
+ },
+ {
+  "id": "v2-0164",
+  "hook": "改 means change, reform: 改める is to change for the better, revise."
+ },
+ {
+  "id": "v2-0166",
+  "hook": "Hard (難) to have (有): something rare, so you are thankful (ありがとう)."
+ },
+ {
+  "id": "v2-0168",
+  "hook": "荒 means wild: 荒れる is when weather or a place becomes rough or wild."
+ },
+ {
+  "id": "v2-0169",
+  "hook": "慌 has heart (忄): a panicked heart, so busy and hurried."
+ },
+ {
+  "id": "v2-0175",
+  "hook": "Say (言い) and attach (付ける) a task: to tell someone to do it, to order."
+ },
+ {
+  "id": "v2-0176",
+  "hook": "Meaning (意) + right, reason (義): the meaning or value of something."
+ },
+ {
+  "id": "v2-0177",
+  "hook": "Alive (生き) + alive (生き): full of life, lively."
+ },
+ {
+  "id": "v2-0179",
+  "hook": "幾 means how many, some: 幾つ is how many, 幾日 is several days."
+ },
+ {
+  "id": "v2-0181",
+  "hook": "Some (幾) part (分): somewhat, a little."
+ },
+ {
+  "id": "v2-0182",
+  "hook": "Living (生け) flowers (花): the art of flower arranging."
+ },
+ {
+  "id": "v2-0183",
+  "hook": "From (以) then on, after (後): from now on."
+ },
+ {
+  "id": "v2-0186",
+  "hook": "勇 means brave (勇気 is courage): brave and bold."
+ },
+ {
+  "id": "v2-0189",
+  "hook": "One (一) response (応): one quick go for now, tentatively, just in case."
+ },
+ {
+  "id": "v2-0190",
+  "hook": "One (一) step (段) up: even more, by far."
+ },
+ {
+  "id": "v2-0193",
+  "hook": "One (一) before last (昨) year (年): the year before last."
+ },
+ {
+  "id": "v2-0195",
+  "hook": "旦 is the sun (日) over the horizon (一), dawn: 一旦 means once, for a moment."
+ },
+ {
+  "id": "v2-0197",
+  "hook": "Go (行って) and come back (いらっしゃい): said to someone leaving, have a good day."
+ },
+ {
+  "id": "v2-0201",
+  "hook": "Move (移) and shift (転): moving to a new place."
+ },
+ {
+  "id": "v2-0203",
+  "hook": "緯 (the threads across a loom) + degree (度): lines across the globe, latitude."
+ },
+ {
+  "id": "v2-0204",
+  "hook": "Stretch out (張る) your power (威): to act proud, to swagger."
+ },
+ {
+  "id": "v2-0205",
+  "hook": "嫌 (dislike) + がる (show signs of): to show you dislike something."
+ },
+ {
+  "id": "v2-0207",
+  "hook": "煎 has fire (灬) under it: to roast beans or seeds dry over fire."
+ },
+ {
+  "id": "v2-0208",
+  "hook": "炒 has fire (火): to roast or dry fry; 炒飯 (チャーハン) is fried rice."
+ },
+ {
+  "id": "v2-0209",
+  "hook": "A thing (物) you put (入れ) things in: a container."
+ },
+ {
+  "id": "v2-0211",
+  "hook": "Pulling (引) power (力): gravity."
+ },
+ {
+  "id": "v2-0215",
+  "hook": "Planted (植) trees (木): garden trees or potted plants."
+ },
+ {
+  "id": "v2-0216",
+  "hook": "飢 has food (食): having no food, to starve."
+ },
+ {
+  "id": "v2-0217",
+  "hook": "浮 has water (氵): to float on water, or an idea floats up in your mind."
+ },
+ {
+  "id": "v2-0218",
+  "hook": "浮 (float): 浮かべる is to make something float, or let a smile show on your face."
+ },
+ {
+  "id": "v2-0219",
+  "hook": "浮 has water (氵): to float on water."
+ },
+ {
+  "id": "v2-0220",
+  "hook": "承 means receive, agree: a humble way to say you hear or accept a request."
+ },
+ {
+  "id": "v2-0221",
+  "hook": "Receive (受) and take (取): a receipt."
+ },
+ {
+  "id": "v2-0222",
+  "hook": "Receive (受け) and hold (持つ): to take charge of a class or job."
+ },
+ {
+  "id": "v2-0223",
+  "hook": "Thinly (薄) dark (暗い): a little dark, dim."
+ },
+ {
+  "id": "v2-0224",
+  "hook": "薄い (thin, weak) + める: to make thinner, to water down."
+ },
+ {
+  "id": "v2-0225",
+  "hook": "Hit (打ち) and match (合わせ) ideas: a meeting to plan things."
+ },
+ {
+  "id": "v2-0226",
+  "hook": "Hit (打ち) and erase (消す): to deny something."
+ },
+ {
+  "id": "v2-0232",
+  "hook": "敬 means respect (敬語 is polite speech): to respect someone."
+ },
+ {
+  "id": "v2-0233",
+  "hook": "Turn (返す) to the back side (裏): turn over or inside out."
+ },
+ {
+  "id": "v2-0235",
+  "hook": "占 is a mouth (口) under a divining rod (卜): to tell fortunes."
+ }
+]

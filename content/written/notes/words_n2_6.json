@@ -1,0 +1,802 @@
+[
+ {
+  "id": "v2-1312",
+  "hook": "Retreat (退): make something step back out of your way."
+ },
+ {
+  "id": "v2-1314",
+  "hook": "Place (所) after place (々): spots here and there."
+ },
+ {
+  "id": "v2-1315",
+  "hook": "The capital's (都) heart (心): the city centre."
+ },
+ {
+  "id": "v2-1316",
+  "hook": "A door (戸) on a shelf (棚): a cupboard."
+ },
+ {
+  "id": "v2-1319",
+  "hook": "整 means put in order: everything is arranged and ready."
+ },
+ {
+  "id": "v2-1320",
+  "hook": "留 means stay or fasten: you stay in one place and do not move on."
+ },
+ {
+  "id": "v2-1321",
+  "hook": "Angry (怒) and crying out (鳴): shouting and yelling."
+ },
+ {
+  "id": "v2-1323",
+  "hook": "Fly (飛) and go into (込む): jump in."
+ },
+ {
+  "id": "v2-1324",
+  "hook": "留 means fasten or stay: a bird stops and stays on a branch."
+ },
+ {
+  "id": "v2-1327",
+  "hook": "捕 means catch (as in 捕まえる): seize and capture."
+ },
+ {
+  "id": "v2-1328",
+  "hook": "Take (取り) and put in (入れる): take in a harvest or a new idea."
+ },
+ {
+  "id": "v2-1329",
+  "hook": "Take (取り) and erase (消す): cancel it."
+ },
+ {
+  "id": "v2-1331",
+  "hook": "採 means pick or gather: pick fruit, or pick (adopt) an idea."
+ },
+ {
+  "id": "v2-1332",
+  "hook": "捕 means catch: catch a fish, take it."
+ },
+ {
+  "id": "v2-1334",
+  "hook": "Inside (内) department (科): medicine for the inside of your body."
+ },
+ {
+  "id": "v2-1335",
+  "hook": "Inside (内) line (線): a phone line inside the building."
+ },
+ {
+  "id": "v2-1338",
+  "hook": "Relationship (仲) fixed (直り): making up after a fight."
+ },
+ {
+  "id": "v2-1339",
+  "hook": "Long (長) pulled (引く): pulled out longer, it drags on."
+ },
+ {
+  "id": "v2-1341",
+  "hook": "Middle (中) finger (指)."
+ },
+ {
+  "id": "v2-1342",
+  "hook": "Relationship (仲) good (良し): close friends."
+ },
+ {
+  "id": "v2-1343",
+  "hook": "慰 has heart (心) at the bottom: you comfort someone's heart."
+ },
+ {
+  "id": "v2-1345",
+  "hook": "為 means do or act: to do, to accomplish."
+ },
+ {
+  "id": "v2-1346",
+  "hook": "Riddle (謎) + riddle (謎): a riddle game."
+ },
+ {
+  "id": "v2-1347",
+  "hook": "傾 means lean or slope (as in 傾く): a gentle, gradual slope."
+ },
+ {
+  "id": "v2-1349",
+  "hook": "撫 has the hand part (扌): stroke gently with your hand."
+ },
+ {
+  "id": "v2-1350",
+  "hook": "斜 means slanting: diagonal."
+ },
+ {
+  "id": "v2-1352",
+  "hook": "What (何) + do (しろ): whatever you do, anyway, in any case."
+ },
+ {
+  "id": "v2-1353",
+  "hook": "What (何) what (々): 'what, what?' or 'such and such'."
+ },
+ {
+  "id": "v2-1357",
+  "hook": "Trees (木) in a row (並): a row of roadside trees."
+ },
+ {
+  "id": "v2-1358",
+  "hook": "倣 has person (亻): copy a person's example; same sound as 習う (learn)."
+ },
+ {
+  "id": "v2-1360",
+  "hook": "South (南) extreme end (極): the South Pole."
+ },
+ {
+  "id": "v2-1365",
+  "hook": "South (南) + 米 (short for America): South America."
+ },
+ {
+  "id": "v2-1366",
+  "hook": "South (南) and north (北)."
+ },
+ {
+  "id": "v2-1367",
+  "hook": "匂 means scent: something gives off a smell."
+ },
+ {
+  "id": "v2-1368",
+  "hook": "Escape (逃げる) made to happen: let it escape, set it free."
+ },
+ {
+  "id": "v2-1369",
+  "hook": "憎 has heart (忄): a heart full of hate, hateful."
+ },
+ {
+  "id": "v2-1370",
+  "hook": "Heart (忄) in 憎: to hate someone."
+ },
+ {
+  "id": "v2-1371",
+  "hook": "Hate (憎) + seems (らしい): someone who seems hateful, annoying."
+ },
+ {
+  "id": "v2-1373",
+  "hook": "濁 has water (氵): water becomes muddy and cloudy."
+ },
+ {
+  "id": "v2-1374",
+  "hook": "虹 has the insect/snake part (虫): long ago a rainbow was thought to be a sky dragon."
+ },
+ {
+  "id": "v2-1381",
+  "hook": "Woman (女) of the room (房): the wife at home."
+ },
+ {
+  "id": "v2-1382",
+  "hook": "睨 has eye (目): glare at someone with your eyes."
+ },
+ {
+  "id": "v2-1384",
+  "hook": "俄 means sudden: にわか雨 is a sudden shower."
+ },
+ {
+  "id": "v2-1385",
+  "hook": "縫 has thread (糸): sew with thread."
+ },
+ {
+  "id": "v2-1387",
+  "hook": "捩 has hand (扌): twist something with your hand."
+ },
+ {
+  "id": "v2-1389",
+  "hook": "Heat (熱) + do (する): to heat."
+ },
+ {
+  "id": "v2-1390",
+  "hook": "Bedroom (寝間) clothes (着): what you wear to bed, pajamas."
+ },
+ {
+  "id": "v2-1391",
+  "hook": "Sleep (寝) + wrap (巻): what you wrap yourself in to sleep, pajamas."
+ },
+ {
+  "id": "v2-1392",
+  "hook": "狙 has the beast part (犭): a hunting animal's aim at its prey."
+ },
+ {
+  "id": "v2-1393",
+  "hook": "Like a hunting beast (犭 in 狙): to aim at your target."
+ },
+ {
+  "id": "v2-1395",
+  "hook": "Farm (農) produced (産) things (物): farm produce."
+ },
+ {
+  "id": "v2-1396",
+  "hook": "Farm (農) village (村): a farming community."
+ },
+ {
+  "id": "v2-1397",
+  "hook": "Thick (濃) degree (度): how concentrated something is."
+ },
+ {
+  "id": "v2-1398",
+  "hook": "Farm (農) medicine (薬): chemicals for crops."
+ },
+ {
+  "id": "v2-1399",
+  "hook": "Ability (能) rate (率): how much you get done, efficiency."
+ },
+ {
+  "id": "v2-1403",
+  "hook": "糊 has rice (米): old glue was made from rice paste."
+ },
+ {
+  "id": "v2-1404",
+  "hook": "Ride (乗) and change (換): change trains."
+ },
+ {
+  "id": "v2-1409",
+  "hook": "Swallow (呑) your worries, easy mood (気): carefree."
+ },
+ {
+  "id": "v2-1413",
+  "hook": "Sell (売) shop (店): a small kiosk."
+ },
+ {
+  "id": "v2-1415",
+  "hook": "Sell (売) and buy (買): trade, and money says bye-bye (ばいばい)."
+ },
+ {
+  "id": "v2-1416",
+  "hook": "這 has the road part (辶): crawl along the ground."
+ },
+ {
+  "id": "v2-1417",
+  "hook": "剥 has the knife part (刂): peel off as if with a knife."
+ },
+ {
+  "id": "v2-1418",
+  "hook": "Knife (刂) in 剥: peel or tear off a sticker."
+ },
+ {
+  "id": "v2-1420",
+  "hook": "Grain (禾) + level (平): scales that weigh grain until level."
+ },
+ {
+  "id": "v2-1424",
+  "hook": "Tooth (歯) wheel (車): a wheel with teeth, a gear."
+ },
+ {
+  "id": "v2-1426",
+  "hook": "挟 has hand (扌): something gets caught between, like between fingers."
+ },
+ {
+  "id": "v2-1428",
+  "hook": "梯 has tree (木): a wooden ladder."
+ },
+ {
+  "id": "v2-1432",
+  "hook": "斜 means slanting: at a diagonal."
+ },
+ {
+  "id": "v2-1435",
+  "hook": "Skin (肌) wear (着): clothes worn against the skin."
+ },
+ {
+  "id": "v2-1436",
+  "hook": "果 means result (as in 結果): and the result, really? Just as expected."
+ },
+ {
+  "id": "v2-1438",
+  "hook": "鉢 has metal (金): a monk's metal bowl, a bowl or pot."
+ },
+ {
+  "id": "v2-1441",
+  "hook": "Send out (発) and wave (揮): show off your full ability."
+ },
+ {
+  "id": "v2-1444",
+  "hook": "Produce (発) electricity (電): power generation."
+ },
+ {
+  "id": "v2-1447",
+  "hook": "Talk (話) together (合い): a discussion."
+ },
+ {
+  "id": "v2-1449",
+  "hook": "Talk (話し) + hang on (掛ける): start talking to someone."
+ },
+ {
+  "id": "v2-1451",
+  "hook": "甚 means very or extreme: extremely bad, excessive."
+ },
+ {
+  "id": "v2-1453",
+  "hook": "Flower (花) bride (嫁): the bride, beautiful as a flower."
+ },
+ {
+  "id": "v2-1455",
+  "hook": "跳 has foot (⻊): jump with your feet."
+ },
+ {
+  "id": "v2-1457",
+  "hook": "Tooth (歯) polish (磨き): brushing your teeth."
+ },
+ {
+  "id": "v2-1459",
+  "hook": "Fast (早) mouth (口): talking fast."
+ },
+ {
+  "id": "v2-1460",
+  "hook": "Pay (払い) into (込む): pay money in."
+ },
+ {
+  "id": "v2-1461",
+  "hook": "Pay (払い) back (戻す): give a refund."
+ },
+ {
+  "id": "v2-1463",
+  "hook": "Stretch (張り) to the limit (切る): full of energy, ready to go."
+ },
+ {
+  "id": "v2-1466",
+  "hook": "Half (半) diameter (径): the radius."
+ },
+ {
+  "id": "v2-1467",
+  "hook": "Seal (判) + small thing (子): your personal name stamp."
+ },
+ {
+  "id": "v2-1468",
+  "hook": "Ten thousand (万) years (歳): long live, banzai!"
+ },
+ {
+  "id": "v2-1469",
+  "hook": "Judge (判) matters (事): the person who judges cases."
+ },
+ {
+  "id": "v2-1471",
+  "hook": "Number (番) land (地): the number of your plot, the address."
+ },
+ {
+  "id": "v2-1474",
+  "hook": "Half (半) island (島): a peninsula."
+ },
+ {
+  "id": "v2-1478",
+  "hook": "Same day (日) return (帰り): a day trip."
+ },
+ {
+  "id": "v2-1479",
+  "hook": "Compare (比較) + -ish (的): comparatively."
+ },
+ {
+  "id": "v2-1480",
+  "hook": "Sun (日) shade (陰): the shady spot out of the sun."
+ },
+ {
+  "id": "v2-1482",
+  "hook": "Pull (引) and receive (受): take on a job."
+ },
+ {
+  "id": "v2-1483",
+  "hook": "Pull (引き) back and return (返す): turn back."
+ },
+ {
+  "id": "v2-1484",
+  "hook": "Pull away (引) calculation (算): subtraction."
+ },
+ {
+  "id": "v2-1486",
+  "hook": "Pull (引き) and stop (止める): hold someone back."
+ },
+ {
+  "id": "v2-1487",
+  "hook": "Low (卑) and scared (怯): cowardly, mean, unfair."
+ },
+ {
+  "id": "v2-1488",
+  "hook": "Pull (引) apart (分け): both sides split evenly, a draw."
+ },
+ {
+  "id": "v2-1489",
+  "hook": "Pull (引き) and split (分け): neither side wins, a tie game."
+ },
+ {
+  "id": "v2-1490",
+  "hook": "Sun (陽) shooting (射): rays of sunlight."
+ },
+ {
+  "id": "v2-1492",
+  "hook": "Flesh (月) + 寸 (a hand measure): the joint in your arm, the elbow."
+ },
+ {
+  "id": "v2-1496",
+  "hook": "Pulled (引っ) and hung (掛かる): caught on something."
+ },
+ {
+  "id": "v2-1497",
+  "hook": "Brush (筆) record (記): writing notes."
+ },
+ {
+  "id": "v2-1498",
+  "hook": "Pull (引っ) + turn back (返す): flip it over, knock it over."
+ },
+ {
+  "id": "v2-1499",
+  "hook": "Pull (引っ) + turn back (返る): it falls over and flips."
+ },
+ {
+  "id": "v2-1501",
+  "hook": "Pull (引っ) in (込む): draw back."
+ },
+ {
+  "id": "v2-1503",
+  "hook": "Must (必) need (需) item (品): necessities."
+ },
+ {
+  "id": "v2-1505",
+  "hook": "Person (人) point (差) finger (指): the finger you point at people with."
+ },
+ {
+  "id": "v2-1506",
+  "hook": "One (一) pass through (通り): go over it once, roughly."
+ },
+ {
+  "id": "v2-1507",
+  "hook": "People (人) passing (通り): foot traffic."
+ },
+ {
+  "id": "v2-1509",
+  "hook": "Eye (目) + child (童): the little child you see reflected in an eye, the pupil."
+ },
+ {
+  "id": "v2-1510",
+  "hook": "One (一) rest (休み): a short break."
+ },
+ {
+  "id": "v2-1511",
+  "hook": "Alone (独り) words (言): talking to yourself."
+ },
+ {
+  "id": "v2-1517",
+  "hook": "捻 has hand (扌): twist with your hand."
+ },
+ {
+  "id": "v2-1518",
+  "hook": "Sun (日) going in (入り): sunset."
+ },
+ {
+  "id": "v2-1522",
+  "hook": "Skin (皮) + skin (膚): your skin."
+ },
+ {
+  "id": "v2-1525",
+  "hook": "Hundred (百) subjects (科) dictionary (事典): an encyclopedia."
+ },
+ {
+  "id": "v2-1528",
+  "hook": "Mark (標) to recognise (識): a road sign."
+ },
+ {
+  "id": "v2-1529",
+  "hook": "Mark (標) level (準): the standard."
+ },
+ {
+  "id": "v2-1536",
+  "hook": "Wide (広) place (場): a plaza."
+ },
+ {
+  "id": "v2-1537",
+  "hook": "Wide (広) and wide (々): very spacious."
+ },
+ {
+  "id": "v2-1540",
+  "hook": "Bottle (瓶) packed (詰): bottled."
+ },
+ {
+  "id": "v2-1542",
+  "hook": "Wind (風) ship (船): a balloon floats like a ship of air."
+ },
+ {
+  "id": "v2-1543",
+  "hook": "Not (不) luck (運): bad luck."
+ },
+ {
+  "id": "v2-1545",
+  "hook": "Not (不) rule (規則): irregular."
+ },
+ {
+  "id": "v2-1547",
+  "hook": "Attached (付) near (近): the area nearby."
+ },
+ {
+  "id": "v2-1549",
+  "hook": "Secondary (副) word (詞): an adverb, a helper word."
+ },
+ {
+  "id": "v2-1550",
+  "hook": "Double (複) copy (写): a duplicate."
+ },
+ {
+  "id": "v2-1551",
+  "hook": "Multiple (複) number (数): plural."
+ },
+ {
+  "id": "v2-1553",
+  "hook": "膨 means swell: make it swell, blow up a balloon."
+ },
+ {
+  "id": "v2-1554",
+  "hook": "膨 means swell: it swells up."
+ },
+ {
+  "id": "v2-1555",
+  "hook": "Not (不) clean (潔): dirty."
+ },
+ {
+  "id": "v2-1557",
+  "hook": "Tally mark (符) + sign (号): a symbol or code mark."
+ },
+ {
+  "id": "v2-1558",
+  "hook": "Husband (夫) and wife (妻): a married couple."
+ },
+ {
+  "id": "v2-1559",
+  "hook": "塞 has earth (土) at the bottom: blocked up as if filled with earth."
+ },
+ {
+  "id": "v2-1560",
+  "hook": "Earth (土) in 塞: block it up."
+ },
+ {
+  "id": "v2-1562",
+  "hook": "No (無) news (沙汰): you have not been in touch."
+ },
+ {
+  "id": "v2-1564",
+  "hook": "Part (部) head (首): the key part of a kanji, its radical."
+ },
+ {
+  "id": "v2-1565",
+  "hook": "蒸 has grass (艹) over fire (灬): steam food over a fire, hot and humid."
+ },
+ {
+  "id": "v2-1566",
+  "hook": "襖 has clothing (衤): cloth and paper over a frame, a sliding screen."
+ },
+ {
+  "id": "v2-1567",
+  "hook": "Attached (附) belonging (属): attached to something, like a school."
+ },
+ {
+  "id": "v2-1568",
+  "hook": "Attached (付) belonging (属): affiliated with, going with."
+ },
+ {
+  "id": "v2-1571",
+  "hook": "Things (物) noisy (騒): things are noisy and unsafe."
+ },
+ {
+  "id": "v2-1573",
+  "hook": "Ship (船) mail (便): surface mail by ship."
+ },
+ {
+  "id": "v2-1574",
+  "hook": "Part (部) item (品): parts of a machine."
+ },
+ {
+  "id": "v2-1576",
+  "hook": "Father (父) mother (母): parents."
+ },
+ {
+  "id": "v2-1577",
+  "hook": "Step (踏) cut across (切): where you step across the tracks, a crossing."
+ },
+ {
+  "id": "v2-1585",
+  "hook": "Sprinkled (振り) kana (仮名): small kana sprinkled over kanji."
+ },
+ {
+  "id": "v2-1590",
+  "hook": "Old (古) village (里): your home town."
+ },
+ {
+  "id": "v2-1591",
+  "hook": "Swing (振) and dance (舞う): how you move, how you behave."
+ },
+ {
+  "id": "v2-1594",
+  "hook": "Bath (風呂) spread (敷): a cloth once spread in the bath, now used to wrap things."
+ },
+ {
+  "id": "v2-1596",
+  "hook": "Spout (噴) fire (火): a volcano erupts."
+ },
+ {
+  "id": "v2-1598",
+  "hook": "Writing (文) arts (芸): literature."
+ },
+ {
+  "id": "v2-1599",
+  "hook": "Writing (文) offered (献): written sources, references."
+ },
+ {
+  "id": "v2-1600",
+  "hook": "Spout (噴) water (水): a fountain."
+ },
+ {
+  "id": "v2-1601",
+  "hook": "Divided (分) number (数): a fraction."
+ },
+ {
+  "id": "v2-1603",
+  "hook": "Divide (分) spread (布): how things are spread out."
+ },
+ {
+  "id": "v2-1604",
+  "hook": "Writing (文) room (房) tools (具): stationery."
+ },
+ {
+  "id": "v2-1605",
+  "hook": "Sentence (文) vein (脈): the line running through the text, context."
+ },
+ {
+  "id": "v2-1606",
+  "hook": "Portion (分) amount (量): quantity."
+ },
+ {
+  "id": "v2-1608",
+  "hook": "Close (閉) meeting (会): the closing of a meeting."
+ },
+ {
+  "id": "v2-1610",
+  "hook": "Side by side (並) going (行): parallel, at the same time."
+ },
+ {
+  "id": "v2-1612",
+  "hook": "Soldier (兵) squad (隊): soldiers."
+ },
+ {
+  "id": "v2-1613",
+  "hook": "Flat (平) ordinary (凡): plain and ordinary."
+ },
+ {
+  "id": "v2-1614",
+  "hook": "Flat (平) field (野): a plain."
+ },
+ {
+  "id": "v2-1615",
+  "hook": "凹 looks like a dent: a shape pushed in."
+ },
+ {
+  "id": "v2-1617",
+  "hook": "隔 means separate: put a wall between things."
+ },
+ {
+  "id": "v2-1618",
+  "hook": "Separate (別) villa (荘): a second house for holidays."
+ },
+ {
+  "id": "v2-1623",
+  "hook": "Convenience (便) place (所): the toilet."
+ },
+ {
+  "id": "v2-1627",
+  "hook": "Look (望) far (遠) mirror or lens (鏡): a telescope."
+ },
+ {
+  "id": "v2-1631",
+  "hook": "坊 means monk, plus polite さん: a Buddhist monk."
+ },
+ {
+  "id": "v2-1632",
+  "hook": "Defend (防) stop (止): prevention."
+ },
+ {
+  "id": "v2-1635",
+  "hook": "Law (法) rule (則): a rule, like a law of nature."
+ },
+ {
+  "id": "v2-1637",
+  "hook": "Swell (膨) big (大): swollen huge, enormous."
+ },
+ {
+  "id": "v2-1639",
+  "hook": "Method (方) measure (程) formula (式): an equation."
+ },
+ {
+  "id": "v2-1640",
+  "hook": "Defend (防) against crime (犯): crime prevention."
+ },
+ {
+  "id": "v2-1641",
+  "hook": "Direction (方) side (面): an area or direction."
+ },
+ {
+  "id": "v2-1642",
+  "hook": "坊 (little boy) + や: what you call a small boy."
+ },
+ {
+  "id": "v2-1643",
+  "hook": "放 means release: let go, throw it."
+ },
+ {
+  "id": "v2-1644",
+  "hook": "朗 means bright (it has moon 月): a bright, cheerful person."
+ },
+ {
+  "id": "v2-1645",
+  "hook": "Bright (朗) like the moon (月) in it: cheerful, or a clear, fine day."
+ },
+ {
+  "id": "v2-1647",
+  "hook": "Pasture (牧) livestock (畜): raising animals."
+ },
+ {
+  "id": "v2-1648",
+  "hook": "Keep (保) healthy (健): health care, hygiene."
+ },
+ {
+  "id": "v2-1650",
+  "hook": "干 means dry: hang the laundry to dry."
+ },
+ {
+  "id": "v2-1652",
+  "hook": "North (北) extreme end (極): the North Pole."
+ },
+ {
+  "id": "v2-1653",
+  "hook": "坊 (little boy) + ちゃん: a polite word for someone's son."
+ },
+ {
+  "id": "v2-1655",
+  "hook": "掘 has hand (扌): dig with your hands."
+ },
+ {
+  "id": "v2-1656",
+  "hook": "彫 has decorative lines (彡): carve and chisel patterns."
+ },
+ {
+  "id": "v2-1659",
+  "hook": "Tray (盆) land (地): low land shaped like a tray, a basin."
+ },
+ {
+  "id": "v2-1665",
+  "hook": "Flat-thing counter (枚) number (数): how many sheets."
+ },
+ {
+  "id": "v2-1666",
+  "hook": "Every (毎) time (度): each time, thanks again!"
+ },
+ {
+  "id": "v2-1669",
+  "hook": "曲 means bend or curve: bend it."
+ },
+ {
+  "id": "v2-1671",
+  "hook": "Rub (摩) scrape (擦): friction."
+ },
+ {
+  "id": "v2-1677",
+  "hook": "跨 has foot (⻊): step over something."
+ },
+ {
+  "id": "v2-1678",
+  "hook": "Wait (待) meet (合) room (室): a waiting room."
+ },
+ {
+  "id": "v2-1679",
+  "hook": "Wait (待ち) and meet (合わせる): meet at a set place and time."
+ },
+ {
+  "id": "v2-1682",
+  "hook": "Truly (真っ) black (黒): pitch black."
+ },
+ {
+  "id": "v2-1686",
+  "hook": "祭 means festival or worship: enshrine and worship a god."
+ },
+ {
+  "id": "v2-1687",
+  "hook": "Window (窓) mouth (口): the ticket window you speak through."
+ },
+ {
+  "id": "v2-1688",
+  "hook": "True (真) + resemble (似る): make yourself resemble someone, mimic."
+ }
+]

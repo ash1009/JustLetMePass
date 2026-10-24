@@ -1,0 +1,802 @@
+[
+ {
+  "id": "v2-0236",
+  "hook": "恨 means grudge: resentment is a grudge you keep inside."
+ },
+ {
+  "id": "v2-0237",
+  "hook": "恨 is grudge: to hold a grudge against someone, to feel bitter."
+ },
+ {
+  "id": "v2-0238",
+  "hook": "羨 means envy: うらやむ, you look at their life with envy."
+ },
+ {
+  "id": "v2-0242",
+  "hook": "Sell (売) until cut off (切れる): there is nothing left to sell, it is sold out."
+ },
+ {
+  "id": "v2-0243",
+  "hook": "How things sell (売) and go (行き): how sales are going."
+ },
+ {
+  "id": "v2-0244",
+  "hook": "Sell (売れ) + go (行き): how well a product goes out of the shop, its sales."
+ },
+ {
+  "id": "v2-0247",
+  "hook": "Carry (運) + river (河): a river made to carry boats, a canal."
+ },
+ {
+  "id": "v2-0249",
+  "hook": "English (英) + sentence (文): sentences written in English."
+ },
+ {
+  "id": "v2-0250",
+  "hook": "English (英) + Japanese (和): an English to Japanese dictionary."
+ },
+ {
+  "id": "v2-0252",
+  "hook": "Liquid (液) + body (体): a thing whose body is liquid, a fluid."
+ },
+ {
+  "id": "v2-0256",
+  "hook": "偉 means great: えらい people do great things."
+ },
+ {
+  "id": "v2-0258",
+  "hook": "Garden (園) + art (芸): the art of the garden, gardening."
+ },
+ {
+  "id": "v2-0259",
+  "hook": "Perform (演) + drama (劇): performing a drama on stage, a play."
+ },
+ {
+  "id": "v2-0260",
+  "hook": "Circle (円) + around (周): the distance all around a circle."
+ },
+ {
+  "id": "v2-0261",
+  "hook": "Far (遠) + foot (足): walking far on foot, a school trip or hike."
+ },
+ {
+  "id": "v2-0267",
+  "hook": "Chase (追い) + go past (越す): chase a car and pass it."
+ },
+ {
+  "id": "v2-0270",
+  "hook": "King (王) + woman (女): the king's daughter, a princess."
+ },
+ {
+  "id": "v2-0271",
+  "hook": "応 means respond: おうずる, to respond to a request."
+ },
+ {
+  "id": "v2-0272",
+  "hook": "Respond (応) + meet (接): meeting and answering guests, reception."
+ },
+ {
+  "id": "v2-0273",
+  "hook": "Respond (応) + face (対): face a person and respond to them."
+ },
+ {
+  "id": "v2-0275",
+  "hook": "Europe (欧) + America (米): Europe and America together, the West."
+ },
+ {
+  "id": "v2-0276",
+  "hook": "Respond (応) + use (用): use what you learned to answer real needs, application."
+ },
+ {
+  "id": "v2-0278",
+  "hook": "Big (大) + road (通り): the big road through town, the main street."
+ },
+ {
+  "id": "v2-0279",
+  "hook": "Big (大) + ordinary (凡): a big, rough, ordinary guess, about."
+ },
+ {
+  "id": "v2-0285",
+  "hook": "拝 means worship: put your hands together and pray."
+ },
+ {
+  "id": "v2-0286",
+  "hook": "代 means replace: the waiter replaces your empty bowl with another helping."
+ },
+ {
+  "id": "v2-0287",
+  "hook": "補 means fill in, supplement: you fill in what is missing."
+ },
+ {
+  "id": "v2-0288",
+  "hook": "Poison (毒) to your spirit (気): bad news hurts, I'm sorry to hear that."
+ },
+ {
+  "id": "v2-0289",
+  "hook": "House (屋) + outside (外): outside the house, outdoors."
+ },
+ {
+  "id": "v2-0290",
+  "hook": "Sent (送り) + kana (仮名): kana sent after a kanji, like the べる in 食べる."
+ },
+ {
+  "id": "v2-0292",
+  "hook": "怠 means lazy: being lazy, you neglect your work."
+ },
+ {
+  "id": "v2-0293",
+  "hook": "押 means push: push something down and hold it there."
+ },
+ {
+  "id": "v2-0298",
+  "hook": "Uncle (伯) + father (父): your parent's older brother, uncle."
+ },
+ {
+  "id": "v2-0299",
+  "hook": "Small (小) + father (父): like a little father, a man in the neighbourhood."
+ },
+ {
+  "id": "v2-0301",
+  "hook": "Wicked (邪) + demon (魔): sorry, I'm the little demon who disturbs you."
+ },
+ {
+  "id": "v2-0304",
+  "hook": "Fall (落) + arrive (着く): the dust falls and arrives on the ground, settles, calms."
+ },
+ {
+  "id": "v2-0305",
+  "hook": "Go out (出) + hang (掛け): grab your coat off the hook and go out."
+ },
+ {
+  "id": "v2-0306",
+  "hook": "Hand (手) + pass along (伝い): a person who lends a hand, a maid."
+ },
+ {
+  "id": "v2-0307",
+  "hook": "脅 means threaten: to scare someone with threats."
+ },
+ {
+  "id": "v2-0308",
+  "hook": "Drop (落し) + thing (物): a thing someone dropped, lost property."
+ },
+ {
+  "id": "v2-0309",
+  "hook": "驚 has a horse (馬) at the bottom: surprise a horse and it jumps."
+ },
+ {
+  "id": "v2-0311",
+  "hook": "各 means each, 々 repeats it: each and every one."
+ },
+ {
+  "id": "v2-0314",
+  "hook": "Small (小) + mother (母): like a little mother, a lady in the neighbourhood."
+ },
+ {
+  "id": "v2-0321",
+  "hook": "Thoughts (思い) never hung (掛け) on it: you didn't think of it, unexpected."
+ },
+ {
+  "id": "v2-0323",
+  "hook": "Thought (思い) + put in (込む): push a thought deep in, be convinced."
+ },
+ {
+  "id": "v2-0324",
+  "hook": "Think (思い) + cut (切り): cut all hesitation and go fully, with all your strength."
+ },
+ {
+  "id": "v2-0325",
+  "hook": "Cut (切り) all doubt from your thinking (思い): do it with all your might."
+ },
+ {
+  "id": "v2-0326",
+  "hook": "重 means heavy: おもたい, a heavy, heavy bag."
+ },
+ {
+  "id": "v2-0329",
+  "hook": "Parent (親) + finger (指): the parent of the fingers, the thumb."
+ },
+ {
+  "id": "v2-0333",
+  "hook": "Warm (温) + room (室): a warm room for plants, a greenhouse."
+ },
+ {
+  "id": "v2-0335",
+  "hook": "Warm (温) + belt (帯): the warm belt around the Earth, the temperate zone."
+ },
+ {
+  "id": "v2-0336",
+  "hook": "Honourable (御) + inside (中): to everyone inside the company, used on letters."
+ },
+ {
+  "id": "v2-0343",
+  "hook": "Meet (会) + hall (館): a building where people meet."
+ },
+ {
+  "id": "v2-0346",
+  "hook": "Sea (海) + water (水) + bathe (浴): bathing in seawater at the beach."
+ },
+ {
+  "id": "v2-0348",
+  "hook": "Times (回) + number (数) + ticket (券): a ticket book for a number of rides."
+ },
+ {
+  "id": "v2-0350",
+  "hook": "Pleasant (快) + clear sky (晴): a pleasantly clear, sunny day."
+ },
+ {
+  "id": "v2-0351",
+  "hook": "Untie (解) + explain (説): untie a hard topic and explain it, commentary."
+ },
+ {
+  "id": "v2-0352",
+  "hook": "Change (改) + build (造): rebuild something into a new form, remodel."
+ },
+ {
+  "id": "v2-0353",
+  "hook": "Open (開) + pass through (通): a new road or line opens for traffic."
+ },
+ {
+  "id": "v2-0354",
+  "hook": "Turn (回) + roll (転): turning round and round, rotation."
+ },
+ {
+  "id": "v2-0355",
+  "hook": "Solve (解) + answer (答): the answer that solves a problem."
+ },
+ {
+  "id": "v2-0356",
+  "hook": "Return (回) + answer (答): send an answer back, a reply."
+ },
+ {
+  "id": "v2-0357",
+  "hook": "Outside (外) + part (部): the outside part, external."
+ },
+ {
+  "id": "v2-0358",
+  "hook": "Untie (解) + release (放): untie someone and let them go free, liberation."
+ },
+ {
+  "id": "v2-0359",
+  "hook": "Open (開) + release (放): open the doors wide to everyone."
+ },
+ {
+  "id": "v2-0360",
+  "hook": "Sea (海) + ocean (洋): the great seas and oceans."
+ },
+ {
+  "id": "v2-0361",
+  "hook": "Outline (概) + discussion (論): a general discussion of a subject, an introduction."
+ },
+ {
+  "id": "v2-0362",
+  "hook": "却 means turn back: things turn back the other way, on the contrary."
+ },
+ {
+  "id": "v2-0363",
+  "hook": "House (家) + building (屋): a house as a building."
+ },
+ {
+  "id": "v2-0364",
+  "hook": "係 means connect: to be connected with something, involved in it."
+ },
+ {
+  "id": "v2-0365",
+  "hook": "Write (書) + keep (留): mail written down and kept on record, registered mail."
+ },
+ {
+  "id": "v2-0366",
+  "hook": "Write (書) + take (取): write down and take what you hear, dictation."
+ },
+ {
+  "id": "v2-0367",
+  "hook": "Fence (垣) + root (根): a fence with roots, a hedge."
+ },
+ {
+  "id": "v2-0370",
+  "hook": "Built (架) in the sky (空): a castle in the air, imaginary."
+ },
+ {
+  "id": "v2-0372",
+  "hook": "Expand (拡) + fill (充): make bigger and fill it up more, expansion."
+ },
+ {
+  "id": "v2-0373",
+  "hook": "Learning (学) + technique (術): scholarly knowledge, science."
+ },
+ {
+  "id": "v2-0375",
+  "hook": "Expand (拡) + stretch (張): stretch something wider, extension."
+ },
+ {
+  "id": "v2-0377",
+  "hook": "School (学) + year (年): your year in school."
+ },
+ {
+  "id": "v2-0379",
+  "hook": "Rank (格) + separate (別): in a separate, special rank, exceptional."
+ },
+ {
+  "id": "v2-0380",
+  "hook": "Certain (確) + rate (率): the rate of being certain, probability."
+ },
+ {
+  "id": "v2-0381",
+  "hook": "Study (学) + power (力): your learning power, academic ability."
+ },
+ {
+  "id": "v2-0382",
+  "hook": "Multiply (掛け) + calculation (算): multiplication."
+ },
+ {
+  "id": "v2-0384",
+  "hook": "Approve (可) + decide (決): the vote decides to approve the bill."
+ },
+ {
+  "id": "v2-0385",
+  "hook": "Fire (火) + mouth (口): the mouth where a volcano breathes fire, a crater."
+ },
+ {
+  "id": "v2-0386",
+  "hook": "Down (下) + descend (降): going down and down, a decline."
+ },
+ {
+  "id": "v2-0389",
+  "hook": "Fire (火) + mountain (山): a mountain of fire, a volcano."
+ },
+ {
+  "id": "v2-0391",
+  "hook": "Lend (貸し) + out (出し): lending things out, like library books."
+ },
+ {
+  "id": "v2-0392",
+  "hook": "Too far (過) + lose (失): go too far and lose control, a careless mistake."
+ },
+ {
+  "id": "v2-0393",
+  "hook": "Fruit (果) + fruit, real (実): fruit on a tree."
+ },
+ {
+  "id": "v2-0394",
+  "hook": "Lend (貸) + room (間): a room you rent out."
+ },
+ {
+  "id": "v2-0395",
+  "hook": "Lend (貸) + house (家): a house for rent."
+ },
+ {
+  "id": "v2-0396",
+  "hook": "Item (箇) + place (所): a specific place or point, as in 3 箇所."
+ },
+ {
+  "id": "v2-0398",
+  "hook": "Too much (過) + surplus (剰): way too much, excess."
+ },
+ {
+  "id": "v2-0400",
+  "hook": "Impose (課) + tax (税): putting a tax on something."
+ },
+ {
+  "id": "v2-0402",
+  "hook": "Under (下) + line (線): a line under words, underline."
+ },
+ {
+  "id": "v2-0403",
+  "hook": "Add (加) + speed (速): adding speed, accelerating."
+ },
+ {
+  "id": "v2-0404",
+  "hook": "Add (加) + speed (速) + degree (度): the rate of speeding up."
+ },
+ {
+  "id": "v2-0407",
+  "hook": "Earth (土) + ghost (鬼): a scary lump of earth, a mass."
+ },
+ {
+  "id": "v2-0408",
+  "hook": "固 means hard: soft things become hard, set and solidify."
+ },
+ {
+  "id": "v2-0410",
+  "hook": "傾 means lean: a building leans and slants."
+ },
+ {
+  "id": "v2-0411",
+  "hook": "One side (片) + lean toward (寄る): leaning to one side, biased."
+ },
+ {
+  "id": "v2-0412",
+  "hook": "Study (学) + subject (科): a subject you study, a course."
+ },
+ {
+  "id": "v2-0413",
+  "hook": "Learning (学) + meeting (会): a meeting of scholars, an academic conference."
+ },
+ {
+  "id": "v2-0417",
+  "hook": "Bundle (括) + arc (弧): curved arcs that bundle words together, brackets."
+ },
+ {
+  "id": "v2-0418",
+  "hook": "Living (活) + letter (字): movable letters that come alive in print, type."
+ },
+ {
+  "id": "v2-0421",
+  "hook": "Living (活) + power (力): the power to live fully, vitality."
+ },
+ {
+  "id": "v2-0424",
+  "hook": "Kana (仮名) + use (遣い): how you use kana, kana spelling rules."
+ },
+ {
+  "id": "v2-0426",
+  "hook": "Add (加) + heat (熱): adding heat, heating."
+ },
+ {
+  "id": "v2-0429",
+  "hook": "More than (過) + half (半) + number (数): more than half, a majority."
+ },
+ {
+  "id": "v2-0431",
+  "hook": "被 means cover: put a cover over something."
+ },
+ {
+  "id": "v2-0433",
+  "hook": "構う means to mind or care: 構いません, I don't mind, it is all right."
+ },
+ {
+  "id": "v2-0434",
+  "hook": "Paper (紙) + scraps (屑): scraps of paper, wastepaper."
+ },
+ {
+  "id": "v2-0436",
+  "hook": "Shave (剃) + blade (刀): a blade for shaving, a razor."
+ },
+ {
+  "id": "v2-0438",
+  "hook": "Goods (貨) + things (物): goods carried by train or ship, cargo."
+ },
+ {
+  "id": "v2-0445",
+  "hook": "Tree (木) + old (古): an old tree withers and dies."
+ },
+ {
+  "id": "v2-0447",
+  "hook": "Lovable (可愛) + がる: treat someone as lovable, show affection."
+ },
+ {
+  "id": "v2-0449",
+  "hook": "For (為) + exchange (替): changing money, exchange."
+ },
+ {
+  "id": "v2-0450",
+  "hook": "瓦 means tile: かわら, the clay tiles on a Japanese roof."
+ },
+ {
+  "id": "v2-0452",
+  "hook": "Change (換) + air (気): changing the air in a room, ventilation."
+ },
+ {
+  "id": "v2-0454",
+  "hook": "Barrier (関) + west (西): the land west of the old barrier, the Osaka and Kyoto area."
+ },
+ {
+  "id": "v2-0455",
+  "hook": "Origin (元) + day (日): the first day of the year, New Year's Day."
+ },
+ {
+  "id": "v2-0457",
+  "hook": "感 means feel: かんずる, to feel or sense something."
+ },
+ {
+  "id": "v2-0458",
+  "hook": "Between (間) + connect (接): connected through something in between, indirect."
+ },
+ {
+  "id": "v2-0461",
+  "hook": "Watch (観) + measure (測): watching and measuring, like weather observation."
+ },
+ {
+  "id": "v2-0462",
+  "hook": "Cold (寒) + belt (帯): the cold belt near the poles, the frigid zone."
+ },
+ {
+  "id": "v2-0463",
+  "hook": "Intuition (勘) + differ (違い): your gut feeling was different from reality, a misunderstanding."
+ },
+ {
+  "id": "v2-0464",
+  "hook": "Official (官) + government office (庁): government offices and authorities."
+ },
+ {
+  "id": "v2-0466",
+  "hook": "Dry (乾) + electric (電) + pond (池): a battery is an electric pond, and this one is dry."
+ },
+ {
+  "id": "v2-0471",
+  "hook": "Watch over (看) + illness (病): watching over a sick person, nursing."
+ },
+ {
+  "id": "v2-0472",
+  "hook": "冠 means crown: a crown or wreath on the head."
+ },
+ {
+  "id": "v2-0473",
+  "hook": "Chinese (漢) + Japanese (和): a kanji to Japanese dictionary."
+ },
+ {
+  "id": "v2-0474",
+  "hook": "Air (気) + pressure (圧): the pressure of the air, atmospheric pressure."
+ },
+ {
+  "id": "v2-0477",
+  "hook": "Engine (機関) + vehicle (車): the engine car that pulls the train, a locomotive."
+ },
+ {
+  "id": "v2-0478",
+  "hook": "Hunger (飢) + famine (饉): when a whole land is hungry, a famine."
+ },
+ {
+  "id": "v2-0479",
+  "hook": "Container (器) + tool (具): tools and instruments."
+ },
+ {
+  "id": "v2-0481",
+  "hook": "Write down (記) + sign (号): a sign you write, a symbol."
+ },
+ {
+  "id": "v2-0482",
+  "hook": "刻 means carve: carve or chop into small pieces."
+ },
+ {
+  "id": "v2-0484",
+  "hook": "Base (基) + standard (準): the base standard you measure by."
+ },
+ {
+  "id": "v2-0485",
+  "hook": "Rule (規) + standard (準): a standard set by rules."
+ },
+ {
+  "id": "v2-0486",
+  "hook": "Rise (起) + bed (床): rising from bed, getting up."
+ },
+ {
+  "id": "v2-0487",
+  "hook": "着る is wear, 着せる is make wear: put clothes on someone else."
+ },
+ {
+  "id": "v2-0489",
+  "hook": "Base (基) + ground (地): the ground used as a base, like an army base."
+ },
+ {
+  "id": "v2-0491",
+  "hook": "Cut (切っ) + hang (掛け): the cut that gets things started, a trigger or chance."
+ },
+ {
+  "id": "v2-0495",
+  "hook": "Guest (客) + room (間): a room for guests."
+ },
+ {
+  "id": "v2-0499",
+  "hook": "Rest (休) + lecture (講): the lecture takes a rest, class canceled."
+ },
+ {
+  "id": "v2-0501",
+  "hook": "Pay (給) + give (与): the pay your company gives you, salary."
+ },
+ {
+  "id": "v2-0502",
+  "hook": "Rest (休) + nourish (養): rest to build your strength again."
+ },
+ {
+  "id": "v2-0503",
+  "hook": "Water (氵) + blue (青): clear blue water, pure and clean."
+ },
+ {
+  "id": "v2-0505",
+  "hook": "Border (境) + boundary (界): the line where two areas meet."
+ },
+ {
+  "id": "v2-0506",
+  "hook": "Together (共) + produce (産): everyone produces together and shares, communist."
+ },
+ {
+  "id": "v2-0509",
+  "hook": "Teach (教) + nourish (養): knowledge that nourishes the mind, culture."
+ },
+ {
+  "id": "v2-0511",
+  "hook": "Fishing (漁) + industry (業): the fishing industry."
+ },
+ {
+  "id": "v2-0512",
+  "hook": "Bent (曲) + line (線): a bent line, a curve."
+ },
+ {
+  "id": "v2-0513",
+  "hook": "Rule (規) + law (律): rules and laws that keep order."
+ },
+ {
+  "id": "v2-0514",
+  "hook": "斬 has an axe (斤): cut someone down with a blade."
+ },
+ {
+  "id": "v2-0515",
+  "hook": "Attach (付ける) your attention (気): be careful."
+ },
+ {
+  "id": "v2-0519",
+  "hook": "Ward (区) + area (域): a marked area, a zone."
+ },
+ {
+  "id": "v2-0521",
+  "hook": "Pair (偶) + number (数): numbers that make pairs, even numbers."
+ },
+ {
+  "id": "v2-0522",
+  "hook": "Sky (空) + thought (想): thoughts up in the sky, daydreams."
+ },
+ {
+  "id": "v2-0523",
+  "hook": "Sky (空) + middle (中): in the middle of the sky, in the air."
+ },
+ {
+  "id": "v2-0524",
+  "hook": "Metal (金) + 丁, shaped like a nail: a metal nail."
+ },
+ {
+  "id": "v2-0526",
+  "hook": "櫛 has wood (木): a wooden comb for your hair."
+ },
+ {
+  "id": "v2-0529",
+  "hook": "Painful (苦) + heart (心): putting your heart through pain, great effort."
+ },
+ {
+  "id": "v2-0530",
+  "hook": "屑 means scraps: くず, bits of waste."
+ },
+ {
+  "id": "v2-0531",
+  "hook": "崩 has a mountain (山): break a mountain down, or break a big note into change."
+ },
+ {
+  "id": "v2-0532",
+  "hook": "Medicine (薬) + finger (指): the finger once used to mix medicine, ring finger."
+ },
+ {
+  "id": "v2-0533",
+  "hook": "崩 has a mountain (山): the mountain collapses and crumbles."
+ },
+ {
+  "id": "v2-0534",
+  "hook": "砕 has a stone (石): smash a stone into pieces."
+ },
+ {
+  "id": "v2-0535",
+  "hook": "砕 has a stone (石): the stone breaks into pieces."
+ },
+ {
+  "id": "v2-0539",
+  "hook": "唇 has a mouth (口): the lips around your mouth."
+ },
+ {
+  "id": "v2-0540",
+  "hook": "Mouth (口) + red (紅): red for the mouth, lipstick."
+ },
+ {
+  "id": "v2-0544",
+  "hook": "Phrase (句) + read (読) + dot (点): dots that mark phrases for reading, punctuation."
+ },
+ {
+  "id": "v2-0547",
+  "hook": "Section (区) + divide (分): divide into sections."
+ },
+ {
+  "id": "v2-0548",
+  "hook": "Group (組) + fit together (合せ): putting things together into a set."
+ },
+ {
+  "id": "v2-0549",
+  "hook": "Put together (組み) + stand up (立てる): put the parts together and stand it up."
+ },
+ {
+  "id": "v2-0550",
+  "hook": "悔 has a heart (忄): your heart hurts with regret."
+ },
+ {
+  "id": "v2-0557",
+  "hook": "Firefly (蛍) + light (光) + lamp (灯): a lamp that glows like a firefly."
+ },
+ {
+  "id": "v2-0559",
+  "hook": "Join on (継) + continue (続): keep going without a break."
+ },
+ {
+  "id": "v2-0560",
+  "hook": "Hair (毛) + thread (糸): thread made from animal hair, wool."
+ },
+ {
+  "id": "v2-0561",
+  "hook": "Vertical thread (経) + degree (度): the vertical lines on a map, longitude."
+ },
+ {
+  "id": "v2-0562",
+  "hook": "Lineage (系) + unite (統): things linked in one line, a system or family line."
+ },
+ {
+  "id": "v2-0564",
+  "hook": "Compete (競) + horse (馬): horses competing, horse racing."
+ },
+ {
+  "id": "v2-0565",
+  "hook": "Warn (警) + prepare (備): be prepared and on guard, security."
+ },
+ {
+  "id": "v2-0567",
+  "hook": "Shape (形) + look (容) + verb (動詞): a word describing how things look, a な adjective."
+ },
+ {
+  "id": "v2-0569",
+  "hook": "Hair (毛) + skin (皮): skin with hair on it, fur."
+ },
+ {
+  "id": "v2-0570",
+  "hook": "Violent (激) + increase (増): a sudden, sharp increase."
+ },
+ {
+  "id": "v2-0571",
+  "hook": "Down (下) + car (車): getting down from a train or car."
+ },
+ {
+  "id": "v2-0572",
+  "hook": "Lower (下) + ten days (旬): the last ten days of the month."
+ },
+ {
+  "id": "v2-0573",
+  "hook": "Down (下) + water (水): water that goes down the drain, sewage."
+ },
+ {
+  "id": "v2-0575",
+  "hook": "桁 has wood (木): a wooden beam, or a column of digits."
+ },
+ {
+  "id": "v2-0576",
+  "hook": "Down (下) + 駄 (cheap, plain): plain wooden shoes worn on the feet."
+ },
+ {
+  "id": "v2-0577",
+  "hook": "Blood (血) + pressure (圧): blood pressure."
+ },
+ {
+  "id": "v2-0578",
+  "hook": "Month (月) + pay (給): pay you get every month."
+ },
+ {
+  "id": "v2-0579",
+  "hook": "Excellent (傑) + work (作): an excellent work, a masterpiece."
+ },
+ {
+  "id": "v2-0581",
+  "hook": "Spirit (気) + spread (配): a feeling spread in the air, a sign."
+ },
+ {
+  "id": "v2-0582",
+  "hook": "Low (下) + class (品): low class, vulgar."
+ },
+ {
+  "id": "v2-0583",
+  "hook": "Low (下) + class (品) + な: a vulgar thing or person."
+ },
+ {
+  "id": "v2-0584",
+  "hook": "煙 means smoke: けむい, the room is full of smoke."
+ },
+ {
+  "id": "v2-0585",
+  "hook": "険 has a hill (阝): a steep, dangerous hill."
+ },
+ {
+  "id": "v2-0587",
+  "hook": "See (見) + learn (学): learn by going to see, a study tour."
+ }
+]
