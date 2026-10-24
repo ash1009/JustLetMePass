@@ -73,6 +73,11 @@ adb shell input keyevent KEYCODE_BACK
 shot 18d_after_back 2
 python3 ci/ui.py texts > "$OUT/18e_after_back.txt" 2>&1 || true
 
+start --es route kanji1
+shot 19_kanji_notes 3
+adb shell input swipe 540 1800 540 600 300
+shot 19b_kanji_notes_lower 2
+
 # Mock test: a full paper, each timed part, a listening question played once.
 start --es route test
 shot 20_mock_start 4

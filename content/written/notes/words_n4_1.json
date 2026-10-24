@@ -1,0 +1,726 @@
+[
+ {
+  "id": "v4-0051",
+  "hook": "Standard (規) + rule (則): a fixed standard everyone must follow, a rule."
+ },
+ {
+  "id": "v4-0193",
+  "hook": "Small (小) + learning (学) + school (校): the school for small kids, elementary school."
+ },
+ {
+  "id": "v4-0253",
+  "hook": "Both kanji mean pushing up close: you step close to someone and say hello."
+ },
+ {
+  "id": "v4-0274",
+  "hook": "Has the hand radical (扌): your hand feels around to search for something."
+ },
+ {
+  "id": "v4-0469",
+  "hook": "Finger (指) + circle (輪): the circle you wear on your finger, a ring."
+ },
+ {
+  "id": "v4-0521",
+  "hook": "遅 means slow and has the walking radical (⻌): walk slowly and you are late."
+ },
+ {
+  "id": "v4-0542",
+  "hook": "Writing (文) + change (化): writing and ideas change a people, giving them culture."
+ },
+ {
+  "id": "v4-0661",
+  "hook": "Interest (趣) + taste (味): something you have a taste for, your hobby."
+ },
+ {
+  "id": "v4-0451",
+  "hook": "髪 has 髟 (long hair) on top; かみ sounds like 上 (top): the hair on top of your head."
+ },
+ {
+  "id": "v4-0444",
+  "hook": "A woman (女) with a hand (⺕) putting up her hair: a married woman, a wife."
+ },
+ {
+  "id": "v4-0546",
+  "hook": "君 first meant a ruler giving orders (口, mouth); now men use it for 'you' to friends."
+ },
+ {
+  "id": "v4-0050",
+  "hook": "Correct, first (正) + month (月): the first month of the year, New Year."
+ },
+ {
+  "id": "v4-0108",
+  "hook": "Red (赤) + ちゃん: newborns look red, so the baby is the little red one."
+ },
+ {
+  "id": "v4-0210",
+  "hook": "Parent, close (親) + keen (切): caring keenly like a parent, kindness."
+ },
+ {
+  "id": "v4-0347",
+  "hook": "Fire (火) + matter (事): a fire matter, a house on fire."
+ },
+ {
+  "id": "v4-0351",
+  "hook": "One (一) + cup (杯): one cupful, so 'full' or 'a lot'."
+ },
+ {
+  "id": "v4-0378",
+  "hook": "Not (不) + convenient (便): inconvenient."
+ },
+ {
+  "id": "v4-0490",
+  "hook": "General (普) + pass through (通): what passes everywhere is normal, usual."
+ },
+ {
+  "id": "v4-0511",
+  "hook": "最 means most (as in 最高, the best); もっとも sounds like 'more, more': the most."
+ },
+ {
+  "id": "v4-0537",
+  "hook": "World (世) + talk (話): talking with and helping people in your world, looking after them."
+ },
+ {
+  "id": "v4-0605",
+  "hook": "Special (特) + separate (別): set apart from the rest, special."
+ },
+ {
+  "id": "v4-0624",
+  "hook": "町 is rice field (田) + street (丁): a town; after a name it is read ちょう."
+ },
+ {
+  "id": "v4-0647",
+  "hook": "Eye (目): you count things one by one as your eye passes them, 2つ目 is the 2nd."
+ },
+ {
+  "id": "v4-0637",
+  "hook": "Water (氵) + 昜 (has the sun 日): water warmed by the sun, hot water."
+ },
+ {
+  "id": "v4-0067",
+  "hook": "Cloth (布) + ball, group (団): a bundle of cloth you sleep on, a futon."
+ },
+ {
+  "id": "v4-0197",
+  "hook": "Has the hand radical (扌): your hand lets go of it into the bin, to throw away."
+ },
+ {
+  "id": "v4-0299",
+  "hook": "Law (法) + rule (律): laws and rules, the law."
+ },
+ {
+  "id": "v4-0329",
+  "hook": "Pull (引) + cross over (越): pull your things over to a new home, to move house."
+ },
+ {
+  "id": "v4-0476",
+  "hook": "Forget (忘れ) + thing (物): a thing you forgot or left behind."
+ },
+ {
+  "id": "v4-0621",
+  "hook": "Enter (入) + institution (院): enter the hospital."
+ },
+ {
+  "id": "v4-0632",
+  "hook": "上 (up): to go up, to rise."
+ },
+ {
+  "id": "v4-0126",
+  "hook": "Moving (動) thing (物) is an animal; + garden (園): an animal garden, a zoo."
+ },
+ {
+  "id": "v4-0181",
+  "hook": "Sleep (寝) + boy (坊): a lazy little boy who sleeps in late."
+ },
+ {
+  "id": "v4-0207",
+  "hook": "Earth (土) at the bottom: an old wall was made of earth."
+ },
+ {
+  "id": "v4-0317",
+  "hook": "Cross (交) + pass through (通): people crossing and passing, traffic."
+ },
+ {
+  "id": "v4-0324",
+  "hook": "Hand (手) + bag (袋): a bag for your hand, a glove."
+ },
+ {
+  "id": "v4-0328",
+  "hook": "Rise up (興) + taste (味): a taste that rises up in you, interest."
+ },
+ {
+  "id": "v4-0350",
+  "hook": "He (彼) + ら (plural): they."
+ },
+ {
+  "id": "v4-0404",
+  "hook": "From 経世済民: govern (経) the world and help (済) the people; now it means economy."
+ },
+ {
+  "id": "v4-0460",
+  "hook": "Has the road radical (⻌): something goes down the road away from you, to send."
+ },
+ {
+  "id": "v4-0555",
+  "hook": "Go out (出) + start off (発): go out and start off, departure."
+ },
+ {
+  "id": "v4-0407",
+  "hook": "Clothing (衣) with 里 inside: the inside lining of clothes, the back side."
+ },
+ {
+  "id": "v4-0321",
+  "hook": "比 (two people side by side) on top: people standing side by side, everyone."
+ },
+ {
+  "id": "v4-0088",
+  "hook": "厳 means stern or severe (it has a cliff 厂): strict, hard."
+ },
+ {
+  "id": "v4-0094",
+  "hook": "Water radical (氵): deep water, deep."
+ },
+ {
+  "id": "v4-0180",
+  "hook": "Words (言) + all around (周): check words from all sides, to look up."
+ },
+ {
+  "id": "v4-0190",
+  "hook": "決 means decide: firmly decided, so 決して with a negative means never."
+ },
+ {
+  "id": "v4-0196",
+  "hook": "Big (大) sheep (羊) on top: a big fat sheep was a beautiful thing."
+ },
+ {
+  "id": "v4-0216",
+  "hook": "Water (氵) + stand (立): standing there with water in your eyes, to cry."
+ },
+ {
+  "id": "v4-0221",
+  "hook": "におい sounds like 'near oil': you smell the oil when you are near it."
+ },
+ {
+  "id": "v4-0243",
+  "hook": "Earth (土) radical: earth piled up more and more, to increase."
+ },
+ {
+  "id": "v4-0247",
+  "hook": "選 as in 選手 (chosen player) and 選挙 (election): to choose."
+ },
+ {
+  "id": "v4-0327",
+  "hook": "Foot radical (⻊): moving your feet, a dance."
+ },
+ {
+  "id": "v4-0415",
+  "hook": "Pull (引き) + out (出し): the thing you pull out, a drawer."
+ },
+ {
+  "id": "v4-0466",
+  "hook": "City (市) + people (民): people of the city, citizens."
+ },
+ {
+  "id": "v4-0486",
+  "hook": "Stay (留) + guard (守): someone stays to guard the house while you are away."
+ },
+ {
+  "id": "v4-0582",
+  "hook": "Craft (工) + place (場): a place where things are made, a factory."
+ },
+ {
+  "id": "v4-0185",
+  "hook": "Rain (雨) on top: the thing rain comes from, a cloud."
+ },
+ {
+  "id": "v4-0231",
+  "hook": "員 means member, as in 会社員 (company member) and 店員 (shop staff)."
+ },
+ {
+  "id": "v4-0159",
+  "hook": "受 shows one hand passing something to another hand: to receive, to take (an exam)."
+ },
+ {
+  "id": "v4-0160",
+  "hook": "Spirit (気) + part (分): the part of your spirit right now, your mood."
+ },
+ {
+  "id": "v4-0204",
+  "hook": "Beauty (美) + art (術) + building (館): a building for beautiful art, an art museum."
+ },
+ {
+  "id": "v4-0264",
+  "hook": "Think (思い) + take out (出す): pull a thought out of your head, to remember."
+ },
+ {
+  "id": "v4-0283",
+  "hook": "寂 means quiet and has a roof (宀): a quiet, empty house, lonely."
+ },
+ {
+  "id": "v4-0290",
+  "hook": "通 (pass through, as in 交通): pass along the same road again and again, to commute."
+ },
+ {
+  "id": "v4-0323",
+  "hook": "Sky (空) + port (港): a port for the sky, an airport."
+ },
+ {
+  "id": "v4-0331",
+  "hook": "All (都) + fit (合): when everything fits, it is convenient for you."
+ },
+ {
+  "id": "v4-0387",
+  "hook": "Push (押し) + put in (入れ): the cupboard you push your futon into."
+ },
+ {
+  "id": "v4-0393",
+  "hook": "変 means change: to change something."
+ },
+ {
+  "id": "v4-0450",
+  "hook": "Dangerous (危) + steep (険): steep and dangerous, danger."
+ },
+ {
+  "id": "v4-0481",
+  "hook": "Day (日) + write down (記): writing down each day, a diary."
+ },
+ {
+  "id": "v4-0530",
+  "hook": "Calm, safe (安) + heart (心): a calm heart, relief."
+ },
+ {
+  "id": "v4-0532",
+  "hook": "Birds (隹) gathering on a tree (木): to collect, to gather."
+ },
+ {
+  "id": "v4-0597",
+  "hook": "Has power (力) in it: with power you win."
+ },
+ {
+  "id": "v4-0611",
+  "hook": "Door (戸) over 大 (once 犬, dog): the dog comes back to the door, to return."
+ },
+ {
+  "id": "v4-0615",
+  "hook": "Enter (入) + road (⻌): everyone enters the road, so it is crowded."
+ },
+ {
+  "id": "v4-0297",
+  "hook": "Metal radical (金): old mirrors were polished metal."
+ },
+ {
+  "id": "v4-0640",
+  "hook": "Water radical (氵); みずうみ is water (水) + sea (海): a water sea, a lake."
+ },
+ {
+  "id": "v4-0062",
+  "hook": "Moment (機) + meet (会): the moment when you meet it, a chance."
+ },
+ {
+  "id": "v4-0099",
+  "hook": "Not (非) over heart (心): your heart says no, sad."
+ },
+ {
+  "id": "v4-0252",
+  "hook": "届 means to reach: you make the package reach someone, to deliver."
+ },
+ {
+  "id": "v4-0320",
+  "hook": "Hurry (急) + go (行): a train that hurries, an express."
+ },
+ {
+  "id": "v4-0364",
+  "hook": "Daytime (昼) + interval (間): the time during the day."
+ },
+ {
+  "id": "v4-0412",
+  "hook": "済 means settle, finish (as in 経済): the matter gets settled, it ends."
+ },
+ {
+  "id": "v4-0475",
+  "hook": "Noon (昼) + rest (休み): the noon rest, lunch break."
+ },
+ {
+  "id": "v4-0541",
+  "hook": "Number (数) + study (学): the study of numbers, maths."
+ },
+ {
+  "id": "v4-0619",
+  "hook": "Flower (花) + look (見): looking at the cherry flowers."
+ },
+ {
+  "id": "v4-0367",
+  "hook": "Looks like grains scattered around a plant stem: rice (uncooked)."
+ },
+ {
+  "id": "v4-0598",
+  "hook": "Stone (石) + little (少): little stones, sand."
+ },
+ {
+  "id": "v4-0007",
+  "hook": "Mouth (口) + bird (鳥): like a bird calling, a bell or phone rings."
+ },
+ {
+  "id": "v4-0049",
+  "hook": "Sell (売り) + place (場): the selling place, a sales counter."
+ },
+ {
+  "id": "v4-0085",
+  "hook": "止 means stop; read やめる it means to quit doing something, like a habit."
+ },
+ {
+  "id": "v4-0114",
+  "hook": "West (西) + ocean (洋): lands across the western ocean, the West."
+ },
+ {
+  "id": "v4-0149",
+  "hook": "止 means stop; read とめる it means to stop a thing, like a car or machine."
+ },
+ {
+  "id": "v4-0179",
+  "hook": "決 means decide (as in 決して): to decide."
+ },
+ {
+  "id": "v4-0233",
+  "hook": "Horse (馬) at the bottom: a startled horse, to be surprised."
+ },
+ {
+  "id": "v4-0279",
+  "hook": "Land (土) + produce (産): a product of the land you visited, a souvenir."
+ },
+ {
+  "id": "v4-0287",
+  "hook": "祝 has the altar radical (礻): a happy prayer, a celebration."
+ },
+ {
+  "id": "v4-0307",
+  "hook": "True (真) + face (面) + eye (目): a true face and honest eyes, serious."
+ },
+ {
+  "id": "v4-0342",
+  "hook": "Enter (入) + learning (学): entering a school."
+ },
+ {
+  "id": "v4-0361",
+  "hook": "Hand (扌) + nail (丁): a hand hitting a nail, to hit."
+ },
+ {
+  "id": "v4-0383",
+  "hook": "例 means example: for example."
+ },
+ {
+  "id": "v4-0410",
+  "hook": "変 means change: something changes by itself."
+ },
+ {
+  "id": "v4-0411",
+  "hook": "From (以) + outside (外): outside of this, other than."
+ },
+ {
+  "id": "v4-0468",
+  "hook": "負 means to carry a burden (貝 below is money): you take the loss, to lose."
+ },
+ {
+  "id": "v4-0491",
+  "hook": "Hand (手) + pass on (伝): pass along a hand, to help."
+ },
+ {
+  "id": "v4-0497",
+  "hook": "Bamboo (竹) on top: bamboo bending in the wind like a person laughing."
+ },
+ {
+  "id": "v4-0499",
+  "hook": "Writing (文) + study (学): the study of writing, literature."
+ },
+ {
+  "id": "v4-0556",
+  "hook": "Bow (拝) + see (見): look at something with a bow, humbly see."
+ },
+ {
+  "id": "v4-0586",
+  "hook": "Heavy (重) + power (力): power moves heavy things, to move."
+ },
+ {
+  "id": "v4-0589",
+  "hook": "A picture of a small creature with a big head: an insect."
+ },
+ {
+  "id": "v4-0648",
+  "hook": "Turn, number (番) + group (組): a group of shows in turn, a TV program."
+ },
+ {
+  "id": "v4-0574",
+  "hook": "程 means degree or limit (as in 程度): to that extent."
+ },
+ {
+  "id": "v4-0585",
+  "hook": "A picture of a small boat: a boat."
+ },
+ {
+  "id": "v4-0110",
+  "hook": "Mouth (口) + empty (虚): empty words from the mouth, a lie."
+ },
+ {
+  "id": "v4-0016",
+  "hook": "Medicine (医) + study (学): medical science."
+ },
+ {
+  "id": "v4-0026",
+  "hook": "Heart (心) at the bottom: your heart boils over, to get angry."
+ },
+ {
+  "id": "v4-0132",
+  "hook": "Road radical (⻌): running away down the road, to escape."
+ },
+ {
+  "id": "v4-0161",
+  "hook": "Between (間) + different (違): picking the different one, to make a mistake."
+ },
+ {
+  "id": "v4-0167",
+  "hook": "行 means go and also do: to carry out, to do."
+ },
+ {
+  "id": "v4-0203",
+  "hook": "Plain, pure (素) + clear sky (晴): pure like a sunny day, wonderful."
+ },
+ {
+  "id": "v4-0300",
+  "hook": "Bird (隹) + road (⻌): a bird only flies forward, to advance."
+ },
+ {
+  "id": "v4-0334",
+  "hook": "Subject (科) + study (学): studying subject by subject, science."
+ },
+ {
+  "id": "v4-0365",
+  "hook": "Teach (教) + raise (育): teaching and raising children, education."
+ },
+ {
+  "id": "v4-0399",
+  "hook": "特 means special (as in 特別): especially."
+ },
+ {
+  "id": "v4-0464",
+  "hook": "Release (放) + send (送): sending signals out, broadcasting."
+ },
+ {
+  "id": "v4-0543",
+  "hook": "Hand radical (扌): your hand hands over money, to pay."
+ },
+ {
+  "id": "v4-0595",
+  "hook": "Water (水) + swim (泳): swimming."
+ },
+ {
+  "id": "v4-0618",
+  "hook": "下 (down): to lower something."
+ },
+ {
+  "id": "v4-0631",
+  "hook": "Eye radical (目): closing your eyes, to sleep."
+ },
+ {
+  "id": "v4-0513",
+  "hook": "代 means generation or period: 20代 is your twenties."
+ },
+ {
+  "id": "v4-0186",
+  "hook": "Earth (土) + 反 (turn back): earth turned up, a slope."
+ },
+ {
+  "id": "v4-0014",
+  "hook": "Free, loose (漫) + picture (画): free fun pictures, comics."
+ },
+ {
+  "id": "v4-0044",
+  "hook": "比 shows two people side by side: put things side by side, to compare."
+ },
+ {
+  "id": "v4-0053",
+  "hook": "Send out (発) + sound (音): sending out sounds, pronunciation."
+ },
+ {
+  "id": "v4-0069",
+  "hook": "Give (贈り) + thing (物): a thing you give, a present; 贈 has 貝 (money, value)."
+ },
+ {
+  "id": "v4-0102",
+  "hook": "Altar radical (礻): praying at the altar, to pray."
+ },
+ {
+  "id": "v4-0146",
+  "hook": "Person (人) + shape (形): a person shape, a doll."
+ },
+ {
+  "id": "v4-0150",
+  "hook": "Ear (耳) + heart (心): your ears go red and your heart beats, embarrassed."
+ },
+ {
+  "id": "v4-0174",
+  "hook": "Two trees (木木): a small wood."
+ },
+ {
+  "id": "v4-0178",
+  "hook": "Fight (戦) + compete (争): fighting and competing, war."
+ },
+ {
+  "id": "v4-0202",
+  "hook": "Suit (適) + hit (当): hits the mark well, suitable; in speech it often means careless."
+ },
+ {
+  "id": "v4-0205",
+  "hook": "Sentence (文) + rule (法): sentence rules, grammar."
+ },
+ {
+  "id": "v4-0217",
+  "hook": "治 means cure: an illness gets cured, to get better."
+ },
+ {
+  "id": "v4-0246",
+  "hook": "From (以) + below (下): this and below, less than."
+ },
+ {
+  "id": "v4-0355",
+  "hook": "Make, birth (生) + produce (産): to produce."
+ },
+ {
+  "id": "v4-0408",
+  "hook": "為 means for the sake of: ため, for, in order to."
+ },
+ {
+  "id": "v4-0432",
+  "hook": "Person (亻) + 云 (say): a person passes on what was said, to tell."
+ },
+ {
+  "id": "v4-0446",
+  "hook": "Tool, details (具) + fit (合): how the parts fit together, condition."
+ },
+ {
+  "id": "v4-0448",
+  "hook": "Stay (駐) + car (車) + place (場): a place where cars stay, a parking lot."
+ },
+ {
+  "id": "v4-0471",
+  "hook": "See (見) + attach (つける): see it and fix your eyes on it, to find."
+ },
+ {
+  "id": "v4-0478",
+  "hook": "Body radical (月, flesh): a body part, the arm."
+ },
+ {
+  "id": "v4-0480",
+  "hook": "Accept (承) + know (知): I know and I accept, consent."
+ },
+ {
+  "id": "v4-0498",
+  "hook": "Road (⻌) + army (軍): armies carry supplies along roads, to carry."
+ },
+ {
+  "id": "v4-0501",
+  "hook": "See (見) + dance (舞い): you visit a sick friend and cheer them up, a get-well visit."
+ },
+ {
+  "id": "v4-0505",
+  "hook": "下 (down): to go down, to drop."
+ },
+ {
+  "id": "v4-0516",
+  "hook": "Leave, retreat (退) + institution (院): leave the hospital."
+ },
+ {
+  "id": "v4-0534",
+  "hook": "Thread radical (糸): a thread goes on and on, to continue."
+ },
+ {
+  "id": "v4-0564",
+  "hook": "Eye radical (目), same kanji as 眠る (sleep): sleepy eyes, sleepy."
+ },
+ {
+  "id": "v4-0572",
+  "hook": "Do (仕) + way (方): the way of doing it, method."
+ },
+ {
+  "id": "v4-0592",
+  "hook": "Tree (木) + straight (直): put a tree in the ground straight, to plant."
+ },
+ {
+  "id": "v4-0593",
+  "hook": "Both (両) + side (方): both sides."
+ },
+ {
+  "id": "v4-0638",
+  "hook": "Compete (競) + fight (争): competition."
+ },
+ {
+  "id": "v4-0655",
+  "hook": "Woman (女) + joy (喜): a joyful woman, happy."
+ },
+ {
+  "id": "v4-0135",
+  "hook": "畳 means to fold or pile up: woven mats laid in layers on the floor, tatami."
+ },
+ {
+  "id": "v4-0457",
+  "hook": "Tree (木) + branch (支): a tree branch."
+ },
+ {
+  "id": "v4-0027",
+  "hook": "Floor (床) + shop (屋): old barbers worked in a shop with a raised floor."
+ },
+ {
+  "id": "v4-0039",
+  "hook": "Roof radical (宀): a house; お宅 is a polite word for someone's home."
+ },
+ {
+  "id": "v4-0047",
+  "hook": "Outskirts (郊) + outside (外): outside the city, the suburbs."
+ },
+ {
+  "id": "v4-0055",
+  "hook": "Building (屋) + top (上): the top of the building, the rooftop."
+ },
+ {
+  "id": "v4-0063",
+  "hook": "建 means build, as in 建物 (building): to build."
+ },
+ {
+  "id": "v4-0064",
+  "hook": "Double, many (複) + mixed (雑): many things mixed up, complicated."
+ },
+ {
+  "id": "v4-0077",
+  "hook": "通 means pass through: to pass by, to go through."
+ },
+ {
+  "id": "v4-0100",
+  "hook": "Middle (中) + school (学校): middle school, junior high."
+ },
+ {
+  "id": "v4-0103",
+  "hook": "盛 means heap up (dish 皿 at the bottom): a heaped dish, thriving."
+ },
+ {
+  "id": "v4-0120",
+  "hook": "Go out (出) + seat (席): go out to your seat, attendance."
+ },
+ {
+  "id": "v4-0123",
+  "hook": "Horn (角) + insect (虫): a bug touches things with its antennae, to touch."
+ },
+ {
+  "id": "v4-0145",
+  "hook": "Goods (品) + thing (物): goods."
+ },
+ {
+  "id": "v4-0166",
+  "hook": "足 means foot and also enough: to be enough."
+ },
+ {
+  "id": "v4-0183",
+  "hook": "光 means light: to shine."
+ },
+ {
+  "id": "v4-0211",
+  "hook": "Know (知る) + make (せる): make someone know, to notify."
+ }
+]

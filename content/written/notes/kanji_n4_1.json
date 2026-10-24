@@ -1,0 +1,2972 @@
+[
+ {
+  "kanji": "建",
+  "readings": [
+   {
+    "r": "た",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{建|た}てる",
+      "en": "to build",
+      "lvl": 4
+     },
+     {
+      "w": "{建物|たてもの}",
+      "en": "building",
+      "lvl": 4
+     },
+     {
+      "w": "{二階建|にかいだ}て",
+      "en": "two storey (building)",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "けん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{建築|けんちく}",
+      "en": "architecture",
+      "lvl": 2
+     },
+     {
+      "w": "{建設|けんせつ}",
+      "en": "construction",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "{建|た}てる (to build) and {建物|たてもの} (building) are the N4 words. Do not mix it up with {健|けん} in {健康|けんこう}."
+ },
+ {
+  "kanji": "空",
+  "readings": [
+   {
+    "r": "そら",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{空|そら}",
+      "en": "sky",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "あ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{空|あ}く",
+      "en": "to become empty, free",
+      "lvl": 4
+     },
+     {
+      "w": "{空|あ}ける",
+      "en": "to empty, make space",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "す",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{空|す}く",
+      "en": "to become empty (e.g. a train, a stomach)",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "から",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{空|から}",
+      "en": "empty (box, bottle)",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "くう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{空港|くうこう}",
+      "en": "airport",
+      "lvl": 4
+     },
+     {
+      "w": "{空気|くうき}",
+      "en": "air",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {空|そら} (sky), {空港|くうこう} (airport) and {空|あ}く (become empty). Same kanji, many readings: {空|す}く and {空|から} also mean empty."
+ },
+ {
+  "kanji": "急",
+  "readings": [
+   {
+    "r": "いそ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{急|いそ}ぐ",
+      "en": "to hurry",
+      "lvl": 4
+     },
+     {
+      "w": "{急|いそ}ぎ",
+      "en": "haste, urgent",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "きゅう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{急|きゅう}に",
+      "en": "suddenly",
+      "lvl": 4
+     },
+     {
+      "w": "{急行|きゅうこう}",
+      "en": "express train",
+      "lvl": 4
+     },
+     {
+      "w": "{特急|とっきゅう}",
+      "en": "limited express train",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "Know {急|いそ}ぐ (to hurry) and {急|きゅう}に (suddenly). In {特急|とっきゅう} only the first kanji changes sound (とっ); this one stays きゅう."
+ },
+ {
+  "kanji": "止",
+  "readings": [
+   {
+    "r": "と",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{止|と}まる",
+      "en": "to stop (by itself)",
+      "lvl": 4
+     },
+     {
+      "w": "{止|と}める",
+      "en": "to stop (something)",
+      "lvl": 4
+     },
+     {
+      "w": "{行|い}き{止|ど}まり",
+      "en": "dead end",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "し",
+    "type": "on",
+    "words": [
+     {
+      "w": "{中止|ちゅうし}",
+      "en": "cancellation",
+      "lvl": 3
+     },
+     {
+      "w": "{禁止|きんし}",
+      "en": "ban, prohibited",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "{止|と}まる (it stops) and {止|と}める (you stop it) are the key pair. Trap: {泊|と}まる (stay the night) sounds the same."
+ },
+ {
+  "kanji": "送",
+  "readings": [
+   {
+    "r": "おく",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{送|おく}る",
+      "en": "to send; to see someone off",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "そう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{放送|ほうそう}",
+      "en": "broadcast",
+      "lvl": 4
+     },
+     {
+      "w": "{送料|そうりょう}",
+      "en": "shipping fee",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "{送|おく}る (to send) is the N4 word; {放送|ほうそう} (broadcast) uses そう. Do not confuse it with {迷|まよ}う, which looks similar."
+ },
+ {
+  "kanji": "切",
+  "readings": [
+   {
+    "r": "き",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{切|き}る",
+      "en": "to cut",
+      "lvl": 5
+     },
+     {
+      "w": "{切手|きって}",
+      "en": "postage stamp",
+      "lvl": 5
+     },
+     {
+      "w": "{切符|きっぷ}",
+      "en": "ticket",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "せつ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{大切|たいせつ}",
+      "en": "important, precious",
+      "lvl": 5
+     },
+     {
+      "w": "{親切|しんせつ}",
+      "en": "kind",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "さい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{一切|いっさい}",
+      "en": "all; (not) at all",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "{大切|たいせつ} and {親切|しんせつ} use せつ. In {切手|きって} and {切符|きっぷ}, き becomes きっ."
+ },
+ {
+  "kanji": "転",
+  "readings": [
+   {
+    "r": "てん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{自転車|じてんしゃ}",
+      "en": "bicycle",
+      "lvl": 5
+     },
+     {
+      "w": "{運転|うんてん}",
+      "en": "driving",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "ころ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{転|ころ}ぶ",
+      "en": "to fall over",
+      "lvl": 3
+     },
+     {
+      "w": "{転|ころ}がる",
+      "en": "to roll",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "てん matters most: {自転車|じてんしゃ} and {運転|うんてん}. {転|ころ}ぶ means to fall over."
+ },
+ {
+  "kanji": "研",
+  "readings": [
+   {
+    "r": "けん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{研究|けんきゅう}",
+      "en": "research",
+      "lvl": 4
+     },
+     {
+      "w": "{研修|けんしゅう}",
+      "en": "training (at work)",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "と",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{研|と}ぐ",
+      "en": "to sharpen; to wash (rice)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn it inside {研究|けんきゅう} (research). The kun word {研|と}ぐ is rare for you now."
+ },
+ {
+  "kanji": "足",
+  "readings": [
+   {
+    "r": "あし",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{足|あし}",
+      "en": "foot, leg",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "た",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{足|た}りる",
+      "en": "to be enough",
+      "lvl": 4
+     },
+     {
+      "w": "{足|た}す",
+      "en": "to add",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "そく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{一足|いっそく}",
+      "en": "one pair (of shoes)",
+      "lvl": 3
+     },
+     {
+      "w": "{遠足|えんそく}",
+      "en": "school trip",
+      "lvl": 3
+     },
+     {
+      "w": "{不足|ふそく}",
+      "en": "shortage",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "{足|あし} (foot, leg) and {足|た}りる (be enough) are both N4. Counter for shoes: {一足|いっそく}, {三足|さんぞく} (そく becomes ぞく)."
+ },
+ {
+  "kanji": "究",
+  "readings": [
+   {
+    "r": "きゅう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{研究|けんきゅう}",
+      "en": "research",
+      "lvl": 4
+     },
+     {
+      "w": "{究極|きゅうきょく}",
+      "en": "ultimate",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "きわ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{究|きわ}める",
+      "en": "to master, go deep into",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "At N4 you only need {研究|けんきゅう}. Do not confuse it with {空|そら}: both have the same roof on top."
+ },
+ {
+  "kanji": "楽",
+  "readings": [
+   {
+    "r": "たの",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{楽|たの}しい",
+      "en": "fun, enjoyable",
+      "lvl": 5
+     },
+     {
+      "w": "{楽|たの}しむ",
+      "en": "to enjoy",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "がく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{音楽|おんがく}",
+      "en": "music",
+      "lvl": 5
+     },
+     {
+      "w": "{楽器|がっき}",
+      "en": "musical instrument",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "らく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{楽|らく}",
+      "en": "easy, comfortable",
+      "lvl": 3
+     },
+     {
+      "w": "{気楽|きらく}",
+      "en": "carefree",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "{楽|たの}しい (fun) and {音楽|おんがく} (music) are N5. {楽|らく} means easy, comfortable. In {楽器|がっき}, がく becomes がっ."
+ },
+ {
+  "kanji": "起",
+  "readings": [
+   {
+    "r": "お",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{起|お}きる",
+      "en": "to get up, wake up",
+      "lvl": 5
+     },
+     {
+      "w": "{起|お}こす",
+      "en": "to wake (someone) up",
+      "lvl": 4
+     },
+     {
+      "w": "{起|お}こる",
+      "en": "to happen",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "き",
+    "type": "on",
+    "words": [
+     {
+      "w": "{起床|きしょう}",
+      "en": "getting up (formal)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "{起|お}きる (get up), {起|お}こす (wake someone), {起|お}こる (happen). Do not mix {起|お}こる with {怒|おこ}る (get angry)."
+ },
+ {
+  "kanji": "着",
+  "readings": [
+   {
+    "r": "き",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{着|き}る",
+      "en": "to wear (shirts, coats)",
+      "lvl": 5
+     },
+     {
+      "w": "{着物|きもの}",
+      "en": "kimono",
+      "lvl": 4
+     },
+     {
+      "w": "{上着|うわぎ}",
+      "en": "jacket",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "つ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{着|つ}く",
+      "en": "to arrive",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "ちゃく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{到着|とうちゃく}",
+      "en": "arrival",
+      "lvl": 2
+     },
+     {
+      "w": "{着席|ちゃくせき}",
+      "en": "taking a seat",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "{着|き}る (to wear) and {着|つ}く (to arrive) are both N4. Trap: {着|き}る and {切|き}る sound the same."
+ },
+ {
+  "kanji": "店",
+  "readings": [
+   {
+    "r": "みせ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{店|みせ}",
+      "en": "shop, store",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "てん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{喫茶店|きっさてん}",
+      "en": "cafe",
+      "lvl": 5
+     },
+     {
+      "w": "{店員|てんいん}",
+      "en": "shop staff",
+      "lvl": 4
+     },
+     {
+      "w": "{売店|ばいてん}",
+      "en": "kiosk, stall",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "Alone it is {店|みせ}. In compound words it is てん: {喫茶店|きっさてん}, {店員|てんいん}."
+ },
+ {
+  "kanji": "病",
+  "readings": [
+   {
+    "r": "びょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{病気|びょうき}",
+      "en": "illness, sick",
+      "lvl": 5
+     },
+     {
+      "w": "{病院|びょういん}",
+      "en": "hospital",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "やまい",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{病|やまい}",
+      "en": "illness (literary)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "びょう is the one to know: {病気|びょうき}, {病院|びょういん}. Trap: {病院|びょういん} (hospital) vs {美容院|びよういん} (hair salon)."
+ },
+ {
+  "kanji": "質",
+  "readings": [
+   {
+    "r": "しつ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{質問|しつもん}",
+      "en": "question",
+      "lvl": 5
+     },
+     {
+      "w": "{品質|ひんしつ}",
+      "en": "quality",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "しち",
+    "type": "on",
+    "words": [
+     {
+      "w": "{質屋|しちや}",
+      "en": "pawnshop",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {質問|しつもん} (question). しち only appears in rare words like {質屋|しちや}."
+ },
+ {
+  "kanji": "待",
+  "readings": [
+   {
+    "r": "ま",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{待|ま}つ",
+      "en": "to wait",
+      "lvl": 5
+     },
+     {
+      "w": "{待合室|まちあいしつ}",
+      "en": "waiting room",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "たい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{招待|しょうたい}",
+      "en": "invitation",
+      "lvl": 3
+     },
+     {
+      "w": "{期待|きたい}",
+      "en": "expectation, hope",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "{待|ま}つ (to wait) is N5. Do not confuse it with {持|も}つ (to hold): the left sides differ."
+ },
+ {
+  "kanji": "試",
+  "readings": [
+   {
+    "r": "し",
+    "type": "on",
+    "words": [
+     {
+      "w": "{試験|しけん}",
+      "en": "exam",
+      "lvl": 4
+     },
+     {
+      "w": "{試合|しあい}",
+      "en": "match, game",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "ため",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{試|ため}す",
+      "en": "to try (out), test",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "こころ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{試|こころ}みる",
+      "en": "to attempt (formal)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "し matters most: {試験|しけん} (exam) and {試合|しあい} (match). {試|ため}す means to try out."
+ },
+ {
+  "kanji": "族",
+  "readings": [
+   {
+    "r": "ぞく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{家族|かぞく}",
+      "en": "family",
+      "lvl": 5
+     },
+     {
+      "w": "{民族|みんぞく}",
+      "en": "ethnic group",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {家族|かぞく} (family). Do not confuse it with {旅|たび}: they look alike."
+ },
+ {
+  "kanji": "銀",
+  "readings": [
+   {
+    "r": "ぎん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{銀行|ぎんこう}",
+      "en": "bank",
+      "lvl": 5
+     },
+     {
+      "w": "{銀|ぎん}",
+      "en": "silver",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {銀行|ぎんこう} (bank). The left side is {金|かね} (money, metal)."
+ },
+ {
+  "kanji": "早",
+  "readings": [
+   {
+    "r": "はや",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{早|はや}い",
+      "en": "early",
+      "lvl": 5
+     },
+     {
+      "w": "{早|はや}く",
+      "en": "early; quickly",
+      "lvl": 5
+     },
+     {
+      "w": "{早口|はやくち}",
+      "en": "talking fast",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "さっ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{早速|さっそく}",
+      "en": "at once, right away",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "そう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{早朝|そうちょう}",
+      "en": "early morning",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "{早|はや}い (early) is N5. Trap: {速|はや}い means fast (speed). {早速|さっそく} uses さっ."
+ },
+ {
+  "kanji": "映",
+  "readings": [
+   {
+    "r": "えい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{映画|えいが}",
+      "en": "movie",
+      "lvl": 5
+     },
+     {
+      "w": "{映画館|えいがかん}",
+      "en": "cinema",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "うつ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{映|うつ}る",
+      "en": "to be reflected, be shown",
+      "lvl": 3
+     },
+     {
+      "w": "{映|うつ}す",
+      "en": "to reflect, project",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {映画|えいが} (movie). Trap: {映|うつ}す (show on a screen) and {写|うつ}す (copy, take a photo) sound the same."
+ },
+ {
+  "kanji": "親",
+  "readings": [
+   {
+    "r": "しん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{親切|しんせつ}",
+      "en": "kind",
+      "lvl": 4
+     },
+     {
+      "w": "{両親|りょうしん}",
+      "en": "parents",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "おや",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{親|おや}",
+      "en": "parent",
+      "lvl": 4
+     },
+     {
+      "w": "{親子|おやこ}",
+      "en": "parent and child",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "した",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{親|した}しい",
+      "en": "close, friendly",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "{親切|しんせつ} (kind) and {両親|りょうしん} (parents) use しん; {親|おや} alone means parent. Left side looks like {新|しん}."
+ },
+ {
+  "kanji": "験",
+  "readings": [
+   {
+    "r": "けん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{試験|しけん}",
+      "en": "exam",
+      "lvl": 4
+     },
+     {
+      "w": "{経験|けいけん}",
+      "en": "experience",
+      "lvl": 3
+     },
+     {
+      "w": "{実験|じっけん}",
+      "en": "experiment",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {試験|しけん} (exam) and {経験|けいけん} (experience). Look alike kanji with the same sound: {危険|きけん}, {検査|けんさ}."
+ },
+ {
+  "kanji": "英",
+  "readings": [
+   {
+    "r": "えい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{英語|えいご}",
+      "en": "English (language)",
+      "lvl": 5
+     },
+     {
+      "w": "{英会話|えいかいわ}",
+      "en": "English conversation",
+      "lvl": 3
+     },
+     {
+      "w": "{英国|えいこく}",
+      "en": "the UK",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {英語|えいご} (English). Almost always えい."
+ },
+ {
+  "kanji": "医",
+  "readings": [
+   {
+    "r": "い",
+    "type": "on",
+    "words": [
+     {
+      "w": "{医者|いしゃ}",
+      "en": "doctor",
+      "lvl": 5
+     },
+     {
+      "w": "{医学|いがく}",
+      "en": "medicine (the study)",
+      "lvl": 3
+     },
+     {
+      "w": "{医院|いいん}",
+      "en": "clinic",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {医者|いしゃ} (doctor). Note {歯医者|はいしゃ} (dentist)."
+ },
+ {
+  "kanji": "仕",
+  "readings": [
+   {
+    "r": "し",
+    "type": "on",
+    "words": [
+     {
+      "w": "{仕事|しごと}",
+      "en": "work, job",
+      "lvl": 5
+     },
+     {
+      "w": "{仕方|しかた}",
+      "en": "way of doing",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "つか",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{仕|つか}える",
+      "en": "to serve (someone)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {仕事|しごと} (work) and {仕方|しかた}がない (it can't be helped)."
+ },
+ {
+  "kanji": "去",
+  "readings": [
+   {
+    "r": "きょ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{去年|きょねん}",
+      "en": "last year",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "こ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{過去|かこ}",
+      "en": "the past",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "さ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{去|さ}る",
+      "en": "to leave",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {去年|きょねん} (last year). In {過去|かこ} it reads こ."
+ },
+ {
+  "kanji": "味",
+  "readings": [
+   {
+    "r": "み",
+    "type": "on",
+    "words": [
+     {
+      "w": "{意味|いみ}",
+      "en": "meaning",
+      "lvl": 4
+     },
+     {
+      "w": "{趣味|しゅみ}",
+      "en": "hobby",
+      "lvl": 4
+     },
+     {
+      "w": "{興味|きょうみ}",
+      "en": "interest",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "あじ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{味|あじ}",
+      "en": "taste, flavour",
+      "lvl": 4
+     },
+     {
+      "w": "{味|あじ}わう",
+      "en": "to savour",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {意味|いみ} (meaning) and {味|あじ} (taste). Do not confuse it with {妹|いもうと} or {未来|みらい}: they look alike."
+ },
+ {
+  "kanji": "写",
+  "readings": [
+   {
+    "r": "しゃ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{写真|しゃしん}",
+      "en": "photo",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "うつ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{写|うつ}す",
+      "en": "to copy; to take (a photo)",
+      "lvl": 4
+     },
+     {
+      "w": "{写|うつ}る",
+      "en": "to appear (in a photo)",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {写真|しゃしん} (photo). Trap: {写|うつ}す (copy, take a photo) vs {映|うつ}す (show on a screen)."
+ },
+ {
+  "kanji": "字",
+  "readings": [
+   {
+    "r": "じ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{漢字|かんじ}",
+      "en": "kanji",
+      "lvl": 5
+     },
+     {
+      "w": "{字|じ}",
+      "en": "letter, handwriting",
+      "lvl": 4
+     },
+     {
+      "w": "{文字|もじ}",
+      "en": "letter, character",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "Almost always じ: {漢字|かんじ}, {文字|もじ}."
+ },
+ {
+  "kanji": "答",
+  "readings": [
+   {
+    "r": "こた",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{答|こた}える",
+      "en": "to answer",
+      "lvl": 5
+     },
+     {
+      "w": "{答|こた}え",
+      "en": "answer",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "とう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{回答|かいとう}",
+      "en": "reply (to a question)",
+      "lvl": 2
+     },
+     {
+      "w": "{解答|かいとう}",
+      "en": "answer (to a test)",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {答|こた}える (to answer) and {答|こた}え (answer). とう appears in harder words."
+ },
+ {
+  "kanji": "夜",
+  "readings": [
+   {
+    "r": "よる",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{夜|よる}",
+      "en": "night",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "よ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{夜中|よなか}",
+      "en": "middle of the night",
+      "lvl": 3
+     },
+     {
+      "w": "{夜明|よあ}け",
+      "en": "dawn",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "や",
+    "type": "on",
+    "words": [
+     {
+      "w": "{今夜|こんや}",
+      "en": "tonight",
+      "lvl": 4
+     },
+     {
+      "w": "{深夜|しんや}",
+      "en": "late night",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "{夜|よる} alone; {今夜|こんや} uses や; {夜中|よなか} uses よ."
+ },
+ {
+  "kanji": "音",
+  "readings": [
+   {
+    "r": "おと",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{音|おと}",
+      "en": "sound, noise",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "おん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{音楽|おんがく}",
+      "en": "music",
+      "lvl": 5
+     },
+     {
+      "w": "{発音|はつおん}",
+      "en": "pronunciation",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "ね",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{本音|ほんね}",
+      "en": "true feelings",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "{音|おと} (sound) and {音楽|おんがく} (music) are the key words. It also sits on top of {意|い} in {意味|いみ}."
+ },
+ {
+  "kanji": "注",
+  "readings": [
+   {
+    "r": "ちゅう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{注意|ちゅうい}",
+      "en": "care, warning",
+      "lvl": 4
+     },
+     {
+      "w": "{注文|ちゅうもん}",
+      "en": "order (food, goods)",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "そそ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{注|そそ}ぐ",
+      "en": "to pour",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {注意|ちゅうい} (care, warning) and {注文|ちゅうもん} (order). The kun readings are rare at your level."
+ },
+ {
+  "kanji": "帰",
+  "readings": [
+   {
+    "r": "かえ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{帰|かえ}る",
+      "en": "to go home, return",
+      "lvl": 5
+     },
+     {
+      "w": "{帰|かえ}す",
+      "en": "to send (someone) home",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "き",
+    "type": "on",
+    "words": [
+     {
+      "w": "{帰国|きこく}",
+      "en": "returning to your country",
+      "lvl": 3
+     },
+     {
+      "w": "{帰宅|きたく}",
+      "en": "returning home",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "{帰|かえ}る (go home) is N5 and conjugates like a u verb: {帰|かえ}ります, {帰|かえ}って. Do not mix with {変|か}える (change)."
+ },
+ {
+  "kanji": "古",
+  "readings": [
+   {
+    "r": "ふる",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{古|ふる}い",
+      "en": "old (things)",
+      "lvl": 5
+     },
+     {
+      "w": "{古本|ふるほん}",
+      "en": "used book",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "こ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{中古|ちゅうこ}",
+      "en": "used, second hand",
+      "lvl": 2
+     },
+     {
+      "w": "{古代|こだい}",
+      "en": "ancient times",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {古|ふる}い (old, for things). Do not use {古|ふる}い for old people."
+ },
+ {
+  "kanji": "歌",
+  "readings": [
+   {
+    "r": "うた",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{歌|うた}",
+      "en": "song",
+      "lvl": 5
+     },
+     {
+      "w": "{歌|うた}う",
+      "en": "to sing",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "か",
+    "type": "on",
+    "words": [
+     {
+      "w": "{歌手|かしゅ}",
+      "en": "singer",
+      "lvl": 3
+     },
+     {
+      "w": "{国歌|こっか}",
+      "en": "national anthem",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {歌|うた} (song) and {歌|うた}う (to sing). か appears in {歌手|かしゅ} (singer)."
+ },
+ {
+  "kanji": "買",
+  "readings": [
+   {
+    "r": "か",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{買|か}う",
+      "en": "to buy",
+      "lvl": 5
+     },
+     {
+      "w": "{買|か}い{物|もの}",
+      "en": "shopping",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "ばい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{売買|ばいばい}",
+      "en": "buying and selling",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {買|か}う (to buy). The bottom part means money; {貸|か}す (lend) has it too."
+ },
+ {
+  "kanji": "悪",
+  "readings": [
+   {
+    "r": "わる",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{悪|わる}い",
+      "en": "bad",
+      "lvl": 5
+     },
+     {
+      "w": "{悪口|わるくち}",
+      "en": "speaking badly of someone",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "あく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{最悪|さいあく}",
+      "en": "the worst",
+      "lvl": 3
+     },
+     {
+      "w": "{悪|あく}",
+      "en": "evil",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {悪|わる}い (bad). あく appears in {最悪|さいあく} (the worst)."
+ },
+ {
+  "kanji": "図",
+  "readings": [
+   {
+    "r": "と",
+    "type": "on",
+    "words": [
+     {
+      "w": "{図書館|としょかん}",
+      "en": "library",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "ず",
+    "type": "on",
+    "words": [
+     {
+      "w": "{地図|ちず}",
+      "en": "map",
+      "lvl": 4
+     },
+     {
+      "w": "{図|ず}",
+      "en": "figure, diagram",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "Trap: {図書館|としょかん} uses と, not ず. {地図|ちず} (map) uses ず."
+ },
+ {
+  "kanji": "週",
+  "readings": [
+   {
+    "r": "しゅう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{毎週|まいしゅう}",
+      "en": "every week",
+      "lvl": 5
+     },
+     {
+      "w": "{来週|らいしゅう}",
+      "en": "next week",
+      "lvl": 5
+     },
+     {
+      "w": "{先週|せんしゅう}",
+      "en": "last week",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "Always しゅう: {毎週|まいしゅう}, {来週|らいしゅう}, {先週|せんしゅう}."
+ },
+ {
+  "kanji": "室",
+  "readings": [
+   {
+    "r": "しつ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{教室|きょうしつ}",
+      "en": "classroom",
+      "lvl": 5
+     },
+     {
+      "w": "{会議室|かいぎしつ}",
+      "en": "meeting room",
+      "lvl": 4
+     },
+     {
+      "w": "{和室|わしつ}",
+      "en": "Japanese style room",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Always しつ at your level: {教室|きょうしつ} (classroom)."
+ },
+ {
+  "kanji": "歩",
+  "readings": [
+   {
+    "r": "ある",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{歩|ある}く",
+      "en": "to walk",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "ほ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{散歩|さんぽ}",
+      "en": "a walk, stroll",
+      "lvl": 4
+     },
+     {
+      "w": "{一歩|いっぽ}",
+      "en": "one step",
+      "lvl": 3
+     },
+     {
+      "w": "{歩道|ほどう}",
+      "en": "pavement, sidewalk",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {歩|ある}く (to walk). In {散歩|さんぽ} and {一歩|いっぽ}, ほ becomes ぽ."
+ },
+ {
+  "kanji": "風",
+  "readings": [
+   {
+    "r": "かぜ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{風|かぜ}",
+      "en": "wind",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "ふ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{風呂|ふろ}",
+      "en": "bath",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "ふう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{台風|たいふう}",
+      "en": "typhoon",
+      "lvl": 4
+     },
+     {
+      "w": "{風景|ふうけい}",
+      "en": "scenery",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "{風|かぜ} alone is wind. Trap: {風邪|かぜ} (a cold) sounds the same. {風呂|ふろ} (bath) uses ふ."
+ },
+ {
+  "kanji": "紙",
+  "readings": [
+   {
+    "r": "かみ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{紙|かみ}",
+      "en": "paper",
+      "lvl": 5
+     },
+     {
+      "w": "{手紙|てがみ}",
+      "en": "letter (mail)",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "し",
+    "type": "on",
+    "words": [
+     {
+      "w": "{用紙|ようし}",
+      "en": "form, sheet of paper",
+      "lvl": 2
+     },
+     {
+      "w": "{和紙|わし}",
+      "en": "Japanese paper",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "{紙|かみ} alone is paper. In {手紙|てがみ} (letter) かみ becomes がみ."
+ },
+ {
+  "kanji": "黒",
+  "readings": [
+   {
+    "r": "くろ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{黒|くろ}い",
+      "en": "black",
+      "lvl": 5
+     },
+     {
+      "w": "{黒|くろ}",
+      "en": "black (colour)",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "こく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{黒板|こくばん}",
+      "en": "blackboard",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {黒|くろ}い (black). こく appears in {黒板|こくばん} (blackboard)."
+ },
+ {
+  "kanji": "花",
+  "readings": [
+   {
+    "r": "はな",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{花|はな}",
+      "en": "flower",
+      "lvl": 5
+     },
+     {
+      "w": "{花見|はなみ}",
+      "en": "cherry blossom viewing",
+      "lvl": 4
+     },
+     {
+      "w": "{花火|はなび}",
+      "en": "fireworks",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "か",
+    "type": "on",
+    "words": [
+     {
+      "w": "{花瓶|かびん}",
+      "en": "vase",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "{花|はな} (flower) is the key word. Trap: {鼻|はな} (nose) sounds the same."
+ },
+ {
+  "kanji": "春",
+  "readings": [
+   {
+    "r": "はる",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{春|はる}",
+      "en": "spring",
+      "lvl": 5
+     },
+     {
+      "w": "{春休|はるやす}み",
+      "en": "spring holiday",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "しゅん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{青春|せいしゅん}",
+      "en": "youth",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {春|はる} (spring). しゅん is rare at your level."
+ },
+ {
+  "kanji": "赤",
+  "readings": [
+   {
+    "r": "あか",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{赤|あか}い",
+      "en": "red",
+      "lvl": 5
+     },
+     {
+      "w": "{赤|あか}ちゃん",
+      "en": "baby",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "せき",
+    "type": "on",
+    "words": [
+     {
+      "w": "{赤道|せきどう}",
+      "en": "the equator",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {赤|あか}い (red) and {赤|あか}ちゃん (baby)."
+ },
+ {
+  "kanji": "青",
+  "readings": [
+   {
+    "r": "あお",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{青|あお}い",
+      "en": "blue",
+      "lvl": 5
+     },
+     {
+      "w": "{青|あお}",
+      "en": "blue (colour)",
+      "lvl": 4
+     },
+     {
+      "w": "{青信号|あおしんごう}",
+      "en": "green traffic light",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "せい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{青年|せいねん}",
+      "en": "young man, youth",
+      "lvl": 3
+     },
+     {
+      "w": "{青春|せいしゅん}",
+      "en": "youth (time of life)",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {青|あお}い (blue). It can also mean green: a green traffic light is {青信号|あおしんごう}."
+ },
+ {
+  "kanji": "館",
+  "readings": [
+   {
+    "r": "かん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{図書館|としょかん}",
+      "en": "library",
+      "lvl": 5
+     },
+     {
+      "w": "{映画館|えいがかん}",
+      "en": "cinema",
+      "lvl": 4
+     },
+     {
+      "w": "{旅館|りょかん}",
+      "en": "Japanese inn",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "Always かん, at the end of building words: {図書館|としょかん}, {映画館|えいがかん}."
+ },
+ {
+  "kanji": "屋",
+  "readings": [
+   {
+    "r": "や",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{部屋|へや}",
+      "en": "room",
+      "lvl": 5
+     },
+     {
+      "w": "{本屋|ほんや}",
+      "en": "bookshop",
+      "lvl": 5
+     },
+     {
+      "w": "{八百屋|やおや}",
+      "en": "greengrocer",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "おく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{屋上|おくじょう}",
+      "en": "rooftop",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "や is the key reading: {部屋|へや} (room) and shop words like {本屋|ほんや}. {屋上|おくじょう} uses おく."
+ },
+ {
+  "kanji": "色",
+  "readings": [
+   {
+    "r": "いろ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{色|いろ}",
+      "en": "colour",
+      "lvl": 5
+     },
+     {
+      "w": "{茶色|ちゃいろ}",
+      "en": "brown",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "しき",
+    "type": "on",
+    "words": [
+     {
+      "w": "{景色|けしき}",
+      "en": "scenery, view",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {色|いろ} (colour). Trap: {景色|けしき} (scenery) uses しき."
+ },
+ {
+  "kanji": "走",
+  "readings": [
+   {
+    "r": "はし",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{走|はし}る",
+      "en": "to run",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "そう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{競走|きょうそう}",
+      "en": "race (running)",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {走|はし}る (to run); it conjugates like a u verb: {走|はし}ります, {走|はし}って. You can see it inside {起|お}きる."
+ },
+ {
+  "kanji": "秋",
+  "readings": [
+   {
+    "r": "あき",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{秋|あき}",
+      "en": "autumn",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "しゅう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{春夏秋冬|しゅんかしゅうとう}",
+      "en": "the four seasons",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {秋|あき} (autumn). しゅう is rare at your level."
+ },
+ {
+  "kanji": "夏",
+  "readings": [
+   {
+    "r": "なつ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{夏|なつ}",
+      "en": "summer",
+      "lvl": 5
+     },
+     {
+      "w": "{夏休|なつやす}み",
+      "en": "summer holiday",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "か",
+    "type": "on",
+    "words": [
+     {
+      "w": "{初夏|しょか}",
+      "en": "early summer",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "げ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{夏至|げし}",
+      "en": "summer solstice",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {夏|なつ} (summer) and {夏休|なつやす}み. か and げ are rare at your level."
+ },
+ {
+  "kanji": "習",
+  "readings": [
+   {
+    "r": "なら",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{習|なら}う",
+      "en": "to learn, take lessons",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "しゅう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{練習|れんしゅう}",
+      "en": "practice",
+      "lvl": 4
+     },
+     {
+      "w": "{復習|ふくしゅう}",
+      "en": "review (of lessons)",
+      "lvl": 4
+     },
+     {
+      "w": "{習慣|しゅうかん}",
+      "en": "habit, custom",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {習|なら}う (to learn from someone) and {練習|れんしゅう} (practice)."
+ },
+ {
+  "kanji": "駅",
+  "readings": [
+   {
+    "r": "えき",
+    "type": "on",
+    "words": [
+     {
+      "w": "{駅|えき}",
+      "en": "station",
+      "lvl": 5
+     },
+     {
+      "w": "{駅前|えきまえ}",
+      "en": "in front of the station",
+      "lvl": 3
+     },
+     {
+      "w": "{駅員|えきいん}",
+      "en": "station staff",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "Always えき: {駅|えき} alone is station."
+ },
+ {
+  "kanji": "洋",
+  "readings": [
+   {
+    "r": "よう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{洋服|ようふく}",
+      "en": "clothes (Western style)",
+      "lvl": 4
+     },
+     {
+      "w": "{西洋|せいよう}",
+      "en": "the West",
+      "lvl": 3
+     },
+     {
+      "w": "{太平洋|たいへいよう}",
+      "en": "Pacific Ocean",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "よう often means Western: {洋服|ようふく} (clothes), {洋食|ようしょく} (Western food)."
+ },
+ {
+  "kanji": "旅",
+  "readings": [
+   {
+    "r": "りょ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{旅行|りょこう}",
+      "en": "trip, travel",
+      "lvl": 5
+     },
+     {
+      "w": "{旅館|りょかん}",
+      "en": "Japanese inn",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "たび",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{旅|たび}",
+      "en": "journey",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {旅行|りょこう} (trip). Do not confuse it with {家族|かぞく}: the second kanji looks alike."
+ },
+ {
+  "kanji": "服",
+  "readings": [
+   {
+    "r": "ふく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{服|ふく}",
+      "en": "clothes",
+      "lvl": 5
+     },
+     {
+      "w": "{洋服|ようふく}",
+      "en": "clothes (Western style)",
+      "lvl": 4
+     },
+     {
+      "w": "{制服|せいふく}",
+      "en": "uniform",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "Always ふく: {服|ふく} alone means clothes."
+ },
+ {
+  "kanji": "夕",
+  "readings": [
+   {
+    "r": "ゆう",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{夕|ゆう}べ",
+      "en": "last night; evening",
+      "lvl": 5
+     },
+     {
+      "w": "{夕方|ゆうがた}",
+      "en": "evening",
+      "lvl": 4
+     },
+     {
+      "w": "{夕飯|ゆうはん}",
+      "en": "dinner",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "special",
+    "type": "special",
+    "words": [
+     {
+      "w": "{七夕|たなばた}",
+      "en": "Star Festival (July 7)",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {夕方|ゆうがた} (evening). Special reading: {七夕|たなばた} (star festival)."
+ },
+ {
+  "kanji": "借",
+  "readings": [
+   {
+    "r": "か",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{借|か}りる",
+      "en": "to borrow",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "しゃく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{借金|しゃっきん}",
+      "en": "debt",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Trap: {借|か}りる is borrow, {貸|か}す is lend. In {借金|しゃっきん}, しゃく becomes しゃっ."
+ },
+ {
+  "kanji": "曜",
+  "readings": [
+   {
+    "r": "よう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{日曜日|にちようび}",
+      "en": "Sunday",
+      "lvl": 5
+     },
+     {
+      "w": "{月曜日|げつようび}",
+      "en": "Monday",
+      "lvl": 5
+     },
+     {
+      "w": "{曜日|ようび}",
+      "en": "day of the week",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "Always よう, in the days of the week: {日曜日|にちようび}."
+ },
+ {
+  "kanji": "飲",
+  "readings": [
+   {
+    "r": "の",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{飲|の}む",
+      "en": "to drink",
+      "lvl": 5
+     },
+     {
+      "w": "{飲|の}み{物|もの}",
+      "en": "a drink",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "いん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{飲食店|いんしょくてん}",
+      "en": "restaurant, eating place",
+      "lvl": 2
+     },
+     {
+      "w": "{飲料|いんりょう}",
+      "en": "beverage",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {飲|の}む (to drink; also to take medicine). いん appears in harder words."
+ },
+ {
+  "kanji": "肉",
+  "readings": [
+   {
+    "r": "にく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{肉|にく}",
+      "en": "meat",
+      "lvl": 5
+     },
+     {
+      "w": "{牛肉|ぎゅうにく}",
+      "en": "beef",
+      "lvl": 4
+     },
+     {
+      "w": "{豚肉|ぶたにく}",
+      "en": "pork",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "にく is an on reading but is used alone: {肉|にく} (meat)."
+ },
+ {
+  "kanji": "貸",
+  "readings": [
+   {
+    "r": "か",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{貸|か}す",
+      "en": "to lend",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "たい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{賃貸|ちんたい}",
+      "en": "renting (out)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Trap: {貸|か}す is lend, {借|か}りる is borrow. Both are か."
+ },
+ {
+  "kanji": "堂",
+  "readings": [
+   {
+    "r": "どう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{食堂|しょくどう}",
+      "en": "canteen, dining hall",
+      "lvl": 5
+     },
+     {
+      "w": "{講堂|こうどう}",
+      "en": "lecture hall",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "Always どう: {食堂|しょくどう} (canteen, dining hall)."
+ },
+ {
+  "kanji": "鳥",
+  "readings": [
+   {
+    "r": "とり",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{鳥|とり}",
+      "en": "bird",
+      "lvl": 5
+     },
+     {
+      "w": "{小鳥|ことり}",
+      "en": "small bird",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "ちょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{白鳥|はくちょう}",
+      "en": "swan",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {鳥|とり} (bird). Do not confuse it with {島|しま} (island)."
+ },
+ {
+  "kanji": "飯",
+  "readings": [
+   {
+    "r": "はん",
+    "type": "on",
+    "words": [
+     {
+      "w": "ご{飯|はん}",
+      "en": "cooked rice, meal",
+      "lvl": 5
+     },
+     {
+      "w": "{朝|あさ}ご{飯|はん}",
+      "en": "breakfast",
+      "lvl": 5
+     },
+     {
+      "w": "{晩|ばん}ご{飯|はん}",
+      "en": "dinner",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "めし",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{飯|めし}",
+      "en": "meal (casual)",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "はん is the key reading: ご{飯|はん} (rice, meal). {飯|めし} is casual, mostly used by men."
+ },
+ {
+  "kanji": "勉",
+  "readings": [
+   {
+    "r": "べん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{勉強|べんきょう}",
+      "en": "study",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "Learn it inside {勉強|べんきょう} (study)."
+ },
+ {
+  "kanji": "冬",
+  "readings": [
+   {
+    "r": "ふゆ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{冬|ふゆ}",
+      "en": "winter",
+      "lvl": 5
+     },
+     {
+      "w": "{冬休|ふゆやす}み",
+      "en": "winter holiday",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "とう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{冬眠|とうみん}",
+      "en": "hibernation",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {冬|ふゆ} (winter). とう is rare at your level."
+ },
+ {
+  "kanji": "昼",
+  "readings": [
+   {
+    "r": "ひる",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{昼|ひる}",
+      "en": "noon, daytime",
+      "lvl": 5
+     },
+     {
+      "w": "{昼|ひる}ご{飯|はん}",
+      "en": "lunch",
+      "lvl": 5
+     },
+     {
+      "w": "{昼休|ひるやす}み",
+      "en": "lunch break",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "ちゅう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{昼食|ちゅうしょく}",
+      "en": "lunch (formal)",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {昼|ひる} (noon, daytime) and {昼|ひる}ご{飯|はん} (lunch). Do not confuse it with {書|か}く: they look alike."
+ },
+ {
+  "kanji": "茶",
+  "readings": [
+   {
+    "r": "ちゃ",
+    "type": "on",
+    "words": [
+     {
+      "w": "お{茶|ちゃ}",
+      "en": "tea",
+      "lvl": 5
+     },
+     {
+      "w": "{茶色|ちゃいろ}",
+      "en": "brown",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "さ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{喫茶店|きっさてん}",
+      "en": "cafe",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "Mostly ちゃ: お{茶|ちゃ}, {茶色|ちゃいろ}. Trap: {喫茶店|きっさてん} uses さ."
+ },
+ {
+  "kanji": "弟",
+  "readings": [
+   {
+    "r": "おとうと",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{弟|おとうと}",
+      "en": "younger brother",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "だい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{兄弟|きょうだい}",
+      "en": "siblings, brothers",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "で",
+    "type": "on",
+    "words": [
+     {
+      "w": "{弟子|でし}",
+      "en": "pupil, apprentice",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {弟|おとうと} (younger brother) and {兄弟|きょうだい} (brothers, siblings), where it reads だい."
+ },
+ {
+  "kanji": "牛",
+  "readings": [
+   {
+    "r": "うし",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{牛|うし}",
+      "en": "cow",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "ぎゅう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{牛乳|ぎゅうにゅう}",
+      "en": "milk",
+      "lvl": 5
+     },
+     {
+      "w": "{牛肉|ぎゅうにく}",
+      "en": "beef",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {牛|うし} (cow) and {牛乳|ぎゅうにゅう} (milk)."
+ },
+ {
+  "kanji": "魚",
+  "readings": [
+   {
+    "r": "さかな",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{魚|さかな}",
+      "en": "fish",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "ぎょ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{金魚|きんぎょ}",
+      "en": "goldfish",
+      "lvl": 3
+     },
+     {
+      "w": "{人魚|にんぎょ}",
+      "en": "mermaid",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {魚|さかな} (fish). ぎょ appears in {金魚|きんぎょ} (goldfish)."
+ },
+ {
+  "kanji": "兄",
+  "readings": [
+   {
+    "r": "あに",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{兄|あに}",
+      "en": "(my) older brother",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "special",
+    "type": "special",
+    "words": [
+     {
+      "w": "お{兄|にい}さん",
+      "en": "older brother (polite)",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "きょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{兄弟|きょうだい}",
+      "en": "siblings, brothers",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "{兄|あに} is your own older brother; お{兄|にい}さん is polite or someone else's. {兄弟|きょうだい} uses きょう."
+ },
+ {
+  "kanji": "犬",
+  "readings": [
+   {
+    "r": "いぬ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{犬|いぬ}",
+      "en": "dog",
+      "lvl": 5
+     },
+     {
+      "w": "{子犬|こいぬ}",
+      "en": "puppy",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "けん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{番犬|ばんけん}",
+      "en": "guard dog",
+      "lvl": 1
+     },
+     {
+      "w": "{盲導犬|もうどうけん}",
+      "en": "guide dog",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {犬|いぬ} (dog). Do not confuse it with {大|おお}きい or {太|ふと}い: only the dot differs."
+ },
+ {
+  "kanji": "妹",
+  "readings": [
+   {
+    "r": "いもうと",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{妹|いもうと}",
+      "en": "younger sister",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "まい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{姉妹|しまい}",
+      "en": "sisters",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {妹|いもうと} (younger sister). Do not confuse it with {味|あじ}: they look alike."
+ },
+ {
+  "kanji": "姉",
+  "readings": [
+   {
+    "r": "あね",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{姉|あね}",
+      "en": "(my) older sister",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "special",
+    "type": "special",
+    "words": [
+     {
+      "w": "お{姉|ねえ}さん",
+      "en": "older sister (polite)",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "し",
+    "type": "on",
+    "words": [
+     {
+      "w": "{姉妹|しまい}",
+      "en": "sisters",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "{姉|あね} is your own older sister; お{姉|ねえ}さん is polite or someone else's."
+ },
+ {
+  "kanji": "漢",
+  "readings": [
+   {
+    "r": "かん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{漢字|かんじ}",
+      "en": "kanji",
+      "lvl": 5
+     },
+     {
+      "w": "{漢方|かんぽう}",
+      "en": "Chinese herbal medicine",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn it inside {漢字|かんじ}."
+ }
+]

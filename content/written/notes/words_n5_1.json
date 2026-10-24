@@ -1,0 +1,754 @@
+[
+ {
+  "id": "v5-0358",
+  "hook": "Sweep (掃) and remove (除) the dirt: that is cleaning."
+ },
+ {
+  "id": "v5-0064",
+  "hook": "犬 is 大 (big) with a dot, like a dog's ear. \"Eee-noo!\" the dog barks."
+ },
+ {
+  "id": "v5-0148",
+  "hook": "買 has 貝 (shell, old money) at the bottom: you pay shells to buy. \"Ka-ching\" sounds like かう."
+ },
+ {
+  "id": "v5-0392",
+  "hook": "食 is a lid over a food bowl. \"Tah-bay!\" you say as you sit down to eat."
+ },
+ {
+  "id": "v5-0641",
+  "hook": "Three (三) days (日), or the 3rd of the month. Say \"mikka\", not \"san nichi\"."
+ },
+ {
+  "id": "v5-0703",
+  "hook": "Cold (冷) storage (蔵) building (庫): the box that keeps food cold, a fridge."
+ },
+ {
+  "id": "v5-0508",
+  "hook": "猫 has the animal side 犭 plus 苗. A cat says \"meow\", the Japanese cat is \"ne-ko\"."
+ },
+ {
+  "id": "v5-0319",
+  "hook": "丈夫 is a tall (丈) grown man (夫): strong and solid, hard to break."
+ },
+ {
+  "id": "v5-0290",
+  "hook": "時 is sun (日) plus temple (寺): the temple bell tells the time. 3時 is three o'clock."
+ },
+ {
+  "id": "v5-0453",
+  "hook": "Same 時 (time) read とき: \"at the time when\", like 子どもの時 (when I was a child)."
+ },
+ {
+  "id": "v5-0122",
+  "hook": "A big (大) person (人): an adult. Special reading: おとな."
+ },
+ {
+  "id": "v5-0296",
+  "hook": "A book (書) of words (辞): a dictionary."
+ },
+ {
+  "id": "v5-0396",
+  "hook": "The day (日) you were born (誕 and 生 both mean birth): your birthday."
+ },
+ {
+  "id": "v5-0675",
+  "hook": "夕 is evening, 方 is direction or time: the evening side of the day, late afternoon."
+ },
+ {
+  "id": "v5-0314",
+  "hook": "中 (middle) read じゅう means all through: 一日中 is the whole day long."
+ },
+ {
+  "id": "v5-0408",
+  "hook": "中 (middle) read ちゅう means in the middle of doing: 食事中 is during a meal."
+ },
+ {
+  "id": "v5-0019",
+  "hook": "頭 has 頁 (head) on the right. \"A tama\" (a ball) sits on your shoulders: your head."
+ },
+ {
+  "id": "v5-0028",
+  "hook": "兄 is a big mouth (口) on legs (儿): the older brother who talks loudly. \"Ani\" = big bro."
+ },
+ {
+  "id": "v5-0004",
+  "hook": "赤 grew from big (大) plus fire (火): the red of a big fire. \"Aka\" like a red \"ah, car!\""
+ },
+ {
+  "id": "v5-0138",
+  "hook": "Sound (音) that is fun (楽): music."
+ },
+ {
+  "id": "v5-0300",
+  "hook": "質 is quality or nature, 問 is to ask: asking about the nature of something, a question."
+ },
+ {
+  "id": "v5-0377",
+  "hook": "A big (大) change (変): very much, or a hard, terrible situation."
+ },
+ {
+  "id": "v5-0412",
+  "hook": "使 has a person (亻) on the left: a person you send to do a job, so to use."
+ },
+ {
+  "id": "v5-0680",
+  "hook": "雪 has rain (雨) on top: rain that falls frozen is snow. \"You key\" in the snow."
+ },
+ {
+  "id": "v5-0147",
+  "hook": "Buy (買い) things (物): shopping."
+ },
+ {
+  "id": "v5-0323",
+  "hook": "白 is the sun (日) with a ray of light on top: bright white. \"Shiro\" sounds like \"show\" white."
+ },
+ {
+  "id": "v5-0373",
+  "hook": "A big (大) strong man (丈夫) says: it's fine, I'm OK."
+ },
+ {
+  "id": "v5-0207",
+  "hook": "嫌 has woman (女) on the left. \"Kill ray!\" you shout at something you hate."
+ },
+ {
+  "id": "v5-0376",
+  "hook": "The stand (台) place (所) in the house where you cook: the kitchen."
+ },
+ {
+  "id": "v5-0395",
+  "hook": "誰 means who, plus か (some): \"who-some\", someone."
+ },
+ {
+  "id": "v5-0616",
+  "hook": "Every (毎) week (週)."
+ },
+ {
+  "id": "v5-0689",
+  "hook": "読 has words (言) on the left: you take in words when you read. \"Yo, moo!\" says a cow reading a book."
+ },
+ {
+  "id": "v5-0621",
+  "hook": "前 means front or before: 駅の前 is in front of the station."
+ },
+ {
+  "id": "v5-0005",
+  "hook": "赤 (red, from big fire) plus い makes the adjective: red."
+ },
+ {
+  "id": "v5-0002",
+  "hook": "青 has life (生) on top: the blue green of young plants. \"Ao\" like a blue \"ah, oh\" sky."
+ },
+ {
+  "id": "v5-0572",
+  "hook": "昼 has the sun (日) in it: the time when the sun is highest, noon and daytime."
+ },
+ {
+  "id": "v5-0599",
+  "hook": "便 is handy or transport, 利 is benefit: easy to use and useful, convenient."
+ },
+ {
+  "id": "v5-0580",
+  "hook": "服 means clothes. \"Fuku\": you fold your fuku (clothes) every night."
+ },
+ {
+  "id": "v5-0003",
+  "hook": "青 (blue, green of young plants) plus い makes the adjective: blue."
+ },
+ {
+  "id": "v5-0107",
+  "hook": "酒 has water (氵) and a jar (酉): liquid from a jar, sake. お makes it polite."
+ },
+ {
+  "id": "v5-0422",
+  "hook": "強 has a bow (弓) on the left: pull a bow hard, strong. \"Tsuyoi\" sounds tough."
+ },
+ {
+  "id": "v5-0568",
+  "hook": "百 is one (一) on top of white (白): hundred. \"Hyaku!\" like a big cheer for 100."
+ },
+ {
+  "id": "v5-0073",
+  "hook": "色 is color. \"Iro\" sounds like \"I roll\" paint of every color."
+ },
+ {
+  "id": "v5-0276",
+  "hook": "魚 is a picture of a fish: head, body with scales, and tail (灬). \"Saka-na\" swims in the sea."
+ },
+ {
+  "id": "v5-0299",
+  "hook": "七 looks like an upside down 7 with a cross. \"Shichi\" (seven), also なな."
+ },
+ {
+  "id": "v5-0116",
+  "hook": "父 (father) with polite お and さん: your dad, said with respect."
+ },
+ {
+  "id": "v5-0140",
+  "hook": "A child (子) who is a woman (女): a girl."
+ },
+ {
+  "id": "v5-0327",
+  "hook": "Water (水) day (曜日): Wednesday, named after the water planet Mercury."
+ },
+ {
+  "id": "v5-0546",
+  "hook": "晴 has the sun (日) next to blue (青): sun in a blue sky, clear weather."
+ },
+ {
+  "id": "v5-0587",
+  "hook": "降 means to come down: rain and snow come down, they fall. \"Fu-ru\" like falling rain."
+ },
+ {
+  "id": "v5-0524",
+  "hook": "箱 has bamboo (竹) on top: a box made of bamboo. \"Hako\" sounds like \"hack open\" the box."
+ },
+ {
+  "id": "v5-0416",
+  "hook": "机 has tree (木) on the left: a wooden desk. \"Tsukue\" is where you sit and work."
+ },
+ {
+  "id": "v5-0009",
+  "hook": "開 shows two doors (門) being pushed open. You open (あける) something yourself."
+ },
+ {
+  "id": "v5-0054",
+  "hook": "忙 is heart (忄) plus lose (亡): so busy you lose your heart. \"Isogashii\" = so busy."
+ },
+ {
+  "id": "v5-0076",
+  "hook": "後 means behind or after. \"Ushiro\": the place at your back."
+ },
+ {
+  "id": "v5-0159",
+  "hook": "傘 is a picture of an umbrella: a cover with people (人) under it. \"Kasa\" keeps you dry."
+ },
+ {
+  "id": "v5-0592",
+  "hook": "Lower (下) hand (手): your hand skill is low, you are bad at it. Special reading へた."
+ },
+ {
+  "id": "v5-0671",
+  "hook": "休 is a person (亻) leaning on a tree (木): taking a rest."
+ },
+ {
+  "id": "v5-0510",
+  "hook": "年 means year: 三年 is three years. \"Nen\" counts years."
+ },
+ {
+  "id": "v5-0086",
+  "hook": "絵 has thread (糸) on the left, like an old picture woven in cloth: a picture. Just \"e\"."
+ },
+ {
+  "id": "v5-0435",
+  "hook": "出 looks like a plant coming out of a box: to go out, to leave, to appear. \"Deru\" = exit."
+ },
+ {
+  "id": "v5-0464",
+  "hook": "隣 means next to. \"Tonari\" sounds like \"to nearly\" touch: the one right next door."
+ },
+ {
+  "id": "v5-0548",
+  "hook": "半 is a thing cut down the middle: half. 二時半 is half past two."
+ },
+ {
+  "id": "v5-0589",
+  "hook": "分 is a knife (刀) dividing: an hour divided into minutes. Sound changes: 一分 いっぷん, 三分 さんぷん."
+ },
+ {
+  "id": "v5-0255",
+  "hook": "Before (前) noon (午): morning, A.M."
+ },
+ {
+  "id": "v5-0355",
+  "hook": "洗 (wash) and 濯 (rinse), both with water (氵): washing clothes, the laundry."
+ },
+ {
+  "id": "v5-0374",
+  "hook": "Big (大) like (好き): to like something very much, to love it."
+ },
+ {
+  "id": "v5-0472",
+  "hook": "取 is an ear (耳) and a hand (又): in old wars soldiers took ears. To take or get."
+ },
+ {
+  "id": "v5-0216",
+  "hook": "薬 is grass (艹) over fun or ease (楽): plants that make you feel better, medicine."
+ },
+ {
+  "id": "v5-0001",
+  "hook": "会 means to meet: people come together under one roof. \"Au\": \"ow!\" when you bump into a friend."
+ },
+ {
+  "id": "v5-0106",
+  "hook": "奥 means the inside, the back of the house: the wife who runs the inner house. Polite さん."
+ },
+ {
+  "id": "v5-0143",
+  "hook": "Outside (外) country (国): a foreign country, abroad."
+ },
+ {
+  "id": "v5-0535",
+  "hook": "八 is two lines spreading apart, like eight's shape opening. \"Hachi\" (eight)."
+ },
+ {
+  "id": "v5-0400",
+  "hook": "近 has the moving road part (辶): only a short walk away, near. \"Chikai\" = close."
+ },
+ {
+  "id": "v5-0448",
+  "hook": "A moving (動) thing (物): an animal."
+ },
+ {
+  "id": "v5-0231",
+  "hook": "黒 has fire (灬) at the bottom: the black soot over a fire. \"Kuro\" like a black crow."
+ },
+ {
+  "id": "v5-0119",
+  "hook": "A child (子) who is a man (男): a boy. 男 is field (田) plus power (力)."
+ },
+ {
+  "id": "v5-0202",
+  "hook": "Cow (牛) milk (乳): milk."
+ },
+ {
+  "id": "v5-0391",
+  "hook": "Eat (食べ) things (物): food."
+ },
+ {
+  "id": "v5-0415",
+  "hook": "着 means to arrive or to wear. \"Tsuku\": the train arrives at the station."
+ },
+ {
+  "id": "v5-0176",
+  "hook": "Fire (火) day (曜日): Tuesday, named after the fire planet Mars."
+ },
+ {
+  "id": "v5-0345",
+  "hook": "生 (life, a young one) plus 徒 (follower): a young follower who learns, a pupil."
+ },
+ {
+  "id": "v5-0353",
+  "hook": "The week (週) before (先): last week."
+ },
+ {
+  "id": "v5-0387",
+  "hook": "楽 means fun or ease (also in 音楽, music). \"Tanoshii\": fun times!"
+ },
+ {
+  "id": "v5-0514",
+  "hook": "飲 has food (食) on the left plus 欠 (open mouth): to drink. \"Nomu nomu\" as you gulp."
+ },
+ {
+  "id": "v5-0542",
+  "hook": "早 is the sun (日) just over the horizon (十): early morning, early."
+ },
+ {
+  "id": "v5-0200",
+  "hook": "九 is nine. \"Kyuu\" sounds like the letter Q: Q is nine."
+ },
+ {
+  "id": "v5-0215",
+  "hook": "九 (nine) read く: used in 九時 (9 o'clock) and 九月 (September)."
+ },
+ {
+  "id": "v5-0234",
+  "hook": "This (今) morning (朝): this morning. Special reading けさ."
+ },
+ {
+  "id": "v5-0341",
+  "hook": "住 is a person (亻) plus master (主): the person who is master of a house lives there."
+ },
+ {
+  "id": "v5-0352",
+  "hook": "The month (月) before (先): last month."
+ },
+ {
+  "id": "v5-0404",
+  "hook": "Ground (地) drawing (図): a map. Read ち here, not じ."
+ },
+ {
+  "id": "v5-0421",
+  "hook": "冷 has ice (冫) on the left: cold to touch. \"Tsumetai\" like ice in a drink."
+ },
+ {
+  "id": "v5-0618",
+  "hook": "Every (毎) year (年): yearly. Both まいねん and まいとし are fine."
+ },
+ {
+  "id": "v5-0503",
+  "hook": "庭 has a roof part (广): the open ground by a house, a garden. \"Niwa\" for nice flowers."
+ },
+ {
+  "id": "v5-0708",
+  "hook": "六 looks like a little person with a hat and two legs. \"Roku\": six rocks."
+ },
+ {
+  "id": "v5-0034",
+  "hook": "甘 is a mouth holding something (the line inside) to taste: sweet. \"Amai\": \"ah, my!\" so sweet."
+ },
+ {
+  "id": "v5-0133",
+  "hook": "重 means heavy (also in 体重, body weight). \"Omoi\": \"oh, my!\" this bag is heavy."
+ },
+ {
+  "id": "v5-0239",
+  "hook": "玄 (deep, dark) plus 関 (gate, barrier): the gate area where you take off shoes, the entrance."
+ },
+ {
+  "id": "v5-0401",
+  "hook": "違 has the road part (辶): going a different way, so different or wrong. \"Chigau\": nope!"
+ },
+ {
+  "id": "v5-0513",
+  "hook": "Drink (飲み) things (物): drinks."
+ },
+ {
+  "id": "v5-0515",
+  "hook": "乗 means to ride or get on. \"Noru\": \"no room\" on the train, but you get on anyway."
+ },
+ {
+  "id": "v5-0555",
+  "hook": "Half (半) part (分): half."
+ },
+ {
+  "id": "v5-0677",
+  "hook": "Mail (郵便) office (局): the post office."
+ },
+ {
+  "id": "v5-0067",
+  "hook": "妹 is woman (女) plus not yet (未): a girl not yet grown, your younger sister."
+ },
+ {
+  "id": "v5-0153",
+  "hook": "鍵 has metal (金) on the left: a metal key. \"Kagi\": the key goes \"ka-gi\" in the lock."
+ },
+ {
+  "id": "v5-0220",
+  "hook": "靴 has leather (革) on the left: leather shoes. \"Kutsu\": put your shoes on."
+ },
+ {
+  "id": "v5-0586",
+  "hook": "冬 has two ice drops (⺀) at the bottom: the icy season, winter. \"Fuyu\": \"phew, cold!\""
+ },
+ {
+  "id": "v5-0198",
+  "hook": "切 (cut) plus 符 (tag, sign): a tag cut and stamped at the gate, a ticket."
+ },
+ {
+  "id": "v5-0166",
+  "hook": "月 (moon, month) read がつ for names of months: 一月 is January."
+ },
+ {
+  "id": "v5-0072",
+  "hook": "入 means to enter: make something enter, to put it in."
+ },
+ {
+  "id": "v5-0102",
+  "hook": "菓 has grass (艹) and fruit (果): long ago sweets were fruit. お菓子 are sweets."
+ },
+ {
+  "id": "v5-0307",
+  "hook": "閉 is a door (門) with a bar (才) inside: shut it. You close (しめる) something yourself."
+ },
+ {
+  "id": "v5-0553",
+  "hook": "番 (number in order, turn) plus 号 (sign, number): a number."
+ },
+ {
+  "id": "v5-0636",
+  "hook": "短 has an arrow (矢) on the left: an arrow is short. \"Mijikai\": too short."
+ },
+ {
+  "id": "v5-0068",
+  "hook": "嫌 is the same kanji as in 嫌い (dislike). \"Iya!\" is what you shout: no, I hate it!"
+ },
+ {
+  "id": "v5-0665",
+  "hook": "屋 means house or roof: a shop. 本屋 is a book shop, パン屋 a bakery."
+ },
+ {
+  "id": "v5-0041",
+  "hook": "歩 is stop or foot (止) over a second foot: one foot after the other, walking."
+ },
+ {
+  "id": "v5-0451",
+  "hook": "遠 has the road part (辶): a long road, far. \"Tooi\": so far you need two (too) days."
+ },
+ {
+  "id": "v5-0576",
+  "hook": "封 (seal) plus 筒 (tube, case): a sealed paper case, an envelope."
+ },
+ {
+  "id": "v5-0243",
+  "hook": "語 has words (言) on the left: words, language. 日本語 is Japanese."
+ },
+ {
+  "id": "v5-0111",
+  "hook": "教 means teach (also in 教室, classroom). \"Oshieru\": she shows you how."
+ },
+ {
+  "id": "v5-0129",
+  "hook": "風 is wind: steam blows like wind off a hot bath. お風呂 is the bath."
+ },
+ {
+  "id": "v5-0344",
+  "hook": "背 is flesh (月) under 北 (two people back to back): your back, then your height. \"Sei\"."
+ },
+ {
+  "id": "v5-0561",
+  "hook": "飛 (fly) + 行 (go) + 機 (machine): a machine that goes flying, an airplane."
+ },
+ {
+  "id": "v5-0650",
+  "hook": "向 means to face: the place you face, over there on the other side."
+ },
+ {
+  "id": "v5-0497",
+  "hook": "肉 is a picture of meat with lines of fat. \"Niku\": meat."
+ },
+ {
+  "id": "v5-0685",
+  "hook": "横 has tree (木) on the left: a tree branch goes out sideways. \"Yoko\" is the side."
+ },
+ {
+  "id": "v5-0008",
+  "hook": "開 shows two doors (門) opening. あく: the door opens by itself (no object)."
+ },
+ {
+  "id": "v5-0033",
+  "hook": "危 shows a person crouching on a cliff edge: dangerous! \"Abunai!\" means look out!"
+ },
+ {
+  "id": "v5-0177",
+  "hook": "辛 is a needle for punishment: painful, so spicy hot. \"Karai\": like hot curry."
+ },
+ {
+  "id": "v5-0600",
+  "hook": "帽 has cloth (巾) on the left: a cloth cover for the head, a hat."
+ },
+ {
+  "id": "v5-0007",
+  "hook": "秋 is rice plant (禾) plus fire (火): fields burn red and gold at harvest, autumn."
+ },
+ {
+  "id": "v5-0104",
+  "hook": "起 has run (走) on the left: you jump up and get going, to get up."
+ },
+ {
+  "id": "v5-0225",
+  "hook": "暗 has the sun (日) on the left plus sound (音): you hear but can't see the sun, dark."
+ },
+ {
+  "id": "v5-0272",
+  "hook": "This (今) evening (晩): tonight. こんばんは means good evening."
+ },
+ {
+  "id": "v5-0279",
+  "hook": "Make (作) writing (文): an essay or composition."
+ },
+ {
+  "id": "v5-0282",
+  "hook": "雑 (mixed, all sorts) plus 誌 (record, magazine): a book of mixed stories, a magazine."
+ },
+ {
+  "id": "v5-0349",
+  "hook": "狭 means narrow. \"Semai\": \"say, my!\" this room is so small."
+ },
+ {
+  "id": "v5-0407",
+  "hook": "茶 (tea) plus 碗 (bowl, with stone 石): a tea bowl, now the rice bowl."
+ },
+ {
+  "id": "v5-0527",
+  "hook": "始 has woman (女) on the left: life begins with a woman, so to begin."
+ },
+ {
+  "id": "v5-0615",
+  "hook": "Every (毎) month (月): monthly. Both まいつき and まいげつ are used."
+ },
+ {
+  "id": "v5-0639",
+  "hook": "見 means to see: make someone see something, to show it."
+ },
+ {
+  "id": "v5-0699",
+  "hook": "Both (両) parents (親): your mother and father."
+ },
+ {
+  "id": "v5-0294",
+  "hook": "時間 is time (時) span (間): 二時間 is two hours of time. 二時 is just two o'clock."
+ },
+ {
+  "id": "v5-0525",
+  "hook": "橋 has tree (木) on the left: a wooden bridge. Careful: 箸 (chopsticks) is also はし."
+ },
+ {
+  "id": "v5-0105",
+  "hook": "置 has a net (罒) on top: put it down and leave it there. \"Oku\": put it, OK?"
+ },
+ {
+  "id": "v5-0269",
+  "hook": "This (今) month (月)."
+ },
+ {
+  "id": "v5-0270",
+  "hook": "This (今) week (週)."
+ },
+ {
+  "id": "v5-0283",
+  "hook": "砂 (sand) plus 糖 (sugar): sugar looks like white sand. \"Satou\"."
+ },
+ {
+  "id": "v5-0332",
+  "hook": "少 means few or a little (also in 少し). \"Sukunai\": not many."
+ },
+ {
+  "id": "v5-0386",
+  "hook": "Built (建て) thing (物): a building."
+ },
+ {
+  "id": "v5-0574",
+  "hook": "広 is a roof part (广) over a wide open space: wide, spacious. \"Hiroi\": a huge room."
+ },
+ {
+  "id": "v5-0590",
+  "hook": "文 (writing) plus 章 (section, chapter): a piece of writing, a sentence or text."
+ },
+ {
+  "id": "v5-0351",
+  "hook": "千 is ten (十) with a stroke on top: thousand. \"Sen\": a thousand cents."
+ },
+ {
+  "id": "v5-0635",
+  "hook": "右 is a hand over a mouth (口): the hand you eat with, the right. \"Migi\"."
+ },
+ {
+  "id": "v5-0442",
+  "hook": "度 means degree or times: 三度 is three times, or 3 degrees."
+ },
+ {
+  "id": "v5-0023",
+  "hook": "熱 has fire (灬) at the bottom: hot to touch, also fever (熱). \"Atsui\": ouch, hot!"
+ },
+ {
+  "id": "v5-0123",
+  "hook": "腹 has flesh (月) on the left: a body part, the stomach. Polite お plus なか (inside)."
+ },
+ {
+  "id": "v5-0322",
+  "hook": "知 is arrow (矢) plus mouth (口): words as fast and sure as an arrow, to know."
+ },
+ {
+  "id": "v5-0543",
+  "hook": "速 has the road part (辶): moving fast on the road. Not 早い (early)."
+ },
+ {
+  "id": "v5-0627",
+  "hook": "待 has a street (彳) plus temple (寺): wait in the street by the temple. \"Matsu\"."
+ },
+ {
+  "id": "v5-0642",
+  "hook": "三 (three) plus つ: three things. Say みっつ, like 三日 みっか."
+ },
+ {
+  "id": "v5-0644",
+  "hook": "皆 means all: everyone, said politely with さん."
+ },
+ {
+  "id": "v5-0193",
+  "hook": "北 is two people sitting back to back: they turn their backs on the cold north."
+ },
+ {
+  "id": "v5-0029",
+  "hook": "姉 has woman (女) on the left: the woman who came first, your older sister. \"Ane\"."
+ },
+ {
+  "id": "v5-0144",
+  "hook": "Outside (外) country (国) person (人): a foreigner."
+ },
+ {
+  "id": "v5-0197",
+  "hook": "切 (cut) plus 手: a small cut piece of paper you stick on letters, a stamp. Sound change: きって."
+ },
+ {
+  "id": "v5-0205",
+  "hook": "Older brother (兄) plus younger brother (弟): brothers and sisters."
+ },
+ {
+  "id": "v5-0208",
+  "hook": "切 has a knife (刀) on the right: to cut. \"Kiru\": the knife kills the string."
+ },
+ {
+  "id": "v5-0218",
+  "hook": "果 (fruit) plus 物 (thing): fruit. Special reading くだもの."
+ },
+ {
+  "id": "v5-0232",
+  "hook": "黒 (black, soot over fire) plus い makes the adjective: black, dark."
+ },
+ {
+  "id": "v5-0246",
+  "hook": "Red (紅) tea (茶): Japanese call black tea red tea, from its color."
+ },
+ {
+  "id": "v5-0384",
+  "hook": "立 is a person standing on the ground with arms out: to stand. \"Tatsu\"."
+ },
+ {
+  "id": "v5-0406",
+  "hook": "Tea (茶) color (色): brown, the color of tea."
+ },
+ {
+  "id": "v5-0547",
+  "hook": "晴 is the sun (日) in a blue (青) sky: to clear up, to be sunny."
+ },
+ {
+  "id": "v5-0584",
+  "hook": "Two (二) days (日), or the 2nd of the month. Special reading ふつか."
+ },
+ {
+  "id": "v5-0698",
+  "hook": "留 (stay) + 学 (study) + 生 (student): a student who stays abroad to study."
+ },
+ {
+  "id": "v5-0393",
+  "hook": "卵 looks like two eggs side by side. \"Tamago\": egg."
+ },
+ {
+  "id": "v5-0470",
+  "hook": "鳥 is a picture of a bird with feet (灬) at the bottom: bird, and chicken meat."
+ },
+ {
+  "id": "v5-0550",
+  "hook": "番 means number in order: 一番 is number one, the best."
+ },
+ {
+  "id": "v5-0108",
+  "hook": "皿 is a picture of a plate or dish seen from the side. Polite お."
+ },
+ {
+  "id": "v5-0113",
+  "hook": "遅 has the road part (辶): slow on the road, so late. \"Osoi\"."
+ },
+ {
+  "id": "v5-0131",
+  "hook": "覚 has see (見) at the bottom: what you see, you remember. \"Oboeru\"."
+ },
+ {
+  "id": "v5-0149",
+  "hook": "返 has the road part (辶): send it back on the road, to return it. \"Kaesu\"."
+ },
+ {
+  "id": "v5-0189",
+  "hook": "Yellow (黄) color (色): yellow. 黄 read き here."
+ },
+ {
+  "id": "v5-0632",
+  "hook": "万 means ten thousand. \"Man\": a rich man has 万 yen."
+ },
+ {
+  "id": "v5-0646",
+  "hook": "耳 is a picture of an ear. \"Mimi\": \"me, me\", I can hear you."
+ }
+]

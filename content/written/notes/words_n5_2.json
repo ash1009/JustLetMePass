@@ -1,0 +1,750 @@
+[
+ {
+  "id": "v5-0687",
+  "hook": "四 is four: count four things and shout 'Yo!' (よ), よっつ."
+ },
+ {
+  "id": "v5-0291",
+  "hook": "塩 is salt: 'Show (しお) me the salt,' you say at dinner."
+ },
+ {
+  "id": "v5-0516",
+  "hook": "歯 is tooth: say 'Ha!' (は) and show your teeth."
+ },
+ {
+  "id": "v5-0441",
+  "hook": "戸 is a door: knock on the door with your toe (と)."
+ },
+ {
+  "id": "v5-0006",
+  "hook": "明 joins sun (日) and moon (月): with both shining, everything is bright."
+ },
+ {
+  "id": "v5-0069",
+  "hook": "Enter (入) + mouth (口): the mouth of a building you go into, the entrance."
+ },
+ {
+  "id": "v5-0079",
+  "hook": "歌 means song: 歌う is to sing a song."
+ },
+ {
+  "id": "v5-0125",
+  "hook": "兄 is a big mouth (口) on legs (儿): the big brother who talks the most."
+ },
+ {
+  "id": "v5-0135",
+  "hook": "Water (氵) + forever (永): you swim in the water for ages."
+ },
+ {
+  "id": "v5-0146",
+  "hook": "Floor (階) + step (段): the steps between floors, the stairs."
+ },
+ {
+  "id": "v5-0179",
+  "hook": "借 has person (亻): you borrow from a person and 'carry' (かり) it home."
+ },
+ {
+  "id": "v5-0335",
+  "hook": "涼 has water (氵): water nearby makes the air cool and fresh."
+ },
+ {
+  "id": "v5-0343",
+  "hook": "座 shows two people (人人) on the ground (土) under a roof (广): sitting down."
+ },
+ {
+  "id": "v5-0388",
+  "hook": "頼 means rely on: you ask a favour of someone you rely on."
+ },
+ {
+  "id": "v5-0530",
+  "hook": "走 is ground (土) over a foot: feet hitting the ground, to run."
+ },
+ {
+  "id": "v5-0560",
+  "hook": "低 means low: a person (亻) bending down low, short."
+ },
+ {
+  "id": "v5-0606",
+  "hook": "細 has thread (糸): as thin and fine as a thread."
+ },
+ {
+  "id": "v5-0656",
+  "hook": "Eye (眼) + mirror (鏡): mirror glass for your eyes, glasses (special reading めがね)."
+ },
+ {
+  "id": "v5-0658",
+  "hook": "Tree (木) + day of the week (曜日): Thursday is tree day."
+ },
+ {
+  "id": "v5-0660",
+  "hook": "持 has hand (扌): what your hand holds, you carry and own."
+ },
+ {
+  "id": "v5-0170",
+  "hook": "角 is a horn or angle: a corner sticks out like a horn."
+ },
+ {
+  "id": "v5-0567",
+  "hook": "暇 has sun (日): sunny days with nothing to do, free time."
+ },
+ {
+  "id": "v5-0053",
+  "hook": "椅 has wood (木): a wooden seat; 'ease' (いす) yourself into the chair."
+ },
+ {
+  "id": "v5-0062",
+  "hook": "五 is five: 'It's (いつ) five!' as you count five things."
+ },
+ {
+  "id": "v5-0512",
+  "hook": "登 means climb: shout 'No, bro!' (のぼる) as your friend climbs the mountain."
+ },
+ {
+  "id": "v5-0663",
+  "hook": "門 looks like two swinging doors: a gate; 'Come on (もん) in!'"
+ },
+ {
+  "id": "v5-0711",
+  "hook": "分 means divide: when you can split a problem into parts, you understand it."
+ },
+ {
+  "id": "v5-0712",
+  "hook": "Gone (亡) + heart (心): it has left your heart and mind, you forget."
+ },
+ {
+  "id": "v5-0018",
+  "hook": "暖 has sun (日): sunshine makes the day warm."
+ },
+ {
+  "id": "v5-0081",
+  "hook": "生 means life or birth: 生まれる is coming into life, to be born."
+ },
+ {
+  "id": "v5-0134",
+  "hook": "Face (面) + white (白): a face lit up bright with fun, interesting."
+ },
+ {
+  "id": "v5-0196",
+  "hook": "Consume (喫) + tea (茶) + shop (店): a shop where you drink tea, a café."
+ },
+ {
+  "id": "v5-0209",
+  "hook": "着 means wear: 着る is to put clothes on your body. Not 切る (cut), same sound."
+ },
+ {
+  "id": "v5-0247",
+  "hook": "Take turns (交) + watch duty (番): police take turns keeping watch at the police box."
+ },
+ {
+  "id": "v5-0266",
+  "hook": "困 is a tree (木) trapped in a box (囗): stuck, you are in trouble."
+ },
+ {
+  "id": "v5-0427",
+  "hook": "出 means go out: 出かける is to head out of the house."
+ },
+ {
+  "id": "v5-0452",
+  "hook": "Ten (十) + day (日): ten toes, とおか, the 10th day."
+ },
+ {
+  "id": "v5-0559",
+  "hook": "弾 has bow (弓): pluck strings like a bowstring to play an instrument."
+ },
+ {
+  "id": "v5-0604",
+  "hook": "欲 means desire: what you desire, you want."
+ },
+ {
+  "id": "v5-0611",
+  "hook": "Book (本) + shelf (棚): a bookshelf."
+ },
+ {
+  "id": "v5-0141",
+  "hook": "回 is a box turning in a box: each turn round is one time."
+ },
+ {
+  "id": "v5-0643",
+  "hook": "緑 has thread (糸): thread dyed green like leaves."
+ },
+ {
+  "id": "v5-0017",
+  "hook": "遊 has the moving road part (辶): going out to wander and play."
+ },
+ {
+  "id": "v5-0169",
+  "hook": "House (家) + garden (庭): your house and garden, home and family."
+ },
+ {
+  "id": "v5-0181",
+  "hook": "軽 has car (車): a light car is easy to push."
+ },
+ {
+  "id": "v5-0278",
+  "hook": "咲 has mouth (口): the flower opens like a smiling mouth, it blooms."
+ },
+ {
+  "id": "v5-0473",
+  "hook": "撮 has hand (扌): your hand holds the camera to take a photo."
+ },
+ {
+  "id": "v5-0498",
+  "hook": "西 is west: 'nishi' sounds like 'nice sea' where the sun sets in the west."
+ },
+ {
+  "id": "v5-0505",
+  "hook": "脱 has the body part (月, flesh): take clothes off your body."
+ },
+ {
+  "id": "v5-0093",
+  "hook": "円 means circle: coins are round, so money is counted in circles, yen."
+ },
+ {
+  "id": "v5-0562",
+  "hook": "左 is a hand holding a tool (工): the hand that holds still, the left."
+ },
+ {
+  "id": "v5-0370",
+  "hook": "台 means stand or platform: machines and cars stand on one, so they use 台."
+ },
+ {
+  "id": "v5-0010",
+  "hook": "上 means up: 上げる is to raise something up."
+ },
+ {
+  "id": "v5-0038",
+  "hook": "洗 has water (氵): you wash things with water."
+ },
+ {
+  "id": "v5-0088",
+  "hook": "Project (映) + picture (画) + building (館): a building showing moving pictures, cinema."
+ },
+ {
+  "id": "v5-0112",
+  "hook": "押 has hand (扌): push with your hand; 'Oh, sue!' (おす) pushes the button."
+ },
+ {
+  "id": "v5-0126",
+  "hook": "姉 is woman (女) + market (市): big sister goes to the market alone."
+ },
+ {
+  "id": "v5-0321",
+  "hook": "Eat (食) + hall (堂): a hall for eating, the cafeteria."
+ },
+ {
+  "id": "v5-0454",
+  "hook": "Time (時) + repeat mark (々): time and time again, sometimes."
+ },
+ {
+  "id": "v5-0533",
+  "hook": "Two (二) + ten (十) + years old (歳): special reading はたち, 'hat, chi!' at 20."
+ },
+ {
+  "id": "v5-0565",
+  "hook": "One (一) + moon (月): one moon cycle, one month (not January いちがつ)."
+ },
+ {
+  "id": "v5-0652",
+  "hook": "六 is six: six cows say 'Moo!' (むっつ)."
+ },
+ {
+  "id": "v5-0691",
+  "hook": "弱 is two bent bows (弓): worn out and weak."
+ },
+ {
+  "id": "v5-0715",
+  "hook": "渡 has water (氵): pass things across the water, hand them over."
+ },
+ {
+  "id": "v5-0051",
+  "hook": "池 has water (氵): a small body of water, a pond."
+ },
+ {
+  "id": "v5-0274",
+  "hook": "歳 means age or year: it counts how many years old you are."
+ },
+ {
+  "id": "v5-0060",
+  "hook": "Five (五) + day (日): like 五つ いつつ, five starts with いつ, いつか."
+ },
+ {
+  "id": "v5-0190",
+  "hook": "Yellow (黄) + colour (色): yellow coloured."
+ },
+ {
+  "id": "v5-0191",
+  "hook": "消 has water (氵): water puts out a fire, it disappears."
+ },
+ {
+  "id": "v5-0221",
+  "hook": "Shoe (靴) + under (下): what goes under your shoes, socks."
+ },
+ {
+  "id": "v5-0306",
+  "hook": "閉 is a gate (門) with a bar (才) inside: shut tight, closed."
+ },
+ {
+  "id": "v5-0430",
+  "hook": "Go out (出) + mouth (口): the opening you go out from, the exit."
+ },
+ {
+  "id": "v5-0471",
+  "hook": "Chicken (鶏) + meat (肉): chicken meat; 鶏 has bird (鳥) in it."
+ },
+ {
+  "id": "v5-0678",
+  "hook": "Previous (昨) + night (夜): last night, read ゆうべ (also さくや)."
+ },
+ {
+  "id": "v5-0686",
+  "hook": "Four (四) + day (日): like よっつ, four starts with よ, よっか."
+ },
+ {
+  "id": "v5-0688",
+  "hook": "呼 has mouth (口): use your mouth to call someone."
+ },
+ {
+  "id": "v5-0613",
+  "hook": "枚 has tree (木): paper comes from wood, so flat sheets use 枚."
+ },
+ {
+  "id": "v5-0142",
+  "hook": "階 means floor of a building: count floors with 階."
+ },
+ {
+  "id": "v5-0024",
+  "hook": "厚 has a cliff (厂): as thick as a cliff wall."
+ },
+ {
+  "id": "v5-0077",
+  "hook": "薄 has grass (艹) and water (氵): thin like grass, weak like watery tea."
+ },
+ {
+  "id": "v5-0083",
+  "hook": "売 means sell: 'Ooh, roo!' (うる) cries the stall man as he sells; opposite of 買う (buy)."
+ },
+ {
+  "id": "v5-0094",
+  "hook": "Lead (鉛) + brush (筆): a writing tool with lead, a pencil."
+ },
+ {
+  "id": "v5-0160",
+  "hook": "貸 has shell (貝, old money): when you lend, your 'cash' (かす) goes out."
+ },
+ {
+  "id": "v5-0223",
+  "hook": "Sun (日) over cloud (雲): the sun hidden by clouds, cloudy weather."
+ },
+ {
+  "id": "v5-0235",
+  "hook": "消 has water (氵): pour water to put out a fire, so erase or switch off."
+ },
+ {
+  "id": "v5-0303",
+  "hook": "死 is a bone (歹) next to a fallen person (匕): to die."
+ },
+ {
+  "id": "v5-0467",
+  "hook": "止 means stop: 止まる is to come to a stop, like the 止まれ sign."
+ },
+ {
+  "id": "v5-0536",
+  "hook": "Two (二) + ten (十) + day (日): special reading はつか, 'hat car' day, the 20th."
+ },
+ {
+  "id": "v5-0558",
+  "hook": "引 is a bow (弓) and its string (丨): pull the string, to pull."
+ },
+ {
+  "id": "v5-0666",
+  "hook": "Eight (八) + hundred (百) + shop (屋): a shop with 800 kinds of food, the greengrocer."
+ },
+ {
+  "id": "v5-0676",
+  "hook": "Evening (夕) + meal (飯): the evening meal, dinner."
+ },
+ {
+  "id": "v5-0683",
+  "hook": "Ocean, Western (洋) + clothes (服): clothes from across the ocean, Western clothes."
+ },
+ {
+  "id": "v5-0707",
+  "hook": "廊 has a roof (广): a long roofed walkway, the corridor."
+ },
+ {
+  "id": "v5-0315",
+  "hook": "Week (週) + span of time (間): a span of weeks."
+ },
+ {
+  "id": "v5-0538",
+  "hook": "鼻 has 自 (self, first a picture of a nose) on top: the nose."
+ },
+ {
+  "id": "v5-0596",
+  "hook": "辺 has the road part (辶): the places around the road, the area nearby."
+ },
+ {
+  "id": "v5-0013",
+  "hook": "明 as in 明日 (tomorrow) + after (後) + day (日): the day after tomorrow."
+ },
+ {
+  "id": "v5-0074",
+  "hook": "Colour (色) + repeat mark (々): many colours, various."
+ },
+ {
+  "id": "v5-0085",
+  "hook": "Top (上) + wear (着): what you wear on top, a jacket."
+ },
+ {
+  "id": "v5-0115",
+  "hook": "Hand (手) + wash (洗い): the place to wash your hands, the toilet."
+ },
+ {
+  "id": "v5-0136",
+  "hook": "降 means come down: step down off the bus or train."
+ },
+ {
+  "id": "v5-0156",
+  "hook": "か + month (月): ～か月 counts months, 一か月 is one month."
+ },
+ {
+  "id": "v5-0172",
+  "hook": "Flower (花) + jar (瓶): a jar for flowers, a vase."
+ },
+ {
+  "id": "v5-0195",
+  "hook": "汚 has water (氵): dirty water, filthy."
+ },
+ {
+  "id": "v5-0236",
+  "hook": "Tie (結) + build (構): well tied and well built, so it is fine, enough."
+ },
+ {
+  "id": "v5-0245",
+  "hook": "Cross (交) + point (点): the point where roads cross each other, the intersection."
+ },
+ {
+  "id": "v5-0302",
+  "hook": "Self (自) + move (動) + vehicle (車): a vehicle that moves by itself, a car."
+ },
+ {
+  "id": "v5-0372",
+  "hook": "Big (大) + envoy (使) + building (館): the ambassador's building, an embassy."
+ },
+ {
+  "id": "v5-0413",
+  "hook": "疲 has the sickness part (疒): so tired you feel sick."
+ },
+ {
+  "id": "v5-0419",
+  "hook": "勤 has power (力): put your strength into working for a company."
+ },
+ {
+  "id": "v5-0466",
+  "hook": "飛 looks like a bird spreading its wings: to fly."
+ },
+ {
+  "id": "v5-0480",
+  "hook": "Mouth (口) + bird (鳥): a bird's mouth making sounds, an animal's cry."
+ },
+ {
+  "id": "v5-0488",
+  "hook": "Seven (七) + day (日): なな becomes なの, なのか, the 7th."
+ },
+ {
+  "id": "v5-0490",
+  "hook": "習 has wings (羽): a baby bird practising with its wings, learning."
+ },
+ {
+  "id": "v5-0545",
+  "hook": "貼 has shell (貝, old money): stick a paid stamp onto a letter, to paste."
+ },
+ {
+  "id": "v5-0281",
+  "hook": "冊 looks like bamboo strips tied together, an old book: so it counts books."
+ },
+ {
+  "id": "v5-0645",
+  "hook": "南 is south: 'Me, Nami (みなみ)' goes south to the warm beach."
+ },
+ {
+  "id": "v5-0185",
+  "hook": "側 has person (亻): the side a person stands on."
+ },
+ {
+  "id": "v5-0519",
+  "hook": "杯 has wood (木): cups were wooden, so cupfuls use 杯."
+ },
+ {
+  "id": "v5-0071",
+  "hook": "要 means need or key point: what you need."
+ },
+ {
+  "id": "v5-0096",
+  "hook": "Beautiful (美) + taste (味): a beautiful taste, delicious."
+ },
+ {
+  "id": "v5-0100",
+  "hook": "Big (大) + force (勢): a big force of people, a crowd."
+ },
+ {
+  "id": "v5-0120",
+  "hook": "One (一) + previous (昨) + day (日): one day before yesterday."
+ },
+ {
+  "id": "v5-0165",
+  "hook": "Piece (片) + borrowed (仮) + name (名): letters borrowed from pieces of kanji."
+ },
+ {
+  "id": "v5-0186",
+  "hook": "Can (可) + love (愛): easy to love, cute."
+ },
+ {
+  "id": "v5-0201",
+  "hook": "Cow (牛) + meat (肉): beef."
+ },
+ {
+  "id": "v5-0233",
+  "hook": "Warn (警) + official (官): the official who warns people, a police officer."
+ },
+ {
+  "id": "v5-0253",
+  "hook": "Nine (九) + day (日): like ここのつ, nine starts with ここの, ここのか."
+ },
+ {
+  "id": "v5-0254",
+  "hook": "九 is nine: 'Coco, no!' (ここの) you say nine times."
+ },
+ {
+  "id": "v5-0256",
+  "hook": "答 has bamboo (竹) + fit (合): a fitting reply written on bamboo, an answer."
+ },
+ {
+  "id": "v5-0285",
+  "hook": "さ + next year (来年, 来 means come): the year after next."
+ },
+ {
+  "id": "v5-0304",
+  "hook": "Character (字) + pull (引): you pull characters out of it, a dictionary."
+ },
+ {
+  "id": "v5-0320",
+  "hook": "Sauce (醤) + oil (油): dark, oily looking sauce, soy sauce."
+ },
+ {
+  "id": "v5-0328",
+  "hook": "吸 has mouth (口): suck air in through your mouth."
+ },
+ {
+  "id": "v5-0347",
+  "hook": "Stone (石) + lye (鹸): a stone like block made with lye, soap."
+ },
+ {
+  "id": "v5-0348",
+  "hook": "Back (背) + wide (広): a jacket with a wide back, a men's suit."
+ },
+ {
+  "id": "v5-0397",
+  "hook": "Step (段) + repeat mark (々): step by step, gradually."
+ },
+ {
+  "id": "v5-0403",
+  "hook": "Ground (地) + under (下) + iron (鉄): iron rails under the ground, the subway."
+ },
+ {
+  "id": "v5-0486",
+  "hook": "七 is seven: Nana (なな) has seven cats."
+ },
+ {
+  "id": "v5-0492",
+  "hook": "並 shows people standing side by side: line things up."
+ },
+ {
+  "id": "v5-0520",
+  "hook": "Ash (灰) + plate (皿): a plate for ash, an ashtray."
+ },
+ {
+  "id": "v5-0522",
+  "hook": "Leaf (葉) + write (書): a leaf of paper to write on, a postcard."
+ },
+ {
+  "id": "v5-0557",
+  "hook": "匹 counts small animals: a puppy 'he kicks' (ひき); watch いっぴき, さんびき."
+ },
+ {
+  "id": "v5-0571",
+  "hook": "Flat, plain (平) + borrowed (仮) + name (名): plain, rounded letters."
+ },
+ {
+  "id": "v5-0579",
+  "hook": "吹 has mouth (口): blow with your mouth, like the wind blows."
+ },
+ {
+  "id": "v5-0582",
+  "hook": "Pig (豚) + meat (肉): pork; 豚 is flesh (月) + pig (豕)."
+ },
+ {
+  "id": "v5-0585",
+  "hook": "太 is big (大) with an extra dot: even bigger, fat and thick."
+ },
+ {
+  "id": "v5-0633",
+  "hook": "Ten thousand (万) + years (年) + brush (筆): a pen that lasts forever, a fountain pen."
+ },
+ {
+  "id": "v5-0634",
+  "hook": "磨 has stone (石): rub on a stone to polish."
+ },
+ {
+  "id": "v5-0649",
+  "hook": "Six (六) + day (日): like むっつ, six starts with む, むいか."
+ },
+ {
+  "id": "v5-0672",
+  "hook": "八 is eight: 'Yatta!' (やった) you got eight, やっつ."
+ },
+ {
+  "id": "v5-0682",
+  "hook": "Eight (八) + day (日): ようか; do not mix it up with 四日 よっか (4th)."
+ },
+ {
+  "id": "v5-0716",
+  "hook": "渡 has water (氵): go across the water, to cross."
+ },
+ {
+  "id": "v5-0241",
+  "hook": "個 has person (亻): each single one, used for small items."
+ },
+ {
+  "id": "v5-0526",
+  "hook": "箸 has bamboo (竹): chopsticks are made of bamboo."
+ },
+ {
+  "id": "v5-0037",
+  "hook": "飴 has food (飠): a sweet food, candy; same sound as 雨 (rain)."
+ },
+ {
+  "id": "v5-0702",
+  "hook": "零 has rain (雨): one drop of rain is almost nothing, zero."
+ },
+ {
+  "id": "v5-0012",
+  "hook": "Morning (朝) + polite (御) + meal (飯): the morning meal, breakfast."
+ },
+ {
+  "id": "v5-0014",
+  "hook": "足 pictures a leg and foot; 脚 has flesh (月): the leg."
+ },
+ {
+  "id": "v5-0032",
+  "hook": "浴 has water (氵): pour water over yourself, take a shower."
+ },
+ {
+  "id": "v5-0035",
+  "hook": "余 means extra: too much left over; with a negative, not very."
+ },
+ {
+  "id": "v5-0039",
+  "hook": "在 has earth (土): something sitting on the ground, it exists."
+ },
+ {
+  "id": "v5-0040",
+  "hook": "有 is a hand holding meat (月): something in your hand, you have it."
+ },
+ {
+  "id": "v5-0070",
+  "hook": "居 means live, stay: someone staying there, is present."
+ },
+ {
+  "id": "v5-0109",
+  "hook": "Elder (伯) or younger (叔) + father (父): a parent's older or younger brother, uncle."
+ },
+ {
+  "id": "v5-0127",
+  "hook": "Elder (伯) or younger (叔) + mother (母): a parent's older or younger sister, aunt."
+ },
+ {
+  "id": "v5-0137",
+  "hook": "終 has thread (糸): you reach the end of the thread, finish."
+ },
+ {
+  "id": "v5-0157",
+  "hook": "掛 has hand (扌): hang things up or put glasses on with your hand."
+ },
+ {
+  "id": "v5-0184",
+  "hook": "川 is three flowing lines, a river; 河 has water (氵), a big river."
+ },
+ {
+  "id": "v5-0210",
+  "hook": "Fine silk (綺) + lovely (麗): pretty and clean."
+ },
+ {
+  "id": "v5-0217",
+  "hook": "下 means down: hand it down to me, please."
+ },
+ {
+  "id": "v5-0224",
+  "hook": "Sun (日) over cloud (雲): clouds cover the sun, it gets cloudy."
+ },
+ {
+  "id": "v5-0264",
+  "hook": "Polite (御) + cooked rice (飯): rice, a meal."
+ },
+ {
+  "id": "v5-0280",
+  "hook": "差す means to hold up: hold up (差す) an umbrella over your head, or raise your hand."
+ },
+ {
+  "id": "v5-0308",
+  "hook": "締 has thread (糸): pull a thread tight, fasten."
+ },
+ {
+  "id": "v5-0380",
+  "hook": "Marsh (沢) + mountain (山): a mountain's worth, lots."
+ },
+ {
+  "id": "v5-0390",
+  "hook": "Many (多) + part (分): the larger part of chances, probably."
+ },
+ {
+  "id": "v5-0409",
+  "hook": "丁 (even, exact) + degree (度): to the exact degree, just right."
+ },
+ {
+  "id": "v5-0481",
+  "hook": "無 means nothing: make something into nothing, lose it."
+ },
+ {
+  "id": "v5-0491",
+  "hook": "並 shows two people standing side by side: line up."
+ },
+ {
+  "id": "v5-0506",
+  "hook": "温 has water (氵): water only a little warm, lukewarm."
+ },
+ {
+  "id": "v5-0528",
+  "hook": "初 is clothes (衤) + knife (刀): the first cut when making clothes, the beginning."
+ },
+ {
+  "id": "v5-0554",
+  "hook": "Evening (晩) + meal (御飯): dinner."
+ },
+ {
+  "id": "v5-0573",
+  "hook": "Noon (昼) + meal (御飯): lunch."
+ },
+ {
+  "id": "v5-0622",
+  "hook": "曲 means bend or curve: bend round the corner, turn."
+ },
+ {
+  "id": "v5-0631",
+  "hook": "丸 and 円 both mean circle: round."
+ },
+ {
+  "id": "v5-0668",
+  "hook": "易 means easy: simple; do not mix it up with 優しい (kind)."
+ }
+]

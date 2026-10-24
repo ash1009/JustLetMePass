@@ -1,0 +1,754 @@
+[
+ {
+  "id": "v5-0563",
+  "hook": "The kanji 人 looks like a person walking on two legs."
+ },
+ {
+  "id": "v5-0056",
+  "hook": "One single line (一) means one."
+ },
+ {
+  "id": "v5-0487",
+  "hook": "何 was first drawn as a person (亻) carrying a load: \"What is that?\" (なに)."
+ },
+ {
+  "id": "v5-0609",
+  "hook": "A tree (木) with a mark at its base: the root or origin, and also a book."
+ },
+ {
+  "id": "v5-0334",
+  "hook": "少 means few or little: just a little scoop (すこ) of rice."
+ },
+ {
+  "id": "v5-0478",
+  "hook": "A line going through the middle of a box: 中 is the inside or middle."
+ },
+ {
+  "id": "v5-0423",
+  "hook": "手 looks like a hand with fingers spread; \"te\" like the start of \"ten fingers\"."
+ },
+ {
+  "id": "v5-0539",
+  "hook": "Words (言) from the tongue (舌): talking, telling a story."
+ },
+ {
+  "id": "v5-0293",
+  "hook": "Time (時) + interval (間): a span of time."
+ },
+ {
+  "id": "v5-0145",
+  "hook": "Meet (会) + company (社): a place where people meet to work, a company."
+ },
+ {
+  "id": "v5-0046",
+  "hook": "A roof (宀) over a pig (豕): in old China the home kept pigs under the roof."
+ },
+ {
+  "id": "v5-0620",
+  "hook": "前 means front or before: \"Ma, eh? Look in front!\""
+ },
+ {
+  "id": "v5-0354",
+  "hook": "Born (生) before (先) you: the person who knows more, your teacher."
+ },
+ {
+  "id": "v5-0295",
+  "hook": "Serve (仕) + matter (事): the things you do to serve, your job."
+ },
+ {
+  "id": "v5-0065",
+  "hook": "今 means now: \"I'm a\" student now (いま)."
+ },
+ {
+  "id": "v5-0713",
+  "hook": "私 means private, myself: I keep my own rice plant (禾) private."
+ },
+ {
+  "id": "v5-0714",
+  "hook": "Same kanji 私 (private, I), but the longer reading わたくし is the extra polite \"I\"."
+ },
+ {
+  "id": "v5-0595",
+  "hook": "Section (部) + roof or house (屋): a section of the house, a room."
+ },
+ {
+  "id": "v5-0439",
+  "hook": "Electric (電) + vehicle (車): an electric train."
+ },
+ {
+  "id": "v5-0458",
+  "hook": "年 means year; the years you have lived are your age (とし)."
+ },
+ {
+  "id": "v5-0203",
+  "hook": "Now (今) + day (日): the day that is now, today (special reading きょう)."
+ },
+ {
+  "id": "v5-0638",
+  "hook": "A building (广) where goods are shown: 店 is a shop; \"me, see\" the shop (みせ)."
+ },
+ {
+  "id": "v5-0020",
+  "hook": "Stand (立) by a tree (木) and cut it with an axe (斤): fresh, new wood."
+ },
+ {
+  "id": "v5-0330",
+  "hook": "A woman (女) with her child (子): the love she feels, liking."
+ },
+ {
+  "id": "v5-0075",
+  "hook": "上 is a line pointing up from the ground: above, on top."
+ },
+ {
+  "id": "v5-0015",
+  "hook": "Bright (明) + day (日): the next bright day, tomorrow (special reading あした)."
+ },
+ {
+  "id": "v5-0313",
+  "hook": "十 is a cross, like the Roman X for ten."
+ },
+ {
+  "id": "v5-0450",
+  "hook": "Ten (十) when counting things: ひとつ, ふたつ, up to とお, the only one with no つ."
+ },
+ {
+  "id": "v5-0440",
+  "hook": "Electric (電) + talk (話): talking by electricity, the telephone."
+ },
+ {
+  "id": "v5-0495",
+  "hook": "Two lines (二) for two; you have two knees (に)."
+ },
+ {
+  "id": "v5-0305",
+  "hook": "Self (自) + part (分): your own part, oneself."
+ },
+ {
+  "id": "v5-0026",
+  "hook": "後 means behind or after: what comes after, later."
+ },
+ {
+  "id": "v5-0700",
+  "hook": "Materials (料) + logic (理): putting ingredients together with skill, cooking."
+ },
+ {
+  "id": "v5-0277",
+  "hook": "先 means ahead: the place ahead of you, or the time before."
+ },
+ {
+  "id": "v5-0230",
+  "hook": "車 looks like a cart from above, a wheel on an axle: it comes (くる) rolling."
+ },
+ {
+  "id": "v5-0310",
+  "hook": "Copy (写) + truth (真): a true copy of what you see, a photo."
+ },
+ {
+  "id": "v5-0566",
+  "hook": "One (一) + person (人): one person, alone (special reading ひとり)."
+ },
+ {
+  "id": "v5-0617",
+  "hook": "Every (毎) + day (日): every day."
+ },
+ {
+  "id": "v5-0048",
+  "hook": "行 was drawn as a crossroads: you go out onto the road."
+ },
+ {
+  "id": "v5-0405",
+  "hook": "父 shows hands holding a tool: the hard working father."
+ },
+ {
+  "id": "v5-0670",
+  "hook": "A person (亻) resting by a tree (木): rest, a day off."
+ },
+ {
+  "id": "v5-0428",
+  "hook": "Hand (手) + paper (紙): paper you write by hand, a letter."
+ },
+ {
+  "id": "v5-0011",
+  "hook": "The sun rising in the grass while the moon (月) is still out: morning."
+ },
+ {
+  "id": "v5-0690",
+  "hook": "Under a roof (亠), a person (亻) and the evening moon (夕): night."
+ },
+ {
+  "id": "v5-0155",
+  "hook": "Study (学) + life (生): a person whose life is study, a student."
+ },
+ {
+  "id": "v5-0598",
+  "hook": "Effort (勉) + strong (強): working hard and strong, studying."
+ },
+ {
+  "id": "v5-0541",
+  "hook": "母 is a woman with two dots for breasts: mother. \"Ha ha,\" laughs mum."
+ },
+ {
+  "id": "v5-0058",
+  "hook": "One (一) + number or turn (番): number one, the best."
+ },
+ {
+  "id": "v5-0164",
+  "hook": "House (家) + tribe (族): the group in one house, your family."
+ },
+ {
+  "id": "v5-0139",
+  "hook": "女 looks like a woman kneeling with crossed arms: woman."
+ },
+ {
+  "id": "v5-0287",
+  "hook": "Three lines (三) for three; \"sun\" sounds like さん."
+ },
+ {
+  "id": "v5-0103",
+  "hook": "金 means gold or money; お makes it polite: money."
+ },
+ {
+  "id": "v5-0662",
+  "hook": "An ox (牛) on the left: an ox was a valuable thing, an object."
+ },
+ {
+  "id": "v5-0091",
+  "hook": "The horse (馬) on the left: stations were where travellers changed horses."
+ },
+ {
+  "id": "v5-0167",
+  "hook": "Study (学) + school (校): a place for study, a school."
+ },
+ {
+  "id": "v5-0564",
+  "hook": "One (一) thing: ひとつ, counting objects with つ."
+ },
+ {
+  "id": "v5-0583",
+  "hook": "Two (二) + person (人): two people (special reading ふたり)."
+ },
+ {
+  "id": "v5-0036",
+  "hook": "雨 shows drops falling from a cloud: rain. \"Ah, meh,\" rain again."
+ },
+ {
+  "id": "v5-0261",
+  "hook": "Say (言) + leaf (葉): words fall from your mouth like leaves."
+ },
+ {
+  "id": "v5-0673",
+  "hook": "山 looks like three mountain peaks."
+ },
+ {
+  "id": "v5-0489",
+  "hook": "Name (名) + before (前): the name you say before anything else."
+ },
+ {
+  "id": "v5-0099",
+  "hook": "大 is a person with arms stretched wide: big."
+ },
+ {
+  "id": "v5-0399",
+  "hook": "小 is a thing split into tiny parts: small, little."
+ },
+ {
+  "id": "v5-0499",
+  "hook": "日 is the sun: one sun is one day, so 日 counts days and dates."
+ },
+ {
+  "id": "v5-0124",
+  "hook": "同 means same: one mouth (口) under one cover, all saying the same thing."
+ },
+ {
+  "id": "v5-0588",
+  "hook": "Ten (十) + mouth (口): a story passed through ten mouths is old."
+ },
+ {
+  "id": "v5-0188",
+  "hook": "木 looks like a tree with branches and roots."
+ },
+ {
+  "id": "v5-0371",
+  "hook": "Big (大) + study (学): big study, a university."
+ },
+ {
+  "id": "v5-0402",
+  "hook": "近 has the road part (辶): only a short road to go, nearby."
+ },
+ {
+  "id": "v5-0375",
+  "hook": "Big (大) + cut (切): something that cuts deep into your heart is important."
+ },
+ {
+  "id": "v5-0500",
+  "hook": "Sun (日) + weekday (曜日): the sun's day, Sunday."
+ },
+ {
+  "id": "v5-0199",
+  "hook": "Previous (昨) + day (日): the day before, yesterday (special reading きのう)."
+ },
+ {
+  "id": "v5-0614",
+  "hook": "Every (毎) + morning (朝): every morning."
+ },
+ {
+  "id": "v5-0664",
+  "hook": "Question (問) + topic (題): a question topic, a problem."
+ },
+ {
+  "id": "v5-0098",
+  "hook": "大 is a person with arms stretched wide to show something big."
+ },
+ {
+  "id": "v5-0612",
+  "hook": "Origin (本) + hit (当): it hits the true origin, real."
+ },
+ {
+  "id": "v5-0163",
+  "hook": "方 means direction or way: a polite way to point to a person, or a way of doing."
+ },
+ {
+  "id": "v5-0174",
+  "hook": "The thread (糸) part: paper was made from fibres."
+ },
+ {
+  "id": "v5-0061",
+  "hook": "One (一) + cord (緒): tied by one cord, together."
+ },
+ {
+  "id": "v5-0297",
+  "hook": "Blue (青) + fight (争): the fight turns calm and blue, quiet."
+ },
+ {
+  "id": "v5-0356",
+  "hook": "Whole (全) + part (部): all the parts, everything."
+ },
+ {
+  "id": "v5-0626",
+  "hook": "Rice field (田) + street (丁): fields with streets become a town."
+ },
+ {
+  "id": "v5-0318",
+  "hook": "Upper (上) + hand (手): having the upper hand, skillful."
+ },
+ {
+  "id": "v5-0654",
+  "hook": "目 is an eye turned on its side; \"me\" sees with my eyes."
+ },
+ {
+  "id": "v5-0701",
+  "hook": "Journey (旅) + go (行): going on a journey, a trip."
+ },
+ {
+  "id": "v5-0529",
+  "hook": "Clothing (衤) + knife (刀): cutting the cloth is the first step, the first time."
+ },
+ {
+  "id": "v5-0706",
+  "hook": "Refine (練) + learn (習): learning by doing it again and again, practice."
+ },
+ {
+  "id": "v5-0298",
+  "hook": "下 is a line pointing down from a bar: below, under."
+ },
+ {
+  "id": "v5-0229",
+  "hook": "来 means come: \"Come!\" sounds a bit like くる."
+ },
+ {
+  "id": "v5-0326",
+  "hook": "New (新) + hear (聞): new things you hear about, the newspaper."
+ },
+ {
+  "id": "v5-0640",
+  "hook": "Head (首) + road (辶): the road your head leads you along, the way."
+ },
+ {
+  "id": "v5-0457",
+  "hook": "Door (戸) + axe (斤): the place where you keep your tools, a place."
+ },
+ {
+  "id": "v5-0325",
+  "hook": "人 (person) read じん after a country: 日本人 is a Japanese person."
+ },
+ {
+  "id": "v5-0504",
+  "hook": "人 (person) read にん when counting: 三人 is three people."
+ },
+ {
+  "id": "v5-0378",
+  "hook": "高 looks like a tall tower: tall, high, and a high price."
+ },
+ {
+  "id": "v5-0057",
+  "hook": "One (一) + day (日): one whole day, read いちにち."
+ },
+ {
+  "id": "v5-0411",
+  "hook": "One (一) + day (日), the first of the month: from つきたち, the moon (月) starts."
+ },
+ {
+  "id": "v5-0240",
+  "hook": "Origin (元) + spirit (気): your basic energy, healthy and lively."
+ },
+ {
+  "id": "v5-0045",
+  "hook": "言 is a mouth (口) with words coming out: to say."
+ },
+ {
+  "id": "v5-0693",
+  "hook": "Coming (来) + week (週): next week."
+ },
+ {
+  "id": "v5-0118",
+  "hook": "Field (田) + power (力): the one using power in the field, a man."
+ },
+ {
+  "id": "v5-0710",
+  "hook": "若 has grass (艹) on top: a fresh new sprout, young."
+ },
+ {
+  "id": "v5-0151",
+  "hook": "Head (頁) on the right: the front of your head, the face."
+ },
+ {
+  "id": "v5-0414",
+  "hook": "Two strokes (二 shape) + yawn (欠): yawning while you wait, you are next."
+ },
+ {
+  "id": "v5-0087",
+  "hook": "Reflect (映) + picture (画): pictures shown on a screen, a movie."
+ },
+ {
+  "id": "v5-0114",
+  "hook": "茶 has grass (艹) on top for tea leaves; \"cha\" like chai tea."
+ },
+ {
+  "id": "v5-0301",
+  "hook": "Self (自) + turn (転) + vehicle (車): a vehicle you turn yourself, a bicycle."
+ },
+ {
+  "id": "v5-0647",
+  "hook": "見 is an eye (目) on legs (儿): going to look, to see."
+ },
+ {
+  "id": "v5-0363",
+  "hook": "Evening (夕) + fortune telling (卜): fortunes were told at night, outside."
+ },
+ {
+  "id": "v5-0602",
+  "hook": "外 means outside: things outside this one are the others (ほか)."
+ },
+ {
+  "id": "v5-0248",
+  "hook": "声 means voice: think of a choir voice singing \"koe\"."
+ },
+ {
+  "id": "v5-0653",
+  "hook": "Tree (木) + measure (寸): a small place among the trees, a village."
+ },
+ {
+  "id": "v5-0398",
+  "hook": "小 shows a thing split into tiny bits: small."
+ },
+ {
+  "id": "v5-0468",
+  "hook": "Friend (友) + plural (達): your friends."
+ },
+ {
+  "id": "v5-0242",
+  "hook": "五 means five: \"go\" count to five on one hand."
+ },
+ {
+  "id": "v5-0455",
+  "hook": "Time (時) + measure (計): a thing that measures time, a clock."
+ },
+ {
+  "id": "v5-0097",
+  "hook": "多 is two evenings (夕夕) stacked up: many nights, many."
+ },
+ {
+  "id": "v5-0437",
+  "hook": "Sky (天) + air (気): what the air in the sky is like, the weather."
+ },
+ {
+  "id": "v5-0066",
+  "hook": "Idea (意) + taste (味): the taste of an idea, its meaning."
+ },
+ {
+  "id": "v5-0569",
+  "hook": "Sick (病) + institution (院): the place for sick people, a hospital."
+ },
+ {
+  "id": "v5-0244",
+  "hook": "Public (公) + garden (園): a public garden, a park."
+ },
+ {
+  "id": "v5-0252",
+  "hook": "Noon (午) + after (後): after noon, P.M."
+ },
+ {
+  "id": "v5-0459",
+  "hook": "Drawing (図) + writing (書) + building (館): a building for books, a library."
+ },
+ {
+  "id": "v5-0101",
+  "hook": "Mother (母) with polite お and さん: mum, said with respect."
+ },
+ {
+  "id": "v5-0630",
+  "hook": "窓 has a hole (穴) on top: a hole in the wall, a window."
+ },
+ {
+  "id": "v5-0275",
+  "hook": "Wealth (財) + cloth (布): a cloth holder for your money, a wallet."
+ },
+ {
+  "id": "v5-0438",
+  "hook": "Electric (電) + energy (気): electricity, and the electric light."
+ },
+ {
+  "id": "v5-0570",
+  "hook": "Sick (病) + spirit (気): a sick spirit, illness."
+ },
+ {
+  "id": "v5-0150",
+  "hook": "帰 means return: like a frog (カエル) going back to its pond, you go home (かえる)."
+ },
+ {
+  "id": "v5-0284",
+  "hook": "寒 has a roof (宀) with ice (冫) at the bottom: cold even inside."
+ },
+ {
+  "id": "v5-0544",
+  "hook": "春 has the sun (日) at the bottom: the sun warms the plants in spring."
+ },
+ {
+  "id": "v5-0237",
+  "hook": "Tie (結) + marriage (婚): tying the knot, getting married."
+ },
+ {
+  "id": "v5-0509",
+  "hook": "寝 has a roof (宀) and a bed (丬) inside: lying down to sleep."
+ },
+ {
+  "id": "v5-0161",
+  "hook": "風 has an insect (虫) inside a frame: bugs blown by the wind."
+ },
+ {
+  "id": "v5-0192",
+  "hook": "An ear (耳) at the gate (門): listening at the gate, to hear."
+ },
+ {
+  "id": "v5-0667",
+  "hook": "Field (野) + greens (菜): greens from the field, vegetables."
+ },
+ {
+  "id": "v5-0082",
+  "hook": "Water (氵) + every (毎): water everywhere, the sea."
+ },
+ {
+  "id": "v5-0187",
+  "hook": "Han China (漢) + character (字): Chinese characters."
+ },
+ {
+  "id": "v5-0204",
+  "hook": "Teach (教) + room (室): a room for teaching, a classroom."
+ },
+ {
+  "id": "v5-0469",
+  "hook": "Earth (土) + weekday (曜日): 土星 is Saturn, so it is Saturday."
+ },
+ {
+  "id": "v5-0540",
+  "hook": "Words (言) + tongue (舌): using your tongue for words, to speak."
+ },
+ {
+  "id": "v5-0366",
+  "hook": "空 means sky or empty: a hole (穴) with nothing in it, the empty sky."
+ },
+ {
+  "id": "v5-0052",
+  "hook": "Medicine (医) + person (者): a person of medicine, a doctor."
+ },
+ {
+  "id": "v5-0288",
+  "hook": "Scatter (散) + walk (歩): walking around freely, a stroll."
+ },
+ {
+  "id": "v5-0394",
+  "hook": "Words (言) + bird (隹): you call out to the bird, \"Who's there?\""
+ },
+ {
+  "id": "v5-0537",
+  "hook": "Grass (艹) + change (化): a plant that changes into a flower."
+ },
+ {
+  "id": "v5-0637",
+  "hook": "水 looks like water splashing out from a central stream."
+ },
+ {
+  "id": "v5-0238",
+  "hook": "Moon (月) + weekday (曜日): the moon's day, Monday."
+ },
+ {
+  "id": "v5-0556",
+  "hook": "The sun (日) seen through a tree (木): the sun rises in the east."
+ },
+ {
+  "id": "v5-0692",
+  "hook": "Coming (来) + month (月): next month."
+ },
+ {
+  "id": "v5-0222",
+  "hook": "A border (囗) around a jewel (玉): a protected country."
+ },
+ {
+  "id": "v5-0324",
+  "hook": "白 is the sun (日) with a ray on top: bright white light."
+ },
+ {
+  "id": "v5-0382",
+  "hook": "出 means out, like 出口 (exit): you take things out or hand them in (だす)."
+ },
+ {
+  "id": "v5-0479",
+  "hook": "長 was drawn as an old man with long hair: long."
+ },
+ {
+  "id": "v5-0619",
+  "hook": "Every (毎) + evening (晩): every night."
+ },
+ {
+  "id": "v5-0262",
+  "hook": "Child (子) + companion (供): children."
+ },
+ {
+  "id": "v5-0534",
+  "hook": "Person (亻) + move (動): a person moving about, to work."
+ },
+ {
+  "id": "v5-0694",
+  "hook": "Coming (来) + year (年): next year."
+ },
+ {
+  "id": "v5-0717",
+  "hook": "Second rate (亜) over a heart (心): a bad heart, bad."
+ },
+ {
+  "id": "v5-0260",
+  "hook": "Now (今) + year (年): this year (special reading ことし)."
+ },
+ {
+  "id": "v5-0483",
+  "hook": "夏 means summer: the summer heat drives you \"nuts\" (なつ)."
+ },
+ {
+  "id": "v5-0521",
+  "hook": "入 looks like a tent entrance: \"Hi, I'm in!\" (はいる), to enter."
+ },
+ {
+  "id": "v5-0549",
+  "hook": "Sun (日) + escape (免): when the sun escapes, it is evening."
+ },
+ {
+  "id": "v5-0679",
+  "hook": "Have (有) + name (名): to have a name, famous."
+ },
+ {
+  "id": "v5-0178",
+  "hook": "Person (亻) + origin (本): the base of a person, the body."
+ },
+ {
+  "id": "v5-0494",
+  "hook": "何 (what) + a counter: 何人 how many people, 何時 what time."
+ },
+ {
+  "id": "v5-0078",
+  "hook": "歌 has an open mouth (欠): opening your mouth wide to sing a song."
+ },
+ {
+  "id": "v5-0154",
+  "hook": "書 has a hand holding a brush (聿) at the top: to write."
+ },
+ {
+  "id": "v5-0162",
+  "hook": "Wind (風) + evil (邪): an evil wind gives you a cold; same sound as wind."
+ },
+ {
+  "id": "v5-0581",
+  "hook": "Two (二) things: ふたつ."
+ },
+ {
+  "id": "v5-0651",
+  "hook": "難 has a bird (隹): catching a bird is difficult."
+ },
+ {
+  "id": "v5-0610",
+  "hook": "本 is a tree (木) with a mark, so it counts long thin things like pens."
+ },
+ {
+  "id": "v5-0214",
+  "hook": "Gold or metal (金) + weekday: 金星 is Venus, so it is Friday."
+ },
+ {
+  "id": "v5-0022",
+  "hook": "暑 has the sun (日) on top: hot weather."
+ },
+ {
+  "id": "v5-0206",
+  "hook": "Gone (去) + year (年): the year that has gone, last year."
+ },
+ {
+  "id": "v5-0317",
+  "hook": "Lodging (宿) + topic (題): topics you take home, homework."
+ },
+ {
+  "id": "v5-0417",
+  "hook": "作 has a person (亻) on the left: a person making something."
+ },
+ {
+  "id": "v5-0669",
+  "hook": "A woman (女) under a roof (宀) is at peace (安): cheap prices give peace of mind."
+ },
+ {
+  "id": "v5-0117",
+  "hook": "弟 shows a rope wound in order: the brother who comes after you."
+ },
+ {
+  "id": "v5-0219",
+  "hook": "口 looks like an open mouth."
+ },
+ {
+  "id": "v5-0289",
+  "hook": "四 is a box (囗) with four sides; し also sounds like death, so people often say よん."
+ },
+ {
+  "id": "v5-0089",
+  "hook": "England (英) + language (語): the English language."
+ },
+ {
+  "id": "v5-0316",
+  "hook": "Give (授) + work (業): the work of giving lessons, a class."
+ },
+ {
+  "id": "v5-0484",
+  "hook": "Summer (夏) + rest (休み): summer vacation."
+ },
+ {
+  "id": "v5-0501",
+  "hook": "Load (荷) + thing (物): things you carry, luggage."
+ },
+ {
+  "id": "v5-0213",
+  "hook": "Silver (銀) + business (行): the business that holds your silver, a bank."
+ },
+ {
+  "id": "v5-0055",
+  "hook": "痛 has the sickness part (疒): when you are sick, it hurts. \"Itai!\""
+ },
+ {
+  "id": "v5-0130",
+  "hook": "弁当 is a boxed lunch, the \"bento box\"; お makes it polite."
+ }
+]

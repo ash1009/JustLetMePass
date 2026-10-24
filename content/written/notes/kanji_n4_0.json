@@ -1,0 +1,3357 @@
+[
+ {
+  "kanji": "会",
+  "readings": [
+   {
+    "r": "あ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{会|あ}う",
+      "en": "to meet",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "かい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{会社|かいしゃ}",
+      "en": "company",
+      "lvl": 5
+     },
+     {
+      "w": "{会議|かいぎ}",
+      "en": "meeting",
+      "lvl": 4
+     },
+     {
+      "w": "{会話|かいわ}",
+      "en": "conversation",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "え",
+    "type": "on",
+    "words": [
+     {
+      "w": "{会釈|えしゃく}",
+      "en": "small bow, nod",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "あう (meet) and かい (会社) matter most. 会う is for meeting people; 合う (to fit) is a different kanji."
+ },
+ {
+  "kanji": "同",
+  "readings": [
+   {
+    "r": "おな",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{同|おな}じ",
+      "en": "same",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "どう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{同時|どうじ}",
+      "en": "at the same time",
+      "lvl": 3
+     },
+     {
+      "w": "{同級生|どうきゅうせい}",
+      "en": "classmate",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "おなじ is the key word for N5/N4. どう shows up in compounds like 同時."
+ },
+ {
+  "kanji": "事",
+  "readings": [
+   {
+    "r": "こと",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{事|こと}",
+      "en": "thing, matter",
+      "lvl": 4
+     },
+     {
+      "w": "{仕事|しごと}",
+      "en": "work, job",
+      "lvl": 5
+     },
+     {
+      "w": "{出来事|できごと}",
+      "en": "event, happening",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "じ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{食事|しょくじ}",
+      "en": "meal",
+      "lvl": 4
+     },
+     {
+      "w": "{火事|かじ}",
+      "en": "fire (in a building)",
+      "lvl": 4
+     },
+     {
+      "w": "{大事|だいじ}",
+      "en": "important",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "じ (食事) and 仕事 are the big ones. こと becomes ごと after another word, as in 仕事."
+ },
+ {
+  "kanji": "自",
+  "readings": [
+   {
+    "r": "じ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{自分|じぶん}",
+      "en": "oneself",
+      "lvl": 5
+     },
+     {
+      "w": "{自転車|じてんしゃ}",
+      "en": "bicycle",
+      "lvl": 5
+     },
+     {
+      "w": "{自動車|じどうしゃ}",
+      "en": "car",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "し",
+    "type": "on",
+    "words": [
+     {
+      "w": "{自然|しぜん}",
+      "en": "nature",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "みずか",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{自|みずか}ら",
+      "en": "oneself, personally",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "じ is the main reading: 自分, 自転車. Watch 自然, which uses し instead."
+ },
+ {
+  "kanji": "社",
+  "readings": [
+   {
+    "r": "しゃ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{会社|かいしゃ}",
+      "en": "company",
+      "lvl": 5
+     },
+     {
+      "w": "{社長|しゃちょう}",
+      "en": "company president",
+      "lvl": 4
+     },
+     {
+      "w": "{神社|じんじゃ}",
+      "en": "shrine",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "しゃ is the reading to know: 会社, 社長. In 神社 (shrine) it changes to じゃ."
+ },
+ {
+  "kanji": "発",
+  "readings": [
+   {
+    "r": "はつ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{出発|しゅっぱつ}",
+      "en": "departure",
+      "lvl": 4
+     },
+     {
+      "w": "{発音|はつおん}",
+      "en": "pronunciation",
+      "lvl": 4
+     },
+     {
+      "w": "{発表|はっぴょう}",
+      "en": "announcement, presentation",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "ほつ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{発作|ほっさ}",
+      "en": "fit, attack (illness)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "はつ is the main reading, but its sound often changes: 出発 しゅっぱつ, 発表 はっぴょう."
+ },
+ {
+  "kanji": "者",
+  "readings": [
+   {
+    "r": "しゃ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{医者|いしゃ}",
+      "en": "doctor",
+      "lvl": 5
+     },
+     {
+      "w": "{学者|がくしゃ}",
+      "en": "scholar",
+      "lvl": 3
+     },
+     {
+      "w": "{記者|きしゃ}",
+      "en": "reporter",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "もの",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{若者|わかもの}",
+      "en": "young people",
+      "lvl": 3
+     },
+     {
+      "w": "{者|もの}",
+      "en": "person (humble)",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "しゃ is the one you need: 医者. Do not mix up 者 with 暑 (hot), which has 日 on top."
+ },
+ {
+  "kanji": "地",
+  "readings": [
+   {
+    "r": "ち",
+    "type": "on",
+    "words": [
+     {
+      "w": "{地図|ちず}",
+      "en": "map",
+      "lvl": 4
+     },
+     {
+      "w": "{地下鉄|ちかてつ}",
+      "en": "subway",
+      "lvl": 4
+     },
+     {
+      "w": "{地理|ちり}",
+      "en": "geography",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "じ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{地震|じしん}",
+      "en": "earthquake",
+      "lvl": 4
+     },
+     {
+      "w": "{地面|じめん}",
+      "en": "ground, surface",
+      "lvl": 3
+     },
+     {
+      "w": "{地味|じみ}",
+      "en": "plain, not flashy",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Both readings are common: ち in 地図, じ in 地震. Learn them word by word."
+ },
+ {
+  "kanji": "業",
+  "readings": [
+   {
+    "r": "ぎょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{授業|じゅぎょう}",
+      "en": "class, lesson",
+      "lvl": 4
+     },
+     {
+      "w": "{卒業|そつぎょう}",
+      "en": "graduation",
+      "lvl": 4
+     },
+     {
+      "w": "{産業|さんぎょう}",
+      "en": "industry",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "ごう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{自業自得|じごうじとく}",
+      "en": "you get what you deserve",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "ぎょう is all you need for N4: 授業, 卒業."
+ },
+ {
+  "kanji": "方",
+  "readings": [
+   {
+    "r": "ほう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{方|ほう}",
+      "en": "direction, side",
+      "lvl": 4
+     },
+     {
+      "w": "{方法|ほうほう}",
+      "en": "method",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "かた",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{方|かた}",
+      "en": "person (polite)",
+      "lvl": 4
+     },
+     {
+      "w": "{作|つく}り{方|かた}",
+      "en": "way of making",
+      "lvl": 4
+     },
+     {
+      "w": "{夕方|ゆうがた}",
+      "en": "evening",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "かた means person or way of doing (読み方), ほう means direction or side. In 夕方 it becomes がた."
+ },
+ {
+  "kanji": "新",
+  "readings": [
+   {
+    "r": "あたら",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{新|あたら}しい",
+      "en": "new",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "しん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{新聞|しんぶん}",
+      "en": "newspaper",
+      "lvl": 5
+     },
+     {
+      "w": "{新幹線|しんかんせん}",
+      "en": "bullet train",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "あら",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{新|あら}た",
+      "en": "new, fresh",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn あたらしい and しん (新聞). 新しい keeps しい outside the kanji."
+ },
+ {
+  "kanji": "場",
+  "readings": [
+   {
+    "r": "ば",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{場所|ばしょ}",
+      "en": "place",
+      "lvl": 4
+     },
+     {
+      "w": "{場合|ばあい}",
+      "en": "case, situation",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "じょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{工場|こうじょう}",
+      "en": "factory",
+      "lvl": 4
+     },
+     {
+      "w": "{会場|かいじょう}",
+      "en": "venue",
+      "lvl": 3
+     },
+     {
+      "w": "{駐車場|ちゅうしゃじょう}",
+      "en": "car park",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "ば (場所, 場合) and じょう (会場, 工場) are both common. Places for a purpose often use じょう: 駐車場."
+ },
+ {
+  "kanji": "員",
+  "readings": [
+   {
+    "r": "いん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{会社員|かいしゃいん}",
+      "en": "office worker",
+      "lvl": 4
+     },
+     {
+      "w": "{店員|てんいん}",
+      "en": "shop staff",
+      "lvl": 4
+     },
+     {
+      "w": "{銀行員|ぎんこういん}",
+      "en": "bank clerk",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "Only いん. Add it to a place to make a worker: 店員, 会社員. Do not mix up 員 (口 on top) with 買 (buy)."
+ },
+ {
+  "kanji": "立",
+  "readings": [
+   {
+    "r": "た",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{立|た}つ",
+      "en": "to stand",
+      "lvl": 5
+     },
+     {
+      "w": "{立|た}てる",
+      "en": "to stand up, set up",
+      "lvl": 4
+     },
+     {
+      "w": "{役|やく}に{立|た}つ",
+      "en": "to be useful",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "りつ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{国立|こくりつ}",
+      "en": "national (run by the state)",
+      "lvl": 3
+     },
+     {
+      "w": "{私立|しりつ}",
+      "en": "private (school)",
+      "lvl": 3
+     },
+     {
+      "w": "{立派|りっぱ}",
+      "en": "splendid, fine",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "たつ (stand) is the N5 word. りつ often becomes りっ, as in 立派."
+ },
+ {
+  "kanji": "開",
+  "readings": [
+   {
+    "r": "あ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{開|あ}く",
+      "en": "to open (by itself)",
+      "lvl": 5
+     },
+     {
+      "w": "{開|あ}ける",
+      "en": "to open (something)",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "ひら",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{開|ひら}く",
+      "en": "to open, hold (an event)",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "かい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{開始|かいし}",
+      "en": "start",
+      "lvl": 3
+     },
+     {
+      "w": "{開発|かいはつ}",
+      "en": "development",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "For N5 learn あく and あける. 開く can be read あく or ひらく, so check the context."
+ },
+ {
+  "kanji": "手",
+  "readings": [
+   {
+    "r": "て",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{手|て}",
+      "en": "hand",
+      "lvl": 5
+     },
+     {
+      "w": "{手紙|てがみ}",
+      "en": "letter",
+      "lvl": 5
+     },
+     {
+      "w": "{切手|きって}",
+      "en": "stamp",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "しゅ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{歌手|かしゅ}",
+      "en": "singer",
+      "lvl": 3
+     },
+     {
+      "w": "{運転手|うんてんしゅ}",
+      "en": "driver",
+      "lvl": 3
+     },
+     {
+      "w": "{選手|せんしゅ}",
+      "en": "player, athlete",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "special",
+    "type": "special",
+    "words": [
+     {
+      "w": "{上手|じょうず}",
+      "en": "good at",
+      "lvl": 5
+     },
+     {
+      "w": "{下手|へた}",
+      "en": "bad at",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "て is the main reading. Traps: 上手 is じょうず and 下手 is へた."
+ },
+ {
+  "kanji": "力",
+  "readings": [
+   {
+    "r": "ちから",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{力|ちから}",
+      "en": "power, strength",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "りょく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{努力|どりょく}",
+      "en": "effort",
+      "lvl": 3
+     },
+     {
+      "w": "{協力|きょうりょく}",
+      "en": "cooperation",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "りき",
+    "type": "on",
+    "words": [
+     {
+      "w": "{力士|りきし}",
+      "en": "sumo wrestler",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "ちから is the word; りょく appears in compounds like 努力. Do not confuse 力 with katakana カ."
+ },
+ {
+  "kanji": "問",
+  "readings": [
+   {
+    "r": "もん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{問題|もんだい}",
+      "en": "problem, question",
+      "lvl": 4
+     },
+     {
+      "w": "{質問|しつもん}",
+      "en": "question",
+      "lvl": 4
+     },
+     {
+      "w": "{学問|がくもん}",
+      "en": "learning, study",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "と",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{問|と}い",
+      "en": "question (written)",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "もん is what you need: 問題, 質問. Do not mix up 問 (口 inside) with 聞 (耳 inside) or 間 (日 inside)."
+ },
+ {
+  "kanji": "代",
+  "readings": [
+   {
+    "r": "だい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{時代|じだい}",
+      "en": "era, period",
+      "lvl": 3
+     },
+     {
+      "w": "{代表|だいひょう}",
+      "en": "representative",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "か",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{代|か}わる",
+      "en": "to take the place of",
+      "lvl": 3
+     },
+     {
+      "w": "{代|か}わり",
+      "en": "substitute",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "たい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{交代|こうたい}",
+      "en": "taking turns, swap",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "だい is the main on reading: 時代. 代わる means to take someone's place; do not mix it up with 変わる (to change)."
+ },
+ {
+  "kanji": "明",
+  "readings": [
+   {
+    "r": "あか",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{明|あか}るい",
+      "en": "bright",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "あ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{明|あ}かり",
+      "en": "light, lamp",
+      "lvl": 3
+     },
+     {
+      "w": "{明|あ}ける",
+      "en": "to dawn, (a period) to end",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "めい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{説明|せつめい}",
+      "en": "explanation",
+      "lvl": 4
+     },
+     {
+      "w": "{発明|はつめい}",
+      "en": "invention",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "みょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{明日|みょうにち}",
+      "en": "tomorrow (formal)",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "あかるい and めい (説明) matter most. 明日 is usually read あした, a special reading."
+ },
+ {
+  "kanji": "動",
+  "readings": [
+   {
+    "r": "うご",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{動|うご}く",
+      "en": "to move",
+      "lvl": 4
+     },
+     {
+      "w": "{動|うご}かす",
+      "en": "to move (something)",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "どう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{動物|どうぶつ}",
+      "en": "animal",
+      "lvl": 5
+     },
+     {
+      "w": "{運動|うんどう}",
+      "en": "exercise",
+      "lvl": 4
+     },
+     {
+      "w": "{自動車|じどうしゃ}",
+      "en": "car",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "うごく and どう (動物, 運動) are both key. Do not confuse 動 with 働 (work), which adds 亻."
+ },
+ {
+  "kanji": "京",
+  "readings": [
+   {
+    "r": "きょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{東京|とうきょう}",
+      "en": "Tokyo",
+      "lvl": 5
+     },
+     {
+      "w": "{京都|きょうと}",
+      "en": "Kyoto",
+      "lvl": 4
+     },
+     {
+      "w": "{上京|じょうきょう}",
+      "en": "moving to Tokyo",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only きょう matters: 東京, 京都."
+ },
+ {
+  "kanji": "目",
+  "readings": [
+   {
+    "r": "め",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{目|め}",
+      "en": "eye",
+      "lvl": 5
+     },
+     {
+      "w": "{一番目|いちばんめ}",
+      "en": "the first (in order)",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "もく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{目的|もくてき}",
+      "en": "purpose",
+      "lvl": 3
+     },
+     {
+      "w": "{目標|もくひょう}",
+      "en": "goal",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "め (eye) is the N5 word. As a suffix it shows order: 一番目, 二つ目."
+ },
+ {
+  "kanji": "通",
+  "readings": [
+   {
+    "r": "かよ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{通|かよ}う",
+      "en": "to go regularly, commute",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "とお",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{通|とお}る",
+      "en": "to pass through",
+      "lvl": 3
+     },
+     {
+      "w": "{通|とお}り",
+      "en": "street",
+      "lvl": 4
+     },
+     {
+      "w": "{大通|おおどお}り",
+      "en": "main street",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "つう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{交通|こうつう}",
+      "en": "traffic",
+      "lvl": 4
+     },
+     {
+      "w": "{普通|ふつう}",
+      "en": "normal, usual",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "Learn かよう (commute), とおる (pass) and つう (交通, 普通). Spell it とおり, not とうり."
+ },
+ {
+  "kanji": "言",
+  "readings": [
+   {
+    "r": "い",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{言|い}う",
+      "en": "to say",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "こと",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{言葉|ことば}",
+      "en": "word, language",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "げん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{言語|げんご}",
+      "en": "language",
+      "lvl": 2
+     },
+     {
+      "w": "{方言|ほうげん}",
+      "en": "dialect",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "ごん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{伝言|でんごん}",
+      "en": "message",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "いう and ことば are the ones for N5/N4. 言う sounds like ゆう but is written いう."
+ },
+ {
+  "kanji": "理",
+  "readings": [
+   {
+    "r": "り",
+    "type": "on",
+    "words": [
+     {
+      "w": "{料理|りょうり}",
+      "en": "cooking, dish",
+      "lvl": 4
+     },
+     {
+      "w": "{理由|りゆう}",
+      "en": "reason",
+      "lvl": 4
+     },
+     {
+      "w": "{無理|むり}",
+      "en": "impossible, too much",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "Only り: 料理, 理由. 理 is 王 plus 里 (village)."
+ },
+ {
+  "kanji": "体",
+  "readings": [
+   {
+    "r": "からだ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{体|からだ}",
+      "en": "body",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "たい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{大体|だいたい}",
+      "en": "mostly, about",
+      "lvl": 4
+     },
+     {
+      "w": "{体育|たいいく}",
+      "en": "PE (sport class)",
+      "lvl": 3
+     },
+     {
+      "w": "{体重|たいじゅう}",
+      "en": "body weight",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "からだ (body) is the N5 word; たい appears in 大体. Do not mix up 体 (亻 + 本) with 休 (rest, 亻 + 木)."
+ },
+ {
+  "kanji": "田",
+  "readings": [
+   {
+    "r": "た",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{田|た}",
+      "en": "rice field",
+      "lvl": 3
+     },
+     {
+      "w": "{田|た}んぼ",
+      "en": "rice paddy",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "でん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{水田|すいでん}",
+      "en": "flooded rice field",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "た is the one to know; in names it often becomes だ (山田). 田舎 has a special reading: いなか (countryside)."
+ },
+ {
+  "kanji": "主",
+  "readings": [
+   {
+    "r": "しゅ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{主人|しゅじん}",
+      "en": "husband, master",
+      "lvl": 4
+     },
+     {
+      "w": "{主婦|しゅふ}",
+      "en": "housewife",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "おも",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{主|おも}な",
+      "en": "main",
+      "lvl": 3
+     },
+     {
+      "w": "{主|おも}に",
+      "en": "mainly",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "ぬし",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{持|も}ち{主|ぬし}",
+      "en": "owner",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "しゅ (主人) and おも (主に) are the useful ones. ご主人 means someone else's husband."
+ },
+ {
+  "kanji": "題",
+  "readings": [
+   {
+    "r": "だい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{問題|もんだい}",
+      "en": "problem, question",
+      "lvl": 4
+     },
+     {
+      "w": "{宿題|しゅくだい}",
+      "en": "homework",
+      "lvl": 4
+     },
+     {
+      "w": "{話題|わだい}",
+      "en": "topic",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "Only だい: 問題, 宿題."
+ },
+ {
+  "kanji": "意",
+  "readings": [
+   {
+    "r": "い",
+    "type": "on",
+    "words": [
+     {
+      "w": "{意味|いみ}",
+      "en": "meaning",
+      "lvl": 4
+     },
+     {
+      "w": "{注意|ちゅうい}",
+      "en": "care, warning",
+      "lvl": 4
+     },
+     {
+      "w": "{意見|いけん}",
+      "en": "opinion",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "Only い: 意味, 注意. 意 is 音 (sound) over 心 (heart)."
+ },
+ {
+  "kanji": "不",
+  "readings": [
+   {
+    "r": "ふ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{不便|ふべん}",
+      "en": "inconvenient",
+      "lvl": 4
+     },
+     {
+      "w": "{不安|ふあん}",
+      "en": "worry, anxiety",
+      "lvl": 3
+     },
+     {
+      "w": "{不足|ふそく}",
+      "en": "shortage",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "ぶ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{不器用|ぶきよう}",
+      "en": "clumsy",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Mostly ふ, meaning not: 不便 is not convenient. ぶ is rare (不器用)."
+ },
+ {
+  "kanji": "作",
+  "readings": [
+   {
+    "r": "つく",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{作|つく}る",
+      "en": "to make",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "さく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{作文|さくぶん}",
+      "en": "essay, composition",
+      "lvl": 4
+     },
+     {
+      "w": "{作品|さくひん}",
+      "en": "work (of art)",
+      "lvl": 3
+     },
+     {
+      "w": "{作家|さっか}",
+      "en": "writer, author",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "さ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{作業|さぎょう}",
+      "en": "work, task",
+      "lvl": 2
+     },
+     {
+      "w": "{動作|どうさ}",
+      "en": "movement, action",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "つくる is the N5 word. さく (作文) and さ (作業) sound close, so learn them word by word."
+ },
+ {
+  "kanji": "用",
+  "readings": [
+   {
+    "r": "よう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{用事|ようじ}",
+      "en": "errand, things to do",
+      "lvl": 4
+     },
+     {
+      "w": "{用意|ようい}",
+      "en": "preparation",
+      "lvl": 4
+     },
+     {
+      "w": "{利用|りよう}",
+      "en": "use",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "もち",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{用|もち}いる",
+      "en": "to use (formal)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "よう is what you need: 用事, 用意. もちいる is formal writing."
+ },
+ {
+  "kanji": "度",
+  "readings": [
+   {
+    "r": "ど",
+    "type": "on",
+    "words": [
+     {
+      "w": "{今度|こんど}",
+      "en": "next time, this time",
+      "lvl": 4
+     },
+     {
+      "w": "{一度|いちど}",
+      "en": "once",
+      "lvl": 4
+     },
+     {
+      "w": "{温度|おんど}",
+      "en": "temperature",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "たく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{支度|したく}",
+      "en": "getting ready",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "たび",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{度|たび}",
+      "en": "each time",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "ど is the key reading, for times and degrees: 一度, 今度. 支度 (getting ready) uses たく."
+ },
+ {
+  "kanji": "強",
+  "readings": [
+   {
+    "r": "つよ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{強|つよ}い",
+      "en": "strong",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "きょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{勉強|べんきょう}",
+      "en": "study",
+      "lvl": 5
+     },
+     {
+      "w": "{強力|きょうりょく}",
+      "en": "powerful",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "ごう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{強引|ごういん}",
+      "en": "pushy, forceful",
+      "lvl": 1
+     },
+     {
+      "w": "{強盗|ごうとう}",
+      "en": "robber, robbery",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "つよい and べんきょう are N5 words. 勉強 means study, even though 強 means strong."
+ },
+ {
+  "kanji": "公",
+  "readings": [
+   {
+    "r": "こう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{公園|こうえん}",
+      "en": "park",
+      "lvl": 5
+     },
+     {
+      "w": "{公務員|こうむいん}",
+      "en": "civil servant",
+      "lvl": 3
+     },
+     {
+      "w": "{公共|こうきょう}",
+      "en": "public",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "おおやけ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{公|おおやけ}",
+      "en": "public, official",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "こう is the reading to know: 公園."
+ },
+ {
+  "kanji": "持",
+  "readings": [
+   {
+    "r": "も",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{持|も}つ",
+      "en": "to hold, have",
+      "lvl": 5
+     },
+     {
+      "w": "{気持|きも}ち",
+      "en": "feeling",
+      "lvl": 4
+     },
+     {
+      "w": "{金持|かねも}ち",
+      "en": "rich person",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "じ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{維持|いじ}",
+      "en": "keeping up, maintenance",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "もつ is the main reading: 持つ, 気持ち. じ only appears in harder words like 維持."
+ },
+ {
+  "kanji": "野",
+  "readings": [
+   {
+    "r": "や",
+    "type": "on",
+    "words": [
+     {
+      "w": "{野菜|やさい}",
+      "en": "vegetable",
+      "lvl": 4
+     },
+     {
+      "w": "{野球|やきゅう}",
+      "en": "baseball",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "の",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{野原|のはら}",
+      "en": "field, meadow",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "や is the one for N4: 野菜, 野球. の appears in 野原 and many names."
+ },
+ {
+  "kanji": "以",
+  "readings": [
+   {
+    "r": "い",
+    "type": "on",
+    "words": [
+     {
+      "w": "{以上|いじょう}",
+      "en": "or more, above",
+      "lvl": 4
+     },
+     {
+      "w": "{以下|いか}",
+      "en": "or less, below",
+      "lvl": 4
+     },
+     {
+      "w": "{以前|いぜん}",
+      "en": "before, formerly",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "Only い, in 以上 (or more) and 以下 (or less). Both include the number itself."
+ },
+ {
+  "kanji": "思",
+  "readings": [
+   {
+    "r": "おも",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{思|おも}う",
+      "en": "to think",
+      "lvl": 4
+     },
+     {
+      "w": "{思|おも}い{出|だ}す",
+      "en": "to remember",
+      "lvl": 4
+     },
+     {
+      "w": "{思|おも}い{出|で}",
+      "en": "memory",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "し",
+    "type": "on",
+    "words": [
+     {
+      "w": "{不思議|ふしぎ}",
+      "en": "strange, mysterious",
+      "lvl": 3
+     },
+     {
+      "w": "{思想|しそう}",
+      "en": "idea, way of thinking",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "おもう is the N4 word. 思い出 is おもいで, but 思い出す is おもいだす."
+ },
+ {
+  "kanji": "家",
+  "readings": [
+   {
+    "r": "いえ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{家|いえ}",
+      "en": "house",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "うち",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{家|うち}",
+      "en": "home, my family",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "か",
+    "type": "on",
+    "words": [
+     {
+      "w": "{家族|かぞく}",
+      "en": "family",
+      "lvl": 5
+     },
+     {
+      "w": "{家庭|かてい}",
+      "en": "home, household",
+      "lvl": 3
+     },
+     {
+      "w": "{作家|さっか}",
+      "en": "writer",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "や",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{家賃|やちん}",
+      "en": "rent",
+      "lvl": 2
+     },
+     {
+      "w": "{大家|おおや}",
+      "en": "landlord",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "いえ, うち and か (家族) all matter. In 作家 and 画家, 家 means a person who does that job."
+ },
+ {
+  "kanji": "世",
+  "readings": [
+   {
+    "r": "せ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{世界|せかい}",
+      "en": "world",
+      "lvl": 4
+     },
+     {
+      "w": "{世話|せわ}",
+      "en": "care, help",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "せい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{世紀|せいき}",
+      "en": "century",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "よ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{世|よ}の{中|なか}",
+      "en": "society, the world",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "せ is the N4 reading: 世界, お世話. せい is for 世紀 (century)."
+ },
+ {
+  "kanji": "多",
+  "readings": [
+   {
+    "r": "おお",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{多|おお}い",
+      "en": "many, a lot",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "た",
+    "type": "on",
+    "words": [
+     {
+      "w": "{多分|たぶん}",
+      "en": "probably",
+      "lvl": 4
+     },
+     {
+      "w": "{多少|たしょう}",
+      "en": "a little, more or less",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "おおい and たぶん are the ones to know. 多い is おおい, not おうい."
+ },
+ {
+  "kanji": "正",
+  "readings": [
+   {
+    "r": "ただ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{正|ただ}しい",
+      "en": "correct",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "しょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{正月|しょうがつ}",
+      "en": "New Year",
+      "lvl": 4
+     },
+     {
+      "w": "{正直|しょうじき}",
+      "en": "honest",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "せい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{正解|せいかい}",
+      "en": "correct answer",
+      "lvl": 2
+     },
+     {
+      "w": "{正確|せいかく}",
+      "en": "accurate",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "ただしい and しょう (お正月) matter at N4. せい appears in 正解 (correct answer)."
+ },
+ {
+  "kanji": "安",
+  "readings": [
+   {
+    "r": "やす",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{安|やす}い",
+      "en": "cheap",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "あん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{安心|あんしん}",
+      "en": "relief, peace of mind",
+      "lvl": 4
+     },
+     {
+      "w": "{安全|あんぜん}",
+      "en": "safe",
+      "lvl": 4
+     },
+     {
+      "w": "{不安|ふあん}",
+      "en": "worry",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "やすい (cheap) and あん (安心) are both key. やすい means cheap, not easy (easy is 易しい やさしい)."
+ },
+ {
+  "kanji": "院",
+  "readings": [
+   {
+    "r": "いん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{病院|びょういん}",
+      "en": "hospital",
+      "lvl": 5
+     },
+     {
+      "w": "{入院|にゅういん}",
+      "en": "going into hospital",
+      "lvl": 3
+     },
+     {
+      "w": "{大学院|だいがくいん}",
+      "en": "graduate school",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "Only いん: 病院. Do not confuse 病院 (hospital) with 美容院 (hair salon)."
+ },
+ {
+  "kanji": "心",
+  "readings": [
+   {
+    "r": "こころ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{心|こころ}",
+      "en": "heart, mind",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "しん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{心配|しんぱい}",
+      "en": "worry",
+      "lvl": 4
+     },
+     {
+      "w": "{安心|あんしん}",
+      "en": "relief",
+      "lvl": 4
+     },
+     {
+      "w": "{中心|ちゅうしん}",
+      "en": "center",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "こころ and しん (心配, 安心) are the ones to learn."
+ },
+ {
+  "kanji": "界",
+  "readings": [
+   {
+    "r": "かい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{世界|せかい}",
+      "en": "world",
+      "lvl": 4
+     },
+     {
+      "w": "{限界|げんかい}",
+      "en": "limit",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Only かい, and 世界 is the word you need."
+ },
+ {
+  "kanji": "教",
+  "readings": [
+   {
+    "r": "おし",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{教|おし}える",
+      "en": "to teach, tell",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "おそ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{教|おそ}わる",
+      "en": "to be taught, learn",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "きょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{教室|きょうしつ}",
+      "en": "classroom",
+      "lvl": 5
+     },
+     {
+      "w": "{教会|きょうかい}",
+      "en": "church",
+      "lvl": 4
+     },
+     {
+      "w": "{教育|きょういく}",
+      "en": "education",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "おしえる (teach) and きょう (教室) matter most. おそわる is the other side: to be taught."
+ },
+ {
+  "kanji": "文",
+  "readings": [
+   {
+    "r": "ぶん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{作文|さくぶん}",
+      "en": "essay",
+      "lvl": 4
+     },
+     {
+      "w": "{文化|ぶんか}",
+      "en": "culture",
+      "lvl": 4
+     },
+     {
+      "w": "{文学|ぶんがく}",
+      "en": "literature",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "もん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{注文|ちゅうもん}",
+      "en": "order (food, goods)",
+      "lvl": 3
+     },
+     {
+      "w": "{文句|もんく}",
+      "en": "complaint",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "ぶん is the main reading. 注文 (order) uses もん, a common trap."
+ },
+ {
+  "kanji": "元",
+  "readings": [
+   {
+    "r": "げん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{元気|げんき}",
+      "en": "healthy, lively",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "がん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{元日|がんじつ}",
+      "en": "New Year's Day",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "もと",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{元|もと}",
+      "en": "origin, former",
+      "lvl": 2
+     },
+     {
+      "w": "{地元|じもと}",
+      "en": "hometown, local area",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "げん in 元気 is the N5 word. 元日 (New Year's Day) uses がん."
+ },
+ {
+  "kanji": "重",
+  "readings": [
+   {
+    "r": "おも",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{重|おも}い",
+      "en": "heavy",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "じゅう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{体重|たいじゅう}",
+      "en": "body weight",
+      "lvl": 2
+     },
+     {
+      "w": "{重要|じゅうよう}",
+      "en": "important",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "ちょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{貴重|きちょう}",
+      "en": "precious, valuable",
+      "lvl": 2
+     },
+     {
+      "w": "{慎重|しんちょう}",
+      "en": "careful",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "かさ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{重|かさ}ねる",
+      "en": "to pile up",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "おもい (heavy) is the N4 word. じゅう appears in 体重, ちょう in 貴重 (precious)."
+ },
+ {
+  "kanji": "近",
+  "readings": [
+   {
+    "r": "ちか",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{近|ちか}い",
+      "en": "near",
+      "lvl": 5
+     },
+     {
+      "w": "{近|ちか}く",
+      "en": "nearby",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "きん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{近所|きんじょ}",
+      "en": "neighborhood",
+      "lvl": 4
+     },
+     {
+      "w": "{最近|さいきん}",
+      "en": "recently",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "ちかい and きん (近所, 最近) are both N4 must knows."
+ },
+ {
+  "kanji": "考",
+  "readings": [
+   {
+    "r": "かんが",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{考|かんが}える",
+      "en": "to think, consider",
+      "lvl": 4
+     },
+     {
+      "w": "{考|かんが}え",
+      "en": "idea, thought",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "こう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{参考|さんこう}",
+      "en": "reference",
+      "lvl": 2
+     },
+     {
+      "w": "{思考|しこう}",
+      "en": "thinking",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "かんがえる is the one to learn. Do not mix up 考 with 老 (old)."
+ },
+ {
+  "kanji": "画",
+  "readings": [
+   {
+    "r": "が",
+    "type": "on",
+    "words": [
+     {
+      "w": "{映画|えいが}",
+      "en": "movie",
+      "lvl": 5
+     },
+     {
+      "w": "{画家|がか}",
+      "en": "painter",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "かく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{計画|けいかく}",
+      "en": "plan",
+      "lvl": 4
+     },
+     {
+      "w": "{画数|かくすう}",
+      "en": "number of strokes",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "が (映画) and かく (計画) are both N4. Learn which word uses which reading."
+ },
+ {
+  "kanji": "海",
+  "readings": [
+   {
+    "r": "うみ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{海|うみ}",
+      "en": "sea",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "かい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{海外|かいがい}",
+      "en": "overseas",
+      "lvl": 3
+     },
+     {
+      "w": "{海岸|かいがん}",
+      "en": "seashore",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "うみ (sea) is the N5 word; かい appears in 海外 (overseas). 海 is water (氵) plus 毎."
+ },
+ {
+  "kanji": "売",
+  "readings": [
+   {
+    "r": "う",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{売|う}る",
+      "en": "to sell",
+      "lvl": 5
+     },
+     {
+      "w": "{売|う}り{場|ば}",
+      "en": "sales floor, counter",
+      "lvl": 4
+     },
+     {
+      "w": "{売|う}れる",
+      "en": "to sell well",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "ばい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{売店|ばいてん}",
+      "en": "kiosk, stand",
+      "lvl": 3
+     },
+     {
+      "w": "{販売|はんばい}",
+      "en": "sales",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "うる (sell) is the key word. Its opposite is 買う (buy), which also has ばい as its on reading."
+ },
+ {
+  "kanji": "知",
+  "readings": [
+   {
+    "r": "し",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{知|し}る",
+      "en": "to know",
+      "lvl": 5
+     },
+     {
+      "w": "お{知|し}らせ",
+      "en": "notice, announcement",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "ち",
+    "type": "on",
+    "words": [
+     {
+      "w": "{知識|ちしき}",
+      "en": "knowledge",
+      "lvl": 2
+     },
+     {
+      "w": "{承知|しょうち}",
+      "en": "understanding, consent",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "しる is the N5 word. Say 知っています for 'I know', and 知りません for 'I don't know'."
+ },
+ {
+  "kanji": "道",
+  "readings": [
+   {
+    "r": "みち",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{道|みち}",
+      "en": "road, way",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "どう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{水道|すいどう}",
+      "en": "water supply",
+      "lvl": 4
+     },
+     {
+      "w": "{道具|どうぐ}",
+      "en": "tool",
+      "lvl": 3
+     },
+     {
+      "w": "{柔道|じゅうどう}",
+      "en": "judo",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "みち (road) is the N5 word; どう appears in 水道 and 柔道."
+ },
+ {
+  "kanji": "集",
+  "readings": [
+   {
+    "r": "あつ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{集|あつ}まる",
+      "en": "to gather (people, things)",
+      "lvl": 4
+     },
+     {
+      "w": "{集|あつ}める",
+      "en": "to collect",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "しゅう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{集合|しゅうごう}",
+      "en": "meeting up, assembly",
+      "lvl": 3
+     },
+     {
+      "w": "{集中|しゅうちゅう}",
+      "en": "focus, concentration",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "あつまる (things gather) and あつめる (you collect them) are both N4."
+ },
+ {
+  "kanji": "別",
+  "readings": [
+   {
+    "r": "べつ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{特別|とくべつ}",
+      "en": "special",
+      "lvl": 4
+     },
+     {
+      "w": "{別|べつ}",
+      "en": "different, separate",
+      "lvl": 4
+     },
+     {
+      "w": "{別々|べつべつ}",
+      "en": "separately",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "わか",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{別|わか}れる",
+      "en": "to part, break up",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "べつ (特別) and わかれる matter. Do not mix up 別れる (part from someone) with 分かれる (split into parts)."
+ },
+ {
+  "kanji": "物",
+  "readings": [
+   {
+    "r": "もの",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{物|もの}",
+      "en": "thing",
+      "lvl": 4
+     },
+     {
+      "w": "{食|た}べ{物|もの}",
+      "en": "food",
+      "lvl": 5
+     },
+     {
+      "w": "{買|か}い{物|もの}",
+      "en": "shopping",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "ぶつ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{動物|どうぶつ}",
+      "en": "animal",
+      "lvl": 5
+     },
+     {
+      "w": "{物理|ぶつり}",
+      "en": "physics",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "もつ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{荷物|にもつ}",
+      "en": "luggage",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "もの and ぶつ (動物) are both common. 荷物 (luggage) uses もつ, a classic trap."
+ },
+ {
+  "kanji": "使",
+  "readings": [
+   {
+    "r": "つか",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{使|つか}う",
+      "en": "to use",
+      "lvl": 5
+     },
+     {
+      "w": "{使|つか}い{方|かた}",
+      "en": "how to use",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "し",
+    "type": "on",
+    "words": [
+     {
+      "w": "{大使館|たいしかん}",
+      "en": "embassy",
+      "lvl": 5
+     },
+     {
+      "w": "{使用|しよう}",
+      "en": "use",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "つかう is the N5 word; し appears in 大使館 (embassy). Do not mix up 使 with 便 (as in 便利)."
+ },
+ {
+  "kanji": "品",
+  "readings": [
+   {
+    "r": "ひん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{作品|さくひん}",
+      "en": "work (of art)",
+      "lvl": 3
+     },
+     {
+      "w": "{商品|しょうひん}",
+      "en": "goods, product",
+      "lvl": 3
+     },
+     {
+      "w": "{食料品|しょくりょうひん}",
+      "en": "groceries",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "しな",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{品物|しなもの}",
+      "en": "goods",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "ひん (作品) and しな (品物) are the two readings. 品 is three 口 shapes stacked."
+ },
+ {
+  "kanji": "計",
+  "readings": [
+   {
+    "r": "けい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{時計|とけい}",
+      "en": "clock, watch",
+      "lvl": 5
+     },
+     {
+      "w": "{計画|けいかく}",
+      "en": "plan",
+      "lvl": 4
+     },
+     {
+      "w": "{合計|ごうけい}",
+      "en": "total",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "はか",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{計|はか}る",
+      "en": "to measure (time, amount)",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "けい is the main reading: 時計 (clock), 計画."
+ },
+ {
+  "kanji": "死",
+  "readings": [
+   {
+    "r": "し",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{死|し}ぬ",
+      "en": "to die",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "し",
+    "type": "on",
+    "words": [
+     {
+      "w": "{必死|ひっし}",
+      "en": "desperate, all out",
+      "lvl": 2
+     },
+     {
+      "w": "{死亡|しぼう}",
+      "en": "death",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "しぬ is the N4 word. Both readings are し, so it is easy to read."
+ },
+ {
+  "kanji": "特",
+  "readings": [
+   {
+    "r": "とく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{特|とく}に",
+      "en": "especially",
+      "lvl": 4
+     },
+     {
+      "w": "{特別|とくべつ}",
+      "en": "special",
+      "lvl": 4
+     },
+     {
+      "w": "{特急|とっきゅう}",
+      "en": "limited express train",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "Only とく: 特に, 特別. In 特急 it becomes とっ."
+ },
+ {
+  "kanji": "私",
+  "readings": [
+   {
+    "r": "わたし",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{私|わたし}",
+      "en": "I, me",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "わたくし",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{私|わたくし}",
+      "en": "I (very polite)",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "し",
+    "type": "on",
+    "words": [
+     {
+      "w": "{私立|しりつ}",
+      "en": "private (school)",
+      "lvl": 3
+     },
+     {
+      "w": "{私鉄|してつ}",
+      "en": "private railway",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "わたし is the N5 word; わたくし is the polite form. 私立 (private school) uses し."
+ },
+ {
+  "kanji": "始",
+  "readings": [
+   {
+    "r": "はじ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{始|はじ}める",
+      "en": "to start (something)",
+      "lvl": 4
+     },
+     {
+      "w": "{始|はじ}まる",
+      "en": "to start (by itself)",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "し",
+    "type": "on",
+    "words": [
+     {
+      "w": "{開始|かいし}",
+      "en": "start",
+      "lvl": 3
+     },
+     {
+      "w": "{始発|しはつ}",
+      "en": "first train",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "はじめる and はじまる are both N4. Do not mix up 始める with 初めて (for the first time)."
+ },
+ {
+  "kanji": "朝",
+  "readings": [
+   {
+    "r": "あさ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{朝|あさ}",
+      "en": "morning",
+      "lvl": 5
+     },
+     {
+      "w": "{毎朝|まいあさ}",
+      "en": "every morning",
+      "lvl": 5
+     },
+     {
+      "w": "{朝|あさ}ご{飯|はん}",
+      "en": "breakfast",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "ちょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{朝食|ちょうしょく}",
+      "en": "breakfast",
+      "lvl": 3
+     },
+     {
+      "w": "{朝刊|ちょうかん}",
+      "en": "morning paper",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "あさ is the N5 reading. 今朝 has a special reading: けさ (this morning)."
+ },
+ {
+  "kanji": "運",
+  "readings": [
+   {
+    "r": "うん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{運転|うんてん}",
+      "en": "driving",
+      "lvl": 4
+     },
+     {
+      "w": "{運動|うんどう}",
+      "en": "exercise",
+      "lvl": 4
+     },
+     {
+      "w": "{運|うん}",
+      "en": "luck",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "はこ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{運|はこ}ぶ",
+      "en": "to carry",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "うん (運転, 運動) and はこぶ (carry) are both N4."
+ },
+ {
+  "kanji": "終",
+  "readings": [
+   {
+    "r": "お",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{終|お}わる",
+      "en": "to end",
+      "lvl": 5
+     },
+     {
+      "w": "{終|お}える",
+      "en": "to finish (something)",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "しゅう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{終電|しゅうでん}",
+      "en": "last train",
+      "lvl": 2
+     },
+     {
+      "w": "{最終|さいしゅう}",
+      "en": "last, final",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "おわる is the N5 word. しゅう appears in 終電 (last train)."
+ },
+ {
+  "kanji": "台",
+  "readings": [
+   {
+    "r": "だい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{台所|だいどころ}",
+      "en": "kitchen",
+      "lvl": 4
+     },
+     {
+      "w": "{一台|いちだい}",
+      "en": "one (car, machine)",
+      "lvl": 4
+     },
+     {
+      "w": "{台|だい}",
+      "en": "stand, base",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "たい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{台風|たいふう}",
+      "en": "typhoon",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "だい is also the counter for cars and machines: 一台. 台風 (typhoon) uses たい."
+ },
+ {
+  "kanji": "広",
+  "readings": [
+   {
+    "r": "ひろ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{広|ひろ}い",
+      "en": "wide, spacious",
+      "lvl": 4
+     },
+     {
+      "w": "{広場|ひろば}",
+      "en": "square, plaza",
+      "lvl": 3
+     },
+     {
+      "w": "{広|ひろ}がる",
+      "en": "to spread",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "こう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{広告|こうこく}",
+      "en": "advert",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "ひろい (wide) is the N4 word. こう appears in 広告 (advert)."
+ },
+ {
+  "kanji": "住",
+  "readings": [
+   {
+    "r": "す",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{住|す}む",
+      "en": "to live (somewhere)",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "じゅう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{住所|じゅうしょ}",
+      "en": "address",
+      "lvl": 4
+     },
+     {
+      "w": "{住宅|じゅうたく}",
+      "en": "housing",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "すむ and じゅう (住所) are the N4 ones. Say 住んでいます for 'I live in'."
+ },
+ {
+  "kanji": "真",
+  "readings": [
+   {
+    "r": "しん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{写真|しゃしん}",
+      "en": "photo",
+      "lvl": 5
+     },
+     {
+      "w": "{真剣|しんけん}",
+      "en": "serious",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "ま",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{真|ま}ん{中|なか}",
+      "en": "the very middle",
+      "lvl": 3
+     },
+     {
+      "w": "{真面目|まじめ}",
+      "en": "serious, hard working",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "しん in 写真 is the N5 word. ま means right or pure: 真ん中 (the very middle)."
+ },
+ {
+  "kanji": "有",
+  "readings": [
+   {
+    "r": "ゆう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{有名|ゆうめい}",
+      "en": "famous",
+      "lvl": 5
+     },
+     {
+      "w": "{有料|ゆうりょう}",
+      "en": "not free, paid",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "う",
+    "type": "on",
+    "words": [
+     {
+      "w": "{有無|うむ}",
+      "en": "whether or not (something exists)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "ゆう in 有名 is the reading to know. ある is usually written in kana, not 有る."
+ },
+ {
+  "kanji": "口",
+  "readings": [
+   {
+    "r": "くち",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{口|くち}",
+      "en": "mouth",
+      "lvl": 5
+     },
+     {
+      "w": "{入口|いりぐち}",
+      "en": "entrance",
+      "lvl": 5
+     },
+     {
+      "w": "{出口|でぐち}",
+      "en": "exit",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "こう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{人口|じんこう}",
+      "en": "population",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "くち is the N5 word. It becomes ぐち after another word: 入口, 出口."
+ },
+ {
+  "kanji": "少",
+  "readings": [
+   {
+    "r": "すこ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{少|すこ}し",
+      "en": "a little",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "すく",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{少|すく}ない",
+      "en": "few",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "しょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{少々|しょうしょう}",
+      "en": "a little (polite)",
+      "lvl": 3
+     },
+     {
+      "w": "{少年|しょうねん}",
+      "en": "boy",
+      "lvl": 3
+     },
+     {
+      "w": "{少女|しょうじょ}",
+      "en": "girl",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "すこし and すくない are both N5; watch the different okurigana. Do not mix up 少 with 小 (small)."
+ },
+ {
+  "kanji": "町",
+  "readings": [
+   {
+    "r": "まち",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{町|まち}",
+      "en": "town",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "ちょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{町長|ちょうちょう}",
+      "en": "town mayor",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "まち (town) is the N5 word. In addresses, 〜町 is often read ちょう."
+ },
+ {
+  "kanji": "料",
+  "readings": [
+   {
+    "r": "りょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{料理|りょうり}",
+      "en": "cooking, dish",
+      "lvl": 4
+     },
+     {
+      "w": "{料金|りょうきん}",
+      "en": "fee, charge",
+      "lvl": 3
+     },
+     {
+      "w": "{材料|ざいりょう}",
+      "en": "ingredients, materials",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "Only りょう: 料理, 料金. Do not mix up 料 (米 on the left) with 科 (禾 on the left)."
+ },
+ {
+  "kanji": "工",
+  "readings": [
+   {
+    "r": "こう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{工場|こうじょう}",
+      "en": "factory",
+      "lvl": 4
+     },
+     {
+      "w": "{工業|こうぎょう}",
+      "en": "industry",
+      "lvl": 4
+     },
+     {
+      "w": "{工事|こうじ}",
+      "en": "construction work",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "く",
+    "type": "on",
+    "words": [
+     {
+      "w": "{大工|だいく}",
+      "en": "carpenter",
+      "lvl": 2
+     },
+     {
+      "w": "{工夫|くふう}",
+      "en": "clever idea, device",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "こう is the main reading: 工場. 大工 (carpenter) and 工夫 use く."
+ }
+]

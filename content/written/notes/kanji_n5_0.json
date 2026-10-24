@@ -1,0 +1,3726 @@
+[
+ {
+  "kanji": "日",
+  "readings": [
+   {
+    "r": "にち",
+    "type": "on",
+    "words": [
+     {
+      "w": "{毎日|まいにち}",
+      "en": "every day",
+      "lvl": 5
+     },
+     {
+      "w": "{日曜日|にちようび}",
+      "en": "Sunday",
+      "lvl": 5
+     },
+     {
+      "w": "{日本|にほん}",
+      "en": "Japan",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "じつ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{本日|ほんじつ}",
+      "en": "today (formal)",
+      "lvl": 3
+     },
+     {
+      "w": "{休日|きゅうじつ}",
+      "en": "day off, holiday",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "ひ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{日|ひ}",
+      "en": "day, sun",
+      "lvl": 5
+     },
+     {
+      "w": "{誕生日|たんじょうび}",
+      "en": "birthday",
+      "lvl": 5
+     },
+     {
+      "w": "{月曜日|げつようび}",
+      "en": "Monday",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "か",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{三日|みっか}",
+      "en": "the 3rd, three days",
+      "lvl": 5
+     },
+     {
+      "w": "{二日|ふつか}",
+      "en": "the 2nd, two days",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "special",
+    "type": "special",
+    "words": [
+     {
+      "w": "{今日|きょう}",
+      "en": "today",
+      "lvl": 5
+     },
+     {
+      "w": "{明日|あした}",
+      "en": "tomorrow",
+      "lvl": 5
+     },
+     {
+      "w": "{一日|ついたち}",
+      "en": "the 1st of the month",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "にち and ひ matter most. Dates use か ({三日|みっか}). Learn {今日|きょう}, {明日|あした}, {一日|ついたち} as whole words."
+ },
+ {
+  "kanji": "一",
+  "readings": [
+   {
+    "r": "いち",
+    "type": "on",
+    "words": [
+     {
+      "w": "{一|いち}",
+      "en": "one",
+      "lvl": 5
+     },
+     {
+      "w": "{一番|いちばん}",
+      "en": "number one, most",
+      "lvl": 5
+     },
+     {
+      "w": "{一緒|いっしょ}",
+      "en": "together",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "いつ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{統一|とういつ}",
+      "en": "unification",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "ひと",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{一|ひと}つ",
+      "en": "one (thing)",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "special",
+    "type": "special",
+    "words": [
+     {
+      "w": "{一人|ひとり}",
+      "en": "one person, alone",
+      "lvl": 5
+     },
+     {
+      "w": "{一日|ついたち}",
+      "en": "the 1st of the month",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "Learn いち and ひと(つ). Trap: {一日|いちにち} (one day) and {一日|ついたち} (the 1st of the month) are written the same."
+ },
+ {
+  "kanji": "国",
+  "readings": [
+   {
+    "r": "こく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{外国|がいこく}",
+      "en": "foreign country",
+      "lvl": 5
+     },
+     {
+      "w": "{中国|ちゅうごく}",
+      "en": "China",
+      "lvl": 5
+     },
+     {
+      "w": "{国際|こくさい}",
+      "en": "international",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "くに",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{国|くに}",
+      "en": "country",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "くに alone and こく in compounds. In {中国|ちゅうごく} the sound changes to ごく."
+ },
+ {
+  "kanji": "人",
+  "readings": [
+   {
+    "r": "じん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{日本人|にほんじん}",
+      "en": "Japanese person",
+      "lvl": 5
+     },
+     {
+      "w": "{外国人|がいこくじん}",
+      "en": "foreigner",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "にん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{三人|さんにん}",
+      "en": "three people",
+      "lvl": 5
+     },
+     {
+      "w": "{人気|にんき}",
+      "en": "popularity",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "ひと",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{人|ひと}",
+      "en": "person",
+      "lvl": 5
+     },
+     {
+      "w": "{人々|ひとびと}",
+      "en": "people",
+      "lvl": 3
+     },
+     {
+      "w": "{恋人|こいびと}",
+      "en": "boyfriend or girlfriend",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "special",
+    "type": "special",
+    "words": [
+     {
+      "w": "{一人|ひとり}",
+      "en": "one person, alone",
+      "lvl": 5
+     },
+     {
+      "w": "{二人|ふたり}",
+      "en": "two people",
+      "lvl": 5
+     },
+     {
+      "w": "{大人|おとな}",
+      "en": "adult",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "Nationality is じん, counting people is にん, but 1 and 2 people are ひとり, ふたり. {大人|おとな} (adult) is a special reading. Do not mix up {人|ひと} and {入|はい}る (enter)."
+ },
+ {
+  "kanji": "年",
+  "readings": [
+   {
+    "r": "ねん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{来年|らいねん}",
+      "en": "next year",
+      "lvl": 5
+     },
+     {
+      "w": "{去年|きょねん}",
+      "en": "last year",
+      "lvl": 5
+     },
+     {
+      "w": "{一年生|いちねんせい}",
+      "en": "first-year student",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "とし",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{年|とし}",
+      "en": "year, age",
+      "lvl": 5
+     },
+     {
+      "w": "{年上|としうえ}",
+      "en": "older (person)",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "special",
+    "type": "special",
+    "words": [
+     {
+      "w": "{今年|ことし}",
+      "en": "this year",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "ねん is the one you will use most. Trap: {今年|ことし} (this year) is a special reading."
+ },
+ {
+  "kanji": "大",
+  "readings": [
+   {
+    "r": "だい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{大学|だいがく}",
+      "en": "university",
+      "lvl": 5
+     },
+     {
+      "w": "{大好|だいす}き",
+      "en": "really like, love",
+      "lvl": 5
+     },
+     {
+      "w": "{大丈夫|だいじょうぶ}",
+      "en": "OK, all right",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "たい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{大変|たいへん}",
+      "en": "very, hard (difficult)",
+      "lvl": 5
+     },
+     {
+      "w": "{大切|たいせつ}",
+      "en": "important, precious",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "おお",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{大|おお}きい",
+      "en": "big",
+      "lvl": 5
+     },
+     {
+      "w": "{大勢|おおぜい}",
+      "en": "many people",
+      "lvl": 5
+     },
+     {
+      "w": "{大雨|おおあめ}",
+      "en": "heavy rain",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "special",
+    "type": "special",
+    "words": [
+     {
+      "w": "{大人|おとな}",
+      "en": "adult",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "Know おお(きい), だい and たい: learn which word uses which. {大人|おとな} (adult) is special. Do not mix up {大|おお}きい, {犬|いぬ} (dog) and {太|ふと}い (fat)."
+ },
+ {
+  "kanji": "十",
+  "readings": [
+   {
+    "r": "じゅう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{十|じゅう}",
+      "en": "ten",
+      "lvl": 5
+     },
+     {
+      "w": "{十分|じゅうぶん}",
+      "en": "enough",
+      "lvl": 4
+     },
+     {
+      "w": "{十分|じゅっぷん}",
+      "en": "ten minutes (also じっぷん)",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "とお",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{十|とお}",
+      "en": "ten (when counting things)",
+      "lvl": 5
+     },
+     {
+      "w": "{十日|とおか}",
+      "en": "the 10th, ten days",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "と",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{十人十色|じゅうにんといろ}",
+      "en": "everyone is different",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "special",
+    "type": "special",
+    "words": [
+     {
+      "w": "{二十歳|はたち}",
+      "en": "20 years old",
+      "lvl": 4
+     },
+     {
+      "w": "{二十日|はつか}",
+      "en": "the 20th, twenty days",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "じゅう is the main reading. Trap: {十分|じゅうぶん} (enough) and {十分|じゅっぷん} (ten minutes) are written the same. {二十歳|はたち} (20 years old) is special."
+ },
+ {
+  "kanji": "二",
+  "readings": [
+   {
+    "r": "に",
+    "type": "on",
+    "words": [
+     {
+      "w": "{二|に}",
+      "en": "two",
+      "lvl": 5
+     },
+     {
+      "w": "{二月|にがつ}",
+      "en": "February",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "ふた",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{二|ふた}つ",
+      "en": "two (things)",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "special",
+    "type": "special",
+    "words": [
+     {
+      "w": "{二人|ふたり}",
+      "en": "two people",
+      "lvl": 5
+     },
+     {
+      "w": "{二日|ふつか}",
+      "en": "the 2nd, two days",
+      "lvl": 5
+     },
+     {
+      "w": "{二十日|はつか}",
+      "en": "the 20th, twenty days",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "に and ふた(つ) are what you need. Watch the dates: {二日|ふつか}, {二十日|はつか} (the 20th)."
+ },
+ {
+  "kanji": "本",
+  "readings": [
+   {
+    "r": "ほん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{本|ほん}",
+      "en": "book",
+      "lvl": 5
+     },
+     {
+      "w": "{本当|ほんとう}",
+      "en": "true, real",
+      "lvl": 4
+     },
+     {
+      "w": "{一本|いっぽん}",
+      "en": "one (long thin thing)",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "ほん is the reading. As a counter for long things it changes: いっぽん, にほん, さんぼん, ろっぽん."
+ },
+ {
+  "kanji": "中",
+  "readings": [
+   {
+    "r": "ちゅう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{中国|ちゅうごく}",
+      "en": "China",
+      "lvl": 5
+     },
+     {
+      "w": "{中学校|ちゅうがっこう}",
+      "en": "junior high school",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "じゅう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{一日中|いちにちじゅう}",
+      "en": "all day long",
+      "lvl": 4
+     },
+     {
+      "w": "{世界中|せかいじゅう}",
+      "en": "all over the world",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "なか",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{中|なか}",
+      "en": "inside, middle",
+      "lvl": 5
+     },
+     {
+      "w": "{背中|せなか}",
+      "en": "back (of the body)",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "なか and ちゅう are key. After a word, ちゅう means during ({授業中|じゅぎょうちゅう}) and じゅう means all through ({一日中|いちにちじゅう})."
+ },
+ {
+  "kanji": "長",
+  "readings": [
+   {
+    "r": "ちょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{社長|しゃちょう}",
+      "en": "company president",
+      "lvl": 4
+     },
+     {
+      "w": "{校長|こうちょう}",
+      "en": "school principal",
+      "lvl": 3
+     },
+     {
+      "w": "{部長|ぶちょう}",
+      "en": "department head",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "なが",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{長|なが}い",
+      "en": "long",
+      "lvl": 5
+     },
+     {
+      "w": "{長|なが}さ",
+      "en": "length",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "なが(い) is N5. ちょう in a word usually means the boss or head of something."
+ },
+ {
+  "kanji": "出",
+  "readings": [
+   {
+    "r": "で",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{出|で}る",
+      "en": "go out, leave",
+      "lvl": 5
+     },
+     {
+      "w": "{出口|でぐち}",
+      "en": "exit",
+      "lvl": 5
+     },
+     {
+      "w": "{出|で}かける",
+      "en": "go out",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "だ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{出|だ}す",
+      "en": "take out, send",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "しゅつ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{出発|しゅっぱつ}",
+      "en": "departure",
+      "lvl": 4
+     },
+     {
+      "w": "{出席|しゅっせき}",
+      "en": "attendance",
+      "lvl": 3
+     },
+     {
+      "w": "{提出|ていしゅつ}",
+      "en": "handing in",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {出|で}る (you go out) and {出|だ}す (you take something out). しゅつ often becomes しゅっ, as in {出発|しゅっぱつ}."
+ },
+ {
+  "kanji": "三",
+  "readings": [
+   {
+    "r": "さん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{三|さん}",
+      "en": "three",
+      "lvl": 5
+     },
+     {
+      "w": "{三月|さんがつ}",
+      "en": "March",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "みっ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{三|みっ}つ",
+      "en": "three (things)",
+      "lvl": 5
+     },
+     {
+      "w": "{三日|みっか}",
+      "en": "the 3rd, three days",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "さん and みっ(つ). After さん the next sound often changes: {三本|さんぼん}, {三階|さんがい}."
+ },
+ {
+  "kanji": "時",
+  "readings": [
+   {
+    "r": "じ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{時間|じかん}",
+      "en": "time, hours",
+      "lvl": 5
+     },
+     {
+      "w": "{一時|いちじ}",
+      "en": "one o'clock",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "とき",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{時|とき}",
+      "en": "time, when",
+      "lvl": 5
+     },
+     {
+      "w": "{時々|ときどき}",
+      "en": "sometimes",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "special",
+    "type": "special",
+    "words": [
+     {
+      "w": "{時計|とけい}",
+      "en": "clock, watch",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "じ for clock times, とき for when. Trap: {時計|とけい} (clock) is a special reading."
+ },
+ {
+  "kanji": "行",
+  "readings": [
+   {
+    "r": "い",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{行|い}く",
+      "en": "go",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "おこな",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{行|おこな}う",
+      "en": "carry out, hold (an event)",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "こう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{銀行|ぎんこう}",
+      "en": "bank",
+      "lvl": 5
+     },
+     {
+      "w": "{旅行|りょこう}",
+      "en": "trip",
+      "lvl": 5
+     },
+     {
+      "w": "{飛行機|ひこうき}",
+      "en": "airplane",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "ぎょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{行事|ぎょうじ}",
+      "en": "event",
+      "lvl": 2
+     },
+     {
+      "w": "{行|ぎょう}",
+      "en": "line (of text)",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "{行|い}く and こう are the big ones. The te-form is irregular: {行|い}って, not いいて."
+ },
+ {
+  "kanji": "見",
+  "readings": [
+   {
+    "r": "み",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{見|み}る",
+      "en": "see, look",
+      "lvl": 5
+     },
+     {
+      "w": "{見|み}せる",
+      "en": "show",
+      "lvl": 5
+     },
+     {
+      "w": "{見|み}える",
+      "en": "can be seen",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "けん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{意見|いけん}",
+      "en": "opinion",
+      "lvl": 4
+     },
+     {
+      "w": "{見物|けんぶつ}",
+      "en": "sightseeing",
+      "lvl": 4
+     },
+     {
+      "w": "{見学|けんがく}",
+      "en": "study visit",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "み is the main reading. Keep {見|み}る (look), {見|み}える (be visible) and {見|み}せる (show) apart. Do not mix up {見|み}る and {貝|かい} (shell)."
+ },
+ {
+  "kanji": "月",
+  "readings": [
+   {
+    "r": "げつ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{月曜日|げつようび}",
+      "en": "Monday",
+      "lvl": 5
+     },
+     {
+      "w": "{来月|らいげつ}",
+      "en": "next month",
+      "lvl": 5
+     },
+     {
+      "w": "{今月|こんげつ}",
+      "en": "this month",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "がつ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{一月|いちがつ}",
+      "en": "January",
+      "lvl": 5
+     },
+     {
+      "w": "{四月|しがつ}",
+      "en": "April",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "つき",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{月|つき}",
+      "en": "moon, month",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "Month names use がつ, but counting months and Monday use げつ. Trap: one month is {一|いっ}か{月|げつ}."
+ },
+ {
+  "kanji": "後",
+  "readings": [
+   {
+    "r": "ご",
+    "type": "on",
+    "words": [
+     {
+      "w": "{午後|ごご}",
+      "en": "afternoon, p.m.",
+      "lvl": 5
+     },
+     {
+      "w": "{最後|さいご}",
+      "en": "last",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "こう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{後半|こうはん}",
+      "en": "second half",
+      "lvl": 3
+     },
+     {
+      "w": "{後輩|こうはい}",
+      "en": "junior (at school or work)",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "あと",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{後|あと}",
+      "en": "after, later",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "うし",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{後|うし}ろ",
+      "en": "behind, back",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "のち",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{後|のち}ほど",
+      "en": "later (polite)",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {後|あと} (after, time) and {後|うし}ろ (behind, place), plus {午後|ごご}."
+ },
+ {
+  "kanji": "前",
+  "readings": [
+   {
+    "r": "ぜん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{午前|ごぜん}",
+      "en": "morning, a.m.",
+      "lvl": 5
+     },
+     {
+      "w": "{前半|ぜんはん}",
+      "en": "first half",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "まえ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{前|まえ}",
+      "en": "front, before",
+      "lvl": 5
+     },
+     {
+      "w": "{名前|なまえ}",
+      "en": "name",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "まえ is the main reading. It is the opposite of {後|あと}: {午前|ごぜん} a.m., {午後|ごご} p.m."
+ },
+ {
+  "kanji": "生",
+  "readings": [
+   {
+    "r": "せい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{先生|せんせい}",
+      "en": "teacher",
+      "lvl": 5
+     },
+     {
+      "w": "{学生|がくせい}",
+      "en": "student",
+      "lvl": 5
+     },
+     {
+      "w": "{生活|せいかつ}",
+      "en": "daily life",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "しょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{誕生日|たんじょうび}",
+      "en": "birthday",
+      "lvl": 5
+     },
+     {
+      "w": "{一生|いっしょう}",
+      "en": "whole life",
+      "lvl": 3
+     },
+     {
+      "w": "{一生懸命|いっしょうけんめい}",
+      "en": "as hard as you can",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "い",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{生|い}きる",
+      "en": "live",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "う",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{生|う}まれる",
+      "en": "be born",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "なま",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{生|なま}",
+      "en": "raw",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "This kanji has many readings: せい first, then う(まれる) and い(きる). Trap: in {誕生日|たんじょうび} it is じょう, not せい."
+ },
+ {
+  "kanji": "五",
+  "readings": [
+   {
+    "r": "ご",
+    "type": "on",
+    "words": [
+     {
+      "w": "{五|ご}",
+      "en": "five",
+      "lvl": 5
+     },
+     {
+      "w": "{五月|ごがつ}",
+      "en": "May",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "いつ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{五|いつ}つ",
+      "en": "five (things)",
+      "lvl": 5
+     },
+     {
+      "w": "{五日|いつか}",
+      "en": "the 5th, five days",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "ご and いつ(つ). Do not mix up {五日|いつか} (the 5th) and the word いつか (someday)."
+ },
+ {
+  "kanji": "間",
+  "readings": [
+   {
+    "r": "かん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{時間|じかん}",
+      "en": "time, hours",
+      "lvl": 5
+     },
+     {
+      "w": "{一週間|いっしゅうかん}",
+      "en": "one week",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "けん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{人間|にんげん}",
+      "en": "human being",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "あいだ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{間|あいだ}",
+      "en": "between, while",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "ま",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{間|ま}に{合|あ}う",
+      "en": "be in time",
+      "lvl": 4
+     },
+     {
+      "w": "{間違|まちが}える",
+      "en": "make a mistake",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "かん and あいだ are key. In {人間|にんげん} it changes to げん. Do not mix up {間|あいだ} with {聞|き}く (hear) or {問題|もんだい} (problem)."
+ },
+ {
+  "kanji": "上",
+  "readings": [
+   {
+    "r": "うえ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{上|うえ}",
+      "en": "above, on top",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "うわ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{上着|うわぎ}",
+      "en": "jacket",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "あ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{上|あ}げる",
+      "en": "raise, give",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "のぼ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{上|のぼ}る",
+      "en": "go up, climb",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "じょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{以上|いじょう}",
+      "en": "more than, that's all",
+      "lvl": 4
+     },
+     {
+      "w": "{屋上|おくじょう}",
+      "en": "rooftop",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "special",
+    "type": "special",
+    "words": [
+     {
+      "w": "{上手|じょうず}",
+      "en": "good at",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "うえ and じょう matter most. {上手|じょうず} (good at) is the opposite of {下手|へた}."
+ },
+ {
+  "kanji": "東",
+  "readings": [
+   {
+    "r": "ひがし",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{東|ひがし}",
+      "en": "east",
+      "lvl": 5
+     },
+     {
+      "w": "{東口|ひがしぐち}",
+      "en": "east exit",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "とう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{東京|とうきょう}",
+      "en": "Tokyo",
+      "lvl": 5
+     },
+     {
+      "w": "{東洋|とうよう}",
+      "en": "the East, Asia",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "ひがし alone, とう in {東京|とうきょう}. Station exits are useful: {東口|ひがしぐち}."
+ },
+ {
+  "kanji": "四",
+  "readings": [
+   {
+    "r": "よん",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{四|よん}",
+      "en": "four",
+      "lvl": 5
+     },
+     {
+      "w": "{四階|よんかい}",
+      "en": "fourth floor",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "よ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{四時|よじ}",
+      "en": "four o'clock",
+      "lvl": 5
+     },
+     {
+      "w": "{四人|よにん}",
+      "en": "four people",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "よっ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{四|よっ}つ",
+      "en": "four (things)",
+      "lvl": 5
+     },
+     {
+      "w": "{四日|よっか}",
+      "en": "the 4th, four days",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "し",
+    "type": "on",
+    "words": [
+     {
+      "w": "{四月|しがつ}",
+      "en": "April",
+      "lvl": 5
+     },
+     {
+      "w": "{四季|しき}",
+      "en": "the four seasons",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Mostly よん. Traps: {四時|よじ} (not よんじ), {四人|よにん}, and {四月|しがつ}."
+ },
+ {
+  "kanji": "今",
+  "readings": [
+   {
+    "r": "いま",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{今|いま}",
+      "en": "now",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "こん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{今月|こんげつ}",
+      "en": "this month",
+      "lvl": 5
+     },
+     {
+      "w": "{今晩|こんばん}",
+      "en": "tonight",
+      "lvl": 5
+     },
+     {
+      "w": "{今度|こんど}",
+      "en": "next time, this time",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "special",
+    "type": "special",
+    "words": [
+     {
+      "w": "{今日|きょう}",
+      "en": "today",
+      "lvl": 5
+     },
+     {
+      "w": "{今年|ことし}",
+      "en": "this year",
+      "lvl": 5
+     },
+     {
+      "w": "{今朝|けさ}",
+      "en": "this morning",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "いま and こん. Special readings to learn as whole words: {今日|きょう}, {今年|ことし}, {今朝|けさ}."
+ },
+ {
+  "kanji": "金",
+  "readings": [
+   {
+    "r": "きん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{金曜日|きんようび}",
+      "en": "Friday",
+      "lvl": 5
+     },
+     {
+      "w": "{料金|りょうきん}",
+      "en": "fee, charge",
+      "lvl": 3
+     },
+     {
+      "w": "{金|きん}",
+      "en": "gold",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "かね",
+    "type": "kun",
+    "words": [
+     {
+      "w": "お{金|かね}",
+      "en": "money",
+      "lvl": 5
+     },
+     {
+      "w": "{針金|はりがね}",
+      "en": "wire",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "お{金|かね} (money) and {金曜日|きんようび} are the N5 words. {金|きん} alone means gold."
+ },
+ {
+  "kanji": "九",
+  "readings": [
+   {
+    "r": "きゅう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{九|きゅう}",
+      "en": "nine",
+      "lvl": 5
+     },
+     {
+      "w": "{九十|きゅうじゅう}",
+      "en": "ninety",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "く",
+    "type": "on",
+    "words": [
+     {
+      "w": "{九月|くがつ}",
+      "en": "September",
+      "lvl": 5
+     },
+     {
+      "w": "{九時|くじ}",
+      "en": "nine o'clock",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "ここの",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{九|ここの}つ",
+      "en": "nine (things)",
+      "lvl": 5
+     },
+     {
+      "w": "{九日|ここのか}",
+      "en": "the 9th, nine days",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "Mostly きゅう. Traps: {九月|くがつ} and {九時|くじ}, never きゅうじ."
+ },
+ {
+  "kanji": "入",
+  "readings": [
+   {
+    "r": "はい",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{入|はい}る",
+      "en": "enter, go in",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "い",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{入|い}れる",
+      "en": "put in",
+      "lvl": 5
+     },
+     {
+      "w": "{入口|いりぐち}",
+      "en": "entrance",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "にゅう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{入学|にゅうがく}",
+      "en": "entering a school",
+      "lvl": 4
+     },
+     {
+      "w": "{入院|にゅういん}",
+      "en": "going into hospital",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "{入|はい}る (you go in) and {入|い}れる (you put something in) are both N5. Do not mix up {入|はい}る and {人|ひと} (person)."
+ },
+ {
+  "kanji": "学",
+  "readings": [
+   {
+    "r": "がく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{大学|だいがく}",
+      "en": "university",
+      "lvl": 5
+     },
+     {
+      "w": "{学生|がくせい}",
+      "en": "student",
+      "lvl": 5
+     },
+     {
+      "w": "{学校|がっこう}",
+      "en": "school",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "まな",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{学|まな}ぶ",
+      "en": "learn",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "がく is the reading you need. Before k sounds it becomes がっ, as in {学校|がっこう}."
+ },
+ {
+  "kanji": "高",
+  "readings": [
+   {
+    "r": "たか",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{高|たか}い",
+      "en": "high, tall, expensive",
+      "lvl": 5
+     },
+     {
+      "w": "{円高|えんだか}",
+      "en": "strong yen",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "こう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{高校|こうこう}",
+      "en": "high school",
+      "lvl": 4
+     },
+     {
+      "w": "{最高|さいこう}",
+      "en": "the best",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "{高|たか}い means both tall and expensive. Its opposites differ: {低|ひく}い (low) and {安|やす}い (cheap)."
+ },
+ {
+  "kanji": "円",
+  "readings": [
+   {
+    "r": "えん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{円|えん}",
+      "en": "yen",
+      "lvl": 5
+     },
+     {
+      "w": "{百円|ひゃくえん}",
+      "en": "100 yen",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "まる",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{円|まる}い",
+      "en": "round",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "えん (yen) is what you need. Round is usually written {丸|まる}い, not {円|まる}い."
+ },
+ {
+  "kanji": "子",
+  "readings": [
+   {
+    "r": "こ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{子|こ}ども",
+      "en": "child",
+      "lvl": 5
+     },
+     {
+      "w": "{女|おんな}の{子|こ}",
+      "en": "girl",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "し",
+    "type": "on",
+    "words": [
+     {
+      "w": "{帽子|ぼうし}",
+      "en": "hat",
+      "lvl": 5
+     },
+     {
+      "w": "{調子|ちょうし}",
+      "en": "condition",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "す",
+    "type": "on",
+    "words": [
+     {
+      "w": "{椅子|いす}",
+      "en": "chair",
+      "lvl": 5
+     },
+     {
+      "w": "{様子|ようす}",
+      "en": "state, look",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "こ is the main reading. し and す appear at the end of words like {帽子|ぼうし} and {椅子|いす}. Do not mix up {子|こ} and {字|じ} (letter)."
+ },
+ {
+  "kanji": "外",
+  "readings": [
+   {
+    "r": "がい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{外国|がいこく}",
+      "en": "foreign country",
+      "lvl": 5
+     },
+     {
+      "w": "{外国人|がいこくじん}",
+      "en": "foreigner",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "げ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{外科|げか}",
+      "en": "surgery",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "そと",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{外|そと}",
+      "en": "outside",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "はず",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{外|はず}す",
+      "en": "take off, remove",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "そと and がい are the ones for N5 and N4."
+ },
+ {
+  "kanji": "八",
+  "readings": [
+   {
+    "r": "はち",
+    "type": "on",
+    "words": [
+     {
+      "w": "{八|はち}",
+      "en": "eight",
+      "lvl": 5
+     },
+     {
+      "w": "{八月|はちがつ}",
+      "en": "August",
+      "lvl": 5
+     },
+     {
+      "w": "{八百|はっぴゃく}",
+      "en": "800",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "やっ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{八|やっ}つ",
+      "en": "eight (things)",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "よう",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{八日|ようか}",
+      "en": "the 8th, eight days",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "はち and やっ(つ). Trap: {八日|ようか} (the 8th) sounds like {四日|よっか} (the 4th)."
+ },
+ {
+  "kanji": "六",
+  "readings": [
+   {
+    "r": "ろく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{六|ろく}",
+      "en": "six",
+      "lvl": 5
+     },
+     {
+      "w": "{六月|ろくがつ}",
+      "en": "June",
+      "lvl": 5
+     },
+     {
+      "w": "{六百|ろっぴゃく}",
+      "en": "600",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "むっ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{六|むっ}つ",
+      "en": "six (things)",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "むい",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{六日|むいか}",
+      "en": "the 6th, six days",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "ろく and むっ(つ). It often becomes ろっ before k, p, h sounds: {六本|ろっぽん}."
+ },
+ {
+  "kanji": "下",
+  "readings": [
+   {
+    "r": "した",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{下|した}",
+      "en": "under, below",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "くだ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{下|くだ}さい",
+      "en": "please (give me)",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "お",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{下|お}りる",
+      "en": "get off, go down",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "さ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{下|さ}げる",
+      "en": "lower",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "か",
+    "type": "on",
+    "words": [
+     {
+      "w": "{廊下|ろうか}",
+      "en": "hallway",
+      "lvl": 5
+     },
+     {
+      "w": "{地下鉄|ちかてつ}",
+      "en": "subway",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "げ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{上下|じょうげ}",
+      "en": "up and down",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "special",
+    "type": "special",
+    "words": [
+     {
+      "w": "{下手|へた}",
+      "en": "bad at",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "した and くだ(さい) are N5. Trap: {下手|へた} (bad at) is a special reading."
+ },
+ {
+  "kanji": "来",
+  "readings": [
+   {
+    "r": "く",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{来|く}る",
+      "en": "come",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "らい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{来年|らいねん}",
+      "en": "next year",
+      "lvl": 5
+     },
+     {
+      "w": "{来週|らいしゅう}",
+      "en": "next week",
+      "lvl": 5
+     },
+     {
+      "w": "{来月|らいげつ}",
+      "en": "next month",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "{来|く}る changes when it conjugates: {来|き}ます, {来|こ}ない. らい in a word means next."
+ },
+ {
+  "kanji": "気",
+  "readings": [
+   {
+    "r": "き",
+    "type": "on",
+    "words": [
+     {
+      "w": "{元気|げんき}",
+      "en": "healthy, lively",
+      "lvl": 5
+     },
+     {
+      "w": "{天気|てんき}",
+      "en": "weather",
+      "lvl": 5
+     },
+     {
+      "w": "{病気|びょうき}",
+      "en": "illness",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "け",
+    "type": "on",
+    "words": [
+     {
+      "w": "{寒気|さむけ}",
+      "en": "chills",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "き is almost always the reading. Learn phrases: {気|き}をつける (be careful), {気|き}がつく (notice)."
+ },
+ {
+  "kanji": "小",
+  "readings": [
+   {
+    "r": "ちい",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{小|ちい}さい",
+      "en": "small",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "こ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{小包|こづつみ}",
+      "en": "parcel",
+      "lvl": 4
+     },
+     {
+      "w": "{小鳥|ことり}",
+      "en": "little bird",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "お",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{小川|おがわ}",
+      "en": "small stream",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "しょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{小学校|しょうがっこう}",
+      "en": "elementary school",
+      "lvl": 4
+     },
+     {
+      "w": "{小説|しょうせつ}",
+      "en": "novel",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "ちい(さい) and しょう. Do not mix up {小|ちい}さい (small) and {少|すく}ない (few)."
+ },
+ {
+  "kanji": "七",
+  "readings": [
+   {
+    "r": "しち",
+    "type": "on",
+    "words": [
+     {
+      "w": "{七|しち}",
+      "en": "seven",
+      "lvl": 5
+     },
+     {
+      "w": "{七月|しちがつ}",
+      "en": "July",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "なな",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{七|なな}",
+      "en": "seven",
+      "lvl": 5
+     },
+     {
+      "w": "{七|なな}つ",
+      "en": "seven (things)",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "なの",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{七日|なのか}",
+      "en": "the 7th, seven days",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "なな is safer when you speak, because しち sounds like いち. Use しち in {七月|しちがつ}."
+ },
+ {
+  "kanji": "山",
+  "readings": [
+   {
+    "r": "やま",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{山|やま}",
+      "en": "mountain",
+      "lvl": 5
+     },
+     {
+      "w": "{山登|やまのぼ}り",
+      "en": "mountain hiking",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "さん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{富士山|ふじさん}",
+      "en": "Mount Fuji",
+      "lvl": 4
+     },
+     {
+      "w": "{登山|とざん}",
+      "en": "mountain climbing",
+      "lvl": 3
+     },
+     {
+      "w": "{火山|かざん}",
+      "en": "volcano",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "やま alone. After a mountain's name it is さん, like {富士山|ふじさん}, which is not the さん for people."
+ },
+ {
+  "kanji": "話",
+  "readings": [
+   {
+    "r": "はな",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{話|はな}す",
+      "en": "talk, speak",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "はなし",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{話|はなし}",
+      "en": "talk, story",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "わ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{電話|でんわ}",
+      "en": "telephone",
+      "lvl": 5
+     },
+     {
+      "w": "{会話|かいわ}",
+      "en": "conversation",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "{話|はな}す is the verb, {話|はなし} (no す) is the noun. わ is in {電話|でんわ}. Do not mix up {話|はなし} and {語|ご} (language)."
+ },
+ {
+  "kanji": "女",
+  "readings": [
+   {
+    "r": "おんな",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{女|おんな}",
+      "en": "woman",
+      "lvl": 5
+     },
+     {
+      "w": "{女|おんな}の{子|こ}",
+      "en": "girl",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "じょ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{彼女|かのじょ}",
+      "en": "she, girlfriend",
+      "lvl": 4
+     },
+     {
+      "w": "{女性|じょせい}",
+      "en": "woman (polite)",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "め",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{女神|めがみ}",
+      "en": "goddess",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "おんな and じょ. {女性|じょせい} is the polite word; おんな alone can sound rude about a person."
+ },
+ {
+  "kanji": "北",
+  "readings": [
+   {
+    "r": "きた",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{北|きた}",
+      "en": "north",
+      "lvl": 5
+     },
+     {
+      "w": "{北口|きたぐち}",
+      "en": "north exit",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "ほく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{東北|とうほく}",
+      "en": "Tohoku (northeast Japan)",
+      "lvl": 3
+     },
+     {
+      "w": "{北海道|ほっかいどう}",
+      "en": "Hokkaido",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "きた is the main reading. In {北海道|ほっかいどう} it becomes ほっ."
+ },
+ {
+  "kanji": "午",
+  "readings": [
+   {
+    "r": "ご",
+    "type": "on",
+    "words": [
+     {
+      "w": "{午後|ごご}",
+      "en": "afternoon, p.m.",
+      "lvl": 5
+     },
+     {
+      "w": "{午前|ごぜん}",
+      "en": "morning, a.m.",
+      "lvl": 5
+     },
+     {
+      "w": "{正午|しょうご}",
+      "en": "noon",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "Only ご matters, in {午前|ごぜん} and {午後|ごご}. Do not mix up {午|ご} (noon) and {牛|うし} (cow), which has a line sticking up."
+ },
+ {
+  "kanji": "百",
+  "readings": [
+   {
+    "r": "ひゃく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{百|ひゃく}",
+      "en": "hundred",
+      "lvl": 5
+     },
+     {
+      "w": "{三百|さんびゃく}",
+      "en": "300",
+      "lvl": 5
+     },
+     {
+      "w": "{六百|ろっぴゃく}",
+      "en": "600",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "ひゃく, but watch the sound changes: さんびゃく, ろっぴゃく, はっぴゃく. Do not mix up {百|ひゃく} and {白|しろ} (white)."
+ },
+ {
+  "kanji": "書",
+  "readings": [
+   {
+    "r": "か",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{書|か}く",
+      "en": "write",
+      "lvl": 5
+     },
+     {
+      "w": "{落書|らくが}き",
+      "en": "graffiti, doodle",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "しょ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{辞書|じしょ}",
+      "en": "dictionary",
+      "lvl": 5
+     },
+     {
+      "w": "{図書館|としょかん}",
+      "en": "library",
+      "lvl": 5
+     },
+     {
+      "w": "{教科書|きょうかしょ}",
+      "en": "textbook",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "か(く) and しょ are both N5. Do not mix up {書|か}く (write) and {昼|ひる} (noon)."
+ },
+ {
+  "kanji": "先",
+  "readings": [
+   {
+    "r": "せん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{先生|せんせい}",
+      "en": "teacher",
+      "lvl": 5
+     },
+     {
+      "w": "{先週|せんしゅう}",
+      "en": "last week",
+      "lvl": 5
+     },
+     {
+      "w": "{先月|せんげつ}",
+      "en": "last month",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "さき",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{先|さき}",
+      "en": "ahead, tip",
+      "lvl": 4
+     },
+     {
+      "w": "お{先|さき}に",
+      "en": "before you, excuse me for leaving first",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "せん is the big one. With time words it means last: {先週|せんしゅう} (last week), while {来週|らいしゅう} is next week."
+ },
+ {
+  "kanji": "名",
+  "readings": [
+   {
+    "r": "な",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{名前|なまえ}",
+      "en": "name",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "めい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{有名|ゆうめい}",
+      "en": "famous",
+      "lvl": 5
+     },
+     {
+      "w": "{名刺|めいし}",
+      "en": "business card",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "みょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{名字|みょうじ}",
+      "en": "family name",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "な in {名前|なまえ} and めい in {有名|ゆうめい} are what you need for N5."
+ },
+ {
+  "kanji": "川",
+  "readings": [
+   {
+    "r": "かわ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{川|かわ}",
+      "en": "river",
+      "lvl": 5
+     },
+     {
+      "w": "{小川|おがわ}",
+      "en": "small stream",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Just かわ. In names it often becomes がわ, like {品川|しながわ}. Do not mix up {川|かわ} and {三|さん} (three)."
+ },
+ {
+  "kanji": "千",
+  "readings": [
+   {
+    "r": "せん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{千|せん}",
+      "en": "thousand",
+      "lvl": 5
+     },
+     {
+      "w": "{千円|せんえん}",
+      "en": "1,000 yen",
+      "lvl": 5
+     },
+     {
+      "w": "{三千|さんぜん}",
+      "en": "3,000",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "せん, but {三千|さんぜん} and {八千|はっせん} change sound. Do not mix up {千|せん} and {干|ほ}す (dry)."
+ },
+ {
+  "kanji": "水",
+  "readings": [
+   {
+    "r": "みず",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{水|みず}",
+      "en": "water",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "すい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{水曜日|すいようび}",
+      "en": "Wednesday",
+      "lvl": 5
+     },
+     {
+      "w": "{水道|すいどう}",
+      "en": "water supply",
+      "lvl": 3
+     },
+     {
+      "w": "{水泳|すいえい}",
+      "en": "swimming",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "みず alone and すい in {水曜日|すいようび}. Do not mix up {水|みず} (water) and {氷|こおり} (ice)."
+ },
+ {
+  "kanji": "半",
+  "readings": [
+   {
+    "r": "はん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{半分|はんぶん}",
+      "en": "half",
+      "lvl": 5
+     },
+     {
+      "w": "{三時半|さんじはん}",
+      "en": "half past three",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "なか",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{半|なか}ば",
+      "en": "middle, partly",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only はん matters for N5 and N4."
+ },
+ {
+  "kanji": "男",
+  "readings": [
+   {
+    "r": "おとこ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{男|おとこ}",
+      "en": "man",
+      "lvl": 5
+     },
+     {
+      "w": "{男|おとこ}の{子|こ}",
+      "en": "boy",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "だん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{男性|だんせい}",
+      "en": "man (polite)",
+      "lvl": 4
+     },
+     {
+      "w": "{男子|だんし}",
+      "en": "boy, male",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "なん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{長男|ちょうなん}",
+      "en": "eldest son",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "おとこ and だん. The kanji is a field ({田|た}) plus power ({力|ちから})."
+ },
+ {
+  "kanji": "西",
+  "readings": [
+   {
+    "r": "にし",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{西|にし}",
+      "en": "west",
+      "lvl": 5
+     },
+     {
+      "w": "{西口|にしぐち}",
+      "en": "west exit",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "せい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{西洋|せいよう}",
+      "en": "the West",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "さい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{関西|かんさい}",
+      "en": "Kansai (Osaka area)",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "にし alone. Do not mix up {西|にし} (west) and {四|よん} (four), they look alike."
+ },
+ {
+  "kanji": "電",
+  "readings": [
+   {
+    "r": "でん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{電車|でんしゃ}",
+      "en": "train",
+      "lvl": 5
+     },
+     {
+      "w": "{電話|でんわ}",
+      "en": "telephone",
+      "lvl": 5
+     },
+     {
+      "w": "{電気|でんき}",
+      "en": "electricity, lights",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "Always でん. The kanji has rain ({雨|あめ}) on top, from lightning."
+ },
+ {
+  "kanji": "校",
+  "readings": [
+   {
+    "r": "こう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{学校|がっこう}",
+      "en": "school",
+      "lvl": 5
+     },
+     {
+      "w": "{高校|こうこう}",
+      "en": "high school",
+      "lvl": 4
+     },
+     {
+      "w": "{校長|こうちょう}",
+      "en": "school principal",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "Always こう for you. Do not mix up {学校|がっこう} and {交番|こうばん} (police box): the left part is a tree."
+ },
+ {
+  "kanji": "語",
+  "readings": [
+   {
+    "r": "ご",
+    "type": "on",
+    "words": [
+     {
+      "w": "{日本語|にほんご}",
+      "en": "Japanese language",
+      "lvl": 5
+     },
+     {
+      "w": "{英語|えいご}",
+      "en": "English",
+      "lvl": 5
+     },
+     {
+      "w": "{単語|たんご}",
+      "en": "word, vocabulary",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "かた",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{語|かた}る",
+      "en": "tell, narrate",
+      "lvl": 2
+     },
+     {
+      "w": "{物語|ものがたり}",
+      "en": "story, tale",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "ご is the one you need: add it to a country name for its language, like {英語|えいご}. Do not mix up {語|ご} and {話|はなし} (talk)."
+ },
+ {
+  "kanji": "土",
+  "readings": [
+   {
+    "r": "ど",
+    "type": "on",
+    "words": [
+     {
+      "w": "{土曜日|どようび}",
+      "en": "Saturday",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "と",
+    "type": "on",
+    "words": [
+     {
+      "w": "{土地|とち}",
+      "en": "land",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "つち",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{土|つち}",
+      "en": "soil, earth",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "special",
+    "type": "special",
+    "words": [
+     {
+      "w": "お{土産|みやげ}",
+      "en": "souvenir",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "ど in {土曜日|どようび} is N5. Trap: お{土産|みやげ} (souvenir) is a special reading."
+ },
+ {
+  "kanji": "木",
+  "readings": [
+   {
+    "r": "き",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{木|き}",
+      "en": "tree, wood",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "こ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{木|こ}の{葉|は}",
+      "en": "tree leaves",
+      "lvl": 1
+     },
+     {
+      "w": "{木陰|こかげ}",
+      "en": "shade of a tree",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "もく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{木曜日|もくようび}",
+      "en": "Thursday",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "ぼく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{土木|どぼく}",
+      "en": "civil engineering",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "き alone and もく in {木曜日|もくようび}. Do not mix up {木|き} (tree) and {本|ほん} (book), which has an extra line."
+ },
+ {
+  "kanji": "聞",
+  "readings": [
+   {
+    "r": "き",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{聞|き}く",
+      "en": "hear, listen, ask",
+      "lvl": 5
+     },
+     {
+      "w": "{聞|き}こえる",
+      "en": "can be heard",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "ぶん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{新聞|しんぶん}",
+      "en": "newspaper",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "{聞|き}く means hear and also ask. Do not mix up {聞|き}く (an ear in a gate) and {間|あいだ} (between)."
+ },
+ {
+  "kanji": "食",
+  "readings": [
+   {
+    "r": "た",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{食|た}べる",
+      "en": "eat",
+      "lvl": 5
+     },
+     {
+      "w": "{食|た}べ{物|もの}",
+      "en": "food",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "く",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{食|く}う",
+      "en": "eat (rough)",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "しょく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{食堂|しょくどう}",
+      "en": "dining hall, cafeteria",
+      "lvl": 5
+     },
+     {
+      "w": "{食事|しょくじ}",
+      "en": "meal",
+      "lvl": 4
+     }
+    ]
+   }
+  ],
+  "tip": "{食|た}べる and しょく are both needed. {食|く}う is rough, casual speech."
+ },
+ {
+  "kanji": "車",
+  "readings": [
+   {
+    "r": "くるま",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{車|くるま}",
+      "en": "car",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "しゃ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{電車|でんしゃ}",
+      "en": "train",
+      "lvl": 5
+     },
+     {
+      "w": "{自転車|じてんしゃ}",
+      "en": "bicycle",
+      "lvl": 5
+     },
+     {
+      "w": "{自動車|じどうしゃ}",
+      "en": "car, automobile",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "くるま alone and しゃ in compounds. Do not mix up {車|くるま} and {東|ひがし} (east)."
+ },
+ {
+  "kanji": "何",
+  "readings": [
+   {
+    "r": "なに",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{何|なに}",
+      "en": "what",
+      "lvl": 5
+     },
+     {
+      "w": "{何|なに}か",
+      "en": "something",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "なん",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{何時|なんじ}",
+      "en": "what time",
+      "lvl": 5
+     },
+     {
+      "w": "{何人|なんにん}",
+      "en": "how many people",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "Use なん before counters and before d, t, n sounds ({何|なん}ですか), and なに elsewhere ({何|なに}を)."
+ },
+ {
+  "kanji": "南",
+  "readings": [
+   {
+    "r": "みなみ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{南|みなみ}",
+      "en": "south",
+      "lvl": 5
+     },
+     {
+      "w": "{南口|みなみぐち}",
+      "en": "south exit",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "なん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{南米|なんべい}",
+      "en": "South America",
+      "lvl": 2
+     },
+     {
+      "w": "{東南|とうなん}アジア",
+      "en": "Southeast Asia",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "みなみ is the one for N5 and N4."
+ },
+ {
+  "kanji": "万",
+  "readings": [
+   {
+    "r": "まん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{一万|いちまん}",
+      "en": "ten thousand",
+      "lvl": 5
+     },
+     {
+      "w": "{一万円|いちまんえん}",
+      "en": "10,000 yen",
+      "lvl": 5
+     },
+     {
+      "w": "{万年筆|まんねんひつ}",
+      "en": "fountain pen",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "ばん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{万歳|ばんざい}",
+      "en": "hooray",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "まん. Japanese counts big numbers in units of 10,000, so 100,000 is {十万|じゅうまん}."
+ },
+ {
+  "kanji": "毎",
+  "readings": [
+   {
+    "r": "まい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{毎日|まいにち}",
+      "en": "every day",
+      "lvl": 5
+     },
+     {
+      "w": "{毎朝|まいあさ}",
+      "en": "every morning",
+      "lvl": 5
+     },
+     {
+      "w": "{毎週|まいしゅう}",
+      "en": "every week",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "Always まい, put before a time word to mean every. Do not mix up {毎日|まいにち} and {母|はは} (mother)."
+ },
+ {
+  "kanji": "白",
+  "readings": [
+   {
+    "r": "しろ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{白|しろ}い",
+      "en": "white",
+      "lvl": 5
+     },
+     {
+      "w": "{面白|おもしろ}い",
+      "en": "interesting, funny",
+      "lvl": 5
+     },
+     {
+      "w": "{白|しろ}",
+      "en": "white (noun)",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "しら",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{白髪|しらが}",
+      "en": "grey hair",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "はく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{白鳥|はくちょう}",
+      "en": "swan",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "しろ is the reading you need, including in {面白|おもしろ}い. Do not mix up {白|しろ} and {百|ひゃく} (hundred)."
+ },
+ {
+  "kanji": "天",
+  "readings": [
+   {
+    "r": "てん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{天気|てんき}",
+      "en": "weather",
+      "lvl": 5
+     },
+     {
+      "w": "{天|てん}ぷら",
+      "en": "tempura",
+      "lvl": 3
+     },
+     {
+      "w": "{天国|てんごく}",
+      "en": "heaven",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "あま",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{天|あま}の{川|がわ}",
+      "en": "the Milky Way",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "てん is what you need, mostly in {天気|てんき}. Do not mix up {天|てん} (sky) and {夫|おっと} (husband)."
+ },
+ {
+  "kanji": "母",
+  "readings": [
+   {
+    "r": "はは",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{母|はは}",
+      "en": "(my) mother",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "ぼ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{祖母|そぼ}",
+      "en": "(my) grandmother",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "special",
+    "type": "special",
+    "words": [
+     {
+      "w": "お{母|かあ}さん",
+      "en": "mother",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "Say {母|はは} for your own mother and お{母|かあ}さん (special reading) for someone else's."
+ },
+ {
+  "kanji": "火",
+  "readings": [
+   {
+    "r": "ひ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{火|ひ}",
+      "en": "fire",
+      "lvl": 5
+     },
+     {
+      "w": "{花火|はなび}",
+      "en": "fireworks",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "か",
+    "type": "on",
+    "words": [
+     {
+      "w": "{火曜日|かようび}",
+      "en": "Tuesday",
+      "lvl": 5
+     },
+     {
+      "w": "{火事|かじ}",
+      "en": "fire (accident)",
+      "lvl": 4
+     },
+     {
+      "w": "{火山|かざん}",
+      "en": "volcano",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "ひ alone and か in {火曜日|かようび}."
+ },
+ {
+  "kanji": "右",
+  "readings": [
+   {
+    "r": "みぎ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{右|みぎ}",
+      "en": "right",
+      "lvl": 5
+     },
+     {
+      "w": "{右側|みぎがわ}",
+      "en": "right side",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "ゆう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{左右|さゆう}",
+      "en": "left and right",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "う",
+    "type": "on",
+    "words": [
+     {
+      "w": "{右折|うせつ}",
+      "en": "right turn",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "みぎ is what you need. Do not mix up {右|みぎ} (right, with {口|くち}) and {左|ひだり} (left, with a shape like エ)."
+ },
+ {
+  "kanji": "読",
+  "readings": [
+   {
+    "r": "よ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{読|よ}む",
+      "en": "read",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "どく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{読書|どくしょ}",
+      "en": "reading books",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "とう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{読点|とうてん}",
+      "en": "Japanese comma (、)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "{読|よ}む is N5. Do not mix up {読|よ}む (read) and {売|う}る (sell), which is its right side."
+ },
+ {
+  "kanji": "友",
+  "readings": [
+   {
+    "r": "とも",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{友達|ともだち}",
+      "en": "friend",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "ゆう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{友人|ゆうじん}",
+      "en": "friend (formal)",
+      "lvl": 3
+     },
+     {
+      "w": "{親友|しんゆう}",
+      "en": "best friend",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "とも in {友達|ともだち} is the N5 word. Do not mix up {友|とも} (friend) and {反対|はんたい} (against)."
+ },
+ {
+  "kanji": "左",
+  "readings": [
+   {
+    "r": "ひだり",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{左|ひだり}",
+      "en": "left",
+      "lvl": 5
+     },
+     {
+      "w": "{左側|ひだりがわ}",
+      "en": "left side",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "さ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{左右|さゆう}",
+      "en": "left and right",
+      "lvl": 2
+     },
+     {
+      "w": "{左折|させつ}",
+      "en": "left turn",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "ひだり is what you need. Do not mix up {左|ひだり} (left, with a shape like エ) and {右|みぎ} (right, with {口|くち})."
+ },
+ {
+  "kanji": "休",
+  "readings": [
+   {
+    "r": "やす",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{休|やす}む",
+      "en": "rest, take a day off",
+      "lvl": 5
+     },
+     {
+      "w": "{休|やす}み",
+      "en": "holiday, break",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "きゅう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{休日|きゅうじつ}",
+      "en": "day off",
+      "lvl": 3
+     },
+     {
+      "w": "{連休|れんきゅう}",
+      "en": "holidays in a row",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "やす(む) is N5. The kanji is a person resting by a tree ({木|き}). Do not mix up {休|やす}む and {体|からだ} (body)."
+ },
+ {
+  "kanji": "父",
+  "readings": [
+   {
+    "r": "ちち",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{父|ちち}",
+      "en": "(my) father",
+      "lvl": 5
+     }
+    ]
+   },
+   {
+    "r": "ふ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{祖父|そふ}",
+      "en": "(my) grandfather",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "special",
+    "type": "special",
+    "words": [
+     {
+      "w": "お{父|とう}さん",
+      "en": "father",
+      "lvl": 5
+     }
+    ]
+   }
+  ],
+  "tip": "Say {父|ちち} for your own father and お{父|とう}さん (special reading) for someone else's."
+ },
+ {
+  "kanji": "雨",
+  "readings": [
+   {
+    "r": "あめ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{雨|あめ}",
+      "en": "rain",
+      "lvl": 5
+     },
+     {
+      "w": "{大雨|おおあめ}",
+      "en": "heavy rain",
+      "lvl": 4
+     }
+    ]
+   },
+   {
+    "r": "あま",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{雨戸|あまど}",
+      "en": "storm shutters",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "う",
+    "type": "on",
+    "words": [
+     {
+      "w": "{雷雨|らいう}",
+      "en": "thunderstorm",
+      "lvl": 2
+     },
+     {
+      "w": "{豪雨|ごうう}",
+      "en": "very heavy rain",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "For N5 and N4 you mostly need あめ. う shows up in news words like {雷雨|らいう}."
+ }
+]
