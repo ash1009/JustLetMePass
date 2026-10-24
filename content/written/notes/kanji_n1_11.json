@@ -1,0 +1,2015 @@
+[
+  {
+    "kanji": "拙",
+    "readings": [
+      {
+        "r": "つたな",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{拙|つたな}い",
+            "en": "clumsy, poor (skill)",
+            "lvl": 1
+          }
+        ]
+      },
+      {
+        "r": "せつ",
+        "type": "on",
+        "words": [
+          {
+            "w": "{稚拙|ちせつ}",
+            "en": "childish, crude",
+            "lvl": 1
+          },
+          {
+            "w": "{拙速|せっそく}",
+            "en": "quick but sloppy",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. せつ becomes せっ in {拙速|せっそく}."
+  },
+  {
+    "kanji": "侍",
+    "readings": [
+      {
+        "r": "さむらい",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{侍|さむらい}",
+            "en": "samurai",
+            "lvl": 1
+          }
+        ]
+      },
+      {
+        "r": "じ",
+        "type": "on",
+        "words": [
+          {
+            "w": "{侍従|じじゅう}",
+            "en": "chamberlain (court servant)",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Learn the word さむらい. Trap: {侍|さむらい} looks like {待|ま}つ (wait), an N4 kanji."
+  },
+  {
+    "kanji": "尺",
+    "readings": [
+      {
+        "r": "しゃく",
+        "type": "on",
+        "words": [
+          {
+            "w": "{尺度|しゃくど}",
+            "en": "measure, standard",
+            "lvl": 1
+          },
+          {
+            "w": "{縮尺|しゅくしゃく}",
+            "en": "scale (of a map)",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Its only common reading is しゃく."
+  },
+  {
+    "kanji": "峠",
+    "readings": [
+      {
+        "r": "とうげ",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{峠|とうげ}",
+            "en": "mountain pass; the worst point (of a crisis)",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Made in Japan: mountain ({山|やま}) + up ({上|うえ}) + down ({下|した}), a pass you go up and down."
+  },
+  {
+    "kanji": "篤",
+    "readings": [
+      {
+        "r": "とく",
+        "type": "on",
+        "words": [
+          {
+            "w": "{危篤|きとく}",
+            "en": "critically ill",
+            "lvl": 1
+          },
+          {
+            "w": "{篤志家|とくしか}",
+            "en": "kind volunteer, donor",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. The word you may meet in news is {危篤|きとく}."
+  },
+  {
+    "kanji": "肇",
+    "readings": [
+      {
+        "r": "はじめ",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{肇|はじめ}",
+            "en": "Hajime (a boy's name)",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. You will mostly see it in names, read はじめ."
+  },
+  {
+    "kanji": "渇",
+    "readings": [
+      {
+        "r": "かわ",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{渇|かわ}く",
+            "en": "to be thirsty",
+            "lvl": 3
+          },
+          {
+            "w": "{渇|かわ}き",
+            "en": "thirst",
+            "lvl": 1
+          }
+        ]
+      },
+      {
+        "r": "かつ",
+        "type": "on",
+        "words": [
+          {
+            "w": "{渇望|かつぼう}",
+            "en": "craving, longing",
+            "lvl": 1
+          },
+          {
+            "w": "{枯渇|こかつ}",
+            "en": "running dry, using up",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Useful: のどが{渇|かわ}く (I'm thirsty), often written in kana at N4. Trap: {乾|かわ}く (to dry) has the same sound."
+  },
+  {
+    "kanji": "叔",
+    "readings": [
+      {
+        "r": "special",
+        "type": "special",
+        "words": [
+          {
+            "w": "{叔父|おじ}",
+            "en": "uncle (parent's younger brother)",
+            "lvl": 4
+          },
+          {
+            "w": "{叔母|おば}",
+            "en": "aunt (parent's younger sister)",
+            "lvl": 4
+          }
+        ]
+      }
+    ],
+    "tip": "おじ and おば are N4 words, usually in kana. {叔父|おじ} is a parent's younger brother; {伯父|おじ} is an older one, same reading."
+  },
+  {
+    "kanji": "雌",
+    "readings": [
+      {
+        "r": "めす",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{雌|めす}",
+            "en": "female (animal)",
+            "lvl": 1
+          }
+        ]
+      },
+      {
+        "r": "め",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{雌花|めばな}",
+            "en": "female flower",
+            "lvl": 1
+          },
+          {
+            "w": "{雌鳥|めんどり}",
+            "en": "hen",
+            "lvl": 1
+          }
+        ]
+      },
+      {
+        "r": "し",
+        "type": "on",
+        "words": [
+          {
+            "w": "{雌雄|しゆう}",
+            "en": "male and female; win or lose",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Learn it with {雄|おす} (male animal). め becomes めん in {雌鳥|めんどり}."
+  },
+  {
+    "kanji": "亨",
+    "readings": [
+      {
+        "r": "とおる",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{亨|とおる}",
+            "en": "Tooru (a boy's name)",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Mostly seen in names. Do not mix it up with {享|きょう} as in {享受|きょうじゅ}."
+  },
+  {
+    "kanji": "堪",
+    "readings": [
+      {
+        "r": "た",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{堪|た}える",
+            "en": "to endure, to bear",
+            "lvl": 1
+          }
+        ]
+      },
+      {
+        "r": "たま",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{堪|たま}らない",
+            "en": "unbearable; irresistible",
+            "lvl": 1
+          }
+        ]
+      },
+      {
+        "r": "かん",
+        "type": "on",
+        "words": [
+          {
+            "w": "{堪忍|かんにん}",
+            "en": "patience, forgiveness",
+            "lvl": 1
+          }
+        ]
+      },
+      {
+        "r": "たん",
+        "type": "on",
+        "words": [
+          {
+            "w": "{堪能|たんのう}",
+            "en": "skilled; to enjoy fully",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Trap: {堪能|たんのう} is read たん, not かん."
+  },
+  {
+    "kanji": "叙",
+    "readings": [
+      {
+        "r": "じょ",
+        "type": "on",
+        "words": [
+          {
+            "w": "{叙述|じょじゅつ}",
+            "en": "description",
+            "lvl": 1
+          },
+          {
+            "w": "{自叙伝|じじょでん}",
+            "en": "autobiography",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Its only common reading is じょ."
+  },
+  {
+    "kanji": "酢",
+    "readings": [
+      {
+        "r": "す",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{酢|す}",
+            "en": "vinegar",
+            "lvl": 2
+          },
+          {
+            "w": "{酢豚|すぶた}",
+            "en": "sweet and sour pork",
+            "lvl": 1
+          }
+        ]
+      },
+      {
+        "r": "さく",
+        "type": "on",
+        "words": [
+          {
+            "w": "{酢酸|さくさん}",
+            "en": "acetic acid",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "す (vinegar) is the everyday word, often お{酢|す}. Trap: {酢|す} looks like {酔|よ}う (get drunk)."
+  },
+  {
+    "kanji": "吟",
+    "readings": [
+      {
+        "r": "ぎん",
+        "type": "on",
+        "words": [
+          {
+            "w": "{吟味|ぎんみ}",
+            "en": "careful checking",
+            "lvl": 1
+          },
+          {
+            "w": "{詩吟|しぎん}",
+            "en": "chanting of poems",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Its only common reading is ぎん."
+  },
+  {
+    "kanji": "逓",
+    "readings": [
+      {
+        "r": "てい",
+        "type": "on",
+        "words": [
+          {
+            "w": "{逓減|ていげん}",
+            "en": "gradual decrease",
+            "lvl": 1
+          },
+          {
+            "w": "{逓増|ていぞう}",
+            "en": "gradual increase",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Seen only in formal words with てい."
+  },
+  {
+    "kanji": "嶺",
+    "readings": [
+      {
+        "r": "れい",
+        "type": "on",
+        "words": [
+          {
+            "w": "{分水嶺|ぶんすいれい}",
+            "en": "watershed; turning point",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. For mountain peaks, {峰|みね} is the usual kanji."
+  },
+  {
+    "kanji": "甚",
+    "readings": [
+      {
+        "r": "じん",
+        "type": "on",
+        "words": [
+          {
+            "w": "{甚大|じんだい}",
+            "en": "enormous, serious",
+            "lvl": 1
+          }
+        ]
+      },
+      {
+        "r": "はなは",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{甚|はなは}だ",
+            "en": "extremely",
+            "lvl": 1
+          },
+          {
+            "w": "{甚|はなは}だしい",
+            "en": "extreme, terrible",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. News often says {甚大|じんだい}な{被害|ひがい} (huge damage)."
+  },
+  {
+    "kanji": "喬",
+    "readings": [
+      {
+        "r": "きょう",
+        "type": "on",
+        "words": [
+          {
+            "w": "{喬木|きょうぼく}",
+            "en": "tall tree",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Rare today, mostly in names."
+  },
+  {
+    "kanji": "崇",
+    "readings": [
+      {
+        "r": "すう",
+        "type": "on",
+        "words": [
+          {
+            "w": "{崇拝|すうはい}",
+            "en": "worship",
+            "lvl": 1
+          },
+          {
+            "w": "{崇高|すうこう}",
+            "en": "noble, lofty",
+            "lvl": 1
+          }
+        ]
+      },
+      {
+        "r": "あが",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{崇|あが}める",
+            "en": "to worship, to revere",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Trap: {崇|すう} looks almost the same as {祟|たた}る (to curse)."
+  },
+  {
+    "kanji": "漆",
+    "readings": [
+      {
+        "r": "うるし",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{漆|うるし}",
+            "en": "lacquer",
+            "lvl": 1
+          },
+          {
+            "w": "{漆塗|うるしぬ}り",
+            "en": "lacquered (ware)",
+            "lvl": 1
+          }
+        ]
+      },
+      {
+        "r": "しつ",
+        "type": "on",
+        "words": [
+          {
+            "w": "{漆器|しっき}",
+            "en": "lacquerware",
+            "lvl": 1
+          },
+          {
+            "w": "{漆黒|しっこく}",
+            "en": "jet black",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. しつ becomes しっ in {漆器|しっき}."
+  },
+  {
+    "kanji": "岬",
+    "readings": [
+      {
+        "r": "みさき",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{岬|みさき}",
+            "en": "cape, headland",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Its only common reading is みさき."
+  },
+  {
+    "kanji": "癖",
+    "readings": [
+      {
+        "r": "くせ",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{癖|くせ}",
+            "en": "habit",
+            "lvl": 2
+          },
+          {
+            "w": "{口癖|くちぐせ}",
+            "en": "favourite phrase",
+            "lvl": 1
+          }
+        ]
+      },
+      {
+        "r": "へき",
+        "type": "on",
+        "words": [
+          {
+            "w": "{潔癖|けっぺき}",
+            "en": "very clean, fussy about dirt",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "{癖|くせ} (habit) is the useful word. It becomes ぐせ in compounds like {口癖|くちぐせ}. 〜くせに (even though) is written in kana."
+  },
+  {
+    "kanji": "愉",
+    "readings": [
+      {
+        "r": "ゆ",
+        "type": "on",
+        "words": [
+          {
+            "w": "{愉快|ゆかい}",
+            "en": "pleasant, fun",
+            "lvl": 2
+          }
+        ]
+      }
+    ],
+    "tip": "Only {愉快|ゆかい} matters. たのしい is written {楽|たの}しい. Trap: {輸|ゆ} in {輸出|ゆしゅつ} looks similar."
+  },
+  {
+    "kanji": "寅",
+    "readings": [
+      {
+        "r": "とら",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{寅|とら}",
+            "en": "the Tiger (zodiac sign)",
+            "lvl": 1
+          },
+          {
+            "w": "{寅年|とらどし}",
+            "en": "year of the Tiger",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. {寅|とら} is only the zodiac Tiger; the animal is {虎|とら}. とし becomes どし in {寅年|とらどし}."
+  },
+  {
+    "kanji": "礁",
+    "readings": [
+      {
+        "r": "しょう",
+        "type": "on",
+        "words": [
+          {
+            "w": "{座礁|ざしょう}",
+            "en": "running aground",
+            "lvl": 1
+          },
+          {
+            "w": "{珊瑚礁|さんごしょう}",
+            "en": "coral reef",
+            "lvl": 1
+          },
+          {
+            "w": "{岩礁|がんしょう}",
+            "en": "rocky reef",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Its only common reading is しょう."
+  },
+  {
+    "kanji": "乃",
+    "readings": [
+      {
+        "r": "ない",
+        "type": "on",
+        "words": [
+          {
+            "w": "{乃至|ないし}",
+            "en": "from ... to; or",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. You will mostly see it in girls' names as の, like {綾乃|あやの}."
+  },
+  {
+    "kanji": "洲",
+    "readings": [
+      {
+        "r": "す",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{中洲|なかす}",
+            "en": "sandbank in a river",
+            "lvl": 1
+          }
+        ]
+      },
+      {
+        "r": "しゅう",
+        "type": "on",
+        "words": [
+          {
+            "w": "{満洲|まんしゅう}",
+            "en": "Manchuria",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. An old form of {州|しゅう}; modern words use {州|しゅう}, like {九州|きゅうしゅう}."
+  },
+  {
+    "kanji": "屯",
+    "readings": [
+      {
+        "r": "たむろ",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{屯|たむろ}する",
+            "en": "to hang around in a group",
+            "lvl": 1
+          }
+        ]
+      },
+      {
+        "r": "とん",
+        "type": "on",
+        "words": [
+          {
+            "w": "{駐屯|ちゅうとん}",
+            "en": "stationing (of troops)",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. {屯|たむろ}する (hang out in a group) is the word you might hear."
+  },
+  {
+    "kanji": "樺",
+    "readings": [
+      {
+        "r": "かば",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{白樺|しらかば}",
+            "en": "white birch",
+            "lvl": 1
+          }
+        ]
+      },
+      {
+        "r": "special",
+        "type": "special",
+        "words": [
+          {
+            "w": "{樺太|からふと}",
+            "en": "Sakhalin (island)",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. You may see {白樺|しらかば} (white birch). {樺太|からふと} is a special reading."
+  },
+  {
+    "kanji": "槙",
+    "readings": [
+      {
+        "r": "まき",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{槙|まき}",
+            "en": "podocarp (a garden tree)",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Mostly a tree name and surnames, read まき."
+  },
+  {
+    "kanji": "姻",
+    "readings": [
+      {
+        "r": "いん",
+        "type": "on",
+        "words": [
+          {
+            "w": "{婚姻|こんいん}",
+            "en": "marriage (legal)",
+            "lvl": 1
+          },
+          {
+            "w": "{姻戚|いんせき}",
+            "en": "relatives by marriage",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Seen on forms: {婚姻届|こんいんとどけ} (marriage registration)."
+  },
+  {
+    "kanji": "巌",
+    "readings": [
+      {
+        "r": "いわお",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{巌|いわお}",
+            "en": "big rock; Iwao (a boy's name)",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Rare today, mostly in names like いわお."
+  },
+  {
+    "kanji": "擬",
+    "readings": [
+      {
+        "r": "ぎ",
+        "type": "on",
+        "words": [
+          {
+            "w": "{模擬|もぎ}",
+            "en": "mock, practice (exam)",
+            "lvl": 1
+          },
+          {
+            "w": "{擬音語|ぎおんご}",
+            "en": "sound word (onomatopoeia)",
+            "lvl": 1
+          },
+          {
+            "w": "{擬態語|ぎたいご}",
+            "en": "word that shows a state, like キラキラ",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Useful for you: {模擬試験|もぎしけん} means mock exam. Its common reading is ぎ."
+  },
+  {
+    "kanji": "塀",
+    "readings": [
+      {
+        "r": "へい",
+        "type": "on",
+        "words": [
+          {
+            "w": "{塀|へい}",
+            "en": "wall, fence",
+            "lvl": 1
+          },
+          {
+            "w": "{板塀|いたべい}",
+            "en": "wooden fence",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. へい becomes べい after another word, as in {板塀|いたべい}."
+  },
+  {
+    "kanji": "唇",
+    "readings": [
+      {
+        "r": "くちびる",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{唇|くちびる}",
+            "en": "lips",
+            "lvl": 2
+          }
+        ]
+      },
+      {
+        "r": "しん",
+        "type": "on",
+        "words": [
+          {
+            "w": "{口唇|こうしん}",
+            "en": "lips (medical word)",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Learn {唇|くちびる} (lips). Trap: it looks like {辱|はずかし}める (to shame)."
+  },
+  {
+    "kanji": "睦",
+    "readings": [
+      {
+        "r": "ぼく",
+        "type": "on",
+        "words": [
+          {
+            "w": "{親睦|しんぼく}",
+            "en": "friendship, getting to know each other",
+            "lvl": 1
+          }
+        ]
+      },
+      {
+        "r": "むつ",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{睦|むつ}まじい",
+            "en": "close, harmonious",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. {親睦会|しんぼくかい} is a social party at work or school."
+  },
+  {
+    "kanji": "閑",
+    "readings": [
+      {
+        "r": "かん",
+        "type": "on",
+        "words": [
+          {
+            "w": "{閑静|かんせい}",
+            "en": "quiet (area)",
+            "lvl": 1
+          },
+          {
+            "w": "{閑散|かんさん}",
+            "en": "quiet, few people",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Trap: it looks like {間|あいだ} and {関|かん}; {閑|かん} has {木|き} inside."
+  },
+  {
+    "kanji": "胡",
+    "readings": [
+      {
+        "r": "こ",
+        "type": "on",
+        "words": [
+          {
+            "w": "{胡椒|こしょう}",
+            "en": "pepper",
+            "lvl": 2
+          }
+        ]
+      },
+      {
+        "r": "ご",
+        "type": "on",
+        "words": [
+          {
+            "w": "{胡麻|ごま}",
+            "en": "sesame",
+            "lvl": 1
+          }
+        ]
+      },
+      {
+        "r": "う",
+        "type": "on",
+        "words": [
+          {
+            "w": "{胡散臭|うさんくさ}い",
+            "en": "suspicious, fishy",
+            "lvl": 1
+          }
+        ]
+      },
+      {
+        "r": "special",
+        "type": "special",
+        "words": [
+          {
+            "w": "{胡瓜|きゅうり}",
+            "en": "cucumber",
+            "lvl": 2
+          },
+          {
+            "w": "{胡桃|くるみ}",
+            "en": "walnut",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Food words are often in kana: コショウ, ゴマ, キュウリ. {胡瓜|きゅうり} and {胡桃|くるみ} are special readings."
+  },
+  {
+    "kanji": "幽",
+    "readings": [
+      {
+        "r": "ゆう",
+        "type": "on",
+        "words": [
+          {
+            "w": "{幽霊|ゆうれい}",
+            "en": "ghost",
+            "lvl": 2
+          },
+          {
+            "w": "{幽閉|ゆうへい}",
+            "en": "locking someone up",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Learn {幽霊|ゆうれい} (ghost). Its only common reading is ゆう."
+  },
+  {
+    "kanji": "峻",
+    "readings": [
+      {
+        "r": "しゅん",
+        "type": "on",
+        "words": [
+          {
+            "w": "{急峻|きゅうしゅん}",
+            "en": "very steep",
+            "lvl": 1
+          },
+          {
+            "w": "{峻別|しゅんべつ}",
+            "en": "clear distinction",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Its only common reading is しゅん."
+  },
+  {
+    "kanji": "曹",
+    "readings": [
+      {
+        "r": "そう",
+        "type": "on",
+        "words": [
+          {
+            "w": "{法曹|ほうそう}",
+            "en": "legal profession",
+            "lvl": 1
+          },
+          {
+            "w": "{軍曹|ぐんそう}",
+            "en": "sergeant",
+            "lvl": 1
+          },
+          {
+            "w": "{御曹司|おんぞうし}",
+            "en": "son of a rich family",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. そう becomes ぞう in {御曹司|おんぞうし}."
+  },
+  {
+    "kanji": "詠",
+    "readings": [
+      {
+        "r": "よ",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{詠|よ}む",
+            "en": "to compose (a poem)",
+            "lvl": 1
+          }
+        ]
+      },
+      {
+        "r": "えい",
+        "type": "on",
+        "words": [
+          {
+            "w": "{詠唱|えいしょう}",
+            "en": "chanting; aria",
+            "lvl": 1
+          },
+          {
+            "w": "{朗詠|ろうえい}",
+            "en": "reciting poems aloud",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Trap: {詠|よ}む (write a poem) and {読|よ}む (read) sound the same."
+  },
+  {
+    "kanji": "卑",
+    "readings": [
+      {
+        "r": "ひ",
+        "type": "on",
+        "words": [
+          {
+            "w": "{卑怯|ひきょう}",
+            "en": "cowardly, unfair",
+            "lvl": 1
+          },
+          {
+            "w": "{卑下|ひげ}",
+            "en": "putting yourself down",
+            "lvl": 1
+          }
+        ]
+      },
+      {
+        "r": "いや",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{卑|いや}しい",
+            "en": "low, greedy, mean",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. {卑怯|ひきょう} (cowardly, unfair) is common in anime and dramas."
+  },
+  {
+    "kanji": "侮",
+    "readings": [
+      {
+        "r": "ぶ",
+        "type": "on",
+        "words": [
+          {
+            "w": "{侮辱|ぶじょく}",
+            "en": "insult",
+            "lvl": 1
+          }
+        ]
+      },
+      {
+        "r": "あなど",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{侮|あなど}る",
+            "en": "to look down on",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Learn {侮辱|ぶじょく} (insult) first."
+  },
+  {
+    "kanji": "鋳",
+    "readings": [
+      {
+        "r": "い",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{鋳物|いもの}",
+            "en": "cast metal object",
+            "lvl": 1
+          },
+          {
+            "w": "{鋳型|いがた}",
+            "en": "mould (for casting)",
+            "lvl": 1
+          }
+        ]
+      },
+      {
+        "r": "ちゅう",
+        "type": "on",
+        "words": [
+          {
+            "w": "{鋳造|ちゅうぞう}",
+            "en": "casting, minting",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Trap: it looks like {寿|じゅ} with metal ({金|かね}) added."
+  },
+  {
+    "kanji": "抹",
+    "readings": [
+      {
+        "r": "まつ",
+        "type": "on",
+        "words": [
+          {
+            "w": "{抹茶|まっちゃ}",
+            "en": "matcha, powdered green tea",
+            "lvl": 2
+          },
+          {
+            "w": "{抹消|まっしょう}",
+            "en": "deleting, erasing",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "You know it from {抹茶|まっちゃ} (matcha). まつ becomes まっ here. Trap: {末|まつ} (end) looks close."
+  },
+  {
+    "kanji": "尉",
+    "readings": [
+      {
+        "r": "い",
+        "type": "on",
+        "words": [
+          {
+            "w": "{大尉|たいい}",
+            "en": "captain (army rank)",
+            "lvl": 1
+          },
+          {
+            "w": "{中尉|ちゅうい}",
+            "en": "lieutenant",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Seen in army ranks with い."
+  },
+  {
+    "kanji": "槻",
+    "readings": [
+      {
+        "r": "つき",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{槻|つき}",
+            "en": "zelkova tree",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Mostly in names, like {大槻|おおつき}."
+  },
+  {
+    "kanji": "隷",
+    "readings": [
+      {
+        "r": "れい",
+        "type": "on",
+        "words": [
+          {
+            "w": "{奴隷|どれい}",
+            "en": "slave",
+            "lvl": 1
+          },
+          {
+            "w": "{隷属|れいぞく}",
+            "en": "being under someone's control",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Its only common reading is れい."
+  },
+  {
+    "kanji": "禍",
+    "readings": [
+      {
+        "r": "か",
+        "type": "on",
+        "words": [
+          {
+            "w": "コロナ{禍|か}",
+            "en": "the COVID crisis",
+            "lvl": 1
+          },
+          {
+            "w": "{戦禍|せんか}",
+            "en": "war damage",
+            "lvl": 1
+          }
+        ]
+      },
+      {
+        "r": "わざわい",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{禍|わざわい}",
+            "en": "disaster, bad luck",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. You will see コロナ{禍|か} a lot in news."
+  },
+  {
+    "kanji": "蝶",
+    "readings": [
+      {
+        "r": "ちょう",
+        "type": "on",
+        "words": [
+          {
+            "w": "{蝶|ちょう}",
+            "en": "butterfly",
+            "lvl": 2
+          },
+          {
+            "w": "{蝶結|ちょうむす}び",
+            "en": "bow (knot)",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Learn {蝶|ちょう} (butterfly), though it is often written in kana."
+  },
+  {
+    "kanji": "酪",
+    "readings": [
+      {
+        "r": "らく",
+        "type": "on",
+        "words": [
+          {
+            "w": "{酪農|らくのう}",
+            "en": "dairy farming",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Its only common reading is らく."
+  },
+  {
+    "kanji": "茎",
+    "readings": [
+      {
+        "r": "くき",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{茎|くき}",
+            "en": "stem, stalk",
+            "lvl": 1
+          },
+          {
+            "w": "{歯茎|はぐき}",
+            "en": "gums",
+            "lvl": 1
+          }
+        ]
+      },
+      {
+        "r": "けい",
+        "type": "on",
+        "words": [
+          {
+            "w": "{地下茎|ちかけい}",
+            "en": "underground stem",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. くき becomes ぐき in {歯茎|はぐき}."
+  },
+  {
+    "kanji": "帥",
+    "readings": [
+      {
+        "r": "すい",
+        "type": "on",
+        "words": [
+          {
+            "w": "{元帥|げんすい}",
+            "en": "field marshal",
+            "lvl": 1
+          },
+          {
+            "w": "{総帥|そうすい}",
+            "en": "head (of a group)",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Trap: it looks like {師|し} (teacher), which has one more line."
+  },
+  {
+    "kanji": "逝",
+    "readings": [
+      {
+        "r": "せい",
+        "type": "on",
+        "words": [
+          {
+            "w": "{逝去|せいきょ}",
+            "en": "death (polite)",
+            "lvl": 1
+          },
+          {
+            "w": "{急逝|きゅうせい}",
+            "en": "sudden death",
+            "lvl": 1
+          }
+        ]
+      },
+      {
+        "r": "い",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{逝|い}く",
+            "en": "to die, to pass away",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. A polite word for dying; trap: {逝|い}く sounds like {行|い}く."
+  },
+  {
+    "kanji": "汽",
+    "readings": [
+      {
+        "r": "き",
+        "type": "on",
+        "words": [
+          {
+            "w": "{汽車|きしゃ}",
+            "en": "steam train",
+            "lvl": 3
+          },
+          {
+            "w": "{汽船|きせん}",
+            "en": "steamship",
+            "lvl": 1
+          },
+          {
+            "w": "{汽笛|きてき}",
+            "en": "steam whistle",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "{汽車|きしゃ} (steam train) is an older N3/N4 word. Trap: {汽|き} and {気|き} sound the same."
+  },
+  {
+    "kanji": "琢",
+    "readings": [
+      {
+        "r": "たく",
+        "type": "on",
+        "words": [
+          {
+            "w": "{切磋琢磨|せっさたくま}",
+            "en": "pushing each other to improve",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Known from the idiom {切磋琢磨|せっさたくま}."
+  },
+  {
+    "kanji": "匿",
+    "readings": [
+      {
+        "r": "とく",
+        "type": "on",
+        "words": [
+          {
+            "w": "{匿名|とくめい}",
+            "en": "anonymous",
+            "lvl": 1
+          },
+          {
+            "w": "{隠匿|いんとく}",
+            "en": "hiding (something)",
+            "lvl": 1
+          }
+        ]
+      },
+      {
+        "r": "かくま",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{匿|かくま}う",
+            "en": "to hide, to shelter (a person)",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. {匿名|とくめい} (anonymous) is the word to know."
+  },
+  {
+    "kanji": "襟",
+    "readings": [
+      {
+        "r": "えり",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{襟|えり}",
+            "en": "collar",
+            "lvl": 1
+          },
+          {
+            "w": "{襟元|えりもと}",
+            "en": "neck area (of clothes)",
+            "lvl": 1
+          }
+        ]
+      },
+      {
+        "r": "きん",
+        "type": "on",
+        "words": [
+          {
+            "w": "{胸襟|きょうきん}",
+            "en": "one's heart (open up to someone)",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. えり (collar) is the common reading."
+  },
+  {
+    "kanji": "蛍",
+    "readings": [
+      {
+        "r": "ほたる",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{蛍|ほたる}",
+            "en": "firefly",
+            "lvl": 1
+          }
+        ]
+      },
+      {
+        "r": "けい",
+        "type": "on",
+        "words": [
+          {
+            "w": "{蛍光灯|けいこうとう}",
+            "en": "fluorescent light",
+            "lvl": 1
+          },
+          {
+            "w": "{蛍光|けいこう}ペン",
+            "en": "highlighter pen",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. {蛍光灯|けいこうとう} is the useful everyday word."
+  },
+  {
+    "kanji": "蕉",
+    "readings": [
+      {
+        "r": "しょう",
+        "type": "on",
+        "words": [
+          {
+            "w": "{芭蕉|ばしょう}",
+            "en": "Japanese banana plant; Basho (poet)",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Known from the poet {松尾芭蕉|まつおばしょう}."
+  },
+  {
+    "kanji": "寡",
+    "readings": [
+      {
+        "r": "か",
+        "type": "on",
+        "words": [
+          {
+            "w": "{寡黙|かもく}",
+            "en": "quiet, of few words",
+            "lvl": 1
+          },
+          {
+            "w": "{寡占|かせん}",
+            "en": "market held by a few companies",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Its only common reading is か."
+  },
+  {
+    "kanji": "琉",
+    "readings": [
+      {
+        "r": "りゅう",
+        "type": "on",
+        "words": [
+          {
+            "w": "{琉球|りゅうきゅう}",
+            "en": "Ryukyu (old name of Okinawa)",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Seen in Okinawa names like {琉球|りゅうきゅう}."
+  },
+  {
+    "kanji": "痢",
+    "readings": [
+      {
+        "r": "り",
+        "type": "on",
+        "words": [
+          {
+            "w": "{下痢|げり}",
+            "en": "diarrhoea",
+            "lvl": 2
+          },
+          {
+            "w": "{赤痢|せきり}",
+            "en": "dysentery",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Useful at the doctor: {下痢|げり} (diarrhoea). Its only common reading is り."
+  },
+  {
+    "kanji": "庸",
+    "readings": [
+      {
+        "r": "よう",
+        "type": "on",
+        "words": [
+          {
+            "w": "{中庸|ちゅうよう}",
+            "en": "the middle way, moderation",
+            "lvl": 1
+          },
+          {
+            "w": "{凡庸|ぼんよう}",
+            "en": "ordinary, mediocre",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Its only common reading is よう."
+  },
+  {
+    "kanji": "朋",
+    "readings": [
+      {
+        "r": "ほう",
+        "type": "on",
+        "words": [
+          {
+            "w": "{朋友|ほうゆう}",
+            "en": "friend (formal)",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. The usual kanji for friend is {友|とも}."
+  },
+  {
+    "kanji": "坑",
+    "readings": [
+      {
+        "r": "こう",
+        "type": "on",
+        "words": [
+          {
+            "w": "{炭坑|たんこう}",
+            "en": "coal mine",
+            "lvl": 1
+          },
+          {
+            "w": "{坑道|こうどう}",
+            "en": "mine tunnel",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Its only common reading is こう."
+  },
+  {
+    "kanji": "藍",
+    "readings": [
+      {
+        "r": "あい",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{藍|あい}",
+            "en": "indigo (plant, colour)",
+            "lvl": 1
+          },
+          {
+            "w": "{藍色|あいいろ}",
+            "en": "indigo blue",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. あい (indigo) is the common reading; also a girl's name."
+  },
+  {
+    "kanji": "賊",
+    "readings": [
+      {
+        "r": "ぞく",
+        "type": "on",
+        "words": [
+          {
+            "w": "{海賊|かいぞく}",
+            "en": "pirate",
+            "lvl": 1
+          },
+          {
+            "w": "{盗賊|とうぞく}",
+            "en": "thief, bandit",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Learn {海賊|かいぞく} (pirate), as in One Piece. Its only common reading is ぞく."
+  },
+  {
+    "kanji": "搾",
+    "readings": [
+      {
+        "r": "しぼ",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{搾|しぼ}る",
+            "en": "to squeeze (juice, milk)",
+            "lvl": 1
+          }
+        ]
+      },
+      {
+        "r": "さく",
+        "type": "on",
+        "words": [
+          {
+            "w": "{搾取|さくしゅ}",
+            "en": "exploitation",
+            "lvl": 1
+          },
+          {
+            "w": "{搾乳|さくにゅう}",
+            "en": "milking",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Trap: しぼる is also written {絞|しぼ}る (wring a towel)."
+  },
+  {
+    "kanji": "畔",
+    "readings": [
+      {
+        "r": "はん",
+        "type": "on",
+        "words": [
+          {
+            "w": "{湖畔|こはん}",
+            "en": "lakeside",
+            "lvl": 1
+          },
+          {
+            "w": "{河畔|かはん}",
+            "en": "riverside",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Seen in place words like {湖畔|こはん}."
+  },
+  {
+    "kanji": "遼",
+    "readings": [
+      {
+        "r": "りょう",
+        "type": "on",
+        "words": [
+          {
+            "w": "{遼|りょう}",
+            "en": "Ryo (a boy's name)",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Mostly in boys' names read りょう."
+  },
+  {
+    "kanji": "唄",
+    "readings": [
+      {
+        "r": "うた",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{唄|うた}",
+            "en": "(folk) song",
+            "lvl": 1
+          },
+          {
+            "w": "{子守唄|こもりうた}",
+            "en": "lullaby",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. The everyday kanji for song is {歌|うた}; {唄|うた} is for folk songs."
+  },
+  {
+    "kanji": "孔",
+    "readings": [
+      {
+        "r": "こう",
+        "type": "on",
+        "words": [
+          {
+            "w": "{孔子|こうし}",
+            "en": "Confucius",
+            "lvl": 1
+          },
+          {
+            "w": "{鼻孔|びこう}",
+            "en": "nostril",
+            "lvl": 1
+          }
+        ]
+      },
+      {
+        "r": "く",
+        "type": "on",
+        "words": [
+          {
+            "w": "{孔雀|くじゃく}",
+            "en": "peacock",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. {孔雀|くじゃく} (peacock) uses the reading く."
+  },
+  {
+    "kanji": "橘",
+    "readings": [
+      {
+        "r": "たちばな",
+        "type": "kun",
+        "words": [
+          {
+            "w": "{橘|たちばな}",
+            "en": "tachibana orange; a surname",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Mostly seen as the surname たちばな."
+  },
+  {
+    "kanji": "漱",
+    "readings": [
+      {
+        "r": "そう",
+        "type": "on",
+        "words": [
+          {
+            "w": "{漱石|そうせき}",
+            "en": "Soseki (famous writer)",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Known from the writer {夏目漱石|なつめそうせき}."
+  },
+  {
+    "kanji": "呂",
+    "readings": [
+      {
+        "r": "ろ",
+        "type": "on",
+        "words": [
+          {
+            "w": "{風呂|ふろ}",
+            "en": "bath",
+            "lvl": 4
+          },
+          {
+            "w": "{語呂|ごろ}",
+            "en": "sound and rhythm of words",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Important at N5/N4: お{風呂|ふろ} (bath). The ろ reading is the one to know."
+  },
+  {
+    "kanji": "拷",
+    "readings": [
+      {
+        "r": "ごう",
+        "type": "on",
+        "words": [
+          {
+            "w": "{拷問|ごうもん}",
+            "en": "torture",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Its only common word is {拷問|ごうもん}."
+  },
+  {
+    "kanji": "嬢",
+    "readings": [
+      {
+        "r": "じょう",
+        "type": "on",
+        "words": [
+          {
+            "w": "お{嬢|じょう}さん",
+            "en": "(your) daughter; young lady",
+            "lvl": 4
+          },
+          {
+            "w": "{令嬢|れいじょう}",
+            "en": "daughter (polite); young lady",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Useful: お{嬢|じょう}さん (someone's daughter, young lady). Its only common reading is じょう."
+  },
+  {
+    "kanji": "苑",
+    "readings": [
+      {
+        "r": "えん",
+        "type": "on",
+        "words": [
+          {
+            "w": "{御苑|ぎょえん}",
+            "en": "imperial garden",
+            "lvl": 1
+          },
+          {
+            "w": "{外苑|がいえん}",
+            "en": "outer garden (of a shrine)",
+            "lvl": 1
+          }
+        ]
+      }
+    ],
+    "tip": "Not needed for N5/N4. Seen in park names like {新宿御苑|しんじゅくぎょえん}."
+  }
+]

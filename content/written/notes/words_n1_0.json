@@ -1,0 +1,802 @@
+[
+ {
+  "id": "v1-1503",
+  "hook": "先 means ahead or before, as in 先生 and 先月: the one that came first."
+ },
+ {
+  "id": "v1-1776",
+  "hook": "From 作る (to make): how something is made, its build or structure."
+ },
+ {
+  "id": "v1-0960",
+  "hook": "来 means come: きたる is a formal \"coming\", as in \"the coming Sunday\"."
+ },
+ {
+  "id": "v1-1001",
+  "hook": "強 means strong, as in 強い; きょう is its sound in words like 勉強."
+ },
+ {
+  "id": "v1-1948",
+  "hook": "Self (自) + turn (転): the Earth turning by itself, its spin. Same start as 自転車."
+ },
+ {
+  "id": "v1-1362",
+  "hook": "From 調べる (to check): a check or investigation."
+ },
+ {
+  "id": "v1-0258",
+  "hook": "決 means decide, as in 決める: a decision or a vote."
+ },
+ {
+  "id": "v1-0720",
+  "hook": "From 覚える (to remember): what you remember, your memory or experience."
+ },
+ {
+  "id": "v1-1931",
+  "hook": "実 means fruit or real: the real result, as in 実は (actually)."
+ },
+ {
+  "id": "v1-2587",
+  "hook": "Cold (冷) + storehouse (蔵): keeping things cold, as in 冷蔵庫 (fridge)."
+ },
+ {
+  "id": "v1-1638",
+  "hook": "From 助ける (to help): help, as in shouting 助けて! (help me!)."
+ },
+ {
+  "id": "v1-0827",
+  "hook": "頭 means head: かしら is an old word for the head person, the chief."
+ },
+ {
+  "id": "v1-2641",
+  "hook": "美 means beauty, as in 美しい: a big (大) sheep (羊) was beautiful to ancient people."
+ },
+ {
+  "id": "v1-0678",
+  "hook": "公 means public, as in 公園 (park): things that belong to everyone."
+ },
+ {
+  "id": "v1-1853",
+  "hook": "天 means heaven or sky, as in 天気 (weather: the mood of the sky)."
+ },
+ {
+  "id": "v1-2339",
+  "hook": "Water (氵) + origin (原): where the water starts, the source."
+ },
+ {
+  "id": "v1-0477",
+  "hook": "主 means master or owner: the old lord of a place, like the big fish that rules a pond."
+ },
+ {
+  "id": "v1-1982",
+  "hook": "主 means main or master, as in 主人 (master, husband) and 主語 (subject)."
+ },
+ {
+  "id": "v1-0200",
+  "hook": "Most (最) + middle (中): right in the very middle of something."
+ },
+ {
+  "id": "v1-0145",
+  "hook": "Shell (貝, old money) on the left: money and riches, as in 財布 (wallet)."
+ },
+ {
+  "id": "v1-1215",
+  "hook": "Person (亻) + straight (直): what an honest person says a thing is worth, its value."
+ },
+ {
+  "id": "v1-2675",
+  "hook": "Person (人) + air (気): the feeling that people are around. Not にんき (popular)!"
+ },
+ {
+  "id": "v1-1082",
+  "hook": "蔵 means storehouse: a くら is an old Japanese warehouse, like a sake くら."
+ },
+ {
+  "id": "v1-0204",
+  "hook": "様 means manner or look: add it to a name for a very polite Mr./Ms., like お客様."
+ },
+ {
+  "id": "v1-2489",
+  "hook": "故 means reason or old (as in 故郷): ゆえ is a formal \"because\"."
+ },
+ {
+  "id": "v1-0442",
+  "hook": "From 慣れる (to get used to): being used to something through practice."
+ },
+ {
+  "id": "v1-0348",
+  "hook": "From 届ける (to deliver): a form you deliver to an office, a notice."
+ },
+ {
+  "id": "v1-0069",
+  "hook": "Effect (効) + rate (率): how much effect you get for your effort, efficiency."
+ },
+ {
+  "id": "v1-0449",
+  "hook": "Plant (艹) + what (何): bundles of grass to carry, a load. Think 荷物 (luggage)."
+ },
+ {
+  "id": "v1-1632",
+  "hook": "丈 means length or height: たけ is how long or tall something is, like a dress."
+ },
+ {
+  "id": "v1-1199",
+  "hook": "From 上がる (to go up): rising, income coming up, or finishing."
+ },
+ {
+  "id": "v1-1470",
+  "hook": "Rule (制) + clothes (服): clothes set by the rules, a uniform."
+ },
+ {
+  "id": "v1-0361",
+  "hook": "Roof (宀) over a full jar: a house full of goods, wealth."
+ },
+ {
+  "id": "v1-0598",
+  "hook": "From 動く (to move): heavy (重) + power (力) makes things move, movement."
+ },
+ {
+  "id": "v1-1004",
+  "hook": "Teach (教) + section (科): a section of what is taught, a school subject, as in 教科書."
+ },
+ {
+  "id": "v1-0496",
+  "hook": "Now (今) + heart (心): what is in your heart right now, a thought or feeling."
+ },
+ {
+  "id": "v1-1908",
+  "hook": "Ear (耳) + heart (心): your ears go red and your heart feels it, shame."
+ },
+ {
+  "id": "v1-2582",
+  "hook": "類 means kind or type: things of the same kind, as in 種類 (types)."
+ },
+ {
+  "id": "v1-1055",
+  "hook": "Work hard (勤) + duty (務): doing your work duties, your job."
+ },
+ {
+  "id": "v1-1878",
+  "hook": "Hand (扌) + branch (支): skill with your hands, a technique, like a judo move."
+ },
+ {
+  "id": "v1-0008",
+  "hook": "Original (原) + text (文): the original text before translation."
+ },
+ {
+  "id": "v1-0850",
+  "hook": "Win (勝) + hand (手): doing as you like (selfish); also the kitchen, as in お勝手."
+ },
+ {
+  "id": "v1-0905",
+  "hook": "Trunk (幹) + line (線): the main trunk line, as in 新幹線 (bullet train)."
+ },
+ {
+  "id": "v1-1756",
+  "hook": "Sink (沈) + silent (黙): sinking into silence."
+ },
+ {
+  "id": "v1-2659",
+  "hook": "Beauty (美) + skill (術): the skill of making beauty, fine art, as in 美術館."
+ },
+ {
+  "id": "v1-1130",
+  "hook": "当 means this or the one in question: 当ホテル is \"this hotel (ours)\"."
+ },
+ {
+  "id": "v1-0192",
+  "hook": "雑 means mixed or rough: things thrown together, as in 雑誌 (magazine)."
+ },
+ {
+  "id": "v1-0613",
+  "hook": "Four mouths (口) around a dog (犬): many dishes, so a bowl or container."
+ },
+ {
+  "id": "v1-1586",
+  "hook": "Big (大) + house (家): a great family, or a master of an art. (おおや is a landlord.)"
+ },
+ {
+  "id": "v1-2213",
+  "hook": "Protect (保) + danger (険): protection against danger, insurance."
+ },
+ {
+  "id": "v1-2608",
+  "hook": "Water (氵) + soldier (兵): soldiers landing at the water's edge, the beach."
+ },
+ {
+  "id": "v1-1702",
+  "hook": "乳 means milk or breast, as in 牛乳 (cow's milk)."
+ },
+ {
+  "id": "v1-0305",
+  "hook": "Guide (導) + enter (入): guiding something in, introducing it."
+ },
+ {
+  "id": "v1-0684",
+  "hook": "From 行う (to do, carry out): what you do, your conduct."
+ },
+ {
+  "id": "v1-0698",
+  "hook": "From 恐れる (to fear): fear, or the fear that something bad may happen."
+ },
+ {
+  "id": "v1-0888",
+  "hook": "Watch over (看) + protect (護): watching over the sick, nursing, as in 看護師."
+ },
+ {
+  "id": "v1-0926",
+  "hook": "Plan (企) + draw (画): drawing up a plan, a project."
+ },
+ {
+  "id": "v1-1925",
+  "hook": "Send out (発) + words (言): putting your words out, speaking up."
+ },
+ {
+  "id": "v1-2487",
+  "hook": "Dim (幽) + spirit (霊): a faint spirit, a ghost."
+ },
+ {
+  "id": "v1-2685",
+  "hook": "Avoid (避) + trouble (難): escaping from danger, taking shelter."
+ },
+ {
+  "id": "v1-0798",
+  "hook": "画 means a stroke or picture: 5画 is a kanji with five strokes."
+ },
+ {
+  "id": "v1-0173",
+  "hook": "杯 means cup, as in 一杯 (one cupful): さかずき is a small sake cup."
+ },
+ {
+  "id": "v1-1792",
+  "hook": "角 is a picture of an animal horn; it also means corner (かど)."
+ },
+ {
+  "id": "v1-2307",
+  "hook": "味 means taste: added to a word it means a touch of it, like 甘味 (sweetness)."
+ },
+ {
+  "id": "v1-0147",
+  "hook": "Disaster (災) + harm (害): damage from a disaster, a calamity."
+ },
+ {
+  "id": "v1-0667",
+  "hook": "Respond (応) + recruit (募): answering a call for people, applying."
+ },
+ {
+  "id": "v1-0778",
+  "hook": "Open (開) + start (発): opening up something new, development."
+ },
+ {
+  "id": "v1-1319",
+  "hook": "Proof (証) + basis (拠): the basis that proves it, evidence."
+ },
+ {
+  "id": "v1-1932",
+  "hook": "Real (実) + house (家): your real home, where your parents live."
+ },
+ {
+  "id": "v1-1963",
+  "hook": "Beginning (始) + end (末): dealing with it from start to end, cleaning up."
+ },
+ {
+  "id": "v1-2058",
+  "hook": "Section (部) + under (下): people under you in your section, your staff."
+ },
+ {
+  "id": "v1-2292",
+  "hook": "From 招く (to invite): hand (扌) + call (召); a 招き猫 cat waves to invite luck."
+ },
+ {
+  "id": "v1-2049",
+  "hook": "封 means seal, as in 封筒 (envelope): the thing you seal."
+ },
+ {
+  "id": "v1-0649",
+  "hook": "Edge (縁) + side (側): the wooden porch along the edge of a Japanese house."
+ },
+ {
+  "id": "v1-0729",
+  "hook": "Parent (親) + father (父): your dad, or an old man."
+ },
+ {
+  "id": "v1-0756",
+  "hook": "Help between (介) + protect (護): caring for old or sick people."
+ },
+ {
+  "id": "v1-1112",
+  "hook": "Electricity (電) + source (源): where the power comes from, the power switch."
+ },
+ {
+  "id": "v1-1200",
+  "hook": "From 諦める (to give up): accepting that it is over."
+ },
+ {
+  "id": "v1-1909",
+  "hook": "弾 means bullet or bounce: はじく is to flick or bounce off. (Read ひく, it means to play.)"
+ },
+ {
+  "id": "v1-2364",
+  "hook": "From 結ぶ (to tie): a knot or ending; おむすび is rice pressed together."
+ },
+ {
+  "id": "v1-1782",
+  "hook": "Bamboo (竹) + same (同): bamboo is the same shape all the way, a tube or pipe."
+ },
+ {
+  "id": "v1-1968",
+  "hook": "Two thin bent bows (弓): weak or delicate. じゃく is its sound in 弱点 (weak point)."
+ },
+ {
+  "id": "v1-2519",
+  "hook": "Valley (谷) + lack (欠): an empty valley you want to fill, greed or desire."
+ },
+ {
+  "id": "v1-1366",
+  "hook": "心 means heart or mind: 好奇心 is a curious mind."
+ },
+ {
+  "id": "v1-0743",
+  "hook": "我 means self: 我慢 (がまん) is holding your self back, being patient."
+ },
+ {
+  "id": "v1-1890",
+  "hook": "我 means I or self: 我々 (われわれ) is \"we\"."
+ },
+ {
+  "id": "v1-2313",
+  "hook": "幹 means trunk, as in 新幹線: the main trunk of a tree."
+ },
+ {
+  "id": "v1-0022",
+  "hook": "Do (行) + do (為): something you do, an act."
+ },
+ {
+  "id": "v1-0351",
+  "hook": "止 means stop: とどめる is to stop something and keep it where it is."
+ },
+ {
+  "id": "v1-0408",
+  "hook": "From 流す (to let flow): where water flows away, the kitchen sink."
+ },
+ {
+  "id": "v1-0560",
+  "hook": "One (一) + cut (切): everything in one cut, all, or with a negative \"not at all\"."
+ },
+ {
+  "id": "v1-0608",
+  "hook": "From 写す (to copy): a copy."
+ },
+ {
+  "id": "v1-1014",
+  "hook": "Business (業) + person (者): a business person, a trader or contractor."
+ },
+ {
+  "id": "v1-1180",
+  "hook": "Carry out (施) + set up (設): something set up for people, a facility."
+ },
+ {
+  "id": "v1-1593",
+  "hook": "Body (体) + test (験): testing with your own body, personal experience."
+ },
+ {
+  "id": "v1-1598",
+  "hook": "Retreat (退) + job (職): leaving your job, retiring."
+ },
+ {
+  "id": "v1-1696",
+  "hook": "From 違う (to differ): to make different, to change."
+ },
+ {
+  "id": "v1-2038",
+  "hook": "Goods (品) + quality (質): the quality of goods."
+ },
+ {
+  "id": "v1-2084",
+  "hook": "Carry on the back (負) + carry on the shoulder (担): something you carry, a burden."
+ },
+ {
+  "id": "v1-2302",
+  "hook": "Full (満) + moon (月): a full moon."
+ },
+ {
+  "id": "v1-2407",
+  "hook": "Face (面) + eyes (目): your face before others, your honor."
+ },
+ {
+  "id": "v1-2408",
+  "hook": "Same word as めんぼく: face (面) + eyes (目), how you look to others, your honor."
+ },
+ {
+  "id": "v1-2412",
+  "hook": "Say humbly (申) + put in (込): putting your request in, an application."
+ },
+ {
+  "id": "v1-2605",
+  "hook": "Flower (花) + びら (a flat sheet): the flat pieces of a flower, petals."
+ },
+ {
+  "id": "v1-0732",
+  "hook": "From 折る (to fold): a fold in time, a chance or occasion."
+ },
+ {
+  "id": "v1-0725",
+  "hook": "Run (走) + take (取): what draws you in, the charm or feel of a place."
+ },
+ {
+  "id": "v1-1983",
+  "hook": "Grain (禾) + heavy (重): grain seeds; a kind or species, as in 種類."
+ },
+ {
+  "id": "v1-2151",
+  "hook": "縁 means edge or link: the へり is the edge or border of something."
+ },
+ {
+  "id": "v1-0041",
+  "hook": "Exchange (交) + cross water (渉): going back and forth, negotiating."
+ },
+ {
+  "id": "v1-0113",
+  "hook": "Orphan (孤) + alone (独): all alone, lonely."
+ },
+ {
+  "id": "v1-0180",
+  "hook": "From 叫ぶ (to shout): mouth (口) open wide, a scream."
+ },
+ {
+  "id": "v1-0399",
+  "hook": "Inside (内): keep it inside, a secret between us."
+ },
+ {
+  "id": "v1-1110",
+  "hook": "Change (転) + work (勤): changing your workplace, a job transfer."
+ },
+ {
+  "id": "v1-1161",
+  "hook": "Think (思) + consider (考): thinking."
+ },
+ {
+  "id": "v1-1375",
+  "hook": "True (真) + real (実): the real truth."
+ },
+ {
+  "id": "v1-1380",
+  "hook": "New (新) + person (人): a newcomer."
+ },
+ {
+  "id": "v1-1562",
+  "hook": "From 育つ (to grow up): how you were raised."
+ },
+ {
+  "id": "v1-2246",
+  "hook": "True (本) + spirit (気): your true feeling, being serious."
+ },
+ {
+  "id": "v1-2254",
+  "hook": "Main (本) + text (文): the main text of a letter or document."
+ },
+ {
+  "id": "v1-2479",
+  "hook": "Kind (優) + first (先): letting someone go first, priority, as in 優先席."
+ },
+ {
+  "id": "v1-1731",
+  "hook": "Run (走) past it: go beyond, so super or ultra, as in 超いい."
+ },
+ {
+  "id": "v1-0206",
+  "hook": "Person (亻) + temple (寺): a person who serves and waits on a lord, a samurai."
+ },
+ {
+  "id": "v1-0270",
+  "hook": "Decide (決) + cut (断): cutting off doubt and deciding firmly."
+ },
+ {
+  "id": "v1-0438",
+  "hook": "From 悩む (to worry): a troubled heart (忄), a worry."
+ },
+ {
+  "id": "v1-0591",
+  "hook": "Receive (受け) + put in (入れ): taking something in, accepting it."
+ },
+ {
+  "id": "v1-1094",
+  "hook": "芸 means art or skill, as in 芸術 (art) and 芸能人 (entertainer)."
+ },
+ {
+  "id": "v1-1157",
+  "hook": "Do (仕) + put together (組): how parts are put together, a mechanism."
+ },
+ {
+  "id": "v1-1175",
+  "hook": "Market (市) + place (場): the market as an idea. (いちば is a real market place.)"
+ },
+ {
+  "id": "v1-1226",
+  "hook": "From 当てる (to hit): a target you aim for, something you count on."
+ },
+ {
+  "id": "v1-1230",
+  "hook": "Later (後) + turn (回し): turning it to later, putting it off."
+ },
+ {
+  "id": "v1-1292",
+  "hook": "Entrust (委) + leave with (託): leaving a job in someone's hands."
+ },
+ {
+  "id": "v1-1323",
+  "hook": "Rise (昇) + advance (進): moving up at work, a promotion."
+ },
+ {
+  "id": "v1-1399",
+  "hook": "Examine (診) + heal (療): a doctor checking and treating you."
+ },
+ {
+  "id": "v1-1416",
+  "hook": "From 進む (to move forward): progress."
+ },
+ {
+  "id": "v1-1444",
+  "hook": "Become (成) + fruit (果): what your work becomes, the results."
+ },
+ {
+  "id": "v1-1517",
+  "hook": "Before (前) + hold up (提): what is put forward first, a premise."
+ },
+ {
+  "id": "v1-1585",
+  "hook": "Face (対) + respond (応): facing something and responding, dealing with it."
+ },
+ {
+  "id": "v1-1817",
+  "hook": "Embankment (堤) + defend (防): a bank that defends against the river."
+ },
+ {
+  "id": "v1-2035",
+  "hook": "Tired (疲) + labor (労): tiredness from work, fatigue."
+ },
+ {
+  "id": "v1-2083",
+  "hook": "Tree (木) on the left: a wooden tag; also paper money, as in お札."
+ },
+ {
+  "id": "v1-2199",
+  "hook": "Violent (暴) + power (力): violence."
+ },
+ {
+  "id": "v1-2506",
+  "hook": "Use (用) + paper (紙): paper for a use, a form."
+ },
+ {
+  "id": "v1-2508",
+  "hook": "要 means need or main point: to need, to require."
+ },
+ {
+  "id": "v1-2525",
+  "hook": "避 means avoid: よける is to step aside and dodge something."
+ },
+ {
+  "id": "v1-2528",
+  "hook": "From 汚れる (to get dirty): dirty water (氵), dirt or a stain."
+ },
+ {
+  "id": "v1-2599",
+  "hook": "From 果てる (to end): the very end, the far edge."
+ },
+ {
+  "id": "v1-0020",
+  "hook": "光 means light, as in 日光 (sunlight) and 観光 (sightseeing)."
+ },
+ {
+  "id": "v1-2450",
+  "hook": "Plant (艹) + enjoy (楽): plants that make you feel good, medicine, as in 胃腸薬."
+ },
+ {
+  "id": "v1-0003",
+  "hook": "Present (現) + ground (地): the actual place where it happens, local."
+ },
+ {
+  "id": "v1-0023",
+  "hook": "Match (合) + mind (意): minds that match, agreement."
+ },
+ {
+  "id": "v1-0195",
+  "hook": "察 means observe: to read the situation and guess what someone feels."
+ },
+ {
+  "id": "v1-0196",
+  "hook": "Mixed (雑) + talk (談): talk about this and that, chatting."
+ },
+ {
+  "id": "v1-0249",
+  "hook": "Thing (事) + business (業): a business or big project."
+ },
+ {
+  "id": "v1-0263",
+  "hook": "Decide (決) + calculate (算): the final calculation of the accounts."
+ },
+ {
+  "id": "v1-0265",
+  "hook": "Decide (決) + win (勝): the match that decides the winner, the final."
+ },
+ {
+  "id": "v1-0313",
+  "hook": "Put up (登) + record (録): putting your name on the record, registering."
+ },
+ {
+  "id": "v1-0376",
+  "hook": "Take (取り) + replace (替え): taking one out and putting another in, a swap."
+ },
+ {
+  "id": "v1-0530",
+  "hook": "Back (背) + behind (後): right behind your back."
+ },
+ {
+  "id": "v1-0531",
+  "hook": "Abolish (廃) + stop (止): stopping something for good."
+ },
+ {
+  "id": "v1-0557",
+  "hook": "One (一) + breath (気): all in one breath, in one go."
+ },
+ {
+  "id": "v1-0599",
+  "hook": "Earth (土) + village (里): covering with earth, to bury."
+ },
+ {
+  "id": "v1-0609",
+  "hook": "From 訴える (to sue, to complain): words (言) taken to court, a complaint."
+ },
+ {
+  "id": "v1-0620",
+  "hook": "Plum (梅) + dried (干し): a dried pickled plum."
+ },
+ {
+  "id": "v1-0731",
+  "hook": "及 means reach: a hand catching the person ahead, to reach or extend."
+ },
+ {
+  "id": "v1-0755",
+  "hook": "Meet (会) + see (見): meeting people to be seen, a press conference."
+ },
+ {
+  "id": "v1-0890",
+  "hook": "Stubborn (頑) + hard (固): hard headed, stubborn."
+ },
+ {
+  "id": "v1-0969",
+  "hook": "Technique (技) + ability (能): technical skill."
+ },
+ {
+  "id": "v1-1026",
+  "hook": "Business (業) + duty (務): work duties."
+ },
+ {
+  "id": "v1-1139",
+  "hook": "Same (同) + grade (級): the same class, as in 同級生 (classmate)."
+ },
+ {
+  "id": "v1-1146",
+  "hook": "Way (道) + place (場): a place to learn the way, a dojo."
+ },
+ {
+  "id": "v1-1248",
+  "hook": "From 争う (to fight over): a fight or dispute."
+ },
+ {
+  "id": "v1-1269",
+  "hook": "Say (言い) + reason (訳): saying your reasons, an excuse."
+ },
+ {
+  "id": "v1-1342",
+  "hook": "Job (職) + member (員): a staff member."
+ },
+ {
+  "id": "v1-1371",
+  "hook": "New (新) + marriage (婚): newly married."
+ },
+ {
+  "id": "v1-1372",
+  "hook": "Judge (審) + investigate (査): judging and checking, an examination."
+ },
+ {
+  "id": "v1-1403",
+  "hook": "Blow (吹) + play music (奏): playing by blowing, wind instruments, as in 吹奏楽."
+ },
+ {
+  "id": "v1-1495",
+  "hook": "Explain (説) + gain (得): explaining until you win them over, persuasion."
+ },
+ {
+  "id": "v1-1524",
+  "hook": "Only (専) + use (用): for one use or person only, exclusive."
+ },
+ {
+  "id": "v1-1536",
+  "hook": "Send (送) + money (金): sending money."
+ },
+ {
+  "id": "v1-1571",
+  "hook": "Plain (素) + simple (朴): plain and simple."
+ },
+ {
+  "id": "v1-1620",
+  "hook": "Body (体) + power (力): physical strength."
+ },
+ {
+  "id": "v1-1812",
+  "hook": "Fixed (定) + meal (食): a fixed set meal."
+ },
+ {
+  "id": "v1-1947",
+  "hook": "Point (指) + pick (摘): picking out a problem and pointing to it."
+ },
+ {
+  "id": "v1-2018",
+  "hook": "Take (取) + material (材): gathering material for a story."
+ },
+ {
+  "id": "v1-2022",
+  "hook": "Main (主) + person (人) + lord (公): the lord of the story, the main character."
+ },
+ {
+  "id": "v1-2097",
+  "hook": "Go to (赴) + duty (任): going to a new post."
+ },
+ {
+  "id": "v1-2127",
+  "hook": "Writing (文) + write (書): written papers, a document."
+ },
+ {
+  "id": "v1-2160",
+  "hook": "Repay (償): paying back for something you broke or lost."
+ },
+ {
+  "id": "v1-2248",
+  "hook": "Root (本) + nature (質): the root nature of something, its essence."
+ },
+ {
+  "id": "v1-2324",
+  "hook": "Show (見せ) + thing (物): a thing to show, a show or spectacle."
+ },
+ {
+  "id": "v1-2335",
+  "hook": "See (見) + pile up (積もり): looking and adding up the costs, an estimate."
+ },
+ {
+  "id": "v1-2453",
+  "hook": "Duty (役) + place (場): the place where officials work, the town hall."
+ },
+ {
+  "id": "v1-2527",
+  "hook": "Side (横) + rope (綱): the thick rope worn around the waist of the sumo grand champion."
+ },
+ {
+  "id": "v1-2566",
+  "hook": "Finish (了) + understand (解): fully understood, roger that."
+ },
+ {
+  "id": "v1-0737",
+  "hook": "Person (亻) on the left: a rough, manly word for \"I\"."
+ },
+ {
+  "id": "v1-0016",
+  "hook": "故 means late or old: 故山田さん is the late Mr. Yamada."
+ },
+ {
+  "id": "v1-0088",
+  "hook": "Samurai (士) + heart (心): a samurai's heart set on a goal, ambition."
+ },
+ {
+  "id": "v1-1842",
+  "hook": "Hand (手) at the bottom: the palm of your hand."
+ },
+ {
+  "id": "v1-1957",
+  "hook": "Grass (艹) on top: short grass, a lawn, as in 芝生."
+ },
+ {
+  "id": "v1-0746",
+  "hook": "Go (行) around it: streets, a town area, as in 商店街 (shopping street)."
+ }
+]

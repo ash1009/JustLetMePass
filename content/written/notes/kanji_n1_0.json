@@ -1,0 +1,2607 @@
+[
+ {
+  "kanji": "氏",
+  "readings": [
+   {
+    "r": "し",
+    "type": "on",
+    "words": [
+     {
+      "w": "{彼氏|かれし}",
+      "en": "boyfriend",
+      "lvl": 3
+     },
+     {
+      "w": "{氏名|しめい}",
+      "en": "full name",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "うじ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{氏神|うじがみ}",
+      "en": "local guardian god",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn し from {彼氏|かれし} and {氏名|しめい} (full name on forms). Do not mix up 氏 with 民 (people)."
+ },
+ {
+  "kanji": "統",
+  "readings": [
+   {
+    "r": "とう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{伝統|でんとう}",
+      "en": "tradition",
+      "lvl": 2
+     },
+     {
+      "w": "{大統領|だいとうりょう}",
+      "en": "president",
+      "lvl": 2
+     },
+     {
+      "w": "{統一|とういつ}",
+      "en": "unification",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only とう in common words: {伝統|でんとう} (tradition) and {大統領|だいとうりょう} (president)."
+ },
+ {
+  "kanji": "保",
+  "readings": [
+   {
+    "r": "ほ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{保険|ほけん}",
+      "en": "insurance",
+      "lvl": 2
+     },
+     {
+      "w": "{保存|ほぞん}",
+      "en": "saving, storing",
+      "lvl": 2
+     },
+     {
+      "w": "{保育園|ほいくえん}",
+      "en": "nursery school",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "たもつ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{保|たも}つ",
+      "en": "to keep, to maintain",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "ほ is the main reading: {保険|ほけん} (insurance), {保存|ほぞん} (save a file)."
+ },
+ {
+  "kanji": "第",
+  "readings": [
+   {
+    "r": "だい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{第一|だいいち}",
+      "en": "first, number one",
+      "lvl": 3
+     },
+     {
+      "w": "{次第|しだい}に",
+      "en": "gradually",
+      "lvl": 2
+     },
+     {
+      "w": "{落第|らくだい}",
+      "en": "failing (a class)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Put {第|だい} before a number to say 'the 1st, 2nd': {第一|だいいち}, {第二|だいに}."
+ },
+ {
+  "kanji": "結",
+  "readings": [
+   {
+    "r": "けつ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{結婚|けっこん}",
+      "en": "marriage",
+      "lvl": 4
+     },
+     {
+      "w": "{結構|けっこう}",
+      "en": "fine, quite",
+      "lvl": 4
+     },
+     {
+      "w": "{結果|けっか}",
+      "en": "result",
+      "lvl": 3
+     }
+    ]
+   },
+   {
+    "r": "むすぶ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{結|むす}ぶ",
+      "en": "to tie, to connect",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "ゆう",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{結|ゆ}う",
+      "en": "to tie up (hair)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "{結婚|けっこん} and {結構|けっこう} are N4 words: けつ becomes けっ. Do not confuse with 給 (wage)."
+ },
+ {
+  "kanji": "派",
+  "readings": [
+   {
+    "r": "は",
+    "type": "on",
+    "words": [
+     {
+      "w": "{立派|りっぱ}",
+      "en": "splendid, fine",
+      "lvl": 4
+     },
+     {
+      "w": "{派手|はで}",
+      "en": "showy, flashy",
+      "lvl": 2
+     },
+     {
+      "w": "{派遣|はけん}",
+      "en": "dispatch, temp work",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "{立派|りっぱ} is an N4 word: here は changes to ぱ. Do not confuse with 波 (wave)."
+ },
+ {
+  "kanji": "案",
+  "readings": [
+   {
+    "r": "あん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{案内|あんない}",
+      "en": "guiding, information",
+      "lvl": 4
+     },
+     {
+      "w": "{案|あん}",
+      "en": "plan, idea",
+      "lvl": 2
+     },
+     {
+      "w": "{提案|ていあん}",
+      "en": "proposal",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "{案内|あんない} is N4 ({案内|あんない}します: I will show you around). Do not mix it up with 安 (cheap), also あん."
+ },
+ {
+  "kanji": "策",
+  "readings": [
+   {
+    "r": "さく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{対策|たいさく}",
+      "en": "measure, countermeasure",
+      "lvl": 2
+     },
+     {
+      "w": "{政策|せいさく}",
+      "en": "policy",
+      "lvl": 1
+     },
+     {
+      "w": "{散策|さんさく}",
+      "en": "stroll, walk",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only さく. {対策|たいさく} (measures) is common in news and test prep books."
+ },
+ {
+  "kanji": "基",
+  "readings": [
+   {
+    "r": "き",
+    "type": "on",
+    "words": [
+     {
+      "w": "{基本|きほん}",
+      "en": "basics",
+      "lvl": 2
+     },
+     {
+      "w": "{基礎|きそ}",
+      "en": "foundation",
+      "lvl": 2
+     },
+     {
+      "w": "{基準|きじゅん}",
+      "en": "standard",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "もと",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{基|もと}づく",
+      "en": "to be based on",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "{基本|きほん} (basics) is the most useful word. Note the 土 at the bottom of 基."
+ },
+ {
+  "kanji": "価",
+  "readings": [
+   {
+    "r": "か",
+    "type": "on",
+    "words": [
+     {
+      "w": "{物価|ぶっか}",
+      "en": "cost of living, prices",
+      "lvl": 2
+     },
+     {
+      "w": "{価格|かかく}",
+      "en": "price",
+      "lvl": 2
+     },
+     {
+      "w": "{評価|ひょうか}",
+      "en": "evaluation",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "か is the reading to know. For a price tag you more often hear {値段|ねだん}."
+ },
+ {
+  "kanji": "提",
+  "readings": [
+   {
+    "r": "てい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{提出|ていしゅつ}",
+      "en": "handing in",
+      "lvl": 2
+     },
+     {
+      "w": "{提案|ていあん}",
+      "en": "proposal",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "ちょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{提灯|ちょうちん}",
+      "en": "paper lantern",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "さげる",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{手提|てさ}げ",
+      "en": "handbag, tote bag",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "てい is the reading you need: {宿題|しゅくだい}を{提出|ていしゅつ}する (hand in homework)."
+ },
+ {
+  "kanji": "挙",
+  "readings": [
+   {
+    "r": "きょ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{選挙|せんきょ}",
+      "en": "election",
+      "lvl": 2
+     },
+     {
+      "w": "{挙手|きょしゅ}",
+      "en": "raising your hand",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "あげる",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{挙|あ}げる",
+      "en": "to give (an example), to raise",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "あがる",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{挙|あ}がる",
+      "en": "to be raised, to be found",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "{挙|あ}げる is used for giving examples ({例|れい}を{挙|あ}げる); for lifting things use {上|あ}げる."
+ },
+ {
+  "kanji": "応",
+  "readings": [
+   {
+    "r": "おう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{応援|おうえん}",
+      "en": "cheering, support",
+      "lvl": 2
+     },
+     {
+      "w": "{一応|いちおう}",
+      "en": "for now, just in case",
+      "lvl": 2
+     },
+     {
+      "w": "{反応|はんのう}",
+      "en": "reaction",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "こたえる",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{応|こた}える",
+      "en": "to respond to (hopes, needs)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "おう is the main reading. In {反応|はんのう} it changes to のう. {応|こた}える (meet hopes) is not {答|こた}える (answer a question)."
+ },
+ {
+  "kanji": "企",
+  "readings": [
+   {
+    "r": "き",
+    "type": "on",
+    "words": [
+     {
+      "w": "{企業|きぎょう}",
+      "en": "company, business",
+      "lvl": 2
+     },
+     {
+      "w": "{企画|きかく}",
+      "en": "plan, project",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "くわだてる",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{企|くわだ}てる",
+      "en": "to plot, to plan",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "たくらむ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{企|たくら}む",
+      "en": "to scheme",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Know {企業|きぎょう} (company). 企 is 人 (person) over 止 (stop)."
+ },
+ {
+  "kanji": "検",
+  "readings": [
+   {
+    "r": "けん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{検査|けんさ}",
+      "en": "inspection, test",
+      "lvl": 2
+     },
+     {
+      "w": "{点検|てんけん}",
+      "en": "check, inspection",
+      "lvl": 1
+     },
+     {
+      "w": "{検討|けんとう}",
+      "en": "consideration",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only けん in common words. Do not confuse with 険 (danger) or 験 (test), also けん."
+ },
+ {
+  "kanji": "藤",
+  "readings": [
+   {
+    "r": "とう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{佐藤|さとう}",
+      "en": "Sato (surname)",
+      "lvl": 1
+     },
+     {
+      "w": "{加藤|かとう}",
+      "en": "Kato (surname)",
+      "lvl": 1
+     },
+     {
+      "w": "{近藤|こんどう}",
+      "en": "Kondo (surname)",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "ふじ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{藤|ふじ}",
+      "en": "wisteria",
+      "lvl": 1
+     },
+     {
+      "w": "{藤色|ふじいろ}",
+      "en": "light purple",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "藤 is mostly in surnames: {佐藤|さとう} is the most common name in Japan. In {近藤|こんどう} it becomes どう."
+ },
+ {
+  "kanji": "沢",
+  "readings": [
+   {
+    "r": "たく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{沢山|たくさん}",
+      "en": "a lot (usually written in kana)",
+      "lvl": 5
+     },
+     {
+      "w": "{贅沢|ぜいたく}",
+      "en": "luxury",
+      "lvl": 2
+     },
+     {
+      "w": "{光沢|こうたく}",
+      "en": "gloss, shine",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "さわ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{沢|さわ}",
+      "en": "mountain stream, marsh",
+      "lvl": 1
+     },
+     {
+      "w": "{金沢|かなざわ}",
+      "en": "Kanazawa (city)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "たくさん can be written {沢山|たくさん}, but kana is more common. In place names さわ often becomes ざわ."
+ },
+ {
+  "kanji": "裁",
+  "readings": [
+   {
+    "r": "さい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{裁判|さいばん}",
+      "en": "trial, court case",
+      "lvl": 2
+     },
+     {
+      "w": "{体裁|ていさい}",
+      "en": "appearance, look",
+      "lvl": 1
+     },
+     {
+      "w": "{独裁|どくさい}",
+      "en": "dictatorship",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "さばく",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{裁|さば}く",
+      "en": "to judge",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "さい: {裁判|さいばん} (court trial). Do not confuse with 栽 or 載, which look very similar."
+ },
+ {
+  "kanji": "証",
+  "readings": [
+   {
+    "r": "しょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{学生証|がくせいしょう}",
+      "en": "student ID card",
+      "lvl": 3
+     },
+     {
+      "w": "{証明|しょうめい}",
+      "en": "proof",
+      "lvl": 2
+     },
+     {
+      "w": "{保証|ほしょう}",
+      "en": "guarantee",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Only しょう in common words. Useful: {学生証|がくせいしょう} (student ID)."
+ },
+ {
+  "kanji": "援",
+  "readings": [
+   {
+    "r": "えん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{応援|おうえん}",
+      "en": "cheering, support",
+      "lvl": 2
+     },
+     {
+      "w": "{援助|えんじょ}",
+      "en": "aid, help",
+      "lvl": 1
+     },
+     {
+      "w": "{支援|しえん}",
+      "en": "support",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only えん. {応援|おうえん}します means I will cheer for you."
+ },
+ {
+  "kanji": "施",
+  "readings": [
+   {
+    "r": "し",
+    "type": "on",
+    "words": [
+     {
+      "w": "{施設|しせつ}",
+      "en": "facility",
+      "lvl": 2
+     },
+     {
+      "w": "{実施|じっし}",
+      "en": "carrying out",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "ほどこす",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{施|ほどこ}す",
+      "en": "to give, to apply",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "し is the reading to know: {施設|しせつ} (facility). Do not confuse with 旅 (trip), which looks similar."
+ },
+ {
+  "kanji": "井",
+  "readings": [
+   {
+    "r": "い",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{井戸|いど}",
+      "en": "well (for water)",
+      "lvl": 1
+     },
+     {
+      "w": "{井上|いのうえ}",
+      "en": "Inoue (surname)",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "しょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{天井|てんじょう}",
+      "en": "ceiling",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "{天井|てんじょう} (ceiling) is the word to learn: しょう changes to じょう. い appears in names like {井上|いのうえ}."
+ },
+ {
+  "kanji": "護",
+  "readings": [
+   {
+    "r": "ご",
+    "type": "on",
+    "words": [
+     {
+      "w": "{看護師|かんごし}",
+      "en": "nurse",
+      "lvl": 3
+     },
+     {
+      "w": "{弁護士|べんごし}",
+      "en": "lawyer",
+      "lvl": 2
+     },
+     {
+      "w": "{保護|ほご}",
+      "en": "protection",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "Only ご. Jobs: {看護師|かんごし} (nurse), {弁護士|べんごし} (lawyer)."
+ },
+ {
+  "kanji": "展",
+  "readings": [
+   {
+    "r": "てん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{展覧会|てんらんかい}",
+      "en": "exhibition",
+      "lvl": 3
+     },
+     {
+      "w": "{発展|はってん}",
+      "en": "development",
+      "lvl": 2
+     },
+     {
+      "w": "{展示|てんじ}",
+      "en": "display",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only てん. Do not confuse with 殿 (palace), which looks similar."
+ },
+ {
+  "kanji": "態",
+  "readings": [
+   {
+    "r": "たい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{態度|たいど}",
+      "en": "attitude",
+      "lvl": 2
+     },
+     {
+      "w": "{状態|じょうたい}",
+      "en": "condition, state",
+      "lvl": 2
+     },
+     {
+      "w": "{事態|じたい}",
+      "en": "situation",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only たい. 態 is 能 (ability) over 心 (heart)."
+ },
+ {
+  "kanji": "鮮",
+  "readings": [
+   {
+    "r": "せん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{新鮮|しんせん}",
+      "en": "fresh",
+      "lvl": 2
+     },
+     {
+      "w": "{朝鮮|ちょうせん}",
+      "en": "Korea (old name)",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "あざやか",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{鮮|あざ}やか",
+      "en": "vivid, bright",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "{新鮮|しんせん} (fresh) is the useful word. 鮮 is 魚 (fish) plus 羊 (sheep)."
+ },
+ {
+  "kanji": "視",
+  "readings": [
+   {
+    "r": "し",
+    "type": "on",
+    "words": [
+     {
+      "w": "{無視|むし}",
+      "en": "ignoring",
+      "lvl": 2
+     },
+     {
+      "w": "{視力|しりょく}",
+      "en": "eyesight",
+      "lvl": 2
+     },
+     {
+      "w": "{視線|しせん}",
+      "en": "gaze, line of sight",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only し. {無視|むし} (ignore) sounds the same as {虫|むし} (bug)."
+ },
+ {
+  "kanji": "条",
+  "readings": [
+   {
+    "r": "じょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{条件|じょうけん}",
+      "en": "condition, terms",
+      "lvl": 2
+     },
+     {
+      "w": "{条約|じょうやく}",
+      "en": "treaty",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only じょう in common words. {条件|じょうけん} (condition, terms) is the main word."
+ },
+ {
+  "kanji": "幹",
+  "readings": [
+   {
+    "r": "かん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{新幹線|しんかんせん}",
+      "en": "bullet train",
+      "lvl": 3
+     },
+     {
+      "w": "{幹事|かんじ}",
+      "en": "party organizer",
+      "lvl": 1
+     },
+     {
+      "w": "{幹部|かんぶ}",
+      "en": "executive, leader",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "みき",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{幹|みき}",
+      "en": "tree trunk",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Learn {新幹線|しんかんせん} (bullet train). Do not confuse with 乾 (dry), also かん."
+ },
+ {
+  "kanji": "独",
+  "readings": [
+   {
+    "r": "どく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{独身|どくしん}",
+      "en": "single, unmarried",
+      "lvl": 2
+     },
+     {
+      "w": "{独立|どくりつ}",
+      "en": "independence",
+      "lvl": 2
+     },
+     {
+      "w": "{独特|どくとく}",
+      "en": "unique, special",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "ひとり",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{独|ひと}り",
+      "en": "alone",
+      "lvl": 2
+     },
+     {
+      "w": "{独|ひと}り{言|ごと}",
+      "en": "talking to oneself",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "どく is in {独身|どくしん} (single). For counting people, ひとり is {一人|ひとり}, not {独|ひと}り."
+ },
+ {
+  "kanji": "宮",
+  "readings": [
+   {
+    "r": "みや",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{宮|みや}",
+      "en": "shrine, prince",
+      "lvl": 1
+     },
+     {
+      "w": "{宮城|みやぎ}",
+      "en": "Miyagi (prefecture)",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "ぐう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{神宮|じんぐう}",
+      "en": "large Shinto shrine",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "きゅう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{宮殿|きゅうでん}",
+      "en": "palace",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "く",
+    "type": "on",
+    "words": [
+     {
+      "w": "{宮内庁|くないちょう}",
+      "en": "Imperial Household Agency",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Mostly みや in place names like {宮城|みやぎ}. ぐう is in shrine names like {明治神宮|めいじじんぐう}."
+ },
+ {
+  "kanji": "率",
+  "readings": [
+   {
+    "r": "りつ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{確率|かくりつ}",
+      "en": "probability, chance",
+      "lvl": 2
+     },
+     {
+      "w": "{比率|ひりつ}",
+      "en": "ratio",
+      "lvl": 1
+     },
+     {
+      "w": "{効率|こうりつ}",
+      "en": "efficiency",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "そつ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{率直|そっちょく}",
+      "en": "frank, honest",
+      "lvl": 1
+     },
+     {
+      "w": "{引率|いんそつ}",
+      "en": "leading (a group)",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "ひきいる",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{率|ひき}いる",
+      "en": "to lead",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "りつ (rate) is most common: {確率|かくりつ}. In {率直|そっちょく} (frank) そつ becomes そっ."
+ },
+ {
+  "kanji": "衛",
+  "readings": [
+   {
+    "r": "えい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{衛生|えいせい}",
+      "en": "hygiene",
+      "lvl": 2
+     },
+     {
+      "w": "{衛星|えいせい}",
+      "en": "satellite",
+      "lvl": 1
+     },
+     {
+      "w": "{防衛|ぼうえい}",
+      "en": "defense",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only えい. {衛生|えいせい} (hygiene) and {衛星|えいせい} (satellite) sound the same."
+ },
+ {
+  "kanji": "張",
+  "readings": [
+   {
+    "r": "ちょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{出張|しゅっちょう}",
+      "en": "business trip",
+      "lvl": 3
+     },
+     {
+      "w": "{緊張|きんちょう}",
+      "en": "nervousness",
+      "lvl": 2
+     },
+     {
+      "w": "{主張|しゅちょう}",
+      "en": "claim, opinion",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "はる",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{頑張|がんば}る",
+      "en": "to do your best",
+      "lvl": 4
+     },
+     {
+      "w": "{張|は}る",
+      "en": "to stretch, to stick on",
+      "lvl": 2
+     },
+     {
+      "w": "{引|ひ}っ{張|ぱ}る",
+      "en": "to pull",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "{頑張|がんば}る (do your best) is an N4 word: は changes to ば. {出張|しゅっちょう} (business trip) is also common."
+ },
+ {
+  "kanji": "監",
+  "readings": [
+   {
+    "r": "かん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{監督|かんとく}",
+      "en": "film director, coach",
+      "lvl": 2
+     },
+     {
+      "w": "{監視|かんし}",
+      "en": "watching, monitoring",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only かん. {監督|かんとく} is a film director or sports coach."
+ },
+ {
+  "kanji": "環",
+  "readings": [
+   {
+    "r": "かん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{環境|かんきょう}",
+      "en": "environment",
+      "lvl": 2
+     },
+     {
+      "w": "{循環|じゅんかん}",
+      "en": "circulation, cycle",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only かん. {環境|かんきょう} (environment) is the key word. Do not confuse with 還 (return), also かん."
+ },
+ {
+  "kanji": "審",
+  "readings": [
+   {
+    "r": "しん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{審判|しんぱん}",
+      "en": "referee, umpire",
+      "lvl": 1
+     },
+     {
+      "w": "{不審|ふしん}",
+      "en": "suspicious",
+      "lvl": 1
+     },
+     {
+      "w": "{審査|しんさ}",
+      "en": "screening, judging",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only しん. {不審|ふしん}な{人|ひと} (a suspicious person) is seen on station signs."
+ },
+ {
+  "kanji": "義",
+  "readings": [
+   {
+    "r": "ぎ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{講義|こうぎ}",
+      "en": "lecture",
+      "lvl": 2
+     },
+     {
+      "w": "{義務|ぎむ}",
+      "en": "duty",
+      "lvl": 2
+     },
+     {
+      "w": "{正義|せいぎ}",
+      "en": "justice",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only ぎ. Do not confuse with 議 (discussion), as in {会議|かいぎ}, also ぎ."
+ },
+ {
+  "kanji": "訴",
+  "readings": [
+   {
+    "r": "うったえる",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{訴|うった}える",
+      "en": "to sue, to complain of",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "そ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{訴訟|そしょう}",
+      "en": "lawsuit",
+      "lvl": 1
+     },
+     {
+      "w": "{告訴|こくそ}",
+      "en": "legal complaint",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "{訴|うった}える (complain, sue) is the most common use. そ appears in law words like {訴訟|そしょう}."
+ },
+ {
+  "kanji": "株",
+  "readings": [
+   {
+    "r": "かぶ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{株|かぶ}",
+      "en": "stock, share",
+      "lvl": 2
+     },
+     {
+      "w": "{株式会社|かぶしきがいしゃ}",
+      "en": "corporation, Co. Ltd.",
+      "lvl": 2
+     },
+     {
+      "w": "{株価|かぶか}",
+      "en": "stock price",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only かぶ in common words. {株式会社|かぶしきがいしゃ} (Co. Ltd.) is on many company names."
+ },
+ {
+  "kanji": "姿",
+  "readings": [
+   {
+    "r": "すがた",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{姿|すがた}",
+      "en": "figure, appearance",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "し",
+    "type": "on",
+    "words": [
+     {
+      "w": "{姿勢|しせい}",
+      "en": "posture, attitude",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "すがた (figure, look) is the most useful. し is in {姿勢|しせい} (posture). The top part is 次."
+ },
+ {
+  "kanji": "閣",
+  "readings": [
+   {
+    "r": "かく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{内閣|ないかく}",
+      "en": "cabinet (government)",
+      "lvl": 1
+     },
+     {
+      "w": "{金閣寺|きんかくじ}",
+      "en": "Kinkakuji (Golden Pavilion)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only かく. Easy to remember from {金閣寺|きんかくじ} in Kyoto."
+ },
+ {
+  "kanji": "衆",
+  "readings": [
+   {
+    "r": "しゅう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{観衆|かんしゅう}",
+      "en": "audience, spectators",
+      "lvl": 1
+     },
+     {
+      "w": "{合衆国|がっしゅうこく}",
+      "en": "United States",
+      "lvl": 1
+     },
+     {
+      "w": "{衆議院|しゅうぎいん}",
+      "en": "House of Representatives",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only しゅう in common words. {合衆国|がっしゅうこく} is in the name of the USA."
+ },
+ {
+  "kanji": "評",
+  "readings": [
+   {
+    "r": "ひょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{評判|ひょうばん}",
+      "en": "reputation",
+      "lvl": 2
+     },
+     {
+      "w": "{評価|ひょうか}",
+      "en": "evaluation",
+      "lvl": 1
+     },
+     {
+      "w": "{批評|ひひょう}",
+      "en": "review, criticism",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only ひょう. {評判|ひょうばん}がいい means it has a good reputation."
+ },
+ {
+  "kanji": "影",
+  "readings": [
+   {
+    "r": "かげ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{影|かげ}",
+      "en": "shadow",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "えい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{影響|えいきょう}",
+      "en": "influence",
+      "lvl": 2
+     },
+     {
+      "w": "{撮影|さつえい}",
+      "en": "filming, photo shoot",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "かげ (shadow) and {影響|えいきょう} (influence) are both useful. Do not confuse with 陰 (shade), also かげ."
+ },
+ {
+  "kanji": "松",
+  "readings": [
+   {
+    "r": "まつ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{松|まつ}",
+      "en": "pine tree",
+      "lvl": 2
+     },
+     {
+      "w": "{門松|かどまつ}",
+      "en": "New Year pine decoration",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "しょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{松竹梅|しょうちくばい}",
+      "en": "pine, bamboo, plum (3 grades)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "まつ is the main reading, also in names like {松本|まつもと}."
+ },
+ {
+  "kanji": "撃",
+  "readings": [
+   {
+    "r": "げき",
+    "type": "on",
+    "words": [
+     {
+      "w": "{攻撃|こうげき}",
+      "en": "attack",
+      "lvl": 1
+     },
+     {
+      "w": "{衝撃|しょうげき}",
+      "en": "shock, impact",
+      "lvl": 1
+     },
+     {
+      "w": "{目撃|もくげき}",
+      "en": "witnessing",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "うつ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{撃|う}つ",
+      "en": "to shoot (a gun)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "{撃|う}つ means to shoot a gun; for hitting use {打|う}つ. げき is in {攻撃|こうげき} (attack)."
+ },
+ {
+  "kanji": "佐",
+  "readings": [
+   {
+    "r": "さ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{佐藤|さとう}",
+      "en": "Sato (surname)",
+      "lvl": 1
+     },
+     {
+      "w": "{補佐|ほさ}",
+      "en": "assistant, aide",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only さ. You will see it most in the name {佐藤|さとう}."
+ },
+ {
+  "kanji": "核",
+  "readings": [
+   {
+    "r": "かく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{核|かく}",
+      "en": "core, nuclear",
+      "lvl": 1
+     },
+     {
+      "w": "{核兵器|かくへいき}",
+      "en": "nuclear weapons",
+      "lvl": 1
+     },
+     {
+      "w": "{結核|けっかく}",
+      "en": "tuberculosis",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only かく. Do not confuse with 刻 (carve), which looks alike."
+ },
+ {
+  "kanji": "整",
+  "readings": [
+   {
+    "r": "せい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{整理|せいり}",
+      "en": "tidying, sorting",
+      "lvl": 2
+     },
+     {
+      "w": "{調整|ちょうせい}",
+      "en": "adjustment",
+      "lvl": 1
+     },
+     {
+      "w": "{整備|せいび}",
+      "en": "maintenance",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "ととの",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{整|ととの}える",
+      "en": "to arrange, to prepare",
+      "lvl": 1
+     },
+     {
+      "w": "{整|ととの}う",
+      "en": "to be ready, to be in order",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "せい: {整理|せいり} (tidying up). 整 has 正 (correct) at the bottom, which gives the sound せい."
+ },
+ {
+  "kanji": "融",
+  "readings": [
+   {
+    "r": "ゆう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{金融|きんゆう}",
+      "en": "finance",
+      "lvl": 1
+     },
+     {
+      "w": "{融通|ゆうずう}",
+      "en": "flexibility",
+      "lvl": 1
+     },
+     {
+      "w": "{融資|ゆうし}",
+      "en": "loan, financing",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only ゆう in common words. {金融|きんゆう} (finance) is a news word."
+ },
+ {
+  "kanji": "製",
+  "readings": [
+   {
+    "r": "せい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{日本製|にほんせい}",
+      "en": "made in Japan",
+      "lvl": 3
+     },
+     {
+      "w": "{製品|せいひん}",
+      "en": "product",
+      "lvl": 2
+     },
+     {
+      "w": "{製造|せいぞう}",
+      "en": "manufacturing",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "{日本製|にほんせい} means made in Japan. Do not confuse with 制 (system), also せい."
+ },
+ {
+  "kanji": "票",
+  "readings": [
+   {
+    "r": "ひょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{投票|とうひょう}",
+      "en": "vote, voting",
+      "lvl": 2
+     },
+     {
+      "w": "{票|ひょう}",
+      "en": "vote, ballot",
+      "lvl": 1
+     },
+     {
+      "w": "{伝票|でんぴょう}",
+      "en": "slip, bill",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only ひょう. In {伝票|でんぴょう} it changes to ぴょう. Do not confuse with 標 (sign)."
+ },
+ {
+  "kanji": "渉",
+  "readings": [
+   {
+    "r": "しょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{交渉|こうしょう}",
+      "en": "negotiation",
+      "lvl": 1
+     },
+     {
+      "w": "{干渉|かんしょう}",
+      "en": "interference",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only しょう. {交渉|こうしょう} (negotiation) is the main word."
+ },
+ {
+  "kanji": "響",
+  "readings": [
+   {
+    "r": "きょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{影響|えいきょう}",
+      "en": "influence",
+      "lvl": 2
+     },
+     {
+      "w": "{反響|はんきょう}",
+      "en": "echo, response",
+      "lvl": 1
+     },
+     {
+      "w": "{交響曲|こうきょうきょく}",
+      "en": "symphony",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "ひびく",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{響|ひび}く",
+      "en": "to echo, to resound",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "{影響|えいきょう} (influence) is the key word. {響|ひび}く means a sound echoes."
+ },
+ {
+  "kanji": "推",
+  "readings": [
+   {
+    "r": "すい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{推理|すいり}",
+      "en": "deduction, mystery",
+      "lvl": 1
+     },
+     {
+      "w": "{推薦|すいせん}",
+      "en": "recommendation",
+      "lvl": 1
+     },
+     {
+      "w": "{推測|すいそく}",
+      "en": "guess",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "おす",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{推|お}す",
+      "en": "to recommend, to support",
+      "lvl": 1
+     },
+     {
+      "w": "{推|お}し",
+      "en": "favorite (idol, character)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "すい: {推理|すいり} (mystery, deduction). {推|お}し is slang for your favorite idol; for pushing a door use {押|お}す."
+ },
+ {
+  "kanji": "請",
+  "readings": [
+   {
+    "r": "せい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{請求|せいきゅう}",
+      "en": "bill, claim",
+      "lvl": 1
+     },
+     {
+      "w": "{申請|しんせい}",
+      "en": "application",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "うける",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{下請|したう}け",
+      "en": "subcontractor",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "せい is the main reading: {請求書|せいきゅうしょ} (bill, invoice). Do not confuse with 清 or 晴, also せい."
+ },
+ {
+  "kanji": "器",
+  "readings": [
+   {
+    "r": "き",
+    "type": "on",
+    "words": [
+     {
+      "w": "{楽器|がっき}",
+      "en": "musical instrument",
+      "lvl": 3
+     },
+     {
+      "w": "{食器|しょっき}",
+      "en": "dishes, tableware",
+      "lvl": 2
+     },
+     {
+      "w": "{器用|きよう}",
+      "en": "skillful with hands",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "うつわ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{器|うつわ}",
+      "en": "bowl, container",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "き: {楽器|がっき} and {食器|しょっき}. 器 has four 口 (mouths) around 犬 (dog)."
+ },
+ {
+  "kanji": "士",
+  "readings": [
+   {
+    "r": "し",
+    "type": "on",
+    "words": [
+     {
+      "w": "{弁護士|べんごし}",
+      "en": "lawyer",
+      "lvl": 2
+     },
+     {
+      "w": "{力士|りきし}",
+      "en": "sumo wrestler",
+      "lvl": 1
+     },
+     {
+      "w": "{武士|ぶし}",
+      "en": "samurai, warrior",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "special",
+    "type": "special",
+    "words": [
+     {
+      "w": "{博士|はかせ}",
+      "en": "doctor (PhD), expert",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "し often marks a profession: {弁護士|べんごし}. {博士|はかせ} is read as a whole word. Do not confuse with 土 (soil), whose bottom line is longer."
+ },
+ {
+  "kanji": "討",
+  "readings": [
+   {
+    "r": "とう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{検討|けんとう}",
+      "en": "consideration",
+      "lvl": 1
+     },
+     {
+      "w": "{討論|とうろん}",
+      "en": "debate",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only とう in common words. {検討|けんとう}します (we will consider it) is a polite business phrase."
+ },
+ {
+  "kanji": "攻",
+  "readings": [
+   {
+    "r": "こう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{専攻|せんこう}",
+      "en": "major (subject of study)",
+      "lvl": 2
+     },
+     {
+      "w": "{攻撃|こうげき}",
+      "en": "attack",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "せめる",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{攻|せ}める",
+      "en": "to attack",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "{専攻|せんこう} is your university major. {攻|せ}める (attack) sounds like {責|せ}める (blame)."
+ },
+ {
+  "kanji": "崎",
+  "readings": [
+   {
+    "r": "さき",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{長崎|ながさき}",
+      "en": "Nagasaki (city)",
+      "lvl": 1
+     },
+     {
+      "w": "{川崎|かわさき}",
+      "en": "Kawasaki (city)",
+      "lvl": 1
+     },
+     {
+      "w": "{宮崎|みやざき}",
+      "en": "Miyazaki (city)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Almost only in names: さき, often ざき, as in {宮崎|みやざき}."
+ },
+ {
+  "kanji": "督",
+  "readings": [
+   {
+    "r": "とく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{監督|かんとく}",
+      "en": "film director, coach",
+      "lvl": 2
+     },
+     {
+      "w": "{督促|とくそく}",
+      "en": "demand, reminder (to pay)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only とく. Learn it with {監督|かんとく} (director, coach)."
+ },
+ {
+  "kanji": "授",
+  "readings": [
+   {
+    "r": "じゅ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{授業|じゅぎょう}",
+      "en": "class, lesson",
+      "lvl": 4
+     },
+     {
+      "w": "{教授|きょうじゅ}",
+      "en": "professor",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "さずける",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{授|さず}ける",
+      "en": "to grant, to teach",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "{授業|じゅぎょう} (class) is an N4 word, so じゅ is the reading to learn."
+ },
+ {
+  "kanji": "催",
+  "readings": [
+   {
+    "r": "さい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{開催|かいさい}",
+      "en": "holding (an event)",
+      "lvl": 1
+     },
+     {
+      "w": "{主催|しゅさい}",
+      "en": "organizing, hosting",
+      "lvl": 1
+     },
+     {
+      "w": "{催促|さいそく}",
+      "en": "urging, reminder",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "もよおす",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{催|もよお}し",
+      "en": "event",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "さい: {開催|かいさい} (holding an event). {催|もよお}し also means an event."
+ },
+ {
+  "kanji": "及",
+  "readings": [
+   {
+    "r": "きゅう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{普及|ふきゅう}",
+      "en": "spread, becoming common",
+      "lvl": 1
+     },
+     {
+      "w": "{言及|げんきゅう}",
+      "en": "mention",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "およぶ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{及|およ}ぶ",
+      "en": "to reach, to extend",
+      "lvl": 1
+     },
+     {
+      "w": "{及|およ}び",
+      "en": "and (formal)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "{及|およ}び means 'and' in formal writing. きゅう is in {普及|ふきゅう} (spread)."
+ },
+ {
+  "kanji": "憲",
+  "readings": [
+   {
+    "r": "けん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{憲法|けんぽう}",
+      "en": "constitution",
+      "lvl": 1
+     },
+     {
+      "w": "{違憲|いけん}",
+      "en": "unconstitutional",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only けん. In {憲法|けんぽう} (constitution) 法 becomes ぽう."
+ },
+ {
+  "kanji": "離",
+  "readings": [
+   {
+    "r": "はな",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{離|はな}れる",
+      "en": "to move away, to separate",
+      "lvl": 2
+     },
+     {
+      "w": "{離|はな}す",
+      "en": "to separate, to keep apart",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "り",
+    "type": "on",
+    "words": [
+     {
+      "w": "{距離|きょり}",
+      "en": "distance",
+      "lvl": 2
+     },
+     {
+      "w": "{離婚|りこん}",
+      "en": "divorce",
+      "lvl": 2
+     }
+    ]
+   }
+  ],
+  "tip": "{離|はな}れる (move away) is common. Do not confuse {離|はな}す with {話|はな}す (speak) or {放|はな}す (let go)."
+ },
+ {
+  "kanji": "激",
+  "readings": [
+   {
+    "r": "はげしい",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{激|はげ}しい",
+      "en": "violent, intense",
+      "lvl": 2
+     }
+    ]
+   },
+   {
+    "r": "げき",
+    "type": "on",
+    "words": [
+     {
+      "w": "{激安|げきやす}",
+      "en": "super cheap",
+      "lvl": 1
+     },
+     {
+      "w": "{刺激|しげき}",
+      "en": "stimulus, excitement",
+      "lvl": 1
+     },
+     {
+      "w": "{感激|かんげき}",
+      "en": "being deeply moved",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "{激|はげ}しい (intense) is the most useful word. You also see {激安|げきやす} (super cheap) in shops."
+ },
+ {
+  "kanji": "摘",
+  "readings": [
+   {
+    "r": "てき",
+    "type": "on",
+    "words": [
+     {
+      "w": "{指摘|してき}",
+      "en": "pointing out",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "つむ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{摘|つ}む",
+      "en": "to pick (flowers, tea)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "てき: {指摘|してき} (point out). Do not confuse with 適 or 敵, also てき."
+ },
+ {
+  "kanji": "系",
+  "readings": [
+   {
+    "r": "けい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{理系|りけい}",
+      "en": "science (field of study)",
+      "lvl": 1
+     },
+     {
+      "w": "{文系|ぶんけい}",
+      "en": "humanities (field of study)",
+      "lvl": 1
+     },
+     {
+      "w": "{体系|たいけい}",
+      "en": "system",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only けい. {理系|りけい} and {文系|ぶんけい} mean science and arts students."
+ },
+ {
+  "kanji": "批",
+  "readings": [
+   {
+    "r": "ひ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{批判|ひはん}",
+      "en": "criticism",
+      "lvl": 1
+     },
+     {
+      "w": "{批評|ひひょう}",
+      "en": "review, critique",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only ひ, almost always in {批判|ひはん} (criticism) or {批評|ひひょう} (review)."
+ },
+ {
+  "kanji": "郎",
+  "readings": [
+   {
+    "r": "ろう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{太郎|たろう}",
+      "en": "Taro (boy's name)",
+      "lvl": 1
+     },
+     {
+      "w": "{一郎|いちろう}",
+      "en": "Ichiro (boy's name)",
+      "lvl": 1
+     },
+     {
+      "w": "{新郎|しんろう}",
+      "en": "groom",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "ろう ends many boy names: {太郎|たろう}, {一郎|いちろう}. Do not confuse with 朗 (bright), also ろう."
+ },
+ {
+  "kanji": "健",
+  "readings": [
+   {
+    "r": "けん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{健康|けんこう}",
+      "en": "health",
+      "lvl": 3
+     },
+     {
+      "w": "{保健|ほけん}",
+      "en": "health care",
+      "lvl": 1
+     },
+     {
+      "w": "{健全|けんぜん}",
+      "en": "sound, healthy",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "すこやか",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{健|すこ}やか",
+      "en": "healthy, well",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "{健康|けんこう} (health) is the word to know. 健 is 人 (person) plus 建 (build)."
+ },
+ {
+  "kanji": "盟",
+  "readings": [
+   {
+    "r": "めい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{同盟|どうめい}",
+      "en": "alliance",
+      "lvl": 1
+     },
+     {
+      "w": "{加盟|かめい}",
+      "en": "joining (a group)",
+      "lvl": 1
+     },
+     {
+      "w": "{連盟|れんめい}",
+      "en": "league, federation",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only めい. 盟 is 明 (bright) over 皿 (dish)."
+ },
+ {
+  "kanji": "従",
+  "readings": [
+   {
+    "r": "したがう",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{従|したが}う",
+      "en": "to follow, to obey",
+      "lvl": 1
+     },
+     {
+      "w": "{従|したが}って",
+      "en": "therefore, according to",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "じゅう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{従業員|じゅうぎょういん}",
+      "en": "employee",
+      "lvl": 1
+     },
+     {
+      "w": "{従来|じゅうらい}",
+      "en": "until now, usual",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "special",
+    "type": "special",
+    "words": [
+     {
+      "w": "{従兄弟|いとこ}",
+      "en": "cousin (usually written in kana)",
+      "lvl": 3
+     }
+    ]
+   }
+  ],
+  "tip": "{従|したが}う (follow) is the most useful. いとこ (cousin) can be written {従兄弟|いとこ}, but kana is normal."
+ },
+ {
+  "kanji": "修",
+  "readings": [
+   {
+    "r": "しゅう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{修理|しゅうり}",
+      "en": "repair",
+      "lvl": 2
+     },
+     {
+      "w": "{研修|けんしゅう}",
+      "en": "training",
+      "lvl": 1
+     },
+     {
+      "w": "{修正|しゅうせい}",
+      "en": "correction",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "しゅ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{修行|しゅぎょう}",
+      "en": "training, practice",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "おさめる",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{修|おさ}める",
+      "en": "to master, to study",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "しゅう: {修理|しゅうり} (repair). Note {修行|しゅぎょう} uses the short しゅ."
+ },
+ {
+  "kanji": "隊",
+  "readings": [
+   {
+    "r": "たい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{軍隊|ぐんたい}",
+      "en": "army",
+      "lvl": 1
+     },
+     {
+      "w": "{自衛隊|じえいたい}",
+      "en": "Self-Defense Forces",
+      "lvl": 1
+     },
+     {
+      "w": "{部隊|ぶたい}",
+      "en": "unit, troop",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only たい. You hear it in {自衛隊|じえいたい} (Japan's Self-Defense Forces)."
+ },
+ {
+  "kanji": "織",
+  "readings": [
+   {
+    "r": "しき",
+    "type": "on",
+    "words": [
+     {
+      "w": "{組織|そしき}",
+      "en": "organization",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "おる",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{織|お}る",
+      "en": "to weave",
+      "lvl": 1
+     },
+     {
+      "w": "{織物|おりもの}",
+      "en": "textile, fabric",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "しき is in {組織|そしき} (organization). Do not confuse with 識 (know) and 職 (job), which look alike."
+ },
+ {
+  "kanji": "拡",
+  "readings": [
+   {
+    "r": "かく",
+    "type": "on",
+    "words": [
+     {
+      "w": "{拡大|かくだい}",
+      "en": "enlargement",
+      "lvl": 1
+     },
+     {
+      "w": "{拡張|かくちょう}",
+      "en": "extension",
+      "lvl": 1
+     },
+     {
+      "w": "{拡散|かくさん}",
+      "en": "spreading",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only かく. {拡大|かくだい} means to zoom in or enlarge."
+ }
+]

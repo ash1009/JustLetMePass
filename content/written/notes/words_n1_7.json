@@ -1,0 +1,802 @@
+[
+ {
+  "id": "v1-1283",
+  "hook": "Mind (意) facing toward (向) something: the way your thoughts lean, your intention."
+ },
+ {
+  "id": "v1-1284",
+  "hook": "Move (移) and go (行): shifting over from an old system to a new one."
+ },
+ {
+  "id": "v1-1287",
+  "hook": "Clothes (衣) you dress up (装) in: a costume or outfit."
+ },
+ {
+  "id": "v1-1289",
+  "hook": "Different (異) sex (性): the opposite sex."
+ },
+ {
+  "id": "v1-1290",
+  "hook": "Traces (跡) left behind (遺) by old peoples: historic ruins."
+ },
+ {
+  "id": "v1-1291",
+  "hook": "Rely on (依) something to exist (存): dependence."
+ },
+ {
+  "id": "v1-1295",
+  "hook": "Put out (出) a topic or question (題): setting questions for a test."
+ },
+ {
+  "id": "v1-1296",
+  "hook": "Go out (出) and move (動): police or firefighters heading into action."
+ },
+ {
+  "id": "v1-1297",
+  "hook": "Money going out (出) for costs (費): expenses."
+ },
+ {
+  "id": "v1-1298",
+  "hook": "Put out (出) goods (品): showing items at an exhibition or sale."
+ },
+ {
+  "id": "v1-1299",
+  "hook": "The main (主) one who guides (導): taking the lead."
+ },
+ {
+  "id": "v1-1300",
+  "hook": "Main (主) duty (任): the person in charge."
+ },
+ {
+  "id": "v1-1301",
+  "hook": "Head (首) and brain (脳) of a group: top leaders, like at a summit."
+ },
+ {
+  "id": "v1-1302",
+  "hook": "Protect (守) and prepare (備): defense, like fielding in baseball."
+ },
+ {
+  "id": "v1-1303",
+  "hook": "Hand (手) method (法): your technique, the way you do it."
+ },
+ {
+  "id": "v1-1304",
+  "hook": "Tree (樹) + tree (木): trees and shrubs."
+ },
+ {
+  "id": "v1-1305",
+  "hook": "Stand up (立) firm like a tree (樹): to set up, like a new record."
+ },
+ {
+  "id": "v1-1306",
+  "hook": "Semi (準) express (急): a train a bit slower than an express."
+ },
+ {
+  "id": "v1-1307",
+  "hook": "準 means standard: to follow the standard, be treated in line with a rule."
+ },
+ {
+  "id": "v1-1312",
+  "hook": "Upper (上) rank (位): a higher position."
+ },
+ {
+  "id": "v1-1313",
+  "hook": "Put up (上) a performance (演) on stage: staging a play."
+ },
+ {
+  "id": "v1-1314",
+  "hook": "Below (下) the castle (城): the town around a castle."
+ },
+ {
+  "id": "v1-1315",
+  "hook": "Erase (消) and remove (去): deleting data."
+ },
+ {
+  "id": "v1-1316",
+  "hook": "The sky (空) up above (上): the air high over a place."
+ },
+ {
+  "id": "v1-1317",
+  "hook": "Crash (衝) and strike (撃): a shock or impact."
+ },
+ {
+  "id": "v1-1320",
+  "hook": "Shine light (照) on things to see if they match (合): checking, verifying."
+ },
+ {
+  "id": "v1-1324",
+  "hook": "称 means name, call: to call yourself something."
+ },
+ {
+  "id": "v1-1325",
+  "hook": "Circumstances (情) and forces (勢): how things stand right now."
+ },
+ {
+  "id": "v1-1326",
+  "hook": "Fade (消) or breathe (息): news of whether someone is alive and well."
+ },
+ {
+  "id": "v1-1327",
+  "hook": "Accept (承) and say yes (諾): consent."
+ },
+ {
+  "id": "v1-1330",
+  "hook": "Image (象) as a sign (徴): a symbol, like a dove for peace."
+ },
+ {
+  "id": "v1-1331",
+  "hook": "Small (小) child (児) department (科): pediatrics."
+ },
+ {
+  "id": "v1-1332",
+  "hook": "A person (人) you use (使用) for work: a servant or employee."
+ },
+ {
+  "id": "v1-1333",
+  "hook": "Hot (熱) feelings (情): passion."
+ },
+ {
+  "id": "v1-1334",
+  "hook": "Give way (譲) a step (歩): to make a concession."
+ },
+ {
+  "id": "v1-1337",
+  "hook": "Go up (上) onto land (陸): landing from the sea."
+ },
+ {
+  "id": "v1-1338",
+  "hook": "Steam (蒸) it, then collect (溜) the drops: distillation."
+ },
+ {
+  "id": "v1-1339",
+  "hook": "Encourage (奨) and urge on (励): promoting something."
+ },
+ {
+  "id": "v1-1341",
+  "hook": "Remove (除) to the outside (外): to exclude."
+ },
+ {
+  "id": "v1-1343",
+  "hook": "Land (地) where people (民) are planted (植): a colony."
+ },
+ {
+  "id": "v1-1344",
+  "hook": "Job (職) duties (務): your work responsibilities."
+ },
+ {
+  "id": "v1-1345",
+  "hook": "All (諸) of you, sirs (君): a speech opener like 'Gentlemen!'."
+ },
+ {
+  "id": "v1-1347",
+  "hook": "Go (行) slowly (徐): the road sign word for driving slowly."
+ },
+ {
+  "id": "v1-1349",
+  "hook": "Place (所) + hold (持): what you hold on you, possession."
+ },
+ {
+  "id": "v1-1350",
+  "hook": "The place (所) you belong (属) to: your team or company."
+ },
+ {
+  "id": "v1-1351",
+  "hook": "Deal with (処) and put in place (置): taking measures, medical treatment."
+ },
+ {
+  "id": "v1-1353",
+  "hook": "Place (所) + fixed (定): the set, prescribed one, like the fixed form."
+ },
+ {
+  "id": "v1-1354",
+  "hook": "That which (所) you get (得): your income."
+ },
+ {
+  "id": "v1-1355",
+  "hook": "Deal with (処) by punishment (罰): punishment."
+ },
+ {
+  "id": "v1-1356",
+  "hook": "First (初) printing (版): the first edition."
+ },
+ {
+  "id": "v1-1357",
+  "hook": "Book (書) review (評): a book review."
+ },
+ {
+  "id": "v1-1358",
+  "hook": "Deal with (処) and divide (分): getting rid of things, or a penalty."
+ },
+ {
+  "id": "v1-1359",
+  "hook": "Ordinary (庶) people (民): the common people."
+ },
+ {
+  "id": "v1-1360",
+  "hook": "Ordinary (庶) tasks (務): general office affairs."
+ },
+ {
+  "id": "v1-1361",
+  "hook": "That which (所) you have (有): ownership."
+ },
+ {
+  "id": "v1-1363",
+  "hook": "Stand (立) by yourself (自): independence."
+ },
+ {
+  "id": "v1-1364",
+  "hook": "記 means write down, as in 日記 (diary): to note something down."
+ },
+ {
+  "id": "v1-1365",
+  "hook": "Point (指) and order (令): a command, instructions."
+ },
+ {
+  "id": "v1-1367",
+  "hook": "陣 has a cart (車) inside: war carts lined up in battle formation."
+ },
+ {
+  "id": "v1-1368",
+  "hook": "Advance (進) and change (化): evolution."
+ },
+ {
+  "id": "v1-1369",
+  "hook": "A person's (人) standing or quality (格): personality, character."
+ },
+ {
+  "id": "v1-1370",
+  "hook": "Examine (審) and discuss (議): deliberation, like in parliament."
+ },
+ {
+  "id": "v1-1374",
+  "hook": "Sash (紳) wearing man (士): a gentleman."
+ },
+ {
+  "id": "v1-1376",
+  "hook": "Person (者) who believes (信): a believer."
+ },
+ {
+  "id": "v1-1377",
+  "hook": "True (真) gem (珠): a pearl."
+ },
+ {
+  "id": "v1-1378",
+  "hook": "Advance (進) out (出): moving into a new market or area."
+ },
+ {
+  "id": "v1-1379",
+  "hook": "Heart (心) feelings (情): how you feel inside."
+ },
+ {
+  "id": "v1-1381",
+  "hook": "God (神) and holy (聖): sacred."
+ },
+ {
+  "id": "v1-1382",
+  "hook": "Friendly (親) and good (善): goodwill between countries."
+ },
+ {
+  "id": "v1-1383",
+  "hook": "True (真) appearance (相): the real truth of what happened."
+ },
+ {
+  "id": "v1-1384",
+  "hook": "Swift (迅) and fast (速): quick, prompt."
+ },
+ {
+  "id": "v1-1385",
+  "hook": "Human (人) body (体): the human body."
+ },
+ {
+  "id": "v1-1386",
+  "hook": "New (新) build (築): a newly built house."
+ },
+ {
+  "id": "v1-1387",
+  "hook": "Literally 'inside the heart' (心中): lovers proving their true hearts by dying together."
+ },
+ {
+  "id": "v1-1388",
+  "hook": "Offer (呈) forward (進): presenting a gift."
+ },
+ {
+  "id": "v1-1389",
+  "hook": "Advance (進) and unfold (展): progress, development."
+ },
+ {
+  "id": "v1-1390",
+  "hook": "God's (神) hall (殿): a temple building."
+ },
+ {
+  "id": "v1-1391",
+  "hook": "Degree (度) of advance (進): how far along you are."
+ },
+ {
+  "id": "v1-1392",
+  "hook": "Shake (振) and move (動): vibration."
+ },
+ {
+  "id": "v1-1394",
+  "hook": "Trust (信) and entrust (任): confidence in someone."
+ },
+ {
+  "id": "v1-1395",
+  "hook": "God's (神) secret (秘): a mystery."
+ },
+ {
+  "id": "v1-1396",
+  "hook": "Hug (抱) the bitter (辛) stuff: patience, putting up with hardship."
+ },
+ {
+  "id": "v1-1397",
+  "hook": "Persons (人) and citizens (民): the people, the public."
+ },
+ {
+  "id": "v1-1398",
+  "hook": "Invade (侵) and seize (略): aggression, invasion."
+ },
+ {
+  "id": "v1-1401",
+  "hook": "Water (水) source (源): where a river starts."
+ },
+ {
+  "id": "v1-1402",
+  "hook": "Push (推) forward (進): propulsion, driving a plan ahead."
+ },
+ {
+  "id": "v1-1404",
+  "hook": "Infer (推) and measure (測): a guess."
+ },
+ {
+  "id": "v1-1405",
+  "hook": "Water (水) field (田): a rice paddy."
+ },
+ {
+  "id": "v1-1406",
+  "hook": "Infer (推) by logic (理): reasoning, also detective stories."
+ },
+ {
+  "id": "v1-1407",
+  "hook": "Number (数) word (詞): a numeral."
+ },
+ {
+  "id": "v1-1408",
+  "hook": "Revere (崇) and bow (拝): worship."
+ },
+ {
+  "id": "v1-1409",
+  "hook": "Set firmly (据) and attach (付): to install."
+ },
+ {
+  "id": "v1-1410",
+  "hook": "据 means set firmly in place: to place, to set."
+ },
+ {
+  "id": "v1-1414",
+  "hook": "健 means healthy, as in 健康: growing up healthy and sound."
+ },
+ {
+  "id": "v1-1415",
+  "hook": "濯 is the wash in 洗濯 (laundry): to rinse."
+ },
+ {
+  "id": "v1-1417",
+  "hook": "Clothes (衤) + stay (居): the part of clothes that stays low, the hem."
+ },
+ {
+  "id": "v1-1425",
+  "hook": "Plain (素) fast (早い): simply very quick."
+ },
+ {
+  "id": "v1-1432",
+  "hook": "清 means pure, clear: make it clear, like clearing your ears to listen."
+ },
+ {
+  "id": "v1-1433",
+  "hook": "済 means finished, as in 済み (done): to get it done."
+ },
+ {
+  "id": "v1-1440",
+  "hook": "擦 means rub: things rubbing together, chafing."
+ },
+ {
+  "id": "v1-1442",
+  "hook": "Life (生) raised (育): growth of plants or animals."
+ },
+ {
+  "id": "v1-1443",
+  "hook": "Grow up (成) and raise (育): growing up, raising."
+ },
+ {
+  "id": "v1-1446",
+  "hook": "Right (正) and righteous (義): justice."
+ },
+ {
+  "id": "v1-1447",
+  "hook": "Plan (計) for living (生): livelihood."
+ },
+ {
+  "id": "v1-1448",
+  "hook": "Political (政) power (権): the government in power."
+ },
+ {
+  "id": "v1-1449",
+  "hook": "Star (星) seats (座): a constellation."
+ },
+ {
+  "id": "v1-1450",
+  "hook": "Control (制) and judge (裁): sanctions, punishment."
+ },
+ {
+  "id": "v1-1451",
+  "hook": "Political (政) plans (策): policy."
+ },
+ {
+  "id": "v1-1452",
+  "hook": "Life (生) and death (死)."
+ },
+ {
+  "id": "v1-1453",
+  "hook": "Quiet (静) and stopped (止): standing still."
+ },
+ {
+  "id": "v1-1455",
+  "hook": "Become (成) ripe (熟): maturity."
+ },
+ {
+  "id": "v1-1456",
+  "hook": "Green (青) spring (春): the springtime of life, youth."
+ },
+ {
+  "id": "v1-1457",
+  "hook": "Clean (清) and pure (純): innocent."
+ },
+ {
+  "id": "v1-1458",
+  "hook": "Holy (聖) book (書): the Bible."
+ },
+ {
+  "id": "v1-1459",
+  "hook": "Correct (正) and usual (常): normal."
+ },
+ {
+  "id": "v1-1460",
+  "hook": "制 means control: to control, to hold back."
+ },
+ {
+  "id": "v1-1461",
+  "hook": "整 means put in order: neat and orderly."
+ },
+ {
+  "id": "v1-1462",
+  "hook": "Abundant (盛) dressing up (装): wearing your finest clothes."
+ },
+ {
+  "id": "v1-1463",
+  "hook": "Thriving (盛) and big (大): grand, magnificent."
+ },
+ {
+  "id": "v1-1464",
+  "hook": "Clear (清) and muddy (濁): good and bad together."
+ },
+ {
+  "id": "v1-1465",
+  "hook": "Make rules (制) and fix (定) them: to enact a law."
+ },
+ {
+  "id": "v1-1466",
+  "hook": "Quiet (静) + like (的): static, not moving."
+ },
+ {
+  "id": "v1-1467",
+  "hook": "Make (製) iron (鉄): ironmaking."
+ },
+ {
+  "id": "v1-1468",
+  "hook": "Clear (晴) sky (天): fine weather."
+ },
+ {
+  "id": "v1-1469",
+  "hook": "Right (正) and fitting (当): proper, justified."
+ },
+ {
+  "id": "v1-1471",
+  "hook": "Conquer (征) and make submit (服): conquest."
+ },
+ {
+  "id": "v1-1472",
+  "hook": "Making (製) method (法): a recipe or manufacturing method."
+ },
+ {
+  "id": "v1-1473",
+  "hook": "Fine (精) and dense (密): precise, detailed."
+ },
+ {
+  "id": "v1-1474",
+  "hook": "Tax (税) work (務) office (署): the tax office."
+ },
+ {
+  "id": "v1-1476",
+  "hook": "Force (勢) and power (力): influence."
+ },
+ {
+  "id": "v1-1479",
+  "hook": "急 means hurry: to rush someone."
+ },
+ {
+  "id": "v1-1480",
+  "hook": "Person (亻) + young soldier (卆, a form of 卒): a man's son, 'my boy'."
+ },
+ {
+  "id": "v1-1481",
+  "hook": "Responsibility (責) and duty (務): an obligation."
+ },
+ {
+  "id": "v1-1483",
+  "hook": "Words (辞) for the world (世): polite flattery, as in お世辞."
+ },
+ {
+  "id": "v1-1484",
+  "hook": "One generation (世) tied by one belt (帯): a household."
+ },
+ {
+  "id": "v1-1487",
+  "hook": "Cut (切) open (開): a surgical incision."
+ },
+ {
+  "id": "v1-1489",
+  "hook": "So real (実) it cuts (切) you: urgent and serious."
+ },
+ {
+  "id": "v1-1490",
+  "hook": "Join (接) and touch (触): contact."
+ },
+ {
+  "id": "v1-1491",
+  "hook": "Connecting (接続) word (詞): a conjunction."
+ },
+ {
+  "id": "v1-1493",
+  "hook": "Bend (折) toward the middle (衷): blending two styles, a compromise."
+ },
+ {
+  "id": "v1-1497",
+  "hook": "Printing (版) is cut off (絶): out of print."
+ },
+ {
+  "id": "v1-1498",
+  "hook": "Set up (設) and stand (立): founding a company."
+ },
+ {
+  "id": "v1-1502",
+  "hook": "The world's (世) opinion (論): public opinion."
+ },
+ {
+  "id": "v1-1504",
+  "hook": "Fine (繊) threads (維): fiber."
+ },
+ {
+  "id": "v1-1505",
+  "hook": "Completely (全) feeling good (快): full recovery."
+ },
+ {
+  "id": "v1-1506",
+  "hook": "Proclaim (宣) the teaching (教): missionary work."
+ },
+ {
+  "id": "v1-1508",
+  "hook": "War (戦) disaster (災): war damage."
+ },
+ {
+  "id": "v1-1509",
+  "hook": "Specialize (専) and study (修): specializing in one subject."
+ },
+ {
+  "id": "v1-1510",
+  "hook": "War (戦) art (術): tactics."
+ },
+ {
+  "id": "v1-1512",
+  "hook": "Dive under (潜) water (水): diving."
+ },
+ {
+  "id": "v1-1513",
+  "hook": "Fully (全) thriving (盛): the peak of prosperity."
+ },
+ {
+  "id": "v1-1514",
+  "hook": "Previous (先) generation (代): the one before you."
+ },
+ {
+  "id": "v1-1515",
+  "hook": "先 means before: the other day, a little before now."
+ },
+ {
+  "id": "v1-1516",
+  "hook": "First (先) to arrive (着): first come, first served."
+ },
+ {
+  "id": "v1-1518",
+  "hook": "Before (先) heaven (天, nature) shapes you: something you are born with."
+ },
+ {
+  "id": "v1-1519",
+  "hook": "The road (途) ahead (前): future prospects."
+ },
+ {
+  "id": "v1-1520",
+  "hook": "War (戦) and fight (闘): combat."
+ },
+ {
+  "id": "v1-1521",
+  "hook": "Dive (潜) in (入): sneaking in."
+ },
+ {
+  "id": "v1-1522",
+  "hook": "Ship (船) + big ship (舶): ships."
+ },
+ {
+  "id": "v1-1523",
+  "hook": "All (全) destroyed (滅): wiped out."
+ },
+ {
+  "id": "v1-1525",
+  "hook": "Occupy (占) territory (領): military occupation."
+ },
+ {
+  "id": "v1-1526",
+  "hook": "Good (善) and fine (良): good-natured."
+ },
+ {
+  "id": "v1-1527",
+  "hook": "War (戦) power (力): fighting strength."
+ },
+ {
+  "id": "v1-1528",
+  "hook": "Earlier (前) example (例): a precedent."
+ },
+ {
+  "id": "v1-1529",
+  "hook": "Things that answer (応) each other (相): suitable, fitting."
+ },
+ {
+  "id": "v1-1530",
+  "hook": "Whole (総) meeting (会): a general meeting."
+ },
+ {
+  "id": "v1-1531",
+  "hook": "Create (創) a publication (刊): launching a magazine."
+ },
+ {
+  "id": "v1-1532",
+  "hook": "Mixed (雑) trees (木): assorted small trees."
+ },
+ {
+  "id": "v1-1533",
+  "hook": "Early (早) and urgent (急): needed right now."
+ },
+ {
+  "id": "v1-1534",
+  "hook": "Fast (早) and hurried (急): same word as そうきゅう, urgent."
+ },
+ {
+  "id": "v1-1535",
+  "hook": "Increase (増) strength (強): reinforce."
+ },
+ {
+  "id": "v1-1538",
+  "hook": "Gather all (総) together (合): synthesis, overall."
+ },
+ {
+  "id": "v1-1539",
+  "hook": "Search (捜) and seek (索): a search for someone missing."
+ },
+ {
+  "id": "v1-1540",
+  "hook": "Storehouse (蔵) minister (相): the Finance Minister, keeper of the treasury."
+ },
+ {
+  "id": "v1-1542",
+  "hook": "Increase (増) and advance (進): a boost, like to your appetite."
+ },
+ {
+  "id": "v1-1543",
+  "hook": "Facing (対) each other (相): relative, judged against something else."
+ },
+ {
+  "id": "v1-1544",
+  "hook": "Grand (壮) and big (大): magnificent."
+ },
+ {
+  "id": "v1-1545",
+  "hook": "Noise (騒) and movement (動): a riot, a fuss."
+ },
+ {
+  "id": "v1-1546",
+  "hook": "Meet with (遭) hardship (難): an accident, like being lost at sea or in the mountains."
+ },
+ {
+  "id": "v1-1547",
+  "hook": "The place (場) where prices meet (相): the market price."
+ },
+ {
+  "id": "v1-1548",
+  "hook": "Fit out (装) and prepare (備): equipment."
+ },
+ {
+  "id": "v1-1549",
+  "hook": "Create (創) and set up (立): founding."
+ },
+ {
+  "id": "v1-1553",
+  "hook": "Urge (促) forward (進): promotion, speeding up."
+ },
+ {
+  "id": "v1-1554",
+  "hook": "即 means right up against: to fit closely to, like the facts."
+ },
+ {
+  "id": "v1-1555",
+  "hook": "Bundle (束) and tie (縛): restraint."
+ },
+ {
+  "id": "v1-1556",
+  "hook": "Side (側) face (面): a side or aspect."
+ },
+ {
+  "id": "v1-1557",
+  "hook": "損 means loss, damage: to harm."
+ },
+ {
+  "id": "v1-1559",
+  "hook": "Raw (素) material (材): raw material."
+ },
+ {
+  "id": "v1-1560",
+  "hook": "Block (阻) and stop (止): prevent."
+ },
+ {
+  "id": "v1-1561",
+  "hook": "Sue (訴) and dispute (訟): a lawsuit."
+ },
+ {
+  "id": "v1-1563",
+  "hook": "Arrange (措) and place (置): measures taken."
+ },
+ {
+  "id": "v1-1565",
+  "hook": "No (無い) warmth or interest (素っ気): cold and curt."
+ },
+ {
+  "id": "v1-1566",
+  "hook": "Outside (外) direction (方): look the other way, as in そっぽを向く."
+ },
+ {
+  "id": "v1-1567",
+  "hook": "Prepare (備) and attach (付): to install equipment."
+ },
+ {
+  "id": "v1-1568",
+  "hook": "備 means prepared: to be equipped with."
+ },
+ {
+  "id": "v1-1569",
+  "hook": "具 means tool, equipment: to be furnished with."
+ },
+ {
+  "id": "v1-1570",
+  "hook": "聳 means tower high: mountains rising tall into the sky."
+ },
+ {
+  "id": "v1-1572",
+  "hook": "Turn your back (背) on something: to go against."
+ },
+ {
+  "id": "v1-1574",
+  "hook": "Water (氵) + nine (九) + wood (木): soaking cloth to dye it."
+ },
+ {
+  "id": "v1-1577",
+  "hook": "反 means bend back: to warp or curve back."
+ }
+]

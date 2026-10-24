@@ -1,0 +1,802 @@
+[
+ {
+  "id": "v1-0067",
+  "hook": "Public (公) + use (用): used for public or government business."
+ },
+ {
+  "id": "v1-0068",
+  "hook": "Small (小) + sell (売): selling in small amounts to people, retail."
+ },
+ {
+  "id": "v1-0070",
+  "hook": "Public (公) + set up (立): set up by the public, like a public school."
+ },
+ {
+  "id": "v1-0071",
+  "hook": "Protect (護) + defend (衛): to guard and escort someone."
+ },
+ {
+  "id": "v1-0074",
+  "hook": "Small (小) + 切手 (stamp, ticket): a small paper ticket worth money, a cheque."
+ },
+ {
+  "id": "v1-0075",
+  "hook": "Country (国) + produce (産): made in your own country."
+ },
+ {
+  "id": "v1-0076",
+  "hook": "Country (国) + decide (定): decided or set by the state."
+ },
+ {
+  "id": "v1-0078",
+  "hook": "Country (国) + defend (防): defending the nation."
+ },
+ {
+  "id": "v1-0079",
+  "hook": "Country (国) + have (有): owned by the nation."
+ },
+ {
+  "id": "v1-0080",
+  "hook": "Extreme (極) + pleasure (楽): the place of greatest happiness, paradise."
+ },
+ {
+  "id": "v1-0081",
+  "hook": "Countries (国) + linked (連): the linked nations, the UN."
+ },
+ {
+  "id": "v1-0082",
+  "hook": "Scorched (焦げ) + tea (茶): the color of burnt tea, dark brown."
+ },
+ {
+  "id": "v1-0085",
+  "hook": "Heart (心) + gain (得): what your heart has gained, know-how."
+ },
+ {
+  "id": "v1-0086",
+  "hook": "Heart (心) + hang (掛け): what you hang on your heart, your intention."
+ },
+ {
+  "id": "v1-0087",
+  "hook": "Hang (掛ける) it on your heart (心): to keep it in mind."
+ },
+ {
+  "id": "v1-0089",
+  "hook": "志 is will or aim: to set your heart on a goal."
+ },
+ {
+  "id": "v1-0090",
+  "hook": "Heart (心) + strong (強い): it makes your heart feel strong, reassuring."
+ },
+ {
+  "id": "v1-0091",
+  "hook": "Heart (心) + thin (細い): your heart feels thin and weak, helpless."
+ },
+ {
+  "id": "v1-0093",
+  "hook": "試 means try or test (as in 試験): to try something."
+ },
+ {
+  "id": "v1-0094",
+  "hook": "快 (heart radical) means pleasant, as in 快適: feeling pleasant."
+ },
+ {
+  "id": "v1-0095",
+  "hook": "Mistake (誤) + difference (差): the small difference from the right value, error."
+ },
+ {
+  "id": "v1-0097",
+  "hook": "Alone (孤) + child (児): a child left alone, an orphan."
+ },
+ {
+  "id": "v1-0100",
+  "hook": "Tree (木) radical: the tip at the very top of a tree."
+ },
+ {
+  "id": "v1-0101",
+  "hook": "Individual (個) + nature (性): your own nature, personality."
+ },
+ {
+  "id": "v1-0102",
+  "hook": "Household (戸) + register (籍): the official record of a family."
+ },
+ {
+  "id": "v1-0106",
+  "hook": "Boast (誇) + stretch (張): stretching the truth, exaggeration."
+ },
+ {
+  "id": "v1-0108",
+  "hook": "Slippery (滑) + thinking (稽): slippery, silly thinking makes people laugh: comical."
+ },
+ {
+  "id": "v1-0109",
+  "hook": "Country (国) + exchange (交): countries exchanging, diplomatic relations."
+ },
+ {
+  "id": "v1-0110",
+  "hook": "骨董 together means antiques, 骨 is bone, 品 is item: old, rare items, curios."
+ },
+ {
+  "id": "v1-0111",
+  "hook": "Firm (固) + fixed (定): made firm so it does not move."
+ },
+ {
+  "id": "v1-0112",
+  "hook": "Thing (事) + pattern (柄): the shape of a thing, a matter."
+ },
+ {
+  "id": "v1-0115",
+  "hook": "Words (言) + attach (付け): words you attach and leave for someone, a message."
+ },
+ {
+  "id": "v1-0116",
+  "hook": "殊 means special: especially."
+ },
+ {
+  "id": "v1-0117",
+  "hook": "Powder (粉) + powder (々): broken into powder, tiny pieces."
+ },
+ {
+  "id": "v1-0118",
+  "hook": "好 means like: something you would like, desirable."
+ },
+ {
+  "id": "v1-0119",
+  "hook": "Go (碁) + board (盤): the board for playing Go."
+ },
+ {
+  "id": "v1-0120",
+  "hook": "Individual (個) + separate (別): each one separately."
+ },
+ {
+  "id": "v1-0122",
+  "hook": "細 means fine or thin: small and modest, or fine and careful."
+ },
+ {
+  "id": "v1-0124",
+  "hook": "込 means go into: to put something into it (like feelings into a gift)."
+ },
+ {
+  "id": "v1-0126",
+  "hook": "籠 is a basket or cage: to shut yourself inside, like in a cage."
+ },
+ {
+  "id": "v1-0127",
+  "hook": "Firm (固) + have (有): something it firmly has, its own feature."
+ },
+ {
+  "id": "v1-0131",
+  "hook": "Alone (孤) + stand (立): standing alone, isolation."
+ },
+ {
+  "id": "v1-0132",
+  "hook": "懲 means punish: punished once, you learn your lesson."
+ },
+ {
+  "id": "v1-0133",
+  "hook": "凝 means harden or freeze: muscles harden, stiff shoulders."
+ },
+ {
+  "id": "v1-0134",
+  "hook": "Root (根) + energy (気): energy from deep roots, patience."
+ },
+ {
+  "id": "v1-0136",
+  "hook": "Mixed (混) + blood (血): of mixed parentage."
+ },
+ {
+  "id": "v1-0138",
+  "hook": "Insect (昆) + bug (虫): an insect."
+ },
+ {
+  "id": "v1-0140",
+  "hook": "Mix (混) + same (同): mixing things up as if the same, confusion."
+ },
+ {
+  "id": "v1-0146",
+  "hook": "Again (再) + meet (会): meeting again, a reunion."
+ },
+ {
+  "id": "v1-0150",
+  "hook": "Pick (採) + dig (掘): digging out and picking minerals, mining."
+ },
+ {
+  "id": "v1-0152",
+  "hook": "Adopt (採) + decide (決): deciding by vote."
+ },
+ {
+  "id": "v1-0153",
+  "hook": "Again (再) + build (建): to build it again."
+ },
+ {
+  "id": "v1-0155",
+  "hook": "Wealth (財) + source (源): the source of money, funding."
+ },
+ {
+  "id": "v1-0156",
+  "hook": "Exist (在) + storehouse (庫): what is in the storehouse, stock."
+ },
+ {
+  "id": "v1-0157",
+  "hook": "Gather (採) + calculation (算): calculating what you gather, profit."
+ },
+ {
+  "id": "v1-0160",
+  "hook": "Wealth (財) + government (政): the government's money, finances."
+ },
+ {
+  "id": "v1-0161",
+  "hook": "Most (最) + good (善): the very best."
+ },
+ {
+  "id": "v1-0163",
+  "hook": "Plant (栽) + cultivate (培): growing plants, cultivation."
+ },
+ {
+  "id": "v1-0164",
+  "hook": "Again (再) + start (発): it starts again, a relapse."
+ },
+ {
+  "id": "v1-0165",
+  "hook": "Fine, tiny (細) + sac (胞): tiny sacs that make up the body, cells."
+ },
+ {
+  "id": "v1-0167",
+  "hook": "遮 means block: to block or cut someone off."
+ },
+ {
+  "id": "v1-0169",
+  "hook": "冴 has ice (冫): clear and sharp like cold ice, to be bright."
+ },
+ {
+  "id": "v1-0170",
+  "hook": "Bamboo (竹) + dry (干): a bamboo pole for drying laundry."
+ },
+ {
+  "id": "v1-0171",
+  "hook": "栄 means glory or prosper (as in 繁栄): to flourish."
+ },
+ {
+  "id": "v1-0172",
+  "hook": "Difference (差) + amount (額): the difference in amount."
+ },
+ {
+  "id": "v1-0174",
+  "hook": "Reverse (逆) + stand (立ち): standing upside down, a handstand."
+ },
+ {
+  "id": "v1-0176",
+  "hook": "Lie (詐) + deceive (欺): lying to cheat people, fraud."
+ },
+ {
+  "id": "v1-0179",
+  "hook": "Make (作) + battle (戦): making a battle plan, strategy."
+ },
+ {
+  "id": "v1-0181",
+  "hook": "捧 (hand radical) means to hold up: lift up with both hands and offer."
+ },
+ {
+  "id": "v1-0182",
+  "hook": "Point (差し) + hang (掛かる): to come right up to a place or time."
+ },
+ {
+  "id": "v1-0183",
+  "hook": "Point (指) + plan (図): pointing at the plan, giving instructions."
+ },
+ {
+  "id": "v1-0184",
+  "hook": "Hold out (差し) + put out (出す): to hold out and hand over."
+ },
+ {
+  "id": "v1-0185",
+  "hook": "Point (差し) + support (支える): something gets in the way, to hinder."
+ },
+ {
+  "id": "v1-0186",
+  "hook": "授 means give (as in 授業, giving lessons): to grant or teach."
+ },
+ {
+  "id": "v1-0187",
+  "hook": "摩 means rub (as in 摩擦, friction): to rub or stroke."
+ },
+ {
+  "id": "v1-0189",
+  "hook": "定 means fixed or decided: to become settled."
+ },
+ {
+  "id": "v1-0191",
+  "hook": "Sit (座) + talk (談) + meeting (会): a meeting where people sit and talk."
+ },
+ {
+  "id": "v1-0193",
+  "hook": "Various (雑) + goods (貨): all sorts of goods."
+ },
+ {
+  "id": "v1-0194",
+  "hook": "Kill (殺) + person (人): murder."
+ },
+ {
+  "id": "v1-0199",
+  "hook": "悟 (heart radical): your heart suddenly understands, enlightenment."
+ },
+ {
+  "id": "v1-0201",
+  "hook": "Position (座) + mark (標): marks that show a position, coordinates."
+ },
+ {
+  "id": "v1-0205",
+  "hook": "Cold (寒) + air, feeling (気): a cold feeling, a chill."
+ },
+ {
+  "id": "v1-0210",
+  "hook": "障 means obstacle (as in 故障): to hinder or affect."
+ },
+ {
+  "id": "v1-0212",
+  "hook": "Mountain (山) + high peak (岳): mountains."
+ },
+ {
+  "id": "v1-0213",
+  "hook": "Take part (参) + discuss (議) + house (院): the upper house of Japan's parliament."
+ },
+ {
+  "id": "v1-0214",
+  "hook": "Birth (産) + rest (休): rest for giving birth, maternity leave."
+ },
+ {
+  "id": "v1-0216",
+  "hook": "Remaining (残) + money (金): money left over."
+ },
+ {
+  "id": "v1-0217",
+  "hook": "Birth (産) + after (後): after giving birth."
+ },
+ {
+  "id": "v1-0218",
+  "hook": "Harsh (酷) treatment that leaves (残) scars: cruelty."
+ },
+ {
+  "id": "v1-0219",
+  "hook": "Produce (産) + out (出): producing and bringing out, output."
+ },
+ {
+  "id": "v1-0220",
+  "hook": "Visit (参) + shine light (照): going to look something up, reference."
+ },
+ {
+  "id": "v1-0221",
+  "hook": "Go (参) + up (上): humbly going up to visit someone."
+ },
+ {
+  "id": "v1-0222",
+  "hook": "Remaining (残) + amount (高): the amount left, a bank balance."
+ },
+ {
+  "id": "v1-0224",
+  "hook": "Plank (桟) + bridge (橋): a plank bridge over water, a pier."
+ },
+ {
+  "id": "v1-0225",
+  "hook": "Praise (賛) + beauty (美): praising its beauty."
+ },
+ {
+  "id": "v1-0226",
+  "hook": "Mountain (山) + belly (腹): the belly of the mountain, the hillside."
+ },
+ {
+  "id": "v1-0227",
+  "hook": "Birth (産) + woman (婦) + person (人) + department (科): maternity and gynecology."
+ },
+ {
+  "id": "v1-0229",
+  "hook": "Mountain (山) + vein (脈): mountains running like a vein, a range."
+ },
+ {
+  "id": "v1-0230",
+  "hook": "Do (仕) + up (上がり): how the work finishes up."
+ },
+ {
+  "id": "v1-0233",
+  "hook": "Keep animals (飼) + raise (育): raising animals."
+ },
+ {
+  "id": "v1-0234",
+  "hook": "Force (強いて): if I must force myself to say it."
+ },
+ {
+  "id": "v1-0237",
+  "hook": "Do (仕) + put in (入れる): to buy in goods for the shop."
+ },
+ {
+  "id": "v1-0238",
+  "hook": "強 means strong: to use strength to force someone."
+ },
+ {
+  "id": "v1-0239",
+  "hook": "Water (氵) + morning (朝): water that comes in the morning, the tide."
+ },
+ {
+  "id": "v1-0240",
+  "hook": "Tooth (歯) + department (科): dentistry."
+ },
+ {
+  "id": "v1-0241",
+  "hook": "Self (自) + I (我): yourself, the ego."
+ },
+ {
+  "id": "v1-0243",
+  "hook": "Do (仕) + hang (掛): something hung up and set, a trick or device."
+ },
+ {
+  "id": "v1-0244",
+  "hook": "Do (仕) + hang (掛ける): to set something up, like a trap."
+ },
+ {
+  "id": "v1-0246",
+  "hook": "Color (色) + coloring (彩): colors."
+ },
+ {
+  "id": "v1-0247",
+  "hook": "Ceremony (式) + place (場): the hall for a ceremony."
+ },
+ {
+  "id": "v1-0251",
+  "hook": "Pass through (経) + history (歴): the history you have passed through, your career."
+ },
+ {
+  "id": "v1-0254",
+  "hook": "Drama (劇) + group (団): a theater group."
+ },
+ {
+  "id": "v1-0255",
+  "hook": "Intense (激) + encourage (励): strong encouragement."
+ },
+ {
+  "id": "v1-0259",
+  "hook": "Decide (決) + mind (意): a firm decision of the mind."
+ },
+ {
+  "id": "v1-0260",
+  "hook": "Form (結) + core (核): hard cores form in the lungs, tuberculosis."
+ },
+ {
+  "id": "v1-0261",
+  "hook": "Decide (決) + discuss (議): a decision after discussion."
+ },
+ {
+  "id": "v1-0262",
+  "hook": "Tie (結) + join (合): tying things together."
+ },
+ {
+  "id": "v1-0264",
+  "hook": "Month (月) + thanks (謝): your monthly thank-you money to the teacher."
+ },
+ {
+  "id": "v1-0266",
+  "hook": "Form (結) + sparkle (晶): sparkling shapes forming, crystals."
+ },
+ {
+  "id": "v1-0267",
+  "hook": "Tie (結) + make (成): tying people together to form a group."
+ },
+ {
+  "id": "v1-0268",
+  "hook": "Tie (結) + bundle (束): tied in one bundle, unity."
+ },
+ {
+  "id": "v1-0271",
+  "hook": "Month (月) + payment (賦): paying each month."
+ },
+ {
+  "id": "v1-0272",
+  "hook": "Lack (欠) + scarce (乏): not enough, shortage."
+ },
+ {
+  "id": "v1-0273",
+  "hook": "Kick (蹴) + make fly (飛ばす): to kick something flying."
+ },
+ {
+  "id": "v1-0275",
+  "hook": "煙 means smoke: smoky, so you want to keep away."
+ },
+ {
+  "id": "v1-0276",
+  "hook": "煙 means smoke: to give off smoke."
+ },
+ {
+  "id": "v1-0279",
+  "hook": "Down (下) + diarrhea (痢): everything goes down fast."
+ },
+ {
+  "id": "v1-0280",
+  "hook": "Right, power (権) + dignity (威): authority."
+ },
+ {
+  "id": "v1-0281",
+  "hook": "Both (兼) + work (業): doing two jobs."
+ },
+ {
+  "id": "v1-0282",
+  "hook": "Original (原) + shape (形): the original shape."
+ },
+ {
+  "id": "v1-0283",
+  "hook": "Original (原) + mold (型): the first mold, a prototype."
+ },
+ {
+  "id": "v1-0284",
+  "hook": "Power (権) + limit (限): the limits of your power, authority."
+ },
+ {
+  "id": "v1-0285",
+  "hook": "Present (現) + carry out (行): in use now."
+ },
+ {
+  "id": "v1-0286",
+  "hook": "Healthy (健) + exist (在): still alive and healthy."
+ },
+ {
+  "id": "v1-0287",
+  "hook": "Original (原) + work (作): the original work."
+ },
+ {
+  "id": "v1-0288",
+  "hook": "Examine (検) + matter (事): the official who examines cases, prosecutor."
+ },
+ {
+  "id": "v1-0289",
+  "hook": "Origin (原) + small thing (子): the basic tiny thing, an atom."
+ },
+ {
+  "id": "v1-0290",
+  "hook": "First (元) + head (首): the top head of a state, the ruler."
+ },
+ {
+  "id": "v1-0291",
+  "hook": "Original (原) + book (書): the book in its original language."
+ },
+ {
+  "id": "v1-0292",
+  "hook": "Hang (懸) + prize (賞): a prize hung up for winners."
+ },
+ {
+  "id": "v1-0294",
+  "hook": "Origin (元) + basic (素): the basic stuff, an element."
+ },
+ {
+  "id": "v1-0295",
+  "hook": "Same (同) + tone (調): in the same tone, agreeing."
+ },
+ {
+  "id": "v1-0297",
+  "hook": "Move (動) + like (的): moving, dynamic."
+ },
+ {
+  "id": "v1-0298",
+  "hook": "尊 means respect (as in 尊敬): worthy of respect, precious."
+ },
+ {
+  "id": "v1-0299",
+  "hook": "貴 means valuable (as in 貴重): precious."
+ },
+ {
+  "id": "v1-0300",
+  "hook": "Same (同) + rank (等): equal."
+ },
+ {
+  "id": "v1-0301",
+  "hook": "Hall (堂) + hall (々): grand like a great hall."
+ },
+ {
+  "id": "v1-0302",
+  "hook": "尊 means respect: to value highly."
+ },
+ {
+  "id": "v1-0304",
+  "hook": "Throw (投) + enter (入): throwing something in."
+ },
+ {
+  "id": "v1-0306",
+  "hook": "The concerned (当) + person (人): the person in question."
+ },
+ {
+  "id": "v1-0307",
+  "hook": "Same (同) + seal (封): sealed in the same envelope."
+ },
+ {
+  "id": "v1-0308",
+  "hook": "Run away (逃) + be gone (亡): running away and disappearing."
+ },
+ {
+  "id": "v1-0309",
+  "hook": "Winter (冬) + sleep (眠): winter sleep."
+ },
+ {
+  "id": "v1-0310",
+  "hook": "Same (同) + oath (盟): swearing the same oath, an alliance."
+ },
+ {
+  "id": "v1-0315",
+  "hook": "遠 means far: to go far away."
+ },
+ {
+  "id": "v1-0320",
+  "hook": "Time (時) + occasion (折): on some occasions, sometimes."
+ },
+ {
+  "id": "v1-0323",
+  "hook": "Special (特) + skill (技): your special skill."
+ },
+ {
+  "id": "v1-0324",
+  "hook": "Alone (独) + judge (裁): one person judges everything, dictatorship."
+ },
+ {
+  "id": "v1-0325",
+  "hook": "Special (特) + product (産): a local special product."
+ },
+ {
+  "id": "v1-0326",
+  "hook": "Alone (独) + self (自): your very own, original."
+ },
+ {
+  "id": "v1-0327",
+  "hook": "Special (特) + collect (集): a special collection of stories."
+ },
+ {
+  "id": "v1-0328",
+  "hook": "Alone (独) + occupy (占): having it all alone, monopoly."
+ },
+ {
+  "id": "v1-0329",
+  "hook": "Alone (独) + create (創): creating on your own, originality."
+ },
+ {
+  "id": "v1-0330",
+  "hook": "Gain (得) + points (点): points you gain."
+ },
+ {
+  "id": "v1-0331",
+  "hook": "Special (特) + send (派): sending specially."
+ },
+ {
+  "id": "v1-0332",
+  "hook": "Special (特) + have (有): what only it has."
+ },
+ {
+  "id": "v1-0334",
+  "hook": "遂 means accomplish: to carry it through to the end."
+ },
+ {
+  "id": "v1-0336",
+  "hook": "Year (年) + around (頃): around a certain age."
+ },
+ {
+  "id": "v1-0337",
+  "hook": "Door (戸) + tighten (締り): shutting the doors tight."
+ },
+ {
+  "id": "v1-0338",
+  "hook": "Route (途) + on (上): on the way."
+ },
+ {
+  "id": "v1-0339",
+  "hook": "Earth (土) + platform (台): the base on the ground."
+ },
+ {
+  "id": "v1-0340",
+  "hook": "Route (途) + cut off (絶える): the road is cut, it stops."
+ },
+ {
+  "id": "v1-0341",
+  "hook": "Special (特) + permission (許): special permission, a patent."
+ },
+ {
+  "id": "v1-0342",
+  "hook": "Special (特) + right (権): a special right."
+ },
+ {
+  "id": "v1-0344",
+  "hook": "Sudden (突) + like (如): suddenly."
+ },
+ {
+  "id": "v1-0346",
+  "hook": "Thrust (突) + break (破): thrusting and breaking through."
+ },
+ {
+  "id": "v1-0347",
+  "hook": "Earth (土) + hand (手): a bank of earth piled by hand."
+ },
+ {
+  "id": "v1-0349",
+  "hook": "滞 means stay or stagnate: things stay stuck, delayed."
+ },
+ {
+  "id": "v1-0350",
+  "hook": "整 means arrange (as in 整理): to put in order."
+ },
+ {
+  "id": "v1-0353",
+  "hook": "Lord, palace (殿) + honorific (様): the lord."
+ },
+ {
+  "id": "v1-0356",
+  "hook": "Water (氵) radical: a ditch where dirty water flows."
+ },
+ {
+  "id": "v1-0357",
+  "hook": "On foot (徒) + walk (歩): walking."
+ },
+ {
+  "id": "v1-0358",
+  "hook": "Earth (土) + wood (木): building with earth and wood, public works."
+ },
+ {
+  "id": "v1-0360",
+  "hook": "乏 means lack: lacking, scarce."
+ },
+ {
+  "id": "v1-0362",
+  "hook": "富 means wealth: to be rich."
+ },
+ {
+  "id": "v1-0363",
+  "hook": "Together (共) + earn (稼ぎ): both earning together."
+ },
+ {
+  "id": "v1-0365",
+  "hook": "Together (共) + work (働き): both working."
+ },
+ {
+  "id": "v1-0374",
+  "hook": "Take (取り) + handle (扱う): to handle."
+ },
+ {
+  "id": "v1-0375",
+  "hook": "Bird (鳥) + stay (居): a gate where birds perch, a shrine gate."
+ },
+ {
+  "id": "v1-0377",
+  "hook": "Take (取り) + grapple (組む): to grapple with a task."
+ },
+ {
+  "id": "v1-0378",
+  "hook": "Take (取り) + tighten (締り): tightening control."
+ },
+ {
+  "id": "v1-0379",
+  "hook": "Take (取り) + tighten (締まる): to crack down."
+ },
+ {
+  "id": "v1-0380",
+  "hook": "Take (取り) + investigate (調べる): to question and examine."
+ },
+ {
+  "id": "v1-0381",
+  "hook": "Take (取り) + stand up (立てる): to collect money owed."
+ },
+ {
+  "id": "v1-0382",
+  "hook": "Take (取り) + next (次ぐ): to pass on to the next person."
+ },
+ {
+  "id": "v1-0383",
+  "hook": "Take (取り) + attach (付ける): to install."
+ },
+ {
+  "id": "v1-0384",
+  "hook": "Take (取り) + remove (除く): to remove."
+ },
+ {
+  "id": "v1-0386",
+  "hook": "Take (取り) + wind round (巻く): to surround."
+ },
+ {
+  "id": "v1-0387",
+  "hook": "Take (取り) + mix (混ぜる): to mix together."
+ },
+ {
+  "id": "v1-0389",
+  "hook": "Take (取り) + bring near (寄せる): to order and have it sent."
+ }
+]

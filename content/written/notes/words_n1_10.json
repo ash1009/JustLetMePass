@@ -1,0 +1,802 @@
+[
+ {
+  "id": "v1-2191",
+  "hook": "News (報) travelling its way (道) to you: media coverage, a report."
+ },
+ {
+  "id": "v1-2192",
+  "hook": "The head (頭) that pushes forward (冒) first: the very beginning of a speech or text."
+ },
+ {
+  "id": "v1-2193",
+  "hook": "Violent (暴) movement (動) of a crowd: a riot."
+ },
+ {
+  "id": "v1-2194",
+  "hook": "Praise (褒) given as something beautiful (美): a reward or prize."
+ },
+ {
+  "id": "v1-2195",
+  "hook": "Violent (暴) wind (風): a storm or gale."
+ },
+ {
+  "id": "v1-2196",
+  "hook": "葬 shows death (死) wrapped in grass (艹): to bury someone in the earth."
+ },
+ {
+  "id": "v1-2197",
+  "hook": "Let go (放) so it goes in (込む): to throw something into."
+ },
+ {
+  "id": "v1-2198",
+  "hook": "Let go (放) so it goes out (出す): to throw out, or give up on."
+ },
+ {
+  "id": "v1-2200",
+  "hook": "Full up (飽) and settled (和): saturation, it cannot hold any more."
+ },
+ {
+  "id": "v1-2204",
+  "hook": "Keep (保) warm (温): keeping the heat in."
+ },
+ {
+  "id": "v1-2205",
+  "hook": "Catch (捕) and get (獲) the animal: capture."
+ },
+ {
+  "id": "v1-2207",
+  "hook": "Make up (補) what was used by supplying (給) more: resupply."
+ },
+ {
+  "id": "v1-2208",
+  "hook": "Add (補) strength (強): reinforcement."
+ },
+ {
+  "id": "v1-2210",
+  "hook": "A teacher (師) who herds (牧) his flock: a pastor."
+ },
+ {
+  "id": "v1-2211",
+  "hook": "Catch (捕) whales (鯨): whaling."
+ },
+ {
+  "id": "v1-2212",
+  "hook": "The heart (忄) suddenly (忽) goes blank: to become senile or fuzzy."
+ },
+ {
+  "id": "v1-2214",
+  "hook": "Your mother (母) school (校), the school that raised you: alma mater."
+ },
+ {
+  "id": "v1-2215",
+  "hook": "Mother (母) country (国): your home country."
+ },
+ {
+  "id": "v1-2216",
+  "hook": "Words (言) made big (夸): to boast, to be proud of."
+ },
+ {
+  "id": "v1-2217",
+  "hook": "Threads (糸) that were fixed (定) come loose: seams split open, like lips into a smile."
+ },
+ {
+  "id": "v1-2220",
+  "hook": "Dried (干) things (物): washing hung out to dry."
+ },
+ {
+  "id": "v1-2221",
+  "hook": "Keep (保) and protect (守) things as they are: conservative, maintenance."
+ },
+ {
+  "id": "v1-2222",
+  "hook": "Make up (補) and fill (充) what is missing: replenish."
+ },
+ {
+  "id": "v1-2224",
+  "hook": "Dress (装) the road in a paved (舗) surface: pavement."
+ },
+ {
+  "id": "v1-2225",
+  "hook": "Add (補) what is not enough (足): a supplement."
+ },
+ {
+  "id": "v1-2226",
+  "hook": "Grave (墓) land (地): a cemetery."
+ },
+ {
+  "id": "v1-2227",
+  "hook": "Something starts (発) and makes (作) your body act up suddenly: a fit or attack."
+ },
+ {
+  "id": "v1-2228",
+  "hook": "Taken in (収) and gone (没) from you: confiscated."
+ },
+ {
+  "id": "v1-2229",
+  "hook": "Set off (発) on foot (足): a new group starts, an inauguration."
+ },
+ {
+  "id": "v1-2233",
+  "hook": "Sink (没) and fall (落): ruin, a fall from power."
+ },
+ {
+  "id": "v1-2235",
+  "hook": "施 as in 実施 (carry out): 施す means to give help or carry out a treatment."
+ },
+ {
+  "id": "v1-2239",
+  "hook": "Keep (保) and nourish (養) your health: rest and recuperation."
+ },
+ {
+  "id": "v1-2240",
+  "hook": "A caught (捕) captive (虜): a prisoner of war."
+ },
+ {
+  "id": "v1-2242",
+  "hook": "滅 has water (氵) over fire (火): the fire dies out, to perish."
+ },
+ {
+  "id": "v1-2243",
+  "hook": "Same 滅 (water putting out fire), but you do it: to destroy."
+ },
+ {
+  "id": "v1-2244",
+  "hook": "The real (本) standard (格): full-scale, the genuine thing."
+ },
+ {
+  "id": "v1-2245",
+  "hook": "Main (本) building (館)."
+ },
+ {
+  "id": "v1-2247",
+  "hook": "Your origin (本) country (国): your own home country."
+ },
+ {
+  "id": "v1-2249",
+  "hook": "The main (本) body (体): the main unit itself."
+ },
+ {
+  "id": "v1-2251",
+  "hook": "Your original (本) ability (能), the one you are born with: instinct."
+ },
+ {
+  "id": "v1-2259",
+  "hook": "Buried (埋) and stored (蔵) underground: buried treasure or deposits."
+ },
+ {
+  "id": "v1-2260",
+  "hook": "舞 is dance, as in 歌舞伎 (kabuki): to dance, or flutter like leaves."
+ },
+ {
+  "id": "v1-2261",
+  "hook": "Exactly (真) above (上): right overhead."
+ },
+ {
+  "id": "v1-2262",
+  "hook": "Sell (売) before (前) the day: advance ticket sales."
+ },
+ {
+  "id": "v1-2263",
+  "hook": "Put (置) before (前) the main talk: a preface."
+ },
+ {
+  "id": "v1-2264",
+  "hook": "Entrust (任) it to someone, like 任せて (leave it to me): to leave it to them."
+ },
+ {
+  "id": "v1-2265",
+  "hook": "Make someone lose (負): to defeat them."
+ },
+ {
+  "id": "v1-2266",
+  "hook": "Money (貝, shell) so people have (有) what they need: to provide meals, cover costs."
+ },
+ {
+  "id": "v1-2267",
+  "hook": "Threads (糸) divided (分) and tangled: confusing, easy to mix up."
+ },
+ {
+  "id": "v1-2268",
+  "hook": "Tangled (紛) into a crowd: to slip in and get lost, or be distracted."
+ },
+ {
+  "id": "v1-2269",
+  "hook": "True (真) heart (心): sincerity."
+ },
+ {
+  "id": "v1-2272",
+  "hook": "Words (言) that become (成) real: truly, sincerely."
+ },
+ {
+  "id": "v1-2274",
+  "hook": "Win (勝) over others: to be better than, to surpass."
+ },
+ {
+  "id": "v1-2276",
+  "hook": "Cross (交) things together: to mix in, or cross swords."
+ },
+ {
+  "id": "v1-2277",
+  "hook": "Exactly (真) below (下): right underneath."
+ },
+ {
+  "id": "v1-2279",
+  "hook": "Cross (交) each other: lines intersect, people mingle."
+ },
+ {
+  "id": "v1-2280",
+  "hook": "Numb (麻) and drunk (酔) feeling: anesthesia."
+ },
+ {
+  "id": "v1-2282",
+  "hook": "Wait (待) and meet up (合): an arranged meeting at a place."
+ },
+ {
+  "id": "v1-2283",
+  "hook": "The wait (待) feels so far (遠): you cannot wait, looking forward to it."
+ },
+ {
+  "id": "v1-2284",
+  "hook": "Wait (待) and hope (望): to wait eagerly for."
+ },
+ {
+  "id": "v1-2286",
+  "hook": "The end (末) period (期): the final stage, near death."
+ },
+ {
+  "id": "v1-2287",
+  "hook": "Exactly (真) into two (二): split right in half."
+ },
+ {
+  "id": "v1-2289",
+  "hook": "纏 has thread (糸): things tied together into one, unity or consistency."
+ },
+ {
+  "id": "v1-2290",
+  "hook": "Thread (糸 in 纏) that ties everything up: a summary or conclusion."
+ },
+ {
+  "id": "v1-2291",
+  "hook": "免 as in 免除 (exemption): to be let off, to escape."
+ },
+ {
+  "id": "v1-2293",
+  "hook": "The eye (目) moves in an instant (瞬, as in 瞬間): a blink."
+ },
+ {
+  "id": "v1-2294",
+  "hook": "Numb (麻) and numb (痺) again: paralysis."
+ },
+ {
+  "id": "v1-2297",
+  "hook": "Made of leather (革): an old leather ball."
+ },
+ {
+  "id": "v1-2298",
+  "hook": "Whole and round (丸) just as it is: eat the apple entirely."
+ },
+ {
+  "id": "v1-2300",
+  "hook": "Round (丸) and round again (々): completely, fully."
+ },
+ {
+  "id": "v1-2301",
+  "hook": "Make it round (丸): to roll up into a ball."
+ },
+ {
+  "id": "v1-2303",
+  "hook": "A full (満) place (場): the whole audience, so unanimous."
+ },
+ {
+  "id": "v1-2304",
+  "hook": "Exactly (真) in front (前): right in front of you."
+ },
+ {
+  "id": "v1-2305",
+  "hook": "Exactly (真) round (丸): perfectly round."
+ },
+ {
+  "id": "v1-2306",
+  "hook": "Exactly (真) a circle (円): perfectly round."
+ },
+ {
+  "id": "v1-2308",
+  "hook": "Look (見) at each other to see if you match (合): an arranged marriage meeting."
+ },
+ {
+  "id": "v1-2309",
+  "hook": "Look (見) at each other (合わせる): exchange glances, then agree to wait, postpone."
+ },
+ {
+  "id": "v1-2310",
+  "hook": "Your look (見) drops (落) past it: to overlook."
+ },
+ {
+  "id": "v1-2311",
+  "hook": "Not yet (未) opened (開): undeveloped, uncivilized land."
+ },
+ {
+  "id": "v1-2314",
+  "hook": "Painful (苦) to look at (見): ugly, unsightly."
+ },
+ {
+  "id": "v1-2316",
+  "hook": "Not yet (未) married (婚): unmarried."
+ },
+ {
+  "id": "v1-2317",
+  "hook": "Not yet (未) ripe (熟): immature, unskilled."
+ },
+ {
+  "id": "v1-2318",
+  "hook": "Tiny (微) dust (塵): a speck, the smallest bit."
+ },
+ {
+  "id": "v1-2319",
+  "hook": "A feeling (気) of water (水): moisture."
+ },
+ {
+  "id": "v1-2323",
+  "hook": "Show (見せ) it off, waving it びらびら like a flag: to flaunt."
+ },
+ {
+  "id": "v1-2325",
+  "hook": "Water (氵) runs along it: a ditch or gutter, and also a gap between people."
+ },
+ {
+  "id": "v1-2329",
+  "hook": "Not yet (未) known (知): unknown."
+ },
+ {
+  "id": "v1-2331",
+  "hook": "A hand (寸) on the road (道): to guide or lead."
+ },
+ {
+  "id": "v1-2332",
+  "hook": "Gather (集) densely (密): a tight crowd."
+ },
+ {
+  "id": "v1-2333",
+  "hook": "Closely (密) connected (接): intimate, close."
+ },
+ {
+  "id": "v1-2334",
+  "hook": "Degree (度) of denseness (密): density."
+ },
+ {
+  "id": "v1-2336",
+  "hook": "Not yet (未) decided (定): undecided."
+ },
+ {
+  "id": "v1-2337",
+  "hook": "Seeing (見) all the way through (通): a clear view, the outlook."
+ },
+ {
+  "id": "v1-2338",
+  "hook": "See (見) it and make (なす) it so: to regard as."
+ },
+ {
+  "id": "v1-2342",
+  "hook": "A mountain (山) at its point: a peak or ridge."
+ },
+ {
+  "id": "v1-2343",
+  "hook": "What is on (上) your body (身): your life story, your situation."
+ },
+ {
+  "id": "v1-2344",
+  "hook": "Let it escape (逃) from your sight (見): to miss it."
+ },
+ {
+  "id": "v1-2346",
+  "hook": "Look (見) and measure (計): judge the right moment yourself."
+ },
+ {
+  "id": "v1-2347",
+  "hook": "Seeing (見) far in clear (晴) weather: a view."
+ },
+ {
+  "id": "v1-2349",
+  "hook": "Body (月, flesh) with branching streams: blood vessels, your pulse."
+ },
+ {
+  "id": "v1-2351",
+  "hook": "Not yet (未) done working (練) through it: lingering feelings, regret."
+ },
+ {
+  "id": "v1-2353",
+  "hook": "People's (民) lodging (宿): a family-run guesthouse."
+ },
+ {
+  "id": "v1-2354",
+  "hook": "People (民) of one family group (族): an ethnic group."
+ },
+ {
+  "id": "v1-2359",
+  "hook": "The man who joins the woman's (女) family: son-in-law."
+ },
+ {
+  "id": "v1-2360",
+  "hook": "No (無) effect (効): invalid."
+ },
+ {
+  "id": "v1-2361",
+  "hook": "No (無) words (言): silence."
+ },
+ {
+  "id": "v1-2362",
+  "hook": "No (無) wicked (邪) spirit (気): innocent like a child."
+ },
+ {
+  "id": "v1-2365",
+  "hook": "Tie (結) and attach (付): a connection."
+ },
+ {
+  "id": "v1-2366",
+  "hook": "Tie (結) and stick (付) together: to be connected."
+ },
+ {
+  "id": "v1-2367",
+  "hook": "Tie (結) something on (付ける): to join or attach."
+ },
+ {
+  "id": "v1-2369",
+  "hook": "Use (遣い) money for nothing (無駄): wasting money."
+ },
+ {
+  "id": "v1-2371",
+  "hook": "No (無) knowledge (知): ignorance."
+ },
+ {
+  "id": "v1-2372",
+  "hook": "No (無) tea (茶) for the guest? Absurd! (the kanji here are mainly for sound)."
+ },
+ {
+  "id": "v1-2373",
+  "hook": "無茶 (absurd) plus 苦茶 (bitter tea) for rhythm: a total mess."
+ },
+ {
+  "id": "v1-2374",
+  "hook": "Empty (空) inside: vain, futile."
+ },
+ {
+  "id": "v1-2375",
+  "hook": "Your wish (念) comes to nothing (無): bitter regret."
+ },
+ {
+  "id": "v1-2376",
+  "hook": "No (無) ability (能): incompetent."
+ },
+ {
+  "id": "v1-2377",
+  "hook": "No (無) sense, like walking in darkness (闇): recklessly, at random."
+ },
+ {
+  "id": "v1-2379",
+  "hook": "A pattern (文) between two jewels (王王): spots, unevenness."
+ },
+ {
+  "id": "v1-2380",
+  "hook": "Like a flock of sheep (羊 in 群): to swarm, crowd together."
+ },
+ {
+  "id": "v1-2381",
+  "hook": "No (無) argument (論) needed: of course."
+ },
+ {
+  "id": "v1-2382",
+  "hook": "Famous (名) product (産): a local specialty."
+ },
+ {
+  "id": "v1-2383",
+  "hook": "The name (名) you call (称) it: an official name."
+ },
+ {
+  "id": "v1-2384",
+  "hook": "Hit (中) the life (命), right in the middle: a direct hit."
+ },
+ {
+  "id": "v1-2385",
+  "hook": "Bright (明) and white (白): clear and obvious."
+ },
+ {
+  "id": "v1-2386",
+  "hook": "Record book (簿) of names (名): a name list."
+ },
+ {
+  "id": "v1-2388",
+  "hook": "Bright (明) and clear to the eye (瞭): clarity."
+ },
+ {
+  "id": "v1-2389",
+  "hook": "Bright (明) and cheerful (朗): a sunny, open person."
+ },
+ {
+  "id": "v1-2391",
+  "hook": "目 was an old unit of weight, plus 方 (side, measure): the weight of something."
+ },
+ {
+  "id": "v1-2392",
+  "hook": "A gift from the heart (心 in 恵): a blessing."
+ },
+ {
+  "id": "v1-2393",
+  "hook": "Give from the heart (恵): to bless, to give charity."
+ },
+ {
+  "id": "v1-2394",
+  "hook": "So striking it wakes (覚) your eyes (目): remarkable."
+ },
+ {
+  "id": "v1-2395",
+  "hook": "Eyes (目) wake (覚): to wake up, like 目覚まし (alarm clock)."
+ },
+ {
+  "id": "v1-2396",
+  "hook": "召 means summon: to call for, and politely to eat (召し上がる) or to wear."
+ },
+ {
+  "id": "v1-2397",
+  "hook": "めす sounds like Ms.: a female animal (male is おす)."
+ },
+ {
+  "id": "v1-2398",
+  "hook": "How your eyes (目) are set (付): the look in your eyes."
+ },
+ {
+  "id": "v1-2399",
+  "hook": "Destroyed (滅) and gone (亡): the end of a nation."
+ },
+ {
+  "id": "v1-2401",
+  "hook": "A route (途) you can see (目): a goal, an outlook."
+ },
+ {
+  "id": "v1-2402",
+  "hook": "Marks (目) piled up (盛) in a row: the scale on a ruler."
+ },
+ {
+  "id": "v1-2404",
+  "hook": "Meet (会) face (面) to face: an interview or visit."
+ },
+ {
+  "id": "v1-2405",
+  "hook": "Exempt (免) and remove (除): let off from a duty or fee."
+ },
+ {
+  "id": "v1-2406",
+  "hook": "Turn your face (面) to it: to face onto."
+ },
+ {
+  "id": "v1-2410",
+  "hook": "Set up (設), as in 設計 (design): to create, to establish."
+ },
+ {
+  "id": "v1-2411",
+  "hook": "Humbly say (申し) and put it in (入れる): to propose."
+ },
+ {
+  "id": "v1-2413",
+  "hook": "Say (申) it and put it out (出): an offer or request."
+ },
+ {
+  "id": "v1-2414",
+  "hook": "Humbly say (申し) and come out (出る) with it: to offer or report."
+ },
+ {
+  "id": "v1-2415",
+  "hook": "Your part (分) to say (申し): an objection, as in 申し分ない (perfect)."
+ },
+ {
+  "id": "v1-2416",
+  "hook": "A point (点) where the eye (目) is lost (亡): blind spot."
+ },
+ {
+  "id": "v1-2417",
+  "hook": "Fierce (猛) and burning (烈): violent, intense."
+ },
+ {
+  "id": "v1-2420",
+  "hook": "Record (録) of items (目): a catalogue."
+ },
+ {
+  "id": "v1-2421",
+  "hook": "Eyes (目) on it, discuss (論) and look (見): a plan, a scheme."
+ },
+ {
+  "id": "v1-2422",
+  "hook": "A copy (模) from a mold (型): a scale model."
+ },
+ {
+  "id": "v1-2423",
+  "hook": "Grope (模, used for 摸) and search (索): feeling your way to an answer."
+ },
+ {
+  "id": "v1-2427",
+  "hook": "Everyone holds (持ち) one topic all the way (切り): the talk of the town."
+ },
+ {
+  "id": "v1-2428",
+  "hook": "Right below (下) your eyes (目): at present, right now."
+ },
+ {
+  "id": "v1-2429",
+  "hook": "Exclusive (専), as in 専門 (speciality): solely, mainly."
+ },
+ {
+  "id": "v1-2433",
+  "hook": "Liking (好) odd things (物): idle curiosity, a curious person."
+ },
+ {
+  "id": "v1-2434",
+  "hook": "Things (物) are not enough (足りない): unsatisfying."
+ },
+ {
+  "id": "v1-2436",
+  "hook": "A model (模) example (範): a role model."
+ },
+ {
+  "id": "v1-2437",
+  "hook": "Copy (模) and imitate (倣): imitation."
+ },
+ {
+  "id": "v1-2440",
+  "hook": "Body part (月) you run away (退) with: the thigh. Same sound as もも (peach)."
+ },
+ {
+  "id": "v1-2441",
+  "hook": "催 as in 開催 (holding an event): to hold a meeting or party."
+ },
+ {
+  "id": "v1-2444",
+  "hook": "Water (氵) and rain (雨) under the roof (尸): the roof leaks."
+ },
+ {
+  "id": "v1-2445",
+  "hook": "Same 漏 (rain getting under the roof): to leak out, slip out."
+ },
+ {
+  "id": "v1-2446",
+  "hook": "Body (月) in danger (危): fragile, easily broken."
+ },
+ {
+  "id": "v1-2449",
+  "hook": "Outside (外) in the fields (野): open air."
+ },
+ {
+  "id": "v1-2451",
+  "hook": "Night (夜) equipment (具): bedding."
+ },
+ {
+  "id": "v1-2452",
+  "hook": "Role (役) and job (職): an official or managerial post."
+ },
+ {
+  "id": "v1-2456",
+  "hook": "養 as in 栄養 (nutrition): to feed, raise, support."
+ },
+ {
+  "id": "v1-2457",
+  "hook": "A wild (野) heart (心): ambition."
+ },
+ {
+  "id": "v1-2459",
+  "hook": "Make it rest (休): to rest your body, give relief."
+ },
+ {
+  "id": "v1-2461",
+  "hook": "奴 once meant servant (woman 女 + hand 又): a rough word for a guy."
+ },
+ {
+  "id": "v1-2470",
+  "hook": "A superior (優) position (位): the advantage."
+ },
+ {
+  "id": "v1-2471",
+  "hook": "Worry (憂) and gloom (鬱): depression."
+ },
+ {
+  "id": "v1-2472",
+  "hook": "Has (有) benefit (益): useful, profitable."
+ },
+ {
+  "id": "v1-2473",
+  "hook": "Superior (優) and going beyond (越) others: superiority."
+ },
+ {
+  "id": "v1-2474",
+  "hook": "Brave (勇) and daring (敢): heroic."
+ },
+ {
+  "id": "v1-2476",
+  "hook": "Funds (資) that flow (融) to you: a loan."
+ },
+ {
+  "id": "v1-2478",
+  "hook": "Superior (優) force (勢): having the upper hand."
+ },
+ {
+  "id": "v1-2480",
+  "hook": "Invite (誘) and guide (導): leading someone along."
+ },
+ {
+  "id": "v1-2481",
+  "hook": "Melt (融) and pass through (通): flexible, adaptable."
+ },
+ {
+  "id": "v1-2482",
+  "hook": "Gentle (優) and beautiful (美): elegant."
+ },
+ {
+  "id": "v1-2483",
+  "hook": "Has (有) hope (望): promising."
+ },
+ {
+  "id": "v1-2484",
+  "hook": "Wander (遊) while herding (牧) animals: nomadic life."
+ },
+ {
+  "id": "v1-2485",
+  "hook": "Evening (夕) sky burning (焼): a red sunset."
+ },
+ {
+  "id": "v1-2486",
+  "hook": "Has (有) power (力): influential."
+ },
+ {
+  "id": "v1-2488",
+  "hook": "Invite (誘) and confuse (惑): temptation."
+ },
+ {
+  "id": "v1-2490",
+  "hook": "歪 is not (不) right (正): warped, crooked."
+ },
+ {
+  "id": "v1-2491",
+  "hook": "Shake (揺), as in 揺れる: to shake hard, to rock."
+ },
+ {
+  "id": "v1-2492",
+  "hook": "Water (氵), as in 洗濯 (laundry): to rinse."
+ },
+ {
+  "id": "v1-2496",
+  "hook": "Point (差す) a finger (指): to point at."
+ },
+ {
+  "id": "v1-2497",
+  "hook": "弓 looks like a bent bow: a bow for arrows."
+ },
+ {
+  "id": "v1-2500",
+  "hook": "Let the thread (糸 in 緩) go slack: to loosen."
+ },
+ {
+  "id": "v1-2501",
+  "hook": "Loose (緩) and easy: gentle, slow, lenient."
+ },
+ {
+  "id": "v1-2503",
+  "hook": "Dissolved (溶) liquid (液): a solution."
+ },
+ {
+  "id": "v1-2505",
+  "hook": "Nourish (養) and protect (護): nursing care."
+ },
+ {
+  "id": "v1-2507",
+  "hook": "The way (様) and form (式): a style or format."
+ },
+ {
+  "id": "v1-2509",
+  "hook": "Ask (請) for what you need (要): an official request."
+ },
+ {
+  "id": "v1-2510",
+  "hook": "How things look (様) and appear (相): the aspect or phase."
+ },
+ {
+  "id": "v1-2513",
+  "hook": "Use (用) method (法): how to use, directions."
+ }
+]

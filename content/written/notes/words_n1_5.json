@@ -1,0 +1,802 @@
+[
+ {
+  "id": "v1-0693",
+  "hook": "Push (押) and come close (寄せる): a crowd pushes forward and rushes toward you."
+ },
+ {
+  "id": "v1-0695",
+  "hook": "Polite (御) worldly (世) words (辞): sweet social talk you don't really mean, flattery."
+ },
+ {
+  "id": "v1-0696",
+  "hook": "襲 has a dragon (龍) over clothing (衣): a dragon jumps on you and attacks."
+ },
+ {
+  "id": "v1-0697",
+  "hook": "Late (遅く) + even if (とも): even if it is late, no later than this, at the latest."
+ },
+ {
+  "id": "v1-0699",
+  "hook": "Fear (恐れ) comes in (入る): you feel so small and grateful you are almost afraid."
+ },
+ {
+  "id": "v1-0702",
+  "hook": "Fall (落ち) and arrive (着き): everything has settled down, so you are calm."
+ },
+ {
+  "id": "v1-0703",
+  "hook": "Fallen (落) leaves (葉): the leaves that drop in autumn."
+ },
+ {
+  "id": "v1-0705",
+  "hook": "使 means use or send: you are sent out to do a small job, an errand."
+ },
+ {
+  "id": "v1-0707",
+  "hook": "Hands (手) up (上げ): you raise your hands and give up."
+ },
+ {
+  "id": "v1-0709",
+  "hook": "脅 has three powers (力) over a body (月): strength used to scare someone, threaten."
+ },
+ {
+  "id": "v1-0712",
+  "hook": "Old clothes (衰 looks like 衣) wearing thin in the middle: getting weaker, declining."
+ },
+ {
+  "id": "v1-0713",
+  "hook": "Same (同い) year (年): someone born in the same year as you."
+ },
+ {
+  "id": "v1-0714",
+  "hook": "From itself (自): it happens by itself, naturally."
+ },
+ {
+  "id": "v1-0715",
+  "hook": "Heart (忄) + go away (去): your heart wants to run away, you are frightened."
+ },
+ {
+  "id": "v1-0717",
+  "hook": "Same 脅 as 脅す (threaten): to threaten someone's safety or position."
+ },
+ {
+  "id": "v1-0719",
+  "hook": "Bag (袋): the bag that carried you as a baby, a casual word for your mom."
+ },
+ {
+  "id": "v1-0722",
+  "hook": "宮 means shrine or palace: お宮 is a Shinto shrine."
+ },
+ {
+  "id": "v1-0726",
+  "hook": "Run (走) toward a place: to go or proceed somewhere."
+ },
+ {
+  "id": "v1-0727",
+  "hook": "Heavy (重): treat something as heavy and important, so you respect it."
+ },
+ {
+  "id": "v1-0728",
+  "hook": "Heavy (重) in your mind: give it weight, value it. An older form of 重んじる."
+ },
+ {
+  "id": "v1-0730",
+  "hook": "及 means reach: the list reaches one more thing, and, as well as."
+ },
+ {
+  "id": "v1-0733",
+  "hook": "Wood (木) + watch over (監): a wooden box where animals are watched, a cage."
+ },
+ {
+  "id": "v1-0735",
+  "hook": "Fold (折り) + return (返す): fold the edge back, or turn back the way you came."
+ },
+ {
+  "id": "v1-0736",
+  "hook": "Woven (織) thing (物): textile, fabric."
+ },
+ {
+  "id": "v1-0738",
+  "hook": "愚 is a monkey (禺) over a heart (心): a monkey's mind, foolish."
+ },
+ {
+  "id": "v1-0742",
+  "hook": "Warm (温) + peace (和): a warm, peaceful nature, gentle and mild."
+ },
+ {
+  "id": "v1-0747",
+  "hook": "Change (改) for the bad (悪): a change that makes things worse."
+ },
+ {
+  "id": "v1-0748",
+  "hook": "Sea (海) + carry (運): carrying goods by sea."
+ },
+ {
+  "id": "v1-0749",
+  "hook": "Outside (外) money (貨): foreign money."
+ },
+ {
+  "id": "v1-0751",
+  "hook": "Shellfish (貝) + hard husk (殻): the hard shell of a sea animal."
+ },
+ {
+  "id": "v1-0752",
+  "hook": "Outside (外) view (観): how something looks from the outside."
+ },
+ {
+  "id": "v1-0753",
+  "hook": "Floor or step (階) + rank (級): steps of rank, a social class."
+ },
+ {
+  "id": "v1-0754",
+  "hook": "Sea (海) + narrow gorge (峡): a narrow strip of sea between two lands, a channel."
+ },
+ {
+  "id": "v1-0759",
+  "hook": "Change (改) + repair (修): fix and improve a building or road."
+ },
+ {
+  "id": "v1-0760",
+  "hook": "Strange (怪) beast (獣): a monster like Godzilla."
+ },
+ {
+  "id": "v1-0761",
+  "hook": "Untie (解) + remove (除): take away a rule or an alarm, cancel it."
+ },
+ {
+  "id": "v1-0762",
+  "hook": "Outside (外) minister (相): the minister for foreign affairs."
+ },
+ {
+  "id": "v1-0763",
+  "hook": "Harm (害) + する: to do harm, to hurt or offend."
+ },
+ {
+  "id": "v1-0764",
+  "hook": "General (概) explanation (説): an outline of a topic."
+ },
+ {
+  "id": "v1-0765",
+  "hook": "Turn around (回) + send (送): send something on, or a bus going back empty."
+ },
+ {
+  "id": "v1-0766",
+  "hook": "Floor (階) + layer (層): the layers of society, a hierarchy."
+ },
+ {
+  "id": "v1-0769",
+  "hook": "Change (改) what is fixed (定): revise prices or rules."
+ },
+ {
+  "id": "v1-0770",
+  "hook": "Change (改) + correct (訂): revise the text of a book."
+ },
+ {
+  "id": "v1-0772",
+  "hook": "Town (街) + road (道): an old highway linking towns."
+ },
+ {
+  "id": "v1-0773",
+  "hook": "The said thing (該) hits (当) the target: it fits the condition, it applies."
+ },
+ {
+  "id": "v1-0774",
+  "hook": "Town street (街) + head (頭): at the head of the street, out on the street."
+ },
+ {
+  "id": "v1-0776",
+  "hook": "Go between (介) + enter (入): step in between, intervene."
+ },
+ {
+  "id": "v1-0777",
+  "hook": "General (概) thought (念): a concept."
+ },
+ {
+  "id": "v1-0779",
+  "hook": "Sea (海) + pull out (抜): how far the land rises out of the sea."
+ },
+ {
+  "id": "v1-0780",
+  "hook": "Help (介) + hold in your arms (抱): hold and look after a sick person."
+ },
+ {
+  "id": "v1-0781",
+  "hook": "Untie (解) + cut open (剖): cut a body open to study it."
+ },
+ {
+  "id": "v1-0782",
+  "hook": "Coming (来) from outside (外): imported, or a hospital's outpatient clinic."
+ },
+ {
+  "id": "v1-0783",
+  "hook": "Go around (回) + look (覧): a paper passed around for everyone to read."
+ },
+ {
+  "id": "v1-0784",
+  "hook": "General (概) + shortened (略): a short outline, the gist."
+ },
+ {
+  "id": "v1-0785",
+  "hook": "Sea (海) flow (流): an ocean current."
+ },
+ {
+  "id": "v1-0786",
+  "hook": "Change (改) to good (良): improve."
+ },
+ {
+  "id": "v1-0787",
+  "hook": "Go around (回) + road (路): the round path electricity takes, a circuit."
+ },
+ {
+  "id": "v1-0788",
+  "hook": "Sea (海) road (路): a sea route."
+ },
+ {
+  "id": "v1-0789",
+  "hook": "省 means reflect on yourself (like 反省): look back at your own actions."
+ },
+ {
+  "id": "v1-0790",
+  "hook": "顧 has the head part (頁): turn your head to look back."
+ },
+ {
+  "id": "v1-0791",
+  "hook": "Face (顔) + attached (付き): the look attached to your face, an expression."
+ },
+ {
+  "id": "v1-0792",
+  "hook": "Outside (外) the lessons (課): extracurricular."
+ },
+ {
+  "id": "v1-0793",
+  "hook": "掲 means put up high (like 掲示, notice): raise a flag or sign high."
+ },
+ {
+  "id": "v1-0795",
+  "hook": "Write (書き) + take (取る): take down words by writing."
+ },
+ {
+  "id": "v1-0796",
+  "hook": "Scratch or stir (掻き) + turn around (回す): stir something round and round."
+ },
+ {
+  "id": "v1-0799",
+  "hook": "Learning (学) + arts (芸): arts and sciences."
+ },
+ {
+  "id": "v1-0800",
+  "hook": "Rank (格) + difference (差): the gap between levels, disparity."
+ },
+ {
+  "id": "v1-0801",
+  "hook": "Spread wide (拡) + scatter (散): spreading out everywhere, diffusion."
+ },
+ {
+  "id": "v1-0802",
+  "hook": "Learning (学) + scholar (士): someone with a university degree."
+ },
+ {
+  "id": "v1-0803",
+  "hook": "Each (各) kind (種): every kind, all sorts."
+ },
+ {
+  "id": "v1-0804",
+  "hook": "Gap (隔) + week (週): leave a week's gap, every other week."
+ },
+ {
+  "id": "v1-0806",
+  "hook": "Reform (革) + new (新): making things new, innovation."
+ },
+ {
+  "id": "v1-0807",
+  "hook": "Learning (学) + theory (説): a scholar's theory."
+ },
+ {
+  "id": "v1-0808",
+  "hook": "Certain (確) + fixed (定): decided for sure."
+ },
+ {
+  "id": "v1-0810",
+  "hook": "Catch (獲) + gain (得): win or acquire something."
+ },
+ {
+  "id": "v1-0811",
+  "hook": "Music (楽) + written record (譜): sheet music."
+ },
+ {
+  "id": "v1-0813",
+  "hook": "Change (革) heaven's order (命): overthrow the ruler, a revolution."
+ },
+ {
+  "id": "v1-0814",
+  "hook": "Certain (確) + stand (立): make something stand firmly, establish."
+ },
+ {
+  "id": "v1-0818",
+  "hook": "Mountain (山) over a cliff edge (厓): a cliff."
+ },
+ {
+  "id": "v1-0819",
+  "hook": "Gallop (駆け) + feet (足): running fast."
+ },
+ {
+  "id": "v1-0821",
+  "hook": "Run (駆け) + っこ (kids' game): a running race."
+ },
+ {
+  "id": "v1-0822",
+  "hook": "Add (加) work (工): work on raw material, processing."
+ },
+ {
+  "id": "v1-0823",
+  "hook": "Change (化) + combine (合): two substances join and become a new one."
+ },
+ {
+  "id": "v1-0826",
+  "hook": "Items (箇) + clauses (条) + writing (書): writing things as a list of points."
+ },
+ {
+  "id": "v1-0829",
+  "hook": "霞 has rain (雨) on top: misty air, things look hazy."
+ },
+ {
+  "id": "v1-0831",
+  "hook": "Fire (火) star (星): the red planet, Mars."
+ },
+ {
+  "id": "v1-0832",
+  "hook": "Changed (化) into stone (石): a fossil."
+ },
+ {
+  "id": "v1-0833",
+  "hook": "River (河) + river (川): rivers in general."
+ },
+ {
+  "id": "v1-0834",
+  "hook": "Chemical (化) fiber (繊): synthetic fibers."
+ },
+ {
+  "id": "v1-0835",
+  "hook": "Too (過) sparse (疎): too few people, depopulation."
+ },
+ {
+  "id": "v1-0837",
+  "hook": "Pieces (片) of words (言): speaking a language in broken little bits."
+ },
+ {
+  "id": "v1-0839",
+  "hook": "Hard (固): make something hard and solid."
+ },
+ {
+  "id": "v1-0841",
+  "hook": "Flower (花) + raised platform (壇): a flower bed."
+ },
+ {
+  "id": "v1-0842",
+  "hook": "House (家) + raise animals (畜): animals kept at home, livestock."
+ },
+ {
+  "id": "v1-0843",
+  "hook": "且 means moreover: and also, yet."
+ },
+ {
+  "id": "v1-0847",
+  "hook": "Fit (合) + bring to (致): match exactly, agree."
+ },
+ {
+  "id": "v1-0852",
+  "hook": "Lively (活) + burst out (発): active and full of energy."
+ },
+ {
+  "id": "v1-0855",
+  "hook": "Mouth (口) + ten (十): say your wish ten times and it comes true."
+ },
+ {
+  "id": "v1-0856",
+  "hook": "Same 叶 as 叶う (come true): to make a wish come true for someone."
+ },
+ {
+  "id": "v1-0857",
+  "hook": "Metal (金) hammer (槌): a hammer. It sinks, so it also means a non swimmer."
+ },
+ {
+  "id": "v1-0859",
+  "hook": "Add (加) + enter (入): join a group as a member."
+ },
+ {
+  "id": "v1-0860",
+  "hook": "予 means beforehand: something already known or planned, previously."
+ },
+ {
+  "id": "v1-0861",
+  "hook": "庇 means eaves: stand over someone like a roof and protect them."
+ },
+ {
+  "id": "v1-0862",
+  "hook": "Tree stump or share (株) + form (式): company shares, stock."
+ },
+ {
+  "id": "v1-0865",
+  "hook": "Money (貨) + coin (幣): money, currency."
+ },
+ {
+  "id": "v1-0866",
+  "hook": "Build (構): build your stance, get ready, set up."
+ },
+ {
+  "id": "v1-0867",
+  "hook": "Too (過) dense (密): overcrowded."
+ },
+ {
+  "id": "v1-0868",
+  "hook": "Bite (噛み) + cut (切る): bite right through something."
+ },
+ {
+  "id": "v1-0872",
+  "hook": "Body (体) + attached (付き): the shape of your body, your build."
+ },
+ {
+  "id": "v1-0873",
+  "hook": "Thread (糸) part: threads wrapping around something, to entangle."
+ },
+ {
+  "id": "v1-0877",
+  "hook": "Too much (過) labor (労): overwork."
+ },
+ {
+  "id": "v1-0879",
+  "hook": "Cross (交): words cross between people, to exchange."
+ },
+ {
+  "id": "v1-0880",
+  "hook": "Replace (代), replace (代): take turns, alternately."
+ },
+ {
+  "id": "v1-0881",
+  "hook": "Simple (簡) + easy (易): a simple, quick version."
+ },
+ {
+  "id": "v1-0882",
+  "hook": "Both have water (氵): pour (灌) water on fields (漑), irrigation."
+ },
+ {
+  "id": "v1-0883",
+  "hook": "Eye (眼) department (科): the eye clinic."
+ },
+ {
+  "id": "v1-0884",
+  "hook": "Eye (眼) ball (球): eyeball."
+ },
+ {
+  "id": "v1-0885",
+  "hook": "Play with (玩) + tool (具): a toy."
+ },
+ {
+  "id": "v1-0886",
+  "hook": "Simple (簡) + clean (潔): short and clear."
+ },
+ {
+  "id": "v1-0887",
+  "hook": "Return (還) to the origin (元): give back, or reduce in chemistry."
+ },
+ {
+  "id": "v1-0889",
+  "hook": "Chinese (漢) words (語): words that came from Chinese."
+ },
+ {
+  "id": "v1-0891",
+  "hook": "Urge (勧) + tell (告): official advice."
+ },
+ {
+  "id": "v1-0892",
+  "hook": "Exchange (換) + calculate (算): convert units or money."
+ },
+ {
+  "id": "v1-0893",
+  "hook": "Oversee (監) + look (視): watch closely, surveillance."
+ },
+ {
+  "id": "v1-0895",
+  "hook": "Watching (観) crowd (衆): spectators."
+ },
+ {
+  "id": "v1-0896",
+  "hook": "Request (願) + document (書): an application form."
+ },
+ {
+  "id": "v1-0897",
+  "hook": "Interfere (干) + get involved (渉): butting into other people's business."
+ },
+ {
+  "id": "v1-0898",
+  "hook": "Stubborn (頑) + strong man (丈): solid and tough."
+ },
+ {
+  "id": "v1-0901",
+  "hook": "Liver (肝) + kidney (腎): two vital organs, so essential."
+ },
+ {
+  "id": "v1-0902",
+  "hook": "Checkpoint (関) + tax (税): tax paid at the border, customs duty."
+ },
+ {
+  "id": "v1-0903",
+  "hook": "Rock (岩) + stone (石): rock."
+ },
+ {
+  "id": "v1-0904",
+  "hook": "Feel (感) + dye (染): a disease soaks into you, infection."
+ },
+ {
+  "id": "v1-0907",
+  "hook": "View (観) + point (点): point of view."
+ },
+ {
+  "id": "v1-0908",
+  "hook": "Feel (感) + degree (度): how strongly something senses, sensitivity."
+ },
+ {
+  "id": "v1-0910",
+  "hook": "Origin (元) year (年): the first year of an era."
+ },
+ {
+  "id": "v1-0911",
+  "hook": "Tree trunk (幹) + section (部): the trunk of a company, the executives."
+ },
+ {
+  "id": "v1-0912",
+  "hook": "Complete (完) + jade disc (璧): a flawless jade disc, perfect."
+ },
+ {
+  "id": "v1-0913",
+  "hook": "Think over (勘) + judge (弁): think it over and let it go, pardon."
+ },
+ {
+  "id": "v1-0914",
+  "hook": "Feeling (感) without (無) measure (量): too much emotion to measure."
+ },
+ {
+  "id": "v1-0915",
+  "hook": "Urge (勧) + lure (誘): ask people to join, canvassing."
+ },
+ {
+  "id": "v1-0916",
+  "hook": "Connect (関) + give (与): be connected to it, take part."
+ },
+ {
+  "id": "v1-0917",
+  "hook": "Wide (寛) + accept (容): accepting widely, tolerant."
+ },
+ {
+  "id": "v1-0918",
+  "hook": "From the origin (元) coming (来): originally."
+ },
+ {
+  "id": "v1-0919",
+  "hook": "Watch (観) + look (覧): viewing a show or exhibit."
+ },
+ {
+  "id": "v1-0920",
+  "hook": "Habit (慣) + example (例): a custom, precedent."
+ },
+ {
+  "id": "v1-0921",
+  "hook": "Return (還) + calendar (暦): the 60 year calendar cycle comes back, your 60th birthday."
+ },
+ {
+  "id": "v1-0922",
+  "hook": "Old weight unit (貫) + samurai pay (禄): the heavy presence of an important person, dignity."
+ },
+ {
+  "id": "v1-0923",
+  "hook": "Loosen (緩) + soften (和): easing, relief."
+ },
+ {
+  "id": "v1-0924",
+  "hook": "Debate (議) + proposal (案): a bill for discussion."
+ },
+ {
+  "id": "v1-0927",
+  "hook": "Rule (規) + standard (格): a standard size or norm."
+ },
+ {
+  "id": "v1-0928",
+  "hook": "Wear (着) + decorate (飾る): dress up."
+ },
+ {
+  "id": "v1-0929",
+  "hook": "Mind (気) + hesitate (兼ね): worrying about others, so you hold back."
+ },
+ {
+  "id": "v1-0932",
+  "hook": "Hear (聞き) + take (取り): catch what you hear, listening."
+ },
+ {
+  "id": "v1-0933",
+  "hook": "Work well (効き) + point (目): how well it works, the effect."
+ },
+ {
+  "id": "v1-0934",
+  "hook": "Return (帰) to the capital (京): go back to Tokyo."
+ },
+ {
+  "id": "v1-0935",
+  "hook": "Play (戯) + piece (曲): the script of a stage play."
+ },
+ {
+  "id": "v1-0936",
+  "hook": "Base (基) money (金): a fund."
+ },
+ {
+  "id": "v1-0937",
+  "hook": "Joy (喜) + drama (劇): comedy."
+ },
+ {
+  "id": "v1-0938",
+  "hook": "Debate (議) + decide (決): decide by vote."
+ },
+ {
+  "id": "v1-0939",
+  "hook": "Throw away (棄) your right (権): abstain."
+ },
+ {
+  "id": "v1-0940",
+  "hook": "Already (既) married (婚): married."
+ },
+ {
+  "id": "v1-0941",
+  "hook": "From 気に障る (gets on your nerves): a showy, annoying manner, affected."
+ },
+ {
+  "id": "v1-0943",
+  "hook": "兆 shows cracks on a fortune bone: a sign or omen."
+ },
+ {
+  "id": "v1-0944",
+  "hook": "Spirit (気) + nature (質): temperament."
+ },
+ {
+  "id": "v1-0945",
+  "hook": "Set period (期) + day (日): a fixed date."
+ },
+ {
+  "id": "v1-0947",
+  "hook": "Discussion (議) matters (事) hall (堂): the Diet building."
+ },
+ {
+  "id": "v1-0948",
+  "hook": "Write down (記) + state (述): describe in writing."
+ },
+ {
+  "id": "v1-0950",
+  "hook": "Wound (傷) + attach (付く): a wound sticks to you, you get hurt."
+ },
+ {
+  "id": "v1-0951",
+  "hook": "Wound (傷) + attach (付ける): put a wound on someone, hurt them."
+ },
+ {
+  "id": "v1-0953",
+  "hook": "Steam (汽) ship (船): steamship."
+ },
+ {
+  "id": "v1-0954",
+  "hook": "Send (寄) + present (贈): give as a gift, donate."
+ },
+ {
+  "id": "v1-0955",
+  "hook": "Fake (偽) + make (造): forgery."
+ },
+ {
+  "id": "v1-0956",
+  "hook": "Noble (貴) clan (族): aristocrats."
+ },
+ {
+  "id": "v1-0957",
+  "hook": "Debate (議) + topic (題): an agenda item."
+ },
+ {
+  "id": "v1-0959",
+  "hook": "How your spirit (気) stands (立て): your nature, kind hearted."
+ },
+ {
+  "id": "v1-0962",
+  "hook": "几帳 is a curtain stand with carefully finished edges (面): neat, careful, methodical."
+ },
+ {
+  "id": "v1-0967",
+  "hook": "Start (起) point (点): starting point."
+ },
+ {
+  "id": "v1-0968",
+  "hook": "Wheel track (軌) + road (道): an orbit or rail track."
+ },
+ {
+  "id": "v1-0970",
+  "hook": "Rule (規) + model (範): a standard to follow."
+ },
+ {
+  "id": "v1-0971",
+  "hook": "Spirit (気) + grace (品): elegance."
+ },
+ {
+  "id": "v1-0972",
+  "hook": "Spirit (気) + style (風): the character of a group or place."
+ },
+ {
+  "id": "v1-0973",
+  "hook": "Rise (起) and lie down (伏): land going up and down."
+ },
+ {
+  "id": "v1-0975",
+  "hook": "Mind (気) + まぐれ (fluke): moods change by chance, a whim."
+ },
+ {
+  "id": "v1-0976",
+  "hook": "Pure (生) + serious (真面目): very serious, too earnest."
+ },
+ {
+  "id": "v1-0979",
+  "hook": "Write (記) name (名): sign your name."
+ },
+ {
+  "id": "v1-0980",
+  "hook": "Rule (規) + promise (約): the rules of an agreement."
+ },
+ {
+  "id": "v1-0981",
+  "hook": "脚 as in 脚本 (script) + color (色): coloring a story into a script, dramatization."
+ },
+ {
+  "id": "v1-0983",
+  "hook": "Leg (脚) + book (本): the book a play stands on, the script."
+ },
+ {
+  "id": "v1-0984",
+  "hook": "Showy (華) + luxury (奢): fine and delicate like luxury goods, slender."
+ },
+ {
+  "id": "v1-0985",
+  "hook": "Guest's (客) view (観): seeing as an outsider, objective."
+ },
+ {
+  "id": "v1-0988",
+  "hook": "Rescue (救) + aid (援): relief, rescue."
+ },
+ {
+  "id": "v1-0989",
+  "hook": "Rest (休) from school (学): taking time off school."
+ },
+ {
+  "id": "v1-0990",
+  "hook": "Study deeply (究) to the extreme (極): ultimate."
+ },
+ {
+  "id": "v1-0992",
+  "hook": "Ball (球) + root (根): a round root, a bulb."
+ },
+ {
+  "id": "v1-0993",
+  "hook": "Rescue (救) + relieve (済): help people in trouble."
+ },
+ {
+  "id": "v1-0994",
+  "hook": "Supply (給) + serve (仕): someone who serves food, a waiter."
+ },
+ {
+  "id": "v1-0996",
+  "hook": "Rest (休) from battle (戦): a truce."
+ },
+ {
+  "id": "v1-0997",
+  "hook": "Palace (宮) + hall (殿): a palace."
+ },
+ {
+  "id": "v1-0998",
+  "hook": "Old (旧) + know (知): someone you have known a long time."
+ },
+ {
+  "id": "v1-0999",
+  "hook": "Extreme need (窮) + lack (乏): poverty."
+ }
+]

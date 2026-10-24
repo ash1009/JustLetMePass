@@ -1,0 +1,802 @@
+[
+ {
+  "id": "v1-1335",
+  "hook": "A clause (条) plus a promise (約): a treaty is a list of promised clauses."
+ },
+ {
+  "id": "v1-1346",
+  "hook": "Help (助) with words (言): advice is helping someone by speaking."
+ },
+ {
+  "id": "v1-1393",
+  "hook": "New (新) entering (入) student (生): the freshman who just came in."
+ },
+ {
+  "id": "v1-1412",
+  "hook": "救 means save: すくい sounds like 'scoop', you scoop someone out of trouble."
+ },
+ {
+  "id": "v1-1431",
+  "hook": "澄 means clear, still water: すます, make things clear and quiet, like clearing your ears to listen."
+ },
+ {
+  "id": "v1-1445",
+  "hook": "Correct (正) solution (解): the right answer."
+ },
+ {
+  "id": "v1-1454",
+  "hook": "Sincerity (誠) that is real (実): an honest, faithful person."
+ },
+ {
+  "id": "v1-1477",
+  "hook": "Put in order (整) in a row (列): stand neatly in a line."
+ },
+ {
+  "id": "v1-1485",
+  "hook": "Make it right (是) and correct (正): fixing something that was wrong."
+ },
+ {
+  "id": "v1-1486",
+  "hook": "World or era (世) plus replace (代): each generation replaces the one before."
+ },
+ {
+  "id": "v1-1492",
+  "hook": "Set up (設) and place (置): install or establish something."
+ },
+ {
+  "id": "v1-1494",
+  "hook": "Set up (設) and fix (定): establishing how something will work, like creating its settings."
+ },
+ {
+  "id": "v1-1537",
+  "hook": "Run (走) plus go (行): a car running along the road."
+ },
+ {
+  "id": "v1-1541",
+  "hook": "Dress up (装) and decorate (飾): ornaments that make things pretty."
+ },
+ {
+  "id": "v1-1550",
+  "hook": "添 means add alongside: そえる, set something beside the main thing, like a side dish."
+ },
+ {
+  "id": "v1-1552",
+  "hook": "At once (即) from your seat (座): you act without even standing up, right away."
+ },
+ {
+  "id": "v1-1573",
+  "hook": "染 means dye: cloth そまる (gets dyed) when it soaks up the colour."
+ },
+ {
+  "id": "v1-1580",
+  "hook": "揃 means even and matching: そろい, things that all match, a matching set."
+ },
+ {
+  "id": "v1-1590",
+  "hook": "Big (大) money (金): a large sum."
+ },
+ {
+  "id": "v1-1591",
+  "hook": "Wait on (待) someone you meet (遇): how you treat people, or how a job treats you."
+ },
+ {
+  "id": "v1-1608",
+  "hook": "Big (大) part (部): the greater part, most of it."
+ },
+ {
+  "id": "v1-1614",
+  "hook": "Lazy (怠) and slack (慢): negligence, not doing your job."
+ },
+ {
+  "id": "v1-1618",
+  "hook": "Facing (対) face (面): meeting someone face to face."
+ },
+ {
+  "id": "v1-1622",
+  "hook": "Facing (対) talk (話): a dialogue between two people."
+ },
+ {
+  "id": "v1-1623",
+  "hook": "耐 means endure: たえる, to bear pain without breaking."
+ },
+ {
+  "id": "v1-1639",
+  "hook": "携 means carry in hand: たずさわる, to have your hands in some work."
+ },
+ {
+  "id": "v1-1640",
+  "hook": "漂 has water (氵) and means drift: ただよう, float on water or hang in the air."
+ },
+ {
+  "id": "v1-1644",
+  "hook": "A person (者) who has reached (達) a high level: skilful, or in good health."
+ },
+ {
+  "id": "v1-1665",
+  "hook": "保 means keep or protect: たもつ, to keep something as it is."
+ },
+ {
+  "id": "v1-1677",
+  "hook": "Short (短) spirit (気): a short temper."
+ },
+ {
+  "id": "v1-1711",
+  "hook": "Arrive (着) on land (陸): a plane landing."
+ },
+ {
+  "id": "v1-1723",
+  "hook": "Cut off (断) in the middle (中): an interruption."
+ },
+ {
+  "id": "v1-1732",
+  "hook": "Arrange (調) plus seal (印): putting your seal on an agreement, signing it."
+ },
+ {
+  "id": "v1-1736",
+  "hook": "Levy (徴) and collect (収): collecting taxes or fees."
+ },
+ {
+  "id": "v1-1739",
+  "hook": "Layered (重) and double (複): the same thing twice, overlapping."
+ },
+ {
+  "id": "v1-1741",
+  "hook": "A treasure (宝) you value highly (重): a handy thing you prize because it is so useful."
+ },
+ {
+  "id": "v1-1764",
+  "hook": "Passing through (通) always (常): the ordinary, usual way."
+ },
+ {
+  "id": "v1-1768",
+  "hook": "仕 (person 亻 plus 士) means serve: つかえる, to work for a master."
+ },
+ {
+  "id": "v1-1774",
+  "hook": "尽 means use up: つくす, give everything you have to a person or task."
+ },
+ {
+  "id": "v1-1777",
+  "hook": "造 means build: つくり, how something is built, its structure."
+ },
+ {
+  "id": "v1-1780",
+  "hook": "告 means announce: つげる, to tell someone news."
+ },
+ {
+  "id": "v1-1793",
+  "hook": "募 means recruit or collect: つのる, to call for people, help or money."
+ },
+ {
+  "id": "v1-1808",
+  "hook": "Hold up (提) and carry together (携): two companies joining hands."
+ },
+ {
+  "id": "v1-1810",
+  "hook": "Hold out (提) and show (示): present something, like showing your ID."
+ },
+ {
+  "id": "v1-1813",
+  "hook": "Revise (訂) to make correct (正): fixing a mistake."
+ },
+ {
+  "id": "v1-1816",
+  "hook": "Fixed (定) year (年): the set age when you retire."
+ },
+ {
+  "id": "v1-1848",
+  "hook": "Hand (手) plus base (元): what is near your hand, at hand."
+ },
+ {
+  "id": "v1-1859",
+  "hook": "Days (日) linked (連) together: every day in a row."
+ },
+ {
+  "id": "v1-1862",
+  "hook": "People linked (連) together among us (中): a group, that bunch."
+ },
+ {
+  "id": "v1-1883",
+  "hook": "詫 has 言 (words): わび, words to say sorry, an apology."
+ },
+ {
+  "id": "v1-1912",
+  "hook": "恥 is ear (耳) plus heart (心): your ears go red and your heart feels shame."
+ },
+ {
+  "id": "v1-1915",
+  "hook": "Break (破) and damage (損): something broken."
+ },
+ {
+  "id": "v1-1916",
+  "hook": "叩 has 口 (mouth) for the sound: はたく, hit, slap or dust off."
+ },
+ {
+  "id": "v1-1942",
+  "hook": "Basic quality (質) plus plain (素): a simple, modest, frugal way of living."
+ },
+ {
+  "id": "v1-1943",
+  "hook": "Real (実) state (態): the true situation."
+ },
+ {
+  "id": "v1-1986",
+  "hook": "Take in (収) profit (益): the money a business earns."
+ },
+ {
+  "id": "v1-1989",
+  "hook": "The many people's (衆) discussion (議) house (院): the Lower House."
+ },
+ {
+  "id": "v1-1995",
+  "hook": "End (終) and start (始): from beginning to end, all the way."
+ },
+ {
+  "id": "v1-2005",
+  "hook": "Layered (重) and double (複): じゅうふく is another reading of ちょうふく, overlap."
+ },
+ {
+  "id": "v1-2013",
+  "hook": "Celebrate (祝) and congratulate (賀): a celebration."
+ },
+ {
+  "id": "v1-2023",
+  "hook": "Main (主) body (体): the subject, the main actor."
+ },
+ {
+  "id": "v1-2028",
+  "hook": "Out (出) plus give birth (産): a baby comes out, childbirth."
+ },
+ {
+  "id": "v1-2029",
+  "hook": "Go out (出) to the company (社): go to work."
+ },
+ {
+  "id": "v1-2036",
+  "hook": "Quick (敏) feeling (感): sensitive, feels things fast."
+ },
+ {
+  "id": "v1-2068",
+  "hook": "Not (不) plus business mood (景気): hard times, a recession."
+ },
+ {
+  "id": "v1-2080",
+  "hook": "Not (不) clear after examining (審): doubtful, suspicious."
+ },
+ {
+  "id": "v1-2081",
+  "hook": "Not (不) swinging (振): no energy, a slump."
+ },
+ {
+  "id": "v1-2089",
+  "hook": "Again (復) plus rise up (興): a city rising again after a disaster."
+ },
+ {
+  "id": "v1-2136",
+  "hook": "Divide (分) and tear (裂): split apart."
+ },
+ {
+  "id": "v1-2138",
+  "hook": "Soldier (兵) tools (器): weapons."
+ },
+ {
+  "id": "v1-2176",
+  "hook": "Rich (豊) crop (作): a big harvest."
+ },
+ {
+  "id": "v1-2182",
+  "hook": "Repay (報) and reward (酬): payment for your work."
+ },
+ {
+  "id": "v1-2187",
+  "hook": "Stunned (呆) state (然): standing there amazed, unable to think."
+ },
+ {
+  "id": "v1-2206",
+  "hook": "Keep (保) and manage (管): store things safely."
+ },
+ {
+  "id": "v1-2209",
+  "hook": "Collect (募) money (金): fund raising."
+ },
+ {
+  "id": "v1-2223",
+  "hook": "Make up for (補) and help (助): support, assistance."
+ },
+ {
+  "id": "v1-2250",
+  "hook": "True (本) sound (音): your real feelings, what you truly mean."
+ },
+ {
+  "id": "v1-2315",
+  "hook": "Look (見) into (込): what you can see coming, the prospects."
+ },
+ {
+  "id": "v1-2326",
+  "hook": "満 means full: みたす, to fill up or satisfy."
+ },
+ {
+  "id": "v1-2327",
+  "hook": "乱 means disorder: みだす, to mess something up."
+ },
+ {
+  "id": "v1-2328",
+  "hook": "乱 means disorder: みだれる, to become messy or disturbed."
+ },
+ {
+  "id": "v1-2330",
+  "hook": "Near (近) your body (身): close to you, familiar."
+ },
+ {
+  "id": "v1-2340",
+  "hook": "Watch (見) and learn (習): learn by following someone's example."
+ },
+ {
+  "id": "v1-2341",
+  "hook": "How your body (身) is dressed up (なり): your clothes and appearance."
+ },
+ {
+  "id": "v1-2345",
+  "hook": "Around (回り) your body (身): your belongings and daily things."
+ },
+ {
+  "id": "v1-2348",
+  "hook": "Body (身) waving (振り): a gesture."
+ },
+ {
+  "id": "v1-2352",
+  "hook": "Look (見) across (渡): to look out over a wide view."
+ },
+ {
+  "id": "v1-2355",
+  "hook": "People's (民) customs (俗): folk traditions."
+ },
+ {
+  "id": "v1-2356",
+  "hook": "No (無) meaning (意味): nonsense."
+ },
+ {
+  "id": "v1-2358",
+  "hook": "No (無) mouth (口): a quiet person who says little."
+ },
+ {
+  "id": "v1-2370",
+  "hook": "Without (無) giving notice (断, as in 断る): without permission."
+ },
+ {
+  "id": "v1-2378",
+  "hook": "No (無) use (用): useless, not needed."
+ },
+ {
+  "id": "v1-2442",
+  "hook": "漏 has water (氵) and means leak: もらす, let water or a secret leak out."
+ },
+ {
+  "id": "v1-2443",
+  "hook": "Heap up (盛り) and rise (上がる): a party gets lively, a crowd swells."
+ },
+ {
+  "id": "v1-2455",
+  "hook": "House (屋) on spread out land (敷): a big house on wide grounds, a mansion."
+ },
+ {
+  "id": "v1-2458",
+  "hook": "Cheap (安) plus っぽい (like): it looks cheap."
+ },
+ {
+  "id": "v1-2460",
+  "hook": "Living (生) in the fields (野): wild."
+ },
+ {
+  "id": "v1-2463",
+  "hook": "病 means illness: やむ, to be ill."
+ },
+ {
+  "id": "v1-2477",
+  "hook": "有 means have: ゆうする, a formal way to say to own."
+ },
+ {
+  "id": "v1-2498",
+  "hook": "揺 means shake: ゆらぐ, to sway or waver."
+ },
+ {
+  "id": "v1-2499",
+  "hook": "緩 has 糸 (thread): ゆるむ, a thread loosens and goes slack."
+ },
+ {
+  "id": "v1-2502",
+  "hook": "Key (要) cause (因): the main factor."
+ },
+ {
+  "id": "v1-2511",
+  "hook": "Use (用) goods (品): supplies, things for a purpose."
+ },
+ {
+  "id": "v1-2512",
+  "hook": "Western (洋) style (風)."
+ },
+ {
+  "id": "v1-2516",
+  "hook": "Before (予) feeling (感): a feeling about something before it happens."
+ },
+ {
+  "id": "v1-2572",
+  "hook": "Understand (了) and accept (承): OK, I acknowledge it."
+ },
+ {
+  "id": "v1-2594",
+  "hook": "Romance (恋) and love (愛): love between partners."
+ },
+ {
+  "id": "v1-2628",
+  "hook": "Shoot (射) back (反): light bouncing back, a reflection."
+ },
+ {
+  "id": "v1-2632",
+  "hook": "Judge (判) and decide (定): a verdict."
+ },
+ {
+  "id": "v1-2634",
+  "hook": "Evening (晩) years (年): the last years of a life."
+ },
+ {
+  "id": "v1-2636",
+  "hook": "Ten thousand (万) abilities (能): can do everything, all purpose."
+ },
+ {
+  "id": "v1-2645",
+  "hook": "控 means hold back: ひかえる, to hold yourself back, or note something down to keep."
+ },
+ {
+  "id": "v1-2654",
+  "hook": "Days (日) plus around the time (頃): usually, on ordinary days."
+ },
+ {
+  "id": "v1-2661",
+  "hook": "Slight (微) laugh (笑): a small smile."
+ },
+ {
+  "id": "v1-2673",
+  "hook": "Person (人) shadow (影): the figure of a person."
+ },
+ {
+  "id": "v1-2674",
+  "hook": "A person's (人) pattern (柄): personality, character."
+ },
+ {
+  "id": "v1-2680",
+  "hook": "Taking (取り) a day (日): choosing the date."
+ },
+ {
+  "id": "v1-0128",
+  "hook": "暦 contains 日 (day): こよみ, counting the days, a calendar."
+ },
+ {
+  "id": "v1-0257",
+  "hook": "Fur (毛 け) thing (もの), with an old だ in the middle: けだもの, a furry beast, a brute."
+ },
+ {
+  "id": "v1-0277",
+  "hook": "Fur (毛 け) thing (もの): けもの, a furry beast; 獣 has 犬 (dog) on the right."
+ },
+ {
+  "id": "v1-0391",
+  "hook": "Usually written 取り分け: take (取) one and separate (分) it from the rest, especially that one."
+ },
+ {
+  "id": "v1-2271",
+  "hook": "誠 is words (言) plus become (成): words that come true, truth and sincerity."
+ },
+ {
+  "id": "v1-2296",
+  "hook": "眉 is a picture of hair over an eye (目): the eyebrow."
+ },
+ {
+  "id": "v1-2439",
+  "hook": "股 has 月 (the body part radical): もも, the thigh."
+ },
+ {
+  "id": "v1-2448",
+  "hook": "矢 looks like an arrow with feathers: や, an arrow."
+ },
+ {
+  "id": "v1-2462",
+  "hook": "Sound (音) behind a gate (門): in darkness you can only hear, not see."
+ },
+ {
+  "id": "v1-0643",
+  "hook": "液 has water (氵): えき, liquid."
+ },
+ {
+  "id": "v1-0694",
+  "hook": "雄 has 隹 (bird) and means male: the showy bird is the male, おす."
+ },
+ {
+  "id": "v1-0815",
+  "hook": "賭 has 貝 (shell, old money): かけ, putting money on a bet."
+ },
+ {
+  "id": "v1-0871",
+  "hook": "粥 is rice (米) between two 弓 shapes: かゆ, soft rice porridge."
+ },
+ {
+  "id": "v1-1400",
+  "hook": "粋 has 米 (rice): the pure, best part of the rice, the essence."
+ },
+ {
+  "id": "v1-1662",
+  "hook": "魂 has 鬼 (ghost, spirit): the spirit inside you, your soul."
+ },
+ {
+  "id": "v1-1751",
+  "hook": "塵 is deer (鹿) over earth (土): dust kicked up by running deer."
+ },
+ {
+  "id": "v1-1921",
+  "hook": "罰 has a net (罒), words (言) and a knife (刂): caught and judged, punishment."
+ },
+ {
+  "id": "v1-2012",
+  "hook": "塾 has earth (土) at the bottom: a small private school on your street, cram school."
+ },
+ {
+  "id": "v1-2469",
+  "hook": "油 has water (氵) and means oil: ゆ after a word names an oil, like 石油 (oil from rock)."
+ },
+ {
+  "id": "v1-1309",
+  "hook": "症 has 疒 (the sickness radical): しょう after a word names a disease, like 花粉症."
+ },
+ {
+  "id": "v1-2218",
+  "hook": "干 means dry: ほし before a food means dried, like 干し柿 (dried persimmon)."
+ },
+ {
+  "id": "v1-0816",
+  "hook": "掛 means hang: a bill left hanging (掛け) to pay later is credit."
+ },
+ {
+  "id": "v1-1308",
+  "hook": "署 means government office: しょ after a word, like 警察署 (police station)."
+ },
+ {
+  "id": "v1-0520",
+  "hook": "派 means branch or faction: は after a word means a group, like 反対派 (the opposing side)."
+ },
+ {
+  "id": "v1-1227",
+  "hook": "宛 means address to: あて after a name means the letter is for that person."
+ },
+ {
+  "id": "v1-0817",
+  "hook": "掛 means hang: かけ after a word is a thing to hang it on, like 帽子掛け (hat rack)."
+ },
+ {
+  "id": "v1-2409",
+  "hook": "網 has 糸 (thread) and means net: もう after a word means network, like 通信網."
+ },
+ {
+  "id": "v1-1728",
+  "hook": "著 means write a book: ちょ after a name means written by that person."
+ },
+ {
+  "id": "v1-2275",
+  "hook": "増 means increase: まし after an amount means that much more, like 二割増し (20% more)."
+ },
+ {
+  "id": "v1-1002",
+  "hook": "狂 has 犭 (dog) and means crazy: きょう after a word means a mad fan, like 野球狂."
+ },
+ {
+  "id": "v1-1311",
+  "hook": "嬢 has 女 (woman): じょう after a name means young lady, Miss."
+ },
+ {
+  "id": "v1-1985",
+  "hook": "宗 means religion: しゅう after a name means a sect, like 禅宗 (Zen sect)."
+ },
+ {
+  "id": "v1-0002",
+  "hook": "Seeing (見) from your ground (地): the spot you look from, a point of view."
+ },
+ {
+  "id": "v1-0004",
+  "hook": "Limit (限) and fix (定): limited, like a limited edition."
+ },
+ {
+  "id": "v1-0006",
+  "hook": "Original (原) book (典): the source text."
+ },
+ {
+  "id": "v1-0007",
+  "hook": "Atom (原, short for 原子) plus explode (爆): an atomic bomb."
+ },
+ {
+  "id": "v1-0009",
+  "hook": "Strict (厳) and close (密): exact, precise."
+ },
+ {
+  "id": "v1-0010",
+  "hook": "Wise (賢) and bright (明): a smart choice."
+ },
+ {
+  "id": "v1-0011",
+  "hook": "Thrifty (倹) plus cut down (約): saving money."
+ },
+ {
+  "id": "v1-0012",
+  "hook": "Raw (原) oil (油): crude oil."
+ },
+ {
+  "id": "v1-0013",
+  "hook": "Combine (兼) uses (用): one thing with two uses."
+ },
+ {
+  "id": "v1-0014",
+  "hook": "Authority (権) and power (力): political power."
+ },
+ {
+  "id": "v1-0015",
+  "hook": "Speech (言) and argument (論): free speech and discussion."
+ },
+ {
+  "id": "v1-0017",
+  "hook": "Words (語) collected (彙): vocabulary."
+ },
+ {
+  "id": "v1-0018",
+  "hook": "恋 has heart (心) at the bottom: こいする, to be in love."
+ },
+ {
+  "id": "v1-0021",
+  "hook": "Liking (好) feeling (意): kindness, good will."
+ },
+ {
+  "id": "v1-0024",
+  "hook": "Making things (工) study (学): engineering."
+ },
+ {
+  "id": "v1-0025",
+  "hook": "Resist (抗) plus discuss (議): a protest, speaking against something."
+ },
+ {
+  "id": "v1-0026",
+  "hook": "Discuss (議) together (合): a meeting to decide together."
+ },
+ {
+  "id": "v1-0028",
+  "hook": "Good (好) situation (況): a strong economy."
+ },
+ {
+  "id": "v1-0029",
+  "hook": "Ore (鉱) industry (業): mining."
+ },
+ {
+  "id": "v1-0030",
+  "hook": "Raise up (興) a business (業): starting new industry."
+ },
+ {
+  "id": "v1-0031",
+  "hook": "High (高) plain (原): a plateau."
+ },
+ {
+  "id": "v1-0032",
+  "hook": "Cross (交) each other (互): taking turns, alternate."
+ },
+ {
+  "id": "v1-0034",
+  "hook": "Thinking about (考) old things (古) study (学): archeology."
+ },
+ {
+  "id": "v1-0035",
+  "hook": "Craft (工) making (作): handicrafts, or secret maneuvering."
+ },
+ {
+  "id": "v1-0036",
+  "hook": "Plough (耕) and make (作): farming."
+ },
+ {
+  "id": "v1-0037",
+  "hook": "Ore (鉱) mountain (山): a mine."
+ },
+ {
+  "id": "v1-0038",
+  "hook": "Lecture (講) and learn (習): a short training course."
+ },
+ {
+  "id": "v1-0039",
+  "hook": "Mouth (口) states (述): saying it out loud."
+ },
+ {
+  "id": "v1-0040",
+  "hook": "Hold back (控) and remove (除): money taken off, a tax deduction."
+ },
+ {
+  "id": "v1-0042",
+  "hook": "High (高) and esteemed (尚): noble, refined."
+ },
+ {
+  "id": "v1-0044",
+  "hook": "Go (行) forward (進): a march, a parade."
+ },
+ {
+  "id": "v1-0045",
+  "hook": "Fragrant (香) spicy (辛) ingredients (料): spices."
+ },
+ {
+  "id": "v1-0046",
+  "hook": "Falling (降) water (水): rain and snow."
+ },
+ {
+  "id": "v1-0047",
+  "hook": "Vast (洪) water (水): a flood."
+ },
+ {
+  "id": "v1-0048",
+  "hook": "Combine (合) and make (成): synthetic."
+ },
+ {
+  "id": "v1-0049",
+  "hook": "Public (公) manner (然): openly, in front of everyone."
+ },
+ {
+  "id": "v1-0050",
+  "hook": "Resist (抗) and fight (争): a dispute."
+ },
+ {
+  "id": "v1-0051",
+  "hook": "Build (構) an idea (想): a plan in your mind."
+ },
+ {
+  "id": "v1-0052",
+  "hook": "Back (後) plus retreat (退): going backward."
+ },
+ {
+  "id": "v1-0053",
+  "hook": "Light (光) plus gloss (沢): a shiny finish."
+ },
+ {
+  "id": "v1-0054",
+  "hook": "Public (公) group (団): a public corporation."
+ },
+ {
+  "id": "v1-0055",
+  "hook": "Good (好) condition (調): going well."
+ },
+ {
+  "id": "v1-0056",
+  "hook": "Mouth (口) plus head (頭): spoken, oral."
+ },
+ {
+  "id": "v1-0057",
+  "hook": "Lecture (講) on reading (読): reading and explaining a text."
+ },
+ {
+  "id": "v1-0058",
+  "hook": "Buy (購) to read (読): a subscription."
+ },
+ {
+  "id": "v1-0060",
+  "hook": "Public (公) approval (認): official recognition."
+ },
+ {
+  "id": "v1-0061",
+  "hook": "Light (光) and heat (熱) cost (費): the electricity and gas bill."
+ },
+ {
+  "id": "v1-0062",
+  "hook": "Buy (購) and buy (買): purchasing."
+ },
+ {
+  "id": "v1-0064",
+  "hook": "Exchange (交) and give (付): handing over documents."
+ },
+ {
+  "id": "v1-0065",
+  "hook": "Public (公) call (募): asking the public for applicants or money."
+ },
+ {
+  "id": "v1-0066",
+  "hook": "Skilful (巧) and clever (妙): ingenious."
+ }
+]

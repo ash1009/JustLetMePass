@@ -1,0 +1,802 @@
+[
+ {
+  "id": "v1-0393",
+  "hook": "Dull (鈍) feeling (感): someone who does not notice things, thick-skinned."
+ },
+ {
+  "id": "v1-0395",
+  "hook": "Forget (忘れ) for one time (度): a sudden moment when a word slips your mind."
+ },
+ {
+  "id": "v1-0396",
+  "hook": "A shop (屋) you ask (問) for goods in bulk: a wholesale store."
+ },
+ {
+  "id": "v1-0397",
+  "hook": "The inner (内) palace hall (閣): the group of top ministers, the cabinet."
+ },
+ {
+  "id": "v1-0398",
+  "hook": "Then (乃) ... reaching (至): from A up to B, or simply 'or'."
+ },
+ {
+  "id": "v1-0401",
+  "hook": "Stored (蔵, storehouse) inside (内): built-in, like a camera built into a phone."
+ },
+ {
+  "id": "v1-0404",
+  "hook": "Disorder (乱) inside (内) a country: civil war."
+ },
+ {
+  "id": "v1-0405",
+  "hook": "Land (陸) on the inside (内), far from the sea: inland."
+ },
+ {
+  "id": "v1-0409",
+  "hook": "Long (長) and long again (々): very long, drawn out."
+ },
+ {
+  "id": "v1-0410",
+  "hook": "The middle (中) extent (程): halfway, midway."
+ },
+ {
+  "id": "v1-0411",
+  "hook": "渚 has the water radical 氵: the place where the water meets the beach."
+ },
+ {
+  "id": "v1-0412",
+  "hook": "嘆 means sigh: you sigh and moan, to lament and grieve."
+ },
+ {
+  "id": "v1-0413",
+  "hook": "Throw (投げ) out (出す): throw something out, or give up on it."
+ },
+ {
+  "id": "v1-0414",
+  "hook": "The person (人) in the middle of the relationship (仲) of two families: the matchmaker."
+ },
+ {
+  "id": "v1-0415",
+  "hook": "和 means peace and harmony: a calm, friendly mood."
+ },
+ {
+  "id": "v1-0418",
+  "hook": "Without (無い) heart or sympathy (情): pathetic, miserable, shameful."
+ },
+ {
+  "id": "v1-0419",
+  "hook": "Deep (深い) in feeling (情): kind and caring, warm-hearted."
+ },
+ {
+  "id": "v1-0420",
+  "hook": "詰 means press or pack: you press someone hard with words, to scold."
+ },
+ {
+  "id": "v1-0421",
+  "hook": "A name (名) held high (高い): famous."
+ },
+ {
+  "id": "v1-0422",
+  "hook": "Snow (雪) collapses (崩): an avalanche."
+ },
+ {
+  "id": "v1-0423",
+  "hook": "懐 means bosom or heart: a pet that comes to your chest, becomes attached to you."
+ },
+ {
+  "id": "v1-0424",
+  "hook": "Attach (付ける) a name (名): to name."
+ },
+ {
+  "id": "v1-0429",
+  "hook": "Name (名) + tag or card (札): a name tag."
+ },
+ {
+  "id": "v1-0430",
+  "hook": "Smelling (臭い) of raw (生) fish or meat: fishy, bloody smell."
+ },
+ {
+  "id": "v1-0431",
+  "hook": "Raw (生), not fully warm (温い): lukewarm, and also half-hearted."
+ },
+ {
+  "id": "v1-0432",
+  "hook": "Live (生) body (身): flesh and blood, a real living person."
+ },
+ {
+  "id": "v1-0434",
+  "hook": "滑 means slide or slippery: so smooth that things slide over it."
+ },
+ {
+  "id": "v1-0435",
+  "hook": "嘗 has 旨 (tasty) at the bottom: you lick to taste; also to look down on."
+ },
+ {
+  "id": "v1-0436",
+  "hook": "悩 means worry: something that troubles your heart, or tempts you."
+ },
+ {
+  "id": "v1-0437",
+  "hook": "To cause worry (悩): to bother or trouble someone."
+ },
+ {
+  "id": "v1-0439",
+  "hook": "並 means line up side by side: A lined up with B, a formal 'and'."
+ },
+ {
+  "id": "v1-0440",
+  "hook": "Become (成り) standing (立つ): something stands up, is made of parts, or works logically."
+ },
+ {
+  "id": "v1-0443",
+  "hook": "馴 means tame, used to: acting too used to someone, overly familiar."
+ },
+ {
+  "id": "v1-0446",
+  "hook": "What (何) is it? Somehow, I do not know why."
+ },
+ {
+  "id": "v1-0450",
+  "hook": "Similar (似) things going back and forth (通う): to closely resemble."
+ },
+ {
+  "id": "v1-0452",
+  "hook": "賑 has 貝 (shell, money): lots of money and people, busy and lively."
+ },
+ {
+  "id": "v1-0453",
+  "hook": "憎 means hate: the feeling of hatred."
+ },
+ {
+  "id": "v1-0454",
+  "hook": "Flesh (肉) and parent or relative (親): your blood relatives."
+ },
+ {
+  "id": "v1-0455",
+  "hook": "Flesh (肉) body (体): the physical body."
+ },
+ {
+  "id": "v1-0456",
+  "hook": "Flee (逃げ) out (出す): to run away, escape."
+ },
+ {
+  "id": "v1-0457",
+  "hook": "The west (西) sun (日): the afternoon sun shining in from the west."
+ },
+ {
+  "id": "v1-0458",
+  "hook": "滲 has 氵 (water): ink or water spreading and blurring."
+ },
+ {
+  "id": "v1-0459",
+  "hook": "にせ (fake) thing (物): a counterfeit, an imitation."
+ },
+ {
+  "id": "v1-0462",
+  "hook": "担 means carry on the shoulder: to bear a burden or responsibility."
+ },
+ {
+  "id": "v1-0463",
+  "hook": "鈍 means dull, blunt: to become dull or weaker, like a blunt knife."
+ },
+ {
+  "id": "v1-0464",
+  "hook": "Even (にも) without being affected (関わらず): in spite of that, nevertheless."
+ },
+ {
+  "id": "v1-0467",
+  "hook": "Comes into (入) your hand (手): to obtain."
+ },
+ {
+  "id": "v1-0468",
+  "hook": "Enter (入) the prizes (賞): win a prize or place."
+ },
+ {
+  "id": "v1-0469",
+  "hook": "Enter (入) the bath (浴): bathing."
+ },
+ {
+  "id": "v1-0470",
+  "hook": "尸 (body) + 水 (water): water from the body, urine."
+ },
+ {
+  "id": "v1-0471",
+  "hook": "Recognise (認) and know (識): awareness, recognition."
+ },
+ {
+  "id": "v1-0472",
+  "hook": "Both kanji have 女 (woman): a woman carrying a baby, pregnancy."
+ },
+ {
+  "id": "v1-0473",
+  "hook": "Entrusted (任) duty (務): your mission or task."
+ },
+ {
+  "id": "v1-0474",
+  "hook": "Entrust (任) by order (命): to appoint someone to a post."
+ },
+ {
+  "id": "v1-0475",
+  "hook": "抜 means pull out: you pull something out, leave it out, skip it."
+ },
+ {
+  "id": "v1-0476",
+  "hook": "Slip out (抜け) and leave (出す): to sneak away, or stand out from the rest."
+ },
+ {
+  "id": "v1-0478",
+  "hook": "沼 has 氵 (water): water that stays still, a swamp or pond."
+ },
+ {
+  "id": "v1-0479",
+  "hook": "The colour (色) of a sound (音): tone, timbre."
+ },
+ {
+  "id": "v1-0482",
+  "hook": "Make someone lie down (寝): put to bed, or leave dough to rest."
+ },
+ {
+  "id": "v1-0484",
+  "hook": "捩 has 扌 (hand): twisting with your hand, to get twisted."
+ },
+ {
+  "id": "v1-0485",
+  "hook": "妬 means jealousy (女 + 石, a heart like stone): to envy someone."
+ },
+ {
+  "id": "v1-0487",
+  "hook": "Hot (熱) will or mind (意): enthusiasm, zeal."
+ },
+ {
+  "id": "v1-0488",
+  "hook": "Hot (熱) water (湯): boiling water."
+ },
+ {
+  "id": "v1-0489",
+  "hook": "Amount (量) of heat (熱): calories."
+ },
+ {
+  "id": "v1-0490",
+  "hook": "粘 means sticky (with 米, rice, which is sticky): stickiness, or not giving up."
+ },
+ {
+  "id": "v1-0491",
+  "hook": "Sticky (粘) like rice: to stick, or to keep going without giving up."
+ },
+ {
+  "id": "v1-0493",
+  "hook": "Going around (回し) the roots (根) before moving a tree: quietly preparing people before a decision."
+ },
+ {
+  "id": "v1-0494",
+  "hook": "眠 means sleep: wanting to sleep, sleepy."
+ },
+ {
+  "id": "v1-0495",
+  "hook": "練 means practise, refine: knead dough, or polish a plan."
+ },
+ {
+  "id": "v1-0498",
+  "hook": "A wish (願) held in your thoughts (念): your heart's desire."
+ },
+ {
+  "id": "v1-0499",
+  "hook": "Year (年) name or number (号): the era name, like Reiwa."
+ },
+ {
+  "id": "v1-0500",
+  "hook": "Burn (燃) and burn (焼): combustion."
+ },
+ {
+  "id": "v1-0501",
+  "hook": "Longer (長) in years (年): older, senior."
+ },
+ {
+  "id": "v1-0503",
+  "hook": "Year (年) rings (輪): the rings inside a tree trunk."
+ },
+ {
+  "id": "v1-0505",
+  "hook": "Farming (農) and ploughing (耕): agriculture."
+ },
+ {
+  "id": "v1-0506",
+  "hook": "Farm (農) place (場): a farm."
+ },
+ {
+  "id": "v1-0507",
+  "hook": "Farm (農) land (地): agricultural land."
+ },
+ {
+  "id": "v1-0508",
+  "hook": "Deliver (納) into (入): to pay or supply goods."
+ },
+ {
+  "id": "v1-0509",
+  "hook": "逃 means escape: to let something escape, to miss a chance."
+ },
+ {
+  "id": "v1-0510",
+  "hook": "逃 means escape: to escape, get away from something."
+ },
+ {
+  "id": "v1-0511",
+  "hook": "Eaves (軒) in a row (並): a row of houses; all of them, one after another."
+ },
+ {
+  "id": "v1-0512",
+  "hook": "望 means hope: something hoped for, desirable."
+ },
+ {
+  "id": "v1-0513",
+  "hook": "Get on (乗っ) and take (取る): to hijack or take over."
+ },
+ {
+  "id": "v1-0515",
+  "hook": "罵 has 馬 (horse) under a net (罒): shouting rough words, to abuse."
+ },
+ {
+  "id": "v1-0516",
+  "hook": "延 means extend: stretched out, or the total added together."
+ },
+ {
+  "id": "v1-0517",
+  "hook": "Drink (飲み) in deep (込む): to swallow, and also to understand."
+ },
+ {
+  "id": "v1-0518",
+  "hook": "Get on (乗り) into (込む): board a vehicle, or march in."
+ },
+ {
+  "id": "v1-0522",
+  "hook": "Grip (把) and grasp (握): firmly understand."
+ },
+ {
+  "id": "v1-0524",
+  "hook": "Abolish (廃) and throw away (棄): disposal."
+ },
+ {
+  "id": "v1-0526",
+  "hook": "菌 means germ: bad germs, bacteria."
+ },
+ {
+  "id": "v1-0527",
+  "hook": "A person (者) paired with you (配偶, partner): your husband or wife."
+ },
+ {
+  "id": "v1-0528",
+  "hook": "Bow (拝) and open (啓): 'Dear sir', to begin a formal letter."
+ },
+ {
+  "id": "v1-0529",
+  "hook": "The scene (景) behind your back (背): the background."
+ },
+ {
+  "id": "v1-0532",
+  "hook": "Humbly bow (拝) and borrow (借): may I borrow this?"
+ },
+ {
+  "id": "v1-0533",
+  "hook": "Push out (排) and remove (除): exclusion."
+ },
+ {
+  "id": "v1-0534",
+  "hook": "Compensate (賠) and repay (償): paying for damage you caused."
+ },
+ {
+  "id": "v1-0535",
+  "hook": "Push out (排) water (水): drainage."
+ },
+ {
+  "id": "v1-0536",
+  "hook": "Lose (敗) a war (戦): defeat in war."
+ },
+ {
+  "id": "v1-0537",
+  "hook": "Distribute (配) and place (置): arrangement, layout."
+ },
+ {
+  "id": "v1-0539",
+  "hook": "Distribute (配) into parts (分): allotment."
+ },
+ {
+  "id": "v1-0540",
+  "hook": "Lose (敗) and turn your back (北, its old meaning): defeat."
+ },
+ {
+  "id": "v1-0541",
+  "hook": "The rate (率) of times (倍): magnification, or how many applicants per place."
+ },
+ {
+  "id": "v1-0543",
+  "hook": "Distribute (配) into a line (列): arrangement, array."
+ },
+ {
+  "id": "v1-0544",
+  "hook": "Break (破) and destroy (壊): destruction."
+ },
+ {
+  "id": "v1-0546",
+  "hook": "One (一) general (概) rule for every case: usually in 一概に言えない, you cannot generalise."
+ },
+ {
+  "id": "v1-0547",
+  "hook": "著 means stand out, as in 著名 (famous): very noticeable, remarkable."
+ },
+ {
+  "id": "v1-0548",
+  "hook": "All as one (一) and the same (同): everyone present."
+ },
+ {
+  "id": "v1-0549",
+  "hook": "One (一) part (部分): a portion."
+ },
+ {
+  "id": "v1-0550",
+  "hook": "One (一) parting (別): since we last parted."
+ },
+ {
+  "id": "v1-0551",
+  "hook": "One (一) face or side (面): one side; or the whole surface."
+ },
+ {
+  "id": "v1-0552",
+  "hook": "One (一) eye (目) look: a glance."
+ },
+ {
+  "id": "v1-0553",
+  "hook": "One (一) way or style (様): all the same, uniform."
+ },
+ {
+  "id": "v1-0555",
+  "hook": "One (一) linked chain (連): a series."
+ },
+ {
+  "id": "v1-0556",
+  "hook": "Tie (括) into one (一): all at once, in a batch."
+ },
+ {
+  "id": "v1-0558",
+  "hook": "In one (一) move (挙): at a single stroke."
+ },
+ {
+  "id": "v1-0563",
+  "hook": "One (一) change (変): changes completely all at once."
+ },
+ {
+  "id": "v1-0565",
+  "hook": "営 means run or manage: to run a business, or hold a ceremony."
+ },
+ {
+  "id": "v1-0566",
+  "hook": "挑 means challenge (with 扌, hand): to take on a challenge."
+ },
+ {
+  "id": "v1-0567",
+  "hook": "Rice-plant (稲) light (光): lightning, once believed to help rice grow."
+ },
+ {
+  "id": "v1-0568",
+  "hook": "祈 means pray (示 is the altar radical): a prayer."
+ },
+ {
+  "id": "v1-0571",
+  "hook": "未 means not yet: still, not yet."
+ },
+ {
+  "id": "v1-0572",
+  "hook": "Moving (移) people (民): immigrants, emigrants."
+ },
+ {
+  "id": "v1-0573",
+  "hook": "Hate (嫌) it, hate it (々): doing it unwillingly."
+ },
+ {
+  "id": "v1-0574",
+  "hook": "卑 means low, humble: low-class, greedy, vulgar."
+ },
+ {
+  "id": "v1-0577",
+  "hook": "Will (意) and desire (欲): motivation."
+ },
+ {
+  "id": "v1-0578",
+  "hook": "Might (威) and power (力): great power."
+ },
+ {
+  "id": "v1-0579",
+  "hook": "Clothing (衣) kinds (類): clothes."
+ },
+ {
+  "id": "v1-0580",
+  "hook": "Different (異) argument (論): objection."
+ },
+ {
+  "id": "v1-0581",
+  "hook": "Seal (印) + 鑑 (model, mirror): your official name stamp."
+ },
+ {
+  "id": "v1-0582",
+  "hook": "Shadow (陰) mood (気): gloomy."
+ },
+ {
+  "id": "v1-0583",
+  "hook": "Hidden (隠) living (居): retired from work and staying quietly at home."
+ },
+ {
+  "id": "v1-0593",
+  "hook": "Receive (受け) and continue (継ぐ): to inherit."
+ },
+ {
+  "id": "v1-0594",
+  "hook": "Receive (受け) and attach (付ける): to accept applications, like at reception."
+ },
+ {
+  "id": "v1-0597",
+  "hook": "Receive (受) and hold (持ち): something in your charge, like a class."
+ },
+ {
+  "id": "v1-0600",
+  "hook": "One who tells (つき) lies (嘘): a liar."
+ },
+ {
+  "id": "v1-0601",
+  "hook": "An unplanned sleep (寝): dozing off for a short nap."
+ },
+ {
+  "id": "v1-0602",
+  "hook": "Hit (打ち, for force) open (明ける): to open up and confess."
+ },
+ {
+  "id": "v1-0604",
+  "hook": "Strike (打ち) out (消し): denial, the negative form."
+ },
+ {
+  "id": "v1-0605",
+  "hook": "Hit (打ち) into (込む): drive in, or throw yourself into work."
+ },
+ {
+  "id": "v1-0606",
+  "hook": "A round (団) fan (扇): the flat round fan used in summer."
+ },
+ {
+  "id": "v1-0607",
+  "hook": "The inner (内) explanation (訳): a breakdown of items."
+ },
+ {
+  "id": "v1-0612",
+  "hook": "Empty (空): hollow, blank."
+ },
+ {
+  "id": "v1-0614",
+  "hook": "What your arm (腕) can do in front (前) of you: skill."
+ },
+ {
+  "id": "v1-0615",
+  "hook": "Rain (雨) weather or sky (天): rainy weather."
+ },
+ {
+  "id": "v1-0616",
+  "hook": "促 means urge: to push someone to act."
+ },
+ {
+  "id": "v1-0618",
+  "hook": "Attached (つき) since birth (生まれ): by nature."
+ },
+ {
+  "id": "v1-0619",
+  "hook": "Bury (埋め) into (込む): to embed."
+ },
+ {
+  "id": "v1-0621",
+  "hook": "Turn over (返し) to the back side (裏): inside out."
+ },
+ {
+  "id": "v1-0622",
+  "hook": "Selling (売り) out to the public (出し): a sale."
+ },
+ {
+  "id": "v1-0623",
+  "hook": "Put out (出す) to sell (売り): to put on the market."
+ },
+ {
+  "id": "v1-0624",
+  "hook": "潤 has 氵 (water): becoming moist, and money flowing in too."
+ },
+ {
+  "id": "v1-0625",
+  "hook": "Floating (浮) heart (気): a wandering heart, cheating on a partner."
+ },
+ {
+  "id": "v1-0627",
+  "hook": "植 means plant: to be planted."
+ },
+ {
+  "id": "v1-0628",
+  "hook": "Carry (運) and manage (営): running an organisation."
+ },
+ {
+  "id": "v1-0630",
+  "hook": "Carry (運) and send (送): shipping goods."
+ },
+ {
+  "id": "v1-0631",
+  "hook": "Carrying (運) fee (賃): fare, freight charge."
+ },
+ {
+  "id": "v1-0632",
+  "hook": "云 means say: say this, say that, and so on."
+ },
+ {
+  "id": "v1-0633",
+  "hook": "Carry (運) and transport (搬): hauling things."
+ },
+ {
+  "id": "v1-0634",
+  "hook": "Luck (運) and life (命): fate."
+ },
+ {
+  "id": "v1-0635",
+  "hook": "Carry (運) and transport (輸): transportation."
+ },
+ {
+  "id": "v1-0636",
+  "hook": "Move (運) and use (用): putting to practical use, managing funds."
+ },
+ {
+  "id": "v1-0639",
+  "hook": "English (英) letters (字): the alphabet."
+ },
+ {
+  "id": "v1-0640",
+  "hook": "Project (映) a copied image (写): showing a film on a screen."
+ },
+ {
+  "id": "v1-0642",
+  "hook": "Brilliant (英) and brave (雄, male): a hero."
+ },
+ {
+  "id": "v1-0644",
+  "hook": "Inspect (閲) and look (覧): browsing, reading documents."
+ },
+ {
+  "id": "v1-0645",
+  "hook": "Things (物) you catch (獲): game, prey, spoils."
+ },
+ {
+  "id": "v1-0646",
+  "hook": "襟 has 衤 (clothing): the part of clothes around the neck, the collar."
+ },
+ {
+  "id": "v1-0648",
+  "hook": "Round (円) and slippery (滑): smooth, without trouble."
+ },
+ {
+  "id": "v1-0650",
+  "hook": "Along (沿) the shore (岸): coast."
+ },
+ {
+  "id": "v1-0651",
+  "hook": "Graceful (婉) and bent (曲): saying it indirectly, not straight."
+ },
+ {
+  "id": "v1-0652",
+  "hook": "Perform (演) and bring out (出): direction or production of a show."
+ },
+ {
+  "id": "v1-0654",
+  "hook": "演 means perform: to act a role."
+ },
+ {
+  "id": "v1-0655",
+  "hook": "Older form of 演じる: 演 means perform, to play a role."
+ },
+ {
+  "id": "v1-0656",
+  "hook": "Along (沿) the line (線): areas along a railway line."
+ },
+ {
+  "id": "v1-0657",
+  "hook": "Talk (談) of a bond (縁): a marriage proposal."
+ },
+ {
+  "id": "v1-0658",
+  "hook": "Far (遠) direction (方): a distant place."
+ },
+ {
+  "id": "v1-0659",
+  "hook": "Round (円) and full (満): peaceful and harmonious."
+ },
+ {
+  "id": "v1-0660",
+  "hook": "Chase (追い) into (込む): to drive into a corner."
+ },
+ {
+  "id": "v1-0661",
+  "hook": "Chase (追い) out (出す): to kick out."
+ },
+ {
+  "id": "v1-0662",
+  "hook": "於 means at or in: において marks where or when something happens."
+ },
+ {
+  "id": "v1-0663",
+  "hook": "老 means old: to grow old."
+ },
+ {
+  "id": "v1-0664",
+  "hook": "Respond (応) to something urgent (急): emergency, first aid."
+ },
+ {
+  "id": "v1-0665",
+  "hook": "Yellow (黄) metal (金): gold."
+ },
+ {
+  "id": "v1-0666",
+  "hook": "Go (往) and examine (診): a doctor's house call."
+ },
+ {
+  "id": "v1-0669",
+  "hook": "The big (大) side (方): most, the majority."
+ },
+ {
+  "id": "v1-0670",
+  "hook": "Big (大) pattern or build (柄): large-bodied, or a big design."
+ },
+ {
+  "id": "v1-0672",
+  "hook": "The big (大) line (筋): the outline."
+ },
+ {
+  "id": "v1-0673",
+  "hook": "Big (大) sky (空): the wide sky."
+ },
+ {
+  "id": "v1-0677",
+  "hook": "Big (大) water (水): a flood."
+ },
+ {
+  "id": "v1-0679",
+  "hook": "犯 means crime: to commit a crime or break a rule."
+ },
+ {
+  "id": "v1-0680",
+  "hook": "侵 means invade: to invade someone's land or rights."
+ },
+ {
+  "id": "v1-0681",
+  "hook": "Timid (臆) sickness (病): cowardice."
+ },
+ {
+  "id": "v1-0682",
+  "hook": "遅 means late: to make late, delay."
+ },
+ {
+  "id": "v1-0683",
+  "hook": "厳 means strict, solemn: dignified and solemn."
+ },
+ {
+  "id": "v1-0686",
+  "hook": "収 means collect, put away: to fit into place, settle."
+ },
+ {
+  "id": "v1-0687",
+  "hook": "納 means store, deliver: to be put away properly, settled."
+ },
+ {
+  "id": "v1-0688",
+  "hook": "治 means govern, cure: to calm down, be at peace."
+ },
+ {
+  "id": "v1-0689",
+  "hook": "産 means give birth: childbirth."
+ },
+ {
+  "id": "v1-0690",
+  "hook": "Push (押し) and cut (切る) through: get your own way despite objections."
+ },
+ {
+  "id": "v1-0692",
+  "hook": "惜 means regret, value: to regret losing, or use something carefully."
+ }
+]

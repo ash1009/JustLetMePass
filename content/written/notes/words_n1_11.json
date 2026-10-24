@@ -1,0 +1,478 @@
+[
+ {
+  "id": "v1-2514",
+  "hook": "Need (要) + hope (望): what you need and hope for becomes a request."
+ },
+ {
+  "id": "v1-2515",
+  "hook": "Extra (余) + free time (暇): your leftover free time is leisure."
+ },
+ {
+  "id": "v1-2517",
+  "hook": "Extra (余) + fun (興): extra fun at a party, the side entertainment."
+ },
+ {
+  "id": "v1-2518",
+  "hook": "Leave in care (預) + money (金): money you leave with the bank, a deposit."
+ },
+ {
+  "id": "v1-2520",
+  "hook": "Hold down (抑) + pressure (圧): pressing people down hard, oppression."
+ },
+ {
+  "id": "v1-2521",
+  "hook": "Bathe (浴) + room (室): the room where you bathe."
+ },
+ {
+  "id": "v1-2522",
+  "hook": "Hold down (抑) + control (制): holding something down to keep it under control."
+ },
+ {
+  "id": "v1-2523",
+  "hook": "Desire (欲) + deep (深い): someone whose wants go very deep is greedy."
+ },
+ {
+  "id": "v1-2524",
+  "hook": "Want (欲) + wish (望): strong wants and wishes, desire."
+ },
+ {
+  "id": "v1-2526",
+  "hook": "Before (予) + words (言): words said before it happens, a prediction."
+ },
+ {
+  "id": "v1-2530",
+  "hook": "Good (良): shout 'Yoshi!' when something is good, all right!"
+ },
+ {
+  "id": "v1-2531",
+  "hook": "Good (善し) + bad (悪し): the good and bad points of something."
+ },
+ {
+  "id": "v1-2532",
+  "hook": "Another place (余所) + look (見): looking at another place, looking away."
+ },
+ {
+  "id": "v1-2533",
+  "hook": "Extra (余) + ground (地): extra ground left over, room or margin."
+ },
+ {
+  "id": "v1-2535",
+  "hook": "Take part (与) + party (党): the party that takes part in governing, the ruling party."
+ },
+ {
+  "id": "v1-2536",
+  "hook": "Call (呼び) + stop (止める): call out to someone to make them stop."
+ },
+ {
+  "id": "v1-2537",
+  "hook": "Night (夜) + grow late (更し): letting the night grow late, staying up late."
+ },
+ {
+  "id": "v1-2538",
+  "hook": "Night (夜) + grow late (更け): the deep, late part of the night."
+ },
+ {
+  "id": "v1-2539",
+  "hook": "Extra (余) + degree (程): to an extra degree, very much."
+ },
+ {
+  "id": "v1-2540",
+  "hook": "Read (読み) + raise (上げる): read it up and out loud for everyone."
+ },
+ {
+  "id": "v1-2542",
+  "hook": "Come close (寄り) + hang (掛かる): move close and hang your weight on it, lean."
+ },
+ {
+  "id": "v1-2543",
+  "hook": "Society (世) + opinion (論): what society thinks, public opinion."
+ },
+ {
+  "id": "v1-2544",
+  "hook": "Weak (弱): to become weak, or to be in a weak spot (troubled)."
+ },
+ {
+  "id": "v1-2545",
+  "hook": "Come (来) + place (場): coming to the place or venue, attendance."
+ },
+ {
+  "id": "v1-2547",
+  "hook": "Milk products (酪) + farming (農): dairy farming."
+ },
+ {
+  "id": "v1-2548",
+  "hook": "Fall (落) + down (下): falling down, a drop."
+ },
+ {
+  "id": "v1-2549",
+  "hook": "Easy, happy (楽) + view (観): a happy view of things, optimism."
+ },
+ {
+  "id": "v1-2551",
+  "hook": "Too much (濫) + use (用): using something too much, misuse."
+ },
+ {
+  "id": "v1-2553",
+  "hook": "Logic (理) bent (屈) to fit your side: a reason or theory, often an excuse."
+ },
+ {
+  "id": "v1-2554",
+  "hook": "Profit (利) + child (子): the 'child' your money gives birth to, interest."
+ },
+ {
+  "id": "v1-2555",
+  "hook": "Profit (利) + enrich (潤): profit that makes you rich, returns."
+ },
+ {
+  "id": "v1-2556",
+  "hook": "Logic (理) + nature (性): the logical part of your nature, reason."
+ },
+ {
+  "id": "v1-2557",
+  "hook": "Profit (利) + breath (息): your money 'breathes out' more money, interest."
+ },
+ {
+  "id": "v1-2558",
+  "hook": "Stand (立) + body (体): a body that stands up in 3D, a solid."
+ },
+ {
+  "id": "v1-2559",
+  "hook": "Stand (立) + square (方): a square that stands up in 3D, a cube."
+ },
+ {
+  "id": "v1-2560",
+  "hook": "Set up (立) + law (法): setting up laws, lawmaking."
+ },
+ {
+  "id": "v1-2561",
+  "hook": "Benefit (利) + point (点): a good point, an advantage."
+ },
+ {
+  "id": "v1-2562",
+  "hook": "Seize (略) + snatch (奪): grabbing things by force, looting."
+ },
+ {
+  "id": "v1-2563",
+  "hook": "Shorten (略) + word (語): a shortened word, an abbreviation."
+ },
+ {
+  "id": "v1-2564",
+  "hook": "Flow (流) + pass through (通): goods and money flowing through, distribution."
+ },
+ {
+  "id": "v1-2565",
+  "hook": "Rule (領) + area (域): an area you rule, a territory or field."
+ },
+ {
+  "id": "v1-2567",
+  "hook": "Territory (領) + sea (海): the sea a country owns."
+ },
+ {
+  "id": "v1-2568",
+  "hook": "Both (両) + pole (極): both poles, both extremes."
+ },
+ {
+  "id": "v1-2569",
+  "hook": "Good (良) + like (好): good and liked, going well."
+ },
+ {
+  "id": "v1-2570",
+  "hook": "Good (良) + knowledge (識): good judgement, good sense."
+ },
+ {
+  "id": "v1-2571",
+  "hook": "Good (良) + quality (質): good quality."
+ },
+ {
+  "id": "v1-2573",
+  "hook": "Good (良) + heart (心): the good heart inside you, your conscience."
+ },
+ {
+  "id": "v1-2574",
+  "hook": "Rule (領) + land (地): land that someone rules, territory."
+ },
+ {
+  "id": "v1-2575",
+  "hook": "Rule (領) + soil (土): the soil a country rules, its territory."
+ },
+ {
+  "id": "v1-2576",
+  "hook": "Both (両) + stand (立): two things both standing together, doing both well."
+ },
+ {
+  "id": "v1-2577",
+  "hook": "Travel (旅) + guest (客): a travelling guest, a passenger."
+ },
+ {
+  "id": "v1-2578",
+  "hook": "Travel (旅) + ticket (券): your ticket to travel abroad, a passport."
+ },
+ {
+  "id": "v1-2580",
+  "hook": "Logic (理) + argument (論): a logical argument, a theory."
+ },
+ {
+  "id": "v1-2581",
+  "hook": "Woods (林) + industry (業): the work of forests, forestry."
+ },
+ {
+  "id": "v1-2583",
+  "hook": "Similar kind (類) + infer (推): guessing from similar cases, analogy."
+ },
+ {
+  "id": "v1-2584",
+  "hook": "Kind (類) + resemble (似): of a similar kind, alike."
+ },
+ {
+  "id": "v1-2586",
+  "hook": "Cold (冷) + cruel (酷): cold and cruel, ruthless."
+ },
+ {
+  "id": "v1-2588",
+  "hook": "Cold (冷) + faint (淡): cold, faint feelings, indifference."
+ },
+ {
+  "id": "v1-2597",
+  "hook": "Start (発) + illness (病): the moment an illness starts."
+ },
+ {
+  "id": "v1-2598",
+  "hook": "First (初) + ear (耳): something your ears hear for the first time."
+ },
+ {
+  "id": "v1-2600",
+  "hook": "End (果): to come to the very end, be finished or worn out."
+ },
+ {
+  "id": "v1-2603",
+  "hook": "甚 means extreme: はなはだ means extremely, very greatly."
+ },
+ {
+  "id": "v1-2604",
+  "hook": "Flowery splendor (華) said twice: full of splendor, brilliant and spectacular."
+ },
+ {
+  "id": "v1-2606",
+  "hook": "Flowery splendor (華): bright and gorgeous like flowers (はな)."
+ },
+ {
+  "id": "v1-2607",
+  "hook": "阻 means block: to block someone, stop them from doing something."
+ },
+ {
+  "id": "v1-2609",
+  "hook": "Beach (浜) + side (辺): the edge of the beach, the shore."
+ },
+ {
+  "id": "v1-2611",
+  "hook": "Early, fast (早): to make something earlier or faster."
+ },
+ {
+  "id": "v1-2612",
+  "hook": "Belly (腹) + stand up (立ち): your belly 'stands up' when you get angry."
+ },
+ {
+  "id": "v1-2613",
+  "hook": "Field, plain (原): a wide open field where kids play."
+ },
+ {
+  "id": "v1-2617",
+  "hook": "Far off (遥): far, far away, distant."
+ },
+ {
+  "id": "v1-2618",
+  "hook": "Break (破) + split (裂): breaking and splitting open, bursting."
+ },
+ {
+  "id": "v1-2619",
+  "hook": "Sounds like 晴れる, but 腫 (flesh radical 月) means swelling: your skin swells up."
+ },
+ {
+  "id": "v1-2620",
+  "hook": "Grow thick (繁) + flourish (栄): growing and flourishing, prosperity."
+ },
+ {
+  "id": "v1-2621",
+  "hook": "Printing block (版) + picture (画): a picture printed from a block."
+ },
+ {
+  "id": "v1-2623",
+  "hook": "Against (反) + feeling (感): a feeling against someone, dislike."
+ },
+ {
+  "id": "v1-2624",
+  "hook": "Back (反) + echo (響): sound coming back, an echo or response."
+ },
+ {
+  "id": "v1-2626",
+  "hook": "Back (反) + attack (撃): attacking back, a counterattack."
+ },
+ {
+  "id": "v1-2627",
+  "hook": "Judge (判) + decide (決): the judge's decision, the verdict."
+ },
+ {
+  "id": "v1-2629",
+  "hook": "Busy, thick (繁) + full (盛): a shop busy and full, thriving."
+ },
+ {
+  "id": "v1-2630",
+  "hook": "Grow thick (繁) + increase (殖): increasing in number, breeding."
+ },
+ {
+  "id": "v1-2637",
+  "hook": "Half (半) + edge (端): stopped halfway at the edge, incomplete."
+ },
+ {
+  "id": "v1-2638",
+  "hook": "Back (反) + shoot out (発): shooting back, pushing back against."
+ },
+ {
+  "id": "v1-2639",
+  "hook": "Against (反) + disorder (乱): rising against rulers in disorder, rebellion."
+ },
+ {
+  "id": "v1-2640",
+  "hook": "Spread (氾) + overflow (濫): both have water (氵), water spreading over, a flood."
+ },
+ {
+  "id": "v1-2644",
+  "hook": "Hold back, wait (控) + room (室): the room where you wait."
+ },
+ {
+  "id": "v1-2646",
+  "hook": "Sad (悲) + view (観): a sad view of things, pessimism (opposite of 楽観)."
+ },
+ {
+  "id": "v1-2647",
+  "hook": "Pull (引き) + up (上げる): pull up and pull out, withdraw."
+ },
+ {
+  "id": "v1-2648",
+  "hook": "率 means lead: it sounds like 引き (pull) + いる, you pull your team along."
+ },
+ {
+  "id": "v1-2649",
+  "hook": "Pull (引き) + raise up (起こす): pull something up into happening, to cause."
+ },
+ {
+  "id": "v1-2650",
+  "hook": "Pull (引) + lower (下げる): pull down, lower."
+ },
+ {
+  "id": "v1-2651",
+  "hook": "Pull (引き) + 'zuru', the sound of dragging: drag something along."
+ },
+ {
+  "id": "v1-2652",
+  "hook": "Pull (引) + take (取る): take something back into your care, or take yourself away."
+ },
+ {
+  "id": "v1-2653",
+  "hook": "No (否) + decide (決): decide no, vote it down."
+ },
+ {
+  "id": "v1-2656",
+  "hook": "Sad (悲) + miserable (惨): terribly sad and miserable, tragic."
+ },
+ {
+  "id": "v1-2658",
+  "hook": "Compare (比) + weight (重): comparing weights, specific gravity."
+ },
+ {
+  "id": "v1-2660",
+  "hook": "Secret (秘) + writing (書): the person who handles secret papers, a secretary."
+ },
+ {
+  "id": "v1-2662",
+  "hook": "Not (不) + straight (正) make 歪: not straight, warped."
+ },
+ {
+  "id": "v1-2663",
+  "hook": "Secret (密): done in secret, privately."
+ },
+ {
+  "id": "v1-2664",
+  "hook": "浸 has water (氵): put something in water, soak or dip it."
+ },
+ {
+  "id": "v1-2666",
+  "hook": "Left (左) + works well (利き): your left hand works best, left-handed."
+ },
+ {
+  "id": "v1-2667",
+  "hook": "Pull (引っ) + scratch (掻く): drag your nails, scratch."
+ },
+ {
+  "id": "v1-2668",
+  "hook": "Must (必) + study (修): a subject you must study, required."
+ },
+ {
+  "id": "v1-2670",
+  "hook": "Must (必) + so (然): it must be so, inevitable."
+ },
+ {
+  "id": "v1-2671",
+  "hook": "Match (匹) + rival (敵): a match for your rival, equal to them."
+ },
+ {
+  "id": "v1-2672",
+  "hook": "One (一) + breath (息): one breath, a short pause."
+ },
+ {
+  "id": "v1-2676",
+  "hook": "One (一) + time (頃): at one time back then, once."
+ },
+ {
+  "id": "v1-2677",
+  "hook": "Person (人) + pledge (質): a person held as a pledge, a hostage."
+ },
+ {
+  "id": "v1-2678",
+  "hook": "One (一) + line (筋): one single line, following one path with all your heart."
+ },
+ {
+  "id": "v1-2681",
+  "hook": "雛 has 隹 (bird): a young bird, a chick, or a doll."
+ },
+ {
+  "id": "v1-2682",
+  "hook": "Doll (雛) + festival (祭): the doll festival for girls on March 3."
+ },
+ {
+  "id": "v1-2683",
+  "hook": "Sun (日) + facing (向): a place facing the sun, in the sun."
+ },
+ {
+  "id": "v1-2684",
+  "hook": "Wrong (非) + find fault (難): saying someone did wrong, criticism."
+ },
+ {
+  "id": "v1-2686",
+  "hook": "Sun (日) + circle (丸): the red sun circle, Japan's flag."
+ },
+ {
+  "id": "v1-2687",
+  "hook": "Fire (火) + flower (花): little flowers of fire, sparks."
+ },
+ {
+  "id": "v1-2689",
+  "hook": "Sad (悲) + cry (鳴): a cry of pain or fear, a scream."
+ },
+ {
+  "id": "v1-2690",
+  "hook": "Cool (冷): cool someone off by teasing them, make fun of."
+ },
+ {
+  "id": "v1-2692",
+  "hook": "Mark, sign (標) + words (語): words on a sign, a slogan."
+ },
+ {
+  "id": "v1-2696",
+  "hook": "Flat (平): flat and even."
+ },
+ {
+  "id": "v1-2698",
+  "hook": "Compare (比) + rate (率): a rate found by comparing, a ratio."
+ }
+]

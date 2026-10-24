@@ -1,0 +1,802 @@
+[
+ {
+  "id": "v1-1000",
+  "hook": "Draw near (寄) and give (与): you step in and give something, a contribution."
+ },
+ {
+  "id": "v1-1003",
+  "hook": "Surprise (驚) at something strange (異): a wonder that amazes you."
+ },
+ {
+  "id": "v1-1005",
+  "hook": "Cooperate (協) and meet (会): people working together form an association."
+ },
+ {
+  "id": "v1-1006",
+  "hook": "Study (学) together (共): boys and girls learning in the same school."
+ },
+ {
+  "id": "v1-1007",
+  "hook": "Feel (感) together (共): you share someone's feelings, sympathy."
+ },
+ {
+  "id": "v1-1008",
+  "hook": "Boundary (境) + meet with (遇): the situation you find yourself in, your circumstances."
+ },
+ {
+  "id": "v1-1009",
+  "hook": "Teach (教) + instruct (訓): something that teaches you, a lesson or moral."
+ },
+ {
+  "id": "v1-1010",
+  "hook": "Strong (強) + go (行): push ahead by force, even when others say no."
+ },
+ {
+  "id": "v1-1011",
+  "hook": "Strong (強) and hard (硬): a firm, stubborn position that will not bend."
+ },
+ {
+  "id": "v1-1012",
+  "hook": "Teach (教) + material (材): the materials used for teaching."
+ },
+ {
+  "id": "v1-1013",
+  "hook": "Bad luck (凶) + crop (作): a bad harvest."
+ },
+ {
+  "id": "v1-1015",
+  "hook": "Teach (教) + learn (習): training, like lessons at a driving school (教習所)."
+ },
+ {
+  "id": "v1-1016",
+  "hook": "Home village (郷) + sorrow (愁): sad longing for home, nostalgia."
+ },
+ {
+  "id": "v1-1017",
+  "hook": "Teach (教) + job (職): the teaching profession."
+ },
+ {
+  "id": "v1-1018",
+  "hook": "Fun, interest (興), as in 興味: to enjoy yourself with something."
+ },
+ {
+  "id": "v1-1019",
+  "hook": "Strong (強) + control (制): forcing someone to do it, compulsion."
+ },
+ {
+  "id": "v1-1022",
+  "hook": "Exist (存) together (共): coexistence."
+ },
+ {
+  "id": "v1-1023",
+  "hook": "Cooperate (協) and decide (定): an agreement both sides fix together."
+ },
+ {
+  "id": "v1-1024",
+  "hook": "Home village (郷) + soil (土): the land you come from, your homeland."
+ },
+ {
+  "id": "v1-1025",
+  "hook": "Threaten (脅) and press (迫): a threat to force someone."
+ },
+ {
+  "id": "v1-1027",
+  "hook": "Sound (鳴) together (共): resonance; your heart echoes their idea, sympathy."
+ },
+ {
+  "id": "v1-1028",
+  "hook": "Home village (郷) + village (里): your home town."
+ },
+ {
+  "id": "v1-1029",
+  "hook": "Strong (強) + fierce (烈): very intense."
+ },
+ {
+  "id": "v1-1030",
+  "hook": "Together (共) in harmony (和): cooperation; 共和国 is a republic."
+ },
+ {
+  "id": "v1-1031",
+  "hook": "Part (局) + limit (限): keep something limited to one part, localize."
+ },
+ {
+  "id": "v1-1032",
+  "hook": "Extreme (極) end (端): going all the way to the end, extreme."
+ },
+ {
+  "id": "v1-1033",
+  "hook": "Stay (居) + live (住): where you live, residence."
+ },
+ {
+  "id": "v1-1034",
+  "hook": "Refuse (拒) and cut off (絶): a flat rejection."
+ },
+ {
+  "id": "v1-1036",
+  "hook": "Fishing (漁) + village (村): a fishing village."
+ },
+ {
+  "id": "v1-1037",
+  "hook": "Refuse (拒) + no (否): saying no, rejection."
+ },
+ {
+  "id": "v1-1038",
+  "hook": "Permit (許) + accept (容): allow, tolerate."
+ },
+ {
+  "id": "v1-1042",
+  "hook": "Duty (義) + reason (理): the duty you owe someone, obligation."
+ },
+ {
+  "id": "v1-1043",
+  "hook": "Cut (切) and replace (替): switch over from one thing to another."
+ },
+ {
+  "id": "v1-1044",
+  "hook": "Air (気) + flow (流): an air current."
+ },
+ {
+  "id": "v1-1045",
+  "hook": "Cut (切れ) + point (目): the point where something is cut, a gap or break."
+ },
+ {
+  "id": "v1-1046",
+  "hook": "Doubt (疑) + confused (惑): suspicion."
+ },
+ {
+  "id": "v1-1047",
+  "hook": "Extreme (極), as in 極端: to the extreme, exceedingly."
+ },
+ {
+  "id": "v1-1048",
+  "hook": "Near (近) + eye (眼): eyes that only see near things, nearsighted."
+ },
+ {
+  "id": "v1-1050",
+  "hook": "Near (近) + suburbs (郊): the outskirts near a city."
+ },
+ {
+  "id": "v1-1051",
+  "hook": "Even (均) + balance (衡): equilibrium."
+ },
+ {
+  "id": "v1-1053",
+  "hook": "Work hard (勤) + strive (勉), as in 勉強: diligence."
+ },
+ {
+  "id": "v1-1054",
+  "hook": "Chant (吟) + taste (味): taste and test carefully, close examination."
+ },
+ {
+  "id": "v1-1056",
+  "hook": "Forbidden (禁) + thing (物): something you must avoid, taboo."
+ },
+ {
+  "id": "v1-1057",
+  "hook": "Work (勤) + labour (労): hard, diligent work."
+ },
+ {
+  "id": "v1-1059",
+  "hook": "Bite (食い) wrong (違う): like teeth that do not meet, stories that differ."
+ },
+ {
+  "id": "v1-1061",
+  "hook": "Empty (空) + stomach (腹): hunger."
+ },
+ {
+  "id": "v1-1062",
+  "hook": "Ward (区) + draw a line (画): a section of land divided by lines."
+ },
+ {
+  "id": "v1-1063",
+  "hook": "Section (区) + between (間): the stretch between two points."
+ },
+ {
+  "id": "v1-1064",
+  "hook": "茎 has grass (艹) on top: the stalk of a plant."
+ },
+ {
+  "id": "v1-1071",
+  "hook": "Mouth (口) + chant (吟): to hum or sing quietly to yourself."
+ },
+ {
+  "id": "v1-1072",
+  "hook": "Mouth (口) with horn (角) inside the kanji: a hard, horn-like mouth, a beak."
+ },
+ {
+  "id": "v1-1073",
+  "hook": "朽 has tree (木) on the left: old wood that rots away."
+ },
+ {
+  "id": "v1-1074",
+  "hook": "Cover (覆): flip the cover over, overturn."
+ },
+ {
+  "id": "v1-1076",
+  "hook": "Bend (屈) + fold (折): light bending, refraction."
+ },
+ {
+  "id": "v1-1078",
+  "hook": "Neck (首) + decoration (飾り): a necklace."
+ },
+ {
+  "id": "v1-1080",
+  "hook": "Assemble (組み) + put into (込む): build something into a whole."
+ },
+ {
+  "id": "v1-1081",
+  "hook": "Assemble (組み) + put together (合わせる): combine."
+ },
+ {
+  "id": "v1-1085",
+  "hook": "Deep, dark (玄) + person (人): someone deep in the craft, an expert."
+ },
+ {
+  "id": "v1-1086",
+  "hook": "Black (黒) + characters (字): profit is written in black ink, in the black."
+ },
+ {
+  "id": "v1-1087",
+  "hook": "Army (軍) + warship (艦): a warship."
+ },
+ {
+  "id": "v1-1088",
+  "hook": "Army (軍) + matters (事): military affairs."
+ },
+ {
+  "id": "v1-1089",
+  "hook": "Lord (君) + master (主): a monarch."
+ },
+ {
+  "id": "v1-1090",
+  "hook": "Group (群) + gather (集): people gathered in a crowd."
+ },
+ {
+  "id": "v1-1091",
+  "hook": "Group (群) + the masses (衆): a crowd of people."
+ },
+ {
+  "id": "v1-1092",
+  "hook": "Army (軍) + prepare (備): military preparations, arms."
+ },
+ {
+  "id": "v1-1093",
+  "hook": "Army (軍) + clothes (服): a military uniform."
+ },
+ {
+  "id": "v1-1095",
+  "hook": "Pass through (経) + pass (過): time passing, progress."
+ },
+ {
+  "id": "v1-1096",
+  "hook": "Light (軽) + pleasant (快): light and lively."
+ },
+ {
+  "id": "v1-1097",
+  "hook": "Warn (警) + guard against (戒): vigilance."
+ },
+ {
+  "id": "v1-1098",
+  "hook": "Respectfully (敬) stated (具): the formal 'Sincerely' that closes a letter."
+ },
+ {
+  "id": "v1-1099",
+  "hook": "Lighten (軽) + reduce (減): reduction."
+ },
+ {
+  "id": "v1-1100",
+  "hook": "Put up (掲) + carry (載): carry an article in a paper."
+ },
+ {
+  "id": "v1-1101",
+  "hook": "Lean (傾) + slant (斜): a slope."
+ },
+ {
+  "id": "v1-1102",
+  "hook": "Shape (形) + become (成): taking shape, formation."
+ },
+ {
+  "id": "v1-1103",
+  "hook": "Shape (形) + force (勢): how things stand, the situation."
+ },
+ {
+  "id": "v1-1105",
+  "hook": "Punishment (刑) + penalty (罰)."
+ },
+ {
+  "id": "v1-1106",
+  "hook": "Manage (経) + expense (費): running costs."
+ },
+ {
+  "id": "v1-1107",
+  "hook": "Guard (警), as in 警察 (police), + section (部): a police inspector."
+ },
+ {
+  "id": "v1-1108",
+  "hook": "Turn (転) + exchange (換): turn into something else, convert."
+ },
+ {
+  "id": "v1-1109",
+  "hook": "Move (転) + residence (居): moving house."
+ },
+ {
+  "id": "v1-1111",
+  "hook": "Point (点) + examine (検): check point by point, inspection."
+ },
+ {
+  "id": "v1-1113",
+  "hook": "Heaven (天) + country (国): paradise."
+ },
+ {
+  "id": "v1-1114",
+  "hook": "Heaven (天) + talent (才): a talent from heaven, a genius."
+ },
+ {
+  "id": "v1-1115",
+  "hook": "Heaven (天) + disaster (災): a natural disaster."
+ },
+ {
+  "id": "v1-1116",
+  "hook": "Spread out (展) + show (示): an exhibition."
+ },
+ {
+  "id": "v1-1117",
+  "hook": "Pass on (伝) + story (説): a story passed down, legend."
+ },
+ {
+  "id": "v1-1118",
+  "hook": "Dot (点) + line (線): a dotted line."
+ },
+ {
+  "id": "v1-1119",
+  "hook": "Turn (転), as in 回転: to turn or shift direction."
+ },
+ {
+  "id": "v1-1120",
+  "hook": "Turn (転), the older form of 転じる: to turn or shift."
+ },
+ {
+  "id": "v1-1121",
+  "hook": "Sky (天) + body (体): stars and planets."
+ },
+ {
+  "id": "v1-1122",
+  "hook": "Pass on (伝) + reach (達): pass a message until it arrives."
+ },
+ {
+  "id": "v1-1123",
+  "hook": "Heaven (天) and earth (地): the whole universe."
+ },
+ {
+  "id": "v1-1125",
+  "hook": "Move (転) + post (任): change of post."
+ },
+ {
+  "id": "v1-1126",
+  "hook": "Spread out (展) + look far (望): a wide view, outlook."
+ },
+ {
+  "id": "v1-1127",
+  "hook": "Pass on (伝) + come (来): handed down, or brought in from abroad."
+ },
+ {
+  "id": "v1-1128",
+  "hook": "Roll (転) + fall (落): tumble down, a fall."
+ },
+ {
+  "id": "v1-1131",
+  "hook": "Flesh (月) + same (同), which gives the sound どう: the trunk of the body."
+ },
+ {
+  "id": "v1-1132",
+  "hook": "Same (同) + mind (意): agreement."
+ },
+ {
+  "id": "v1-1133",
+  "hook": "Move (動) + members (員): get people moving, mobilize."
+ },
+ {
+  "id": "v1-1134",
+  "hook": "Same (同) + feeling (感): I feel the same."
+ },
+ {
+  "id": "v1-1135",
+  "hook": "Pottery (陶) + vessel (器): ceramics."
+ },
+ {
+  "id": "v1-1136",
+  "hook": "Discuss (討) + debate (議): a discussion."
+ },
+ {
+  "id": "v1-1137",
+  "hook": "Move (動) + trigger (機): what moves you to act, a motive."
+ },
+ {
+  "id": "v1-1138",
+  "hook": "Rank (等) + grade (級): a class or grade."
+ },
+ {
+  "id": "v1-1140",
+  "hook": "Same (同) + residence (居): living together."
+ },
+ {
+  "id": "v1-1141",
+  "hook": "Go up to (登) + school (校): attending school."
+ },
+ {
+  "id": "v1-1142",
+  "hook": "Unite (統) + combine (合): integration."
+ },
+ {
+  "id": "v1-1143",
+  "hook": "Move (動) + direction (向): which way things move, a trend."
+ },
+ {
+  "id": "v1-1147",
+  "hook": "Govern (統) + control (制): regulation."
+ },
+ {
+  "id": "v1-1148",
+  "hook": "Hit (当) + choose (選): you hit the target and get chosen, win."
+ },
+ {
+  "id": "v1-1149",
+  "hook": "Escape (逃) + run (走): running away."
+ },
+ {
+  "id": "v1-1150",
+  "hook": "Unite (統) + lead (率): leadership."
+ },
+ {
+  "id": "v1-1151",
+  "hook": "Arrive (到) + reach (達): reaching a goal."
+ },
+ {
+  "id": "v1-1152",
+  "hook": "Govern (統) + rule (治): governing a country."
+ },
+ {
+  "id": "v1-1153",
+  "hook": "Do (仕) + cut (切る): cut a space into parts, or run the show."
+ },
+ {
+  "id": "v1-1155",
+  "hook": "軸 has vehicle (車) on the left: the axle of a wheel, an axis."
+ },
+ {
+  "id": "v1-1158",
+  "hook": "Death (死) + punishment (刑): the death penalty."
+ },
+ {
+  "id": "v1-1159",
+  "hook": "Damp (湿) + air (気): to go damp."
+ },
+ {
+  "id": "v1-1160",
+  "hook": "Carry out (施) + do (行): put a law into effect."
+ },
+ {
+  "id": "v1-1162",
+  "hook": "Aim (志) + toward (向): where your aim points, intention."
+ },
+ {
+  "id": "v1-1163",
+  "hook": "Enjoy (嗜) + like (好): your taste, preference."
+ },
+ {
+  "id": "v1-1165",
+  "hook": "Time (時) + moment (刻) + table (表): a timetable."
+ },
+ {
+  "id": "v1-1166",
+  "hook": "Earth (地) + prison (獄): a prison under the ground, hell."
+ },
+ {
+  "id": "v1-1168",
+  "hook": "Self (自) + be (在): as you yourself wish, freely."
+ },
+ {
+  "id": "v1-1169",
+  "hook": "Look (視) + observe (察): inspection."
+ },
+ {
+  "id": "v1-1170",
+  "hook": "Resources (資) + property (産): assets."
+ },
+ {
+  "id": "v1-1172",
+  "hook": "Self (自) + master (主): being your own master, independence."
+ },
+ {
+  "id": "v1-1173",
+  "hook": "Self (自) + 首 (here: confess): you confess yourself, give yourself up."
+ },
+ {
+  "id": "v1-1174",
+  "hook": "Pierce (刺) + embroider (繍): stitching with a needle."
+ },
+ {
+  "id": "v1-1176",
+  "hook": "Quit (辞) + job (職): resignation."
+ },
+ {
+  "id": "v1-1177",
+  "hook": "Rain (雨) above, down (下) below: a drop falling down."
+ },
+ {
+  "id": "v1-1179",
+  "hook": "Sink (沈): to make something sink."
+ },
+ {
+  "id": "v1-1182",
+  "hook": "Child (子) + son (息), as in 息子: someone's son (polite)."
+ },
+ {
+  "id": "v1-1184",
+  "hook": "Self (自) + respect (尊) + heart (心): self-respect."
+ },
+ {
+  "id": "v1-1185",
+  "hook": "慕 has heart (㣺) at the bottom: a heart that longs for someone."
+ },
+ {
+  "id": "v1-1186",
+  "hook": "Under (下) + heart (心): the intention hidden under the surface."
+ },
+ {
+  "id": "v1-1187",
+  "hook": "Under (下) + ground (地): the base layer, groundwork."
+ },
+ {
+  "id": "v1-1188",
+  "hook": "Intimate (親), as in 親しい: to get close to, befriend."
+ },
+ {
+  "id": "v1-1189",
+  "hook": "Preparatory (下) + investigate (調べ): research done before the real work."
+ },
+ {
+  "id": "v1-1190",
+  "hook": "Love (愛) + thought (想): a friendly, sociable manner."
+ },
+ {
+  "id": "v1-1191",
+  "hook": "Between (間) + pattern (柄): the kind of link between people."
+ },
+ {
+  "id": "v1-1192",
+  "hook": "Meet (合) + gap (間): a short gap between things."
+ },
+ {
+  "id": "v1-1193",
+  "hook": "Daring (敢): to dare to do something."
+ },
+ {
+  "id": "v1-1194",
+  "hook": "Look up (仰): to look up at, respect."
+ },
+ {
+  "id": "v1-1195",
+  "hook": "垢 has earth (土) on the left: dirt and grime on skin."
+ },
+ {
+  "id": "v1-1196",
+  "hook": "Red (赤) + characters (字): losses written in red ink, a deficit."
+ },
+ {
+  "id": "v1-1197",
+  "hook": "Bright (明): bring to light, reveal; or stay up until it is light."
+ },
+ {
+  "id": "v1-1198",
+  "hook": "Red (赤): to turn red, blush."
+ },
+ {
+  "id": "v1-1203",
+  "hook": "顎 has head (頁) on the right: the chin, part of the head."
+ },
+ {
+  "id": "v1-1204",
+  "hook": "Heart (忄) + child (童): a child's heart longing for something."
+ },
+ {
+  "id": "v1-1205",
+  "hook": "Hemp plants drying under a roof (广): hemp, a plant used for cloth and rope."
+ },
+ {
+  "id": "v1-1207",
+  "hook": "Shallow (浅): a shallow, mean, shameful act."
+ },
+ {
+  "id": "v1-1208",
+  "hook": "Deceive (欺), as in 詐欺 (fraud): to trick someone."
+ },
+ {
+  "id": "v1-1209",
+  "hook": "Fresh (鮮), with fish (魚) inside: bright and vivid like fresh fish."
+ },
+ {
+  "id": "v1-1210",
+  "hook": "Mock (嘲) + laugh (笑う): to sneer at."
+ },
+ {
+  "id": "v1-1211",
+  "hook": "Not (ず) badly (悪し): please don't take it badly, sorry."
+ },
+ {
+  "id": "v1-1213",
+  "hook": "Scorch (焦): like something burning, you feel rushed."
+ },
+ {
+  "id": "v1-1216",
+  "hook": "Value (値) + do (する): to be worth."
+ },
+ {
+  "id": "v1-1218",
+  "hook": "Handle (扱): how you handle someone, treatment."
+ },
+ {
+  "id": "v1-1219",
+  "hook": "Stunned (呆): it ends so fast you are left stunned, too quick."
+ },
+ {
+  "id": "v1-1221",
+  "hook": "Turn (斡) + revolve (旋): going round helping people, mediation."
+ },
+ {
+  "id": "v1-1222",
+  "hook": "Press (圧) + knock down (倒): overwhelm."
+ },
+ {
+  "id": "v1-1223",
+  "hook": "Press (圧) + press close (迫): pressure, oppression."
+ },
+ {
+  "id": "v1-1225",
+  "hook": "Press (圧) + power (力): pressure."
+ },
+ {
+  "id": "v1-1228",
+  "hook": "Assign (当て) + characters (字): kanji used just for their sound."
+ },
+ {
+  "id": "v1-1229",
+  "hook": "Traces (跡) + carry on (継ぎ): the one who carries on, the heir."
+ },
+ {
+  "id": "v1-1231",
+  "hook": "Oil (油) + picture (絵): an oil painting."
+ },
+ {
+  "id": "v1-1234",
+  "hook": "Sweet (甘): act sweet like a spoiled child."
+ },
+ {
+  "id": "v1-1235",
+  "hook": "Rain (雨) + tools (具): rain gear."
+ },
+ {
+  "id": "v1-1236",
+  "hook": "Sweet (甘) + mouth (口): a sweet flavor."
+ },
+ {
+  "id": "v1-1239",
+  "hook": "Operate (操), as in 操作: to manipulate, like a puppet."
+ },
+ {
+  "id": "v1-1240",
+  "hook": "Danger (危): feel it is risky, have doubts."
+ },
+ {
+  "id": "v1-1242",
+  "hook": "Go too far (過): an error."
+ },
+ {
+  "id": "v1-1243",
+  "hook": "Mistake (誤): to make a mistake (not 謝る, to apologize)."
+ },
+ {
+  "id": "v1-1244",
+  "hook": "Walk (歩): steps, progress."
+ },
+ {
+  "id": "v1-1245",
+  "hook": "Walk (歩): to walk (a path)."
+ },
+ {
+  "id": "v1-1246",
+  "hook": "Before (予), as in 予約: in advance."
+ },
+ {
+  "id": "v1-1247",
+  "hook": "Wild (荒): to make wild, wreck."
+ },
+ {
+  "id": "v1-1249",
+  "hook": "Reform (改): to be renewed; to become formal."
+ },
+ {
+  "id": "v1-1250",
+  "hook": "Wild (荒) + ish (っぽい): rough."
+ },
+ {
+  "id": "v1-1252",
+  "hook": "Rain (雨) + scatter (散): ice scattering from the sky, hail."
+ },
+ {
+  "id": "v1-1253",
+  "hook": "Exist (有り) + way (様): the way things are."
+ },
+ {
+  "id": "v1-1259",
+  "hook": "Join (合): to put together."
+ },
+ {
+  "id": "v1-1260",
+  "hook": "Combine (合せ): all added together, in all."
+ },
+ {
+  "id": "v1-1262",
+  "hook": "Dark (暗) + kill (殺): a secret killing, assassination."
+ },
+ {
+  "id": "v1-1263",
+  "hook": "From memory (暗), as in 暗記, + calculate (算): math in your head."
+ },
+ {
+  "id": "v1-1264",
+  "hook": "Hidden (暗) + show (示): show indirectly, a hint."
+ },
+ {
+  "id": "v1-1265",
+  "hook": "Plan, think (案): to think about too much, worry."
+ },
+ {
+  "id": "v1-1266",
+  "hook": "Peace (安) + quiet (静): rest."
+ },
+ {
+  "id": "v1-1267",
+  "hook": "Plan (案) + fixed (定): just as planned, sure enough."
+ },
+ {
+  "id": "v1-1268",
+  "hook": "Good (いい) + add and subtract (加減): the 'right amount' became careless, random."
+ },
+ {
+  "id": "v1-1271",
+  "hook": "House (家) + leave (出): running away from home."
+ },
+ {
+  "id": "v1-1275",
+  "hook": "Different (異) + opinion (議): an objection."
+ },
+ {
+  "id": "v1-1276",
+  "hook": "Living (生き) + worth (甲斐): what makes life worth living."
+ },
+ {
+  "id": "v1-1277",
+  "hook": "Go (行き) + differ (違い): passing each other, a misunderstanding."
+ },
+ {
+  "id": "v1-1278",
+  "hook": "Spirit (意気) + pack in (込む): be full of enthusiasm."
+ },
+ {
+  "id": "v1-1279",
+  "hook": "Raise (育) + grow (成): rearing, training."
+ },
+ {
+  "id": "v1-1280",
+  "hook": "How many (幾) + many (多): numerous."
+ },
+ {
+  "id": "v1-1281",
+  "hook": "Life (生): give flowers life in a vase, arrange flowers."
+ },
+ {
+  "id": "v1-1282",
+  "hook": "Different (異) + view (見): a different opinion."
+ }
+]

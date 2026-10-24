@@ -1,0 +1,640 @@
+[
+ {
+  "kanji": "蓉",
+  "readings": [
+   {
+    "r": "よう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{芙蓉|ふよう}",
+      "en": "cotton rose (a flower)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Not needed for N5 or N4. You will mostly see it in 芙蓉 ふよう, a flower name."
+ },
+ {
+  "kanji": "濫",
+  "readings": [
+   {
+    "r": "らん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{氾濫|はんらん}",
+      "en": "flooding, overflow",
+      "lvl": 1
+     },
+     {
+      "w": "{濫用|らんよう}",
+      "en": "misuse, abuse (of power)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Not needed for N5 or N4. Do not mix it up with 乱 (also らん), which looks different but sounds the same."
+ },
+ {
+  "kanji": "吏",
+  "readings": [
+   {
+    "r": "り",
+    "type": "on",
+    "words": [
+     {
+      "w": "{官吏|かんり}",
+      "en": "government official",
+      "lvl": 1
+     },
+     {
+      "w": "{吏員|りいん}",
+      "en": "public official",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Not needed for N5 or N4. Trap: 吏 looks like 史 (history) and 使 without the person part."
+ },
+ {
+  "kanji": "琳",
+  "readings": [
+   {
+    "r": "りん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{琳派|りんぱ}",
+      "en": "Rinpa school of Japanese art",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Not needed for N5 or N4. Mostly seen in names and in 琳派. Note the sound change ぱ in 琳派."
+ },
+ {
+  "kanji": "麟",
+  "readings": [
+   {
+    "r": "りん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{麒麟|きりん}",
+      "en": "giraffe; kirin (mythical animal)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only for 麒麟 きりん. In daily life giraffe is written キリン in katakana."
+ },
+ {
+  "kanji": "伶",
+  "readings": [
+   {
+    "r": "れい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{伶俐|れいり}",
+      "en": "clever, bright",
+      "lvl": 1
+     },
+     {
+      "w": "{伶人|れいじん}",
+      "en": "court musician",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Not needed for N5 or N4. Rare outside names; read it れい."
+ },
+ {
+  "kanji": "侑",
+  "readings": [
+   {
+    "r": "ゆう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{侑|ゆう}",
+      "en": "Yuu (a given name)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "A name kanji, not used in common words. Just know it is read ゆう in names."
+ },
+ {
+  "kanji": "勁",
+  "readings": [
+   {
+    "r": "けい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{勁草|けいそう}",
+      "en": "hardy grass; a person who stays strong",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Not needed for N5 or N4. Very rare; do not confuse with 頸 (neck) or 経 (けい)."
+ },
+ {
+  "kanji": "奎",
+  "readings": [
+   {
+    "r": "けい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{奎|けい}",
+      "en": "Kei (a given name)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "A name kanji, not used in common words. In names it is read けい."
+ },
+ {
+  "kanji": "崚",
+  "readings": [
+   {
+    "r": "りょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{崚|りょう}",
+      "en": "Ryou (a given name)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "A name kanji only. Read it りょう in names."
+ },
+ {
+  "kanji": "昴",
+  "readings": [
+   {
+    "r": "すばる",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{昴|すばる}",
+      "en": "the Pleiades (star group)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only すばる matters: the star group, also a name (and the car brand SUBARU). Trap: looks like 昂 (こう)."
+ },
+ {
+  "kanji": "晏",
+  "readings": [
+   {
+    "r": "あん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{晏如|あんじょ}",
+      "en": "calm, at peace",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Not needed for N5 or N4. Very rare outside names; read it あん."
+ },
+ {
+  "kanji": "晨",
+  "readings": [
+   {
+    "r": "しん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{晨星|しんせい}",
+      "en": "morning star",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Not needed for N5 or N4. For morning just use 朝 あさ, which you need for N5."
+ },
+ {
+  "kanji": "晟",
+  "readings": [
+   {
+    "r": "せい",
+    "type": "on",
+    "words": [
+     {
+      "w": "{晟|せい}",
+      "en": "Sei (a given name)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "A name kanji only. Read it せい in names."
+ },
+ {
+  "kanji": "椰",
+  "readings": [
+   {
+    "r": "や",
+    "type": "on",
+    "words": [
+     {
+      "w": "{椰子|やし}",
+      "en": "palm tree, coconut palm",
+      "lvl": 1
+     },
+     {
+      "w": "{椰子|やし}の{実|み}",
+      "en": "coconut",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only for 椰子 やし. In daily life it is usually written ヤシ in katakana."
+ },
+ {
+  "kanji": "洵",
+  "readings": [
+   {
+    "r": "じゅん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{洵|じゅん}",
+      "en": "Jun (a given name)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "A name kanji. For truly (まことに) people write 誠に instead."
+ },
+ {
+  "kanji": "滉",
+  "readings": [
+   {
+    "r": "こう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{滉|こう}",
+      "en": "Kou (a given name)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "A name kanji only. Read it こう in names."
+ },
+ {
+  "kanji": "澪",
+  "readings": [
+   {
+    "r": "みお",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{澪|みお}",
+      "en": "water channel for ships; Mio (a girl's name)",
+      "lvl": 1
+     },
+     {
+      "w": "{澪標|みおつくし}",
+      "en": "channel marker post",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Mostly seen as the girl's name みお. The on reading れい is not used in common words."
+ },
+ {
+  "kanji": "燎",
+  "readings": [
+   {
+    "r": "りょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{燎原|りょうげん}",
+      "en": "burning field (in 燎原の火: a fire that spreads fast)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Not needed for N5 or N4. Bonfire is usually written 篝火 かがりび, not with this kanji."
+ },
+ {
+  "kanji": "燿",
+  "readings": [
+   {
+    "r": "よう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{栄燿|えいよう}",
+      "en": "glory, luxury",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Mostly a name kanji. It is a variant form of 耀 (shine); both are read よう."
+ },
+ {
+  "kanji": "瑶",
+  "readings": [
+   {
+    "r": "よう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{瑶子|ようこ}",
+      "en": "Youko (a girl's name)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "A name kanji. Read it よう; it is not used in common words."
+ },
+ {
+  "kanji": "眸",
+  "readings": [
+   {
+    "r": "ひとみ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{眸|ひとみ}",
+      "en": "pupil of the eye, eyes",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "ぼう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{明眸|めいぼう}",
+      "en": "bright, clear eyes",
+      "lvl": 1
+     },
+     {
+      "w": "{双眸|そうぼう}",
+      "en": "both eyes",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Not needed for N5 or N4. ひとみ is normally written 瞳; 眸 is a literary form."
+ },
+ {
+  "kanji": "笙",
+  "readings": [
+   {
+    "r": "しょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{笙|しょう}",
+      "en": "sho (a Japanese mouth organ)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Not needed for N5 or N4. Only seen for the old court music instrument."
+ },
+ {
+  "kanji": "綸",
+  "readings": [
+   {
+    "r": "りん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{経綸|けいりん}",
+      "en": "running a country, statecraft",
+      "lvl": 1
+     },
+     {
+      "w": "{綸子|りんず}",
+      "en": "figured silk satin",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Not needed for N5 or N4. Read it りん. Trap: looks like 論 (ろん) and 輪 (りん)."
+ },
+ {
+  "kanji": "茉",
+  "readings": [
+   {
+    "r": "まつ",
+    "type": "on",
+    "words": [
+     {
+      "w": "{茉莉花|まつりか}",
+      "en": "jasmine",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "ま",
+    "type": "on",
+    "words": [
+     {
+      "w": "{茉莉|まり}",
+      "en": "Mari (a girl's name)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Mostly seen in girls' names like 茉莉 まり, where it is read ま."
+ },
+ {
+  "kanji": "菫",
+  "readings": [
+   {
+    "r": "すみれ",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{菫|すみれ}",
+      "en": "violet (flower)",
+      "lvl": 1
+     },
+     {
+      "w": "{菫色|すみれいろ}",
+      "en": "violet (colour)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Only すみれ matters. It is usually written in hiragana すみれ."
+ },
+ {
+  "kanji": "詢",
+  "readings": [
+   {
+    "r": "じゅん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{諮詢|しじゅん}",
+      "en": "consultation, inquiry (old formal word)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Not needed for N5 or N4. Very rare; trap: looks like 殉 and 洵, also じゅん."
+ },
+ {
+  "kanji": "諄",
+  "readings": [
+   {
+    "r": "くど",
+    "type": "kun",
+    "words": [
+     {
+      "w": "{諄|くど}い",
+      "en": "wordy, too long; too strong (taste)",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "じゅん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{諄々|じゅんじゅん}",
+      "en": "patiently, earnestly (explain)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Not needed for N5 or N4. くどい is almost always written in hiragana."
+ },
+ {
+  "kanji": "迪",
+  "readings": [
+   {
+    "r": "てき",
+    "type": "on",
+    "words": [
+     {
+      "w": "{啓迪|けいてき}",
+      "en": "teaching, enlightening",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Not needed for N5 or N4. Mostly a name kanji; do not confuse with 笛 (ふえ, てき)."
+ },
+ {
+  "kanji": "頌",
+  "readings": [
+   {
+    "r": "しょう",
+    "type": "on",
+    "words": [
+     {
+      "w": "{頌春|しょうしゅん}",
+      "en": "Happy New Year (on New Year cards)",
+      "lvl": 1
+     },
+     {
+      "w": "{頌歌|しょうか}",
+      "en": "hymn of praise",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "You may see 頌春 on New Year cards (年賀状). Trap: looks like 頃 (ころ), an N4 kanji."
+ },
+ {
+  "kanji": "凜",
+  "readings": [
+   {
+    "r": "りん",
+    "type": "on",
+    "words": [
+     {
+      "w": "{凜|りん}と",
+      "en": "dignified; sharp and cold",
+      "lvl": 1
+     },
+     {
+      "w": "{凜然|りんぜん}",
+      "en": "commanding, dignified",
+      "lvl": 1
+     }
+    ]
+   },
+   {
+    "r": "special",
+    "type": "special",
+    "words": [
+     {
+      "w": "{凜々|りり}しい",
+      "en": "brave looking, gallant",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Not needed for N5 or N4. Trap: 凜々しい is read りりしい, not りんりん. Also written 凛."
+ },
+ {
+  "kanji": "熙",
+  "readings": [
+   {
+    "r": "き",
+    "type": "on",
+    "words": [
+     {
+      "w": "{康熙|こうき}",
+      "en": "Kangxi (a Chinese emperor and era)",
+      "lvl": 1
+     }
+    ]
+   }
+  ],
+  "tip": "Mostly a name kanji (often read ひろ in names). Not needed for N5 or N4."
+ }
+]
