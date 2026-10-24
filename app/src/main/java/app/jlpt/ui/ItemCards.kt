@@ -114,6 +114,14 @@ private fun WordCard(id: String, modifier: Modifier) {
                 }
             }
         }
+        a.content.wordHooks[id]?.let { hook ->
+            Gap(16.dp)
+            Panel(color = MaterialTheme.colorScheme.surfaceContainer) {
+                Label("Remember it")
+                Gap(4.dp)
+                Text(hook, style = MaterialTheme.typography.bodyMedium)
+            }
+        }
         if (kanjiHere.isNotEmpty()) {
             Gap()
             Row(horizontalArrangement = Arrangement.spacedBy(12.dp), modifier = Modifier.fillMaxWidth()) {
@@ -145,6 +153,30 @@ private fun KanjiCard(id: String, modifier: Modifier) {
         Gap(8.dp)
         if (k.on.isNotEmpty()) ReadingLine("On", k.on)
         if (k.kun.isNotEmpty()) ReadingLine("Kun", k.kun)
+        a.content.kanjiNotes[k.char]?.let { note ->
+            Gap()
+            Panel(color = MaterialTheme.colorScheme.surfaceContainer) {
+                Label("Readings in words")
+                for (r in note.readings) {
+                    Gap(10.dp)
+                    Text("${r.reading}  ·  ${if (r.type == "on") "on" else "kun"}", style = MaterialTheme.typography.titleSmall)
+                    for ((w, en, l) in r.words) {
+                        Row(verticalAlignment = Alignment.CenterVertically, modifier = Modifier.padding(vertical = 2.dp)) {
+                            SpeakButton(w, size = 32.dp)
+                            HGap(8.dp)
+                            Ruby(w, size = 18.sp, show = true)
+                            HGap(8.dp)
+                            Text(en, style = MaterialTheme.typography.bodyMedium, modifier = Modifier.weight(1f), maxLines = 2)
+                            if (l in 1..5) Text(lvl(l), style = MaterialTheme.typography.labelSmall, color = LocalExtra.current.muted)
+                        }
+                    }
+                }
+                if (note.tip.isNotBlank()) {
+                    Gap(10.dp)
+                    Text(note.tip, style = MaterialTheme.typography.bodySmall, color = LocalExtra.current.muted)
+                }
+            }
+        }
         if (examples.isNotEmpty()) {
             Gap()
             Panel(color = MaterialTheme.colorScheme.surfaceContainer) {

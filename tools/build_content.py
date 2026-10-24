@@ -124,6 +124,12 @@ for f in sorted(glob.glob(os.path.join(WR, 'mocks', '*.json'))):
     papers.append(json.load(open(f, encoding='utf-8')))
 papers.sort(key=lambda x: (-x['level'], x['id']))
 dump('mocks.json', papers)
+notes = {'kanji': [], 'words': []}
+for f in sorted(glob.glob(os.path.join(WR, 'notes', 'kanji_*.json'))):
+    notes['kanji'] += json.load(open(f, encoding='utf-8'))
+for f in sorted(glob.glob(os.path.join(WR, 'notes', 'words_*.json'))):
+    notes['words'] += json.load(open(f, encoding='utf-8'))
+dump('notes.json', notes)
 dump('katakana.json', load('katakana.json'))
 
 print('words', len(vocab), 'with examples', sum(1 for v in vocab if v[5]), 'kanji', len(kanji))

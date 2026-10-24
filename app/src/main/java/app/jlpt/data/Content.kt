@@ -176,6 +176,34 @@ class Content(private val context: Context) {
     }
 
     /** Full mock papers in the real JLPT format, used only in mock tests and weekly checks. */
+    /** Which words use each reading of a kanji, and a tip (from notes.json; missing levels show nothing). */
+    data class ReadingWords(val reading: String, val type: String, val words: List<Triple<String, String, Int>>)
+    data class KanjiNote(val readings: List<ReadingWords>, val tip: String)
+
+    val kanjiNotes: Map<String, KanjiNote> by lazy {
+        runCatching {
+            val o = JSONObject(context.assets.open("notes.json").bufferedReader().readText())
+            val k = o.getJSONArray("kanji").objects()
+            k.associate { n ->
+                n.getString("kanji") to KanjiNote(
+                    n.getJSONArray("readings").objects().map { r ->
+                        ReadingWords(r.optString("r"), r.optString("type"),
+                            r.getJSONArray("words").objects().map { w -> Triple(w.optString("w"), w.optString("en"), w.optInt("lvl")) })
+                    },
+                    n.optString("tip"),
+                )
+            }
+        }.getOrDefault(emptyMap())
+    }
+
+    /** A short way to remember each word (by word id). */
+    val wordHooks: Map<String, String> by lazy {
+        runCatching {
+            val o = JSONObject(context.assets.open("notes.json").bufferedReader().readText())
+            o.getJSONArray("words").objects().associate { it.getString("id") to it.getString("hook") }
+        }.getOrDefault(emptyMap())
+    }
+
     val papers: List<JSONObject> by lazy {
         runCatching { array("mocks.json").objects() }.getOrDefault(emptyList())
     }
