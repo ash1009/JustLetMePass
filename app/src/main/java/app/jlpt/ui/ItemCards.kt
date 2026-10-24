@@ -173,7 +173,7 @@ private fun KanjiCard(id: String, modifier: Modifier) {
                 }
                 if (note.tip.isNotBlank()) {
                     Gap(10.dp)
-                    Text(note.tip, style = MaterialTheme.typography.bodySmall, color = LocalExtra.current.muted)
+                    Ruby(note.tip, size = 14.sp, color = LocalExtra.current.muted, show = true)
                 }
             }
         }
