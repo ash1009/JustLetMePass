@@ -105,7 +105,7 @@ fun SpeedScreen(onBack: () -> Unit) {
                         Gap(8.dp)
                         Panel(color = MaterialTheme.colorScheme.surfaceContainer) {
                             Ruby(m.revealJp, size = 20.sp, show = true)
-                            Text(m.revealEn, style = MaterialTheme.typography.bodyMedium)
+                            Translation(m.revealEn)
                         }
                     }
                 }

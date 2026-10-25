@@ -347,7 +347,7 @@ fun PhraseSetScreen(id: String, nav: (Screen) -> Unit, onBack: () -> Unit) {
                         Column(Modifier.weight(1f)) {
                             Ruby(p.jp, size = 20.sp)
                             Gap(2.dp)
-                            Text(p.en, style = MaterialTheme.typography.bodyLarge)
+                            Translation(p.en, style = MaterialTheme.typography.bodyLarge)
                             if (p.note.isNotBlank()) Text(p.note, style = MaterialTheme.typography.bodySmall, color = LocalExtra.current.muted)
                         }
                         HGap(8.dp)

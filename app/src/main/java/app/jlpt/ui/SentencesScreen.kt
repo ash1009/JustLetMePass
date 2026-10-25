@@ -131,7 +131,7 @@ fun SentencesScreen(startLevel: Int, onBack: () -> Unit) {
                             Gap(8.dp)
                             Ruby(q.full, size = 20.sp, show = true)
                             Gap(4.dp)
-                            Text(q.en, style = MaterialTheme.typography.bodyMedium)
+                            Translation(q.en)
                             if (q.why.isNotBlank()) {
                                 Gap(6.dp)
                                 Ruby(q.why, size = 14.sp, color = ex.muted)

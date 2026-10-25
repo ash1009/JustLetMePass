@@ -486,7 +486,7 @@ private fun Results(level: Int, test: List<MockQ>, answers: Map<Int, Int>, minut
                 answers[idx]?.let { Ruby("You: " + q.quiz.options[it], size = 16.sp, color = LocalExtra.current.bad, show = true) }
                     ?: Text("Skipped", color = LocalExtra.current.muted)
                 Ruby("Right: " + q.quiz.options[q.quiz.answer], size = 16.sp, color = LocalExtra.current.good, show = true)
-                if (q.quiz.en.isNotBlank()) Text(q.quiz.en, style = MaterialTheme.typography.bodySmall, color = LocalExtra.current.muted)
+                Translation(q.quiz.en, style = MaterialTheme.typography.bodySmall)
                 if (q.quiz.why.isNotBlank()) Text(q.quiz.why, style = MaterialTheme.typography.bodySmall, color = LocalExtra.current.muted)
             }
         }

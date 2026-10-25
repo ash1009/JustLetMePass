@@ -397,7 +397,7 @@ fun ListeningView(l: Listening, save: Boolean, explainInChat: (String) -> Unit =
                     }
                 }
                 Gap(8.dp)
-                Text(l.en, style = MaterialTheme.typography.bodyMedium, color = LocalExtra.current.muted)
+                Translation(l.en)
                 if (a.claude.hasKey) {
                     TextButton(onClick = {
                         explainInChat("Help me understand this listening practice.\n\n" +
@@ -446,7 +446,7 @@ fun FuriganaPracticeScreen(onBack: () -> Unit) {
             if (shown) {
                 Gap(16.dp)
                 Row(verticalAlignment = Alignment.CenterVertically) {
-                    Text(w.exampleEn, style = MaterialTheme.typography.bodyLarge, modifier = Modifier.weight(1f))
+                    Translation(w.exampleEn, Modifier.weight(1f), style = MaterialTheme.typography.bodyLarge)
                     SpeakButton(w.exampleJp)
                 }
             }

@@ -153,7 +153,7 @@ class Speech(context: Context, private val prefs: Prefs) {
             usePitch(1f)
             useVoice(null)
             t.setSpeechRate(speed)
-            t.speak(Furigana.plain(text), TextToSpeech.QUEUE_FLUSH, Bundle(), "last${counter++}")
+            t.speak(spoken(text), TextToSpeech.QUEUE_FLUSH, Bundle(), "last${counter++}")
         }
     }
 
@@ -172,7 +172,7 @@ class Speech(context: Context, private val prefs: Prefs) {
         firstPart = start
         posInPart = 0
         // Where the first part starts, when carrying on from the middle of it.
-        val firstText = Furigana.plain(list[start].second)
+        val firstText = spoken(list[start].second)
         firstOffset = if (fromChar in 1 until firstText.length) {
             val back = firstText.lastIndexOfAny(charArrayOf('、', '，', ' ', '「', '。'), fromChar - 1)
             if (back >= 0 && fromChar - back < 25) back + 1 else fromChar
@@ -186,7 +186,7 @@ class Speech(context: Context, private val prefs: Prefs) {
             for (i in start until list.size) {
                 if (session != mine) return@execute   // paused or something else started
                 val (speaker, raw) = list[i]
-                val text = if (i == start) firstText.substring(firstOffset) else Furigana.plain(raw)
+                val text = if (i == start) firstText.substring(firstOffset) else spoken(raw)
                 useVoice(when (speaker) { "M" -> 1; "F" -> 0; else -> null })
                 usePitch(when (speaker) { "M" -> 0.85f; "F" -> 1.2f; else -> 1.0f })
                 t.speak(text, if (i == start) TextToSpeech.QUEUE_FLUSH else TextToSpeech.QUEUE_ADD, Bundle(), "p$mine|$i|$key")
@@ -229,6 +229,9 @@ class Speech(context: Context, private val prefs: Prefs) {
     }
 
     companion object {
+        /** What the voice is given: furigana readings in place of the kanji, so it never guesses (体 → からだ, not たい). */
+        fun spoken(text: String): String = Furigana.kana(text)
+
         /** Splits a passage into sentences, keeping the 。！？ with each one. */
         fun sentences(text: String): List<String> =
             Regex("""[^。！？!?\n]+[。！？!?」』）]*""").findAll(text).map { it.value.trim() }.filter { it.isNotBlank() }.toList()

@@ -317,7 +317,7 @@ private fun AskStep(
                             Column(Modifier.weight(1f)) {
                                 Ruby(q.revealJp, size = 22.sp, show = true)
                                 Gap(4.dp)
-                                Text(q.revealEn, style = MaterialTheme.typography.bodyLarge)
+                                Translation(q.revealEn, style = MaterialTheme.typography.bodyLarge)
                                 if (q.revealNote.isNotBlank()) {
                                     Gap(8.dp)
                                     Ruby(q.revealNote, size = 15.sp, color = ex.muted)

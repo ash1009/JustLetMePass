@@ -28,6 +28,7 @@ import androidx.compose.material.icons.rounded.PlayArrow
 import androidx.compose.material.icons.rounded.Replay
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.setValue
 import androidx.compose.material3.CenterAlignedTopAppBar
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
@@ -251,5 +252,28 @@ fun AudioBar(
                 style = MaterialTheme.typography.bodySmall, color = LocalExtra.current.muted,
             )
         }
+    }
+}
+
+/**
+ * A translation kept out of sight while studying: a small "EN" button that shows it when tapped.
+ * [text] blank: nothing at all.
+ */
+@androidx.compose.runtime.Composable
+fun Translation(
+    text: String,
+    modifier: Modifier = Modifier,
+    style: androidx.compose.ui.text.TextStyle = MaterialTheme.typography.bodyMedium,
+) {
+    if (text.isBlank()) return
+    var open by androidx.compose.runtime.remember(text) { androidx.compose.runtime.mutableStateOf(false) }
+    if (open) {
+        Text(text, style = style, color = LocalExtra.current.muted,
+            modifier = modifier.clickable { open = false })
+    } else {
+        Text("EN", style = MaterialTheme.typography.labelMedium, color = MaterialTheme.colorScheme.primary,
+            modifier = modifier.clip(RoundedCornerShape(50)).clickable { open = true }
+                .border(1.dp, LocalExtra.current.line, RoundedCornerShape(50))
+                .padding(horizontal = 10.dp, vertical = 3.dp))
     }
 }

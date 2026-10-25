@@ -212,6 +212,9 @@ class QuestionMaker(private val content: Content) {
             if (k.kun.isNotEmpty()) append("Kun: ${k.kun.joinToString("、")}")
         }
         val type = (if (stage < 2) 0 else choose(listOf(0, 1, 2))).also { lastType = it }
+        // A kanji alone gets misread by the voice, so say its main readings instead.
+        val said = (k.kun.take(1) + k.on.take(1)).map { it.substringBefore('(').replace(".", "").replace("-", "") }
+            .filter { it.isNotBlank() }.joinToString("、").ifBlank { null }
         return when (type) {
             1 -> {
                 val right = k.on.firstOrNull() ?: k.kun.firstOrNull()?.substringBefore('(') ?: return kanji(id, 0)
@@ -221,19 +224,19 @@ class QuestionMaker(private val content: Content) {
                 if (wrong.size < 3) return kanji(id, 0)
                 val (opts, ans) = shuffle(right, wrong)
                 Question(id, "Which is a reading of this kanji?", k.char, true, promptFurigana = false, options = opts,
-                    optionsEnglish = false, answer = ans, revealJp = k.char, revealEn = reveal, revealNote = note)
+                    optionsEnglish = false, answer = ans, revealJp = k.char, revealEn = reveal, revealNote = note, audio = said)
             }
             2 -> {
                 val others = pickOthers(pool, 3, { it.char }, setOf(k.char)) { o -> o.meanings.none { m -> k.meanings.any { similar(it, m) } } }
                 val (opts, ans) = shuffle(k.char, others.map { it.char })
                 Question(id, "Which kanji means \"$meaning\"?", meaning, false, promptEnglish = true, options = opts,
-                    optionsEnglish = false, answer = ans, revealJp = k.char, revealEn = reveal, revealNote = note)
+                    optionsEnglish = false, answer = ans, revealJp = k.char, revealEn = reveal, revealNote = note, audio = said)
             }
             else -> {
                 val others = pickOthers(pool, 3, { it.meanings.firstOrNull() ?: "" }, setOf(meaning)) { o -> o.meanings.none { m -> k.meanings.any { similar(it, m) } } }
                 val (opts, ans) = shuffle(meaning, others.mapNotNull { it.meanings.firstOrNull() })
                 Question(id, "What does this kanji mean?", k.char, true, options = opts, optionsEnglish = true, answer = ans,
-                    revealJp = k.char, revealEn = reveal, revealNote = note.ifEmpty { readings })
+                    revealJp = k.char, revealEn = reveal, revealNote = note.ifEmpty { readings }, audio = said)
             }
         }
     }

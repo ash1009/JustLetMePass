@@ -107,7 +107,7 @@ private fun WordCard(id: String, modifier: Modifier) {
                     Column(Modifier.weight(1f)) {
                         Ruby(w.exampleJp, size = 18.sp)
                         Gap(4.dp)
-                        Text(w.exampleEn, style = MaterialTheme.typography.bodyMedium, color = LocalExtra.current.muted)
+                        Translation(w.exampleEn)
                     }
                     HGap(8.dp)
                     SpeakButton(w.exampleJp, size = 38.dp)
@@ -228,7 +228,7 @@ fun GrammarCard(id: String, modifier: Modifier = Modifier) {
             Row(verticalAlignment = Alignment.CenterVertically) {
                 Column(Modifier.weight(1f)) {
                     Ruby(e.jp, size = 18.sp)
-                    Text(e.en, style = MaterialTheme.typography.bodyMedium, color = LocalExtra.current.muted)
+                    Translation(e.en)
                 }
                 HGap(8.dp)
                 SpeakButton(e.jp, size = 36.dp)
@@ -248,7 +248,7 @@ private fun PhraseCard(id: String, modifier: Modifier) {
         Ruby(p.jp, size = 28.sp, center = true, show = if (a.study.stage(id) > 0) null else true)
         Gap()
         Row(verticalAlignment = Alignment.CenterVertically) {
-            Text(p.en, style = MaterialTheme.typography.titleLarge, modifier = Modifier.weight(1f, fill = false))
+            Translation(p.en, Modifier.weight(1f, fill = false), style = MaterialTheme.typography.titleLarge)
             HGap()
             SpeakButton(p.jp)
         }
