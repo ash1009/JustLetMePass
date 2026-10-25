@@ -365,7 +365,8 @@ class Study(private val content: Content, private val dao: StudyDao, private val
                 val base = word ?: ItemState(wordId, Kind.WORD.name)
                 dao.putState(base.copy(
                     stage = kw.stage, due = kw.due, right = base.right + kw.right, wrong = base.wrong + kw.wrong,
-                    lapses = base.lapses + kw.lapses, ways = base.ways or (kw.ways and 1),   // only "meaning" is the same way
+                    lapses = base.lapses + kw.lapses, // Carry the level over fully: every way counts as done, so it is not held back.
+                    ways = neededWays(wordId).fold(base.ways) { acc, w -> acc or (1 shl w) },
                     firstSeen = if (base.firstSeen == 0L) kw.firstSeen else minOf(base.firstSeen, kw.firstSeen),
                     lastSeen = maxOf(base.lastSeen, kw.lastSeen),
                 ))
