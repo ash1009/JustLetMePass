@@ -208,9 +208,19 @@ class Content(private val context: Context) {
         runCatching { array("mocks.json").objects() }.getOrDefault(emptyList())
     }
 
-    val kataWords: List<KataWord> by lazy {
+    private val allKataWords: List<KataWord> by lazy {
         array("katakana.json").objects().map { KataWord(it.str("id"), it.str("jp"), it.str("en"), it.str("from_raw")) }
     }
+
+    /** Katakana words that are also in the JLPT word lists live there only; this maps them to that word. */
+    val kataInWords: Map<String, String> by lazy {
+        val byText = HashMap<String, String>()
+        for (w in words) { byText.putIfAbsent(w.word, w.id); byText.putIfAbsent(w.reading, w.id) }
+        allKataWords.mapNotNull { k -> byText[k.jp]?.let { "kw:${k.id}" to it } }.toMap()
+    }
+
+    /** Katakana words not found anywhere in the JLPT word lists. */
+    val kataWords: List<KataWord> by lazy { allKataWords.filter { "kw:${it.id}" !in kataInWords } }
     val kataById: Map<String, KataWord> by lazy { kataWords.associateBy { it.id } }
 
     /** Reads every file now, so the first study screen opens without a pause. */

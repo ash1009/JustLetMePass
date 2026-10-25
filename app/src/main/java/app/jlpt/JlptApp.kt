@@ -48,6 +48,7 @@ class JlptApp : Application() {
         scope.launch(Dispatchers.IO) {
             content.warmUp()
             study.forgiveBrokenQuestions()
+            study.mergeKatakanaDuplicates()
             study.load()
         }
     }

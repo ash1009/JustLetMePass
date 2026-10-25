@@ -355,6 +355,27 @@ class Study(private val content: Content, private val dao: StudyDao, private val
      */
     private val brokenQuestionItems = listOf("g5-051")
 
+    /** Once: progress on katakana words that are also JLPT words moves to the JLPT word (the further one wins). */
+    suspend fun mergeKatakanaDuplicates() {
+        if (prefs.kataMerged.value) return
+        for ((kwId, wordId) in content.kataInWords) {
+            val kw = dao.state(kwId) ?: continue
+            val word = dao.state(wordId)
+            if (kw.stage > 0 && (word == null || kw.stage > word.stage)) {
+                val base = word ?: ItemState(wordId, Kind.WORD.name)
+                dao.putState(base.copy(
+                    stage = kw.stage, due = kw.due, right = base.right + kw.right, wrong = base.wrong + kw.wrong,
+                    lapses = base.lapses + kw.lapses, ways = base.ways or (kw.ways and 1),   // only "meaning" is the same way
+                    firstSeen = if (base.firstSeen == 0L) kw.firstSeen else minOf(base.firstSeen, kw.firstSeen),
+                    lastSeen = maxOf(base.lastSeen, kw.lastSeen),
+                ))
+            }
+            dao.deleteState(kwId)
+        }
+        prefs.kataMerged.value = true
+        lock.withLock { if (loaded) _states.value = dao.allStates().associateBy { it.id } }
+    }
+
     suspend fun forgiveBrokenQuestions() {
         val done = prefs.forgiven.value.split(',').filter { it.isNotBlank() }.toSet()
         val now = System.currentTimeMillis()

@@ -123,6 +123,9 @@ interface StudyDao {
     @Query("DELETE FROM ItemState")
     suspend fun clearStates()
 
+    @Query("DELETE FROM ItemState WHERE id = :id")
+    suspend fun deleteState(id: String)
+
     @Query("DELETE FROM DayLog")
     suspend fun clearDays()
 

@@ -64,6 +64,8 @@ class Prefs(context: Context) {
     val papersDone = StrPref("papers_done", "")
     /** Items already given back a wrong mark from a broken question. */
     val forgiven = StrPref("forgiven", "")
+    /** Katakana words that duplicate JLPT words have had their progress moved over. */
+    val kataMerged = BoolPref("kata_merged", false)
     /** Audio playlist: what to play and how long to pause between parts. */
     val listenKind = StrPref("listen_kind", "words")
     val listenGap = IntPref("listen_gap", 1500)
