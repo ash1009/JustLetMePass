@@ -29,6 +29,10 @@ for f in sorted(glob.glob(os.path.join(WR, 'ex*.jsonl'))):
             o = json.loads(line)
             examples[o['id']] = (o['jp'], o['en'])
 
+# Checked fixes to readings and meanings (the source list has slips), by word id.
+WORD_FIXES = {}
+for f in sorted(glob.glob(os.path.join(WR, 'word_fixes', '*.json'))):
+    WORD_FIXES.update(json.load(open(f, encoding='utf-8')))
 vocab, seen = [], set()
 for lvl in [5, 4, 3, 2, 1]:
     for i, r in enumerate(csv.DictReader(open(os.path.join(RAW, f'n{lvl}.csv'), encoding='utf-8'))):
@@ -55,6 +59,9 @@ for lvl in [5, 4, 3, 2, 1]:
         if cur.strip(): parts.append(cur.strip())
         if len(parts) > 4:
             m = ', '.join(parts[:4])
+        fx = WORD_FIXES.get(vid, {})
+        rd = fx.get('reading', rd)
+        m = fx.get('meaning', m)
         vocab.append([vid, w, rd, m, lvl, ex[0], ex[1]])
 # Learn the most useful words first: order each level by how often the word turns up in all the
 # written sentences, readings and dialogues (a rough stand-in for everyday frequency).
