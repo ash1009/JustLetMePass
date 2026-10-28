@@ -1,0 +1,123 @@
+name: Voice
+
+# Records every sentence the app can say with VOICEVOX, and keeps the recordings in the "voice"
+# pre-release (voice.tar). Only sentences not recorded yet are made, so later runs are quick.
+# The app build (phone and release) puts voice.tar inside the app.
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "app/src/main/assets/**"
+      - "tools/voice_*.py"
+      - ".github/workflows/voice.yml"
+
+concurrency:
+  group: voice
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      todo: ${{ steps.todo.outputs.todo }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: List what is not recorded yet
+        id: todo
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python3 tools/voice_manifest.py > manifest.json
+          mkdir -p old; gh release download voice --repo "${{ github.repository }}" --pattern index.txt --dir old || touch old/index.txt
+          python3 - <<'PY'
+          import json
+          done = set(open("old/index.txt").read().split())
+          m = json.load(open("manifest.json", encoding="utf-8"))
+          todo = [x for x in m if x["key"] not in done]
+          json.dump(todo, open("todo.json", "w", encoding="utf-8"), ensure_ascii=False)
+          print(len(m), "sentences,", len(todo), "to record")
+          open(__import__("os").environ["GITHUB_OUTPUT"], "a").write(f"todo={len(todo)}\n")
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: voice-plan
+          path: |
+            manifest.json
+            todo.json
+          retention-days: 3
+
+  record:
+    needs: plan
+    if: needs.plan.outputs.todo != '0'
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    strategy:
+      fail-fast: false
+      matrix:
+        part: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+    services:
+      voicevox:
+        image: voicevox/voicevox_engine:cpu-latest
+        ports:
+          - 50021:50021
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: voice-plan
+      - name: Wait for the voice engine
+        run: |
+          which ffmpeg || (sudo apt-get update -q && sudo apt-get install -yq ffmpeg)
+          for i in $(seq 1 60); do curl -sf http://127.0.0.1:50021/version && break; sleep 5; done
+      - name: Record
+        run: python3 tools/voice_synth.py todo.json out ${{ matrix.part }} 20
+      - uses: actions/upload-artifact@v4
+        with:
+          name: voice-part-${{ matrix.part }}
+          path: out/
+          retention-days: 3
+
+  pack:
+    needs: [plan, record]
+    if: always() && needs.plan.result == 'success' && needs.record.result != 'cancelled'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: voice-plan
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: voice-part-*
+          path: parts
+          merge-multiple: true
+        continue-on-error: true
+      - name: Join with the old recordings and publish
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p voice parts
+          if gh release download voice --repo "${{ github.repository }}" --pattern voice.tar --dir old; then tar -xf old/voice.tar -C voice; fi
+          cp -n parts/*.ogg voice/ 2>/dev/null || true
+          python3 - <<'PY'
+          import json, os
+          keep = {x["key"] for x in json.load(open("manifest.json", encoding="utf-8"))}
+          have = []
+          for f in os.listdir("voice"):
+              k = f[:-4]
+              if f.endswith(".ogg") and k in keep and os.path.getsize(os.path.join("voice", f)) > 0: have.append(k)
+              elif f != "index.txt": os.remove(os.path.join("voice", f))
+          open("voice/index.txt", "w").write("\n".join(sorted(have)) + "\n")
+          print(len(have), "of", len(keep), "recorded")
+          PY
+          cp voice/index.txt index.txt
+          tar -cf voice.tar -C voice .
+          ls -la voice.tar
+          gh release view voice --repo "${{ github.repository }}" > /dev/null 2>&1 || \
+            gh release create voice --repo "${{ github.repository }}" --prerelease --latest=false --title "Voice recordings" \
+              --notes "Recordings used inside the app. Voices: VOICEVOX:No.7, VOICEVOX:玄野武宏, VOICEVOX:冥鳴ひまり"
+          gh release upload voice voice.tar index.txt --repo "${{ github.repository }}" --clobber

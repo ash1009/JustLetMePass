@@ -10,3 +10,4 @@ captures/
 # Never commit signing keys.
 *.jks
 *.keystore
+app/src/main/assets/voice/

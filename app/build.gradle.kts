@@ -59,6 +59,10 @@ android {
         compose = true
         buildConfig = true
     }
+    androidResources {
+        // Voice recordings are read straight from the app file, so they must not be compressed.
+        noCompress += listOf("ogg")
+    }
     packaging {
         resources.excludes += "/META-INF/{AL2.0,LGPL2.1}"
     }

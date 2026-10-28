@@ -161,7 +161,7 @@ class QuestionMaker(private val content: Content) {
                 val (opts, ans) = shuffle(w.markup, others.map { it.markup })
                 Question(id, "Which one means this?", meaning, false, promptEnglish = true, options = opts,
                     optionsEnglish = false, answer = ans, revealJp = reveal.first, revealEn = reveal.second,
-                    revealNote = reveal.third, audio = w.reading)
+                    revealNote = reveal.third, audio = w.markup)
             }
             2 -> {
                 val pool = sameLevelWords(w).filter { it.reading != w.reading && kotlin.math.abs(it.reading.length - w.reading.length) <= 1 }
@@ -173,19 +173,19 @@ class QuestionMaker(private val content: Content) {
                 val (opts, ans) = shuffle(w.reading, wrong)
                 Question(id, "How do you read this word?", w.word, true, promptFurigana = false, options = opts,
                     optionsEnglish = false, answer = ans, revealJp = reveal.first, revealEn = reveal.second,
-                    revealNote = reveal.third, audio = w.reading)
+                    revealNote = reveal.third, audio = w.markup)
             }
             3 -> {
                 val others = pickOthers(sameLevelWords(w), 3, { firstMeaning(it.meaning) }, setOf(meaning)) { !similar(it.meaning, w.meaning) && it.reading != w.reading }
                 val (opts, ans) = shuffle(meaning, others.map { firstMeaning(it.meaning) })
-                Question(id, "What did you hear?", "", false, audio = w.reading, audioOnly = true, options = opts,
+                Question(id, "What did you hear?", "", false, audio = w.markup, audioOnly = true, options = opts,
                     optionsEnglish = true, answer = ans, revealJp = reveal.first, revealEn = reveal.second, revealNote = reveal.third)
             }
             else -> {
                 val others = pickOthers(sameLevelWords(w), 3, { firstMeaning(it.meaning) }, setOf(meaning)) { !similar(it.meaning, w.meaning) }
                 val (opts, ans) = shuffle(meaning, others.map { firstMeaning(it.meaning) })
                 Question(id, "What does this mean?", w.markup, true, options = opts, optionsEnglish = true, answer = ans,
-                    revealJp = reveal.first, revealEn = reveal.second, revealNote = reveal.third, audio = w.reading)
+                    revealJp = reveal.first, revealEn = reveal.second, revealNote = reveal.third, audio = w.markup)
             }
         }
     }
@@ -262,7 +262,7 @@ class QuestionMaker(private val content: Content) {
         val (opts, ans) = shuffle(right, q.options.filterIndexed { i, _ -> i != q.answer })
         return Question(id, "Fill the gap", q.q, false, options = opts, optionsEnglish = false,
             answer = ans, revealJp = q.q.replace("＿＿", right), revealEn = q.en,
-            revealNote = q.why.ifBlank { "${g.title}: ${g.meaning}" }, audio = Furigana.plain(q.q.replace("＿＿", right)))
+            revealNote = q.why.ifBlank { "${g.title}: ${g.meaning}" }, audio = q.q.replace("＿＿", right))
     }
 
     private fun phrase(id: String, stage: Int, audioOk: Boolean): Question? {
@@ -274,13 +274,13 @@ class QuestionMaker(private val content: Content) {
             val others = pickOthers(pool, 3, { it.en }, setOf(p.en)) { !similar(it.en, p.en, 0.6) }
             val (opts, ans) = shuffle(p.en, others.map { it.en })
             Question(id, "What does this mean?", p.jp, false, options = opts, optionsEnglish = true, answer = ans,
-                revealJp = p.jp, revealEn = p.en, revealNote = p.note, audio = Furigana.plain(p.jp))
+                revealJp = p.jp, revealEn = p.en, revealNote = p.note, audio = p.jp)
         } else {
             val others = pickOthers(pool, 3, { it.jp }, setOf(p.jp)) { !similar(it.en, p.en, 0.6) }
             val (opts, ans) = shuffle(p.jp, others.map { it.jp })
             Question(id, "How would you say this?", p.en, false, promptEnglish = true, options = opts,
                 optionsEnglish = false, answer = ans, revealJp = p.jp, revealEn = p.en, revealNote = p.note,
-                audio = Furigana.plain(p.jp))
+                audio = p.jp)
         }
     }
 }

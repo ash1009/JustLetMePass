@@ -60,6 +60,15 @@ jobs:
           distribution: temurin
           java-version: 17
       - uses: gradle/actions/setup-gradle@v4
+      - name: Put the voice recordings in the app
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p app/src/main/assets/voice
+          if gh release download voice --repo "${{ github.repository }}" --pattern voice.tar --dir "$RUNNER_TEMP/voice"; then
+            tar -xf "$RUNNER_TEMP/voice/voice.tar" -C app/src/main/assets/voice
+          fi
+          echo "$(ls app/src/main/assets/voice | wc -l) voice files"
       - name: Build the app (release settings, test key)
         run: ./gradlew --no-daemon assembleRelease
       - name: Turn on hardware acceleration for the emulator
@@ -125,6 +134,15 @@ jobs:
           # Builds 1 to 99 were made elsewhere; this carries on above them so updates install over them.
           echo "BUILD_NUMBER=$((100 + GITHUB_RUN_NUMBER))" >> "$GITHUB_ENV"
 
+      - name: Put the voice recordings in the app
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p app/src/main/assets/voice
+          if gh release download voice --repo "${{ github.repository }}" --pattern voice.tar --dir "$RUNNER_TEMP/voice"; then
+            tar -xf "$RUNNER_TEMP/voice/voice.tar" -C app/src/main/assets/voice
+          fi
+          echo "$(ls app/src/main/assets/voice | wc -l) voice files"
       - name: Build the signed app
         env:
           SIGNING_STORE_PASSWORD: ${{ secrets.SIGNING_PASSWORD }}

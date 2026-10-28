@@ -277,6 +277,7 @@ private fun About() {
             "Word lists: Jonathan Waller's JLPT lists (tanos.co.uk, CC BY), via the Open Anki JLPT decks. " +
                 "Kanji: KANJIDIC (EDRDG, CC BY-SA 4.0) via kanji-data. " +
                 "Stroke order: KanjiVG by Ulrich Apel (CC BY-SA 3.0). " +
+                "Voices: VOICEVOX:No.7, VOICEVOX:玄野武宏, VOICEVOX:冥鳴ひまり. " +
                 "Example sentences, grammar, readings and dialogues were written for this app.",
             style = MaterialTheme.typography.bodySmall, color = LocalExtra.current.muted,
         )

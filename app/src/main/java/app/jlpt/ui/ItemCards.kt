@@ -98,7 +98,7 @@ private fun WordCard(id: String, modifier: Modifier) {
         Row(verticalAlignment = Alignment.CenterVertically) {
             Text(w.meaning, style = MaterialTheme.typography.titleLarge, modifier = Modifier.weight(1f, fill = false))
             HGap()
-            SpeakButton(w.reading)
+            SpeakButton(w.markup)
         }
         if (w.exampleJp.isNotBlank()) {
             Gap(16.dp)
@@ -187,7 +187,7 @@ private fun KanjiCard(id: String, modifier: Modifier) {
                         Ruby(w.markup, size = 20.sp)
                         HGap()
                         Text(w.meaning, style = MaterialTheme.typography.bodyMedium, modifier = Modifier.weight(1f), maxLines = 2)
-                        SpeakButton(w.reading, size = 36.dp)
+                        SpeakButton(w.markup, size = 36.dp)
                     }
                 }
             }

@@ -9,12 +9,13 @@ import kotlinx.coroutines.flow.StateFlow
 import java.util.Locale
 
 /**
- * Japanese audio from the phone's own text-to-speech voice (free and offline).
+ * Japanese audio: recordings made with VOICEVOX (inside the app, see tools/voice_manifest.py) when
+ * there is one for every sentence, otherwise the phone's own text-to-speech voice.
  *
  * Longer audio (a passage, a dialogue, a story) is played as a list of parts, one sentence or line
  * each, so it can be paused and picked up again from the part it stopped at, or restarted.
  */
-class Speech(context: Context, private val prefs: Prefs) {
+class Speech(private val context: Context, private val prefs: Prefs) {
 
     enum class Status { STARTING, READY, NO_JAPANESE, NONE }
 
@@ -31,6 +32,70 @@ class Speech(context: Context, private val prefs: Prefs) {
     val now: StateFlow<Playing?> get() = _now
 
     private var tts: TextToSpeech? = null
+
+    // ---- recordings ----
+    private val main = android.os.Handler(android.os.Looper.getMainLooper())
+    private var player: android.media.MediaPlayer? = null
+    private var clipToken = 0
+    private val voiceIndex: Set<String> by lazy {
+        runCatching {
+            context.assets.open("voice/index.txt").bufferedReader().readLines().map { it.trim() }.filter { it.isNotEmpty() }.toSet()
+        }.getOrDefault(emptySet())
+    }
+
+    private fun sha16(s: String): String =
+        java.security.MessageDigest.getInstance("SHA-1").digest(s.toByteArray(Charsets.UTF_8))
+            .joinToString("") { "%02x".format(it) }.take(16)
+
+    /** The recordings for [text] in [voice] (N, M or F), one per sentence, or null if any is missing. */
+    private fun clipsFor(voice: String, text: String): List<String>? {
+        if (voiceIndex.isEmpty()) return null
+        val k = sentences(Furigana.kana(text))
+        var p = sentences(Furigana.plain(text))
+        if (p.size != k.size) p = k
+        if (k.isEmpty()) return null
+        val keys = k.indices.map { sha16("$voice|${k[it]}|${p[it]}") }
+        return if (keys.all { it in voiceIndex }) keys else null
+    }
+
+    private fun stopClips() {
+        clipToken++
+        val p = player
+        player = null
+        main.post { runCatching { p?.stop() }; runCatching { p?.release() } }
+    }
+
+    /** Plays recordings one after another: (part, key). [onPart] when a new part starts. */
+    private fun playClips(list: List<Pair<Int, String>>, speed: Float, gapMs: Long, onPart: (Int) -> Unit, onDone: () -> Unit) {
+        val token = ++clipToken
+        fun at(i: Int) {
+            if (token != clipToken) return
+            if (i >= list.size) { onDone(); return }
+            val (part, key) = list[i]
+            if (i == 0 || list[i - 1].first != part) onPart(part)
+            val next = {
+                val gap = if (i + 1 < list.size && list[i + 1].first != part) gapMs else 80L
+                main.postDelayed({ at(i + 1) }, gap)
+                Unit
+            }
+            val mp = android.media.MediaPlayer()
+            runCatching { player?.release() }
+            player = mp
+            val ok = runCatching {
+                context.assets.openFd("voice/$key.ogg").use { fd -> mp.setDataSource(fd.fileDescriptor, fd.startOffset, fd.length) }
+                mp.setAudioAttributes(
+                    android.media.AudioAttributes.Builder().setUsage(android.media.AudioAttributes.USAGE_MEDIA)
+                        .setContentType(android.media.AudioAttributes.CONTENT_TYPE_SPEECH).build()
+                )
+                mp.setOnCompletionListener { if (token == clipToken) next() }
+                mp.prepare()
+                mp.start()
+                if (speed != 1f) mp.playbackParams = mp.playbackParams.setSpeed(speed)
+            }.isSuccess
+            if (!ok) next()
+        }
+        main.post { at(0) }
+    }
     private var counter = 0
     private var jaVoices: List<String> = emptyList()
     private var defaultVoice: String? = null
@@ -144,11 +209,21 @@ class Speech(context: Context, private val prefs: Prefs) {
 
     /** Says something short, like a word or one sentence (study markup is fine). */
     fun say(text: String, slow: Boolean = false) {
+        if (text.isBlank()) return
+        val speed = if (slow) rate() * 0.7f else rate()
+        clipsFor("N", text)?.let { keys ->
+            _now.value = null
+            session++
+            worker.execute { tts?.stop() }
+            _speaking.value = true
+            playClips(keys.map { 0 to it }, speed, 0L, {}) { _speaking.value = false }
+            return
+        }
         val t = tts ?: return
-        if (!ready || text.isBlank()) return
+        if (!ready) return
+        stopClips()
         _now.value = null
         session++
-        val speed = if (slow) rate() * 0.7f else rate()
         worker.execute {
             usePitch(1f)
             useVoice(null)
@@ -162,8 +237,37 @@ class Speech(context: Context, private val prefs: Prefs) {
      * else the narrator, with a short pause between parts. [key] names it for pause and resume.
      */
     fun play(key: String, list: List<Pair<String, String>>, from: Int = 0, gapMs: Long = 450, fromChar: Int = 0) {
+        if (list.isEmpty()) return
+        val start0 = from.coerceIn(0, list.lastIndex)
+        // Recordings for every part: play those (a part starts again from its beginning after a pause).
+        val recorded = (start0 until list.size).map { i ->
+            val (speaker, text) = list[i]
+            val v = if (speaker == "M" || speaker == "F") speaker else "N"
+            (clipsFor(v, text) ?: clipsFor("N", text))?.map { i to it } ?: return@map null
+        }
+        if (recorded.all { it != null }) {
+            session++
+            worker.execute { tts?.stop() }
+            parts = list
+            gap = gapMs
+            posInPart = 0
+            firstPart = start0
+            firstOffset = 0
+            _now.value = Playing(key, start0, list.size, true)
+            _speaking.value = true
+            playClips(recorded.flatMap { it!! }, rate(), gapMs, { i ->
+                val n = _now.value
+                if (n != null && n.key == key) _now.value = n.copy(index = i)
+            }) {
+                val n = _now.value
+                if (n != null && n.key == key) _now.value = n.copy(index = 0, playing = false, done = true)
+                _speaking.value = false
+            }
+            return
+        }
         val t = tts ?: return
-        if (!ready || list.isEmpty()) return
+        if (!ready) return
+        stopClips()
         session++
         val mine = session
         parts = list
@@ -207,6 +311,7 @@ class Speech(context: Context, private val prefs: Prefs) {
         val n = _now.value ?: return
         _now.value = n.copy(playing = false)
         session++
+        stopClips()
         worker.execute { tts?.stop() }
         _speaking.value = false
     }
@@ -222,6 +327,7 @@ class Speech(context: Context, private val prefs: Prefs) {
     fun dialogue(lines: List<Pair<String, String>>) = play("dialogue", lines)
 
     fun stop() {
+        stopClips()
         session++
         worker.execute { tts?.stop() }
         _speaking.value = false

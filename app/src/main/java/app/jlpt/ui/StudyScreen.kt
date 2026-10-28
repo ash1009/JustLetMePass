@@ -196,7 +196,7 @@ private fun MeetStep(id: String, onNext: () -> Unit) {
 private fun sayFor(a: app.jlpt.JlptApp, id: String): String? = when (app.jlpt.data.Kind.of(id)) {
     app.jlpt.data.Kind.HIRA, app.jlpt.data.Kind.KATA -> app.jlpt.data.Kana.byId[id]?.kana
     app.jlpt.data.Kind.KWORD -> a.content.kataById[id.removePrefix("kw:")]?.jp
-    app.jlpt.data.Kind.WORD -> a.content.wordById[id]?.reading
+    app.jlpt.data.Kind.WORD -> a.content.wordById[id]?.markup
     app.jlpt.data.Kind.KANJI -> null
     app.jlpt.data.Kind.GRAMMAR -> a.content.grammarById[id]?.examples?.firstOrNull()?.jp
     app.jlpt.data.Kind.PHRASE -> a.content.phraseById[id]?.jp
