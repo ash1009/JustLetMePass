@@ -33,6 +33,7 @@ SIZE=$(adb shell wm size | grep -o '[0-9]*x[0-9]*' | tail -1); W=${SIZE%x*}; H=$
 for _ in 1 2 3 4 5 6; do if python3 ci/ui.py has "Got it"; then tap "Got it"; sleep 1.5; else break; fi; done
 sleep 1; adb shell input tap $((W / 2)) $((H * 55 / 100))
 shot 00d_answered 2
+tap "Play sound"; sleep 3
 python3 ci/ui.py texts > "$OUT/00d_answered.txt" 2>&1 || true
 if python3 ci/ui.py has "Misclick"; then tap "Misclick"; shot 00e_after_misclick 2; fi
 start --es route listen
@@ -114,5 +115,5 @@ shot 29_results 3
 python3 ci/ui.py texts > "$OUT/29_texts.txt" 2>&1 || true
 
 adb logcat -d -b crash > "$OUT/crash.txt" || true
-adb logcat -d | grep -E "AndroidRuntime|FATAL|jlpt|justletmepass|PlaylistService|TextToSpeech" | tail -300 > "$OUT/log.txt" || true
+adb logcat -d | grep -E "AndroidRuntime|FATAL|jlpt|justletmepass|PlaylistService|TextToSpeech|JlptVoice|MediaPlayer" | tail -300 > "$OUT/log.txt" || true
 echo done

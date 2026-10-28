@@ -40,7 +40,7 @@ class Speech(private val context: Context, private val prefs: Prefs) {
     private val voiceIndex: Set<String> by lazy {
         runCatching {
             context.assets.open("voice/index.txt").bufferedReader().readLines().map { it.trim() }.filter { it.isNotEmpty() }.toSet()
-        }.getOrDefault(emptySet())
+        }.getOrDefault(emptySet()).also { android.util.Log.i("JlptVoice", "recordings: ${it.size}") }
     }
 
     private fun sha16(s: String): String =
@@ -92,6 +92,7 @@ class Speech(private val context: Context, private val prefs: Prefs) {
                 mp.start()
                 if (speed != 1f) mp.playbackParams = mp.playbackParams.setSpeed(speed)
             }.isSuccess
+            android.util.Log.i("JlptVoice", "clip $key ${if (ok) "played" else "failed"}")
             if (!ok) next()
         }
         main.post { at(0) }
