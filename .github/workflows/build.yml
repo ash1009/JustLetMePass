@@ -154,15 +154,17 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
+          # Any failure here is shown as a note on the run, so it can be read without the full log.
+          trap 'echo "::error::Publish failed at line $LINENO: $BASH_COMMAND"' ERR
           rm -f "$RUNNER_TEMP/release.jks"
           cp "$(find app/build/outputs/apk/release -name '*.apk' | head -n 1)" JustLetMePass.apk
           # Only an app signed with your own key installs over the one on your phone.
           signer="$(ls "$ANDROID_HOME"/build-tools/*/apksigner | sort -V | tail -n 1)"
           if "$signer" verify --print-certs JustLetMePass.apk | grep -q "CN=Android Debug"; then
-            echo "The app came out signed with the debug key, not yours. Check the two secrets."; exit 1
+            echo "::error::The app came out signed with the debug key, not yours. Check the two secrets."; exit 1
           fi
           gh release create "v0.1.$BUILD_NUMBER" JustLetMePass.apk \
             --target "${{ github.sha }}" \
             --title "Just Let Me Pass 0.1.$BUILD_NUMBER" \
             --notes "Open this page on your phone, download JustLetMePass.apk and tap it to install or update." \
-            --latest
+            --latest 2> "$RUNNER_TEMP/gh.txt" || { echo "::error::$(tr '\n' ' ' < "$RUNNER_TEMP/gh.txt")"; exit 1; }
