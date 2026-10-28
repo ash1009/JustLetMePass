@@ -266,6 +266,10 @@ class Speech(private val context: Context, private val prefs: Prefs) {
             }
             return
         }
+        if (voiceIndex.isNotEmpty()) {
+            val miss = recorded.indexOfFirst { it == null }
+            android.util.Log.i("JlptVoice", "play $key: no recording for part ${start0 + miss}: ${list[start0 + miss].first} ${list[start0 + miss].second.take(40)}")
+        }
         val t = tts ?: return
         if (!ready) return
         stopClips()
