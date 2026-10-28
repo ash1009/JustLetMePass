@@ -40,6 +40,7 @@ start --es route listen
 shot 01_listen 6
 tap "Play"
 shot 02_after_play 6
+adb logcat -d -s JlptVoice > "$OUT/voice_listen.txt" || true
 python3 ci/ui.py texts > "$OUT/02_texts.txt" 2>&1 || true
 tap "Pause"
 shot 03_paused 3
@@ -115,5 +116,6 @@ shot 29_results 3
 python3 ci/ui.py texts > "$OUT/29_texts.txt" 2>&1 || true
 
 adb logcat -d -b crash > "$OUT/crash.txt" || true
+adb logcat -d -s JlptVoice > "$OUT/voice.txt" || true
 adb logcat -d | grep -E "AndroidRuntime|FATAL|jlpt|justletmepass|PlaylistService|TextToSpeech|JlptVoice|MediaPlayer" | tail -300 > "$OUT/log.txt" || true
 echo done
