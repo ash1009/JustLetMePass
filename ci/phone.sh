@@ -28,6 +28,13 @@ shot 00b_plan 4
 start --es route study
 shot 00c_study 4
 python3 ci/ui.py texts > "$OUT/00c_study.txt" 2>&1 || true
+# Answer one question: tap past new items, then tap an option and look at the bottom buttons.
+SIZE=$(adb shell wm size | grep -o '[0-9]*x[0-9]*' | tail -1); W=${SIZE%x*}; H=${SIZE#*x}
+for _ in 1 2 3 4 5 6; do if python3 ci/ui.py has "Got it"; then tap "Got it"; sleep 1.5; else break; fi; done
+sleep 1; adb shell input tap $((W / 2)) $((H * 55 / 100))
+shot 00d_answered 2
+python3 ci/ui.py texts > "$OUT/00d_answered.txt" 2>&1 || true
+if python3 ci/ui.py has "Misclick"; then tap "Misclick"; shot 00e_after_misclick 2; fi
 start --es route listen
 shot 01_listen 6
 tap "Play"

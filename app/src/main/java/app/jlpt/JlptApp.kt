@@ -49,6 +49,7 @@ class JlptApp : Application() {
             content.warmUp()
             study.forgiveBrokenQuestions()
             study.mergeKatakanaDuplicates()
+            study.mergeRepeats()
             study.load()
         }
     }

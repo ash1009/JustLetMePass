@@ -53,7 +53,7 @@ class Study(private val content: Content, private val dao: StudyDao, private val
         Kind.HIRA -> Kana.hiragana.map { it.id }
         Kind.KATA -> Kana.katakana.map { it.id }
         Kind.KWORD -> content.kataWords.map { "kw:${it.id}" }
-        Kind.WORD -> content.words.map { it.id }
+        Kind.WORD -> content.studyWords.map { it.id }
         Kind.KANJI -> content.kanji.map { it.id }
         Kind.GRAMMAR -> content.grammar.map { it.id }
         Kind.PHRASE -> content.phraseSets.flatMap { s -> s.phrases.map { it.id } }
@@ -75,7 +75,7 @@ class Study(private val content: Content, private val dao: StudyDao, private val
      */
     fun currentLevel(): Int {
         for (lvl in 5 downTo 1) {
-            val ids = content.words.filter { it.level == lvl }.map { it.id } +
+            val ids = content.studyWords.filter { it.level == lvl }.map { it.id } +
                 content.kanji.filter { it.level == lvl }.map { it.id } +
                 content.grammar.filter { it.level == lvl }.map { it.id }
             if (ids.isEmpty()) continue
@@ -90,7 +90,7 @@ class Study(private val content: Content, private val dao: StudyDao, private val
         val out = ArrayList<String>()
         if (!prefs.hiraganaKnown.value) out += ids(Kind.HIRA)
         out += ids(Kind.KATA)
-        out += content.words.filter { it.level >= lvl }.map { it.id }
+        out += content.studyWords.filter { it.level >= lvl }.map { it.id }
         out += content.kanji.filter { it.level >= lvl }.map { it.id }
         out += content.grammar.filter { it.level >= lvl }.map { it.id }
         return out
@@ -115,7 +115,7 @@ class Study(private val content: Content, private val dao: StudyDao, private val
     // ---- building a round ----
 
     /** Hiragana you already read well never comes back as a review. */
-    private fun skipReview(id: String) = prefs.hiraganaKnown.value && id.startsWith("h:")
+    private fun skipReview(id: String) = (prefs.hiraganaKnown.value && id.startsWith("h:")) || id in content.mergedInto
 
     fun dueIds(now: Long = System.currentTimeMillis()): List<String> =
         _states.value.values.filter { it.stage > 0 && it.due <= now && !skipReview(it.id) }.sortedBy { it.due }.map { it.id }
@@ -132,7 +132,7 @@ class Study(private val content: Content, private val dao: StudyDao, private val
         var open = 5
         while (open > 1) {
             val kanji = content.kanji.filter { it.level == open }
-            val words = content.words.filter { it.level == open }
+            val words = content.studyWords.filter { it.level == open }
             val allKanji = kanji.all { stage(it.id) > 0 }
             val halfWords = words.isNotEmpty() && words.count { stage(it.id) > 0 } * 2 >= words.size
             if (allKanji || halfWords) open-- else break
@@ -374,6 +374,31 @@ class Study(private val content: Content, private val dao: StudyDao, private val
             dao.deleteState(kwId)
         }
         prefs.kataMerged.value = true
+        lock.withLock { if (loaded) _states.value = dao.allStates().associateBy { it.id } }
+    }
+
+    /**
+     * Once: a word that is a single kanji moves its progress to the kanji, and a repeated copy of a
+     * word moves it to the copy that is kept. The further one wins, so known stays known.
+     */
+    suspend fun mergeRepeats() {
+        if (prefs.repeatsMerged.value) return
+        for ((fromId, toId) in content.mergedInto) {
+            val from = dao.state(fromId) ?: continue
+            val to = dao.state(toId)
+            if (from.stage > 0 && (to == null || from.stage > to.stage)) {
+                val base = to ?: ItemState(toId, Kind.of(toId).name)
+                dao.putState(base.copy(
+                    stage = from.stage, due = from.due, right = base.right + from.right, wrong = base.wrong + from.wrong,
+                    lapses = base.lapses + from.lapses,
+                    ways = neededWays(toId).fold(base.ways) { acc, w -> acc or (1 shl w) },
+                    firstSeen = if (base.firstSeen == 0L) from.firstSeen else minOf(base.firstSeen, from.firstSeen),
+                    lastSeen = maxOf(base.lastSeen, from.lastSeen),
+                ))
+            }
+            dao.deleteState(fromId)
+        }
+        prefs.repeatsMerged.value = true
         lock.withLock { if (loaded) _states.value = dao.allStates().associateBy { it.id } }
     }
 

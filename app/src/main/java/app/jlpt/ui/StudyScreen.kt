@@ -151,6 +151,12 @@ fun StudyScreen(extraNew: Int, onClose: () -> Unit, onExplainInChat: (String) ->
                             }
                         },
                         onNext = next,
+                        // A misclick saves nothing: the same question comes back a few cards later.
+                        onMisclick = {
+                            lastTouch = System.currentTimeMillis()
+                            steps.add(minOf(steps.size, index + 4), Step.Ask(step.id, step.practice))
+                            next()
+                        },
                         onExplainInChat = onExplainInChat,
                     )
                 }
@@ -202,6 +208,7 @@ private fun AskStep(
     id: String,
     onAnswered: (Boolean, Int) -> Unit,
     onNext: () -> Unit,
+    onMisclick: () -> Unit,
     onExplainInChat: (String) -> Unit,
 ) {
     val a = app()
@@ -220,15 +227,8 @@ private fun AskStep(
     val tapOk = readyToTap(key)
     val ex = LocalExtra.current
 
-    // Right answers move on by themselves after a moment (long enough to hear the word);
-    // wrong ones wait for Next so there is time to look.
+    // Nothing moves on by itself: Next (or Misclick after a wrong answer) is always tapped.
     var moved by remember(key) { mutableStateOf(false) }
-    LaunchedEffect(chosen) {
-        if (chosen >= 0 && chosen == q.answer) {
-            delay(if (a.prefs.autoPlay.value && q.audio != null && !q.audioOnly) 1700 else 1100)
-            if (!moved) { moved = true; onNext() }
-        }
-    }
 
     LaunchedEffect(key) {
         if (q.audioOnly && q.audio != null) {
@@ -292,7 +292,8 @@ private fun AskStep(
                         .border(if (answered && (isRight || i == chosen)) 2.dp else 1.dp, border, RoundedCornerShape(16.dp))
                         .clickable(enabled = !answered && tapOk) {
                             chosen = i
-                            onAnswered(i == q.answer, q.way)
+                            // A wrong answer is saved when Next is tapped, so Misclick can undo it.
+                            if (i == q.answer) onAnswered(true, q.way)
                             if (a.prefs.autoPlay.value && q.audio != null && !q.audioOnly) a.speech.say(q.audio)
                         }
                         .heightIn(min = 56.dp)
@@ -328,6 +329,7 @@ private fun AskStep(
                             SpeakButton(say, size = 40.dp)
                         }
                     }
+                    OnReadings(id)
                     if (!good && a.claude.hasKey) {
                         Gap(8.dp)
                         when {
@@ -364,14 +366,64 @@ private fun AskStep(
                 }
             }
         }
-        // Right answers move on by themselves, so there is no button to tap by mistake.
-        if (answered && chosen != q.answer) {
-            Button(
-                onClick = { if (!moved) { moved = true; onNext() } },
-                enabled = readyToTap(key),
-                modifier = Modifier.fillMaxWidth().padding(16.dp).navigationBarsPadding().heightIn(min = 54.dp),
-            ) {
-                Text("Next", fontSize = 17.sp)
+        if (answered) {
+            // Half a second after answering before the buttons work, so a double tap does not skip.
+            val ready = readyToTap("$key-answered")
+            if (chosen == q.answer) {
+                Button(
+                    onClick = { if (!moved) { moved = true; onNext() } },
+                    enabled = ready,
+                    modifier = Modifier.fillMaxWidth().padding(16.dp).navigationBarsPadding().heightIn(min = 54.dp),
+                ) { Text("Next", fontSize = 17.sp) }
+            } else {
+                Row(Modifier.fillMaxWidth().padding(16.dp).navigationBarsPadding(), horizontalArrangement = Arrangement.spacedBy(10.dp)) {
+                    OutlinedButton(
+                        onClick = { if (!moved) { moved = true; onMisclick() } },
+                        enabled = ready,
+                        modifier = Modifier.weight(1f).heightIn(min = 54.dp),
+                    ) { Text("Misclick", fontSize = 17.sp) }
+                    Button(
+                        onClick = { if (!moved) { moved = true; onAnswered(false, q.way); onNext() } },
+                        enabled = ready,
+                        modifier = Modifier.weight(1f).heightIn(min = 54.dp),
+                    ) { Text("Next", fontSize = 17.sp) }
+                }
+            }
+        }
+    }
+}
+
+/** Each kanji's on reading with a word that uses it, so the on reading sticks (物 → ぶつ: 動物). */
+@Composable
+private fun OnReadings(id: String) {
+    val a = app()
+    val rows = remember(id) {
+        val own = when (app.jlpt.data.Kind.of(id)) {
+            app.jlpt.data.Kind.KANJI -> id.removePrefix("c:")
+            app.jlpt.data.Kind.WORD -> a.content.wordById[id]?.word ?: ""
+            else -> ""
+        }
+        own.filter { Furigana.isKanji(it) }.toList().distinct().mapNotNull { c ->
+            val k = a.content.kanjiByChar[c.toString()] ?: return@mapNotNull null
+            val notes = a.content.kanjiNotes[k.char]?.readings?.filter { it.type == "on" && it.words.isNotEmpty() }.orEmpty()
+            val parts = if (notes.isNotEmpty()) notes.map { r ->
+                val w = r.words.firstOrNull { Furigana.plain(it.first) != own } ?: r.words.first()
+                "${r.reading}: ${w.first}"
+            } else k.on.take(2)
+            if (parts.isEmpty()) null else k.char to parts
+        }
+    }
+    if (rows.isEmpty()) return
+    Gap(8.dp)
+    Panel(color = MaterialTheme.colorScheme.surfaceContainer) {
+        Label("On readings")
+        rows.forEach { (c, parts) ->
+            Gap(6.dp)
+            Row(verticalAlignment = Alignment.Top) {
+                Text(c, fontSize = 22.sp, modifier = Modifier.padding(end = 10.dp))
+                Column(Modifier.weight(1f)) {
+                    parts.forEach { Ruby(it, size = 17.sp, show = true) }
+                }
             }
         }
     }

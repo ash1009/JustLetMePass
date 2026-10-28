@@ -78,7 +78,7 @@ fun ProgressScreen(onBack: () -> Unit) {
             Panel {
                 for (l in 5 downTo 1) {
                     val ids = remember(l) {
-                        a.content.words.filter { it.level == l }.map { it.id } +
+                        a.content.studyWords.filter { it.level == l }.map { it.id } +
                             a.content.kanji.filter { it.level == l }.map { it.id } +
                             a.content.grammar.filter { it.level == l }.map { it.id }
                     }

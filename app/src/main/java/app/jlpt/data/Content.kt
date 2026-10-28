@@ -90,11 +90,53 @@ class Content(private val context: Context) {
         words.filter { it.hasKanji }.groupBy { it.word }.mapValues { it.value.first() }
     }
 
-    val kanji: List<Kanji> by lazy {
+    private val kanjiRaw: List<Kanji> by lazy {
         array("kanji.json").objects().map {
             Kanji(it.str("c"), it.getInt("l"), it.getInt("s"), it.getJSONArray("m").strings(),
                 it.getJSONArray("on").strings(), it.getJSONArray("kun").strings())
         }
+    }
+
+    /**
+     * Words that are one kanji alone (物 もの): taught and tested only as that kanji. Kanji char to
+     * its main word (the easiest level first).
+     */
+    val soloWords: Map<String, Word> by lazy {
+        val chars = kanjiRaw.map { it.char }.toSet()
+        words.filter { it.word.length == 1 && it.word in chars }.groupBy { it.word }
+            .mapValues { (_, list) -> list.maxByOrNull { it.level }!! }
+    }
+
+    /** Same written word listed twice with the same meaning: the extra copy (left) and the one kept (right). */
+    private val repeatCopies = mapOf(
+        "v4-0554" to "v5-0015", "v3-1957" to "v5-0612", "v1-1909" to "v5-0559", "v3-1021" to "v5-0013",
+        "v2-0192" to "v5-0120", "v3-0464" to "v4-0276", "v3-0893" to "v4-0582", "v1-0351" to "v4-0085",
+        "v3-1884" to "v4-0361", "v2-1101" to "v4-0659", "v3-1685" to "v3-1686", "v3-0365" to "v3-0364",
+        "v1-0200" to "v3-0963", "v3-1067" to "v3-1066", "v2-1589" to "v3-0914", "v3-1738" to "v3-1531",
+        "v1-2525" to "v3-0981", "v3-1610" to "v3-1703", "v1-0599" to "v3-0458", "v3-0477" to "v3-0476",
+        "v1-2234" to "v3-1604", "v2-0780" to "v3-0051", "v3-0473" to "v3-0579", "v3-1512" to "v3-1327",
+        "v1-1916" to "v3-1405", "v2-1654" to "v3-1593", "v3-2034" to "v2-0663", "v1-0830" to "v2-0663",
+        "v3-0382" to "v3-1393", "v3-0568" to "v1-1577", "v2-1565" to "v3-1036", "v1-1783" to "v3-1510",
+        "v2-0055" to "v2-0054", "v1-0717" to "v2-0307", "v1-2428" to "v2-1751", "v1-2408" to "v1-2407",
+        "v1-1329" to "v1-1328", "v1-2005" to "v1-1739", "v1-2492" to "v1-1415", "v1-1502" to "v1-2543",
+        "v1-1534" to "v1-1533", "v1-1822" to "v1-1832", "v1-2002" to "v1-2003", "v1-2030" to "v1-2031",
+        "v1-2662" to "v1-2490",
+    )
+
+    /** Word ids that are not studied on their own, and where their progress goes. */
+    val mergedInto: Map<String, String> by lazy {
+        val out = HashMap<String, String>()
+        for (w in words) if (w.word.length == 1 && w.word in soloWords) out[w.id] = "c:${w.word}"
+        for ((from, to) in repeatCopies) if (from in wordById && to in wordById) out[from] = to
+        out
+    }
+
+    /** The words studied as words: no single kanji (those are kanji) and no repeated copies. */
+    val studyWords: List<Word> by lazy { words.filter { it.id !in mergedInto } }
+
+    /** A kanji that is also a word on its own is met at that word's level if it is easier. */
+    val kanji: List<Kanji> by lazy {
+        kanjiRaw.map { k -> soloWords[k.char]?.let { w -> if (w.level > k.level) k.copy(level = w.level) else k } ?: k }
     }
     val kanjiByChar: Map<String, Kanji> by lazy { kanji.associateBy { it.char } }
 
@@ -225,6 +267,6 @@ class Content(private val context: Context) {
 
     /** Reads every file now, so the first study screen opens without a pause. */
     fun warmUp() {
-        words; wordBySurface; kanji; grammar; phraseSets; kataWords; readings; listenings
+        words; wordBySurface; kanji; studyWords; grammar; phraseSets; kataWords; readings; listenings
     }
 }

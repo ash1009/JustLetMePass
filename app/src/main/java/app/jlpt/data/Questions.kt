@@ -138,7 +138,7 @@ class QuestionMaker(private val content: Content) {
     }
 
     private fun sameLevelWords(w: Word): List<Word> {
-        val all = content.words
+        val all = content.studyWords
         val near = all.filter { it.level == w.level && it.id != w.id }
         return near.ifEmpty { all }
     }
@@ -208,23 +208,35 @@ class QuestionMaker(private val content: Content) {
         val readings = (k.kun.take(2) + k.on.take(2)).joinToString("・")
         val reveal = "${k.meanings.joinToString(", ")}"
         val note = buildString {
+            content.soloWords[k.char]?.let { append("As a word: ${it.reading}, ${it.meaning.split(';').first().trim()}\n") }
             if (k.on.isNotEmpty()) append("On: ${k.on.joinToString("、")}  ")
             if (k.kun.isNotEmpty()) append("Kun: ${k.kun.joinToString("、")}")
         }
+        val solo = content.soloWords[k.char]
+        val soloReadings = solo?.reading?.split(';', '；')?.map { it.trim() }?.filter { it.isNotBlank() } ?: emptyList()
         val type = (if (stage < 2) 0 else choose(listOf(0, 1, 2))).also { lastType = it }
         // A kanji alone gets misread by the voice, so say its main readings instead.
         val said = (k.kun.take(1) + k.on.take(1)).map { it.substringBefore('(').replace(".", "").replace("-", "") }
             .filter { it.isNotBlank() }.joinToString("、").ifBlank { null }
         return when (type) {
             1 -> {
-                val right = k.on.firstOrNull() ?: k.kun.firstOrNull()?.substringBefore('(') ?: return kanji(id, 0)
+                // A kanji that is also a word on its own: half the time, ask the word's reading.
+                val asWord = solo != null && (k.on.isEmpty() || rnd.nextBoolean())
+                val right = (if (asWord) soloReadings.firstOrNull() else null)
+                    ?: k.on.firstOrNull() ?: k.kun.firstOrNull()?.substringBefore('(') ?: return kanji(id, 0)
                 // None of this kanji's own readings may show up as a "wrong" option.
-                val own = (k.on + k.kun.map { it.substringBefore('(') }).toSet()
-                val wrong = pickOthers(pool, 3, { it.on.firstOrNull() ?: "" }, own).mapNotNull { it.on.firstOrNull() }
+                val own = (k.on + k.kun.map { it.substringBefore('(').replace(".", "").replace("-", "") } + soloReadings).toSet()
+                val wrong = if (asWord) {
+                    // Wrong options are readings of other one-kanji words, so they look alike.
+                    val others = content.soloWords.values.filter { it.word != k.char }
+                        .map { it.reading.split(';', '；').first().trim() }.distinct()
+                    pickOthers(others, 3, { it }, own) { kotlin.math.abs(it.length - right.length) <= 1 }
+                } else pickOthers(pool, 3, { it.on.firstOrNull() ?: "" }, own).mapNotNull { it.on.firstOrNull() }
                 if (wrong.size < 3) return kanji(id, 0)
                 val (opts, ans) = shuffle(right, wrong)
-                Question(id, "Which is a reading of this kanji?", k.char, true, promptFurigana = false, options = opts,
-                    optionsEnglish = false, answer = ans, revealJp = k.char, revealEn = reveal, revealNote = note, audio = said)
+                Question(id, if (asWord) "How do you read this word?" else "Which is a reading of this kanji?", k.char, true,
+                    promptFurigana = false, options = opts, optionsEnglish = false, answer = ans, revealJp = k.char,
+                    revealEn = reveal, revealNote = note, audio = said)
             }
             2 -> {
                 val others = pickOthers(pool, 3, { it.char }, setOf(k.char)) { o -> o.meanings.none { m -> k.meanings.any { similar(it, m) } } }

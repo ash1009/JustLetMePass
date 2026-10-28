@@ -108,7 +108,7 @@ fun LearnScreen(nav: (Screen) -> Unit) {
         Gap(8.dp)
         ChoiceRow((5 downTo 1).map { it to lvl(it) }, level) { level = it }
         Gap(12.dp)
-        val words = remember(states, level) { a.study.count(a.content.words.filter { it.level == level }.map { it.id }) }
+        val words = remember(states, level) { a.study.count(a.content.studyWords.filter { it.level == level }.map { it.id }) }
         val kanji = remember(states, level) { a.study.count(a.content.kanji.filter { it.level == level }.map { it.id }) }
         val grammar = remember(states, level) { a.study.count(a.content.grammar.filter { it.level == level }.map { it.id }) }
         val doneIds = remember(done) { done.map { it.id }.toSet() }
@@ -161,7 +161,7 @@ fun WordsScreen(startLevel: Int, nav: (Screen) -> Unit, onBack: () -> Unit) {
     val a = app()
     val states by a.study.states.collectAsState()
     var level by rememberSaveable { mutableIntStateOf(startLevel) }
-    val list = remember(level) { a.content.words.filter { it.level == level } }
+    val list = remember(level) { a.content.studyWords.filter { it.level == level } }
     Column(Modifier.fillMaxSize()) {
         BackBar("Words · ${lvl(level)}", onBack)
         LevelTabs(level) { level = it }

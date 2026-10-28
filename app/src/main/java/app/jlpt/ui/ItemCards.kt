@@ -141,7 +141,7 @@ private fun KanjiCard(id: String, modifier: Modifier) {
     val a = app()
     val k = a.content.kanjiByChar[id.removePrefix("c:")] ?: return
     val examples = remember(id) {
-        a.content.words.filter { it.word.contains(k.char) && it.level >= k.level - 1 }
+        a.content.studyWords.filter { it.word.contains(k.char) && it.level >= k.level - 1 }
             .sortedBy { it.word.length }.take(4)
     }
     Column(modifier.fillMaxWidth(), horizontalAlignment = Alignment.CenterHorizontally) {

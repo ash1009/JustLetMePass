@@ -63,7 +63,7 @@ fun PlanScreen(nav: (Screen) -> Unit, onBack: () -> Unit) {
     val newLeftToday = (plan.newPerDay - (todayLog?.newItems ?: 0)).coerceAtLeast(0)
     val due = remember(states) { a.study.dueIds().size }
     val known = remember(states, examLevel) {
-        val ids = a.content.words.filter { it.level >= examLevel }.map { it.id } +
+        val ids = a.content.studyWords.filter { it.level >= examLevel }.map { it.id } +
             a.content.kanji.filter { it.level >= examLevel }.map { it.id } +
             a.content.grammar.filter { it.level >= examLevel }.map { it.id } + a.study.ids(Kind.KATA)
         a.study.count(ids)
