@@ -7,7 +7,7 @@ mkdir -p "$OUT"
 shot() { sleep "${2:-2}"; anr; adb exec-out screencap -p > "$OUT/$1.png"; echo "saved $1"; }
 start() { adb shell am force-stop "$PKG"; adb shell am start -W -n "$PKG/app.jlpt.ui.MainActivity" --ez skip_intro true "$@" > /dev/null 2>&1; }
 # A slow emulator sometimes shows "isn't responding" for another app: press Wait so it doesn't cover ours.
-anr() { for _ in 1 2 3; do if python3 ci/ui.py has "Wait"; then python3 ci/ui.py tap "Wait" || true; sleep 2; else return 0; fi; done; }
+anr() { for _ in 1 2 3; do if python3 ci/ui.py has "Wait"; then python3 ci/ui.py tap "Wait" || true; sleep 3; else return 0; fi; done; }
 tap() { anr; python3 ci/ui.py tap "$@" >> "$OUT/taps.txt" 2>&1 || true; }
 
 adb logcat -c || true
@@ -30,8 +30,8 @@ shot 00c_study 4
 python3 ci/ui.py texts > "$OUT/00c_study.txt" 2>&1 || true
 # Answer one question: tap past new items, then tap an option and look at the bottom buttons.
 SIZE=$(adb shell wm size | grep -o '[0-9]*x[0-9]*' | tail -1); W=${SIZE%x*}; H=${SIZE#*x}
-for _ in 1 2 3 4 5 6; do if python3 ci/ui.py has "Got it"; then tap "Got it"; sleep 1.5; else break; fi; done
-sleep 1; adb shell input tap $((W / 2)) $((H * 55 / 100))
+for _ in 1 2 3 4 5 6; do anr; if python3 ci/ui.py has "Got it"; then tap "Got it"; sleep 1.5; else break; fi; done
+sleep 1; anr; adb shell input tap $((W / 2)) $((H * 55 / 100))
 shot 00d_answered 2
 tap "Play sound"; sleep 3
 python3 ci/ui.py texts > "$OUT/00d_answered.txt" 2>&1 || true
