@@ -151,7 +151,7 @@ fun StudyScreen(extraNew: Int, onClose: () -> Unit, onExplainInChat: (String) ->
                             }
                         },
                         onNext = next,
-                        // A misclick saves nothing: the same question comes back a few cards later.
+                        // A misclick or a guess saves nothing: the same question comes back a few cards later.
                         onMisclick = {
                             lastTouch = System.currentTimeMillis()
                             steps.add(minOf(steps.size, index + 4), Step.Ask(step.id, step.practice))
@@ -292,8 +292,7 @@ private fun AskStep(
                         .border(if (answered && (isRight || i == chosen)) 2.dp else 1.dp, border, RoundedCornerShape(16.dp))
                         .clickable(enabled = !answered && tapOk) {
                             chosen = i
-                            // A wrong answer is saved when Next is tapped, so Misclick can undo it.
-                            if (i == q.answer) onAnswered(true, q.way)
+                            // Saved when Next is tapped, so Misclick (wrong) or Guessed (right) can skip saving it.
                             if (a.prefs.autoPlay.value && q.audio != null && !q.audioOnly) a.speech.say(q.audio)
                         }
                         .heightIn(min = 56.dp)
@@ -370,11 +369,19 @@ private fun AskStep(
             // Half a second after answering before the buttons work, so a double tap does not skip.
             val ready = readyToTap("$key-answered")
             if (chosen == q.answer) {
-                Button(
-                    onClick = { if (!moved) { moved = true; onNext() } },
-                    enabled = ready,
-                    modifier = Modifier.fillMaxWidth().padding(16.dp).navigationBarsPadding().heightIn(min = 54.dp),
-                ) { Text("Next", fontSize = 17.sp) }
+                // Guessed: not counted as right; the same question comes back a few cards later.
+                Row(Modifier.fillMaxWidth().padding(16.dp).navigationBarsPadding(), horizontalArrangement = Arrangement.spacedBy(10.dp)) {
+                    OutlinedButton(
+                        onClick = { if (!moved) { moved = true; onMisclick() } },
+                        enabled = ready,
+                        modifier = Modifier.weight(1f).heightIn(min = 54.dp),
+                    ) { Text("Guessed", fontSize = 17.sp) }
+                    Button(
+                        onClick = { if (!moved) { moved = true; onAnswered(true, q.way); onNext() } },
+                        enabled = ready,
+                        modifier = Modifier.weight(1f).heightIn(min = 54.dp),
+                    ) { Text("Next", fontSize = 17.sp) }
+                }
             } else {
                 Row(Modifier.fillMaxWidth().padding(16.dp).navigationBarsPadding(), horizontalArrangement = Arrangement.spacedBy(10.dp)) {
                     OutlinedButton(

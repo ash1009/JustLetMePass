@@ -148,6 +148,25 @@ private fun LevelTabs(level: Int, onPick: (Int) -> Unit) {
     }
 }
 
+/** Filter for the lists: all, not started, learning, known, or due soon (next review first). */
+private val showOptions = listOf("ALL" to "All", "NEW" to "Not started", "LEARNING" to "Learning", "KNOWN" to "Known", "DUE" to "Due soon")
+
+@Composable
+private fun ShowTabs(show: String, onPick: (String) -> Unit) {
+    Box(Modifier.padding(horizontal = 16.dp, vertical = 4.dp)) { ChoiceRow(showOptions, show, onPick) }
+}
+
+private fun <T> shown(list: List<T>, id: (T) -> String, show: String, states: Map<String, app.jlpt.data.ItemState>): List<T> {
+    fun stage(t: T) = states[id(t)]?.stage ?: 0
+    return when (show) {
+        "NEW" -> list.filter { stage(it) == 0 }
+        "LEARNING" -> list.filter { stage(it) in 1 until app.jlpt.data.Srs.KNOWN }
+        "KNOWN" -> list.filter { stage(it) >= app.jlpt.data.Srs.KNOWN }
+        "DUE" -> list.filter { stage(it) > 0 }.sortedBy { states[id(it)]?.due ?: Long.MAX_VALUE }
+        else -> list
+    }
+}
+
 @Composable
 private fun StageDot(stage: Int) {
     Box(
@@ -161,10 +180,13 @@ fun WordsScreen(startLevel: Int, nav: (Screen) -> Unit, onBack: () -> Unit) {
     val a = app()
     val states by a.study.states.collectAsState()
     var level by rememberSaveable { mutableIntStateOf(startLevel) }
-    val list = remember(level) { a.content.studyWords.filter { it.level == level } }
+    var show by rememberSaveable { androidx.compose.runtime.mutableStateOf("ALL") }
+    val all = remember(level) { a.content.studyWords.filter { it.level == level } }
+    val list = remember(all, show, states) { shown(all, { it.id }, show, states) }
     Column(Modifier.fillMaxSize().levelSwipe(level) { level = it }) {
         BackBar("Words · ${lvl(level)}", onBack)
         LevelTabs(level) { level = it }
+        ShowTabs(show) { show = it }
         Text(
             "In the order you'll learn them: most useful first.",
             Modifier.padding(horizontal = 16.dp), style = MaterialTheme.typography.bodySmall, color = LocalExtra.current.muted,
@@ -192,10 +214,13 @@ fun KanjiListScreen(startLevel: Int, nav: (Screen) -> Unit, onBack: () -> Unit) 
     val a = app()
     val states by a.study.states.collectAsState()
     var level by rememberSaveable { mutableIntStateOf(startLevel) }
-    val list = remember(level) { a.content.kanji.filter { it.level == level } }
+    var show by rememberSaveable { androidx.compose.runtime.mutableStateOf("ALL") }
+    val all = remember(level) { a.content.kanji.filter { it.level == level } }
+    val list = remember(all, show, states) { shown(all, { it.id }, show, states) }
     Column(Modifier.fillMaxSize().levelSwipe(level) { level = it }) {
         BackBar("Kanji · ${lvl(level)}", onBack)
         LevelTabs(level) { level = it }
+        ShowTabs(show) { show = it }
         LazyVerticalGrid(
             GridCells.Adaptive(64.dp), contentPadding = PaddingValues(16.dp),
             horizontalArrangement = Arrangement.spacedBy(8.dp), verticalArrangement = Arrangement.spacedBy(8.dp),
@@ -224,10 +249,13 @@ fun GrammarListScreen(startLevel: Int, nav: (Screen) -> Unit, onBack: () -> Unit
     val a = app()
     val states by a.study.states.collectAsState()
     var level by rememberSaveable { mutableIntStateOf(startLevel) }
-    val list = remember(level) { a.content.grammar.filter { it.level == level } }
+    var show by rememberSaveable { androidx.compose.runtime.mutableStateOf("ALL") }
+    val all = remember(level) { a.content.grammar.filter { it.level == level } }
+    val list = remember(all, show, states) { shown(all, { it.id }, show, states) }
     Column(Modifier.fillMaxSize().levelSwipe(level) { level = it }) {
         BackBar("Grammar · ${lvl(level)}", onBack)
         LevelTabs(level) { level = it }
+        ShowTabs(show) { show = it }
         LazyColumn(contentPadding = PaddingValues(16.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
             items(list, key = { it.id }) { g ->
                 Panel(onClick = { nav(Screen.Item(g.id, list.map { it.id })) }, padding = PaddingValues(14.dp)) {

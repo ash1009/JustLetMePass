@@ -19,6 +19,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
@@ -38,6 +39,22 @@ fun ProgressScreen(onBack: () -> Unit) {
     Column(Modifier.fillMaxSize()) {
         BackBar("Progress", onBack)
         Column(Modifier.fillMaxSize().verticalScroll(rememberScrollState()).padding(horizontal = 16.dp)) {
+            Label("If you get every review right")
+            Gap(8.dp)
+            var hours by androidx.compose.runtime.saveable.rememberSaveable { androidx.compose.runtime.mutableIntStateOf(12) }
+            ChoiceRow(listOf(12 to "12 h", 24 to "24 h", 72 to "3 days", 168 to "1 week"), hours) { hours = it }
+            Gap(8.dp)
+            val f = remember(states, hours) { a.study.forecast(hours) }
+            Panel {
+                StatRow("${f.reviews}" to "reviews", "${f.stagesUp}" to "stages up", "${f.becomeKnown}" to "become known")
+                Gap(6.dp)
+                Text(
+                    "${f.items} things come up in the next ${if (hours < 48) "$hours hours" else "${hours / 24} days"}. " +
+                        "Some come back more than once as they move up.",
+                    style = MaterialTheme.typography.bodySmall, color = LocalExtra.current.muted,
+                )
+            }
+            Gap(20.dp)
             Label("Last 14 days (minutes)")
             Gap(8.dp)
             Panel {
