@@ -1,0 +1,6 @@
+--------- beginning of main
+10-29 21:41:26.269  6455  6455 I JlptVoice: recordings: 58193
+10-29 21:52:44.540  9280  9280 I JlptVoice: recordings: 58193
+10-29 21:52:44.634  9280  9280 I JlptVoice: clip 9aea1b73636340e5 played
+10-29 21:52:48.036  9280  9280 I JlptVoice: clip 56c088d473e3e495 played
+10-29 21:52:52.046  9280  9280 I JlptVoice: clip c88e98e022fc7fa9 played
