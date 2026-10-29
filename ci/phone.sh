@@ -64,6 +64,10 @@ start
 shot 14_today 3
 adb shell input swipe 900 1300 150 1300 200
 shot 15_swiped_to_learn 2
+# On Learn, a swipe changes the level (N5 to N4) and stays on Learn.
+adb shell input swipe 900 1300 150 1300 200
+shot 15b_learn_next_level 2
+python3 ci/ui.py texts > "$OUT/15b_texts.txt" 2>&1 || true
 start --es route reading
 shot 16_reading 3
 python3 ci/ui.py texts > "$OUT/16_texts.txt" 2>&1 || true

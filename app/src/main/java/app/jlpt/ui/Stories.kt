@@ -66,7 +66,7 @@ fun StoriesScreen(startLevel: Int, nav: (Screen) -> Unit, onBack: () -> Unit) {
     val list = atLevel.filter { genre == "All" || it.genre == genre }
     val read = atLevel.count { it.id in byId }
 
-    Column(Modifier.fillMaxSize()) {
+    Column(Modifier.fillMaxSize().levelSwipe(level) { level = it; genre = "All" }) {
         BackBar("Stories", onBack)
         Column(Modifier.padding(horizontal = 16.dp)) {
             ChoiceRow((5 downTo 1).map { it to "${lvl(it)} · ${a.content.stories.count { s -> s.level == it }}" }, level) {

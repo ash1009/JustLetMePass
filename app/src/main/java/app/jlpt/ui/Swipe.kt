@@ -41,6 +41,16 @@ fun Modifier.swipeNav(onPrev: (() -> Unit)?, onNext: (() -> Unit)?): Modifier {
     }
 }
 
+/**
+ * Swipe between levels on a page that shows N5 to N1: left goes one level harder, right one
+ * easier. The page takes the swipe, so it does not move to another tab.
+ */
+@Composable
+fun Modifier.levelSwipe(level: Int, set: (Int) -> Unit): Modifier = swipeNav(
+    onPrev = if (level < 5) ({ set(level + 1) }) else null,
+    onNext = if (level > 1) ({ set(level - 1) }) else null,
+)
+
 /** One page of a list ([ids]) that you can swipe through, sliding in from the side you swiped to. */
 @Composable
 fun SwipePages(ids: List<String>, id: String, go: (String) -> Unit, page: @Composable (String) -> Unit) {

@@ -80,7 +80,7 @@ fun LearnScreen(nav: (Screen) -> Unit) {
     var level by rememberSaveable { mutableIntStateOf(a.study.currentLevel()) }
     val done by remember { a.db.dao().exercisesFlow() }.collectAsState(initial = emptyList())
 
-    Column(Modifier.fillMaxSize().verticalScroll(rememberScrollState()).padding(horizontal = 16.dp)) {
+    Column(Modifier.fillMaxSize().levelSwipe(level) { level = it }.verticalScroll(rememberScrollState()).padding(horizontal = 16.dp)) {
         TitleBar("Learn")
         Text(
             "Light bar: started. Strong bar: known. Tap anything to look inside.",
@@ -162,7 +162,7 @@ fun WordsScreen(startLevel: Int, nav: (Screen) -> Unit, onBack: () -> Unit) {
     val states by a.study.states.collectAsState()
     var level by rememberSaveable { mutableIntStateOf(startLevel) }
     val list = remember(level) { a.content.studyWords.filter { it.level == level } }
-    Column(Modifier.fillMaxSize()) {
+    Column(Modifier.fillMaxSize().levelSwipe(level) { level = it }) {
         BackBar("Words · ${lvl(level)}", onBack)
         LevelTabs(level) { level = it }
         Text(
@@ -193,7 +193,7 @@ fun KanjiListScreen(startLevel: Int, nav: (Screen) -> Unit, onBack: () -> Unit) 
     val states by a.study.states.collectAsState()
     var level by rememberSaveable { mutableIntStateOf(startLevel) }
     val list = remember(level) { a.content.kanji.filter { it.level == level } }
-    Column(Modifier.fillMaxSize()) {
+    Column(Modifier.fillMaxSize().levelSwipe(level) { level = it }) {
         BackBar("Kanji · ${lvl(level)}", onBack)
         LevelTabs(level) { level = it }
         LazyVerticalGrid(
@@ -225,7 +225,7 @@ fun GrammarListScreen(startLevel: Int, nav: (Screen) -> Unit, onBack: () -> Unit
     val states by a.study.states.collectAsState()
     var level by rememberSaveable { mutableIntStateOf(startLevel) }
     val list = remember(level) { a.content.grammar.filter { it.level == level } }
-    Column(Modifier.fillMaxSize()) {
+    Column(Modifier.fillMaxSize().levelSwipe(level) { level = it }) {
         BackBar("Grammar · ${lvl(level)}", onBack)
         LevelTabs(level) { level = it }
         LazyColumn(contentPadding = PaddingValues(16.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {

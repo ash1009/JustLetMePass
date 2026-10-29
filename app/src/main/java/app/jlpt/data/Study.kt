@@ -164,7 +164,8 @@ class Study(private val content: Content, private val dao: StudyDao, private val
         val pattern = when {
             hira -> listOf(Kind.HIRA, Kind.HIRA, Kind.WORD, Kind.HIRA, Kind.PHRASE)
             kata -> listOf(Kind.KATA, Kind.WORD, Kind.KATA, Kind.KANJI, Kind.KATA, Kind.GRAMMAR, Kind.WORD, Kind.PHRASE)
-            else -> listOf(Kind.WORD, Kind.KANJI, Kind.WORD, Kind.GRAMMAR, Kind.WORD, Kind.PHRASE, Kind.KWORD, Kind.WORD, Kind.KANJI, Kind.GRAMMAR)
+            // Kanji first: most new things are kanji until the open levels' kanji are all started.
+            else -> listOf(Kind.KANJI, Kind.WORD, Kind.KANJI, Kind.GRAMMAR, Kind.KANJI, Kind.WORD, Kind.PHRASE, Kind.KANJI, Kind.KWORD, Kind.WORD)
         }.let { p -> if (focus != null) p + listOf(focus, focus) else p }
         val allowed = { k: Kind ->
             when (k) {
@@ -174,6 +175,18 @@ class Study(private val content: Content, private val dao: StudyDao, private val
             }
         }
         val out = ArrayList<String>()
+        // A word comes in only once every kanji in it is started (or picked just before it).
+        fun wordReady(id: String): Boolean {
+            val w = content.wordById[id] ?: return true
+            return w.word.filter { Furigana.isKanji(it) }.all { c ->
+                content.kanjiByChar[c.toString()] == null || stage("c:$c") > 0 || "c:$c" in out
+            }
+        }
+        fun takeWord(): String? {
+            val q = queue(Kind.WORD)
+            val i = q.indexOfFirst { wordReady(it) }
+            return if (i < 0) null else q.removeAt(i)
+        }
         // Families: a kanji with words that use it, and a word's new kanji just before the word.
         fun addWord(id: String) {
             val w = content.wordById[id]
@@ -195,7 +208,7 @@ class Study(private val content: Content, private val dao: StudyDao, private val
             val c = id.removePrefix("c:")
             val lvl = content.kanjiByChar[c]?.level ?: 5
             val words = queue(Kind.WORD).filter { wid ->
-                content.wordById[wid]?.let { it.word.contains(c) && it.level >= lvl } == true
+                content.wordById[wid]?.let { it.word.contains(c) && it.level >= lvl } == true && wordReady(wid)
             }.take(2)
             for (wid in words) {
                 if (out.size >= n) break
@@ -204,7 +217,6 @@ class Study(private val content: Content, private val dao: StudyDao, private val
             }
         }
         fun add(kind: Kind, id: String) = when (kind) {
-            Kind.WORD -> addWord(id)
             Kind.KANJI -> addKanji(id)
             else -> { out += id }
         }
@@ -213,12 +225,17 @@ class Study(private val content: Content, private val dao: StudyDao, private val
         while (out.size < n && misses < pattern.size * 2) {
             val k = pattern[i % pattern.size]
             i++
-            val q = if (allowed(k)) queue(k) else null
+            val q = if (allowed(k) && k != Kind.WORD) queue(k) else null
             if (q == null || q.isEmpty()) {
-                // Fall back to words, the biggest track.
-                val w = queue(Kind.WORD)
-                if (w.isEmpty()) { misses++; continue }
-                addWord(w.removeFirst())
+                // Words (and the fallback when a track is empty): only ones whose kanji are started.
+                val w = takeWord()
+                if (w != null) addWord(w)
+                else {
+                    // No word is ready yet: learn another kanji so more words open up.
+                    val kq = queue(Kind.KANJI)
+                    if (kq.isEmpty()) { misses++; continue }
+                    addKanji(kq.removeFirst())
+                }
             } else {
                 add(k, q.removeFirst())
             }

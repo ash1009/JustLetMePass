@@ -77,7 +77,7 @@ fun PracticeScreen(nav: (Screen) -> Unit) {
     val tests by remember { a.db.dao().testsFlow() }.collectAsState(initial = emptyList())
     val key by a.prefs.claudeKey.state.collectAsState()
 
-    Column(Modifier.fillMaxSize().verticalScroll(rememberScrollState()).padding(horizontal = 16.dp)) {
+    Column(Modifier.fillMaxSize().levelSwipe(level) { level = it }.verticalScroll(rememberScrollState()).padding(horizontal = 16.dp)) {
         TitleBar("Practice")
         val states by a.study.states.collectAsState()
         val weak = remember(states) { a.study.weakCount() }
@@ -148,7 +148,7 @@ fun ReadingsScreen(startLevel: Int, nav: (Screen) -> Unit, onBack: () -> Unit) {
     val done by remember { a.db.dao().exercisesFlow() }.collectAsState(initial = emptyList())
     val byId = done.associateBy { it.id }
     val list = a.content.readings.filter { it.level == level }
-    Column(Modifier.fillMaxSize()) {
+    Column(Modifier.fillMaxSize().levelSwipe(level) { level = it }) {
         BackBar("Reading · ${lvl(level)}", onBack)
         Box(Modifier.padding(horizontal = 16.dp)) { ChoiceRow((5 downTo 1).map { it to lvl(it) }, level) { level = it } }
         LazyColumn(contentPadding = PaddingValues(16.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
@@ -303,7 +303,7 @@ fun ListeningsScreen(startLevel: Int, nav: (Screen) -> Unit, onBack: () -> Unit)
     val done by remember { a.db.dao().exercisesFlow() }.collectAsState(initial = emptyList())
     val byId = done.associateBy { it.id }
     val list = a.content.listenings.filter { it.level == level }
-    Column(Modifier.fillMaxSize()) {
+    Column(Modifier.fillMaxSize().levelSwipe(level) { level = it }) {
         BackBar("Listening · ${lvl(level)}", onBack)
         Box(Modifier.padding(horizontal = 16.dp)) { ChoiceRow((5 downTo 1).map { it to lvl(it) }, level) { level = it } }
         LazyColumn(contentPadding = PaddingValues(16.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {

@@ -134,10 +134,8 @@ class Content(private val context: Context) {
     /** The words studied as words: no single kanji (those are kanji) and no repeated copies. */
     val studyWords: List<Word> by lazy { words.filter { it.id !in mergedInto } }
 
-    /** A kanji that is also a word on its own is met at that word's level if it is easier. */
-    val kanji: List<Kanji> by lazy {
-        kanjiRaw.map { k -> soloWords[k.char]?.let { w -> if (w.level > k.level) k.copy(level = w.level) else k } ?: k }
-    }
+    /** Kanji at their own JLPT level (a one-kanji word waits for its kanji's level). */
+    val kanji: List<Kanji> get() = kanjiRaw
     val kanjiByChar: Map<String, Kanji> by lazy { kanji.associateBy { it.char } }
 
     private val strokesJson: JSONObject by lazy {
