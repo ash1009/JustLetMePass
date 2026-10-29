@@ -98,14 +98,22 @@ class Content(private val context: Context) {
     }
 
     /**
-     * Words that are one kanji alone (物 もの): taught and tested only as that kanji. Kanji char to
-     * its main word (the easiest level first).
+     * The exam level (5 = N5). Kanji at this level or easier are learned before their words; a
+     * one-kanji word whose kanji is harder stays a normal word. Set from the app's settings.
      */
-    val soloWords: Map<String, Word> by lazy {
+    var examLevel: () -> Int = { 4 }
+
+    private val allSolo: Map<String, Word> by lazy {
         val chars = kanjiRaw.map { it.char }.toSet()
         words.filter { it.word.length == 1 && it.word in chars }.groupBy { it.word }
             .mapValues { (_, list) -> list.maxByOrNull { it.level }!! }
     }
+
+    /**
+     * Words that are one kanji alone (物 もの) whose kanji is at the exam level or easier: taught
+     * and tested only as that kanji. Kanji char to its main word.
+     */
+    val soloWords: Map<String, Word> get() = cached().first
 
     /** Same written word listed twice with the same meaning: the extra copy (left) and the one kept (right). */
     private val repeatCopies = mapOf(
@@ -124,15 +132,25 @@ class Content(private val context: Context) {
     )
 
     /** Word ids that are not studied on their own, and where their progress goes. */
-    val mergedInto: Map<String, String> by lazy {
-        val out = HashMap<String, String>()
-        for (w in words) if (w.word.length == 1 && w.word in soloWords) out[w.id] = "c:${w.word}"
-        for ((from, to) in repeatCopies) if (from in wordById && to in wordById) out[from] = to
-        out
-    }
+    val mergedInto: Map<String, String> get() = cached().second
 
-    /** The words studied as words: no single kanji (those are kanji) and no repeated copies. */
-    val studyWords: List<Word> by lazy { words.filter { it.id !in mergedInto } }
+    /** The words studied as words: no one-kanji words learned as kanji, and no repeated copies. */
+    val studyWords: List<Word> get() = cached().third
+
+    private var cacheFor = -1
+    private var cache: Triple<Map<String, Word>, Map<String, String>, List<Word>>? = null
+
+    @Synchronized
+    private fun cached(): Triple<Map<String, Word>, Map<String, String>, List<Word>> {
+        val exam = examLevel()
+        cache?.let { if (cacheFor == exam) return it }
+        val solo = allSolo.filter { (c, _) -> (kanjiByChar[c]?.level ?: 0) >= exam }
+        val merged = HashMap<String, String>()
+        for (w in words) if (w.word.length == 1 && w.word in solo) merged[w.id] = "c:${w.word}"
+        for ((from, to) in repeatCopies) if (from in wordById && to in wordById) merged[from] = to
+        val study = words.filter { it.id !in merged }
+        return Triple(solo, merged, study).also { cache = it; cacheFor = exam }
+    }
 
     /** Kanji at their own JLPT level (a one-kanji word waits for its kanji's level). */
     val kanji: List<Kanji> get() = kanjiRaw

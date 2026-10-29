@@ -40,6 +40,7 @@ class JlptApp : Application() {
         prefs = Prefs(this)
         db = StudyDb.open(this)
         content = Content(this)
+        content.examLevel = { prefs.examLevel.value }
         study = Study(content, db.dao(), prefs)
         questions = QuestionMaker(content)
         claude = ClaudeClient(prefs)
@@ -49,6 +50,7 @@ class JlptApp : Application() {
             content.warmUp()
             study.forgiveBrokenQuestions()
             study.mergeKatakanaDuplicates()
+            study.restoreHardSoloWords()
             study.mergeRepeats()
             study.load()
         }

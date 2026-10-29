@@ -178,8 +178,11 @@ class Study(private val content: Content, private val dao: StudyDao, private val
         // A word comes in only once every kanji in it is started (or picked just before it).
         fun wordReady(id: String): Boolean {
             val w = content.wordById[id] ?: return true
+            // Only kanji at the exam level or easier hold a word back; harder ones never do.
+            val exam = prefs.examLevel.value
             return w.word.filter { Furigana.isKanji(it) }.all { c ->
-                content.kanjiByChar[c.toString()] == null || stage("c:$c") > 0 || "c:$c" in out
+                val k = content.kanjiByChar[c.toString()]
+                k == null || k.level < exam || stage("c:$c") > 0 || "c:$c" in out
             }
         }
         fun takeWord(): String? {
@@ -416,6 +419,30 @@ class Study(private val content: Content, private val dao: StudyDao, private val
             dao.deleteState(fromId)
         }
         prefs.repeatsMerged.value = true
+        lock.withLock { if (loaded) _states.value = dao.allStates().associateBy { it.id } }
+    }
+
+    /**
+     * Once: a one-kanji word whose kanji is harder than the exam level (猫, 傘) is a word again.
+     * Its progress was moved to the kanji earlier; it moves back to the word.
+     */
+    suspend fun restoreHardSoloWords() {
+        if (prefs.soloRestored.value) return
+        if (prefs.repeatsMerged.value) {
+            val exam = prefs.examLevel.value
+            for (w in content.words) {
+                if (w.word.length != 1 || w.id in content.mergedInto) continue
+                val k = content.kanjiByChar[w.word] ?: continue
+                if (k.level >= exam) continue
+                val ks = dao.state(k.id) ?: continue
+                if (dao.state(w.id) == null && ks.stage > 0) {
+                    dao.putState(ks.copy(id = w.id, kind = Kind.WORD.name,
+                        ways = neededWays(w.id).fold(0) { acc, x -> acc or (1 shl x) }))
+                    dao.deleteState(k.id)
+                }
+            }
+        }
+        prefs.soloRestored.value = true
         lock.withLock { if (loaded) _states.value = dao.allStates().associateBy { it.id } }
     }
 
