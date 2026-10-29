@@ -148,7 +148,7 @@ fun SpeedScreen(onBack: () -> Unit) {
                     if (cur.promptEnglish) Text(cur.prompt, fontSize = 26.sp, textAlign = TextAlign.Center)
                     else Ruby(
                         cur.prompt, size = if (Furigana.plain(cur.prompt).length <= 2) 64.sp else 36.sp,
-                        show = if (!cur.promptFurigana) false else null, center = true, family = JpBig,
+                        show = if (cur.promptShowReading) true else if (!cur.promptFurigana) false else null, center = true, family = JpBig,
                     )
                     Gap(20.dp)
                     val ex = LocalExtra.current

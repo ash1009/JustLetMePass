@@ -138,5 +138,10 @@ for f in sorted(glob.glob(os.path.join(WR, 'notes', 'words_*.json'))):
     notes['words'] += json.load(open(f, encoding='utf-8'))
 dump('notes.json', notes)
 dump('katakana.json', load('katakana.json'))
+# Groups of words a learner could mix up by meaning: never wrong options for each other.
+groups = []
+for f in sorted(glob.glob(os.path.join(WR, 'confusable', 'n*.json'))):
+    groups += [g for g in json.load(open(f, encoding='utf-8')) if len(g) >= 2]
+dump('confusable.json', groups)
 
 print('words', len(vocab), 'with examples', sum(1 for v in vocab if v[5]), 'kanji', len(kanji))

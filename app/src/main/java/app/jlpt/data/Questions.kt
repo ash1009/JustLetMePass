@@ -12,6 +12,8 @@ data class Question(
     val prompt: String,
     val promptBig: Boolean,
     val promptFurigana: Boolean = true,
+    /** Always show the reading on the prompt (two words are written the same, so it decides the answer). */
+    val promptShowReading: Boolean = false,
     val promptEnglish: Boolean = false,
     val audio: String? = null,
     val audioOnly: Boolean = false,
@@ -155,9 +157,18 @@ class QuestionMaker(private val content: Content) {
         val type = (if (stage == 0) 0 else choose(types)).also { lastType = it }
         val note = if (w.exampleJp.isNotBlank()) w.exampleJp else ""
         val reveal = Triple(w.markup, w.meaning, note)
+        // Other words written the same way (～時 じ / とき): the reading is shown, and their meanings never appear.
+        val siblings = content.words.filter { it.word == w.word && it.id != w.id }
+        val myKanji = w.word.filter { Furigana.isKanji(it) }.toSet()
+        val mixUp = content.confusable[w.id].orEmpty()
+        // A wrong option must not be one a learner could fairly pick: same writing, a listed near-synonym,
+        // a shared kanji (～時 against ～時間), or an English meaning that overlaps.
+        fun fair(o: Word): Boolean =
+            o.word != w.word && o.id !in mixUp && o.word.none { it in myKanji } &&
+                !similar(o.meaning, w.meaning) && siblings.none { similar(o.meaning, it.meaning) }
         return when (type) {
             1 -> {
-                val others = pickOthers(sameLevelWords(w), 3, { it.word }, setOf(w.word)) { !similar(it.meaning, w.meaning) && it.reading != w.reading }
+                val others = pickOthers(sameLevelWords(w), 3, { it.word }, setOf(w.word)) { fair(it) && it.reading != w.reading }
                 val (opts, ans) = shuffle(w.markup, others.map { it.markup })
                 Question(id, "Which one means this?", meaning, false, promptEnglish = true, options = opts,
                     optionsEnglish = false, answer = ans, revealJp = reveal.first, revealEn = reveal.second,
@@ -176,15 +187,15 @@ class QuestionMaker(private val content: Content) {
                     revealNote = reveal.third, audio = w.markup)
             }
             3 -> {
-                val others = pickOthers(sameLevelWords(w), 3, { firstMeaning(it.meaning) }, setOf(meaning)) { !similar(it.meaning, w.meaning) && it.reading != w.reading }
+                val others = pickOthers(sameLevelWords(w), 3, { firstMeaning(it.meaning) }, setOf(meaning)) { fair(it) && it.reading != w.reading }
                 val (opts, ans) = shuffle(meaning, others.map { firstMeaning(it.meaning) })
                 Question(id, "What did you hear?", "", false, audio = w.markup, audioOnly = true, options = opts,
                     optionsEnglish = true, answer = ans, revealJp = reveal.first, revealEn = reveal.second, revealNote = reveal.third)
             }
             else -> {
-                val others = pickOthers(sameLevelWords(w), 3, { firstMeaning(it.meaning) }, setOf(meaning)) { !similar(it.meaning, w.meaning) }
+                val others = pickOthers(sameLevelWords(w), 3, { firstMeaning(it.meaning) }, setOf(meaning)) { fair(it) }
                 val (opts, ans) = shuffle(meaning, others.map { firstMeaning(it.meaning) })
-                Question(id, "What does this mean?", w.markup, true, options = opts, optionsEnglish = true, answer = ans,
+                Question(id, "What does this mean?", w.markup, true, promptShowReading = siblings.isNotEmpty(), options = opts, optionsEnglish = true, answer = ans,
                     revealJp = reveal.first, revealEn = reveal.second, revealNote = reveal.third, audio = w.markup)
             }
         }

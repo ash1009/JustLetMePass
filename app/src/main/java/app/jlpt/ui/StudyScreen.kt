@@ -259,7 +259,7 @@ private fun AskStep(
                 else -> Ruby(
                     q.prompt,
                     size = if (q.promptBig) (if (Furigana.plain(q.prompt).length <= 2) 72.sp else 44.sp) else 24.sp,
-                    show = if (!q.promptFurigana) false else null,
+                    show = if (q.promptShowReading) true else if (!q.promptFurigana) false else null,
                     center = true,
                     family = if (q.promptBig) JpBig else null,
                 )

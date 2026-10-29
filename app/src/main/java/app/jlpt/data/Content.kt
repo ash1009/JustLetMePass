@@ -262,6 +262,19 @@ class Content(private val context: Context) {
         }.getOrDefault(emptyMap())
     }
 
+    /** Words a learner could mix up by meaning (from confusable.json): never wrong options for each other. */
+    val confusable: Map<String, Set<String>> by lazy {
+        runCatching {
+            val out = HashMap<String, MutableSet<String>>()
+            val groups = array("confusable.json")
+            for (i in 0 until groups.length()) {
+                val g = groups.getJSONArray(i).strings()
+                for (id in g) out.getOrPut(id) { HashSet() } += g.filter { it != id }
+            }
+            out as Map<String, Set<String>>
+        }.getOrDefault(emptyMap())
+    }
+
     val papers: List<JSONObject> by lazy {
         runCatching { array("mocks.json").objects() }.getOrDefault(emptyList())
     }
