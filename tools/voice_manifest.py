@@ -16,10 +16,14 @@ JP = re.compile(r"[぀-ヿ一-鿿々]")
 def kana(s): return GROUP.sub(lambda m: m.group(2), s)
 def plain(s): return GROUP.sub(lambda m: m.group(1), s)
 
+def nospace(s):
+    """Spaces between words (as in N5/N4 papers) are left out, so the voice does not pause there."""
+    return re.sub(r"[ \u3000]+", "", s)
+
 def sentences(s):
     """Pairs of (kana sentence, kanji sentence), split the same way in both forms."""
-    k = [x.strip() for x in SENT.findall(kana(s)) if x.strip()]
-    p = [x.strip() for x in SENT.findall(plain(s)) if x.strip()]
+    k = [x.strip() for x in SENT.findall(nospace(kana(s))) if x.strip()]
+    p = [x.strip() for x in SENT.findall(nospace(plain(s))) if x.strip()]
     if len(k) != len(p): p = k
     return list(zip(k, p))
 

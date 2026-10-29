@@ -50,8 +50,10 @@ class Speech(private val context: Context, private val prefs: Prefs) {
     /** The recordings for [text] in [voice] (N, M or F), one per sentence, or null if any is missing. */
     private fun clipsFor(voice: String, text: String): List<String>? {
         if (voiceIndex.isEmpty()) return null
-        val k = sentences(Furigana.kana(text))
-        var p = sentences(Furigana.plain(text))
+        // Spaces between words are left out (as in the recordings), so there is no pause at each one.
+        val space = Regex("[ \u3000]+")
+        val k = sentences(Furigana.kana(text).replace(space, ""))
+        var p = sentences(Furigana.plain(text).replace(space, ""))
         if (p.size != k.size) p = k
         if (k.isEmpty()) return null
         val keys = k.indices.map { sha16("$voice|${k[it]}|${p[it]}") }
@@ -341,7 +343,7 @@ class Speech(private val context: Context, private val prefs: Prefs) {
 
     companion object {
         /** What the voice is given: furigana readings in place of the kanji, so it never guesses (体 → からだ, not たい). */
-        fun spoken(text: String): String = Furigana.kana(text)
+        fun spoken(text: String): String = Furigana.kana(text).replace(Regex("[ \u3000]+"), "")
 
         /** Splits a passage into sentences, keeping the 。！？ with each one. */
         fun sentences(text: String): List<String> =

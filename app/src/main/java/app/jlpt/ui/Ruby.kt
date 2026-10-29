@@ -119,7 +119,9 @@ fun Ruby(
                     Text(u.text, fontSize = size, color = color, fontFamily = family, fontWeight = weight, lineHeight = size * 1.2f)
                 }
                 is Seg.Word -> {
-                    val base = when (show) {
+                    // Mock tests: no furigana at all, and tapping or holding cannot show it.
+                    val locked = rule.mode == "locked"
+                    val base = if (locked) false else when (show) {
                         true -> true
                         false -> false
                         null -> when (rule.mode) {
@@ -128,12 +130,12 @@ fun Ruby(
                             else -> !rule.known.canHide(u.text)
                         }
                     }
-                    val visible = peeked[u.index] ?: base
-                    val lookup = LocalWordLookup.current
+                    val visible = if (locked) false else peeked[u.index] ?: base
+                    val lookup = if (locked) null else LocalWordLookup.current
                     RubyWord(
                         u.text, u.reading, visible, size, rubySize, rubyHeight, color, ex.ruby, family, weight,
                         onHold = lookup?.let { l -> { l(u.text, u.reading) } },
-                    ) { peeked[u.index] = !visible }
+                    ) { if (!locked) peeked[u.index] = !visible }
                 }
             }
         }

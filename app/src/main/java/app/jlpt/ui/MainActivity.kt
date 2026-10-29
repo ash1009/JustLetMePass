@@ -279,7 +279,9 @@ private fun Page(s: Screen, nav: (Screen) -> Unit, back: () -> Unit, explainInCh
             SwipePages(ids, s.id, { replace(s.copy(id = it, list = ids)) }) { id -> PhraseSetScreen(id, nav, back) }
         }
         Screen.FuriganaPractice -> FuriganaPracticeScreen(back)
-        is Screen.MockTest -> MockTestScreen(s.level, back, covered = s.weekly)
+        is Screen.MockTest -> androidx.compose.runtime.CompositionLocalProvider(
+            LocalFurigana provides FuriganaRule("locked", app.jlpt.data.Known.NONE),
+        ) { MockTestScreen(s.level, back, covered = s.weekly) }
         Screen.Plan -> PlanScreen(nav, back)
         Screen.AiReading -> AiReadingScreen(back, explainInChat)
         is Screen.Stories -> StoriesScreen(s.level, nav, back)
