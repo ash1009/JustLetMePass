@@ -231,6 +231,8 @@ private fun MoreSettings(onReset: () -> Unit) {
     val rate by a.prefs.speechRate.state.collectAsState()
     val autoPlay by a.prefs.autoPlay.state.collectAsState()
     val daily by a.prefs.includeDaily.state.collectAsState()
+    val kataKnown by a.prefs.katakanaKnown.state.collectAsState()
+    val kataScope = androidx.compose.runtime.rememberCoroutineScope()
     val theme by a.prefs.dark.state.collectAsState()
 
     Column(Modifier.fillMaxWidth()) {
@@ -248,6 +250,12 @@ private fun MoreSettings(onReset: () -> Unit) {
         Gap(12.dp)
         SwitchRow("Play audio by itself", "When you meet a new word or answer", autoPlay) { a.prefs.autoPlay.value = it }
         SwitchRow("Daily life phrases", "Everyday Japanese beyond the exam", daily) { a.prefs.includeDaily.value = it }
+        SwitchRow("I can read katakana", "Katakana letters stop coming up and count as known. Katakana words still come.", kataKnown) { on ->
+            a.prefs.katakanaKnown.value = on
+            if (on) kataScope.launch {
+                a.study.markKnown(a.study.ids(app.jlpt.data.Kind.KATA).filter { a.study.stage(it) < app.jlpt.data.Srs.KNOWN })
+            }
+        }
         Gap(12.dp)
         SettingTitle("Look")
         ChoiceRow(listOf("system" to "Like the phone", "light" to "Light", "dark" to "Dark"), theme) { a.prefs.dark.value = it }

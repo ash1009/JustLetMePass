@@ -81,6 +81,8 @@ class Prefs(context: Context) {
     // ---- state ----
     val onboarded = BoolPref("onboarded", false)
     val hiraganaKnown = BoolPref("hiragana_known", false)
+    /** Katakana letters are read well: they are not reviewed or taught (katakana words still are). */
+    val katakanaKnown = BoolPref("katakana_known", false)
 
     var lastReminderDay: String
         get() = sp.getString("last_reminder_day", "") ?: ""

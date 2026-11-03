@@ -66,7 +66,7 @@ class Study(private val content: Content, private val dao: StudyDao, private val
         else -> 5
     }
 
-    private fun katakanaBasicsStarted(): Boolean =
+    private fun katakanaBasicsStarted(): Boolean = prefs.katakanaKnown.value ||
         Kana.katakana.filter { it.group == "Basic" }.all { stage(it.id) > 0 }
 
     /**
@@ -89,7 +89,7 @@ class Study(private val content: Content, private val dao: StudyDao, private val
         val lvl = prefs.examLevel.value
         val out = ArrayList<String>()
         if (!prefs.hiraganaKnown.value) out += ids(Kind.HIRA)
-        out += ids(Kind.KATA)
+        if (!prefs.katakanaKnown.value) out += ids(Kind.KATA)
         out += content.studyWords.filter { it.level >= lvl }.map { it.id }
         out += content.kanji.filter { it.level >= lvl }.map { it.id }
         out += content.grammar.filter { it.level >= lvl }.map { it.id }
@@ -115,7 +115,8 @@ class Study(private val content: Content, private val dao: StudyDao, private val
     // ---- building a round ----
 
     /** Hiragana you already read well never comes back as a review. */
-    private fun skipReview(id: String) = (prefs.hiraganaKnown.value && id.startsWith("h:")) || id in content.mergedInto
+    private fun skipReview(id: String) = (prefs.hiraganaKnown.value && id.startsWith("h:")) ||
+        (prefs.katakanaKnown.value && id.startsWith("k:")) || id in content.mergedInto
 
     fun dueIds(now: Long = System.currentTimeMillis()): List<String> =
         _states.value.values.filter { it.stage > 0 && it.due <= now && !skipReview(it.id) }.sortedBy { it.due }.map { it.id }
@@ -160,7 +161,7 @@ class Study(private val content: Content, private val dao: StudyDao, private val
             }
         }
         val hira = !prefs.hiraganaKnown.value && queue(Kind.HIRA).isNotEmpty()
-        val kata = queue(Kind.KATA).isNotEmpty()
+        val kata = !prefs.katakanaKnown.value && queue(Kind.KATA).isNotEmpty()
         val pattern = when {
             hira -> listOf(Kind.HIRA, Kind.HIRA, Kind.WORD, Kind.HIRA, Kind.PHRASE)
             kata -> listOf(Kind.KATA, Kind.WORD, Kind.KATA, Kind.KANJI, Kind.KATA, Kind.GRAMMAR, Kind.WORD, Kind.PHRASE)
