@@ -1,0 +1,336 @@
+{
+ "段": [
+  "step",
+  "stairs",
+  "grade"
+ ],
+ "申": [
+  "say",
+  "apply",
+  "humbly say"
+ ],
+ "様": [
+  "Mr./Mrs.",
+  "manner",
+  "way"
+ ],
+ "識": [
+  "know",
+  "knowledge",
+  "discern"
+ ],
+ "達": [
+  "reach",
+  "achieve",
+  "plural"
+ ],
+ "程": [
+  "extent",
+  "degree"
+ ],
+ "光": [
+  "light",
+  "ray",
+  "shine"
+ ],
+ "積": [
+  "pile up",
+  "accumulate",
+  "load"
+ ],
+ "太": [
+  "fat",
+  "thick",
+  "big"
+ ],
+ "否": [
+  "no",
+  "deny",
+  "not"
+ ],
+ "易": [
+  "easy",
+  "simple",
+  "trade"
+ ],
+ "号": [
+  "number",
+  "issue",
+  "signal"
+ ],
+ "座": [
+  "sit",
+  "seat",
+  "theater"
+ ],
+ "破": [
+  "tear",
+  "break",
+  "rip"
+ ],
+ "除": [
+  "remove",
+  "exclude",
+  "division"
+ ],
+ "降": [
+  "descend",
+  "get off",
+  "fall"
+ ],
+ "責": [
+  "blame",
+  "responsibility",
+  "condemn"
+ ],
+ "彼": [
+  "he",
+  "that",
+  "boyfriend"
+ ],
+ "未": [
+  "not yet",
+  "un-"
+ ],
+ "適": [
+  "suitable",
+  "fit",
+  "appropriate"
+ ],
+ "込": [
+  "crowded",
+  "put into",
+  "include"
+ ],
+ "余": [
+  "surplus",
+  "excess",
+  "remainder"
+ ],
+ "返": [
+  "return",
+  "answer"
+ ],
+ "背": [
+  "back",
+  "height",
+  "stature"
+ ],
+ "薬": [
+  "medicine",
+  "chemical",
+  "drug"
+ ],
+ "険": [
+  "steep",
+  "danger",
+  "rugged"
+ ],
+ "覚": [
+  "remember",
+  "memorize",
+  "wake up"
+ ],
+ "便": [
+  "convenience",
+  "mail",
+  "flight"
+ ],
+ "留": [
+  "stay",
+  "stop",
+  "detain"
+ ],
+ "努": [
+  "effort",
+  "strive",
+  "diligent"
+ ],
+ "精": [
+  "spirit",
+  "refined",
+  "energy"
+ ],
+ "押": [
+  "push",
+  "press",
+  "hold down"
+ ],
+ "等": [
+  "etc.",
+  "equal",
+  "class"
+ ],
+ "徒": [
+  "on foot",
+  "follower",
+  "pupil"
+ ],
+ "勤": [
+  "work",
+  "serve",
+  "diligence"
+ ],
+ "招": [
+  "invite",
+  "beckon",
+  "summon"
+ ],
+ "困": [
+  "troubled",
+  "distressed",
+  "in trouble"
+ ],
+ "更": [
+  "renew",
+  "change",
+  "further"
+ ],
+ "刻": [
+  "engrave",
+  "chop",
+  "moment"
+ ],
+ "賛": [
+  "approve",
+  "praise",
+  "agree"
+ ],
+ "戻": [
+  "return",
+  "go back",
+  "revert"
+ ],
+ "願": [
+  "wish",
+  "request",
+  "petition"
+ ],
+ "越": [
+  "cross over",
+  "exceed",
+  "move"
+ ],
+ "欲": [
+  "desire",
+  "want",
+  "greed"
+ ],
+ "互": [
+  "mutual",
+  "each other"
+ ],
+ "束": [
+  "bundle",
+  "bunch"
+ ],
+ "似": [
+  "resemble",
+  "similar"
+ ],
+ "列": [
+  "row",
+  "line",
+  "column"
+ ],
+ "探": [
+  "search",
+  "look for",
+  "explore"
+ ],
+ "迷": [
+  "get lost",
+  "be unsure",
+  "astray"
+ ],
+ "君": [
+  "you",
+  "Mr.",
+  "ruler"
+ ],
+ "閉": [
+  "close",
+  "shut"
+ ],
+ "緒": [
+  "together",
+  "cord",
+  "beginning"
+ ],
+ "暮": [
+  "live",
+  "evening",
+  "end of year"
+ ],
+ "悲": [
+  "sad",
+  "grieve",
+  "sorrow"
+ ],
+ "晴": [
+  "sunny",
+  "clear up"
+ ],
+ "寝": [
+  "sleep",
+  "lie down",
+  "rest"
+ ],
+ "暗": [
+  "dark",
+  "darkness",
+  "memorize"
+ ],
+ "吸": [
+  "inhale",
+  "suck",
+  "smoke"
+ ],
+ "礼": [
+  "bow",
+  "thanks",
+  "manners"
+ ],
+ "杯": [
+  "cup",
+  "glass",
+  "cupful counter"
+ ],
+ "疲": [
+  "tired",
+  "exhausted",
+  "weary"
+ ],
+ "鳴": [
+  "cry",
+  "ring",
+  "chirp"
+ ],
+ "腹": [
+  "belly",
+  "stomach",
+  "abdomen"
+ ],
+ "眠": [
+  "sleep",
+  "sleepy"
+ ],
+ "怖": [
+  "scary",
+  "fear",
+  "be frightened"
+ ],
+ "頂": [
+  "receive",
+  "top",
+  "summit"
+ ],
+ "髪": [
+  "hair"
+ ],
+ "才": [
+  "talent",
+  "years old",
+  "genius"
+ ]
+}
