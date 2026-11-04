@@ -104,6 +104,19 @@ for c, v in kd.items():
         'on': v['readings_on'][:3], 'kun': list(dict.fromkeys(kun(k) for k in v['readings_kun']))[:4],
         'f': v.get('freq') or 9999,
     })
+# Checked meanings (first = the common modern sense), from content/written/kanji_fixes/*.json.
+KFIX = {}
+for f in sorted(glob.glob(os.path.join(WR, 'kanji_fixes', '*.json'))):
+    KFIX.update(json.load(open(f, encoding='utf-8')))
+PROPER = {'japan', 'china', 'korea', 'india', 'america', 'europe', 'england', 'britain', 'russia', 'buddha',
+          'buddhist', 'buddhism', 'shinto', 'confucius', 'confucian', 'edo', 'kyoto', 'tokyo', 'osaka', 'holland', 'spain', 'france', 'germany', 'italy', 'asia'}
+def lower(m):
+    w = m.split(' ')
+    return ' '.join(x if x.lower().strip('(),.') in PROPER else x.lower() for x in w)
+for k in kanji:
+    if k['c'] in KFIX:
+        k['m'] = [m.strip() for m in KFIX[k['c']] if m.strip()][:3] or k['m']
+    k['m'] = [lower(m) for m in k['m']]
 kanji.sort(key=lambda k: (-k['l'], k['f']))
 dump('kanji.json', kanji)
 
