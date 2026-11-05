@@ -131,7 +131,10 @@ class Study(private val content: Content, private val dao: StudyDao, private val
      */
     fun openLevel(): Int {
         var open = 5
+        val exam = prefs.examLevel.value
         while (open > 1) {
+            // Nothing past the exam level until every word up to it is started.
+            if (open - 1 < exam && content.studyWords.any { it.level >= exam && stage(it.id) == 0 }) break
             val kanji = content.kanji.filter { it.level == open }
             val words = content.studyWords.filter { it.level == open }
             val allKanji = kanji.all { stage(it.id) > 0 }
