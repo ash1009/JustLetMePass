@@ -1,0 +1,2 @@
+--------- beginning of main
+11-05 14:58:24.821  6573  6573 I JlptVoice: recordings: 58193
