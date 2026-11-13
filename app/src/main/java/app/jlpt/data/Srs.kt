@@ -26,6 +26,14 @@ object Srs {
     private val hours = intArrayOf(0, 1, 8, 24, 48, 96, 192, 360, 720, 1440)
     const val KNOWN = 5
     const val MAX = 9
+    /** Answered right at the top step (60 days): mastered, no more reviews. */
+    const val RETIRED = MAX + 1
+
+    /** Known and never wrong since: each right answer moves it up 2 steps. */
+    fun fastTrack(st: ItemState): Boolean = st.stage >= KNOWN && st.lapses == 0
+
+    /** The gap in hours after reaching [stage] with normal spacing. */
+    fun gapHours(stage: Int): Int = hours[stage.coerceIn(0, MAX)]
 
     fun multiplier(spacing: String): Double = when (spacing) {
         "gentle" -> 0.7
@@ -39,10 +47,14 @@ object Srs {
     fun answer(old: ItemState, correct: Boolean, now: Long, spacing: String): ItemState {
         val m = multiplier(spacing)
         return if (correct) {
-            val stage = (old.stage + 1).coerceAtMost(MAX)
+            val stage = when {
+                old.stage >= MAX -> RETIRED
+                fastTrack(old) -> (old.stage + 2).coerceAtMost(MAX)
+                else -> old.stage + 1
+            }
             old.copy(
                 stage = stage,
-                due = now + (hours[stage] * m * 3_600_000L).toLong(),
+                due = if (stage >= RETIRED) Long.MAX_VALUE / 4 else now + (hours[stage] * m * 3_600_000L).toLong(),
                 right = old.right + 1,
                 firstSeen = if (old.firstSeen == 0L) now else old.firstSeen,
                 lastSeen = now,
@@ -64,7 +76,7 @@ object Srs {
         stage <= 0 -> "New"
         stage < 3 -> "Learning"
         stage < KNOWN -> "Getting there"
-        stage < MAX -> "Known"
+        stage <= MAX -> "Known"
         else -> "Mastered"
     }
 }

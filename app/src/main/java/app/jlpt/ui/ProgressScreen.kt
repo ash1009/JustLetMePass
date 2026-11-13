@@ -50,7 +50,8 @@ fun ProgressScreen(onBack: () -> Unit) {
                 Gap(6.dp)
                 Text(
                     "${f.items} things come up in the next ${if (hours < 48) "$hours hours" else "${hours / 24} days"}. " +
-                        "Some come back more than once as they move up.",
+                        "Some come back more than once as they move up." +
+                        if (f.mastered > 0) " ${f.mastered} would be mastered (no more reviews)." else "",
                     style = MaterialTheme.typography.bodySmall, color = LocalExtra.current.muted,
                 )
             }

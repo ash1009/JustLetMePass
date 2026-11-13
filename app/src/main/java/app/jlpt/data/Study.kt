@@ -559,12 +559,12 @@ class Study(private val content: Content, private val dao: StudyDao, private val
     // ---- counts for the screens ----
 
     /** What the next [hours] bring if every review is answered right as soon as it is due. */
-    data class Forecast(val reviews: Int, val items: Int, val stagesUp: Int, val becomeKnown: Int)
+    data class Forecast(val reviews: Int, val items: Int, val stagesUp: Int, val becomeKnown: Int, val mastered: Int = 0)
 
     fun forecast(hours: Int, now: Long = System.currentTimeMillis()): Forecast {
         val end = now + hours * 3_600_000L
         val spacing = prefs.spacing.value
-        var reviews = 0; var items = 0; var up = 0; var known = 0
+        var reviews = 0; var items = 0; var up = 0; var known = 0; var mastered = 0
         for (st in _states.value.values) {
             if (st.stage <= 0 || skipReview(st.id) || st.due > end) continue
             items++
@@ -573,16 +573,19 @@ class Study(private val content: Content, private val dao: StudyDao, private val
             // Each right review can also cover one way still missing (meaning, reading...).
             var missing = missingWays(st.id).size
             var wasKnown = s >= Srs.KNOWN
-            while (t <= end && s < Srs.MAX) {
+            val fast = st.lapses == 0
+            while (t <= end && s <= Srs.MAX) {
                 reviews++
-                s++
-                up++
+                if (s >= Srs.MAX) { mastered++; break }
+                val step = if (fast && s >= Srs.KNOWN) 2 else 1
+                s = (s + step).coerceAtMost(Srs.MAX)
+                up += step
                 if (missing > 0) missing--
                 if (!wasKnown && s >= Srs.KNOWN && missing == 0) { known++; wasKnown = true }
                 t += Srs.interval(s, spacing)
             }
         }
-        return Forecast(reviews, items, up, known)
+        return Forecast(reviews, items, up, known, mastered)
     }
 
     data class Count(val total: Int, val started: Int, val known: Int)

@@ -406,7 +406,23 @@ fun ItemScreen(id: String, onBack: () -> Unit, pos: String? = null) {
                         Label("Your progress")
                         Text(Srs.stageName(st?.stage ?: 0), style = MaterialTheme.typography.titleMedium)
                         if (st != null && st.stage > 0) {
-                            Text("Right ${st.right} · Wrong ${st.wrong}", style = MaterialTheme.typography.bodySmall, color = LocalExtra.current.muted)
+                            val muted = LocalExtra.current.muted
+                            fun gap(h: Int) = if (h < 24) "$h h" else "${h / 24} days"
+                            Text(
+                                if (st.stage >= Srs.RETIRED) "Mastered: no more reviews"
+                                else "Step ${st.stage} of ${Srs.MAX} · gap ${gap(Srs.gapHours(st.stage))}",
+                                style = MaterialTheme.typography.bodyMedium,
+                            )
+                            Text("Right ${st.right} · Wrong ${st.wrong} · Wrong since known ${st.lapses}", style = MaterialTheme.typography.bodySmall, color = muted)
+                            if (st.stage < Srs.RETIRED) Text(
+                                when {
+                                    st.stage >= Srs.MAX -> "Next right answer: mastered"
+                                    Srs.fastTrack(st) -> "Moves up 2 steps per right answer (no wrong since known)"
+                                    st.stage >= Srs.KNOWN -> "Moves up 1 step per right answer (wrong since known)"
+                                    else -> "Moves up 1 step per right answer"
+                                },
+                                style = MaterialTheme.typography.bodySmall, color = muted,
+                            )
                             val (more, ways) = a.study.toKnown(id)
                             if (more > 0) {
                                 Gap(6.dp)
@@ -417,7 +433,7 @@ fun ItemScreen(id: String, onBack: () -> Unit, pos: String? = null) {
                                 )
                             }
                             val wait = st.due - System.currentTimeMillis()
-                            Text(
+                            if (st.stage < Srs.RETIRED) Text(
                                 when {
                                     wait <= 0 -> "Next review: due now"
                                     wait < 3_600_000L -> "Next review: in ${wait / 60_000 + 1} min"

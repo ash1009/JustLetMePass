@@ -35,7 +35,7 @@ suspend fun Study.progressReport(dao: StudyDao, prefs: Prefs, content: Content):
         for (k in Kind.values()) {
             val mine = all.filter { Kind.of(it.id) == k }
             if (mine.isEmpty()) continue
-            val byStage = (1..Srs.MAX).map { s -> mine.count { it.stage == s } }
+            val byStage = (1..Srs.RETIRED).map { s -> mine.count { it.stage == s } }
             appendLine("  ${k.label}: ${mine.size} started, ${mine.count { it.stage >= Srs.KNOWN }} known | " +
                 byStage.mapIndexed { i, c -> "s${i + 1}=$c" }.joinToString(" "))
         }
