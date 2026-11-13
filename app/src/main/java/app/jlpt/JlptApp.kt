@@ -53,6 +53,8 @@ class JlptApp : Application() {
             study.restoreHardSoloWords()
             study.mergeRepeats()
             study.load()
+            // After loading, so items already further along keep their progress.
+            study.markEasyKatakanaKnown()
         }
     }
 }

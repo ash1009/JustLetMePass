@@ -156,5 +156,8 @@ groups = []
 for f in sorted(glob.glob(os.path.join(WR, 'confusable', 'n*.json'))):
     groups += [g for g in json.load(open(f, encoding='utf-8')) if len(g) >= 2]
 dump('confusable.json', groups)
+# Katakana words that are just the English word (ナイフ knife): known, never taught or reviewed.
+ek = os.path.join(WR, 'easy_katakana.json')
+dump('easy_katakana.json', json.load(open(ek, encoding='utf-8')) if os.path.exists(ek) else [])
 
 print('words', len(vocab), 'with examples', sum(1 for v in vocab if v[5]), 'kanji', len(kanji))

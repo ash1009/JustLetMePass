@@ -116,7 +116,7 @@ class Study(private val content: Content, private val dao: StudyDao, private val
 
     /** Hiragana you already read well never comes back as a review. */
     private fun skipReview(id: String) = (prefs.hiraganaKnown.value && id.startsWith("h:")) ||
-        (prefs.katakanaKnown.value && id.startsWith("k:")) || id in content.mergedInto
+        (prefs.katakanaKnown.value && id.startsWith("k:")) || id in content.mergedInto || id in content.easyKata
 
     fun dueIds(now: Long = System.currentTimeMillis()): List<String> =
         _states.value.values.filter { it.stage > 0 && it.due <= now && !skipReview(it.id) }.sortedBy { it.due }.map { it.id }
@@ -149,7 +149,7 @@ class Study(private val content: Content, private val dao: StudyDao, private val
         val open = openLevel()
         val queues = HashMap<Kind, ArrayDeque<String>>()
         fun queue(kind: Kind): ArrayDeque<String> = queues.getOrPut(kind) {
-            val fresh = ids(kind).filter { stage(it) == 0 }
+            val fresh = ids(kind).filter { stage(it) == 0 && it !in content.easyKata }
             when (kind) {
                 Kind.WORD -> ArrayDeque(fresh.filter { level(it) >= open })
                 Kind.KANJI -> {
@@ -448,6 +448,12 @@ class Study(private val content: Content, private val dao: StudyDao, private val
         }
         prefs.soloRestored.value = true
         lock.withLock { if (loaded) _states.value = dao.allStates().associateBy { it.id } }
+    }
+
+    /** Katakana words that are just the English word (ナイフ knife): known, never taught or reviewed. */
+    suspend fun markEasyKatakanaKnown() {
+        val list = content.easyKata.filter { stage(it) < Srs.KNOWN }
+        if (list.isNotEmpty()) markKnown(list)
     }
 
     suspend fun forgiveBrokenQuestions() {

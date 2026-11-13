@@ -275,6 +275,9 @@ class Content(private val context: Context) {
         }.getOrDefault(emptyMap())
     }
 
+    /** Katakana words that sound like the English word with the same meaning: counted as known. */
+    val easyKata: Set<String> by lazy { runCatching { array("easy_katakana.json").strings().toSet() }.getOrDefault(emptySet()) }
+
     val papers: List<JSONObject> by lazy {
         runCatching { array("mocks.json").objects() }.getOrDefault(emptyList())
     }
