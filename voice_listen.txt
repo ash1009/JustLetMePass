@@ -1,0 +1,8 @@
+--------- beginning of main
+11-14 00:41:47.983  6224  6224 I JlptVoice: recordings: 58193
+11-14 00:42:04.046  6224  6224 I JlptVoice: clip 48da385e0aef80e5 played
+11-14 00:42:51.550  6817  6817 I JlptVoice: recordings: 58193
+11-14 00:42:51.630  6817  6817 I JlptVoice: clip f31fc6ce904d9479 played
+11-14 00:42:53.684  6817  6817 I JlptVoice: clip dc54cc6752d1572e played
+11-14 00:42:56.307  6817  6817 I JlptVoice: clip c4ef95676a08be83 played
+11-14 00:42:59.950  6817  6817 I JlptVoice: clip f079d61f243376e6 played
