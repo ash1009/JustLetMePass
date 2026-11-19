@@ -311,8 +311,8 @@ class Study(private val content: Content, private val dao: StudyDao, private val
         val plan = plan()
         val left = (plan.newPerDay - newToday()).coerceAtLeast(0)
         val room = ((budget - (due.size + early.size) * 12) / 60).coerceAtLeast(0)
-        // Today's new things done and nothing due: "Learn extra" gives a full round of new ones.
-        val full = more || (left == 0 && due.isEmpty() && extraNew == 0)
+        // Today's new things done: reviews first, and the rest of the round's time goes to new ones.
+        val full = more || (left == 0 && extraNew == 0)
         val newCount = if (full) maxOf(room, 5) else minOf(room, left) + extraNew
         val focus = when (weakSection()?.first) {
             "Vocabulary" -> Kind.WORD
