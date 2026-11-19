@@ -1,0 +1,8 @@
+--------- beginning of main
+11-19 22:59:12.304  6149  6149 I JlptVoice: recordings: 58193
+11-19 22:59:28.378  6149  6149 I JlptVoice: clip 48da385e0aef80e5 played
+11-19 23:00:17.006  6747  6747 I JlptVoice: recordings: 58193
+11-19 23:00:17.072  6747  6747 I JlptVoice: clip ccecbadc39bd199c played
+11-19 23:00:19.319  6747  6747 I JlptVoice: clip 3c27da8bdfd66e8b played
+11-19 23:00:21.997  6747  6747 I JlptVoice: clip 3f475dd592ec667e played
+11-19 23:00:24.256  6747  6747 I JlptVoice: clip b16d8d327434cd4b played

@@ -1,0 +1,30 @@
+--------- beginning of main
+11-19 22:59:12.304  6149  6149 I JlptVoice: recordings: 58193
+11-19 22:59:28.378  6149  6149 I JlptVoice: clip 48da385e0aef80e5 played
+11-19 23:00:17.006  6747  6747 I JlptVoice: recordings: 58193
+11-19 23:00:17.072  6747  6747 I JlptVoice: clip ccecbadc39bd199c played
+11-19 23:00:19.319  6747  6747 I JlptVoice: clip 3c27da8bdfd66e8b played
+11-19 23:00:21.997  6747  6747 I JlptVoice: clip 3f475dd592ec667e played
+11-19 23:00:24.256  6747  6747 I JlptVoice: clip b16d8d327434cd4b played
+11-19 23:00:26.587  6747  6747 I JlptVoice: clip ba8f89474d163a48 played
+11-19 23:00:29.910  6747  6747 I JlptVoice: clip 20f8f8c56ded64d8 played
+11-19 23:00:41.523  6747  6747 I JlptVoice: clip 20f8f8c56ded64d8 played
+11-19 23:00:43.801  6747  6747 I JlptVoice: clip 40926aa25e407405 played
+11-19 23:00:46.206  6747  6747 I JlptVoice: clip ed234f64a39d8fee played
+11-19 23:00:48.649  6747  6747 I JlptVoice: clip da2dabf3aa98210b played
+11-19 23:00:51.279  6747  6747 I JlptVoice: clip baa116c3da4f57c0 played
+11-19 23:00:55.007  6747  6747 I JlptVoice: clip 43bcf1af74c258ef played
+11-19 23:00:57.289  6747  6747 I JlptVoice: clip 10ec5281e2af8eb5 played
+11-19 23:01:00.183  6747  6747 I JlptVoice: clip fda89cb768995951 played
+11-19 23:01:02.721  6747  6747 I JlptVoice: clip baefc85e272cf69b played
+11-19 23:01:06.142  6747  6747 I JlptVoice: clip 5c3af974164c1ff8 played
+11-19 23:01:21.164  7337  7337 I JlptVoice: recordings: 58193
+11-19 23:01:21.208  7337  7337 I JlptVoice: clip 1308542f57f24126 played
+11-19 23:01:25.361  7337  7337 I JlptVoice: clip 9e0a2d9d03c2925b played
+11-19 23:01:31.963  7337  7337 I JlptVoice: clip 603b88145b61f739 played
+11-19 23:01:42.119  7337  7337 I JlptVoice: clip 603b88145b61f739 played
+11-19 23:01:46.410  7337  7337 I JlptVoice: clip 3d4ad2ae40f7987e played
+11-19 23:08:06.685  8342  8342 I JlptVoice: recordings: 58193
+11-19 23:08:06.728  8342  8342 I JlptVoice: clip 9aea1b73636340e5 played
+11-19 23:08:10.066  8342  8342 I JlptVoice: clip 56c088d473e3e495 played
+11-19 23:08:14.061  8342  8342 I JlptVoice: clip c88e98e022fc7fa9 played
